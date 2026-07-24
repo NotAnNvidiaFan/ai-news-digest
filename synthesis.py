@@ -30,6 +30,8 @@ Editorial rules:
 - Deduplicate: if several candidates cover the same story, pick the best source and cover it once.
 - Influencer takes must be actual quotes (or tight paraphrases marked as such) from real
   posts found via X search or from Bluesky candidates, with author and link.
+- Diversify influencer takes: at most ONE take per author per digest, and prefer takes
+  that add analysis or disagreement over plain product announcements.
 - Use at most {max_x_searches} X search calls and at most {max_web_searches} web search calls.
 
 Respond with ONLY a JSON object (no markdown fences, no commentary) matching:
