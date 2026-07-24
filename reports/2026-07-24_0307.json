@@ -1,0 +1,307 @@
+{
+ "digest": {
+  "overview": "Raw digest (no XAI_API_KEY set): unranked candidates grouped by type.",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "UPDATE - HuggingHack Is Now On Github",
+   "summary": "Due to encouragement to move my local huggingface project, it is now available on Github! Let me know your thoughts! Repo: https://github.com/tyedalwaves/HuggingHack/ submitted by /u/TyedalWaves [link] [comments]",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v4yljf/update_hugginghack_is_now_on_github/",
+   "source": "r/LocalLLaMA"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "UPDATE - HuggingHack Is Now On Github",
+     "summary": "Due to encouragement to move my local huggingface project, it is now available on Github! Let me know your thoughts! Repo: https://github.com/tyedalwaves/HuggingHack/ submitted by /u/TyedalWaves [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v4yljf/update_hugginghack_is_now_on_github/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "If MOEs have small experts (3B/4B/9B etc), then why can\u2019t we have small expert models as a whole rather than one large model with multiple experts? Like Qwen3.6-3B Coding Expert or something",
+     "summary": "Forgive me naiveness, I\u2019m a little lost. Why must a model be jack of all trades? Why can\u2019t we have a model expert in a single thing? submitted by /u/exaknight21 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v4x3k0/if_moes_have_small_experts_3b4b9b_etc_then_why/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "[audio.cpp] Release 0.4: Higgs Audio v3 TTS 4B (10x real time)+ Fish Audio S2 Pro in C++/GGML, full GGUF loading, Q8 speed and VRAM gains",
+     "summary": "audio.cpp again :) Release 0.4 is out. The headline this time is new high-quality TTS coverage plus GGUF becoming a first-class across the project. What\u2019s new: Added Higgs Audio v3 TTS 4B, Fish Audio S2 Pro, Voxtral Realtime ASR and two community models OuteTTS TTS and VieNeu-TTS-v3 audio.cpp now\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v4w5cj/audiocpp_release_04_higgs_audio_v3_tts_4b_10x/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "There's too much anti-AI hypocrisy on Reddit",
+     "summary": "I just need to rant for a minute and I'd appreciate it if you read this through. Everywhere on Reddit, people are constantly hating on AI, specifically LLMs like ChatGPT, Gemini, and Claude. Almost every time I post about my personal experience using AI, I get downvoted for \"contributing to the\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1v4w2ce/theres_too_much_antiai_hypocrisy_on_reddit/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "What if personal AI were a lifelong sovereign counterpart, rather than a disposable assistant?",
+     "summary": "Most AI assistants are designed around sessions, prompts and applications. Even when they gain memory, the basic relationship remains the same: you use a service owned by someone else, it sees fragments of your life, and it optimizes each interaction separately. I have been working on a different\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1v4w029/what_if_personal_ai_were_a_lifelong_sovereign/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "How much are RTX PRO 6000s going for in your country/state?",
+     "summary": "Hello guys, hoping you're doing fine! On the last 2-3 months, price of the RTX 6000 PRO seem to have gone insane. I will start on the price here on my country, Chile: RTX 6000 PRO Workstation Edition: 21382 USD post 19% tax. RTX 6000 PRO MaxQ Workstation Edition: 20669 USD post 19% tax. RTX 6000\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v4vsiq/how_much_are_rtx_pro_6000s_going_for_in_your/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Internet Disruption ?",
+     "summary": "Complete AI novice here. I noticed shortly after an Anthropic outage, AT&T, Amazon Alexa, and Microsoft suffered outages in the same day. On top of that, there's just a lot of activity on Downdetector. It seems Anthropic's outage came first. Is any of that tied back to Claude? Maybe these\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1v4uik0/internet_disruption/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "AI Regulation",
+     "summary": "submitted by /u/HooverInstitution [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1v4uar3/ai_regulation/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "AI Could Impact Women's Jobs Nearly 3\u00d7 More Than Men's. Are We Ignoring It?",
+     "summary": "I've been thinking about the way AI is reshaping the labor market, and I feel like one part of the conversation is being overlooked. Right now, AI is exceptionally good at automating structured, information-heavy work: administrative tasks, customer support, bookkeeping, scheduling, documentation,\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1v4t4oi/ai_could_impact_womens_jobs_nearly_3_more_than/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "AMD inks deal with AI chip startup Cerebras",
+     "summary": "submitted by /u/gamersecret2 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1v4szss/amd_inks_deal_with_ai_chip_startup_cerebras/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "98.css",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49028927",
+     "url": "https://jdan.github.io/98.css/#status-bar",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Tested (the updated) Gemma 4 locally on coding with OpenCode",
+     "summary": "Gemma 4 was updated (mostly chat templates) and I took it for a test. On a local llama.cpp server running on M5 Pro with 48GB, 26B A4B (Q6) has about 60t/s and works well with OpenCode. It works quite well (given it's size) for backend work, but UI/UX is unacceptable. Watch the testing\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v4sm2m/tested_the_updated_gemma_4_locally_on_coding_with/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Truss: New single-user local harness",
+     "summary": "I've not been finding the existing harnesses completely comfortable for me, so I put something together myself, focusing on comfort and reasonable security* (Yes, I will explain it). So here it is, Truss: The starter screen, rather simple. Installer :\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v4sddn/truss_new_singleuser_local_harness/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "How to verify an AI classification of emails",
+     "summary": "So some days ago I asked in this community what kind of AI model should I use (and how could I use one) to classify several email replies that I had from scientists after asking them a few questions to them. I finally paid for Perplexity pro service and it apparenly did a nice job classifying\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1v4rueq/how_to_verify_an_ai_classification_of_emails/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "NeurIPS E and D, Average rating 3 and average confidence 4, I can rebuttal and address all their concerns? Do I still have a decent shot or unlikely ?[R]",
+     "summary": "NeurIPS E and D track review are out today and the average rating I received is a 3 and confidence is a 4. I can correct and address all their concerns. Do I still have a genuine shot of getting in or is it basically impossible at this point since none of my scores are a 4 or 5? Should I withdraw?\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1v4qrv9/neurips_e_and_d_average_rating_3_and_average/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Tell HN: Namecheap gave my account to an unverified third party",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49028037",
+     "url": "https://news.ycombinator.com/item?id=49028037",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "I compared local models and different quants / config on a subset of swe-verified bench",
+     "summary": "And gathered a lot of data. you can see them for yourself And For the most curious, there are additional details here In this graph, I regrouped the finetunes under their base models. but you can see the details in the page. The python code to generate those pages is obviously vibecoded. I find\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v4qq4x/i_compared_local_models_and_different_quants/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Stripe in talks to buy OpenRouter for ~10B",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49027985",
+     "url": "https://www.wsj.com/tech/ai/stripe-in-talks-to-buy-buzzy-ai-model-marketplace-openrouter-decc6a74",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Running Qwen 3.6 35B MoE (Q4_K_M) on a Zeus (Xiaomi 12 Pro, 12GB RAM)",
+     "summary": "Shoutout to this awesome guy - https://www.reddit.com/r/LLM/s/IDUyU3v9ap Thanks to his project, BigMoeOnEdge https://github.com/Helldez/BigMoeOnEdge , I managed to successfully run a 35B MoE model on just 12GB of RAM! My setup is a modified Xiaomi 12 Pro (12GB RAM) that I call \"Zeus\".\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v4q5gm/running_qwen_36_35b_moe_q4_k_m_on_a_zeus_xiaomi/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Grok on X: \"Grok 4.5 is now available across web, X, and the iOS and Android apps.",
+     "summary": "It is available to all accounts on all platform now. What do you feel about the new model so far? For those not certain, try to start a new window to ensure it routes to the 4.5 Grok model. submitted by /u/Ready-Independent108 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1v4p2tu/grok_on_x_grok_45_is_now_available_across_web_x/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Laguna-S-2.1 \"thinking forever\" loops seem to be a quantization artifact",
+     "summary": "If you're running Laguna S 2.1 on llama.cpp and hitting thinking loops because it won't close its </think> tags, you might want to look at your quant before you spend too much time tweaking settings. I spent a day debugging this, and here is what finally gave me clean outputs: 1. What worked for\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v4p2f9/lagunas21_thinking_forever_loops_seem_to_be_a/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Would ChatGPT be more useful if it interrupted us more often?",
+     "summary": "Most AI assistants seem designed to complete the task with as little friction as possible. I\u2019m starting to think that isn\u2019t always helpful. If I ask ChatGPT to draft an important email, analyze a spreadsheet, or plan something complicated, it can often produce a polished answer while quietly\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1v4oag7/would_chatgpt_be_more_useful_if_it_interrupted_us/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "I \"learned\" electronics to build a PWM fan controller for my ghetto server",
+     "summary": "Original post: https://www.reddit.com/r/LocalLLaMA/comments/1tpdt5m/behold_probably_the_most_ghetto_local_ai_server/ I promised a writeup, but didn't have time yet, sorry. I barely had time to do this controller. submitted by /u/MackThax [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v4o5yr/i_learned_electronics_to_build_a_pwm_fan/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Is Wall Street finally questioning whether the AI boom can ever justify its enormous cost?",
+     "summary": "submitted by /u/bauernebel [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1v4o3rt/is_wall_street_finally_questioning_whether_the_ai/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Show HN: Echo \u2013 Fable-level results at 1/3 the cost using open-weight models",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49026810",
+     "url": "https://news.ycombinator.com/item?id=49026810",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "GPT-5.5 Scores 10.6% on ActiveVision, Humans Hit 96.1% [R]",
+     "summary": "The interesting finding from a new [arXiv paper]( https://arxiv.org/abs/2607.16165 ) isn't that a frontier vision model failed a new benchmark, that happens weekly, but the specific shape of the failure and the fact that the models cannot patch it by writing their own code. The benchmark, called\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1v4ns8l/gpt55_scores_106_on_activevision_humans_hit_961_r/",
+     "source": "r/MachineLearning"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+     "summary": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI\u2019s and Anthropic\u2019s guardrails affect their work.",
+     "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Alexa Plus is getting an AI update to handle more complicated instructions",
+     "summary": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, which is currently in preview, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and others, while\u2026",
+     "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "AMD takes on Nvidia with its Helios AI rack-scale system",
+     "summary": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
+     "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems",
+     "summary": "Bill would let Homeland Security chief decide when an AI should be shut down.",
+     "url": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
+     "source": "Ars Technica AI"
+    }
+   ],
+   "influencer_takes": [],
+   "research_radar": [
+    {
+     "headline": "The first known runaway AI agent - or a very bad marketing stunt?",
+     "summary": "The first known runaway AI agent - or a very bad marketing stunt? Martin Alderson's commentary on the OpenAI accidental cyberattack against Hugging Face includes a couple of details I hadn't considered. First, Hugging Face offers a truly rich target if you're trying to find potential\u2026",
+     "url": "https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "finna/Finn-loop: The Finn-loop: a 3-skill AI software factory for Claude Code \u2014 spec, build, review. Humans merge.",
+     "summary": "The Finn-loop: a 3-skill AI software factory for Claude Code \u2014 spec, build, review. Humans merge.",
+     "url": "https://github.com/finna/Finn-loop",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "krakonjac300-pixel/podcast-shorts-factory: Ten cooperating AI agents that turn long podcasts into short-form videos, automatically. Free and open source, runs on free AI providers.",
+     "summary": "Ten cooperating AI agents that turn long podcasts into short-form videos, automatically. Free and open source, runs on free AI providers.",
+     "url": "https://github.com/krakonjac300-pixel/podcast-shorts-factory",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "hahhforest/pi-textbook: \u300a\u52a8\u624b\u5b66 Pi\u300b\uff1a\u6cbf 15 \u4e2a\u771f\u5b9e checkpoint \u4ece\u96f6\u6784\u5efa Pi-style Agent",
+     "summary": "\u300a\u52a8\u624b\u5b66 Pi\u300b\uff1a\u6cbf 15 \u4e2a\u771f\u5b9e checkpoint \u4ece\u96f6\u6784\u5efa Pi-style Agent",
+     "url": "https://github.com/hahhforest/pi-textbook",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "risa-labs-inc/BossConsole: Open-source, multi-platform harness for AI agents \u2014 a native, multi-threaded operator's console (JVM, not Electron) to run Claude Code, Codex, Gemini or OpenCode with a\u2026",
+     "summary": "Open-source, multi-platform harness for AI agents \u2014 a native, multi-threaded operator's console (JVM, not Electron) to run Claude Code, Codex, Gemini or OpenCode with a real browser, terminal, editor, secrets & 100+ MCP tools. Built for enterprises, science & research.",
+     "url": "https://github.com/risa-labs-inc/BossConsole",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "eli-labz/Agent-Execution-Partnership: Agent Execution Partnership AEE is an open-source control plane that ensures every AI agent action is authorized before it runs, observable while it runs, and\u2026",
+     "summary": "Agent Execution Partnership AEE is an open-source control plane that ensures every AI agent action is authorized before it runs, observable while it runs, and verifiable after it completes.",
+     "url": "https://github.com/eli-labz/Agent-Execution-Partnership",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "izeigerman/claude-thermos: Keeps your Claude session warm for you",
+     "summary": "Keeps your Claude session warm for you",
+     "url": "https://github.com/izeigerman/claude-thermos",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "TryCaspian/caspian-sdk: One identity for your AI agent across Slack, Discord, Telegram, WhatsApp, Instagram, email, SMS, X \u2014 a single on_message handler. Open-source channel adapters + bot SDK\u2026",
+     "summary": "One identity for your AI agent across Slack, Discord, Telegram, WhatsApp, Instagram, email, SMS, X \u2014 a single on_message handler. Open-source channel adapters + bot SDK (Python & TypeScript) + CLI.",
+     "url": "https://github.com/TryCaspian/caspian-sdk",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "ailinone/collective-intelligence: Ailin\u00b9 is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategies, applying\u2026",
+     "summary": "Ailin\u00b9 is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategies, applying structured diversity and independent reasoning to improve reliability, auditability, and resilience.",
+     "url": "https://github.com/ailinone/collective-intelligence",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "NullLabTests/software-periodic-table: A finite ontology of 115 recurring software elements and a composition framework for LLM-based coding agents",
+     "summary": "A finite ontology of 115 recurring software elements and a composition framework for LLM-based coding agents",
+     "url": "https://github.com/NullLabTests/software-periodic-table",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "pazo01/awesome-cyber-ai-arsenal: A curated collection of offensive, defensive and AI/LLM security tools.",
+     "summary": "A curated collection of offensive, defensive and AI/LLM security tools.",
+     "url": "https://github.com/pazo01/awesome-cyber-ai-arsenal",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "Vincentwei1021/video-shotcraft: AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
+     "summary": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
+     "url": "https://github.com/Vincentwei1021/video-shotcraft",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "smixs/mentor: mentor \u2014 a session-insights skill for AI coding agents. This skill reads your local Claude Code and OpenAI Codex history and writes an /insights-style HTML report on how you work: what\u2026",
+     "summary": "mentor \u2014 a session-insights skill for AI coding agents. This skill reads your local Claude Code and OpenAI Codex history and writes an /insights-style HTML report on how you work: what you build, where you lose time, and concrete fixes. An agent skill for Claude Code, Codex, and any skills-capable\u2026",
+     "url": "https://github.com/smixs/mentor",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "Prism-Shadow/penguin-harness: \ud83d\udc27 Your Automated Agent Builder Lives on Your Desktop",
+     "summary": "\ud83d\udc27 Your Automated Agent Builder Lives on Your Desktop",
+     "url": "https://github.com/Prism-Shadow/penguin-harness",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "livetennisapi/livetennisapi-mcp: MCP server for the Live Tennis API \u2014 give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability",
+     "summary": "MCP server for the Live Tennis API \u2014 give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability",
+     "url": "https://github.com/livetennisapi/livetennisapi-mcp",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "Saivineeth147/lora-speedrun: Speedrunning LoRA fine-tuning: frozen task, frozen hardware, public wall-clock leaderboard. modded-nanogpt for fine-tuning.",
+     "summary": "Speedrunning LoRA fine-tuning: frozen task, frozen hardware, public wall-clock leaderboard. modded-nanogpt for fine-tuning.",
+     "url": "https://github.com/Saivineeth147/lora-speedrun",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-07-24T03:07+00:00",
+  "window_start": "2026-07-23T19:07+00:00",
+  "window_end": "2026-07-24T03:07+00:00",
+  "candidate_count": 46,
+  "model": "raw (no LLM)"
+ }
+}
