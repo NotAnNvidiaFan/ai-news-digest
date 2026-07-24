@@ -1,0 +1,109 @@
+{
+ "digest": {
+  "overview": "Anthropic's Claude Opus 5 launch dominates the window, claiming near-Fable 5 performance with stronger safeguards and standout scores like 30.2% on ARC-AGI 3. Parallel policy pushback from Nvidia, Meta, and Microsoft against open-weight restrictions highlights U.S.-China AI tensions, while Midjourney and Cognition acquisitions show product diversification.",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Anthropic releases Claude Opus 5, close to Fable 5 capabilities",
+   "summary": "Opus 5 posts 30.2% on ARC-AGI 3, claims perfect IMO score and second place on SimpleBench (1% behind Fable). Cheaper and less restrictive than Fable per Anthropic, with classifiers intervening 85% less often.",
+   "why_it_matters": "Positions Anthropic as direct Fable rival via faster iteration and scaled RL; early tester notes it matches Fable on short tasks but lags on ambitious long ones.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
+   "source": "The Verge"
+  },
+  "sentiment": {
+   "label": "bullish",
+   "score": 0.7,
+   "summary": "Community excited by Opus 5 benchmarks and iteration speed vs Fable; open-weight lobbying adds policy tension but model news drives optimism."
+  },
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Anthropic launches Claude Opus 5",
+     "summary": "New flagship model nears Fable 5 performance at lower cost with fewer restrictions.",
+     "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+     "source": "TechCrunch"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Nvidia, Meta, Microsoft urge against broad open-weight restrictions",
+     "summary": "20+ firms sign letter warning policymakers on premature curbs amid Chinese AI and distillation concerns.",
+     "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
+     "source": "TechCrunch"
+    },
+    {
+     "headline": "Cognition acquires Poke for AI personality edge",
+     "summary": "Deal values Poke in low nine figures; adds conversational style to Devin coding agent.",
+     "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+     "source": "TechCrunch"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Ethan Mollick",
+     "handle": "@emollick",
+     "quote": "In my testing, Opus 5 replaced Opus 4.8 for me, it was generally stronger in everything... except it shares some of the weird language quirks of Fable.",
+     "context": "Early access tester highlights strengths and Fable-like quirks on creative tasks.",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mrfwfkcqss2v"
+    },
+    {
+     "author": "Nathan Lambert",
+     "handle": "@natolambert",
+     "quote": "Insane numbers for opus 5, the power of faster iteration speed + scaled RL (Fable too big to RL as well, yet).",
+     "context": "Notes safeguards improvement and RL scaling advantage over larger rivals.",
+     "url": "https://bsky.app/profile/natolambert.bsky.social/post/3mrftqnz6t32d"
+    },
+    {
+     "author": "Ethan Mollick",
+     "handle": "@emollick",
+     "quote": "I had access to Opus 5 before release and found it to be a good model if a quirky one. On shorter tasks, it could match or beat Fable levels of performance, at longer tasks it seemed less ambitious.",
+     "context": "Contrasts short vs long task performance pre-release.",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mrfvle2bys2v"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Team uses AlphaFold to redesign gene-editing proteins for safety",
+     "summary": "Google's AlphaFold identifies mistake-prone parts of editing proteins.",
+     "url": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
+     "source": "Ars Technica"
+    },
+    {
+     "headline": "[Paper] Statistically-Lossless Quantization of Large Language Models",
+     "summary": "Addresses compression-fidelity tradeoffs beyond GPTQ/AWQ or purely lossless methods.",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v5j35f/paper_statisticallylossless_quantization_of_large/",
+     "source": "r/LocalLLaMA"
+    }
+   ]
+  },
+  "post_ideas": [
+   {
+    "hook": "Opus 5 just matched Fable on short tasks but skipped the long ambitious ones",
+    "draft": "Early testers say Opus 5 beats or ties Fable on quick work yet delivers less complete results on extended agentic tasks. The RL iteration edge is real, but ambition gap persists.",
+    "why_viral": "Highlights concrete performance nuance in the new model race right after launch.",
+    "based_on_url": "https://bsky.app/profile/emollick.bsky.social/post/3mrfvle2bys2v"
+   },
+   {
+    "hook": "20+ firms including Nvidia and Meta just told regulators: hands off open weights",
+    "draft": "Nvidia, Meta, Microsoft and others signed today's open letter against premature open-weight bans, explicitly separating distillation from theft. Policy fight heating up.",
+    "why_viral": "Direct industry pushback on U.S. China AI response creates clear sides and stakes.",
+    "based_on_url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/"
+   },
+   {
+    "hook": "Midjourney just bought an astrology app",
+    "draft": "Midjourney acquires Co-Star, the personalized astrology app, after moving from cat pics to ultrasound scans. AI labs keep expanding into unexpected verticals.",
+    "why_viral": "Surprising acquisition signals broader AI product ambitions beyond core generation.",
+    "based_on_url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition"
+   }
+  ]
+ },
+ "meta": {
+  "generated_at": "2026-07-24T19:52+00:00",
+  "window_start": "2026-07-24T13:11+00:00",
+  "window_end": "2026-07-24T19:52+00:00",
+  "candidate_count": 57,
+  "model": "grok-4-1-fast-reasoning",
+  "input_tokens": 30874,
+  "output_tokens": 2461,
+  "est_token_cost_usd": 0.0074
+ }
+}
