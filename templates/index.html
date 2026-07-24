@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI News Digest</title>
+<style>
+  :root {
+    --bg: #0c0f14; --card: #141922; --card-hover: #1a2130; --border: #232b3a;
+    --text: #dfe6f0; --muted: #8b98ab; --accent: #5eb1ff; --accent2: #a78bfa;
+    --good: #4ade80; --bad: #f87171; --mid: #fbbf24;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text);
+         font: 16px/1.6 -apple-system, "Segoe UI", Roboto, sans-serif; }
+  .wrap { max-width: 760px; margin: 0 auto; padding: 40px 20px 64px; }
+  a { color: inherit; text-decoration: none; }
+  h1 { font-size: 28px; margin: 0; }
+  .sub { color: var(--muted); font-size: 14.5px; margin: 6px 0 30px; }
+  .latest { display: block; background: linear-gradient(135deg, #16203a, #1b1530);
+            border: 1px solid var(--border); border-radius: 14px; padding: 22px 24px;
+            margin-bottom: 30px; }
+  .latest:hover { border-color: var(--accent2); }
+  .latest .label { font-size: 12px; letter-spacing: 2px; text-transform: uppercase; color: var(--accent2); }
+  .latest h2 { margin: 8px 0 4px; font-size: 21px; }
+  .meta { color: var(--muted); font-size: 13.5px; }
+  .run { display: flex; justify-content: space-between; align-items: baseline; gap: 14px;
+         background: var(--card); border: 1px solid var(--border); border-radius: 10px;
+         padding: 13px 18px; margin-bottom: 10px; }
+  .run:hover { background: var(--card-hover); }
+  .run .headline { font-size: 15.5px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .run .stamp { color: var(--muted); font-size: 13px; flex-shrink: 0; }
+  .badge { font-size: 11.5px; padding: 2px 9px; border-radius: 999px; flex-shrink: 0;
+           border: 1px solid var(--border); color: var(--muted); }
+  .badge.sent-bullish, .badge.sent-optimistic { color: var(--good); border-color: var(--good); }
+  .badge.sent-mixed { color: var(--mid); border-color: var(--mid); }
+  .badge.sent-skeptical, .badge.sent-anxious { color: var(--bad); border-color: var(--bad); }
+  .empty { color: var(--muted); text-align: center; padding: 60px 0; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>AI News Digest</h1>
+  <p class="sub">Three times a day. Only what happened since the last check.</p>
+
+  {% if latest %}
+  <a class="latest" href="{{ latest.href }}">
+    <div class="label">Latest &middot; {{ latest.stamp }}</div>
+    <h2>{{ latest.headline }}</h2>
+    <div class="meta">{{ latest.item_count }} items{% if latest.sentiment %} &middot; mood: {{ latest.sentiment }}{% endif %}</div>
+  </a>
+  {% endif %}
+
+  {% for run in runs[1:] %}
+  <a class="run" href="{{ run.href }}">
+    <span class="headline">{{ run.headline }}</span>
+    {% if run.sentiment %}<span class="badge sent-{{ run.sentiment | lower }}">{{ run.sentiment }}</span>{% endif %}
+    <span class="stamp">{{ run.stamp }}</span>
+  </a>
+  {% endfor %}
+
+  {% if not runs %}
+  <p class="empty">No reports yet. The first scheduled run will appear here.</p>
+  {% endif %}
+</div>
+</body>
+</html>

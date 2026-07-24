@@ -1,0 +1,87 @@
+# All discovery sources. Edit freely -- fetchers log and skip anything that fails.
+
+settings:
+  max_items_per_feed: 25       # cap per RSS feed per run (arXiv etc. can flood)
+  summary_max_chars: 300
+  max_candidates: 130          # hard cap on items sent to the LLM per run
+  window_hours_default: 8      # window when no last_run state exists
+  window_hours_max: 24         # clamp if runs were skipped for a long time
+
+synthesis:
+  model: grok-4-1-fast-reasoning   # verify against GET https://api.x.ai/v1/models
+  x_search: true
+  web_search: true
+  restrict_x_to_curated: true      # pass top-20 curated handles as allowed_x_handles
+  max_output_tokens: 8000
+
+rss_feeds:
+  # --- Tier 1: labs & companies ---
+  - {name: OpenAI Blog,            url: "https://openai.com/news/rss.xml",                                  category: labs}
+  - {name: Google DeepMind,        url: "https://deepmind.google/blog/feed/basic/",                         category: labs}
+  - {name: Google AI Blog,         url: "https://blog.google/technology/ai/rss/",                           category: labs}
+  - {name: Meta Engineering,       url: "https://engineering.fb.com/feed/",                                 category: labs}
+  - {name: Mistral AI,             url: "https://mistral.ai/rss.xml",                                       category: labs}
+  - {name: Microsoft Research,     url: "https://www.microsoft.com/en-us/research/feed/",                   category: labs}
+  - {name: NVIDIA Blog,            url: "https://blogs.nvidia.com/feed/",                                   category: labs}
+  - {name: Hugging Face Blog,      url: "https://huggingface.co/blog/feed.xml",                             category: labs}
+  - {name: Qwen Blog,              url: "https://qwenlm.github.io/blog/index.xml",                          category: labs}
+  - {name: AI2 Blog,               url: "https://medium.com/feed/ai2-blog",                                 category: labs}
+
+  # --- Tier 1: research ---
+  - {name: arXiv cs.AI,            url: "https://rss.arxiv.org/rss/cs.AI",                                  category: research, max_items: 20}
+  - {name: arXiv cs.CL,            url: "https://rss.arxiv.org/rss/cs.CL",                                  category: research, max_items: 20}
+  - {name: arXiv cs.LG,            url: "https://rss.arxiv.org/rss/cs.LG",                                  category: research, max_items: 20}
+  - {name: Alignment Forum,        url: "https://www.alignmentforum.org/feed.xml",                          category: research}
+
+  # --- Tier 1: media ---
+  - {name: MIT Tech Review AI,     url: "https://www.technologyreview.com/topic/artificial-intelligence/feed", category: media}
+  - {name: The Verge AI,           url: "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", category: media}
+  - {name: Ars Technica AI,        url: "https://arstechnica.com/ai/feed/",                                 category: media}
+  - {name: TechCrunch AI,          url: "https://techcrunch.com/category/artificial-intelligence/feed/",    category: media}
+  - {name: VentureBeat AI,         url: "https://venturebeat.com/category/ai/feed/",                        category: media}
+  - {name: IEEE Spectrum AI,       url: "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss", category: media}
+  - {name: Wired AI,               url: "https://www.wired.com/feed/tag/ai/latest/rss",                     category: media}
+
+  # --- Tier 1: aggregators / community blogs ---
+  - {name: AI News (smol.ai),      url: "https://news.smol.ai/rss.xml",                                     category: aggregator}
+  - {name: Simon Willison,         url: "https://simonwillison.net/atom/everything/",                       category: newsletter}
+
+  # --- Tier 3: newsletters & analysts ---
+  - {name: Interconnects,          url: "https://www.interconnects.ai/feed",                                category: newsletter}
+  - {name: Import AI,              url: "https://importai.substack.com/feed",                               category: newsletter}
+  - {name: AI Snake Oil,           url: "https://www.aisnakeoil.com/feed",                                  category: newsletter}
+  - {name: Latent Space,           url: "https://www.latent.space/feed",                                    category: newsletter}
+  - {name: Ahead of AI,            url: "https://magazine.sebastianraschka.com/feed",                       category: newsletter}
+  - {name: Don't Worry About the Vase, url: "https://thezvi.substack.com/feed",                             category: newsletter}
+  - {name: One Useful Thing,       url: "https://www.oneusefulthing.org/feed",                              category: newsletter}
+  - {name: SemiAnalysis,           url: "https://semianalysis.com/feed/",                                   category: newsletter}
+  - {name: ChinaTalk,              url: "https://www.chinatalk.media/feed",                                 category: newsletter}
+  - {name: Marginal Revolution,    url: "https://marginalrevolution.com/feed",                              category: newsletter}
+  - {name: Stratechery,            url: "https://stratechery.com/feed/",                                    category: newsletter}
+  - {name: Ben's Bites,            url: "https://www.bensbites.com/feed",                                   category: newsletter}
+
+hackernews:
+  queries: ["AI", "LLM", "GPT", "Claude", "Gemini", "Grok", "DeepSeek", "open weights"]
+  min_points: 25
+
+# Reddit JSON endpoints block non-browser clients, so the fetcher uses the RSS
+# endpoints of each subreddit's "hot" listing (already engagement-ranked).
+reddit:
+  max_per_subreddit: 10
+  subreddits: [LocalLLaMA, MachineLearning, singularity, artificial]
+
+github:
+  topics: ["llm", "generative-ai", "ai-agents"]
+  min_stars: 40
+  lookback_days: 7    # trending = created recently + stars; seen.json prevents repeats
+
+bluesky:
+  min_likes: 20
+  handles:
+    - simonwillison.net
+    - emollick.bsky.social
+    - hamel.bsky.social
+    - jeremyphoward.bsky.social
+    - drjimfan.bsky.social
+    - natolambert.bsky.social
+    - randomwalker.bsky.social

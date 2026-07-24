@@ -1,0 +1,43 @@
+name: AI News Digest
+
+on:
+  schedule:
+    # 3x daily: 7am, 1pm, 7pm US Central (12:00, 18:00, 00:00 UTC)
+    - cron: "0 0,12,18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: digest
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run digest
+        env:
+          XAI_API_KEY: ${{ secrets.XAI_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python aggregate.py
+
+      - name: Commit report
+        run: |
+          git config user.name "digest-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git pull --rebase
+          git add reports state index.html
+          git commit -m "digest: $(date -u +'%Y-%m-%d %H:%M') UTC" || echo "nothing to commit"
+          git push

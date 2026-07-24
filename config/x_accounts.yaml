@@ -1,0 +1,48 @@
+# Curated X/Twitter accounts for the influencer-takes section.
+# "core" (max 20) is passed to the xAI x_search tool as allowed_x_handles when
+# restrict_x_to_curated is true in feeds.yaml. "extended" names are mentioned in
+# the prompt as priority voices but are only reachable when restriction is off.
+
+core:
+  - karpathy          # Andrej Karpathy
+  - sama              # Sam Altman
+  - ylecun            # Yann LeCun
+  - demishassabis     # Demis Hassabis
+  - DrJimFan          # Jim Fan (NVIDIA)
+  - DarioAmodei       # Dario Amodei (Anthropic)
+  - AndrewYNg         # Andrew Ng
+  - elonmusk          # Elon Musk (xAI)
+  - gdb               # Greg Brockman (OpenAI)
+  - swyx              # Shawn Wang (Latent Space)
+  - simonw            # Simon Willison
+  - emollick          # Ethan Mollick
+  - natolambert       # Nathan Lambert (Interconnects)
+  - JeffDean          # Jeff Dean (Google)
+  - OfficialLoganK    # Logan Kilpatrick (Google)
+  - alexandr_wang     # Alexandr Wang (Meta)
+  - clementdelangue   # Clement Delangue (Hugging Face)
+  - EpochAIResearch   # Epoch AI
+  - _jasonwei         # Jason Wei
+  - tszzl             # roon
+
+extended:
+  - natfriedman
+  - soumithchintala
+  - ID_AA_Carmack
+  - fchollet
+  - hardmaru
+  - iScienceLuvr
+  - rowancheung
+  - kimmonismus
+  - scaling01
+  - nearcyan
+  - teortaxesTex
+  - Yuchenj_UW
+  - amasad
+  - garrytan
+  - EMostaque
+  - abacaj
+  - rasbt
+  - jeremyphoward
+  - GaryMarcus
+  - polynoamial
