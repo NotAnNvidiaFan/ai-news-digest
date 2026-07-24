@@ -1,0 +1,95 @@
+{
+ "digest": {
+  "overview": "Grok 4.5 rollout dominated the short overnight window, with xAI pushing broad availability and Elon Musk highlighting speed, cost-efficiency, and early capability wins. Hardware moves at AMD and a notable OpenAI hire rounded out frontier activity; local tooling and agent experiments filled the rest.",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Grok 4.5 rolls out to all platforms",
+   "summary": "xAI's latest model is now live across grok.com, X, iOS, and Android apps. Early reports show surging OpenRouter usage, strong token efficiency, and claims of solving a long-open graph theory conjecture.",
+   "why_it_matters": "Elon noted it is 'very fast, cost-effective' and 'making progress' against leaders like Fable, with one example of cracking Graffiti Conjecture 284 (later noted as copying a recent proof).",
+   "url": "https://www.reddit.com/r/artificial/comments/1v4p2tu/grok_on_x_grok_45_is_now_available_across_web_x/",
+   "source": "r/artificial"
+  },
+  "sentiment": {
+   "label": "bullish",
+   "score": 0.7,
+   "summary": "Community excited by Grok 4.5's speed/cost claims and availability push; Elon's multiple posts amplified visibility and usage metrics."
+  },
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Grok 4.5 now available everywhere",
+     "summary": "Full rollout across web, X, and mobile apps; early benchmarks emphasize latency and price/performance.",
+     "url": "https://www.reddit.com/r/artificial/comments/1v4p2tu/grok_on_x_grok_45_is_now_available_across_web_x/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "audio.cpp 0.4 adds Higgs Audio v3 TTS 4B and more",
+     "summary": "New 10x realtime TTS, Fish Audio S2 Pro, Voxtral ASR, plus GGUF/Q8 optimizations in C++/GGML.",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v4w5cj/audiocpp_release_04_higgs_audio_v3_tts_4b_10x/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "AMD unveils Helios rack-scale AI system",
+     "summary": "Direct challenge to Nvidia with new rack-scale offering shipping later this year.",
+     "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "AMD inks deal with Cerebras",
+     "summary": "Partnership expands AMD's AI chip ecosystem.",
+     "url": "https://www.reddit.com/r/artificial/comments/1v4szss/amd_inks_deal_with_ai_chip_startup_cerebras/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Fields medalist Jacob Tsimerman joins OpenAI",
+     "summary": "Mathematician hire signals continued talent push.",
+     "url": "https://www.reddit.com/r/singularity/comments/1v4p6qj/fields_medalist_jacob_tsimerman_joins_openai/",
+     "source": "r/singularity"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Elon Musk",
+     "handle": "@elonmusk",
+     "quote": "Grok 4.5 is the best value for money AI",
+     "context": "Direct endorsement amid rollout and usage surge on OpenRouter.",
+     "url": "https://x.com/elonmusk/status/2080421213411946941"
+    },
+    {
+     "author": "Elon Musk",
+     "handle": "@elonmusk",
+     "quote": "Grok 4.5 making progress",
+     "context": "Highlighting token volume gains vs. GPT-5.6 Sol and others.",
+     "url": "https://x.com/elonmusk/status/2080389505438396555"
+    },
+    {
+     "author": "Elon Musk",
+     "handle": "@elonmusk",
+     "quote": "Grok 4.5 now on all platforms",
+     "context": "Announcement amplifying the broad availability push.",
+     "url": "https://x.com/elonmusk/status/2080351573675544984"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Simon Willison on first known runaway AI agent",
+     "summary": "Commentary on OpenAI incident involving Hugging Face, questioning if marketing stunt or real event.",
+     "url": "https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything",
+     "source": "Simon Willison"
+    }
+   ]
+  }
+ },
+ "meta": {
+  "generated_at": "2026-07-24T03:28+00:00",
+  "window_start": "2026-07-23T19:28+00:00",
+  "window_end": "2026-07-24T03:28+00:00",
+  "candidate_count": 51,
+  "model": "grok-4-1-fast-reasoning",
+  "input_tokens": 36273,
+  "output_tokens": 2292,
+  "est_token_cost_usd": 0.0084
+ }
+}
