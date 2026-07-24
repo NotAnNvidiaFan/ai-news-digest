@@ -2,8 +2,8 @@ name: AI News Digest
 
 on:
   schedule:
-    # 3x daily: 7am, 1pm, 7pm US Central (12:00, 18:00, 00:00 UTC)
-    - cron: "0 0,12,18 * * *"
+    # 3x daily, ~7:23am, 1:23pm, 7:23pm US Central (off-peak minute to reduce queue delay)
+    - cron: "23 0,12,18 * * *"
   workflow_dispatch:
 
 permissions:
