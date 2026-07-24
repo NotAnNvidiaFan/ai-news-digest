@@ -1,0 +1,107 @@
+{
+ "digest": {
+  "overview": "Open-weight advocacy hit Washington with a major industry letter; Black Forest Labs dropped FLUX 3 multimodal flow models; Hugging Face shipped The Stack v3 code corpus and swiss-ai released Apertus 70B/8B.",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Microsoft, NVIDIA, Meta, IBM, Palantir lead open-weights letter to Washington",
+   "summary": "Joint letter argues open weights are foundational to US AI leadership, expand access, and keep models economically sustainable.",
+   "why_it_matters": "Direct industry pushback against potential restrictions on open-weight models, signed by hardware and cloud leaders.",
+   "url": "https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/",
+   "source": "Microsoft"
+  },
+  "sentiment": {
+   "label": "bullish",
+   "score": 0.7,
+   "summary": "Community excited by FLUX 3 multimodal release and coordinated open-weights defense; focus on practical model drops over hype."
+  },
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Black Forest Labs releases FLUX 3 multimodal flow model",
+     "summary": "One model handles image, video, audio and action prediction; beats Seedance 2.0, Gemini Omni, Grok Imagine on real-world tasks.",
+     "url": "https://bfl.ai/blog/flux-3",
+     "source": "bfl.ai"
+    },
+    {
+     "headline": "Hugging Face ships The Stack v3",
+     "summary": "Largest open code dataset yet: near-deduplicated, quality-filtered, PII-redacted train split ready for load_dataset.",
+     "url": "https://huggingface.co/datasets/HuggingFaceCode/stack-v3-train",
+     "source": "Hugging Face"
+    },
+    {
+     "headline": "swiss-ai releases Apertus-v1.5 70B and 8B",
+     "summary": "Fully open, transparent, multilingual/multimodal models targeting broad language coverage.",
+     "url": "https://huggingface.co/swiss-ai/Apertus-v1.5-70B",
+     "source": "Hugging Face"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "NVIDIA hosts South Korea AI Summit with President Lee",
+     "summary": "Korean government and business leaders outline national AI roadmap with NVIDIA ecosystem partners.",
+     "url": "https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/",
+     "source": "NVIDIA"
+    },
+    {
+     "headline": "Industry coalition files open-weights letter",
+     "summary": "Microsoft, NVIDIA, Meta, IBM, Palantir and others warn against policies that would restrict open-weight models.",
+     "url": "https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/",
+     "source": "Microsoft"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Ethan Mollick",
+     "handle": "@emollick",
+     "quote": "Glad to see Google sharing data on how Gemini is being used. Especially interesting is that the usefulness of multimodal AI for manual labor may be greater than expected.",
+     "context": "Highlights rare public usage data on multimodal value in physical work contexts.",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mrek47chjc2v"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "JAXBench: Benchmarking autonomous TPU kernel optimization",
+     "summary": "First TPU-native benchmark suite for AI-generated kernel search, filling gap left by GPU-focused suites.",
+     "url": "https://arxiv.org/abs/2607.20466",
+     "source": "arXiv"
+    },
+    {
+     "headline": "InferenceBench: Benchmark for open-ended LLM inference optimization by AI agents",
+     "summary": "New benchmark targets agent-driven, open-ended inference optimization workflows beyond prescribed tasks.",
+     "url": "https://arxiv.org/abs/2607.20468",
+     "source": "arXiv"
+    }
+   ]
+  },
+  "post_ideas": [
+   {
+    "hook": "Open weights just got a heavyweight coalition",
+    "draft": "Microsoft, NVIDIA, Meta, IBM, Palantir et al. just told Washington: kill open-weight models and you kill US AI leadership. The letter is short and direct.",
+    "why_viral": "Timely policy tension with big names; readers love seeing industry pushback framed clearly.",
+    "based_on_url": "https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/"
+   },
+   {
+    "hook": "FLUX 3 drops as true multimodal backbone",
+    "draft": "Black Forest Labs FLUX 3: single flow model for image/video/audio/action prediction that reportedly beats Seedance 2.0, Gemini Omni and Grok Imagine. HN thread is live.",
+    "why_viral": "Surprise multimodal leap from a lab already known for strong image models; concrete benchmark claims.",
+    "based_on_url": "https://bfl.ai/blog/flux-3"
+   },
+   {
+    "hook": "The Stack v3 is here",
+    "draft": "Hugging Face just released The Stack v3, the largest open code dataset: near-deduplicated, PII-redacted, ready to load. Anton Lozhkov posted the links.",
+    "why_viral": "Direct tooling win for local/open training; community always engages with new high-quality datasets.",
+    "based_on_url": "https://huggingface.co/datasets/HuggingFaceCode/stack-v3-train"
+   }
+  ]
+ },
+ "meta": {
+  "generated_at": "2026-07-24T13:11+00:00",
+  "window_start": "2026-07-24T03:28+00:00",
+  "window_end": "2026-07-24T13:11+00:00",
+  "candidate_count": 95,
+  "model": "grok-4-1-fast-reasoning",
+  "input_tokens": 44688,
+  "output_tokens": 1923,
+  "est_token_cost_usd": 0.0099
+ }
+}
