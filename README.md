@@ -14,7 +14,9 @@ publishes a static HTML dashboard via GitHub Pages.
    `state/seen.json` (rolling 7 days) prevents repeats across runs.
 3. **Synthesis (xAI):** `grok-4.1-fast` receives the candidate pool, merges
    duplicates, picks a top story, writes why-it-matters blurbs, runs a capped
-   number of X Search calls for influencer takes, and scores community sentiment.
+   number of X Search calls for influencer takes (caps configurable in
+   `config/feeds.yaml`), scores community sentiment, and drafts 3 post ideas
+   ranked by viral potential.
 4. **Publish:** Jinja2 renders `reports/<stamp>.html` plus an archive
    `index.html`; the workflow commits them, and GitHub Pages serves the site.
 

@@ -48,6 +48,11 @@
   .take .quote { font-size: 15.5px; font-style: italic; color: var(--text); }
   .take .who { margin-top: 8px; font-size: 13.5px; color: var(--muted); }
   .take .ctx { margin-top: 4px; font-size: 13.5px; color: var(--muted); }
+  .idea { border-left: 3px solid var(--accent2); }
+  .idea .hook { font-size: 15px; font-weight: 600; margin-bottom: 8px; }
+  .idea .draft { color: var(--text) !important; background: var(--bg); border: 1px dashed var(--border);
+                 border-radius: 8px; padding: 10px 12px; margin: 0 0 8px !important; }
+  .idea .why { font-size: 13.5px !important; }
   .quiet { text-align: center; color: var(--muted); padding: 40px 0; font-size: 15px; }
   .empty { color: var(--muted); font-size: 14px; font-style: italic; }
   footer { margin-top: 44px; color: var(--muted); font-size: 12.5px;
@@ -128,6 +133,17 @@
 
   <h3 class="section">Research &amp; under the radar</h3>
   {{ item_cards(digest.sections.research_radar) }}
+
+  {% if digest.post_ideas %}
+  <h3 class="section">Post ideas (ranked by viral potential)</h3>
+  {% for idea in digest.post_ideas %}
+  <div class="card idea">
+    <div class="hook">{{ loop.index }}. {{ idea.hook }}</div>
+    <p class="draft">{{ idea.draft }}</p>
+    <p class="why">{{ idea.why_viral }}{% if idea.based_on_url %} &middot; <a href="{{ idea.based_on_url }}">source</a>{% endif %}</p>
+  </div>
+  {% endfor %}
+  {% endif %}
 
   <footer>
     Generated {{ meta.generated_at }} UTC

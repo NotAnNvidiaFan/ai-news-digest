@@ -30,8 +30,9 @@ Editorial rules:
 - Deduplicate: if several candidates cover the same story, pick the best source and cover it once.
 - Influencer takes must be actual quotes (or tight paraphrases marked as such) from real
   posts found via X search or from Bluesky candidates, with author and link.
-- Diversify influencer takes: at most ONE take per author per digest, and prefer takes
-  that add analysis or disagreement over plain product announcements.
+- Diversify influencer takes: at most ONE take per author per digest, draw from at least
+  three different authors when the window allows, and prefer takes that add analysis or
+  disagreement over plain product announcements.
 - Use at most {max_x_searches} X search calls and at most {max_web_searches} web search calls.
 
 Respond with ONLY a JSON object (no markdown fences, no commentary) matching:
@@ -45,12 +46,16 @@ Respond with ONLY a JSON object (no markdown fences, no commentary) matching:
     "frontier_labs": [{{"headline": "...", "summary": "...", "url": "...", "source": "..."}}],
     "influencer_takes": [{{"author": "Display Name", "handle": "@handle", "quote": "...", "context": "why this take matters", "url": "..."}}],
     "research_radar": [{{"headline": "...", "summary": "...", "url": "...", "source": "..."}}]
-  }}
+  }},
+  "post_ideas": [{{"hook": "one-line angle", "draft": "a ready-to-post draft, under 280 chars, no hashtags", "why_viral": "why this angle will resonate right now", "based_on_url": "..."}}]
 }}
 Section guide: model_releases = new models/weights/benchmarks/API changes.
 frontier_labs = strategy, people, funding, infra, policy moves at major labs.
 influencer_takes = 3-6 notable opinions with sentiment context.
 research_radar = papers, open-source projects, under-the-radar items worth knowing.
+post_ideas = exactly 3 suggestions for what the reader could post about, ranked by viral
+potential. Pick angles with tension, surprise, or a contrarian hook -- not summaries.
+Each draft must stand alone, reference the specific story, and stay under 280 characters.
 """
 
 USER_PROMPT = """\
@@ -151,7 +156,10 @@ def synthesize(candidates, window_start, window_end, syn_cfg, x_accounts):
     voices = ", ".join(
         "@" + h for h in (x_accounts.get("core", []) + x_accounts.get("extended", []))[:30]
     )
-    system = SYSTEM_PROMPT.format(max_x_searches=8, max_web_searches=2)
+    system = SYSTEM_PROMPT.format(
+        max_x_searches=syn_cfg.get("max_x_searches", 4),
+        max_web_searches=syn_cfg.get("max_web_searches", 2),
+    )
     user = USER_PROMPT.format(
         window_start=window_start.isoformat(timespec="minutes"),
         window_end=window_end.isoformat(timespec="minutes"),

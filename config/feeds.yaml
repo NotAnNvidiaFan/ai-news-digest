@@ -12,6 +12,8 @@ synthesis:
   x_search: true
   web_search: true
   restrict_x_to_curated: true      # pass top-20 curated handles as allowed_x_handles
+  max_x_searches: 4                # each search call costs $0.005
+  max_web_searches: 2
   max_output_tokens: 8000
 
 rss_feeds:
