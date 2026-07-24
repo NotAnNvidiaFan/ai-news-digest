@@ -19,13 +19,18 @@ core:
   - natolambert       # Nathan Lambert (Interconnects)
   - JeffDean          # Jeff Dean (Google)
   - OfficialLoganK    # Logan Kilpatrick (Google)
+  - t3dotgg           # Theo Browne
+  - MatthewBerman     # Matthew Berman
+  - mattshumer_       # Matt Shumer
+  - mreflow           # Matt Wolfe
+  - dwarkesh_sp       # Dwarkesh Patel
+
+extended:
   - alexandr_wang     # Alexandr Wang (Meta)
   - clementdelangue   # Clement Delangue (Hugging Face)
   - EpochAIResearch   # Epoch AI
   - _jasonwei         # Jason Wei
   - tszzl             # roon
-
-extended:
   - natfriedman
   - soumithchintala
   - ID_AA_Carmack
