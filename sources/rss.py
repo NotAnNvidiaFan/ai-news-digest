@@ -6,7 +6,14 @@ from datetime import datetime, timezone
 import feedparser
 import requests
 
-from . import USER_AGENT, clean_text, log, make_item
+from . import clean_text, log, make_item
+
+# Some feed hosts (e.g. Substack) return 403 to non-browser user agents from
+# datacenter IPs, so present as a regular browser.
+BROWSER_UA = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/126.0 Safari/537.36"
+)
 
 
 def _entry_time(entry):
@@ -21,7 +28,7 @@ def fetch(feeds, window_start, window_end, default_max_items=25, summary_max_cha
     for feed in feeds:
         name, url = feed["name"], feed["url"]
         try:
-            resp = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=25)
+            resp = requests.get(url, headers={"User-Agent": BROWSER_UA}, timeout=25)
             resp.raise_for_status()
             parsed = feedparser.parse(resp.content)
         except Exception as exc:

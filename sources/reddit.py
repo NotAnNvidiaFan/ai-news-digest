@@ -27,14 +27,14 @@ def fetch(cfg, window_start, window_end, summary_max_chars=300):
 
     for i, sub in enumerate(cfg.get("subreddits", [])):
         if i:
-            time.sleep(15)  # reddit throttles unauthenticated RSS to ~1 req / 15s per IP
+            time.sleep(20)  # reddit throttles unauthenticated RSS to roughly 1 req / 15s per IP
         url = f"https://www.reddit.com/r/{sub}/hot.rss?limit=50"
         parsed = None
         for attempt in range(2):
             try:
                 resp = requests.get(url, headers={"User-Agent": BROWSER_UA}, timeout=20)
                 if resp.status_code == 429 and attempt == 0:
-                    time.sleep(20)
+                    time.sleep(30)
                     continue
                 resp.raise_for_status()
                 parsed = feedparser.parse(resp.content)
