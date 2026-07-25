@@ -1,0 +1,101 @@
+{
+ "digest": {
+  "overview": "Open-weight models gain institutional momentum as Google endorses them and a prominent analysis frames the ecosystem as hitting a Kubernetes-like inflection. On-device AI advances with Apple exploring model compression startups and local inference tools proliferating. Cultural pushback emerges via librarian-led 'Avoiding AI' sessions amid steady local LLM experimentation.",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Open-weight AI is having its Kubernetes moment",
+   "summary": "Blog post argues open weights are maturing into standardized, composable infrastructure akin to early container orchestration, with broad ecosystem parallels.",
+   "why_it_matters": "Positions open models as production-ready defaults rather than experiments, accelerating adoption beyond hobbyists.",
+   "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+   "source": "Hacker News"
+  },
+  "sentiment": {
+   "label": "optimistic",
+   "score": 0.6,
+   "summary": "Community bullish on open/local progress and institutional signals like Google's stance; skepticism toward closed-lab opacity and minor backlash stories."
+  },
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "LFM 2.5 230M hits 1440 tok/s in-browser via custom WebGPU backend",
+     "summary": "Portable engine supports Nvidia/Apple Silicon with fused kernels; runs in browser or Electron/Tauri apps.",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v6e0uq/lfm_25_230m_running_at_1440_toks_inbrowser/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Kimi Linear 48B A3B MoE offers 1M context",
+     "summary": "Fast-running 48B-param model noted for speed vs Qwen 3.6 35B in local tests.",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v6f5vf/kimi_linear_48b_a3b/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Google publicly backs open-weight models",
+     "summary": "Statement positions Google against Anthropic on weights openness, aligning with every other major tech player.",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v6axx3/google_comes_out_in_favor_of_openweight_models_it/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Apple in talks with startup shrinking AI models for iPhone",
+     "summary": "Discussions center on efficient on-device inference amid hardware constraints.",
+     "url": "https://www.reddit.com/r/singularity/comments/1v6fuv1/apple_in_talks_with_startup_that_shrinks_ai/",
+     "source": "r/singularity"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Nathan Lambert",
+     "handle": "@natolambert.bsky.social",
+     "quote": "New (shorter) lecture! Over-optimization, foundations of reward hacking, sycophancy, verbosity, etc. ... rubrics are going to be prone to overopt in a way like reward models, where RLVR is its own thing.",
+     "context": "Timely fundamentals on RL pitfalls as open models proliferate and training debates intensify.",
+     "url": "https://bsky.app/profile/natolambert.bsky.social/post/3mri22tlpe72i"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Bringing PyTorch Monarch to AMD GPUs",
+     "summary": "Single-controller distributed training now available on ROCm, expanding open training options.",
+     "url": "https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Slipstream: streaming MoE experts from SSD for 35B-480B models on 36GB MacBook",
+     "summary": "Fork of llama.cpp keeps active weights resident, enabling large coding models locally with published failure benchmarks.",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v6eqvo/i_run_35b480b_coding_models_on_my_36_gb_macbook/",
+     "source": "r/LocalLLaMA"
+    }
+   ]
+  },
+  "post_ideas": [
+   {
+    "hook": "Google just joined the open-weights coalition\u2014Anthropic now stands alone among majors.",
+    "draft": "Google endorsing open weights makes it every major lab vs Anthropic. The infrastructure play is accelerating faster than closed APIs can contain.",
+    "why_viral": "Highlights rare public fracture among frontier labs with clear sides and ecosystem implications.",
+    "based_on_url": "https://www.reddit.com/r/LocalLLaMA/comments/1v6axx3/google_comes_out_in_favor_of_openweight_models_it/"
+   },
+   {
+    "hook": "Open weights just hit their Kubernetes moment according to this analysis.",
+    "draft": "Open-weight AI isn't niche anymore\u2014it's becoming the standardized, composable layer the whole ecosystem builds on. The shift is structural.",
+    "why_viral": "Analogy lands with technical readers and frames scattered local progress as coordinated movement.",
+    "based_on_url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/"
+   },
+   {
+    "hook": "Librarians running sold-out 'Avoiding AI' workshops nationwide.",
+    "draft": "Demand is so high that libraries are hosting workshops for people who want nothing to do with Big Tech AI. The backlash has a new mainstream venue.",
+    "why_viral": "Surprising cultural counter-trend with relatable institutional angle and viral workshop format.",
+    "based_on_url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/"
+   }
+  ]
+ },
+ "meta": {
+  "generated_at": "2026-07-25T19:39+00:00",
+  "window_start": "2026-07-25T14:06+00:00",
+  "window_end": "2026-07-25T19:39+00:00",
+  "candidate_count": 36,
+  "model": "grok-4-1-fast-reasoning",
+  "input_tokens": 15627,
+  "output_tokens": 2523,
+  "est_token_cost_usd": 0.0044
+ }
+}
