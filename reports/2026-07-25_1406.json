@@ -1,0 +1,82 @@
+{
+ "digest": {
+  "overview": "Claude Opus 5 launched July 24 with near-Fable performance at lower price; community dissects its non-monotonic effort dial on coding. Local LLM users push llama.cpp forks, persistent KV cache, and MTP speculative decoding wins. Data center grid fragility and AI job impact debates continue in parallel.",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Claude Opus 5 ships with Fable-level smarts at half the price",
+   "summary": "Anthropic's latest Opus tier model delivers step-change agentic and coding gains, matching frontier Fable intelligence while priced competitively. Early tests flag non-monotonic effort scaling above 'high' on FrontierCode benchmarks.",
+   "why_it_matters": "Anthropic's distillation edge compresses frontier capability into accessible tier; effort dial warning shows real deployment nuance beyond marketing claims.",
+   "url": "https://www.latent.space/p/ainews-claude-opus-5-fable-level",
+   "source": "Latent Space"
+  },
+  "sentiment": {
+   "label": "optimistic",
+   "score": 0.6,
+   "summary": "Excitement over Opus 5 pricing/performance tempered by practical caveats on effort settings and ongoing local tooling friction; infrastructure risks noted but not dominant."
+  },
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Claude Opus 5: Fable-level performance at Opus price",
+     "summary": "Near-frontier intelligence in Opus tier at half Fable cost; non-monotonic effort dial hurts coding scores above 'high'.",
+     "url": "https://www.latent.space/p/ainews-claude-opus-5-fable-level",
+     "source": "Latent Space"
+    }
+   ],
+   "frontier_labs": [],
+   "influencer_takes": [
+    {
+     "author": "Ethan Mollick",
+     "handle": "@emollick",
+     "quote": "Ha! It did it: 'We introduce BenchBenchBenchBenchBench (BBBBB), an executable benchmark of AI-authored conformance suites for benchmark-evaluation metrics'",
+     "context": "Shows AI models executing literal benchmark-joke prompts with reasonable experiments, highlighting both capability and metric gaming risks.",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mrh2i2vwds2v"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "UK AISI / CAISI preliminary assessment of Kimi K3 cyber capabilities",
+     "summary": "NIST-hosted evaluation of Kimi K3's offensive cyber skills released today.",
+     "url": "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities",
+     "source": "NIST"
+    },
+    {
+     "headline": "sigbound: parallel AI coding agents with safe git auto-merge",
+     "summary": "GitHub tool runs multiple agents on one repo; only changes that build and pass tests merge.",
+     "url": "https://github.com/surya-koritala/sigbound",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "post_ideas": [
+   {
+    "hook": "Opus 5 effort dial backfires above 'high'",
+    "draft": "Anthropic's own migration guide admits Opus 5 coding scores drop past the 'high' effort setting because the model starts overcomplicating tasks. Max isn't always better.",
+    "why_viral": "Contrarian benchmark detail undercuts default 'crank it to max' behavior right after launch.",
+    "based_on_url": "https://www.reddit.com/r/artificial/comments/1v60pga/opus_5s_effort_dial_is_not_monotonic_above_high/"
+   },
+   {
+    "hook": "One power line = AI data center crisis",
+    "draft": "Northern Virginia close call shows how fragile grid response still is for hyperscale AI clusters. TechCrunch details the fix needed before the next outage.",
+    "why_viral": "Concrete infrastructure risk story with real-world trigger, appeals to reliability-focused readers.",
+    "based_on_url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/"
+   },
+   {
+    "hook": "llama.cpp MTP wins on dense, flops on MoE",
+    "draft": "July 2026 update: native multi-token prediction in llama.cpp delivers big speedups on dense models but underwhelms on MoE. Draft-MTP flag now live.",
+    "why_viral": "Actionable local inference detail for the subset running big open models today.",
+    "based_on_url": "https://www.reddit.com/r/LocalLLaMA/comments/1v681iu/llamacpp_mtp_speculative_simplified_for_july_2026/"
+   }
+  ]
+ },
+ "meta": {
+  "generated_at": "2026-07-25T14:06+00:00",
+  "window_start": "2026-07-25T03:44+00:00",
+  "window_end": "2026-07-25T14:06+00:00",
+  "candidate_count": 27,
+  "model": "grok-4-1-fast-reasoning",
+  "input_tokens": 23076,
+  "output_tokens": 1962,
+  "est_token_cost_usd": 0.0056
+ }
+}
