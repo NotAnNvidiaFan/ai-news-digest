@@ -1,0 +1,110 @@
+{
+ "digest": {
+  "overview": "Claude Opus 5 launched with strong emphasis on token efficiency and safeguards, landing near Fable 5 performance at lower cost. Parallel momentum for open-weight models as a powerful coalition including OpenAI surfaced via Microsoft. Community reaction mixes benchmark praise with real-world task comparisons.",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Anthropic ships Claude Opus 5: near-Fable performance at half the price, top token efficiency",
+   "summary": "Opus 5 outperforms on cost-per-task metrics, shows major gains in prompt-injection resistance, and delivers proactive coding/3D results. System card highlights 85% fewer safeguard interventions vs Fable 5.",
+   "why_it_matters": "Marks shift toward efficiency over raw scale; Elon notes it shares Pareto frontier with Grok 4.5. Early users report it replacing Opus 4.8 as daily driver while some 3D/video tasks lag Fable.",
+   "url": "https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/",
+   "source": "Simon Willison"
+  },
+  "sentiment": {
+   "label": "bullish",
+   "score": 0.7,
+   "summary": "Excitement over efficient frontier progress and open-model coalition; mixed notes on specific creative/3D outputs vs Fable but broad agreement on practical value."
+  },
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Claude Opus 5 released by Anthropic",
+     "summary": "Thoughtful, proactive model close to Fable 5 frontier intelligence at half price with superior token efficiency and safeguards.",
+     "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
+     "source": "Ars Technica"
+    },
+    {
+     "headline": "Inflect v2: ultra-tiny TTS models (3.96M and ~10M params)",
+     "summary": "Complete local text-to-speech releases from r/LocalLLaMA dev, aimed at practical usefulness beyond size experiments.",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v5ve6v/i_released_inflect_v2_two_ultratiny_complete_tts/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Prentis AI lab (Reid Hoffman, Mark Pincus) in talks to raise $100M",
+     "summary": "New lab bets on automating routine computer tasks overtaking coding as primary AI use case.",
+     "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+     "source": "TechCrunch"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Elon Musk",
+     "handle": "@elonmusk",
+     "quote": "Grok 4.5 and Opus 5 are alone on Pareto frontier",
+     "context": "Highlights competitive positioning of latest models on efficiency frontier",
+     "url": "https://x.com/elonmusk/status/2080723860073091158"
+    },
+    {
+     "author": "Ethan Mollick",
+     "handle": "@emollick",
+     "quote": "Opus 5 replaced Opus 4.8 for me, it was generally stronger in everything... except it shares some of the weird language quirks of Fable",
+     "context": "Pre-release tester notes strengths on short tasks and game-building but quirks on longer work",
+     "url": "https://x.com/emollick/status/2080709278441033746"
+    },
+    {
+     "author": "Nathan Lambert",
+     "handle": "@natolambert",
+     "quote": "Insane numbers for opus 5, the power of faster iteration speed + scaled RL... And on safeguards... expect the classifiers to intervene around 85% less often",
+     "context": "Emphasizes RL scaling and safety gains driving practical usability",
+     "url": "https://x.com/natolambert/status/2080701405409784268"
+    },
+    {
+     "author": "Matt Shumer",
+     "handle": "@mattshumer_",
+     "quote": "Opus 5 is here, allegedly with near-Fable performance. Looks like a huge upgrade over 4.8, and will likely become the default for a lot of use-cases",
+     "context": "Early positive take on adoption potential despite some creative task gaps",
+     "url": "https://x.com/mattshumer_/status/2080702369134772231"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "DKV: Open-source KV-cache compression framework for local LLM inference",
+     "summary": "Anchor-based + joint low-rank compression to cut memory for long-context local runs; includes CLI and technical report.",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v5wviz/dkv_opensource_kvcache_compression_framework_for/",
+     "source": "r/LocalLLaMA"
+    }
+   ]
+  },
+  "post_ideas": [
+   {
+    "hook": "Opus 5 beats Fable on cost-per-task but loses some 3D video polish",
+    "draft": "Opus 5 hits near-Fable intelligence at half the tokens/price and 85% fewer safeguards, yet early tests show it lagging Fable 5 on Pixar-style educational 3D. Efficiency win or creative tradeoff?",
+    "why_viral": "Direct benchmark tension plus creator disappointment creates debate hook right after launch",
+    "based_on_url": "https://x.com/mattshumer_/status/2080798119684387187"
+   },
+   {
+    "hook": "OpenAI quietly signed the open-weight letter",
+    "draft": "Microsoft's page lists OpenAI among signatories of the open-weight AI pledge. Big coalition moment or just optics?",
+    "why_viral": "Surprise corporate alignment on openness amid China/US model split sparks policy discussion",
+    "based_on_url": "https://www.reddit.com/r/LocalLLaMA/comments/1v5uqa3/microsofts_website_shows_openai_as_one_of_the/"
+   },
+   {
+    "hook": "Elon: only Grok 4.5 and Opus 5 on the Pareto frontier",
+    "draft": "Elon calls out Grok 4.5 and Opus 5 as the sole occupants of the efficiency-capability frontier. Fable left behind on cost?",
+    "why_viral": "High-profile direct comparison from key player fuels cross-lab rivalry narrative",
+    "based_on_url": "https://x.com/elonmusk/status/2080723860073091158"
+   }
+  ]
+ },
+ "meta": {
+  "generated_at": "2026-07-25T03:44+00:00",
+  "window_start": "2026-07-24T19:52+00:00",
+  "window_end": "2026-07-25T03:44+00:00",
+  "candidate_count": 41,
+  "model": "grok-4-1-fast-reasoning",
+  "input_tokens": 20860,
+  "output_tokens": 2109,
+  "est_token_cost_usd": 0.0052
+ }
+}
