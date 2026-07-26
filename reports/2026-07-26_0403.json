@@ -1,0 +1,115 @@
+{
+ "digest": {
+  "overview": "Quiet overnight window dominated by community chatter on lab moves and tooling tweaks. DeepSeek pauses fundraising amid leaked compute-gap comments; Karpathy appears to exit Anthropic; Claude 5 context-engineering guidance drops while OpenAI signs open-weights letter.",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "DeepSeek pauses fundraising after leaked investor comments on US compute gap",
+   "summary": "Transcript of Liang Wenfeng meeting reveals pause in raise following discussion of hardware disadvantage vs US labs.",
+   "why_it_matters": "Highlights ongoing hardware asymmetry constraining Chinese frontier efforts; 106-point HN thread.",
+   "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+   "source": "Hacker News"
+  },
+  "sentiment": {
+   "label": "mixed",
+   "score": 0.1,
+   "summary": "Community buzz around lab exits and open-vs-closed tensions; excitement over practical tooling updates like Ruff and llama.cpp MCP offset by skepticism on Anthropic and job impacts."
+  },
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "llama.cpp adds full MCP support",
+     "summary": "Complete stdio + HTTP server integration after ngxson-led effort; enables broader tool-use workflows locally.",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v6n33i/llamacpp_now_has_full_mcp_support/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Logue open-sourced: on-device macOS meeting notes via MLX",
+     "summary": "Privacy-first app runs entirely locally on Apple Silicon; MIT license.",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v6q0d4/we_opensourced_logue_a_privacyfirst_macos/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "DeepSeek pauses fundraising after compute-gap comments leak",
+     "summary": "Investor meeting transcript details hardware disadvantage discussion.",
+     "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Karpathy removes Anthropic from X bio",
+     "summary": "Short tenure ends; community speculates on departure months after joining.",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v6pkji/karparthy_removed_anthropic_from_his_bio/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "OpenAI signs Nvidia-Microsoft open-weights letter; Anthropic urged to follow",
+     "summary": "Matthew Berman and others highlight consistency gap.",
+     "url": "https://x.com/MatthewBerman/status/2080870262216745128",
+     "source": "X"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Simon Willison",
+     "handle": "@simonw",
+     "quote": "Ruff 0.16.0 ... increased the number of default-enabled rules from 59 to 413, which highlighted all sorts of problems across my projects (1618 in sqlite-utils alone)",
+     "context": "Practical pain from stricter linting update resonates with devs maintaining large codebases.",
+     "url": "https://x.com/simonw/status/2081153980294648186"
+    },
+    {
+     "author": "Matthew Berman",
+     "handle": "@MatthewBerman",
+     "quote": "Big if true. Proud of OpenAI. Come on Anthropic, you can do it!",
+     "context": "Pushes back on closed-lab stance amid open-weights letter.",
+     "url": "https://x.com/MatthewBerman/status/2080870262216745128"
+    },
+    {
+     "author": "Matt Shumer",
+     "handle": "@mattshumer_",
+     "quote": "Okay I may have been extremely wrong about Opus 5... Holy fuck, this demo is going to blow the entirety of AI Twitter's minds tomorrow",
+     "context": "Signals surprise positive shift in perception of latest Anthropic model.",
+     "url": "https://x.com/mattshumer_/status/2080847874628145325"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "The new rules of context engineering for Claude 5 generation models",
+     "summary": "Official guidance on prompt/context strategies for latest Claude models; 201-point HN discussion.",
+     "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+     "source": "Hacker News"
+    }
+   ]
+  },
+  "post_ideas": [
+   {
+    "hook": "Karpathy quietly exits Anthropic after months",
+    "draft": "Karpathy just scrubbed Anthropic from his bio. Shortest lab stint in recent memory or calculated open-source pivot?",
+    "why_viral": "High-follower name + sudden move creates speculation vacuum right now.",
+    "based_on_url": "https://www.reddit.com/r/LocalLLaMA/comments/1v6pkji/karparthy_removed_anthropic_from_his_bio/"
+   },
+   {
+    "hook": "Ruff 0.16 just nuked 1618 issues in one sqlite-utils project",
+    "draft": "Simon Willison's CI exploded because Ruff 0.16 turned on 354 new rules overnight. How many of your repos are about to break?",
+    "why_viral": "Relatable dev pain + concrete numbers from trusted voice.",
+    "based_on_url": "https://x.com/simonw/status/2081153980294648186"
+   },
+   {
+    "hook": "OpenAI signs open-weights letter; Anthropic next?",
+    "draft": "OpenAI just signed the Nvidia-Microsoft open model pledge. Anthropic's move will tell us if 'safety' still means closed.",
+    "why_viral": "Direct call-out between two labs with clear community split.",
+    "based_on_url": "https://x.com/MatthewBerman/status/2080870262216745128"
+   }
+  ]
+ },
+ "meta": {
+  "generated_at": "2026-07-26T04:03+00:00",
+  "window_start": "2026-07-25T19:39+00:00",
+  "window_end": "2026-07-26T04:03+00:00",
+  "candidate_count": 38,
+  "model": "grok-4-1-fast-reasoning",
+  "input_tokens": 19274,
+  "output_tokens": 2561,
+  "est_token_cost_usd": 0.0051
+ }
+}
