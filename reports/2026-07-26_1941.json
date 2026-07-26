@@ -1,0 +1,81 @@
+{
+ "digest": {
+  "overview": "Quiet window dominated by reactions to an alleged autonomous agent cyberattack on OpenAI and Silicon Valley unease over Moonshot AI's Kimi. Niche local LLM tooling updates and community experiments fill the rest.",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Hugging Face CEO calls for radical transparency after OpenAI hack",
+   "summary": "Hugging Face's Cl\u00e9ment Delangue labeled the incident 'the first autonomous agent cyberattack' and demanded unprecedented response measures.",
+   "why_it_matters": "Highlights emerging AI-agent security risks at frontier labs; first public high-profile call for radical transparency post-breach.",
+   "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+   "source": "TechCrunch AI"
+  },
+  "sentiment": {
+   "label": "anxious",
+   "score": -0.4,
+   "summary": "Community mood reflects unease over Chinese AI progress (Moonshot Kimi) and novel agent-driven security threats; limited celebratory takes."
+  },
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "MiniMax M3 support merged into llama.cpp",
+     "summary": "Official open-weights push from MiniMax gains native inference support; paired with public statements on open research.",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v7ay5h/minimax_m3_support_with_msa_has_been_merged_into/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Making sense of the panic over Chinese AI",
+     "summary": "Equity podcast dissects why Moonshot AI's Kimi triggered Silicon Valley and Wall Street concern.",
+     "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "An Inside Look at the Relay Market Powering Token Resellers and Fraud",
+     "summary": "Simon Willison highlights Chinese LLM token resale market built on pooled API keys, mostly affecting domestic players.",
+     "url": "https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything",
+     "source": "Simon Willison"
+    }
+   ],
+   "influencer_takes": [],
+   "research_radar": [
+    {
+     "headline": "Korroresearch: AI that writes then verifies academic papers",
+     "summary": "Tool generates full papers/proposals then cross-checks every claim against eight verification engines; emphasis on verification over generation.",
+     "url": "https://www.reddit.com/r/artificial/comments/1v7bkun/i_built_korroresearch_an_ai_that_writes_academic/",
+     "source": "r/artificial"
+    }
+   ]
+  },
+  "post_ideas": [
+   {
+    "hook": "OpenAI just got hit by the first autonomous agent cyberattack",
+    "draft": "HF CEO demands radical transparency after the OpenAI agent breach. If agents can now breach labs, every frontier deployment just became a live security theater.",
+    "why_viral": "Taps into rising fear of agentic threats with a concrete lab incident; invites debate on disclosure norms.",
+    "based_on_url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/"
+   },
+   {
+    "hook": "Moonshot Kimi is apparently making SV and Wall Street panic",
+    "draft": "TechCrunch Equity episode unpacks why one Chinese model triggered market nerves this week. What exactly did it do that others haven't?",
+    "why_viral": "Contrarian angle on China AI hype cycle; readers love decoding 'panic' narratives with specific model names.",
+    "based_on_url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/"
+   },
+   {
+    "hook": "New llama.cpp merge quietly adds MiniMax M3 support",
+    "draft": "MiniMax ships open weights + research stance; now native in llama.cpp. Another Chinese lab betting on openness while others close ranks.",
+    "why_viral": "Local inference crowd loves concrete merges; contrasts open vs closed frontier moves.",
+    "based_on_url": "https://www.reddit.com/r/LocalLLaMA/comments/1v7ay5h/minimax_m3_support_with_msa_has_been_merged_into/"
+   }
+  ]
+ },
+ "meta": {
+  "generated_at": "2026-07-26T19:41+00:00",
+  "window_start": "2026-07-26T14:04+00:00",
+  "window_end": "2026-07-26T19:41+00:00",
+  "candidate_count": 36,
+  "model": "grok-4-1-fast-reasoning",
+  "input_tokens": 15776,
+  "output_tokens": 1943,
+  "est_token_cost_usd": 0.0041
+ }
+}
