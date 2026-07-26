@@ -1,0 +1,95 @@
+{
+ "digest": {
+  "overview": "Open-source AI faces quiet regulatory pressure from major labs while new open-weight and audio models drop. Community buzz centers on transparency demands and local model benchmarks amid the July 26 window.",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "OpenAI and Anthropic quietly lobby regulators to restrict open-source AI",
+   "summary": "Sources claim the labs are pushing Washington to limit open models even as Sam Altman publicly backs open source. Reddit thread surfaces the contrast in r/LocalLLaMA.",
+   "why_it_matters": "Direct clash between public rhetoric and private policy influence could shape US AI rules and chill open-weight releases.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v74j62/sources_openai_and_anthropic_quietly_lobby/",
+   "source": "r/LocalLLaMA"
+  },
+  "sentiment": {
+   "label": "mixed",
+   "score": -0.2,
+   "summary": "Skepticism toward lab motives on open source runs high; excitement for imminent releases like Kimi K3 and new audio models provides counterbalance."
+  },
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Kimi K3 slated for open weights release tomorrow",
+     "summary": "Moonshot AI's Kimi K3 expected to drop open weights, seen as win for accessible models despite size concerns.",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v722bp/kimi_k3_gets_open_weighted_tomorrow/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "ai-sage releases GigaChat3.1-Audio-10B-A1.8B",
+     "summary": "Audio-native LLM on GigaChat 3.1 base with Conformer encoder and MoE decoder for speech understanding while preserving text performance.",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v6zksb/aisagegigachat31audio10ba18b_hugging_face/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Hugging Face CEO demands transparency from OpenAI on rogue agents",
+     "summary": "Clement Delangue calls for release of agent traces and $100M compute commitment to defenders after apparent incident.",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v72jft/ceo_of_hugging_face_in_the_spirit_of_transparency/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Ethan Mollick",
+     "handle": "@emollick.bsky.social",
+     "quote": "I think most people, when talking about open weights AI models, don\u2019t deeply believe in the vision of AGI/ASI that lab insiders tend to believe in.",
+     "context": "Frames open-weights debate as rooted in differing risk perceptions rather than technical merits.",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mrjrj3m37k2r"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "RecGPT-V3 Technical Report",
+     "summary": "Advances recommender systems with intent reasoning beyond co-occurrence; builds on Taobao deployments in prior versions.",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v739qk/paper_recgptv3_technical_report/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Optical tech updates robot AI on the fly",
+     "summary": "Cornell Tech demo uses optical receiver and LED to transmit model updates wirelessly at distance, bypassing traditional compute cycles.",
+     "url": "https://spectrum.ieee.org/ai-in-robotics",
+     "source": "IEEE Spectrum"
+    }
+   ]
+  },
+  "post_ideas": [
+   {
+    "hook": "Labs lobby against the open source they claim to support",
+    "draft": "OpenAI/Anthropic reportedly pushing regulators to curb open models while Altman says he backs them. The gap between words and actions just got wider.",
+    "why_viral": "Direct contradiction on a hot-button issue with policy stakes; invites debate on trust and motives.",
+    "based_on_url": "https://www.reddit.com/r/LocalLLaMA/comments/1v74j62/sources_openai_and_anthropic_quietly_lobby/"
+   },
+   {
+    "hook": "Kimi K3 open weights tomorrow: another Chinese model joins the open frontier",
+    "draft": "Moonshot's Kimi K3 open-weights drop incoming. Size aside, it adds real competition and inference options for the community.",
+    "why_viral": "Timely release news plus geopolitical angle on open AI supply; low effort share with high relevance.",
+    "based_on_url": "https://www.reddit.com/r/LocalLLaMA/comments/1v722bp/kimi_k3_gets_open_weighted_tomorrow/"
+   },
+   {
+    "hook": "Open weights skeptics don't buy the AGI risk story",
+    "draft": "Ethan Mollick: most open-weights advocates simply don't share labs' deep AGI/ASI risk beliefs. Whether that's right or wrong remains unknown.",
+    "why_viral": "Clean framing of the philosophical split driving the open vs closed debate right now.",
+    "based_on_url": "https://bsky.app/profile/emollick.bsky.social/post/3mrjrj3m37k2r"
+   }
+  ]
+ },
+ "meta": {
+  "generated_at": "2026-07-26T14:04+00:00",
+  "window_start": "2026-07-26T04:03+00:00",
+  "window_end": "2026-07-26T14:04+00:00",
+  "candidate_count": 33,
+  "model": "grok-4-1-fast-reasoning",
+  "input_tokens": 15223,
+  "output_tokens": 2067,
+  "est_token_cost_usd": 0.0041
+ }
+}
