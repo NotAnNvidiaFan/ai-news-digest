@@ -1,0 +1,102 @@
+{
+ "digest": {
+  "overview": "Quiet window dominated by a fresh arXiv dump on agentic workflows, memory systems, LoRA limits, and evaluation frameworks. Community chatter centers on local inference tweaks and infra moves, with no major model drops or lab announcements.",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "FlowEvo: Self-Evolving Agents via Co-Evolution of Workflows and Executable Skills",
+   "summary": "New arXiv paper proposes agents that iteratively refine inference-time workflows by co-evolving reasoning procedures and code skills, addressing the combinatorial explosion in manual workflow design.",
+   "why_it_matters": "Moves beyond static prompting toward runtime self-improvement for complex tasks; directly targets pain points in current agentic systems like inflexibility and high search costs.",
+   "url": "https://arxiv.org/abs/2607.21596",
+   "source": "arXiv"
+  },
+  "sentiment": {
+   "label": "optimistic",
+   "score": 0.4,
+   "summary": "Researchers and local users express steady progress on practical agent memory and efficiency; excitement around voice interfaces and on-device capabilities tempered by recognition that big leaps remain incremental."
+  },
+  "sections": {
+   "model_releases": [],
+   "frontier_labs": [
+    {
+     "headline": "NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs",
+     "summary": "NVIDIA collaborates with Cadence and Synopsys to optimize EDA workloads on its Vera CPU for increasingly complex AI chip design cycles.",
+     "url": "https://blogs.nvidia.com/blog/vera-cpu-eda/",
+     "source": "NVIDIA Blog"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Sam Altman",
+     "handle": "@sama",
+     "quote": "agreed feels big, i want a new kind of computer",
+     "context": "Responding to user reports on ChatGPT Voice enabling productive work anywhere via computer control, highlighting interface shifts.",
+     "url": "https://x.com/sama/status/2081513071135346814"
+    },
+    {
+     "author": "Ethan Mollick",
+     "handle": "@emollick",
+     "quote": "I've already had to update the guide to which AI models to use that I wrote on Thursday to include Opus 5 and Codex's voice mode, both of which are significant & launched on Friday.",
+     "context": "Notes rapid iteration in model capabilities and the challenge of tracking weekly releases.",
+     "url": "https://x.com/emollick/status/2081475928086003869"
+    },
+    {
+     "author": "Yann LeCun",
+     "handle": "@ylecun",
+     "quote": "Whatever your definition of AGI: 1. It's emergence will not be a singular event... 3. If some company crosses that threshold first, 5 others will be crossing it within 6 months.",
+     "context": "Pushes back on hype around single-company AGI breakthroughs, emphasizing open research dependencies.",
+     "url": "https://x.com/ylecun/status/2081464734700777775"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "AgentKVShift: Efficient KV Cache Reuse for Agentic Memory Systems",
+     "summary": "Optimizes memory-augmented LLM agents by reusing KV caches across interactions with LLM-generated metadata.",
+     "url": "https://arxiv.org/abs/2607.21604",
+     "source": "arXiv"
+    },
+    {
+     "headline": "Procedural Knowledge Is Not Low-Rank: Why LoRA Fails to Internalize Multi-Step Procedures",
+     "summary": "Demonstrates LoRA's limitations on procedural tasks versus factual adaptation, with implications for PEFT on complex workflows.",
+     "url": "https://arxiv.org/abs/2607.21612",
+     "source": "arXiv"
+    },
+    {
+     "headline": "Ground Truth First: A Longitudinal Evaluation Instrument for Agent Memory",
+     "summary": "Inverts typical benchmark construction by starting with ground truth to avoid label errors and contamination in agent memory tests.",
+     "url": "https://arxiv.org/abs/2607.21962",
+     "source": "arXiv"
+    }
+   ]
+  },
+  "post_ideas": [
+   {
+    "hook": "arXiv just dropped a paper on agents that literally co-evolve their own workflows and skills at inference time.",
+    "draft": "FlowEvo shows self-evolving agents that refine workflows + executable skills together. Finally moving past brittle hand-crafted agent loops?",
+    "why_viral": "Taps into frustration with static agents and excitement for runtime adaptation; specific paper title + arXiv link gives credibility.",
+    "based_on_url": "https://arxiv.org/abs/2607.21596"
+   },
+   {
+    "hook": "Sama wants a new kind of computer because ChatGPT Voice + computer control changes everything.",
+    "draft": "Sama: 'agreed feels big, i want a new kind of computer.' Voice that controls your desktop from anywhere is the real unlock, not just nicer TTS.",
+    "why_viral": "Direct quote from @sama + relatable 'work anywhere' angle; contrasts with desk-bound workflows.",
+    "based_on_url": "https://x.com/sama/status/2081513071135346814"
+   },
+   {
+    "hook": "Yann LeCun: AGI won't be a singular event and won't be one lab crossing the line alone.",
+    "draft": "LeCun: AGI emergence isn't singular, and if one lab hits it first, five others will within six months\u2014relying on open research that doesn't exist yet.",
+    "why_viral": "Contrarian take from a top voice on timelines and openness; sparks debate on open vs closed paths.",
+    "based_on_url": "https://x.com/ylecun/status/2081464734700777775"
+   }
+  ]
+ },
+ "meta": {
+  "generated_at": "2026-07-27T04:10+00:00",
+  "window_start": "2026-07-26T19:41+00:00",
+  "window_end": "2026-07-27T04:10+00:00",
+  "candidate_count": 104,
+  "model": "grok-4-1-fast-reasoning",
+  "input_tokens": 36248,
+  "output_tokens": 2788,
+  "est_token_cost_usd": 0.0086
+ }
+}
