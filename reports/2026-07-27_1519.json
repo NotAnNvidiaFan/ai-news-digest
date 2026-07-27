@@ -1,0 +1,89 @@
+{
+ "digest": {
+  "overview": "Kimi K3 open weights drop today amid surging open-source momentum; Nvidia-led Open Secure AI Alliance launches without OpenAI/Anthropic/Google; Ilya Sutskever\u2019s SSI secures Nvidia partnership for scaling.",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Kimi K3 weights released on Hugging Face",
+   "summary": "Moonshot AI drops 2.8T-param Kimi K3 with Kimi Delta Attention, 1M context, native vision; non-commercial license requires deals above $20M revenue or 100M users.",
+   "why_it_matters": "First open 3T-class model; community deploying on A100s/H200s/B300s immediately, testing if it matches closed frontier performance.",
+   "url": "https://huggingface.co/moonshotai/Kimi-K3/blob/main/LICENSE",
+   "source": "Hugging Face / Moonshot"
+  },
+  "sentiment": {
+   "label": "bullish",
+   "score": 0.7,
+   "summary": "LocalLLaMA and r/singularity flooded with excitement over Kimi K3 and open alliances; skepticism limited to license restrictions and SSI secrecy."
+  },
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Kimi K3 weights released on Hugging Face",
+     "summary": "Moonshot AI drops 2.8T-param Kimi K3 with Kimi Delta Attention, 1M context, native vision; non-commercial license requires deals above $20M revenue or 100M users.",
+     "url": "https://huggingface.co/moonshotai/Kimi-K3/blob/main/LICENSE",
+     "source": "Hugging Face"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Safe Superintelligence partners with Nvidia to scale research",
+     "summary": "After two years stealth, Ilya Sutskever\u2019s SSI announces long-term Nvidia partnership and large investment to 10x compute.",
+     "url": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
+     "source": "TechCrunch"
+    },
+    {
+     "headline": "Nvidia, Microsoft launch Open Secure AI Alliance",
+     "summary": "35 partners including IBM, Hugging Face, SpaceX, CrowdStrike form open-source AI security tools initiative; explicitly excludes OpenAI, Google, Anthropic.",
+     "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance/",
+     "source": "NVIDIA"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Nathan Lambert",
+     "handle": "@natolambert",
+     "quote": "Kimi K3 license. It's inspired by MIT but distinctly non-commercial, where any company making over $20M/yr must get a specific commercial deal (and display Kimi K3 if over 100M users or $20M/mo revenue)",
+     "context": "First detailed breakdown of the license terms as weights hit HF",
+     "url": "https://x.com/natolambert/status/2081760901020201086"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "RL & search is a terrifying way to build AGI (an FAQ)",
+     "summary": "Alignment Forum post argues any RL or model-based search/planning approach to AGI is inherently dangerous.",
+     "url": "https://www.alignmentforum.org/posts/KHyBocZncAmtu4Jbc/rl-and-search-is-a-terrifying-way-to-build-agi-an-faq",
+     "source": "Alignment Forum"
+    }
+   ]
+  },
+  "post_ideas": [
+   {
+    "hook": "Kimi K3 license carves out non-commercial tier at $20M revenue",
+    "draft": "Moonshot just dropped the 2.8T Kimi K3 weights with a license that forces commercial deals above $20M/yr. Open weights but not open for big players without negotiation.",
+    "why_viral": "License nuance surprises after pure open-weight hype; direct tension with 'open source wins' narrative",
+    "based_on_url": "https://huggingface.co/moonshotai/Kimi-K3/blob/main/LICENSE"
+   },
+   {
+    "hook": "Nvidia + Microsoft alliance skips every major closed lab",
+    "draft": "Open Secure AI Alliance has 35 partners but zero OpenAI, Google, or Anthropic. Jensen explicitly called out the Hugging Face incident where open weights helped forensics.",
+    "why_viral": "Industry split visible in real time; security angle adds stakes",
+    "based_on_url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance/"
+   },
+   {
+    "hook": "SSI gets Nvidia backing while staying in stealth",
+    "draft": "Ilya\u2019s Safe Superintelligence lands Nvidia investment to 10x compute. Two years in, still no model or paper, just scaling.",
+    "why_viral": "Mystery + massive compute = speculation fuel",
+    "based_on_url": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/"
+   }
+  ]
+ },
+ "meta": {
+  "generated_at": "2026-07-27T15:19+00:00",
+  "window_start": "2026-07-27T04:10+00:00",
+  "window_end": "2026-07-27T15:19+00:00",
+  "candidate_count": 44,
+  "model": "grok-4-1-fast-reasoning",
+  "input_tokens": 20149,
+  "output_tokens": 1887,
+  "est_token_cost_usd": 0.005
+ }
+}
