@@ -1,0 +1,101 @@
+{
+ "digest": {
+  "overview": "Narrow 5-hour window dominated by Anthropic's Claude-powered crypto attack research, a multi-lab call for US AI governance, and Google's $205B capex hike rattling markets. Open-weight encoder drops and agentic scientific computing notes fill the rest.",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Claude Mythos Preview cracks cryptographic weaknesses",
+   "summary": "Anthropic researchers used the preview model to find improved attacks on cryptographic algorithms, detailed in new research post. HN discussion surged to 93 points.",
+   "why_it_matters": "Demonstrates frontier models accelerating real security research; raises questions on dual-use and refusal policies for white-hat vs black-hat tasks.",
+   "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+   "source": "Anthropic"
+  },
+  "sentiment": {
+   "label": "mixed",
+   "score": -0.2,
+   "summary": "Community notes impressive research capability alongside unease over escalating capex ($195-205B at Google), governance demands, and power constraints on data centers."
+  },
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "LFM2.5-Encoders: fast long-context on CPU",
+     "summary": "Liquid AI releases 230M/350M multilingual bidirectional encoders optimized for low-latency inference even on CPU.",
+     "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+     "source": "Hugging Face"
+    },
+    {
+     "headline": "Microsoft Mage-VL: codec-native streaming multimodal",
+     "summary": "4B visual encoder trained from scratch for efficient image/video understanding and proactive streaming.",
+     "url": "https://huggingface.co/microsoft/Mage-VL",
+     "source": "Hugging Face"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "AI leaders urge US government action on automated AI",
+     "summary": "OpenAI, Anthropic, Google, Meta, Microsoft, Mistral employees sign statement calling for coordinated governance and potential slowdown on frontier development.",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+     "source": "The Verge"
+    },
+    {
+     "headline": "Google raises 2026 capex to $205B",
+     "summary": "Updated guidance from $190B shocks investors; lower end still $195B amid AI infrastructure buildout.",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
+     "source": "The Verge"
+    },
+    {
+     "headline": "OpenAI: scientific computing in the age of agentic AI",
+     "summary": "Field report details AI coding agents accelerating genomics software modernization and discovery.",
+     "url": "https://openai.com/index/scientific-computing-agentic-ai",
+     "source": "OpenAI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Ethan Mollick",
+     "handle": "@emollick.bsky.social",
+     "quote": "There is, as everyone expected, a flood of AI books. And it is crowding out human authors: 'No-AI books, on their own, earn less per book than they did in 2023 in 7 of 8 genres.'",
+     "context": "Quantifies market displacement in publishing, one of few concrete economic impact data points this window.",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mrpypxgbxk26"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Research directions in condensation: varieties of objectivity",
+     "summary": "Alignment Forum survey explores mathematical theory of organizing world descriptions into conceptual parts.",
+     "url": "https://www.alignmentforum.org/posts/89GJeixwhFHLWxNbX/research-directions-in-condensation-varieties-of-objectivity",
+     "source": "Alignment Forum"
+    }
+   ]
+  },
+  "post_ideas": [
+   {
+    "hook": "Claude just helped break crypto primitives",
+    "draft": "Anthropic's latest preview model didn't just chat\u2014it found better attacks on cryptographic algorithms. White-hat defense implications are immediate; refusal policies now look even more mismatched to reality.",
+    "why_viral": "Directly ties model capability to real security research with tension on dual-use.",
+    "based_on_url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses"
+   },
+   {
+    "hook": "Google's AI bill just hit $205B",
+    "draft": "Google lifted capex guidance to $205B. Investors sold off anyway. The infrastructure bet is now so large that even modest misses hurt sentiment.",
+    "why_viral": "Numbers shock + market reaction creates contrarian angle on 'AI is cheap' narrative.",
+    "based_on_url": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex"
+   },
+   {
+    "hook": "Labs sign letter asking government to slow frontier AI",
+    "draft": "Employees from OpenAI, Anthropic, Google, Meta and others just petitioned the US government for faster governance and possible development brakes. Internal consensus shifting publicly.",
+    "why_viral": "Rare cross-lab alignment on policy creates surprise and debate on motives.",
+    "based_on_url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta"
+   }
+  ]
+ },
+ "meta": {
+  "generated_at": "2026-07-28T19:56+00:00",
+  "window_start": "2026-07-28T14:46+00:00",
+  "window_end": "2026-07-28T19:56+00:00",
+  "candidate_count": 40,
+  "model": "grok-4-1-fast-reasoning",
+  "input_tokens": 16436,
+  "output_tokens": 1955,
+  "est_token_cost_usd": 0.0043
+ }
+}
