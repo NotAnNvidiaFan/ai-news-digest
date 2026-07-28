@@ -1,0 +1,97 @@
+{
+ "digest": {
+  "overview": "Anthropic's detailed position on open-weights models\u2014acknowledging public goods but highlighting risks from Chinese actors\u2014sparked intense debate. Moonshot released full weights for the 2.8T Kimi K3 MoE. Opus 5 user experiments and local model tweaks filled the rest of the short window.",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Anthropic clarifies stance on open-weights models, flags China risks",
+   "summary": "Dario Amodei and team state they have never called for a ban but warn that open models without dangerous capabilities are rare; fears focus on military superiority or repression by authoritarian states. HN thread hit 568 points.",
+   "why_it_matters": "Direct response to speculation; reshapes policy conversations ahead of potential US voluntary AI framework.",
+   "url": "https://www.anthropic.com/news/position-open-weights-models",
+   "source": "Anthropic"
+  },
+  "sentiment": {
+   "label": "mixed",
+   "score": 0.1,
+   "summary": "Community split between open-weights advocates calling out competitive fears and safety voices agreeing with guardrail limits; Kimi K3 release adds excitement for accessible frontier weights."
+  },
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Moonshot releases Kimi K3 2.8T MoE weights",
+     "summary": "2.8 trillion parameter model with native vision and 1M context; 1.56TB download on HF under modified non-commercial license requiring deals above $20M revenue. Includes kernels and agent infra.",
+     "url": "https://simonwillison.net/2026/Jul/27/kimi-k3/",
+     "source": "Simon Willison"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Anthropic position paper on open-weights draws backlash",
+     "summary": "Statement emphasizes public-good potential only for safe models while naming China military/repression concerns; TechCrunch and Reddit threads note it as indirect pressure.",
+     "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+     "source": "TechCrunch"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Matthew Berman",
+     "handle": "@MatthewBerman",
+     "quote": "They've not advocated for a ban but they have been very vocal about open-source models not being safe... effectively advocating for a ban.",
+     "context": "Thread analyzing Anthropic announcement shows how wording lands with open-source community",
+     "url": "https://x.com/MatthewBerman/status/2081881610035793978"
+    },
+    {
+     "author": "Nathan Lambert",
+     "handle": "@natolambert",
+     "quote": "Kimi K3 license... distinctly non-commercial, where any company making over $20M/yr must get a specific commercial deal",
+     "context": "Highlights practical barriers even in open releases",
+     "url": "https://x.com/natolambert/status/2081760901020201086"
+    },
+    {
+     "author": "Ethan Mollick",
+     "handle": "@emollick",
+     "quote": "Been reading the weights of the most powerful open weights AI model yet released. Page one starts strong: mostly negatives...",
+     "context": "Playful take on Kimi K3 release amid open-weights debate",
+     "url": "https://x.com/emollick/status/2081801855860883634"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "The Burau representation of the braid group is faithful for n=4",
+     "summary": "arXiv math paper on braid group representations; discussed on HN with 26 points.",
+     "url": "https://arxiv.org/abs/2607.05283",
+     "source": "arXiv"
+    }
+   ]
+  },
+  "post_ideas": [
+   {
+    "hook": "Anthropic says open weights are fine\u2014as long as they have zero dangerous capabilities",
+    "draft": "Anthropic's new position: open weights are a public good only if they can't do anything risky. Dario names China as the real fear. Translation: competition is the issue.",
+    "why_viral": "Directly captures the subtext everyone is arguing about right now",
+    "based_on_url": "https://www.anthropic.com/news/position-open-weights-models"
+   },
+   {
+    "hook": "Kimi K3 drops 2.8T weights but the license kills it for most companies",
+    "draft": "Moonshot just open-sourced a 2.8T frontier model. License: free until you hit $20M revenue, then you need a special deal. Peak 2026 open source.",
+    "why_viral": "Highlights the gap between 'released weights' and actual usable openness",
+    "based_on_url": "https://simonwillison.net/2026/Jul/27/kimi-k3/"
+   },
+   {
+    "hook": "Matthew Berman nails why Anthropic's 'no ban' statement still feels like a ban push",
+    "draft": "Matthew Berman: 'They've not advocated for a ban but... effectively advocating for a ban.' The open-weights vs safety debate just got sharper.",
+    "why_viral": "Puts a popular analyst's precise read on the biggest story of the window",
+    "based_on_url": "https://x.com/MatthewBerman/status/2081881610035793978"
+   }
+  ]
+ },
+ "meta": {
+  "generated_at": "2026-07-28T03:43+00:00",
+  "window_start": "2026-07-27T20:00+00:00",
+  "window_end": "2026-07-28T03:43+00:00",
+  "candidate_count": 38,
+  "model": "grok-4-1-fast-reasoning",
+  "input_tokens": 18027,
+  "output_tokens": 2025,
+  "est_token_cost_usd": 0.0046
+ }
+}
