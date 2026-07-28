@@ -1,0 +1,73 @@
+{
+ "digest": {
+  "overview": "Big-ticket compute and funding deals dominated the morning: Nvidia's reported $5B SSI commitment, Recursive's $410M Amazon pact, and Fish Audio's $50M seed. Perplexity pushed its agentic PC tool to Windows while Hugging Face faced fresh reporting on nonconsensual deepfake abuse of its models.",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Nvidia invests $5B in Ilya Sutskever's SSI",
+   "summary": "Nvidia announced a long-term strategic partnership with Safe Superintelligence Inc., with the chipmaker committing $5B as part of the deal.",
+   "why_it_matters": "Largest single external bet yet on a post-OpenAI superintelligence lab; signals hyperscaler willingness to fund closed, high-capability research at scale.",
+   "url": "https://investor.nvidia.com/news/press-release-details/2026/Ilya-Sutskevers-Safe-Superintelligence-Inc--and-NVIDIA-Announce-Long-Term-Strategic-Partnership/default.aspx",
+   "source": "Nvidia Investor"
+  },
+  "sentiment": {
+   "label": "mixed",
+   "score": 0.1,
+   "summary": "Funding momentum and agent tooling expansions keep bulls engaged, but deepfake misuse stories on major open platforms and questions around closed-model acceleration create visible pushback in community threads."
+  },
+  "sections": {
+   "model_releases": [],
+   "frontier_labs": [
+    {
+     "headline": "Fish Audio raises $50M seed for AI voice models",
+     "summary": "Startup now serves 8M+ users with open-source and hosted models, generating $21M ARR.",
+     "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+     "source": "TechCrunch"
+    },
+    {
+     "headline": "Recursive Superintelligence signs $410M compute deal with Amazon",
+     "summary": "Outlay represents the bulk of the company's fundraising to date for its superintelligence push.",
+     "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+     "source": "TechCrunch"
+    },
+    {
+     "headline": "Perplexity expands Personal Computer AI agent tool to Windows",
+     "summary": "Windows version lets users run locally-hosted agentic AI systems on the dominant desktop OS, following April Mac launch.",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
+     "source": "The Verge"
+    }
+   ],
+   "influencer_takes": [],
+   "research_radar": []
+  },
+  "post_ideas": [
+   {
+    "hook": "Nvidia just dropped $5B on Ilya\u2019s new lab",
+    "draft": "Nvidia committing $5B to Ilya Sutskever\u2019s SSI is the clearest signal yet that the biggest players are willing to fund closed superintelligence bets at hyperscale.",
+    "why_viral": "High-stakes name + dollar amount creates instant tension between open vs closed camps",
+    "based_on_url": "https://investor.nvidia.com/news/press-release-details/2026/Ilya-Sutskevers-Safe-Superintelligence-Inc--and-NVIDIA-Announce-Long-Term-Strategic-Partnership/default.aspx"
+   },
+   {
+    "hook": "Hugging Face models powering nonconsensual deepfakes",
+    "draft": "New report shows top image-editing models on HF are being used to undress women and children with almost no friction. Platform response remains minimal.",
+    "why_viral": "Direct safety failure on the most popular open repo; easy to verify and share",
+    "based_on_url": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children"
+   },
+   {
+    "hook": "Perplexity now ships agentic AI to every Windows PC",
+    "draft": "Perplexity\u2019s Personal Computer tool just landed on Windows, turning the world\u2019s most common desktop into a locally runnable AI agent platform.",
+    "why_viral": "Practical reach: suddenly millions more machines can run agent workflows without new hardware",
+    "based_on_url": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents"
+   }
+  ]
+ },
+ "meta": {
+  "generated_at": "2026-07-28T14:46+00:00",
+  "window_start": "2026-07-28T03:43+00:00",
+  "window_end": "2026-07-28T14:46+00:00",
+  "candidate_count": 104,
+  "model": "grok-4-1-fast-reasoning",
+  "input_tokens": 31343,
+  "output_tokens": 1984,
+  "est_token_cost_usd": 0.0073
+ }
+}
