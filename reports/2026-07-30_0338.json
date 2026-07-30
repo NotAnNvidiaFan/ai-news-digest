@@ -1,0 +1,96 @@
+{
+ "digest": {
+  "overview": "Big Tech earnings dominated the window: Microsoft highlighted open competition with OpenAI/Anthropic plus a Copilot super app launch, while Meta's Zuckerberg doubled down on personal AI agents. xAI sued Minnesota over its nudification restrictions. Community chatter centered on ARC-AGI harness tweaks and Anthropic's revenue scaling.",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Microsoft openly competes with OpenAI/Anthropic, logs $3.2B Anthropic gain",
+   "summary": "In Q4 FY2026 earnings, Microsoft detailed its own models, harnesses, and Mythos rival while confirming Copilot super app rollout this year spanning consumer and enterprise. It also booked $3.2B from its Anthropic stake.",
+   "why_it_matters": "Signals intensifying infra and model competition at the frontier; Nadella positioned Copilot as the integrated agentic 'super app' amid rising inference spend.",
+   "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+   "source": "TechCrunch"
+  },
+  "sentiment": {
+   "label": "bullish",
+   "score": 0.7,
+   "summary": "Community excited by agentic product roadmaps from Microsoft and Meta, plus Grok Voice claims; Dwarkesh notes strong economies of scale at labs like Anthropic where revenue scales far faster than compute."
+  },
+  "sections": {
+   "model_releases": [],
+   "frontier_labs": [
+    {
+     "headline": "Microsoft confirms Copilot 'super app' coming this year",
+     "summary": "Nadella said the app will combine chat, coding, and agentic capabilities across consumer and commercial use cases.",
+     "url": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
+     "source": "The Verge"
+    },
+    {
+     "headline": "Zuckerberg: Meta pushing personal AI agents, broader enterprise play",
+     "summary": "On Q2 earnings call, Zuckerberg previewed personal agents that act on users' behalf and sees large opportunity in agents, APIs, compute, and internal software.",
+     "url": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
+     "source": "The Verge"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Dwarkesh Patel",
+     "handle": "@dwarkesh_sp",
+     "quote": "Ant revenue has been 10x-ing year over year, while compute has only been 3x-ing, suggests... very strong economies of scale in the model business.",
+     "context": "Highlights inference margins and pricing power at leading labs amid Microsoft/Anthropic investment news.",
+     "url": "https://x.com/dwarkesh_sp/status/2082529242454323291"
+    },
+    {
+     "author": "Elon Musk",
+     "handle": "@elonmusk",
+     "quote": "Grok Voice is now #1 in agentic performance",
+     "context": "Direct claim on xAI agent capabilities during the earnings/agent hype window.",
+     "url": "https://x.com/elonmusk/status/2082559894264430870"
+    },
+    {
+     "author": "Ethan Mollick",
+     "handle": "@emollick",
+     "quote": "Model + harness. We have barely begun to understand the best ways to do harness engineering. A huge amount of untapped potential even without models getting better.",
+     "context": "On GPT-5.6 Sol topping ARC-AGI-3 via simple context tweaks, underscoring engineering over raw model scale.",
+     "url": "https://x.com/emollick/status/2082616135170555984"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "ARC-AGI-3 scores tripled with two context settings",
+     "summary": "OpenAI post shows enabling multi-window reasoning and compaction boosted GPT-5.6 Sol performance dramatically on the benchmark.",
+     "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores/",
+     "source": "OpenAI"
+    }
+   ]
+  },
+  "post_ideas": [
+   {
+    "hook": "Microsoft just said it's building its own Mythos rival and Copilot super app",
+    "draft": "Microsoft's earnings make it clear: they're done playing nice with OpenAI and Anthropic. Own models, own harnesses, Copilot super app this year. The infra war is on.",
+    "why_viral": "Direct tension between hyperscaler and labs; timely with earnings cycle.",
+    "based_on_url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/"
+   },
+   {
+    "hook": "Zuckerberg bets billions on personal agents for billions of users",
+    "draft": "Zuck: in five years, billions will have personal AI agents acting on their behalf. Meta's all-in on agents + enterprise APIs + compute. The next platform shift?",
+    "why_viral": "Massive scale claim + Meta's infra spend creates FOMO/contrarian debate.",
+    "based_on_url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/"
+   },
+   {
+    "hook": "xAI sues Minnesota to keep Grok Imagine features",
+    "draft": "xAI is suing Minnesota over its broad 'nudification' ban, saying the law forces crippling restrictions on Grok's image editing. First amendment or regulatory overreach?",
+    "why_viral": "Free speech + frontier model capabilities tension; Elon angle.",
+    "based_on_url": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit"
+   }
+  ]
+ },
+ "meta": {
+  "generated_at": "2026-07-30T03:38+00:00",
+  "window_start": "2026-07-29T19:49+00:00",
+  "window_end": "2026-07-30T03:38+00:00",
+  "candidate_count": 51,
+  "model": "grok-4-1-fast-reasoning",
+  "input_tokens": 25113,
+  "output_tokens": 2191,
+  "est_token_cost_usd": 0.0061
+ }
+}
