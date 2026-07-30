@@ -1,0 +1,93 @@
+{
+ "digest": {
+  "overview": "OpenAI slashed GPT-5.6 Luna prices 80% and Terra 20%, extending its price-performance lead. Google DeepMind released Gemini Robotics 2 for whole-body humanoid control and multi-robot tasks. Google also credited AI with fixing a record number of Chrome bugs in June.",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "OpenAI cuts GPT-5.6 Luna price 80%, beats DeepSeek on perf/price",
+   "summary": "OpenAI announced GPT-5.6 Luna at 80% lower cost and Terra at 20% lower, with graphs showing frontier gains over prior models and competitors.",
+   "why_it_matters": "Directly advances the price-performance frontier on production models; HN thread hit 353 points with discussion of real-world implications.",
+   "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
+   "source": "OpenAI"
+  },
+  "sentiment": {
+   "label": "bullish",
+   "score": 0.7,
+   "summary": "Community focused on rapid capability gains and cost drops in frontier models plus physical AI progress; excitement around robotics demos tempered by typical safety notes."
+  },
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "OpenAI GPT-5.6 Luna/Terra price cuts",
+     "summary": "Luna down 80%, Terra 20%; claims best price/performance vs DeepSeek and others.",
+     "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
+     "source": "OpenAI"
+    },
+    {
+     "headline": "Inkling-Small (276B total / 12B active, 1M context)",
+     "summary": "New small model release with NVFP4 and GGUF quants available.",
+     "url": "https://thinkingmachines.ai/news/inkling-small/",
+     "source": "thinkingmachines"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Gemini Robotics 2 adds whole-body control and multi-robot collab",
+     "summary": "DeepMind model now handles full humanoid motion from feet to fingertips plus multi-agent orchestration; one variant public.",
+     "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+     "source": "Google DeepMind"
+    },
+    {
+     "headline": "Google credits AI for record Chrome bug fixes",
+     "summary": "June patches exceeded prior 23 updates combined; AI tools drove exponential discovery.",
+     "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
+     "source": "TechCrunch"
+    }
+   ],
+   "influencer_takes": [],
+   "research_radar": [
+    {
+     "headline": "Echoverse: evolving environments for computer-use agents",
+     "summary": "Microsoft Research trains agents in dynamic, realistic multi-step workflows that change over time.",
+     "url": "https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/",
+     "source": "Microsoft Research"
+    },
+    {
+     "headline": "EvoLib: turning experience into evolving knowledge",
+     "summary": "Microsoft approach extracts reusable skills from LLM experience for long-term adaptation.",
+     "url": "https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge/",
+     "source": "Microsoft Research"
+    }
+   ]
+  },
+  "post_ideas": [
+   {
+    "hook": "OpenAI just made frontier inference dramatically cheaper again",
+    "draft": "OpenAI GPT-5.6 Luna at -80% price. The gap between closed frontier and everything else just widened on cost.",
+    "why_viral": "Direct numbers on price/performance shift that affects every builder's economics right now.",
+    "based_on_url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/"
+   },
+   {
+    "hook": "Gemini Robotics 2 now moves the whole robot body",
+    "draft": "DeepMind's latest controls humanoids from feet to fingertips and coordinates multiple robots. Physical deployment just got one step closer.",
+    "why_viral": "Visual robotics progress always drives strong engagement; clear step from upper-body only.",
+    "based_on_url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/"
+   },
+   {
+    "hook": "LinkedIn now has an official 'AI slop' report button",
+    "draft": "LinkedIn adding a dedicated 'seems like AI slop' flag while killing its own AI writing tool. Platform finally admitting the volume problem.",
+    "why_viral": "Relatable frustration with low-quality AI content; meta move by the platform itself.",
+    "based_on_url": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/"
+   }
+  ]
+ },
+ "meta": {
+  "generated_at": "2026-07-30T19:57+00:00",
+  "window_start": "2026-07-30T14:38+00:00",
+  "window_end": "2026-07-30T19:57+00:00",
+  "candidate_count": 53,
+  "model": "grok-4-1-fast-reasoning",
+  "input_tokens": 29195,
+  "output_tokens": 2044,
+  "est_token_cost_usd": 0.0069
+ }
+}
