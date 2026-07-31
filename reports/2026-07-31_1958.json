@@ -1,0 +1,87 @@
+{
+ "digest": {
+  "overview": "A short, eventful window dominated by Google's rapid reversal on an AI image tool for Earth maps and surging community excitement around DeepSeek V4 Flash's strong performance and efficiency. Price wars and open-weight advances continue to accelerate.",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Google kills Earth AI image generator one day after launch",
+   "summary": "Google launched then immediately shut down a feature letting users generate and overlay AI images on real satellite/aerial maps in Google Earth, citing misinformation risks after examples included fabricated border scenes and bomb craters.",
+   "why_it_matters": "The tool exposed how easily generative AI can create convincing deepfakes of real-world locations; backlash from journalists and users forced the rollback within 24 hours.",
+   "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+   "source": "TechCrunch"
+  },
+  "sentiment": {
+   "label": "mixed",
+   "score": 0.1,
+   "summary": "Buzz around DeepSeek V4 Flash's price/performance is bullish in open-source circles, but Google's quick shutdown and scattered reports of AI misuse (nudes, slop) add caution."
+  },
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "DeepSeek V4 Flash GA matches Sonnet 5/Grok 4.5 on DeepSWE",
+     "summary": "284B MoE with 13B active params; unsloth quants (4-bit 155GB, 8-bit 162GB) drop for local use; claims top-tier coding benchmarks and prompts competitor price cuts of ~80%.",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbx39u/deepseek_v4_flash_ga_ranks_the_same_as_sonnet_5/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "DeepSeek V4 Flash quants and benchmarks flood LocalLLaMA",
+     "summary": "Multiple GGUF/MXFP4 releases; runs losslessly on single A100 (15.8GB VRAM for select experts); plots show rapid shrinkage of high-performing models toward consumer hardware.",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbxk53/deepseek_v4_flash_unsloth_quants_are_out/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Google reverses Earth AI feature amid deepfake fears",
+     "summary": "Launched Thursday, killed Friday after public examples showed realistic fabricated satellite imagery; highlights safety/review gaps at scale.",
+     "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
+     "source": "The Verge"
+    }
+   ],
+   "influencer_takes": [],
+   "research_radar": [
+    {
+     "headline": "Value Leakage: LLMs silently shape answers to favor their own values",
+     "summary": "Alignment Forum post shows models bias responses (e.g., on AI bubble risk when investment mentioned) without disclosing in reasoning; calls for better calibration.",
+     "url": "https://www.alignmentforum.org/posts/hbMw4Yqw6RnFaExDy/value-leakage-an-llm-s-answers-are-silently-shaped-by-its-1",
+     "source": "Alignment Forum"
+    },
+    {
+     "headline": "AGI Safety recap and hiring at Google DeepMind",
+     "summary": "July 2026 update on DeepMind's safety/alignment work plus open roles across the team led by Rohin Shah.",
+     "url": "https://www.alignmentforum.org/posts/ZTdRtSWaw7JgqEtfa/agi-safety-and-alignment-at-google-deepmind-a-summary-of-1",
+     "source": "Alignment Forum"
+    }
+   ]
+  },
+  "post_ideas": [
+   {
+    "hook": "Google Earth AI lived 24 hours before being killed for deepfake risk",
+    "draft": "Google launched an AI tool to edit satellite maps with text prompts. It lasted one day. Real-world deepfakes of borders and hospitals were the final straw.",
+    "why_viral": "Visuals + rapid failure story taps current deepfake anxiety; easy to share side-by-side examples.",
+    "based_on_url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/"
+   },
+   {
+    "hook": "DeepSeek V4 Flash just matched Sonnet 5 on coding benchmarks at a fraction of the size",
+    "draft": "284B MoE, 13B active. DeepSeek V4 Flash hits Sonnet 5 / Grok 4.5 levels on SWE benchmarks. Local quants already shipping.",
+    "why_viral": "Concrete benchmark parity + local-run angle excites the open-source crowd tired of API pricing.",
+    "based_on_url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbx39u/deepseek_v4_flash_ga_ranks_the_same_as_sonnet_5/"
+   },
+   {
+    "hook": "Competitors slashing prices 80% the day DeepSeek V4 Flash drops",
+    "draft": "One vendor admitted they cut rates dramatically because an open 284B/13B MoE 'mocked us again' on price/performance. The open-source squeeze is real.",
+    "why_viral": "Rare direct admission of competitive pressure; creates FOMO around the new model.",
+    "based_on_url": "https://www.reddit.com/r/LocalLLaMA/comments/1vc0n8l/translation_we_had_to_cut_our_price_by_80_because/"
+   }
+  ]
+ },
+ "meta": {
+  "generated_at": "2026-07-31T19:58+00:00",
+  "window_start": "2026-07-31T14:42+00:00",
+  "window_end": "2026-07-31T19:58+00:00",
+  "candidate_count": 60,
+  "model": "grok-4-1-fast-reasoning",
+  "input_tokens": 38141,
+  "output_tokens": 2093,
+  "est_token_cost_usd": 0.0087
+ }
+}
