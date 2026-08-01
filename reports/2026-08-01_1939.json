@@ -1,0 +1,89 @@
+{
+ "digest": {
+  "overview": "DeepSeek V4 Flash 0731 dominates local LLM chatter with benchmarks, llama.cpp fixes, and ultra-low costs; OpenAI highlights math breakthroughs from its next model. EU AI Act labeling rules kick in tomorrow.",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "OpenAI shares 10 discoveries from next model, emphasizing math gains",
+   "summary": "Emollick notes AI now excels at math where it failed two years ago; experiments cost under $2000 in API fees. OpenAI shifts focus to benefits over risks.",
+   "why_it_matters": "Signals rapid capability jumps in core reasoning, with public emphasis on positive outcomes amid ongoing model releases.",
+   "url": "https://bsky.app/profile/emollick.bsky.social/post/3mrzokg6u6k22",
+   "source": "Bluesky"
+  },
+  "sentiment": {
+   "label": "optimistic",
+   "score": 0.7,
+   "summary": "Community excited by cheap, capable inference (DeepSeek Flash) and concrete math progress from frontier labs; hardware and quantization experiments fuel practical optimism."
+  },
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "LongCat-Flash-Lite-Sparse weights released",
+     "summary": "Sparse attention variant supports 1M context (vs 256k), added to repo hours ago.",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vcpv6u/longcatflashlitesparse_is_now_available_for/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "DeepSeek V4 Flash 0731 sees rapid community adoption and fixes",
+     "summary": "llama.cpp PR fixes tool-calling loops; runs on single 3090, dual 3060s, 3x3090 setups with strong quantized speeds.",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vcwaag/fix_for_deep_seek_v4_flash_0731_tool_calling_has/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "OpenAI announces 10 discoveries from upcoming model",
+     "summary": "Highlights math proficiency leap and low-cost experimentation under $2000 API spend.",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mrzokg6u6k22",
+     "source": "Bluesky"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Ethan Mollick",
+     "handle": "@emollick.bsky.social",
+     "quote": "OpenAI announces 10 discoveries from their next model. Observations: 1) AI is getting very good at math 2) Two years ago LLMs failed at basic math 3) This cost less than $2000 in current API fees 4) OpenAI is focusing on announcing benefits, not just risks, of new models",
+     "context": "Adds analysis on capability trajectory and comms shift",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mrzokg6u6k22"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "How Symmetric Are the Insides of a Go Network?",
+     "summary": "KataGo interp study examines symmetry in neural nets despite Go's rotational/reflectional rules.",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1vcrki2/how_symmetric_are_the_insides_of_a_go_network_r/",
+     "source": "r/MachineLearning"
+    }
+   ]
+  },
+  "post_ideas": [
+   {
+    "hook": "DeepSeek Flash at pennies per day",
+    "draft": "DeepSeek V4 Flash 0731 runs all day on $2 while beating older same-size models. Quantized local inference just hit another inflection.",
+    "why_viral": "Contrarian cheap-AI angle vs expensive frontier hype, timely with multiple hardware benchmarks",
+    "based_on_url": "https://www.reddit.com/r/singularity/comments/1vcsrwh/deepseek_v4_flash_0731_in_hermes_agent_and_one/"
+   },
+   {
+    "hook": "OpenAI math pivot",
+    "draft": "OpenAI's next model nails math that broke LLMs two years ago, experiments under $2k. They're now selling upsides first.",
+    "why_viral": "Surprise capability jump + comms strategy tension right after emollick post",
+    "based_on_url": "https://bsky.app/profile/emollick.bsky.social/post/3mrzokg6u6k22"
+   },
+   {
+    "hook": "EU AI Act tomorrow",
+    "draft": "All AI images, audio, video and text must be labeled starting Aug 2 in EU. LocalLLaMA already memeing the clown emoji.",
+    "why_viral": "Regulatory cliff-edge with immediate community reaction and compliance memes",
+    "based_on_url": "https://www.reddit.com/r/LocalLLaMA/comments/1vcqpn4/eu_ai_act_takes_effect_tomorrow_august_2_2026/"
+   }
+  ]
+ },
+ "meta": {
+  "generated_at": "2026-08-01T19:39+00:00",
+  "window_start": "2026-08-01T14:02+00:00",
+  "window_end": "2026-08-01T19:39+00:00",
+  "candidate_count": 30,
+  "model": "grok-4-1-fast-reasoning",
+  "input_tokens": 14763,
+  "output_tokens": 2491,
+  "est_token_cost_usd": 0.0042
+ }
+}
