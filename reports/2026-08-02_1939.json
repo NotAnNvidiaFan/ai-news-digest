@@ -1,0 +1,62 @@
+{
+ "digest": {
+  "overview": "A slow 5-hour window dominated by r/LocalLLaMA chatter on running and benchmarking DeepSeek-V4-Flash-0731 locally across hardware. One media piece on Fender's CEO AI comments surfaces late; no frontier lab moves or major releases.",
+  "quiet_window": true,
+  "top_story": null,
+  "sentiment": {
+   "label": "mixed",
+   "score": 0.1,
+   "summary": "Local LLM community excited by DeepSeek-V4-Flash speed/quant results on consumer and enterprise hardware, tempered by ongoing gripes about model pandering and EU disclosure rules kicking in."
+  },
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "DeepSeek-V4-Flash-0731 benchmarks and local runs",
+     "summary": "Community reports UD-Q2_K_XL quant, 100-150 t/s prefill gains on CUDA tweaks, strong chess benchmark vs Fable-5/Sol/Kimi-K3, and M2 Ultra/Mac performance at scale.",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vdqsod/deepseekv4flash0731_when_low_is_higher_than_high/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "frontier_labs": [],
+   "influencer_takes": [],
+   "research_radar": [
+    {
+     "headline": "Kimi K3 Deep Dive \u2014 2.78T open-weight model",
+     "summary": "Technical breakdown of Moonshot AI's Kimi K3 architecture including KDA, Stable LatentMoE, and 1M-token context handling.",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1vdndys/kimi_k3_deep_dive_architecture_training/",
+     "source": "r/MachineLearning"
+    }
+   ]
+  },
+  "post_ideas": [
+   {
+    "hook": "DeepSeek-V4-Flash running faster on older CUDA?",
+    "draft": "DeepSeek-V4-Flash-0731 hitting 100-150 t/s prefill gains just by downgrading CUDA 13.3 to 13.1. Local quant results beating official API in spots.",
+    "why_viral": "Hardware tweak surprise in a model everyone is suddenly testing locally.",
+    "based_on_url": "https://www.reddit.com/r/LocalLLaMA/comments/1vdm4z8/deepseek_v4_flash_100150_faster_ts_in_prefillpp/"
+   },
+   {
+    "hook": "Fender CEO calls bandmates analog AI",
+    "draft": "Fender CEO: your bandmates are basically analog AI. Interview from May resurfacing and pouring fuel on their existing PR fire.",
+    "why_viral": "Odd music-industry AI take from a legacy brand CEO.",
+    "based_on_url": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music"
+   },
+   {
+    "hook": "EU AI Act disclosure rules live today",
+    "draft": "Article 50 of the EU AI Act starts today: failing to disclose AI-generated text for public info can now get expensive.",
+    "why_viral": "Immediate legal hook for anyone posting AI content in Europe.",
+    "based_on_url": "https://www.reddit.com/r/artificial/comments/1vdlbbx/the_eu_ai_act_makes_failure_to_disclose/"
+   }
+  ]
+ },
+ "meta": {
+  "generated_at": "2026-08-02T19:39+00:00",
+  "window_start": "2026-08-02T14:04+00:00",
+  "window_end": "2026-08-02T19:39+00:00",
+  "candidate_count": 30,
+  "model": "grok-4-1-fast-reasoning",
+  "input_tokens": 14884,
+  "output_tokens": 1582,
+  "est_token_cost_usd": 0.0038
+ }
+}

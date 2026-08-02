@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI Digest — 2026-08-02T19:39+00:00</title>
+<style>
+  :root {
+    --bg: #0c0f14; --card: #141922; --card-hover: #1a2130; --border: #232b3a;
+    --text: #dfe6f0; --muted: #8b98ab; --accent: #5eb1ff; --accent2: #a78bfa;
+    --good: #4ade80; --bad: #f87171; --mid: #fbbf24;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text);
+         font: 16px/1.6 -apple-system, "Segoe UI", Roboto, sans-serif; }
+  .wrap { max-width: 860px; margin: 0 auto; padding: 32px 20px 64px; }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  header .brand { font-size: 13px; letter-spacing: 2px; text-transform: uppercase;
+                  color: var(--muted); }
+  header .brand a { color: var(--muted); }
+  h1 { font-size: 26px; margin: 6px 0 2px; }
+  .window { color: var(--muted); font-size: 14px; }
+  .overview { font-size: 17px; color: var(--text); margin: 18px 0 8px;
+              border-left: 3px solid var(--accent2); padding-left: 14px; }
+  .badges { display: flex; gap: 8px; flex-wrap: wrap; margin: 14px 0 26px; }
+  .badge { font-size: 12px; padding: 3px 10px; border-radius: 999px;
+           border: 1px solid var(--border); color: var(--muted); }
+  .badge.sent-bullish, .badge.sent-optimistic { color: var(--good); border-color: var(--good); }
+  .badge.sent-mixed { color: var(--mid); border-color: var(--mid); }
+  .badge.sent-skeptical, .badge.sent-anxious { color: var(--bad); border-color: var(--bad); }
+  .hero { background: linear-gradient(135deg, #16203a, #1b1530); border: 1px solid var(--border);
+          border-radius: 14px; padding: 22px 24px; margin-bottom: 30px; }
+  .hero .label { font-size: 12px; letter-spacing: 2px; text-transform: uppercase; color: var(--accent2); }
+  .hero h2 { margin: 8px 0 10px; font-size: 22px; }
+  .hero .why { color: var(--muted); font-size: 15px; margin-top: 10px; }
+  .hero .why strong { color: var(--text); }
+  h3.section { font-size: 14px; letter-spacing: 2px; text-transform: uppercase;
+               color: var(--muted); margin: 34px 0 12px; border-bottom: 1px solid var(--border);
+               padding-bottom: 8px; }
+  .card { background: var(--card); border: 1px solid var(--border); border-radius: 12px;
+          padding: 16px 18px; margin-bottom: 12px; }
+  .card:hover { background: var(--card-hover); }
+  .card h4 { margin: 0 0 6px; font-size: 16px; }
+  .card p { margin: 0; color: var(--muted); font-size: 14.5px; }
+  .src { display: inline-block; font-size: 12px; color: var(--accent2); margin-top: 8px; }
+  blockquote.take { margin: 0; }
+  .take .quote { font-size: 15.5px; font-style: italic; color: var(--text); }
+  .take .who { margin-top: 8px; font-size: 13.5px; color: var(--muted); }
+  .take .ctx { margin-top: 4px; font-size: 13.5px; color: var(--muted); }
+  .idea { border-left: 3px solid var(--accent2); }
+  .idea .hook { font-size: 15px; font-weight: 600; margin-bottom: 8px; }
+  .idea .draft { color: var(--text) !important; background: var(--bg); border: 1px dashed var(--border);
+                 border-radius: 8px; padding: 10px 12px; margin: 0 0 8px !important; }
+  .idea .why { font-size: 13.5px !important; }
+  .quiet { text-align: center; color: var(--muted); padding: 40px 0; font-size: 15px; }
+  .empty { color: var(--muted); font-size: 14px; font-style: italic; }
+  footer { margin-top: 44px; color: var(--muted); font-size: 12.5px;
+           border-top: 1px solid var(--border); padding-top: 14px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="brand"><a href="../index.html">AI NEWS DIGEST</a></div>
+    <h1>2026-08-02T19:39+00:00</h1>
+    <div class="window">Window: 2026-08-02T14:04+00:00 &rarr; 2026-08-02T19:39+00:00 (UTC)</div>
+  </header>
+
+  <p class="overview">A slow 5-hour window dominated by r/LocalLLaMA chatter on running and benchmarking DeepSeek-V4-Flash-0731 locally across hardware. One media piece on Fender&#39;s CEO AI comments surfaces late; no frontier lab moves or major releases.</p>
+
+  <div class="badges">
+    
+      <span class="badge sent-mixed">
+        Mood: mixed (+0.1)
+      </span>
+    
+    <span class="badge">30 candidates scanned</span>
+    <span class="badge">model: grok-4-1-fast-reasoning</span>
+  </div>
+
+  
+    <div class="card"><p>Local LLM community excited by DeepSeek-V4-Flash speed/quant results on consumer and enterprise hardware, tempered by ongoing gripes about model pandering and EU disclosure rules kicking in.</p></div>
+  
+
+  
+    <div class="quiet">A quiet window — nothing major happened in the last few hours. See you next run.</div>
+  
+
+  
+
+  
+
+  <h3 class="section">Model releases &amp; updates</h3>
+  
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1vdqsod/deepseekv4flash0731_when_low_is_higher_than_high/">DeepSeek-V4-Flash-0731 benchmarks and local runs</a></h4>
+      <p>Community reports UD-Q2_K_XL quant, 100-150 t/s prefill gains on CUDA tweaks, strong chess benchmark vs Fable-5/Sol/Kimi-K3, and M2 Ultra/Mac performance at scale.</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+  
+
+  <h3 class="section">Frontier lab developments</h3>
+  
+    
+    <p class="empty">Nothing in this window.</p>
+    
+  
+
+  <h3 class="section">Influencer takes &amp; sentiment</h3>
+  
+  <p class="empty">No notable takes this window.</p>
+  
+
+  <h3 class="section">Research &amp; under the radar</h3>
+  
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/MachineLearning/comments/1vdndys/kimi_k3_deep_dive_architecture_training/">Kimi K3 Deep Dive — 2.78T open-weight model</a></h4>
+      <p>Technical breakdown of Moonshot AI&#39;s Kimi K3 architecture including KDA, Stable LatentMoE, and 1M-token context handling.</p>
+      <span class="src">r/MachineLearning</span>
+    </div>
+    
+  
+
+  
+  <h3 class="section">Post ideas (ranked by viral potential)</h3>
+  
+  <div class="card idea">
+    <div class="hook">1. DeepSeek-V4-Flash running faster on older CUDA?</div>
+    <p class="draft">DeepSeek-V4-Flash-0731 hitting 100-150 t/s prefill gains just by downgrading CUDA 13.3 to 13.1. Local quant results beating official API in spots.</p>
+    <p class="why">Hardware tweak surprise in a model everyone is suddenly testing locally. &middot; <a href="https://www.reddit.com/r/LocalLLaMA/comments/1vdm4z8/deepseek_v4_flash_100150_faster_ts_in_prefillpp/">source</a></p>
+  </div>
+  
+  <div class="card idea">
+    <div class="hook">2. Fender CEO calls bandmates analog AI</div>
+    <p class="draft">Fender CEO: your bandmates are basically analog AI. Interview from May resurfacing and pouring fuel on their existing PR fire.</p>
+    <p class="why">Odd music-industry AI take from a legacy brand CEO. &middot; <a href="https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music">source</a></p>
+  </div>
+  
+  <div class="card idea">
+    <div class="hook">3. EU AI Act disclosure rules live today</div>
+    <p class="draft">Article 50 of the EU AI Act starts today: failing to disclose AI-generated text for public info can now get expensive.</p>
+    <p class="why">Immediate legal hook for anyone posting AI content in Europe. &middot; <a href="https://www.reddit.com/r/artificial/comments/1vdlbbx/the_eu_ai_act_makes_failure_to_disclose/">source</a></p>
+  </div>
+  
+  
+
+  <footer>
+    Generated 2026-08-02T19:39+00:00 UTC
+     &middot; 14884 in / 1582 out tokens
+    (~$0.0038 tokens + search fees)
+    &middot; <a href="../index.html">all reports</a>
+  </footer>
+</div>
+</body>
+</html>
