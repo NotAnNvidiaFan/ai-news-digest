@@ -1,0 +1,90 @@
+{
+ "digest": {
+  "overview": "Short overnight window shows community focus on local DeepSeek-V4-Flash-0731 inference benchmarks and a handful of scattered AI demos and commentary. No major model releases or lab announcements. Notable robot progress and legal notes stand out amid the quiet.",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Figure AI demos F.03 climbing a ladder autonomously",
+   "summary": "Figure.AI shared video of its latest humanoid robot ascending a ladder without human intervention.",
+   "why_it_matters": "Demonstrates continued progress in embodied AI beyond basic locomotion, directly relevant to real-world deployment timelines.",
+   "url": "https://www.reddit.com/r/singularity/comments/1vcypst/figureai_demos_f03_climbing_a_ladder_autonomously/",
+   "source": "r/singularity"
+  },
+  "sentiment": {
+   "label": "optimistic",
+   "score": 0.4,
+   "summary": "Community mood upbeat around practical local runs of DeepSeek-V4-Flash and incremental robot capabilities, tempered by ongoing discussions of job impacts and AI overuse."
+  },
+  "sections": {
+   "model_releases": [],
+   "frontier_labs": [
+    {
+     "headline": "Judge denies xAI request to block Minnesota 'nudify' app ban",
+     "summary": "Minnesota law restricting apps that generate non-consensual nude images proceeds despite xAI lawsuit.",
+     "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+     "source": "TechCrunch AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Andrej Karpathy",
+     "handle": "@karpathy",
+     "quote": "Opus 5 wrote 5500 lines of code that procedurally rendered the Lord of the Rings story in three.js with a 1M token budget.",
+     "context": "Highlights emerging LLM stamina for complex, custom 3D world-building that no human would manually code.",
+     "url": "https://x.com/karpathy/status/2083749667410727319"
+    },
+    {
+     "author": "Simon Willison",
+     "handle": "@simonw",
+     "quote": "This model looks VERY good for its price.",
+     "context": "Praising DeepSeek-V4-Flash-0731 performance in context of recent local inference experiments.",
+     "url": "https://x.com/simonw/status/2083343395704160359"
+    },
+    {
+     "author": "Matthew Berman",
+     "handle": "@MatthewBerman",
+     "quote": "RSI has already started. Last week major efficiency gains by GPT-5.6, this week 10 major open problems solved by Astra.",
+     "context": "Speculating on accelerating recursive self-improvement momentum across labs.",
+     "url": "https://x.com/MatthewBerman/status/2083593030192537644"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Ten advances in mathematics and theoretical computer science",
+     "summary": "Simon Willison highlights recent math progress including Anthropic's cryptographic work with Claude.",
+     "url": "https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/#atom-everything",
+     "source": "Simon Willison newsletter"
+    }
+   ]
+  },
+  "post_ideas": [
+   {
+    "hook": "DeepSeek-V4-Flash-0731 hitting 17 t/s on single A6000 with full 1M context",
+    "draft": "Local runners are already pushing DeepSeek-V4-Flash-0731 to 17 t/s on one A6000 while keeping 1M context in VRAM. The open weights race just got louder.",
+    "why_viral": "Concrete numbers on a hot new model spark immediate benchmark comparisons and FOMO in the local LLM crowd.",
+    "based_on_url": "https://www.reddit.com/r/LocalLLaMA/comments/1vd6tpq/deepseekv4flash0731_udq8_k_xl_1720_ts_on_a6000/"
+   },
+   {
+    "hook": "Figure robot now climbs ladders autonomously",
+    "draft": "Figure F.03 just climbed a ladder with zero human input. Embodied AI is quietly moving from 'can it walk' to 'can it work'.",
+    "why_viral": "Visual demo + real utility angle creates shareable contrast with pure chat model hype.",
+    "based_on_url": "https://www.reddit.com/r/singularity/comments/1vcypst/figureai_demos_f03_climbing_a_ladder_autonomously/"
+   },
+   {
+    "hook": "Hank Green calls his AI usage 'not healthy'",
+    "draft": "Hank Green publicly apologized for the dopamine hit from LLMs and said the level is unhealthy for him and the world. Even power users are noticing the addiction curve.",
+    "why_viral": "Contrarian personal take from a known creator hits the growing 'AI is too good at engagement' tension.",
+    "based_on_url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/"
+   }
+  ]
+ },
+ "meta": {
+  "generated_at": "2026-08-02T04:01+00:00",
+  "window_start": "2026-08-01T19:39+00:00",
+  "window_end": "2026-08-02T04:01+00:00",
+  "candidate_count": 35,
+  "model": "grok-4-1-fast-reasoning",
+  "input_tokens": 19420,
+  "output_tokens": 2176,
+  "est_token_cost_usd": 0.005
+ }
+}
