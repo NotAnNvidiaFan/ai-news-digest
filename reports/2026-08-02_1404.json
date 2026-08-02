@@ -1,0 +1,80 @@
+{
+ "digest": {
+  "overview": "Narrow 10-hour window dominated by local/open inference hype: community ports and quants let Kimi K3 and DeepSeek-V4-Flash run on single CPUs or tiny RAM. Interconnects highlights proliferating open-model capacity on the Pareto frontier. No frontier lab releases or major policy moves.",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Kimi K3 runs on single CPU in 8 GB RAM via new C99 engine",
+   "summary": "Portable C99 implementation activates only 16 of 896 experts per token for the 2.78T MoE; also benchmarked on MI355X beating B300 perf/$.",
+   "why_it_matters": "Demonstrates MoE sparsity enabling frontier-scale open models on consumer or edge hardware, accelerating the open Pareto shift noted in Interconnects #23.",
+   "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+   "source": "GitHub Trending"
+  },
+  "sentiment": {
+   "label": "bullish",
+   "score": 0.7,
+   "summary": "LocalLLaMA and HN threads show excitement over practical local runs of Kimi K3/DeepSeek-V4-Flash; community celebrates hardware democratization over closed labs."
+  },
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "llama.cpp adds MTP/DSpark support for DeepSeek-V4-Flash",
+     "summary": "Enables efficient inference for the new Flash variant in the popular local engine.",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vdhgq9/llamacpp_just_added_mtp_dspark_support_for/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "WinterMix: best MLX quant for Qwen3.5-122B-A10B at 82 GiB",
+     "summary": "New quantization method beats prior 94-95 GiB 6-bit builds on M-series Macs.",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vdcs8e/release_wintermix_qwen35122ba10b_in_native_mlx_an/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "frontier_labs": [],
+   "influencer_takes": [],
+   "research_radar": [
+    {
+     "headline": "CausalVLBench: new benchmark for visual causal reasoning in VLMs",
+     "summary": "Targets a key weakness in current large vision-language models.",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1vdd7ty/r_causalvlbench_benchmarking_visual_causal/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Latest open artifacts #23: Laguna S2.1, Inkling, Kimi K3",
+     "summary": "Interconnects notes open models now competitive on the Pareto frontier as training capacity proliferates.",
+     "url": "https://www.interconnects.ai/p/latest-open-artifacts-23-laguna-s21",
+     "source": "Interconnects"
+    }
+   ]
+  },
+  "post_ideas": [
+   {
+    "hook": "Kimi K3 (2.78T MoE) now runs on a single CPU in 8 GB",
+    "draft": "New C99 engine streams only active experts for Kimi K3, hitting frontier capability on a laptop. Open weights + sparsity = the real unlock.",
+    "why_viral": "Surprise at massive model on tiny hardware creates shareable contrast with closed API limits.",
+    "based_on_url": "https://github.com/FareedKhan-dev/kimi-k3-in-c"
+   },
+   {
+    "hook": "llama.cpp just shipped MTP support for DeepSeek-V4-Flash",
+    "draft": "Another frontier MoE now plug-and-play locally. The gap between 'I read about it' and 'I ran it' keeps shrinking.",
+    "why_viral": "Actionable update that resonates with builders tired of waiting for official ports.",
+    "based_on_url": "https://www.reddit.com/r/LocalLLaMA/comments/1vdhgq9/llamacpp_just_added_mtp_dspark_support_for/"
+   },
+   {
+    "hook": "Interconnects: open models are already eating the Pareto frontier",
+    "draft": "Laguna, Inkling, Kimi K3 show capacity to train strong models is no longer gated. Next 12 months will be about who ships the best post-training, not who has the most GPUs.",
+    "why_viral": "Contrarian take on who actually wins the open vs closed race, backed by concrete artifacts.",
+    "based_on_url": "https://www.interconnects.ai/p/latest-open-artifacts-23-laguna-s21"
+   }
+  ]
+ },
+ "meta": {
+  "generated_at": "2026-08-02T14:04+00:00",
+  "window_start": "2026-08-02T04:01+00:00",
+  "window_end": "2026-08-02T14:04+00:00",
+  "candidate_count": 39,
+  "model": "grok-4-1-fast-reasoning",
+  "input_tokens": 25143,
+  "output_tokens": 1954,
+  "est_token_cost_usd": 0.006
+ }
+}
