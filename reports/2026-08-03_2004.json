@@ -1,0 +1,95 @@
+{
+ "digest": {
+  "overview": "Narrow window shows EU transparency rules kicking in, Meta doubling GEM training efficiency, AWS embedding Superblocks for decoupled apps, OpenAI influencer trip backlash, and fresh community benchmarks on Chinese open models like DeepSeek V4 Flash and Qwen3.8-Max dominating LocalLLaMA threads.",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Europe\u2019s AI labeling and transparency rules now in effect",
+   "summary": "EU AI Act transparency obligations effective Aug 2 require disclosure for chatbots and deepfakes. Companies must clearly label AI interactions and synthetic media.",
+   "why_it_matters": "First major enforcement wave of landmark regulation hits amid rising agent and generation capabilities; direct compliance pressure on all deployed systems.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+   "source": "The Verge"
+  },
+  "sentiment": {
+   "label": "mixed",
+   "score": 0.1,
+   "summary": "Community mood split between excitement over Chinese open-weight model benchmarks (DeepSeek, Qwen, GLM) and unease over regulation plus OpenAI luxury trip optics."
+  },
+  "sections": {
+   "model_releases": [],
+   "frontier_labs": [
+    {
+     "headline": "AWS embeds vibe-coding Superblocks into private clouds",
+     "summary": "AWS now allows Superblocks to run inside customer VPCs, advancing decoupling of apps from underlying models.",
+     "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+     "source": "TechCrunch"
+    },
+    {
+     "headline": "Meta doubles efficiency of GEM ads foundation model",
+     "summary": "Generative Ads Recommendation Model (GEM) now trains at LLM scale on thousands of latest GPUs; end-to-end training efficiency doubled.",
+     "url": "https://engineering.fb.com/2026/08/03/ml-applications/training-gem-at-llm-scale-meta-ads-recommendation-foundation-model/",
+     "source": "Meta Engineering"
+    },
+    {
+     "headline": "Microsoft Research releases Orchard agent framework",
+     "summary": "Open-source framework for training and evaluating scalable AI agents across task types; reuses infrastructure for smaller models.",
+     "url": "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/",
+     "source": "Microsoft Research"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Yann LeCun",
+     "handle": "@ylecun",
+     "quote": "You obviously did not understand my statement. I was talking about auto-regressive token prediction, which is what pure LLMs do. But good code generation systems aren't pure LLMs...",
+     "context": "Clarifies limits of pure LLMs vs hybrid systems in ongoing code-gen discussion.",
+     "url": "https://x.com/ylecun/status/2084363123339792657"
+    },
+    {
+     "author": "Dwarkesh Patel",
+     "handle": "@dwarkesh_sp",
+     "quote": "Why smarter AI models could drive up compute prices 10x.",
+     "context": "Video explainer on compute cost implications if leading labs hit $1T revenue trajectory.",
+     "url": "https://x.com/dwarkesh_sp/status/2084333160075055122"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "ARPL: runtime ISA/topology detection for llama.cpp on ARM",
+     "summary": "New tool detects Snapdragon 8 Elite specifics at runtime for optimized llama.cpp runs on phones vs older ARM chips.",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1ven68z/arpl_runtime_isatopology_detection_for_llamacpp/",
+     "source": "r/MachineLearning"
+    }
+   ]
+  },
+  "post_ideas": [
+   {
+    "hook": "EU just flipped the switch on AI labeling",
+    "draft": "EU AI Act transparency rules are live: chatbots and deepfakes must now be clearly disclosed. First real enforcement of the landmark law.",
+    "why_viral": "Regulatory milestone with immediate compliance stakes; taps ongoing fears about AI deception.",
+    "based_on_url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes"
+   },
+   {
+    "hook": "Meta quietly 2x\u2019d training efficiency on its massive ads model",
+    "draft": "Meta\u2019s GEM (ads rec foundation model) now trains at LLM scale with double the end-to-end efficiency. Details on thousands of latest GPUs.",
+    "why_viral": "Infra win from a frontier lab shows real engineering progress beyond hype.",
+    "based_on_url": "https://engineering.fb.com/2026/08/03/ml-applications/training-gem-at-llm-scale-meta-ads-recommendation-foundation-model/"
+   },
+   {
+    "hook": "DeepSeek V4 Flash crushed internal agentic evals vs GLM and Kimi",
+    "draft": "Community tests: DeepSeek V4 Flash dominated long-running multi-app workflows (PagerDuty, Gmail, HubSpot etc.) over the other top open models.",
+    "why_viral": "Fresh benchmark drama in the open-weight race; concrete tasks and results.",
+    "based_on_url": "https://www.reddit.com/r/LocalLLaMA/comments/1venecp/we_tested_deepseek_v4_flash_glm_52_and_kimi_k3_on/"
+   }
+  ]
+ },
+ "meta": {
+  "generated_at": "2026-08-03T20:04+00:00",
+  "window_start": "2026-08-03T15:22+00:00",
+  "window_end": "2026-08-03T20:04+00:00",
+  "candidate_count": 42,
+  "model": "grok-4-1-fast-reasoning",
+  "input_tokens": 19470,
+  "output_tokens": 2305,
+  "est_token_cost_usd": 0.005
+ }
+}
