@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI Digest — 2026-08-03T04:03+00:00</title>
+<style>
+  :root {
+    --bg: #0c0f14; --card: #141922; --card-hover: #1a2130; --border: #232b3a;
+    --text: #dfe6f0; --muted: #8b98ab; --accent: #5eb1ff; --accent2: #a78bfa;
+    --good: #4ade80; --bad: #f87171; --mid: #fbbf24;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text);
+         font: 16px/1.6 -apple-system, "Segoe UI", Roboto, sans-serif; }
+  .wrap { max-width: 860px; margin: 0 auto; padding: 32px 20px 64px; }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  header .brand { font-size: 13px; letter-spacing: 2px; text-transform: uppercase;
+                  color: var(--muted); }
+  header .brand a { color: var(--muted); }
+  h1 { font-size: 26px; margin: 6px 0 2px; }
+  .window { color: var(--muted); font-size: 14px; }
+  .overview { font-size: 17px; color: var(--text); margin: 18px 0 8px;
+              border-left: 3px solid var(--accent2); padding-left: 14px; }
+  .badges { display: flex; gap: 8px; flex-wrap: wrap; margin: 14px 0 26px; }
+  .badge { font-size: 12px; padding: 3px 10px; border-radius: 999px;
+           border: 1px solid var(--border); color: var(--muted); }
+  .badge.sent-bullish, .badge.sent-optimistic { color: var(--good); border-color: var(--good); }
+  .badge.sent-mixed { color: var(--mid); border-color: var(--mid); }
+  .badge.sent-skeptical, .badge.sent-anxious { color: var(--bad); border-color: var(--bad); }
+  .hero { background: linear-gradient(135deg, #16203a, #1b1530); border: 1px solid var(--border);
+          border-radius: 14px; padding: 22px 24px; margin-bottom: 30px; }
+  .hero .label { font-size: 12px; letter-spacing: 2px; text-transform: uppercase; color: var(--accent2); }
+  .hero h2 { margin: 8px 0 10px; font-size: 22px; }
+  .hero .why { color: var(--muted); font-size: 15px; margin-top: 10px; }
+  .hero .why strong { color: var(--text); }
+  h3.section { font-size: 14px; letter-spacing: 2px; text-transform: uppercase;
+               color: var(--muted); margin: 34px 0 12px; border-bottom: 1px solid var(--border);
+               padding-bottom: 8px; }
+  .card { background: var(--card); border: 1px solid var(--border); border-radius: 12px;
+          padding: 16px 18px; margin-bottom: 12px; }
+  .card:hover { background: var(--card-hover); }
+  .card h4 { margin: 0 0 6px; font-size: 16px; }
+  .card p { margin: 0; color: var(--muted); font-size: 14.5px; }
+  .src { display: inline-block; font-size: 12px; color: var(--accent2); margin-top: 8px; }
+  blockquote.take { margin: 0; }
+  .take .quote { font-size: 15.5px; font-style: italic; color: var(--text); }
+  .take .who { margin-top: 8px; font-size: 13.5px; color: var(--muted); }
+  .take .ctx { margin-top: 4px; font-size: 13.5px; color: var(--muted); }
+  .idea { border-left: 3px solid var(--accent2); }
+  .idea .hook { font-size: 15px; font-weight: 600; margin-bottom: 8px; }
+  .idea .draft { color: var(--text) !important; background: var(--bg); border: 1px dashed var(--border);
+                 border-radius: 8px; padding: 10px 12px; margin: 0 0 8px !important; }
+  .idea .why { font-size: 13.5px !important; }
+  .quiet { text-align: center; color: var(--muted); padding: 40px 0; font-size: 15px; }
+  .empty { color: var(--muted); font-size: 14px; font-style: italic; }
+  footer { margin-top: 44px; color: var(--muted); font-size: 12.5px;
+           border-top: 1px solid var(--border); padding-top: 14px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="brand"><a href="../index.html">AI NEWS DIGEST</a></div>
+    <h1>2026-08-03T04:03+00:00</h1>
+    <div class="window">Window: 2026-08-02T19:39+00:00 &rarr; 2026-08-03T04:03+00:00 (UTC)</div>
+  </header>
+
+  <p class="overview">Qwen3.8-Max drops with strong coding benchmarks, pushing open-weight models visibly closer to frontier performance. A simultaneous arXiv dump highlights ongoing work on agentic systems, long-horizon reasoning, and evaluation. Community buzz centers on practical local inference gains and custom LLM worlds.</p>
+
+  <div class="badges">
+    
+      <span class="badge sent-bullish">
+        Mood: bullish (+0.7)
+      </span>
+    
+    <span class="badge">99 candidates scanned</span>
+    <span class="badge">model: grok-4-1-fast-reasoning</span>
+  </div>
+
+  
+    <div class="card"><p>Optimism around open-weight progress and practical capability jumps; Karpathy highlights LLMs tackling ambitious custom code projects that were previously unthinkable.</p></div>
+  
+
+  
+
+  
+  <div class="hero">
+    <div class="label">Top story</div>
+    <h2><a href="https://qwen.ai/blog?id=qwen3.8">Qwen3.8-Max announced with new coding and cowork benchmarks</a></h2>
+    <p>Alibaba releases Qwen3.8-Max alongside Qwen3.8-27B; early reports highlight frontier-competitive results at lower cost. HN and Reddit threads note it alongside Kimi K3 and DeepSeek V4 as open-weight models closing the gap.</p>
+    
+      <p class="why"><strong>Why it matters:</strong> Marks clearest signal yet that open models deliver near-frontier task performance for 5x lower inference cost, accelerating local and fine-tuned deployments.</p>
+    
+    <span class="src">qwen.ai</span>
+  </div>
+  
+
+  
+
+  <h3 class="section">Model releases &amp; updates</h3>
+  
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1ve1mvh/minimaxh3_now_on_huggingface/">MiniMax-H3 open weights released on HF</a></h4>
+      <p>Omni-modal model supporting text/image/video/audio; generates up to 2K video with native stereo audio for 15s.</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1ve0psn/qwen3827b_announced_alongside_qwen38max/">Qwen3.8-27B and Max variants announced</a></h4>
+      <p>New models target coding and agentic cowork tasks with competitive benchmarks.</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+  
+
+  <h3 class="section">Frontier lab developments</h3>
+  
+    
+    <p class="empty">Nothing in this window.</p>
+    
+  
+
+  <h3 class="section">Influencer takes &amp; sentiment</h3>
+  
+  <div class="card">
+    <blockquote class="take">
+      <div class="quote">&ldquo;We&#39;re starting to leave the territory where you&#39;d test an LLM by e.g. &#39;create an svg of pelican on a bicycle&#39;... Opus went off for ~2 hours and wrote 5500 lines of code that (procedurally) rendered the story.&rdquo;</div>
+      <div class="who">&mdash; Andrej Karpathy (@karpathy)
+        &middot; <a href="https://x.com/karpathy/status/2083749667410727319">view post</a></div>
+      <div class="ctx">Illustrates shift to ambitious, stamina-heavy custom world-building that only LLMs now make feasible.</div>
+    </blockquote>
+  </div>
+  
+  <div class="card">
+    <blockquote class="take">
+      <div class="quote">&ldquo;I expect (human taste) to never really get solved to a superhuman degree, as success relies on an ever-shifting plane of cultural preference&rdquo;</div>
+      <div class="who">&mdash; Matthew Berman (@MatthewBerman)
+        &middot; <a href="https://x.com/MatthewBerman/status/2084030278100742188">view post</a></div>
+      <div class="ctx">Frames limits of AI impact around verifiability rather than raw taste.</div>
+    </blockquote>
+  </div>
+  
+
+  <h3 class="section">Research &amp; under the radar</h3>
+  
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2607.28629">OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems</a></h4>
+      <p>arXiv paper examines architectural gaps separating inference, orchestration, and execution in persistent agent systems.</p>
+      <span class="src">arXiv</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2607.28685">Safety, or Just Capability? A Validity Audit of Agent-Safety Benchmarks</a></h4>
+      <p>Audits R-Judge, InjecAgent, AgentHarm, AgentDojo; shows scores measure different behaviors and are not interchangeable.</p>
+      <span class="src">arXiv</span>
+    </div>
+    
+  
+
+  
+  <h3 class="section">Post ideas (ranked by viral potential)</h3>
+  
+  <div class="card idea">
+    <div class="hook">1. Qwen3.8-Max just dropped—open weights now deliver frontier coding at 5x lower cost.</div>
+    <p class="draft">Qwen3.8-Max benchmarks look strong enough that the real question is no longer &#39;can open models compete&#39; but &#39;how fast will everyone switch inference to them.&#39;</p>
+    <p class="why">Taps current cost/performance tension and local LLM momentum. &middot; <a href="https://qwen.ai/blog?id=qwen3.8">source</a></p>
+  </div>
+  
+  <div class="card idea">
+    <div class="hook">2. Karpathy&#39;s new test: give Opus 5 a 1M token budget and Lord of the Rings—gets 5500 lines of procedural 3D code.</div>
+    <p class="draft">Karpathy just showed Opus 5 spending two hours writing a 5500-line procedural LoTR renderer. The stamina gap is now the interesting part.</p>
+    <p class="why">Concrete example of capability jump beyond toy prompts; visual + shareable. &middot; <a href="https://x.com/karpathy/status/2083749667410727319">source</a></p>
+  </div>
+  
+  <div class="card idea">
+    <div class="hook">3. arXiv just dropped 30+ agent papers in one hour. Evaluation, memory, and safety all blowing up at once.</div>
+    <p class="draft">Agentic AI research is moving from &#39;does it work&#39; to &#39;how do we even measure if it works safely over long horizons.&#39;</p>
+    <p class="why">Captures the simultaneous flood and the evaluation crisis theme. &middot; <a href="https://arxiv.org/abs/2607.28629">source</a></p>
+  </div>
+  
+  
+
+  <footer>
+    Generated 2026-08-03T04:03+00:00 UTC
+     &middot; 31739 in / 2032 out tokens
+    (~$0.0074 tokens + search fees)
+    &middot; <a href="../index.html">all reports</a>
+  </footer>
+</div>
+</body>
+</html>

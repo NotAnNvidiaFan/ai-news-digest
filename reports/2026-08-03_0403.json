@@ -1,0 +1,95 @@
+{
+ "digest": {
+  "overview": "Qwen3.8-Max drops with strong coding benchmarks, pushing open-weight models visibly closer to frontier performance. A simultaneous arXiv dump highlights ongoing work on agentic systems, long-horizon reasoning, and evaluation. Community buzz centers on practical local inference gains and custom LLM worlds.",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Qwen3.8-Max announced with new coding and cowork benchmarks",
+   "summary": "Alibaba releases Qwen3.8-Max alongside Qwen3.8-27B; early reports highlight frontier-competitive results at lower cost. HN and Reddit threads note it alongside Kimi K3 and DeepSeek V4 as open-weight models closing the gap.",
+   "why_it_matters": "Marks clearest signal yet that open models deliver near-frontier task performance for 5x lower inference cost, accelerating local and fine-tuned deployments.",
+   "url": "https://qwen.ai/blog?id=qwen3.8",
+   "source": "qwen.ai"
+  },
+  "sentiment": {
+   "label": "bullish",
+   "score": 0.7,
+   "summary": "Optimism around open-weight progress and practical capability jumps; Karpathy highlights LLMs tackling ambitious custom code projects that were previously unthinkable."
+  },
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "MiniMax-H3 open weights released on HF",
+     "summary": "Omni-modal model supporting text/image/video/audio; generates up to 2K video with native stereo audio for 15s.",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ve1mvh/minimaxh3_now_on_huggingface/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Qwen3.8-27B and Max variants announced",
+     "summary": "New models target coding and agentic cowork tasks with competitive benchmarks.",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ve0psn/qwen3827b_announced_alongside_qwen38max/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "frontier_labs": [],
+   "influencer_takes": [
+    {
+     "author": "Andrej Karpathy",
+     "handle": "@karpathy",
+     "quote": "We're starting to leave the territory where you'd test an LLM by e.g. 'create an svg of pelican on a bicycle'... Opus went off for ~2 hours and wrote 5500 lines of code that (procedurally) rendered the story.",
+     "context": "Illustrates shift to ambitious, stamina-heavy custom world-building that only LLMs now make feasible.",
+     "url": "https://x.com/karpathy/status/2083749667410727319"
+    },
+    {
+     "author": "Matthew Berman",
+     "handle": "@MatthewBerman",
+     "quote": "I expect (human taste) to never really get solved to a superhuman degree, as success relies on an ever-shifting plane of cultural preference",
+     "context": "Frames limits of AI impact around verifiability rather than raw taste.",
+     "url": "https://x.com/MatthewBerman/status/2084030278100742188"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
+     "summary": "arXiv paper examines architectural gaps separating inference, orchestration, and execution in persistent agent systems.",
+     "url": "https://arxiv.org/abs/2607.28629",
+     "source": "arXiv"
+    },
+    {
+     "headline": "Safety, or Just Capability? A Validity Audit of Agent-Safety Benchmarks",
+     "summary": "Audits R-Judge, InjecAgent, AgentHarm, AgentDojo; shows scores measure different behaviors and are not interchangeable.",
+     "url": "https://arxiv.org/abs/2607.28685",
+     "source": "arXiv"
+    }
+   ]
+  },
+  "post_ideas": [
+   {
+    "hook": "Qwen3.8-Max just dropped\u2014open weights now deliver frontier coding at 5x lower cost.",
+    "draft": "Qwen3.8-Max benchmarks look strong enough that the real question is no longer 'can open models compete' but 'how fast will everyone switch inference to them.'",
+    "why_viral": "Taps current cost/performance tension and local LLM momentum.",
+    "based_on_url": "https://qwen.ai/blog?id=qwen3.8"
+   },
+   {
+    "hook": "Karpathy's new test: give Opus 5 a 1M token budget and Lord of the Rings\u2014gets 5500 lines of procedural 3D code.",
+    "draft": "Karpathy just showed Opus 5 spending two hours writing a 5500-line procedural LoTR renderer. The stamina gap is now the interesting part.",
+    "why_viral": "Concrete example of capability jump beyond toy prompts; visual + shareable.",
+    "based_on_url": "https://x.com/karpathy/status/2083749667410727319"
+   },
+   {
+    "hook": "arXiv just dropped 30+ agent papers in one hour. Evaluation, memory, and safety all blowing up at once.",
+    "draft": "Agentic AI research is moving from 'does it work' to 'how do we even measure if it works safely over long horizons.'",
+    "why_viral": "Captures the simultaneous flood and the evaluation crisis theme.",
+    "based_on_url": "https://arxiv.org/abs/2607.28629"
+   }
+  ]
+ },
+ "meta": {
+  "generated_at": "2026-08-03T04:03+00:00",
+  "window_start": "2026-08-02T19:39+00:00",
+  "window_end": "2026-08-03T04:03+00:00",
+  "candidate_count": 99,
+  "model": "grok-4-1-fast-reasoning",
+  "input_tokens": 31739,
+  "output_tokens": 2032,
+  "est_token_cost_usd": 0.0074
+ }
+}
