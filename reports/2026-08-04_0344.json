@@ -1,0 +1,89 @@
+{
+ "digest": {
+  "overview": "Short overnight window highlights OpenAI's technical reveal on its rebuilt realtime voice stack for natural, full-duplex conversations at scale. Enterprise pushback from Palantir's Karp and a major Ukraine drone AI deal add tension around deployment and geopolitics. Open model chatter and funding notes fill the rest.",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "OpenAI details GPT-Live realtime voice architecture rebuild",
+   "summary": "@OpenAI and @gdb posted on the new full-duplex stack enabling continuous audio flow, deeper reasoning/tool use without interruptions, built in six months for ChatGPT-scale deployment.",
+   "why_it_matters": "Moves voice AI from turn-based to natural back-and-forth at production scale; Reddit threads surfaced the posts within hours.",
+   "url": "https://x.com/OpenAI/status/2084378415818579975",
+   "source": "X/OpenAI"
+  },
+  "sentiment": {
+   "label": "optimistic",
+   "score": 0.6,
+   "summary": "Excitement around OpenAI's voice progress and open ecosystem tools; mixed notes on adoption challenges for new Chinese models and enterprise trust issues."
+  },
+  "sections": {
+   "model_releases": [],
+   "frontier_labs": [
+    {
+     "headline": "Palantir CEO Alex Karp calls AI industry 'Marxist' after $1B profit quarter",
+     "summary": "Karp warns frontier labs are untrustworthy for enterprises post-strong earnings.",
+     "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+     "source": "TechCrunch"
+    },
+    {
+     "headline": "Baseten raises $13B Series F as inference engineering leader",
+     "summary": "Focus on autoregressive and diffusion infra; positions as key player in production serving.",
+     "url": "https://www.latent.space/p/inference-eng",
+     "source": "Latent Space"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Greg Brockman",
+     "handle": "@gdb",
+     "quote": "GPT-Live is a new architecture and stack for realtime audio",
+     "context": "OpenAI co-founder elaborates on the client-to-model rebuild enabling natural conversation at scale",
+     "url": "https://x.com/gdb/status/2084405421041963356"
+    },
+    {
+     "author": "Nathan Lambert",
+     "handle": "@natolambert",
+     "quote": "It\u2019ll be interesting to see how Qwen 3.8 Max lands... feedback loop the Qwen team needed",
+     "context": "Analysis of open-weight adoption dynamics amid accelerating releases",
+     "url": "https://x.com/natolambert/status/2084182167836410264"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "LLMs reward expertise",
+     "summary": "Essay argues LLMs amplify skilled users' advantages in prompting and verification rather than leveling the field.",
+     "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+     "source": "Hacker News"
+    }
+   ]
+  },
+  "post_ideas": [
+   {
+    "hook": "OpenAI just shipped the voice stack that actually listens while it talks",
+    "draft": "OpenAI rebuilt the entire voice pipeline so the model can reason and use tools without breaking the flow. Full-duplex at ChatGPT scale changes the game for agents.",
+    "why_viral": "Direct tie to live product demo; tension between hype and real engineering details resonates with builders",
+    "based_on_url": "https://x.com/OpenAI/status/2084378415818579975"
+   },
+   {
+    "hook": "Palantir's Karp just called the AI industry Marxist after printing $1B",
+    "draft": "Karp's latest shot: frontier labs can't be trusted by enterprises. After a killer quarter, the critique lands differently.",
+    "why_viral": "Contrarian enterprise voice amid funding hype; sharp quote drives engagement",
+    "based_on_url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/"
+   },
+   {
+    "hook": "Ukraine just got 50k kamikaze drones upgraded with US AI autonomy",
+    "draft": "$100M deal gives cheap drones onboard target tracking and swarm potential. Autonomous strikes at the edge are here.",
+    "why_viral": "Geopolitical + tech crossover with real deployment numbers; sparks debate on escalation",
+    "based_on_url": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/"
+   }
+  ]
+ },
+ "meta": {
+  "generated_at": "2026-08-04T03:44+00:00",
+  "window_start": "2026-08-03T20:04+00:00",
+  "window_end": "2026-08-04T03:44+00:00",
+  "candidate_count": 32,
+  "model": "grok-4-1-fast-reasoning",
+  "input_tokens": 27592,
+  "output_tokens": 2347,
+  "est_token_cost_usd": 0.0067
+ }
+}
