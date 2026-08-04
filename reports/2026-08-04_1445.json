@@ -1,0 +1,102 @@
+{
+ "digest": {
+  "overview": "Apple and OpenAI escalate their trade-secrets lawsuit with public counter-claims and leaked messages. Local inference sees rapid progress on DeepSeek V4 Flash across single-GPU, Mac, and server setups, plus new small open models from Mistral and Liquid AI. Community mood mixes legal drama with excitement over cheaper, faster on-device AI.",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Apple-OpenAI lawsuit turns public as OpenAI publishes internal messages",
+   "summary": "Apple widens its probe claiming more ex-employees took confidential hardware data to OpenAI; OpenAI responds overnight with a blog post titled 'Apple is getting this wrong' and publishes messages suggesting Apple continued seeking help from a departed engineer.",
+   "why_it_matters": "The public airing of receipts raises stakes in the high-profile trade-secrets case and highlights ongoing talent and IP friction between the two companies.",
+   "url": "https://openai.com/index/apple-is-getting-this-wrong/",
+   "source": "OpenAI"
+  },
+  "sentiment": {
+   "label": "mixed",
+   "score": 0.1,
+   "summary": "Legal tension between Apple and OpenAI dominates discussion while local-inference wins and new small models generate optimism about accessible AI."
+  },
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Mistral releases Shieldstral 3B multimodal safety classifier",
+     "summary": "Open-weights 3B model outperforms models up to 7x larger on safety classification tasks.",
+     "url": "https://mistral.ai/news/shieldstral/",
+     "source": "Mistral AI"
+    },
+    {
+     "headline": "Liquid AI ships LFM2.5-2.6B for local agents",
+     "summary": "New small model targets deployable agents everywhere via Hugging Face.",
+     "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+     "source": "Hugging Face"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "NVIDIA-backed Open Secure AI Alliance releases SAFE guidelines RFC",
+     "summary": "120+ organizations contribute cybersecurity transparency rules for agentic AI ahead of Black Hat.",
+     "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance-contributions/",
+     "source": "NVIDIA"
+    },
+    {
+     "headline": "Apple expands OpenAI trade-secrets investigation in court filing",
+     "summary": "Claims additional former employees may have retained confidential data.",
+     "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+     "source": "TechCrunch"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Ethan Mollick",
+     "handle": "@emollick",
+     "quote": "Given today, it is surprising how daring Microsoft & Google were initially with AI. Microsoft released GPT-4 before OpenAI, didn't back down after Sydney & got Copilot to market quickly... Google dealt with blowback about Bard and AI Overview and invented deep research.",
+     "context": "Reflects on early corporate risk-taking in AI amid current legal and competitive caution.",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3msa76jvzms24"
+    },
+    {
+     "author": "Ethan Mollick",
+     "handle": "@emollick",
+     "quote": "An unexpectedly stress-reducing use of Codex/Code is just fixing problems with my various Windows machines: weird driver issues, game incompatibilities...",
+     "context": "Highlights practical, under-appreciated wins from coding agents.",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3msa3zyxjhs24"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Agentic Coding in the Wild: Characterizing GitHub Copilot Traces at Production Scale",
+     "summary": "First large-scale analysis of multi-step LLM agent workloads vs. chatbots on GitHub Copilot data.",
+     "url": "https://arxiv.org/abs/2608.00101",
+     "source": "arXiv"
+    }
+   ]
+  },
+  "post_ideas": [
+   {
+    "hook": "OpenAI just dropped receipts on Apple in the trade-secrets fight",
+    "draft": "OpenAI published internal messages showing Apple kept pinging a former engineer for help weeks after he left. The lawsuit just got messier and more public.",
+    "why_viral": "Live legal drama between two AI giants with direct quotes creates instant shareable tension.",
+    "based_on_url": "https://openai.com/index/apple-is-getting-this-wrong/"
+   },
+   {
+    "hook": "DeepSeek V4 Flash hitting 15+ tps decode on a single 5090 with 1M context",
+    "draft": "One RTX 5090 + vLLM offloading now runs full 1M context DeepSeek V4 Flash at usable speeds for agentic coding. Local frontier is closing fast.",
+    "why_viral": "Concrete hardware numbers on a consumer card surprise readers expecting cloud-only performance.",
+    "based_on_url": "https://www.reddit.com/r/LocalLLaMA/comments/1vfbcgx/deepseekv4flash0731_full_1m_context_on_a_single/"
+   },
+   {
+    "hook": "Mistral just dropped a 3B safety model that beats 7x larger ones",
+    "draft": "Shieldstral is a 3B open-weights multimodal safety classifier outperforming models up to 21B. Small specialized models keep punching above their weight.",
+    "why_viral": "Underdog size + benchmark win plays into the ongoing open vs closed and small vs large debate.",
+    "based_on_url": "https://mistral.ai/news/shieldstral/"
+   }
+  ]
+ },
+ "meta": {
+  "generated_at": "2026-08-04T14:45+00:00",
+  "window_start": "2026-08-04T03:44+00:00",
+  "window_end": "2026-08-04T14:45+00:00",
+  "candidate_count": 120,
+  "model": "grok-4-1-fast-reasoning",
+  "input_tokens": 35495,
+  "output_tokens": 2228,
+  "est_token_cost_usd": 0.0082
+ }
+}
