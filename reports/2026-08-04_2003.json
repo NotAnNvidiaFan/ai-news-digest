@@ -1,0 +1,95 @@
+{
+ "digest": {
+  "overview": "A narrow 5-hour window delivered Anthropic's $10B cloud deal, fresh open-weight releases including Ling-3.0-flash MoE, regulatory heat on Texas data centers, and local runnable MiniMax-H3 video model notes. Big-lab spending and open-model momentum from non-US players stood out.",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Anthropic inks $10B deal with AI cloud startup Volta",
+   "summary": "Anthropic continues its cloud partnership spree with a reported $10 billion agreement for AI infrastructure.",
+   "why_it_matters": "Signals escalating hyperscale spend amid capacity constraints; follows recent Anthropic moves with other providers.",
+   "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+   "source": "TechCrunch AI"
+  },
+  "sentiment": {
+   "label": "mixed",
+   "score": 0.2,
+   "summary": "Community notes strong open-model progress from inclusionAI and others alongside regulatory friction on data centers and questions about unsustainable demand."
+  },
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "inclusionAI releases Ling-3.0-flash weights (MIT, 127.5B total / 5.1B active MoE)",
+     "summary": "Official BF16 and FP8 weights now on Hugging Face; 512 experts, fine-grained routing for agentic and high-volume tasks.",
+     "url": "https://huggingface.co/inclusionAI/Ling-3.0-flash",
+     "source": "Hugging Face via r/LocalLLaMA"
+    },
+    {
+     "headline": "Liquid AI ships LFM2.5-2.6B with agentic focus",
+     "summary": "New small model emphasizes agent capabilities for high-volume document tasks; follows their earlier efficient releases.",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vfh1sn/lfm2526b_is_out/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Nvidia-backed Open Secure AI Alliance issues first proposals on defending against AI agents",
+     "summary": "Week-old group of 120+ companies already releasing defense specs; Nvidia driving rapid progress.",
+     "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "NVIDIA joins NSF State and Regional AI Hubs to expand US research access",
+     "summary": "Partnership aims to broaden advanced compute, data and expertise for AI education and R&D beyond coastal hubs.",
+     "url": "https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program/",
+     "source": "NVIDIA Blog"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Simon Willison",
+     "handle": "@simonwillison.net",
+     "quote": "The MiniMax-H3 video generation model is a lot of fun - here's what I generated on my M5 Pro Mac for the prompt 'a rainbow colored skunk leaps over a mossy log in a supermarket' (~115GB model download, took around 45 minutes)",
+     "context": "Demonstrates practical local inference of a new omni-modal video model on consumer hardware",
+     "url": "https://bsky.app/profile/simonwillison.net/post/3msbpz3kmak27"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
+     "summary": "arXiv paper examines saturation effects across popular benchmarks, with HN discussion on evaluation reliability.",
+     "url": "https://arxiv.org/abs/2602.16763",
+     "source": "arXiv via HN"
+    }
+   ]
+  },
+  "post_ideas": [
+   {
+    "hook": "Anthropic just dropped another $10B cloud check",
+    "draft": "Anthropic's latest $10B Volta deal shows the real constraint isn't models anymore\u2014it's who can actually power the inference at scale.",
+    "why_viral": "Highlights infrastructure bottleneck with concrete dollar figure; taps ongoing capacity anxiety",
+    "based_on_url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/"
+   },
+   {
+    "hook": "Ling-3.0-flash open weights just landed",
+    "draft": "127B MoE with only 5B active params, MIT license, FP8 variant ~128GB. Another non-US open model shipping serious capability.",
+    "why_viral": "Contrarian to US-centric narratives; specific size and licensing details invite immediate experimentation talk",
+    "based_on_url": "https://huggingface.co/inclusionAI/Ling-3.0-flash"
+   },
+   {
+    "hook": "Texas just paused new data centers",
+    "draft": "Texas halting new AI data center connections for audits is the first real regulatory brake on the buildout. Power reality check arriving.",
+    "why_viral": "Surprise policy move in a pro-growth state; pairs infrastructure spend stories with concrete limits",
+    "based_on_url": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/"
+   }
+  ]
+ },
+ "meta": {
+  "generated_at": "2026-08-04T20:03+00:00",
+  "window_start": "2026-08-04T14:45+00:00",
+  "window_end": "2026-08-04T20:03+00:00",
+  "candidate_count": 51,
+  "model": "grok-4-1-fast-reasoning",
+  "input_tokens": 19661,
+  "output_tokens": 2308,
+  "est_token_cost_usd": 0.0051
+ }
+}
