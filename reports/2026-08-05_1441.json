@@ -1,0 +1,105 @@
+{
+ "digest": {
+  "overview": "Quiet window dominated by Anthropic's push into custom AI silicon and on-device moves from Liquid AI/MacPaw. Steady stream of local LLM benchmarks and a wave of arXiv papers on benchmarks, quantization, and agentic systems. No major model drops or frontier announcements.",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Anthropic building custom AI chip design team",
+   "summary": "Anthropic is hiring a dedicated team to design its own AI chips, planning to co-design hardware and models for faster, more efficient Claude inference.",
+   "why_it_matters": "Signals shift from API/cloud reliance toward vertical integration; follows similar moves by Google, Meta, and others amid rising inference costs.",
+   "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
+   "source": "TechCrunch"
+  },
+  "sentiment": {
+   "label": "mixed",
+   "score": 0.1,
+   "summary": "Community focused on practical local runs and infra strategy rather than hype; skepticism around open models in policy and universities preferring no AI."
+  },
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Qwen3-TTS voice cloning merged into mainline llama.cpp",
+     "summary": "Full support for Qwen3-TTS-12Hz-1.7B-Base GGUF now in llama.cpp master, enabling real on-device voice cloning.",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vg0q6r/qwen3tts_voice_cloning_is_now_in_mainline/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "LFM2.5-2.6B running at 17 tok/s on OnePlus 13 (pure CPU, Q4_K_M)",
+     "summary": "2.69B model with 128K context optimized for agent workflows demonstrated on mobile CPU via custom inference engine.",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vg8qfv/lfm2526b_on_a_oneplus_13_at_17_toks_pure_cpu/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Anthropic hiring AI chip design team",
+     "summary": "Team to co-design custom silicon with models for efficiency gains.",
+     "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
+     "source": "TechCrunch"
+    },
+    {
+     "headline": "MacPaw partners with Liquid AI for on-device inference",
+     "summary": "MacPaw building local Eney assistant using Liquid AI models for its app store developers.",
+     "url": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
+     "source": "TechCrunch"
+    },
+    {
+     "headline": "Google Assistant to be removed from Android phones and tablets Sept 4",
+     "summary": "Gemini fully replaces Assistant across devices including watches and headphones.",
+     "url": "https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown",
+     "source": "The Verge"
+    }
+   ],
+   "influencer_takes": [],
+   "research_radar": [
+    {
+     "headline": "Position: LLMs Can't Jump",
+     "summary": "OpenReview challenge paper arguing fundamental limits in LLM capabilities for certain tasks.",
+     "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
+     "source": "OpenReview"
+    },
+    {
+     "headline": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
+     "summary": "arXiv paper proposing memory ops without token overhead for agents.",
+     "url": "https://arxiv.org/abs/2607.29377",
+     "source": "arXiv"
+    },
+    {
+     "headline": "JudgeArena: Unified framework for reproducible LLM-judge evaluation",
+     "summary": "Addresses fragmentation in LLM-as-a-judge benchmarks with standardized protocols.",
+     "url": "https://arxiv.org/abs/2608.02620",
+     "source": "arXiv"
+    }
+   ]
+  },
+  "post_ideas": [
+   {
+    "hook": "Anthropic's chip team bet",
+    "draft": "Anthropic just posted for a full AI chip design team. Vertical integration race is on\u2014next 18 months will show who actually ships silicon that matters.",
+    "why_viral": "Direct tension on infra strategy vs pure software play; timely with rising capex debates.",
+    "based_on_url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/"
+   },
+   {
+    "hook": "Google kills Assistant for Gemini",
+    "draft": "Google Assistant disappears from every Android phone Sept 4. The transition is complete\u2014how many users will notice or care?",
+    "why_viral": "End of an era moment with clear replacement; personal device impact.",
+    "based_on_url": "https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown"
+   },
+   {
+    "hook": "Rust adopts LLM policy",
+    "draft": "Rust is formalizing an LLM policy for contributions. Open source tooling finally confronting the generated-code reality.",
+    "why_viral": "Contrarian take on code quality vs velocity in core infra project.",
+    "based_on_url": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/"
+   }
+  ]
+ },
+ "meta": {
+  "generated_at": "2026-08-05T14:41+00:00",
+  "window_start": "2026-08-05T03:40+00:00",
+  "window_end": "2026-08-05T14:41+00:00",
+  "candidate_count": 87,
+  "model": "grok-4-1-fast-reasoning",
+  "input_tokens": 41577,
+  "output_tokens": 2551,
+  "est_token_cost_usd": 0.0096
+ }
+}

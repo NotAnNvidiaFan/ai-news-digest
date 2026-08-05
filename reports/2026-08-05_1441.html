@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI Digest — 2026-08-05T14:41+00:00</title>
+<style>
+  :root {
+    --bg: #0c0f14; --card: #141922; --card-hover: #1a2130; --border: #232b3a;
+    --text: #dfe6f0; --muted: #8b98ab; --accent: #5eb1ff; --accent2: #a78bfa;
+    --good: #4ade80; --bad: #f87171; --mid: #fbbf24;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text);
+         font: 16px/1.6 -apple-system, "Segoe UI", Roboto, sans-serif; }
+  .wrap { max-width: 860px; margin: 0 auto; padding: 32px 20px 64px; }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  header .brand { font-size: 13px; letter-spacing: 2px; text-transform: uppercase;
+                  color: var(--muted); }
+  header .brand a { color: var(--muted); }
+  h1 { font-size: 26px; margin: 6px 0 2px; }
+  .window { color: var(--muted); font-size: 14px; }
+  .overview { font-size: 17px; color: var(--text); margin: 18px 0 8px;
+              border-left: 3px solid var(--accent2); padding-left: 14px; }
+  .badges { display: flex; gap: 8px; flex-wrap: wrap; margin: 14px 0 26px; }
+  .badge { font-size: 12px; padding: 3px 10px; border-radius: 999px;
+           border: 1px solid var(--border); color: var(--muted); }
+  .badge.sent-bullish, .badge.sent-optimistic { color: var(--good); border-color: var(--good); }
+  .badge.sent-mixed { color: var(--mid); border-color: var(--mid); }
+  .badge.sent-skeptical, .badge.sent-anxious { color: var(--bad); border-color: var(--bad); }
+  .hero { background: linear-gradient(135deg, #16203a, #1b1530); border: 1px solid var(--border);
+          border-radius: 14px; padding: 22px 24px; margin-bottom: 30px; }
+  .hero .label { font-size: 12px; letter-spacing: 2px; text-transform: uppercase; color: var(--accent2); }
+  .hero h2 { margin: 8px 0 10px; font-size: 22px; }
+  .hero .why { color: var(--muted); font-size: 15px; margin-top: 10px; }
+  .hero .why strong { color: var(--text); }
+  h3.section { font-size: 14px; letter-spacing: 2px; text-transform: uppercase;
+               color: var(--muted); margin: 34px 0 12px; border-bottom: 1px solid var(--border);
+               padding-bottom: 8px; }
+  .card { background: var(--card); border: 1px solid var(--border); border-radius: 12px;
+          padding: 16px 18px; margin-bottom: 12px; }
+  .card:hover { background: var(--card-hover); }
+  .card h4 { margin: 0 0 6px; font-size: 16px; }
+  .card p { margin: 0; color: var(--muted); font-size: 14.5px; }
+  .src { display: inline-block; font-size: 12px; color: var(--accent2); margin-top: 8px; }
+  blockquote.take { margin: 0; }
+  .take .quote { font-size: 15.5px; font-style: italic; color: var(--text); }
+  .take .who { margin-top: 8px; font-size: 13.5px; color: var(--muted); }
+  .take .ctx { margin-top: 4px; font-size: 13.5px; color: var(--muted); }
+  .idea { border-left: 3px solid var(--accent2); }
+  .idea .hook { font-size: 15px; font-weight: 600; margin-bottom: 8px; }
+  .idea .draft { color: var(--text) !important; background: var(--bg); border: 1px dashed var(--border);
+                 border-radius: 8px; padding: 10px 12px; margin: 0 0 8px !important; }
+  .idea .why { font-size: 13.5px !important; }
+  .quiet { text-align: center; color: var(--muted); padding: 40px 0; font-size: 15px; }
+  .empty { color: var(--muted); font-size: 14px; font-style: italic; }
+  footer { margin-top: 44px; color: var(--muted); font-size: 12.5px;
+           border-top: 1px solid var(--border); padding-top: 14px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="brand"><a href="../index.html">AI NEWS DIGEST</a></div>
+    <h1>2026-08-05T14:41+00:00</h1>
+    <div class="window">Window: 2026-08-05T03:40+00:00 &rarr; 2026-08-05T14:41+00:00 (UTC)</div>
+  </header>
+
+  <p class="overview">Quiet window dominated by Anthropic&#39;s push into custom AI silicon and on-device moves from Liquid AI/MacPaw. Steady stream of local LLM benchmarks and a wave of arXiv papers on benchmarks, quantization, and agentic systems. No major model drops or frontier announcements.</p>
+
+  <div class="badges">
+    
+      <span class="badge sent-mixed">
+        Mood: mixed (+0.1)
+      </span>
+    
+    <span class="badge">87 candidates scanned</span>
+    <span class="badge">model: grok-4-1-fast-reasoning</span>
+  </div>
+
+  
+    <div class="card"><p>Community focused on practical local runs and infra strategy rather than hype; skepticism around open models in policy and universities preferring no AI.</p></div>
+  
+
+  
+
+  
+  <div class="hero">
+    <div class="label">Top story</div>
+    <h2><a href="https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/">Anthropic building custom AI chip design team</a></h2>
+    <p>Anthropic is hiring a dedicated team to design its own AI chips, planning to co-design hardware and models for faster, more efficient Claude inference.</p>
+    
+      <p class="why"><strong>Why it matters:</strong> Signals shift from API/cloud reliance toward vertical integration; follows similar moves by Google, Meta, and others amid rising inference costs.</p>
+    
+    <span class="src">TechCrunch</span>
+  </div>
+  
+
+  
+
+  <h3 class="section">Model releases &amp; updates</h3>
+  
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1vg0q6r/qwen3tts_voice_cloning_is_now_in_mainline/">Qwen3-TTS voice cloning merged into mainline llama.cpp</a></h4>
+      <p>Full support for Qwen3-TTS-12Hz-1.7B-Base GGUF now in llama.cpp master, enabling real on-device voice cloning.</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1vg8qfv/lfm2526b_on_a_oneplus_13_at_17_toks_pure_cpu/">LFM2.5-2.6B running at 17 tok/s on OnePlus 13 (pure CPU, Q4_K_M)</a></h4>
+      <p>2.69B model with 128K context optimized for agent workflows demonstrated on mobile CPU via custom inference engine.</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+  
+
+  <h3 class="section">Frontier lab developments</h3>
+  
+    
+    <div class="card">
+      <h4><a href="https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/">Anthropic hiring AI chip design team</a></h4>
+      <p>Team to co-design custom silicon with models for efficiency gains.</p>
+      <span class="src">TechCrunch</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/">MacPaw partners with Liquid AI for on-device inference</a></h4>
+      <p>MacPaw building local Eney assistant using Liquid AI models for its app store developers.</p>
+      <span class="src">TechCrunch</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown">Google Assistant to be removed from Android phones and tablets Sept 4</a></h4>
+      <p>Gemini fully replaces Assistant across devices including watches and headphones.</p>
+      <span class="src">The Verge</span>
+    </div>
+    
+  
+
+  <h3 class="section">Influencer takes &amp; sentiment</h3>
+  
+  <p class="empty">No notable takes this window.</p>
+  
+
+  <h3 class="section">Research &amp; under the radar</h3>
+  
+    
+    <div class="card">
+      <h4><a href="https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt">Position: LLMs Can&#39;t Jump</a></h4>
+      <p>OpenReview challenge paper arguing fundamental limits in LLM capabilities for certain tasks.</p>
+      <span class="src">OpenReview</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2607.29377">Zero-Mem: Zero-Token Memory Operations for LLM Agents</a></h4>
+      <p>arXiv paper proposing memory ops without token overhead for agents.</p>
+      <span class="src">arXiv</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2608.02620">JudgeArena: Unified framework for reproducible LLM-judge evaluation</a></h4>
+      <p>Addresses fragmentation in LLM-as-a-judge benchmarks with standardized protocols.</p>
+      <span class="src">arXiv</span>
+    </div>
+    
+  
+
+  
+  <h3 class="section">Post ideas (ranked by viral potential)</h3>
+  
+  <div class="card idea">
+    <div class="hook">1. Anthropic&#39;s chip team bet</div>
+    <p class="draft">Anthropic just posted for a full AI chip design team. Vertical integration race is on—next 18 months will show who actually ships silicon that matters.</p>
+    <p class="why">Direct tension on infra strategy vs pure software play; timely with rising capex debates. &middot; <a href="https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/">source</a></p>
+  </div>
+  
+  <div class="card idea">
+    <div class="hook">2. Google kills Assistant for Gemini</div>
+    <p class="draft">Google Assistant disappears from every Android phone Sept 4. The transition is complete—how many users will notice or care?</p>
+    <p class="why">End of an era moment with clear replacement; personal device impact. &middot; <a href="https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown">source</a></p>
+  </div>
+  
+  <div class="card idea">
+    <div class="hook">3. Rust adopts LLM policy</div>
+    <p class="draft">Rust is formalizing an LLM policy for contributions. Open source tooling finally confronting the generated-code reality.</p>
+    <p class="why">Contrarian take on code quality vs velocity in core infra project. &middot; <a href="https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/">source</a></p>
+  </div>
+  
+  
+
+  <footer>
+    Generated 2026-08-05T14:41+00:00 UTC
+     &middot; 41577 in / 2551 out tokens
+    (~$0.0096 tokens + search fees)
+    &middot; <a href="../index.html">all reports</a>
+  </footer>
+</div>
+</body>
+</html>
