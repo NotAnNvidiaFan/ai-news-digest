@@ -1,0 +1,96 @@
+{
+ "digest": {
+  "overview": "Google DeepMind leadership exodus dominates: Demis Hassabis to Chairman role, Jeff Dean and team depart for new scientific discovery startup. AI agent safety incidents and Meta's CSAM ad failures add to frontier lab scrutiny. Local/open models and agent tooling see steady incremental progress.",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Demis Hassabis to Chair, Jeff Dean leaves Google for Discovery Loop startup",
+   "summary": "Hassabis shifts from Google DeepMind CEO to Chair + Alphabet Chief Scientist; Jeff Dean and other top researchers exit to found Discovery Loop focused on AI for drug discovery, chip design and scientific breakthroughs.",
+   "why_it_matters": "Signals major instability at the incumbent with compute and talent advantages; multiple outlets note it as a pivotal moment after years of OpenAI momentum.",
+   "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+   "source": "Google"
+  },
+  "sentiment": {
+   "label": "mixed",
+   "score": -0.2,
+   "summary": "Community notes incumbent struggles and talent flight while celebrating open/local tooling wins and agent progress; tone mixes concern over safety incidents with pragmatic excitement for smaller teams."
+  },
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Meta releases Muse Code and Muse Spark 1.2",
+     "summary": "New code and spark models from Meta Research for agentic and creative tasks.",
+     "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+     "source": "Meta"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Jeff Dean and top Google AI researchers leave to launch Discovery Loop",
+     "summary": "Legendary execs depart to build AI for scientific discovery; coincides with Hassabis role change at DeepMind.",
+     "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+     "source": "TechCrunch"
+    },
+    {
+     "headline": "Meta ran ads containing AI-generated CSAM imagery",
+     "summary": "Over 50 AI-generated child sexual abuse ads appeared on Facebook/Instagram this week per Meta's ad library.",
+     "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
+     "source": "Wired"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Nathan Lambert",
+     "handle": "@natolambert",
+     "quote": "Major restructuring at Gemini (Jeff Dean out, Hassabis no longer CEO). This story will be studied forever as the incumbent with all the advantages not being able to get going. P.s. OpenAI accomplished their original goal.",
+     "context": "Direct reaction to the leadership news highlighting incumbent failure narrative",
+     "url": "https://bsky.app/profile/natolambert.bsky.social/post/3msdwcsw4t62f"
+    },
+    {
+     "author": "Ethan Mollick",
+     "handle": "@emollick",
+     "quote": "I find arguments that AI can't do judgement or creativity or taste to be especially obviously false in the time of agents. Any long task requires lots of taste, judgement & creativity.",
+     "context": "Counters capability skepticism amid agent discussion",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3msdvvn2kb22m"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "From User Sequences to Scaling Laws: Meta\u2019s multi-stage ads ranking architecture",
+     "summary": "Details how Meta models billions of daily user sequences for ads recommendations with temporal signals.",
+     "url": "https://engineering.fb.com/2026/08/05/ml-applications/from-user-sequences-to-scaling-laws-a-multi-stage-architecture-for-metas-ads-ranking/",
+     "source": "Meta Engineering"
+    }
+   ]
+  },
+  "post_ideas": [
+   {
+    "hook": "Google's top AI talent just walked out the door",
+    "draft": "Jeff Dean + team leaving Google to found Discovery Loop while Hassabis steps back at DeepMind. The compute king can't retain its best people\u2014what does that say about execution?",
+    "why_viral": "High-stakes drama at the biggest lab, taps into 'incumbent failure' narrative right now",
+    "based_on_url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/"
+   },
+   {
+    "hook": "Meta served AI-generated CSAM ads this week",
+    "draft": "Wired found 50+ AI-generated child abuse ads running on Facebook/Instagram. Platform safety tooling still failing at scale.",
+    "why_viral": "Shocking concrete failure with clear policy implications, sparks outrage",
+    "based_on_url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/"
+   },
+   {
+    "hook": "Hassabis demoted, Dean exits\u2014OpenAI 'won'?",
+    "draft": "Nat Lambert: 'This story will be studied forever as the incumbent with all the advantages not being able to get going.' Harsh but data-backed take.",
+    "why_viral": "Quote from credible voice + contrarian framing of the talent war",
+    "based_on_url": "https://bsky.app/profile/natolambert.bsky.social/post/3msdwcsw4t62f"
+   }
+  ]
+ },
+ "meta": {
+  "generated_at": "2026-08-05T20:00+00:00",
+  "window_start": "2026-08-05T14:41+00:00",
+  "window_end": "2026-08-05T20:00+00:00",
+  "candidate_count": 54,
+  "model": "grok-4-1-fast-reasoning",
+  "input_tokens": 19670,
+  "output_tokens": 1975,
+  "est_token_cost_usd": 0.0049
+ }
+}
