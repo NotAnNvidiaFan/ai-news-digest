@@ -1,0 +1,109 @@
+{
+ "digest": {
+  "overview": "Qwen3.8-Max (Qwen3.8-2.4T-A95B) open release slated for next Wednesday, climbing to #5 on Artificial Analysis. Leaks point to OpenAI's GPT Astra dropping next week. Agentic features and research agents solving long-open math problems highlight the window.",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Qwen3.8-Max open release next Wednesday, hits #5 on leaderboard",
+   "summary": "Qwen/Qwen3.8-2.4T-A95B (aka Qwen3.8-Max) open weights coming next week; model already #5 on Artificial Analysis. Multiple r/LocalLLaMA and r/singularity threads discuss its benchmark position and open-source implications.",
+   "why_it_matters": "Strong open-weight contender from Alibaba/Qwen team challenges closed frontier models on leaderboards while expanding accessible high-performance options.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vgx8yu/qwen3824ta95b_aka_qwen38max_open_release_time/",
+   "source": "r/LocalLLaMA"
+  },
+  "sentiment": {
+   "label": "optimistic",
+   "score": 0.6,
+   "summary": "Community excited by open releases and agent progress; benchmark debates and local optimizations show active engagement without major negativity."
+  },
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Qwen3.8-Max open release next Wednesday",
+     "summary": "Qwen3.8-2.4T-A95B open weights announced for next Wednesday via ModelScope; already ranked #5 on Artificial Analysis leaderboard.",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vgx8yu/qwen3824ta95b_aka_qwen38max_open_release_time/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Google Maps adds agentic features for bookings and orders",
+     "summary": "New agentic capabilities let Maps handle food ordering and hotel bookings directly, shifting from navigation to task completion.",
+     "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Mirendil inks $100M+ Google Cloud deal for self-improving AI",
+     "summary": "Mirendil secures major Google Cloud partnership to scale compute for self-improving AI research aimed at scientific discovery.",
+     "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
+     "source": "TechCrunch AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Alexandr Wang",
+     "handle": "@alexandr_wang",
+     "quote": "plurality of great AI labs is good for the world!",
+     "context": "Responding to discussion on Meta's rising lab status amid competitive landscape.",
+     "url": "https://x.com/alexandr_wang/status/2085376307538620498"
+    },
+    {
+     "author": "Yann LeCun",
+     "handle": "@ylecun",
+     "quote": "When companies switch from open to closed, it's a symptom that they are moving away from research...",
+     "context": "Commentary on open vs closed research trends in AI.",
+     "url": "https://x.com/ylecun/status/2085369162138841263"
+    },
+    {
+     "author": "Jeff Dean",
+     "handle": "@JeffDean",
+     "quote": "Thanks, Aaron! Yesterday's schedule: Morning - Found company with awesome colleagues...",
+     "context": "Personal reflections on career transition at Google DeepMind.",
+     "url": "https://x.com/JeffDean/status/2085368879505957073"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Hy3-powered agent settles 50-year-old sum-difference math problem",
+     "summary": "Research agent using Hy3 model and Tencent's Hyra helped prove optimal exponent in sumsets vs difference sets; arXiv:2607.27199.",
+     "url": "https://www.reddit.com/r/singularity/comments/1vh2yck/a_hy3powered_research_agent_just_helped_settle_a/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Prime Agent scores 95% on ARC-AGI-3 with Opus 5",
+     "summary": "Agentic system achieves 95% on ARC-AGI-3 benchmark using Opus 5 backend.",
+     "url": "https://www.reddit.com/r/singularity/comments/1vgyrkh/prime_agent_scores_95_on_arcagi3_with_opus_5/",
+     "source": "r/singularity"
+    }
+   ]
+  },
+  "post_ideas": [
+   {
+    "hook": "Qwen3.8-Max open next week while closed labs stay silent",
+    "draft": "Qwen3.8-Max open weights drop next Wednesday and it's already #5 on the leaderboard. Open weights are eating the closed model's lunch on benchmarks again.",
+    "why_viral": "Contrarian open vs closed tension with specific benchmark number and timing.",
+    "based_on_url": "https://www.reddit.com/r/LocalLLaMA/comments/1vgx8yu/qwen3824ta95b_aka_qwen38max_open_release_time/"
+   },
+   {
+    "hook": "Research agent just solved a 50-year math problem",
+    "draft": "Hy3 agent helped settle the optimal exponent for sum-difference sets after 50 years. arXiv paper out. Agents aren't just chatting anymore.",
+    "why_viral": "Surprise concrete achievement with historical benchmark and arXiv tie-in.",
+    "based_on_url": "https://www.reddit.com/r/singularity/comments/1vh2yck/a_hy3powered_research_agent_just_helped_settle_a/"
+   },
+   {
+    "hook": "Google Maps now books your hotel and orders food",
+    "draft": "Google Maps just added full agentic booking and ordering. Navigation app becomes personal assistant overnight.",
+    "why_viral": "Everyday product shift with clear user impact and Google scale.",
+    "based_on_url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/"
+   }
+  ]
+ },
+ "meta": {
+  "generated_at": "2026-08-06T14:41+00:00",
+  "window_start": "2026-08-06T03:46+00:00",
+  "window_end": "2026-08-06T14:41+00:00",
+  "candidate_count": 98,
+  "model": "grok-4-1-fast-reasoning",
+  "input_tokens": 32660,
+  "output_tokens": 2361,
+  "est_token_cost_usd": 0.0077
+ }
+}
