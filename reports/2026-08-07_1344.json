@@ -1,0 +1,95 @@
+{
+ "digest": {
+  "overview": "ByteDance ramps up with a 10T-param model bid against Anthropic while AMD buys Taalas to hardwire inference. Local optimizations (llama.cpp Q2_0 speedup, LiquidAI's tiny LFM2.5) and a wave of new arXiv work round out a hardware-and-scaling focused window.",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "ByteDance trains 10-trillion-parameter model to rival Anthropic",
+   "summary": "TikTok owner ByteDance is in early training of a 10T-param model, per Ars Technica reporting and community discussion.",
+   "why_it_matters": "Direct challenge to Anthropic-scale frontier training; signals continued Chinese hyperscale push amid global model race.",
+   "url": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
+   "source": "Ars Technica"
+  },
+  "sentiment": {
+   "label": "optimistic",
+   "score": 0.6,
+   "summary": "Community excited by AMD's Taalas acquisition for inference gains and llama.cpp CPU speedups; ByteDance news fuels scaling optimism without major backlash in the window."
+  },
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "LiquidAI releases LFM2.5-2.6B tiny model with strong benchmarks",
+     "summary": "New 2.6B model matches much larger ones on benchmarks; detailed GGUF + KV cache quantization report available.",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vi0d4i/lfm2526b_modelkv_cache_quantization_report/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "AMD acquires Taalas to compile model weights directly into silicon",
+     "summary": "Deal targets order-of-magnitude inference gains; Latent Space calls it the heating inference inflection.",
+     "url": "https://www.latent.space/p/ainews-amd-buys-taalas",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "ByteDance 10T model training",
+     "summary": "Early-stage effort to rival Anthropic, confirmed across Ars and Reddit.",
+     "url": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
+     "source": "Ars Technica"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Ethan Mollick",
+     "handle": "@emollick.bsky.social",
+     "quote": "When I ask Codex to win Nethack it cheats, elaborately. I can't tell if this is misalignment or alignment.",
+     "context": "Highlights ongoing agent misalignment questions in a light, shareable example.",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mshrtfsm3c22"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Woodpecker Distillation: Weak Models Diagnose Reasoning Bugs in Strong Models",
+     "summary": "New method uses weaker models to find localized reasoning failures in stronger ones rather than global incompetence.",
+     "url": "https://arxiv.org/abs/2608.05168",
+     "source": "arXiv"
+    },
+    {
+     "headline": "Otter: A Time-Aware, History-Conditioned Human Chess AI",
+     "summary": "15.3M-param model predicts human moves via sequential history encoding instead of isolated positions.",
+     "url": "https://arxiv.org/abs/2608.05206",
+     "source": "arXiv"
+    }
+   ]
+  },
+  "post_ideas": [
+   {
+    "hook": "ByteDance just went for 10T params",
+    "draft": "ByteDance is already training a 10T model to take on Anthropic. The parameter arms race isn't slowing down.",
+    "why_viral": "Direct scaling headline with named rival; taps ongoing frontier race tension.",
+    "based_on_url": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/"
+   },
+   {
+    "hook": "AMD buys Taalas for silicon-baked inference",
+    "draft": "AMD acquires Taalas to bake model weights straight into silicon. Inference performance claims are order-of-magnitude territory.",
+    "why_viral": "Hardware surprise move against Nvidia; concrete performance promise creates debate.",
+    "based_on_url": "https://www.latent.space/p/ainews-amd-buys-taalas"
+   },
+   {
+    "hook": "llama.cpp just 3-3.6x'd Q2_0 on x86",
+    "draft": "New llama.cpp PR delivers 3-3.6x faster Q2_0 on x86 CPUs; 8B decode jumps from 2.39 to 8.20 tok/s.",
+    "why_viral": "Practical local-run speedup numbers that matter to the community right now.",
+    "based_on_url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhz989/a_llamacpp_pr_makes_q2_0_3036x_faster_on_x86_cpus/"
+   }
+  ]
+ },
+ "meta": {
+  "generated_at": "2026-08-07T13:44+00:00",
+  "window_start": "2026-08-07T03:23+00:00",
+  "window_end": "2026-08-07T13:44+00:00",
+  "candidate_count": 104,
+  "model": "grok-4-1-fast-reasoning",
+  "input_tokens": 31524,
+  "output_tokens": 1936,
+  "est_token_cost_usd": 0.0073
+ }
+}
