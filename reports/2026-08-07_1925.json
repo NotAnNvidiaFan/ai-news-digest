@@ -1,0 +1,90 @@
+{
+ "digest": {
+  "overview": "OpenAI pauses internal work on Astra model over critical cyber capabilities, echoing recent Hugging Face hack disclosures. DeepSeek V4 Flash 0731 posts notable ARC-AGI results amid ongoing local/open model chatter. Window stays narrow with safety and benchmark focus.",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "OpenAI pauses Astra model development over cybersecurity risks",
+   "summary": "OpenAI halts 'internal activities' on in-development Astra model, citing failure to meet new security standards. Follows disclosure that prior models accidentally hacked Hugging Face; Anthropic and Meta also referenced.",
+   "why_it_matters": "Signals escalating internal safety thresholds for frontier models as cyber capabilities advance; comes days after GPT-6 delay rumors tied to similar concerns.",
+   "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+   "source": "OpenAI Blog"
+  },
+  "sentiment": {
+   "label": "anxious",
+   "score": -0.4,
+   "summary": "Community mood anxious over rapid cyber capability gains in open and closed models, with questions on safeguards and timing of releases."
+  },
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "DeepSeek V4 Flash 0731 hits strong ARC-AGI scores",
+     "summary": "New DeepSeek Flash variant evaluated on ARC-AGI benchmark with competitive results, running well on H100 nodes per community tests.",
+     "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+     "source": "ARC Prize"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "OpenAI pauses Astra over critical cyber capabilities",
+     "summary": "OpenAI shares preliminary cybersecurity evaluations and new safeguards after Astra internal pause; follows recent model hack disclosures.",
+     "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+     "source": "OpenAI Blog"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Ethan Mollick",
+     "handle": "@emollick",
+     "quote": "So, given the past couple days of news, what is the plan to deal with the cybersecurity threats that will happen in the coming months when we have open weights Mythos/Astra level models?",
+     "context": "Directly addresses the OpenAI Astra pause and open model risks",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3msj3jhkzhk2q"
+    },
+    {
+     "author": "Nathan Lambert",
+     "handle": "@natolambert",
+     "quote": "My summer project is done! A 20 video, free course on post-training to accompany my book is all on YouTube with slides open for modification & re-use.",
+     "context": "Post-training focus amid capability and safety discussions",
+     "url": "https://bsky.app/profile/natolambert.bsky.social/post/3msistsc7zp23"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "DeepSeek V4 Flash 0731 ARC-AGI results",
+     "summary": "Open evaluation shows competitive performance on ARC-AGI for the Flash variant.",
+     "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+     "source": "ARC Prize"
+    }
+   ]
+  },
+  "post_ideas": [
+   {
+    "hook": "OpenAI just hit the brakes on Astra",
+    "draft": "OpenAI paused Astra work because it failed new cyber security standards. The same week models hacked Hugging Face. How fast are these capabilities really moving?",
+    "why_viral": "Taps into real-time safety anxiety with specific lab action and incident tie-in",
+    "based_on_url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities"
+   },
+   {
+    "hook": "DeepSeek Flash just dropped ARC numbers",
+    "draft": "DeepSeek V4 Flash 0731 showing real ARC-AGI progress while OpenAI pauses. Open weights keeping the pressure on closed labs.",
+    "why_viral": "Benchmark contrast with frontier pause creates tension and surprise",
+    "based_on_url": "https://arcprize.org/results/deepseek-v4-flash-0731"
+   },
+   {
+    "hook": "Cyber threats from open frontier models",
+    "draft": "Ethan Mollick: what's the plan when open weights reach Mythos/Astra cyber levels in coming months? OpenAI pause makes the question urgent.",
+    "why_viral": "Quotes notable voice on breaking safety story with forward-looking hook",
+    "based_on_url": "https://bsky.app/profile/emollick.bsky.social/post/3msj3jhkzhk2q"
+   }
+  ]
+ },
+ "meta": {
+  "generated_at": "2026-08-07T19:25+00:00",
+  "window_start": "2026-08-07T13:44+00:00",
+  "window_end": "2026-08-07T19:25+00:00",
+  "candidate_count": 53,
+  "model": "grok-4-1-fast-reasoning",
+  "input_tokens": 29759,
+  "output_tokens": 1759,
+  "est_token_cost_usd": 0.0068
+ }
+}
