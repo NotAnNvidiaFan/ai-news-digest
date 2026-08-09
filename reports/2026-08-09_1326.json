@@ -1,0 +1,87 @@
+{
+ "digest": {
+  "overview": "Thin 11-hour window dominated by incremental releases, benchmark noise, and early signs of AI-driven cost discipline at enterprises. Tencent and Meta drop targeted tools while SAP quietly trims travel and hiring over inference spend.",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "SAP halts most travel and hiring as AI costs soar",
+   "summary": "Enterprise software giant SAP has paused the majority of business travel and new hiring explicitly citing the rapid rise in AI-related expenses.",
+   "why_it_matters": "First major public signal that inference and model spend are now large enough to alter corporate operating decisions at a Fortune 500 company.",
+   "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/",
+   "source": "404 Media"
+  },
+  "sentiment": {
+   "label": "mixed",
+   "score": 0.1,
+   "summary": "Community mood split between excitement over new local tools and benchmarks and growing unease about real-world cost and regulatory pressure."
+  },
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Tencent releases Hunyuan3D WorldClaw",
+     "summary": "New 3D/world model announced with project page live; open weights status unclear but community watching closely.",
+     "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
+     "source": "Tencent"
+    },
+    {
+     "headline": "Meta debuts first AI coding agent",
+     "summary": "Meta launches coding agent positioned to compete with Anthropic and OpenAI offerings.",
+     "url": "https://www.reddit.com/r/artificial/comments/1vjh4s6/meta_debuts_first_ai_coding_agent_to_take_on/",
+     "source": "Reddit r/artificial"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "SAP pauses travel and hiring over AI spend",
+     "summary": "Software giant cites soaring AI costs as reason for broad operational cutbacks.",
+     "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/",
+     "source": "404 Media"
+    }
+   ],
+   "influencer_takes": [],
+   "research_radar": [
+    {
+     "headline": "DeepSeek V4 Flash 0731 hits 82.7% on Terminal-Bench 2.1",
+     "summary": "Independent run with public harness confirms 82.7% score across 445 trials; further local quant benchmarks on SlopCodeBench posted.",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjklwo/deepseek_v4_flash_0731_hits_827_on_terminalbench/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "AMD llama.cpp patch boosts Qwen 27B context from 64K to 149K",
+     "summary": "MTP buffer optimization yields major context length gains on single and dual-GPU setups.",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjmay5/amd_llamacpp_reducing_mtp_buffer_overhead_gave_me/",
+     "source": "r/LocalLLaMA"
+    }
+   ]
+  },
+  "post_ideas": [
+   {
+    "hook": "SAP just cut travel and hiring because of AI bills",
+    "draft": "SAP is pausing most travel and hiring because AI spend is now material enough to change corporate ops. First big public signal that inference costs bite at scale.",
+    "why_viral": "Concrete enterprise impact story with numbers and a recognizable company name creates tension around 'AI is free' narrative.",
+    "based_on_url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/"
+   },
+   {
+    "hook": "Tencent drops WorldClaw while Meta ships a coding agent",
+    "draft": "Two frontier moves in one morning: Tencent's WorldClaw 3D model and Meta's new coding agent aimed straight at Anthropic/OpenAI. Local community already asking for weights.",
+    "why_viral": "Direct comparison of Chinese and US lab output plus open-weights speculation drives engagement.",
+    "based_on_url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/"
+   },
+   {
+    "hook": "DeepSeek V4 Flash just matched its own 82.7% Terminal-Bench claim in public harness",
+    "draft": "Independent verification of DeepSeek V4 Flash at 82.7% on Terminal-Bench 2.1. Local quants and context hacks are moving fast too.",
+    "why_viral": "Benchmark confirmation plus practical local-run details give technical readers immediate value and discussion hooks.",
+    "based_on_url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjklwo/deepseek_v4_flash_0731_hits_827_on_terminalbench/"
+   }
+  ]
+ },
+ "meta": {
+  "generated_at": "2026-08-09T13:26+00:00",
+  "window_start": "2026-08-09T02:33+00:00",
+  "window_end": "2026-08-09T13:26+00:00",
+  "candidate_count": 36,
+  "model": "grok-4-1-fast-reasoning",
+  "input_tokens": 15922,
+  "output_tokens": 2275,
+  "est_token_cost_usd": 0.0043
+ }
+}
