@@ -1,0 +1,89 @@
+{
+ "digest": {
+  "overview": "Quiet window dominated by OpenAI's small acquisition and Anthropic's Claude Code update. Community chatter on hardware rumors and local model quants, but few high-signal developments.",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "OpenAI acquires presentation startup NextSlide",
+   "summary": "NextSlide team now integrates into ChatGPT; no financial details disclosed.",
+   "why_it_matters": "Adds presentation tooling to OpenAI's product stack amid ongoing model pushes like the rumored post-Astra 'Doug' model.",
+   "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+   "source": "TechCrunch AI"
+  },
+  "sentiment": {
+   "label": "mixed",
+   "score": 0.1,
+   "summary": "Skepticism on Reddit about AI hype and capability claims; measured optimism from Simon Willison on agent tooling improvements."
+  },
+  "sections": {
+   "model_releases": [],
+   "frontier_labs": [
+    {
+     "headline": "Anthropic sets Claude Code auto mode as default for most plans",
+     "summary": "Auto mode becomes default Aug 14 for Pro/Max/Team; reflects confidence in reduced prompt injection risks per Simon Willison notes.",
+     "url": "https://simonwillison.net/2026/Aug/8/auto-mode/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "OpenAI acquires NextSlide",
+     "summary": "Presentation startup folded into ChatGPT team.",
+     "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+     "source": "TechCrunch AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Simon Willison",
+     "handle": "@simonw",
+     "quote": "Wrote some notes on auto-mode on my blog - I REALLY want to believe that this fixes prompt injection risks for coding agents, but I'm just not there yet",
+     "context": "Direct commentary on Anthropic's Claude Code change and lingering safety concerns",
+     "url": "https://x.com/simonw/status/2086220154468442496"
+    },
+    {
+     "author": "Yann LeCun",
+     "handle": "@ylecun",
+     "quote": "When you work on research (particularly on long-term research), you have to accept the fact that corporate management... may think you are wasting your time",
+     "context": "Broader view on balancing short-term product races with AGI-level conceptual advances",
+     "url": "https://x.com/ylecun/status/2086042924316242287"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "73 NeurIPS workshops, zero on Causality",
+     "summary": "r/MachineLearning notes subfield sidelined by LLM/agent focus at major venues.",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1vj8lag/73_neurips_workshops_and_not_a_single_one_on/",
+     "source": "r/MachineLearning"
+    }
+   ]
+  },
+  "post_ideas": [
+   {
+    "hook": "OpenAI just bought a presentation tool\u2014what does that say about their roadmap?",
+    "draft": "OpenAI acquires NextSlide and folds the team into ChatGPT. Quiet move, but it signals they're serious about end-to-end productivity suites beyond chat.",
+    "why_viral": "Contrarian take on acquisition as strategic signal rather than hype",
+    "based_on_url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/"
+   },
+   {
+    "hook": "Anthropic defaults to auto mode in Claude Code despite prompt injection worries",
+    "draft": "Anthropic is making auto mode the default in Claude Code starting Aug 14. Simon Willison isn't convinced it fully solves agent safety risks yet.",
+    "why_viral": "Taps ongoing agent safety debate with specific expert quote",
+    "based_on_url": "https://simonwillison.net/2026/Aug/8/auto-mode/"
+   },
+   {
+    "hook": "RTX 5090 96GB spotted on Alibaba\u2014real or vapor?",
+    "draft": "r/LocalLLaMA buzzing over an alleged RTX 5090 96GB listing on Alibaba. If legit, local inference just got a massive hardware jump.",
+    "why_viral": "Hardware rumor with high community tension and direct link",
+    "based_on_url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjcljq/rtx_5090_96gb_spotted_on_alibaba/"
+   }
+  ]
+ },
+ "meta": {
+  "generated_at": "2026-08-09T02:33+00:00",
+  "window_start": "2026-08-08T19:04+00:00",
+  "window_end": "2026-08-09T02:33+00:00",
+  "candidate_count": 25,
+  "model": "grok-4-1-fast-reasoning",
+  "input_tokens": 15852,
+  "output_tokens": 2000,
+  "est_token_cost_usd": 0.0042
+ }
+}
