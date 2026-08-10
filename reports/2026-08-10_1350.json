@@ -1,0 +1,87 @@
+{
+ "digest": {
+  "overview": "Meta dropped Muse Glimmer 30B (open weights, Apache 2.0) optimized for local agentic/coding workflows plus Muse Spark 1.2, triggering immediate llama.cpp support and GGUF ports. Open local models and agent tooling dominated discussion; frontier API updates and niche research papers filled the rest of a busy window.",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Meta releases Muse Glimmer 30B open weights for local agents",
+   "summary": "30B dense multimodal model (text+image) built for always-on local agent workflows under Apache 2.0. Includes day-0 llama.cpp support and Unsloth GGUF quants; positioned as biggest open release since Llama series.",
+   "why_it_matters": "Directly targets local coding/agent use cases with permissive license; 367-point HN thread and rapid community ports signal strong demand for runnable open agent models.",
+   "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+   "source": "Meta Research"
+  },
+  "sentiment": {
+   "label": "bullish",
+   "score": 0.7,
+   "summary": "Community excited by Meta's open-weight agent model drop and immediate tooling support; optimism around runnable local alternatives to closed frontier systems."
+  },
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Meta Muse Glimmer 30B and Muse Spark 1.2 open-sourced",
+     "summary": "30B model for local agent workflows + Spark 1.2 foundation model released with weights; rapid GGUF and llama.cpp integration.",
+     "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+     "source": "Meta Research"
+    },
+    {
+     "headline": "Motif-Technologies releases Motif-3",
+     "summary": "South Korea AI Foundation Model project entrant drops Motif-3; competes with Upstage Solar, LG EXAONE, SKT A.X series.",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkl6cs/motiftechnologiesmotif3_official_realese/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "OpenAI: GPT-5.6 Sol powers finance workflows",
+     "summary": "Model ML case study shows GPT-5.6 Sol handling research-to-editable PPT/Excel pipelines for finance tasks.",
+     "url": "https://openai.com/index/model-ml",
+     "source": "OpenAI Blog"
+    }
+   ],
+   "influencer_takes": [],
+   "research_radar": [
+    {
+     "headline": "ADIAS: Automated Design of Interactive Agentic Systems",
+     "summary": "Iterative candidate revision + feedback summarization for agent harness improvement.",
+     "url": "https://arxiv.org/abs/2608.06410",
+     "source": "arXiv"
+    },
+    {
+     "headline": "EntropyMoE: Entropy-Aware Sparse Expert Routing for Tokenizer-Free LLMs",
+     "summary": "Byte-patch MoE architecture with dynamic routing for competitive tokenizer-free performance.",
+     "url": "https://arxiv.org/abs/2608.06398",
+     "source": "arXiv"
+    }
+   ]
+  },
+  "post_ideas": [
+   {
+    "hook": "Meta just open-sourced a 30B agent model that runs locally",
+    "draft": "Meta's Muse Glimmer 30B ships today under Apache 2.0 with day-0 llama.cpp support. First real open-weight play aimed squarely at always-on local agents and coding workflows.",
+    "why_viral": "Surprise open release from Meta + immediate tooling traction creates FOMO and discussion",
+    "based_on_url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
+   },
+   {
+    "hook": "Local 1M context on a single 3090 just happened",
+    "draft": "Someone loaded a 17 GB model and pulled 7 needles from a ~1M token context on one RTX 3090. Local long-context is no longer theoretical.",
+    "why_viral": "Concrete hardware + impressive result taps into LocalLLaMA obsession with runnable scale",
+    "based_on_url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkicyd/1m_context_with_17_gb_model_in_24_gb_vram_for_the/"
+   },
+   {
+    "hook": "Docker just shipped disposable sandboxes built for AI agents",
+    "draft": "Docker Sandboxes: isolated, throwaway environments explicitly for running agent code. The infra layer for safe agent deployment is arriving fast.",
+    "why_viral": "Direct response to agent safety/reliability pain points; strong engineering audience",
+    "based_on_url": "https://www.docker.com/products/docker-sandboxes/"
+   }
+  ]
+ },
+ "meta": {
+  "generated_at": "2026-08-10T13:50+00:00",
+  "window_start": "2026-08-10T02:38+00:00",
+  "window_end": "2026-08-10T13:50+00:00",
+  "candidate_count": 115,
+  "model": "grok-4-1-fast-reasoning",
+  "input_tokens": 33268,
+  "output_tokens": 1758,
+  "est_token_cost_usd": 0.0075
+ }
+}
