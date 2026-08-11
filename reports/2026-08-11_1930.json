@@ -1,0 +1,102 @@
+{
+ "digest": {
+  "overview": "Quiet window dominated by OpenAI executive churn, Google's Gemini hitting 1B monthly users, and a $1.1B seed into xAI co-founder Igor Babuschkin's new personal-agents startup River AI. Anthropic's unreleased model notched incremental progress on the Riemann hypothesis; Google AMIE showed real-time video consults.",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Gemini app hits 1B monthly users",
+   "summary": "Google's Gemini reaches 1B MAUs, matching ChatGPT's June milestone and becoming Google's 14th product at that scale and its fastest-growing ever.",
+   "why_it_matters": "Signals sustained consumer traction for Google's frontier model amid OpenAI's internal moves; Demis Hassabis called it their 'fastest growing product ever.'",
+   "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+   "source": "TechCrunch AI"
+  },
+  "sentiment": {
+   "label": "mixed",
+   "score": 0.2,
+   "summary": "Celebration of Gemini scale and AMIE clinical results offset by OpenAI exec exits and skepticism around closed-model watermarking; community mood pragmatic rather than euphoric."
+  },
+  "sections": {
+   "model_releases": [],
+   "frontier_labs": [
+    {
+     "headline": "Brad Lightcap, OpenAI's longtime COO and special projects lead, departs after 8 years",
+     "summary": "Lightcap announced exit in internal memo; Sam Altman publicly thanked him for taking on 'any function and challenge.'",
+     "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "General Catalyst leads $1.1B into 2-month-old River AI",
+     "summary": "Founded by xAI co-founder Igor Babuschkin, the personal-agents startup raised $1.1B at inception.",
+     "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Unreleased Anthropic model advances Riemann hypothesis",
+     "summary": "Model made measurable progress on the 150-year-old unsolved math problem; Anthropic has not released details or weights.",
+     "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+     "source": "TechCrunch AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Demis Hassabis",
+     "handle": "@demishassabis",
+     "quote": "1B for the @GeminiApp ! Our fastest growing product ever \ud83d\ude80",
+     "context": "Direct celebration of the user milestone from DeepMind/Google DeepMind leadership",
+     "url": "https://x.com/demishassabis/status/2087255967549243425"
+    },
+    {
+     "author": "Sam Altman",
+     "handle": "@sama",
+     "quote": "thank you for everything! ... we would not be where we are without you. excited to work together on what's next.",
+     "context": "Public farewell to departing OpenAI COO Brad Lightcap",
+     "url": "https://x.com/sama/status/2087243765765509185"
+    },
+    {
+     "author": "roon",
+     "handle": "@tszzl",
+     "quote": "sam altman hires founders and cages them for years",
+     "context": "Skeptical take on OpenAI retention amid Lightcap exit",
+     "url": "https://x.com/tszzl/status/2087258001052938318"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "AMIE demonstrates real-time clinical video consultations",
+     "summary": "Google's research medical AI system shows first-of-its-kind real-time video consult capabilities in new study.",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+     "source": "Google AI Blog"
+    }
+   ]
+  },
+  "post_ideas": [
+   {
+    "hook": "Gemini quietly matched ChatGPT's 1B-user mark while OpenAI lost another veteran exec",
+    "draft": "Gemini hit 1B MAUs the same month OpenAI's 8-year COO walked. Scale is table stakes now; retention and agent startups are the real race.",
+    "why_viral": "Contrasts two frontier labs' trajectories with concrete numbers and timely exec news",
+    "based_on_url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/"
+   },
+   {
+    "hook": "xAI co-founder raises $1.1B for personal agents before most people know the company exists",
+    "draft": "River AI, founded two months ago by xAI's Igor Babuschkin, just closed $1.1B. Personal agents are apparently the new frontier after chat.",
+    "why_viral": "Eye-popping valuation + founder pedigree creates surprise and FOMO",
+    "based_on_url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/"
+   },
+   {
+    "hook": "Anthropic's unreleased model moved the needle on a 150-year math problem",
+    "draft": "Riemann hypothesis still unsolved, but an unreleased Anthropic model reportedly made non-trivial progress. Closed labs keep the interesting stuff inside.",
+    "why_viral": "Math milestone + secrecy tension; contrarian to open-weights hype",
+    "based_on_url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/"
+   }
+  ]
+ },
+ "meta": {
+  "generated_at": "2026-08-11T19:30+00:00",
+  "window_start": "2026-08-11T13:48+00:00",
+  "window_end": "2026-08-11T19:30+00:00",
+  "candidate_count": 47,
+  "model": "grok-4-1-fast-reasoning",
+  "input_tokens": 21013,
+  "output_tokens": 2386,
+  "est_token_cost_usd": 0.0054
+ }
+}
