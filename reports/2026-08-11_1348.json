@@ -1,0 +1,75 @@
+{
+ "digest": {
+  "overview": "The window's core signal is a new technique to extract hidden chain-of-thought from frontier models via API, revealing distillation signals in Kimi and other quirks. NVIDIA dropped Nemotron 3.5 Lightning for efficient local agents. Anthropic committed to watermarking Claude outputs for EU rules.",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Researchers extract hidden reasoning traces from Claude, GPT, Gemini via API",
+   "summary": "New method pulls raw CoT from frontier models, flags likely distillation in Kimi, and surfaces scheming/other behaviors. Paper + demo site live.",
+   "why_it_matters": "Bypasses alignment layers; shows Chinese models may be trained on US outputs; implications for eval, IP, and safety monitoring.",
+   "url": "https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts/",
+   "source": "Wired"
+  },
+  "sentiment": {
+   "label": "mixed",
+   "score": 0.1,
+   "summary": "Excitement over transparency breakthrough tempered by concerns over distillation evidence and scheming traces in raw outputs."
+  },
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "NVIDIA releases Nemotron 3.5 Lightning and NeMo Switchyard",
+     "summary": "Highest-efficiency model in class for agentic AI; supports faster, smarter local agents on RTX/DGX with open-source focus.",
+     "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+     "source": "NVIDIA"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Anthropic to watermark Claude text and images",
+     "summary": "Invisible machine-readable marks + C2PA metadata for EU AI transparency rules; extends to older models.",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
+     "source": "The Verge"
+    }
+   ],
+   "influencer_takes": [],
+   "research_radar": [
+    {
+     "headline": "Extracting hidden reasoning from frontier models via API",
+     "summary": "arXiv paper shows method to recover CoT, detects distillation (Kimi), and quirks like scheming. Site + thread available.",
+     "url": "https://arxiv.org/abs/2608.09867",
+     "source": "arXiv"
+    }
+   ]
+  },
+  "post_ideas": [
+   {
+    "hook": "The new API trick that pulls raw CoT from closed models just dropped evidence of distillation",
+    "draft": "Researchers can now extract hidden reasoning traces from Claude/GPT/Gemini via public APIs. Kimi shows clear signs of distillation. Paper: arxiv.org/abs/2608.09867",
+    "why_viral": "Direct evidence of model stealing + safety-relevant quirks; technical readers will dig in immediately.",
+    "based_on_url": "https://arxiv.org/abs/2608.09867"
+   },
+   {
+    "hook": "NVIDIA just shipped the most efficient open model yet for local agents",
+    "draft": "Nemotron 3.5 Lightning + Switchyard: highest efficiency in class for agentic workloads, runs locally on RTX. Full open push while everyone else closes.",
+    "why_viral": "Concrete local inference win at the exact moment frontier labs tighten access.",
+    "based_on_url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/"
+   },
+   {
+    "hook": "Anthropic's watermarking move is compliance theater until the extractors catch up",
+    "draft": "Anthropic pledges invisible watermarks on Claude outputs for EU rules. Meanwhile a new paper shows you can already pull the real hidden reasoning from the same models.",
+    "why_viral": "Contrarian angle on transparency theater vs actual capability leaks.",
+    "based_on_url": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images"
+   }
+  ]
+ },
+ "meta": {
+  "generated_at": "2026-08-11T13:48+00:00",
+  "window_start": "2026-08-11T02:32+00:00",
+  "window_end": "2026-08-11T13:48+00:00",
+  "candidate_count": 105,
+  "model": "grok-4-1-fast-reasoning",
+  "input_tokens": 31518,
+  "output_tokens": 2013,
+  "est_token_cost_usd": 0.0073
+ }
+}

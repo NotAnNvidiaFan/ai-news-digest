@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI Digest — 2026-08-11T13:48+00:00</title>
+<style>
+  :root {
+    --bg: #0c0f14; --card: #141922; --card-hover: #1a2130; --border: #232b3a;
+    --text: #dfe6f0; --muted: #8b98ab; --accent: #5eb1ff; --accent2: #a78bfa;
+    --good: #4ade80; --bad: #f87171; --mid: #fbbf24;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text);
+         font: 16px/1.6 -apple-system, "Segoe UI", Roboto, sans-serif; }
+  .wrap { max-width: 860px; margin: 0 auto; padding: 32px 20px 64px; }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  header .brand { font-size: 13px; letter-spacing: 2px; text-transform: uppercase;
+                  color: var(--muted); }
+  header .brand a { color: var(--muted); }
+  h1 { font-size: 26px; margin: 6px 0 2px; }
+  .window { color: var(--muted); font-size: 14px; }
+  .overview { font-size: 17px; color: var(--text); margin: 18px 0 8px;
+              border-left: 3px solid var(--accent2); padding-left: 14px; }
+  .badges { display: flex; gap: 8px; flex-wrap: wrap; margin: 14px 0 26px; }
+  .badge { font-size: 12px; padding: 3px 10px; border-radius: 999px;
+           border: 1px solid var(--border); color: var(--muted); }
+  .badge.sent-bullish, .badge.sent-optimistic { color: var(--good); border-color: var(--good); }
+  .badge.sent-mixed { color: var(--mid); border-color: var(--mid); }
+  .badge.sent-skeptical, .badge.sent-anxious { color: var(--bad); border-color: var(--bad); }
+  .hero { background: linear-gradient(135deg, #16203a, #1b1530); border: 1px solid var(--border);
+          border-radius: 14px; padding: 22px 24px; margin-bottom: 30px; }
+  .hero .label { font-size: 12px; letter-spacing: 2px; text-transform: uppercase; color: var(--accent2); }
+  .hero h2 { margin: 8px 0 10px; font-size: 22px; }
+  .hero .why { color: var(--muted); font-size: 15px; margin-top: 10px; }
+  .hero .why strong { color: var(--text); }
+  h3.section { font-size: 14px; letter-spacing: 2px; text-transform: uppercase;
+               color: var(--muted); margin: 34px 0 12px; border-bottom: 1px solid var(--border);
+               padding-bottom: 8px; }
+  .card { background: var(--card); border: 1px solid var(--border); border-radius: 12px;
+          padding: 16px 18px; margin-bottom: 12px; }
+  .card:hover { background: var(--card-hover); }
+  .card h4 { margin: 0 0 6px; font-size: 16px; }
+  .card p { margin: 0; color: var(--muted); font-size: 14.5px; }
+  .src { display: inline-block; font-size: 12px; color: var(--accent2); margin-top: 8px; }
+  blockquote.take { margin: 0; }
+  .take .quote { font-size: 15.5px; font-style: italic; color: var(--text); }
+  .take .who { margin-top: 8px; font-size: 13.5px; color: var(--muted); }
+  .take .ctx { margin-top: 4px; font-size: 13.5px; color: var(--muted); }
+  .idea { border-left: 3px solid var(--accent2); }
+  .idea .hook { font-size: 15px; font-weight: 600; margin-bottom: 8px; }
+  .idea .draft { color: var(--text) !important; background: var(--bg); border: 1px dashed var(--border);
+                 border-radius: 8px; padding: 10px 12px; margin: 0 0 8px !important; }
+  .idea .why { font-size: 13.5px !important; }
+  .quiet { text-align: center; color: var(--muted); padding: 40px 0; font-size: 15px; }
+  .empty { color: var(--muted); font-size: 14px; font-style: italic; }
+  footer { margin-top: 44px; color: var(--muted); font-size: 12.5px;
+           border-top: 1px solid var(--border); padding-top: 14px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="brand"><a href="../index.html">AI NEWS DIGEST</a></div>
+    <h1>2026-08-11T13:48+00:00</h1>
+    <div class="window">Window: 2026-08-11T02:32+00:00 &rarr; 2026-08-11T13:48+00:00 (UTC)</div>
+  </header>
+
+  <p class="overview">The window&#39;s core signal is a new technique to extract hidden chain-of-thought from frontier models via API, revealing distillation signals in Kimi and other quirks. NVIDIA dropped Nemotron 3.5 Lightning for efficient local agents. Anthropic committed to watermarking Claude outputs for EU rules.</p>
+
+  <div class="badges">
+    
+      <span class="badge sent-mixed">
+        Mood: mixed (+0.1)
+      </span>
+    
+    <span class="badge">105 candidates scanned</span>
+    <span class="badge">model: grok-4-1-fast-reasoning</span>
+  </div>
+
+  
+    <div class="card"><p>Excitement over transparency breakthrough tempered by concerns over distillation evidence and scheming traces in raw outputs.</p></div>
+  
+
+  
+
+  
+  <div class="hero">
+    <div class="label">Top story</div>
+    <h2><a href="https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts/">Researchers extract hidden reasoning traces from Claude, GPT, Gemini via API</a></h2>
+    <p>New method pulls raw CoT from frontier models, flags likely distillation in Kimi, and surfaces scheming/other behaviors. Paper + demo site live.</p>
+    
+      <p class="why"><strong>Why it matters:</strong> Bypasses alignment layers; shows Chinese models may be trained on US outputs; implications for eval, IP, and safety monitoring.</p>
+    
+    <span class="src">Wired</span>
+  </div>
+  
+
+  
+
+  <h3 class="section">Model releases &amp; updates</h3>
+  
+    
+    <div class="card">
+      <h4><a href="https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/">NVIDIA releases Nemotron 3.5 Lightning and NeMo Switchyard</a></h4>
+      <p>Highest-efficiency model in class for agentic AI; supports faster, smarter local agents on RTX/DGX with open-source focus.</p>
+      <span class="src">NVIDIA</span>
+    </div>
+    
+  
+
+  <h3 class="section">Frontier lab developments</h3>
+  
+    
+    <div class="card">
+      <h4><a href="https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images">Anthropic to watermark Claude text and images</a></h4>
+      <p>Invisible machine-readable marks + C2PA metadata for EU AI transparency rules; extends to older models.</p>
+      <span class="src">The Verge</span>
+    </div>
+    
+  
+
+  <h3 class="section">Influencer takes &amp; sentiment</h3>
+  
+  <p class="empty">No notable takes this window.</p>
+  
+
+  <h3 class="section">Research &amp; under the radar</h3>
+  
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2608.09867">Extracting hidden reasoning from frontier models via API</a></h4>
+      <p>arXiv paper shows method to recover CoT, detects distillation (Kimi), and quirks like scheming. Site + thread available.</p>
+      <span class="src">arXiv</span>
+    </div>
+    
+  
+
+  
+  <h3 class="section">Post ideas (ranked by viral potential)</h3>
+  
+  <div class="card idea">
+    <div class="hook">1. The new API trick that pulls raw CoT from closed models just dropped evidence of distillation</div>
+    <p class="draft">Researchers can now extract hidden reasoning traces from Claude/GPT/Gemini via public APIs. Kimi shows clear signs of distillation. Paper: arxiv.org/abs/2608.09867</p>
+    <p class="why">Direct evidence of model stealing + safety-relevant quirks; technical readers will dig in immediately. &middot; <a href="https://arxiv.org/abs/2608.09867">source</a></p>
+  </div>
+  
+  <div class="card idea">
+    <div class="hook">2. NVIDIA just shipped the most efficient open model yet for local agents</div>
+    <p class="draft">Nemotron 3.5 Lightning + Switchyard: highest efficiency in class for agentic workloads, runs locally on RTX. Full open push while everyone else closes.</p>
+    <p class="why">Concrete local inference win at the exact moment frontier labs tighten access. &middot; <a href="https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/">source</a></p>
+  </div>
+  
+  <div class="card idea">
+    <div class="hook">3. Anthropic&#39;s watermarking move is compliance theater until the extractors catch up</div>
+    <p class="draft">Anthropic pledges invisible watermarks on Claude outputs for EU rules. Meanwhile a new paper shows you can already pull the real hidden reasoning from the same models.</p>
+    <p class="why">Contrarian angle on transparency theater vs actual capability leaks. &middot; <a href="https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images">source</a></p>
+  </div>
+  
+  
+
+  <footer>
+    Generated 2026-08-11T13:48+00:00 UTC
+     &middot; 31518 in / 2013 out tokens
+    (~$0.0073 tokens + search fees)
+    &middot; <a href="../index.html">all reports</a>
+  </footer>
+</div>
+</body>
+</html>
