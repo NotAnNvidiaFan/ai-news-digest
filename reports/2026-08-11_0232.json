@@ -1,0 +1,109 @@
+{
+ "digest": {
+  "overview": "Meta's release of Muse Glimmer 30B (Apache 2.0, agentic-focused, 24GB VRAM capable) dominated the window with rapid local benchmarks hitting 250+ t/s on 5090s and strong coding traces. OpenAI followed with a $7B employee tender and GPT-5.6-Cyber model for defense against AI attacks; Zuckerberg's personal AI manifesto drew criticism.",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Meta ships Muse Glimmer 30B open-weights agentic model",
+   "summary": "New 30B model under clean Apache 2.0 license, optimized for local/agentic use; runs reliably on 24GB VRAM. Alexandr Wang: \"muse glimmer can run on 24GB of VRAM without losing agentic reliability.\" Immediate community tests showed 220-280 t/s on RTX 5090 with DFlash, competitive coding performance vs Qwen.",
+   "why_it_matters": "First major clean open release from Meta in the local/agentic space; sparks fresh competition with Qwen/Gemma on consumer hardware and revives Meta's open strategy.",
+   "url": "https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/",
+   "source": "Simon Willison"
+  },
+  "sentiment": {
+   "label": "bullish",
+   "score": 0.7,
+   "summary": "Local LLM community excited by speed/reliability numbers on Muse Glimmer and clean license; OpenAI cyber move seen as pragmatic defense play."
+  },
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Meta releases Muse Glimmer 30B",
+     "summary": "30B agentic model, Apache 2.0, GGUF available on HF; strong early benchmarks on coding and speed (up to 280 t/s).",
+     "url": "https://huggingface.co/meta-models/Muse-Glimmer-30B-GGUF",
+     "source": "Hugging Face / @simonw"
+    },
+    {
+     "headline": "OpenAI releases GPT-5.6-Cyber",
+     "summary": "New model focused on exploit development and defensive cybersecurity; used internally for red-teaming and 0-day patching.",
+     "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+     "source": "TechCrunch"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "OpenAI completes $7B employee tender offer",
+     "summary": "Latest liquidity event amid rapid valuation growth and AI infrastructure spend.",
+     "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+     "source": "TechCrunch"
+    },
+    {
+     "headline": "Meta reboots open strategy with new models",
+     "summary": "Zuckerberg pushes personal superintelligence vision; new open releases aimed at closing gap with closed competitors.",
+     "url": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
+     "source": "Ars Technica"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Simon Willison",
+     "handle": "@simonw",
+     "quote": "Muse Glimmer, the new 30B model, is available on Hugging Face right now - here's the GGUF version",
+     "context": "Direct link and endorsement of the clean Apache 2.0 release for local use",
+     "url": "https://x.com/simonw/status/2086811799480086773"
+    },
+    {
+     "author": "Alexandr Wang",
+     "handle": "@alexandr_wang",
+     "quote": "we also are releasing muse glimmer, a 30B agentic model with open weights under apache 2.0. muse glimmer can run on 24GB of VRAM without losing agentic reliability",
+     "context": "Official announcement framing the model for practical local deployment",
+     "url": "https://x.com/alexandr_wang/status/2086756152034066792"
+    },
+    {
+     "author": "Sam Altman",
+     "handle": "@sama",
+     "quote": "please consider using our models to help defend your systems",
+     "context": "Response to OpenAI's own GPT-5.6-Cyber release for AI defense",
+     "url": "https://x.com/sama/status/2086881528282587524"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "1B LLM trained from scratch on 20B tokens for ~$200",
+     "summary": "Personal project shared on r/LocalLLaMA showing accessible small-model training results.",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkydi5/i_trained_a_1bparameter_llm_from_scratch_on_20b/",
+     "source": "r/LocalLLaMA"
+    }
+   ]
+  },
+  "post_ideas": [
+   {
+    "hook": "Meta just dropped a clean Apache 2.0 30B that hits 250 t/s on a 5090",
+    "draft": "Muse Glimmer 30B is already posting real production coding speeds that beat expectations on consumer GPUs. Local agentic work just got a lot more practical overnight.",
+    "why_viral": "Concrete speed numbers + open license create immediate FOMO and testing threads",
+    "based_on_url": "https://www.reddit.com/r/LocalLLaMA/comments/1vl2sv6/museglimmer_30b_hits_280_ts_in_real_production/"
+   },
+   {
+    "hook": "OpenAI ships a dedicated cyber model while telling everyone to use it defensively",
+    "draft": "GPT-5.6-Cyber is OpenAI's answer to AI-led attacks. They are using it to find 0-days in open source. The arms race just got explicit.",
+    "why_viral": "Direct tension between offensive capability and defensive plea sparks debate",
+    "based_on_url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/"
+   },
+   {
+    "hook": "Zuckerberg's 6500-word personal AI manifesto lands to widespread eye-rolls",
+    "draft": "The vision of 'personal superintelligence' in every bedroom is exactly why critics say the AI hype feels tone-deaf and disconnected.",
+    "why_viral": "Contrarian cultural pushback on elite AI narratives always travels well",
+    "based_on_url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/"
+   }
+  ]
+ },
+ "meta": {
+  "generated_at": "2026-08-11T02:32+00:00",
+  "window_start": "2026-08-10T19:26+00:00",
+  "window_end": "2026-08-11T02:32+00:00",
+  "candidate_count": 24,
+  "model": "grok-4-1-fast-reasoning",
+  "input_tokens": 16080,
+  "output_tokens": 2523,
+  "est_token_cost_usd": 0.0045
+ }
+}
