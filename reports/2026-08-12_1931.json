@@ -1,0 +1,120 @@
+{
+ "digest": {
+  "overview": "Model release day: xAI drops Grok 4.6 (61 on Artificial Analysis Index), DeepSeek ships V4 Pro 0813 via API, and Qwen3.8 variants plus Liquid AI edge models hit Hugging Face. DeepMind adds real-time sign-language-to-text; Google unveils Pixel 11 Gemini features.",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "xAI releases Grok 4.6",
+   "summary": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index and matches Sol 5.6 in arena rankings; multiple benchmarks and HN discussion live.",
+   "why_it_matters": "Latest xAI model enters the top tier of public leaderboards just months after prior Grok versions, intensifying competition with OpenAI, Anthropic, and DeepSeek.",
+   "url": "https://x.ai/news/grok-4-6",
+   "source": "xAI"
+  },
+  "sentiment": {
+   "label": "bullish",
+   "score": 0.7,
+   "summary": "Community excited by simultaneous frontier drops from xAI and DeepSeek plus open Qwen releases; chatter centers on rapid iteration and accessible high-performance models."
+  },
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "DeepSeek V4 Pro 0813 released",
+     "summary": "New Pro model rolling out on API with dedicated docs and OpenRouter listing; HN thread active.",
+     "url": "https://api-docs.deepseek.com/guides/responses_api/",
+     "source": "DeepSeek"
+    },
+    {
+     "headline": "Qwen3.8-2.4T-A95B and smaller variants released",
+     "summary": "Alibaba drops multiple Qwen3.8 sizes including 27B; community polls hardware fit and benchmarks.",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vmgozv/qwen3824ta95b_released/",
+     "source": "Hugging Face / ModelScope"
+    },
+    {
+     "headline": "LiquidAI LFM2.5-VL-3B and cookbook launched",
+     "summary": "Hybrid on-device multimodal model plus end-to-end tutorials and apps using LEAP SDK.",
+     "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+     "source": "Liquid AI"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "DeepMind releases SL2T sign-language-to-text model",
+     "summary": "Real-time model converts simultaneous hand/body/facial signs to English text; developed with Deaf community input for phone accessibility.",
+     "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+     "source": "Google DeepMind"
+    },
+    {
+     "headline": "Google unveils Pixel 11, Pixel Watch 5, and Gemini features at Made by Google",
+     "summary": "New phones, watch with deeper AI/health capabilities, airtag rival, and camera tricks powered by Gemini.",
+     "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
+     "source": "TechCrunch"
+    },
+    {
+     "headline": "Cognition in talks for $40B valuation round",
+     "summary": "AI coding startup reportedly seeking mega round months after $1B at $26B valuation.",
+     "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+     "source": "TechCrunch"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Nathan Lambert",
+     "handle": "@natolambert.bsky.social",
+     "quote": "Today, models haven't gotten much better at non-fiction/technical writing. This has me worried for AI models' abilities to do genuine open-ended science.",
+     "context": "Lambert reflects on writing an AI textbook and the gap in current model capabilities for complex knowledge work.",
+     "url": "https://bsky.app/profile/natolambert.bsky.social/post/3msvcbkotnq2l"
+    },
+    {
+     "author": "Nathan Lambert",
+     "handle": "@natolambert.bsky.social",
+     "quote": "My latest piece is a little verbose, but I think it is really a nice example digging into a sort of knowledge work (and arguably science) that the models really aren't close to solving today.",
+     "context": "Highlights persistent limits in AI for technical authorship despite rapid scaling elsewhere.",
+     "url": "https://bsky.app/profile/natolambert.bsky.social/post/3msvgaspjly2i"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Microsoft Research releases MindTopo benchmark for VLMs",
+     "summary": "New test reveals VLMs' spatial and topological reasoning limits with path/fence/knot tasks.",
+     "url": "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/",
+     "source": "Microsoft Research"
+    },
+    {
+     "headline": "AllenAI introduces OlmoEarth embeddings",
+     "summary": "Custom embedding exports from OlmoEarth Studio for downstream geospatial analysis.",
+     "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+     "source": "Hugging Face / AllenAI"
+    }
+   ]
+  },
+  "post_ideas": [
+   {
+    "hook": "Grok 4.6 just matched Sol 5.6 on arena",
+    "draft": "xAI's Grok 4.6 hits 61 on Artificial Analysis and ties Sol 5.6. Another weekly leap\u2014how long until the leaderboard stabilizes?",
+    "why_viral": "Direct benchmark comparison creates immediate discussion and side-taking in the community right after release.",
+    "based_on_url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis"
+   },
+   {
+    "hook": "DeepSeek quietly ships V4 Pro while xAI announces",
+    "draft": "DeepSeek V4 Pro 0813 is already on the API and OpenRouter. Two frontier drops in one day\u2014China and xAI both moving fast.",
+    "why_viral": "Timing contrast between two major labs fuels speculation on who is iterating fastest.",
+    "based_on_url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813"
+   },
+   {
+    "hook": "DeepMind's SL2T turns sign language into real-time text",
+    "draft": "DeepMind's new SL2T model lets Deaf users sign directly to their phones instead of typing. Quiet accessibility win with community input.",
+    "why_viral": "Positive, practical application story stands out amid benchmark noise and sparks broader conversation on inclusive AI.",
+    "based_on_url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/"
+   }
+  ]
+ },
+ "meta": {
+  "generated_at": "2026-08-12T19:31+00:00",
+  "window_start": "2026-08-12T13:53+00:00",
+  "window_end": "2026-08-12T19:31+00:00",
+  "candidate_count": 58,
+  "model": "grok-4-1-fast-reasoning",
+  "input_tokens": 41657,
+  "output_tokens": 2801,
+  "est_token_cost_usd": 0.0097
+ }
+}
