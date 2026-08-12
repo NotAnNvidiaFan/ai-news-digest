@@ -1,0 +1,102 @@
+{
+ "digest": {
+  "overview": "NVIDIA's $500B Wall Street AI infra financing and Gemini's 1B-user milestone dominated. Reasoning-trace extraction papers and EU-driven watermarking commitments surfaced alongside agentic AI's shifting CPU/GPU demands.",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "NVIDIA lines up $500B third-party capital for AI factories",
+   "summary": "NVIDIA partnered with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR on independent financing platforms to mobilize over $500B for AI infrastructure without NVIDIA balance-sheet exposure.",
+   "why_it_matters": "Turns AI compute into an investable asset class, decoupling hyperscaler capex from chip demand while accelerating data-center buildout.",
+   "url": "https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/",
+   "source": "NVIDIA Blog"
+  },
+  "sentiment": {
+   "label": "bullish",
+   "score": 0.7,
+   "summary": "Community excited by scale of capital deployment and user milestones; tempered by concerns over pricing power, watermark mandates, and reasoning opacity."
+  },
+  "sections": {
+   "model_releases": [],
+   "frontier_labs": [
+    {
+     "headline": "Gemini hits 1B monthly users, Google's fastest-growing product ever",
+     "summary": "Google CEO Sundar Pichai announced Gemini reached 1B users; ChatGPT previously crossed the same threshold.",
+     "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
+     "source": "Ars Technica"
+    },
+    {
+     "headline": "Anthropic, OpenAI, Google, Meta, Microsoft, Mistral sign EU AI transparency code",
+     "summary": "All commit to watermarking LLM outputs to comply with EU rules; open-weight models from these labs will carry detectable marks.",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vlyzi6/anthropic_openai_google_meta_microsoft_and/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Ethan Mollick",
+     "handle": "@emollick",
+     "quote": "Interesting research suggests caution in determining which AI company is winning by looking at any one source.. OpenRouter seems to show open weights winning over time, but work submitted to Pangram is overwhelmingly by ChatGPT or increasingly, Claude.",
+     "context": "Highlights divergence between usage proxies and actual output dominance",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3msu45kkv5k2e"
+    },
+    {
+     "author": "Yann LeCun",
+     "handle": "@ylecun",
+     "quote": "LLMs are not a path to human-level intelligence... future intelligent systems will need world models with an ability to use these world models to plan.",
+     "context": "Reiterates limits of current autoregressive architectures for reliable agents",
+     "url": "https://x.com/ylecun/status/2087118299142242671"
+    },
+    {
+     "author": "swyx",
+     "handle": "@swyx",
+     "quote": "gpt luna max vs claude fable ultracode... objectively, fable did the better visual clone. but luna somehow understood intent better",
+     "context": "Real-world comparison of open vs closed models on agentic coding tasks",
+     "url": "https://x.com/swyx/status/2087045848022843451"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Stealing Reasoning Traces from Proprietary LLM APIs",
+     "summary": "Paper shows Anthropic, OpenAI and Google return encrypted CoT blocks that can be replayed across sessions/users/models; 100% extraction demonstrated.",
+     "url": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "AMD: agentic AI could shift CPU:GPU ratios from 1:4 toward 1:1",
+     "summary": "Agents add heavy orchestration/retrieval/tool-calling layers that run on CPUs, increasing CPU demand alongside GPUs.",
+     "url": "https://www.reddit.com/r/singularity/comments/1vm9mh6/agentic_ai_could_push_cputogpu_ratios_from_14/",
+     "source": "r/singularity"
+    }
+   ]
+  },
+  "post_ideas": [
+   {
+    "hook": "NVIDIA just made AI infra an asset class",
+    "draft": "NVIDIA lined up $500B from BlackRock, KKR et al. so customers don't have to pay for the chips themselves. Compute is now a financial product.",
+    "why_viral": "Ties massive capital numbers to everyday AI usage; contrarian take on who actually bears the cost",
+    "based_on_url": "https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/"
+   },
+   {
+    "hook": "Gemini quietly became Google's fastest-growing product ever",
+    "draft": "Gemini hit 1B monthly users faster than any prior Google product. ChatGPT got there first, but the gap is closing fast.",
+    "why_viral": "Hard user number everyone can grasp; undercuts narrative of OpenAI dominance",
+    "based_on_url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/"
+   },
+   {
+    "hook": "Your Claude reasoning is now stealable",
+    "draft": "New paper extracts 100% of encrypted reasoning tokens from Claude, GPT and Gemini APIs and replays them across models. Watermarking won't fix this.",
+    "why_viral": "Directly challenges frontier lab secrecy and upcoming EU watermark rules",
+    "based_on_url": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/"
+   }
+  ]
+ },
+ "meta": {
+  "generated_at": "2026-08-12T13:53+00:00",
+  "window_start": "2026-08-11T19:30+00:00",
+  "window_end": "2026-08-12T13:53+00:00",
+  "candidate_count": 113,
+  "model": "grok-4-1-fast-reasoning",
+  "input_tokens": 34370,
+  "output_tokens": 2224,
+  "est_token_cost_usd": 0.008
+ }
+}
