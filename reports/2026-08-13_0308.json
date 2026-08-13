@@ -1,0 +1,109 @@
+{
+ "digest": {
+  "overview": "Grok 4.6 drops with Elon hype and SpaceX data plans for 4.7; DeepSeek V4 Pro hits OpenRouter API. Anthropic watermark backlash and Amazon/Twitch opt-out policy dominate discussion amid rising model competition.",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Grok 4.6 launches as xAI claims top spot on intelligence, speed, and cost",
+   "summary": "Elon Musk announces Grok 4.6 availability with double tokens promo; teases Grok 4.7 in 3-4 weeks after supplemental SpaceX training. Latent Space calls it the biggest new AI teammate entrant.",
+   "why_it_matters": "Positions xAI as closed-API competitor to OpenAI/Anthropic with unique real-world engineering data advantage; immediate claims of #1 ranking across metrics.",
+   "url": "https://www.latent.space/p/ainews-spacexai-grok-46-and-grok",
+   "source": "Latent Space"
+  },
+  "sentiment": {
+   "label": "bullish",
+   "score": 0.7,
+   "summary": "Excitement over rapid releases and competition; Elon posts drive hype while community notes shifting vibes from Anthropic lead to multi-lab race."
+  },
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "DeepSeek V4 Pro 0813 now live on OpenRouter (API only)",
+     "summary": "Latest DeepSeek Pro model released via API; no open weights confirmation yet. Simon Willison flags it as the newest high-end option.",
+     "url": "https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "Grok 4.6 released by xAI",
+     "summary": "Smart, fast model with strong price/performance; Elon highlights objective #1 ranking on intelligence/speed/cost.",
+     "url": "https://x.com/elonmusk/status/2087565020158992709",
+     "source": "X"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Anthropic adds watermarks to Claude, sparking user backlash over job/class cheating detection",
+     "summary": "New system flags AI use; some users call it intrusive while others defend it as necessary.",
+     "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+     "source": "TechCrunch"
+    },
+    {
+     "headline": "Amazon/Twitch defaults to training on streamer content unless users opt out",
+     "summary": "Policy allows GenAI improvements from user-generated streams; CPO cites low opt-in rates as reason for default.",
+     "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+     "source": "TechCrunch"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Elon Musk",
+     "handle": "@elonmusk",
+     "quote": "Grok 4.6 is objectively #1 when considering intelligence, speed & cost",
+     "context": "Direct claim of leadership post-launch, paired with 4.7 SpaceX training tease",
+     "url": "https://x.com/elonmusk/status/2087586063682596905"
+    },
+    {
+     "author": "Dwarkesh Patel",
+     "handle": "@dwarkesh_sp",
+     "quote": "I'm concerned this leads to a world where no frontier model is truly my personal advocate",
+     "context": "Critiques Claude Constitution prioritizing Anthropic's view of humanity over individual user alignment",
+     "url": "https://x.com/dwarkesh_sp/status/2087586004572221767"
+    },
+    {
+     "author": "Nathan Lambert",
+     "handle": "@natolambert",
+     "quote": "The vibes shifting from 'Anthropic is so far ahead' to 'model competition back to all time highs' took like 4 weeks.",
+     "context": "Captures rapid sentiment change amid new releases from multiple labs",
+     "url": "https://x.com/natolambert/status/2087570340356686132"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "ShieldFont poisons AI scrapers with nonsense while staying readable to humans",
+     "summary": "New font weaponizes web pages against training data collection without breaking human browsing.",
+     "url": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
+     "source": "Ars Technica"
+    }
+   ]
+  },
+  "post_ideas": [
+   {
+    "hook": "Elon just declared Grok 4.6 #1 on intell/speed/cost while promising 4.7 beats everyone via SpaceX data",
+    "draft": "Grok 4.6 out now and Elon says it's objectively #1. 4.7 coming in weeks with massive SpaceX corpus that could dominate engineering tasks. xAI closing the gap fast.",
+    "why_viral": "Direct from Elon + unique data angle creates FOMO and debate on closed vs open strategies",
+    "based_on_url": "https://x.com/elonmusk/status/2087586063682596905"
+   },
+   {
+    "hook": "Dwarkesh worried Claude is built to serve 'humanity' per Anthropic rather than the actual user sitting in front of it",
+    "draft": "Claude's constitution puts Anthropic's definition of humanity above being your personal advocate. Once superintelligences handle voting/investing/news, whose side are they on?",
+    "why_viral": "Aligns personal agency fears with real product policy; sparks alignment debate",
+    "based_on_url": "https://x.com/dwarkesh_sp/status/2087586004572221767"
+   },
+   {
+    "hook": "Amazon defaults Twitch streamers into AI training data unless they opt out; CPO says opt-in would get zero users",
+    "draft": "Twitch now trains Amazon AI by default. Opt-out only because 'if this was opt-in, nobody would opt in.' Creators get no real choice.",
+    "why_viral": "Opt-out controversy taps creator rights tension with big tech data grabs",
+    "based_on_url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/"
+   }
+  ]
+ },
+ "meta": {
+  "generated_at": "2026-08-13T03:08+00:00",
+  "window_start": "2026-08-12T19:31+00:00",
+  "window_end": "2026-08-13T03:08+00:00",
+  "candidate_count": 28,
+  "model": "grok-4-1-fast-reasoning",
+  "input_tokens": 18613,
+  "output_tokens": 2480,
+  "est_token_cost_usd": 0.005
+ }
+}
