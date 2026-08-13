@@ -1,0 +1,93 @@
+{
+ "digest": {
+  "overview": "DeepSeek drops V4-Pro amid sharp price hikes while the White House readies open-model inclusion in its pre-release safety framework. Anthropic rolls out invisible Claude watermarks; local and policy chatter dominates the morning.",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "DeepSeek launches V4-Pro with 50-1000% price increases",
+   "summary": "DeepSeek announces DeepSeek-V4-Pro today on X and Hugging Face, following prior releases; community reports note steep API price jumps of 50-1000%.",
+   "why_it_matters": "Directly challenges OpenAI/Anthropic on open weights and cost; Reddit threads flag it as potentially too late for Gemini-style RSI catch-up.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vn8m1x/deepseek_were_launching_deepseekv4pro_today/",
+   "source": "r/LocalLLaMA"
+  },
+  "sentiment": {
+   "label": "mixed",
+   "score": 0.1,
+   "summary": "Excitement over Chinese open-weight competition tempered by price shock and regulatory tightening signals from the White House."
+  },
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "DeepSeek-V4-Pro released today",
+     "summary": "New model on Hugging Face with community discussion of capabilities and immediate price hikes on API.",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vn8m1x/deepseek_were_launching_deepseekv4pro_today/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "DeepSeek Harness open-sourced",
+     "summary": "GitHub repo for evaluation harness from DeepSeek team.",
+     "url": "https://github.com/deepseek-ai/deepseek-harness",
+     "source": "GitHub"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "White House to expand AI safety framework to open models",
+     "summary": "Reported move to require 30-day pre-release testing for capable open models, extending current voluntary frontier closed-model regime.",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vn4pky/the_white_house_is_going_to_expand_its_ai_policy/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Claude adds invisible watermark to outputs",
+     "summary": "Anthropic's new mark flags any content processed or edited by Claude, even human-written text.",
+     "url": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
+     "source": "Ars Technica"
+    }
+   ],
+   "influencer_takes": [],
+   "research_radar": [
+    {
+     "headline": "Anthropic researcher solves Hadamard Matrix order 668 with internal model",
+     "summary": "Rapid internal-model acceleration highlights frontier-lab researcher advantage over external academics.",
+     "url": "https://www.reddit.com/r/singularity/comments/1vn87tq/solution_to_hadamard_matrix_of_order_668_found_by/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Dynamic Governance of Multi-LLM Agent Systems",
+     "summary": "arXiv paper on multi-agent collapse without shared goals.",
+     "url": "https://arxiv.org/abs/2608.11207",
+     "source": "arXiv"
+    }
+   ]
+  },
+  "post_ideas": [
+   {
+    "hook": "DeepSeek just hiked prices 50-1000% on launch day",
+    "draft": "DeepSeek-V4-Pro drops with massive API price increases. Open weights or not, the economics just got brutal for heavy users.",
+    "why_viral": "Price shock + new model = instant debate on Chinese lab strategy vs US pricing.",
+    "based_on_url": "https://www.reddit.com/r/singularity/comments/1vn8qsr/deepseek_announce_price_increases_of_501000/"
+   },
+   {
+    "hook": "White House quietly folding open models into safety testing",
+    "draft": "Open models hitting frontier capability will now face the same 30-day pre-release review as closed labs. The voluntary framework just got teeth.",
+    "why_viral": "Policy surprise that directly affects every local LLM user and small lab.",
+    "based_on_url": "https://www.reddit.com/r/artificial/comments/1vn3n70/the_white_house_is_reportedly_preparing_to_bring/"
+   },
+   {
+    "hook": "Claude now watermarks everything it touches",
+    "draft": "Even if you only ask Claude to lightly edit your writing, the output gets the invisible mark. Ownership of outputs just became murkier.",
+    "why_viral": "Direct tension with 'I own my outputs' claims and training-data debates.",
+    "based_on_url": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/"
+   }
+  ]
+ },
+ "meta": {
+  "generated_at": "2026-08-13T13:53+00:00",
+  "window_start": "2026-08-13T03:08+00:00",
+  "window_end": "2026-08-13T13:53+00:00",
+  "candidate_count": 104,
+  "model": "grok-4-1-fast-reasoning",
+  "input_tokens": 31376,
+  "output_tokens": 1997,
+  "est_token_cost_usd": 0.0073
+ }
+}
