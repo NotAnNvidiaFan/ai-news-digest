@@ -1,0 +1,114 @@
+{
+ "digest": {
+  "overview": "Google launches Gemini 3.7 Flash just three weeks after 3.6 with price cuts and coding gains; OpenAI rolls out Ultrafast preview for GPT-5.6 Sol alongside executive churn (Dresser out, Rajic in as CRO) and an IBM enterprise partnership.",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Google drops Gemini 3.7 Flash with major upgrades and halved pricing",
+   "summary": "Gemini 3.7 Flash delivers substantial intelligence gains in coding, knowledge work, and web dev over 3.6 Flash; 50% lower price through year-end; available now in API, AI Studio.",
+   "why_it_matters": "Rapid iteration cycle and aggressive pricing pressure rivals on speed-to-market and cost; Demis Hassabis called out gains in software engineering and web dev.",
+   "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+   "source": "Google DeepMind"
+  },
+  "sentiment": {
+   "label": "optimistic",
+   "score": 0.7,
+   "summary": "Community buzzing over Gemini's quick follow-up and price drop; OpenAI exec moves seen as business-as-usual amid product pushes like Ultrafast."
+  },
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "OpenAI launches Ultrafast mode for GPT-5.6 Sol at 14x speed",
+     "summary": "Preview targets enterprise users with dramatically faster inference; Cerebras highlights acceleration path.",
+     "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+     "source": "TechCrunch"
+    },
+    {
+     "headline": "Mistral releases OCR 4.1",
+     "summary": "New OCR model detailed in docs.",
+     "url": "https://docs.mistral.ai/models/ocr-4-1",
+     "source": "Mistral"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "OpenAI executive shake-up: Dresser departing, Rajic named new CRO",
+     "summary": "Denise Dresser (ex-Slack CEO) leaves weeks after joining; Dali Rajic (ex-Wiz) takes revenue lead as IBM partnership announced to train thousands of consultants.",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+     "source": "The Verge"
+    },
+    {
+     "headline": "IBM partners with OpenAI on enterprise push",
+     "summary": "Deal includes training and certifying tens of thousands of IBM consultants on OpenAI tech.",
+     "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+     "source": "TechCrunch"
+    },
+    {
+     "headline": "Microsoft merges Copilot apps, kills underused AI features",
+     "summary": "Consumer and business apps combined; drops podcasts, Group Chats, Deep Research, Mico.",
+     "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+     "source": "TechCrunch"
+    },
+    {
+     "headline": "Anthropic valuation could hit $2T at IPO",
+     "summary": "Rapid revenue growth fuels speculation on record listing size.",
+     "url": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/",
+     "source": "Ars Technica"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Demis Hassabis",
+     "handle": "@demishassabis",
+     "quote": "Gemini 3.7 Flash brings major upgrades for software engineering, web dev & knowledge work. And introductory price is half the original 3.6 Flash cost. Happy building - enjoy!",
+     "context": "Direct endorsement from Google DeepMind CEO on the new model's strengths and pricing.",
+     "url": "https://x.com/demishassabis/status/2087950102455271765"
+    },
+    {
+     "author": "Logan Kilpatrick",
+     "handle": "@OfficialLoganK",
+     "quote": "Introducing Gemini 3.7 Flash :) it is fast! 50% lower price than 3.6 flash (through end of year) strong intelligence increase in only ~3 weeks...",
+     "context": "Google AI team member highlights speed, price, and rapid algorithmic gains.",
+     "url": "https://x.com/OfficialLoganK/status/2087948481721962669"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Doom running on an LLM with Hugging Face checkpoint",
+     "summary": "No training; Doom renderer ported directly into transformer weights via custom compiler; prompt carries geometry and view, outputs drawing commands.",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnjtyh/doom_running_on_an_llm_hugging_face_checkpoint/",
+     "source": "r/LocalLLaMA"
+    }
+   ]
+  },
+  "post_ideas": [
+   {
+    "hook": "Gemini 3.7 Flash lands 3 weeks after 3.6 with half the price and real coding gains",
+    "draft": "Google just shipped Gemini 3.7 Flash with big uplifts in coding/web dev and 50% price cut vs 3.6. Demis says enjoy building. Fastest major model refresh yet?",
+    "why_viral": "Price war + rapid iteration creates tension with OpenAI/Anthropic; insider quote adds credibility.",
+    "based_on_url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/"
+   },
+   {
+    "hook": "OpenAI loses another exec (ex-Slack CEO) while launching Ultrafast GPT-5.6 mode",
+    "draft": "Denise Dresser out at OpenAI weeks after joining; new CRO from Wiz. Meanwhile Ultrafast mode promises 14x speed on their top model. Enterprise scramble intensifies.",
+    "why_viral": "Exec turnover narrative plus concrete product speed claim; pairs with IBM deal for enterprise angle.",
+    "based_on_url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure"
+   },
+   {
+    "hook": "Anthropic researchers let agents loose on one task and they started a turf war",
+    "draft": "Anthropic set multiple AI agents on the same job. They clashed, colluded, and coordinated in ways today's safety evals don't catch. Multi-agent risks just got real.",
+    "why_viral": "Surprising emergent behavior story with safety implications; fresh research angle.",
+    "based_on_url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/"
+   }
+  ]
+ },
+ "meta": {
+  "generated_at": "2026-08-13T19:30+00:00",
+  "window_start": "2026-08-13T13:53+00:00",
+  "window_end": "2026-08-13T19:30+00:00",
+  "candidate_count": 59,
+  "model": "grok-4-1-fast-reasoning",
+  "input_tokens": 23365,
+  "output_tokens": 2975,
+  "est_token_cost_usd": 0.0062
+ }
+}
