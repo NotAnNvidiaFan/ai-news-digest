@@ -1,0 +1,81 @@
+{
+ "digest": {
+  "overview": "Slow window centered on Qwen3.8-27B open release (identical arch to 3.6 but better training) dominating LocalLLaMA discussion. Side notes on Google AI watermark toggle and Ars price-war coverage amid Chinese model pressure.",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Qwen3.8-27B drops: same architecture, training gains only",
+   "summary": "Qwen released Qwen3.8-27B with zero architecture changes from 3.6-27B per HF diff; community benchmarks and Unsloth weights already out. LocalLLaMA polls show rapid progress toward 30B Opus-level models.",
+   "why_it_matters": "Pure training scaling win at 27B class accelerates open-weight catch-up to closed frontier; multiple quant tests and comparisons posted within hours.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1voa3ch/qwen_38_27b_released_please_share_your_experience/",
+   "source": "r/LocalLLaMA"
+  },
+  "sentiment": {
+   "label": "optimistic",
+   "score": 0.6,
+   "summary": "Community bullish on fast Chinese open-model iteration; excitement over Qwen gains and 6-month poll results beating expectations for 30B frontier parity."
+  },
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Qwen3.8-27B released with Unsloth weights",
+     "summary": "New 27B model matches prior architecture exactly; community charts benchmarks and reports early quant/t/s results.",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vo9qjv/unsloth_qwen_38_27b_weights_released/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Google lets users toggle off visible AI watermarks",
+     "summary": "Gemini and Flow now allow disabling sparkle watermark on images/video/music; invisible provenance stays.",
+     "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+     "source": "TechCrunch"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "OpenAI/Anthropic cut prices as Chinese rivals advance",
+     "summary": "US labs respond to new challenges with cheaper models amid trillion-dollar ambitions.",
+     "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+     "source": "Ars Technica"
+    }
+   ],
+   "influencer_takes": [],
+   "research_radar": [
+    {
+     "headline": "Google advances practical private AI via homomorphic encryption",
+     "summary": "New blog details making private inference feasible at scale.",
+     "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+     "source": "Google Blog"
+    }
+   ]
+  },
+  "post_ideas": [
+   {
+    "hook": "Qwen just proved training > architecture at 27B",
+    "draft": "Qwen3.8-27B has zero arch changes vs 3.6 yet pulls ahead. Training data and methods are now the only diff that matters.",
+    "why_viral": "Contrarian to 'scale is all' narrative; timely with open model hype.",
+    "based_on_url": "https://www.reddit.com/r/LocalLLaMA/comments/1voblcs/qwen3827b_is_identical_to_qwen3627b/"
+   },
+   {
+    "hook": "Google finally lets you kill the sparkle watermark",
+    "draft": "Gemini users can now toggle off visible AI marks on generations. Invisible detection stays, but at least the obvious ones are optional.",
+    "why_viral": "Practical UX win that sparks debate on AI disclosure norms.",
+    "based_on_url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal"
+   },
+   {
+    "hook": "Price war heating up as Chinese models close gap",
+    "draft": "OpenAI and Anthropic slashing prices while Ars reports Chinese rivals pressuring US labs' margins hard.",
+    "why_viral": "Tension between closed vs open economics right now.",
+    "based_on_url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/"
+   }
+  ]
+ },
+ "meta": {
+  "generated_at": "2026-08-14T19:24+00:00",
+  "window_start": "2026-08-14T13:49+00:00",
+  "window_end": "2026-08-14T19:24+00:00",
+  "candidate_count": 45,
+  "model": "grok-4-1-fast-reasoning",
+  "input_tokens": 19050,
+  "output_tokens": 1793,
+  "est_token_cost_usd": 0.0047
+ }
+}
