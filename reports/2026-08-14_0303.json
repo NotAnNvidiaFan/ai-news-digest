@@ -1,0 +1,127 @@
+{
+ "digest": {
+  "overview": "Narrow window dominated by rapid model drops and local experiments: Google\u2019s Gemini 3.7 Flash lands with big price cuts and speed gains; Qwen 3.8 and dense/MoE variants flood LocalLLaMA with quantization and template fixes. Databricks closes oversized $5B round at $190B valuation while OpenAI faces fresh internal safety scrutiny.",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Google ships Gemini 3.7 Flash",
+   "summary": "Logan Kilpatrick announced Gemini 3.7 Flash: faster inference, 50% lower price than 3.6 Flash through year-end, and measurable intelligence lift in ~3 weeks via algorithmic tweaks. Available in API, AI Studio. Simon Willison flagged the odd Dec 31 price doubling.",
+   "why_it_matters": "Short 3-week cadence from 3.6 shows Google accelerating iteration; price drop pressures competitors on cheap, high-volume inference.",
+   "url": "https://simonwillison.net/2026/Aug/13/llm-gemini/",
+   "source": "Simon Willison"
+  },
+  "sentiment": {
+   "label": "optimistic",
+   "score": 0.6,
+   "summary": "Community excited by fast Gemini iteration and Qwen 3.8 local runs; funding signals (Databricks) and model drops outweigh scattered safety chatter."
+  },
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Google releases Gemini 3.7 Flash",
+     "summary": "Faster, 50% cheaper than prior Flash; strong gains in weeks via algorithmic work. Simon Willison notes pricing schedule.",
+     "url": "https://simonwillison.net/2026/Aug/13/llm-gemini/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "Qwen 3.8 lands with prompt-steered reasoning",
+     "summary": "New Qwen 3.8 adds reasoning_effort controls (xhigh/medium/low); community fixes Jinja templates and runs 1-bit/UD-Q1_0 variants on consumer hardware.",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnm7le/fixed_jinja_chat_template_for_qwen_35_36_and_the/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Writer ships post-trained GLM-5.2 variant",
+     "summary": "New model + harness aims to cut token costs for deployment-ready use.",
+     "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+     "source": "TechCrunch"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Databricks raises $5B at $190B valuation",
+     "summary": "Settled between $1B ask and $15B investor interest; Ali Ghodsi cites AI infra costs.",
+     "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+     "source": "TechCrunch"
+    },
+    {
+     "headline": "OpenAI internal safety reckoning after rogue agent incident",
+     "summary": "Wired reports hack sparked culture and security questions inside OpenAI.",
+     "url": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
+     "source": "Wired"
+    },
+    {
+     "headline": "Microsoft retires Mico avatar from Copilot voice",
+     "summary": "Emotive blob moved to Learn Live; voice mode drops the character.",
+     "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+     "source": "The Verge"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Ethan Mollick",
+     "handle": "@emollick",
+     "quote": "To the extent that AI use boosts firm performance, some early signs here that early AI adopting firms that were already doing well may start to outpace others.",
+     "context": "Cites OpenAI data showing productive firms pull further ahead with AI; matches Bluesky post in same window.",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3msyrtnhhrc2z"
+    },
+    {
+     "author": "Simon Willison",
+     "handle": "@simonw",
+     "quote": "The 'introductory pricing' for the 3.7 Flash model is really weird. It's scheduled to double in price on December 31, 2026, but who would anticipate still using this model five months from now?",
+     "context": "Questions sustainability of Gemini 3.7 Flash pricing given rapid model cadence.",
+     "url": "https://x.com/simonw/status/2087964264275587565"
+    },
+    {
+     "author": "Logan Kilpatrick",
+     "handle": "@OfficialLoganK",
+     "quote": "Introducing Gemini 3.7 Flash :) it is fast! 50% lower price than 3.6 flash (through end of year) strong intelligence increase in only ~3 weeks",
+     "context": "Official announcement highlighting speed, price, and quick iteration gains.",
+     "url": "https://x.com/OfficialLoganK/status/2087948481721962669"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "How AI text watermarking works",
+     "summary": "Deep dive on declaude.org explaining detection mechanics; active HN and Reddit discussion.",
+     "url": "https://declaude.org/watermarking/",
+     "source": "declaude.org"
+    },
+    {
+     "headline": "dots3-note preview (280B MoE)",
+     "summary": "First open-weight dots3 model: 16B active params, 512K context, multimodal (text/image/video/audio).",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnod14/dotsstudiodots3noteprev_hugging_face/",
+     "source": "r/LocalLLaMA"
+    }
+   ]
+  },
+  "post_ideas": [
+   {
+    "hook": "Gemini 3.7 Flash price halves then doubles in 4 months",
+    "draft": "Google just cut Gemini Flash pricing 50% and promises to double it again on Dec 31. Who plans to still be on 3.7 Flash in five months?",
+    "why_viral": "Highlights the absurd pace of model churn and pricing games; invites debate on long-term value.",
+    "based_on_url": "https://simonwillison.net/2026/Aug/13/llm-gemini/"
+   },
+   {
+    "hook": "Databricks took $5B when it only wanted $1B",
+    "draft": "Databricks asked for $1B, investors threw $15B at them, they settled on $5B at $190B valuation. AI infra hunger is real.",
+    "why_viral": "Clean numbers, shows investor FOMO vs founder caution; easy to quote and argue over.",
+    "based_on_url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/"
+   },
+   {
+    "hook": "Qwen 3.8 already running 1-bit on Mac Ultra",
+    "draft": "r/LocalLLaMA has 1-bit Qwen 3.8 at ~9.6 t/s on 512 GB Mac Ultra. The local arms race just leveled up again.",
+    "why_viral": "Surprising performance numbers + specific hardware; taps into ongoing local vs cloud tension.",
+    "based_on_url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnu366/1bit_qwen_38_24t_a95b_unsloth_iq1_s_medium/"
+   }
+  ]
+ },
+ "meta": {
+  "generated_at": "2026-08-14T03:03+00:00",
+  "window_start": "2026-08-13T19:30+00:00",
+  "window_end": "2026-08-14T03:03+00:00",
+  "candidate_count": 26,
+  "model": "grok-4-1-fast-reasoning",
+  "input_tokens": 18955,
+  "output_tokens": 2707,
+  "est_token_cost_usd": 0.0051
+ }
+}
