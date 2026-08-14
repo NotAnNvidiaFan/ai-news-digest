@@ -1,0 +1,87 @@
+{
+ "digest": {
+  "overview": "GLM-5.3 launches today with frontier coding benchmarks and claimed emergent cyber capabilities, including discovery of 2,436 unpatched vulns. Qwen3.8-27B model card surfaces and Apple confirms a custom China model trained with Alibaba. Community chatter centers on local inference implications and pricing shifts at DeepSeek.",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "GLM-5.3 released: frontier coding with emergent cyber capabilities",
+   "summary": "Z.ai drops GLM-5.3; early reports highlight strong coding performance and discovery of 2,436 unpatched open-source vulnerabilities (1,097 critical/high, avg age 26 years).",
+   "why_it_matters": "Positions a new Chinese model at the frontier for code and security tasks; HN thread hit 719 points within hours.",
+   "url": "https://z.ai/blog/glm-5.3",
+   "source": "z.ai"
+  },
+  "sentiment": {
+   "label": "bullish",
+   "score": 0.7,
+   "summary": "Rapid local-model excitement around GLM-5.3 and Qwen3.8; practitioners highlight runnable performance on consumer hardware and practical tool-use gains."
+  },
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "GLM-5.3 released: frontier coding with emergent cyber capabilities",
+     "summary": "Z.ai drops GLM-5.3; early reports highlight strong coding performance and discovery of 2,436 unpatched open-source vulnerabilities (1,097 critical/high, avg age 26 years).",
+     "url": "https://z.ai/blog/glm-5.3",
+     "source": "z.ai"
+    },
+    {
+     "headline": "Preliminary Qwen3.8-27B model card live on HF",
+     "summary": "Qwen/Qwen3.8-27B card posted with overview and quickstart; benchmarks pending, expected dense 27B model.",
+     "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+     "source": "Hugging Face"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Apple trains custom AI model for China market with Alibaba",
+     "summary": "Rare cross-border partnership yields China-specific LLM; first foreign company potentially approved to offer its own model in China.",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+     "source": "The Verge"
+    },
+    {
+     "headline": "DeepSeek peak/off-peak pricing update",
+     "summary": "DeepSeek publishes new API pricing tiers effective 0813.",
+     "url": "https://api-docs.deepseek.com/news/news260813/",
+     "source": "DeepSeek"
+    }
+   ],
+   "influencer_takes": [],
+   "research_radar": [
+    {
+     "headline": "LoKiFormer: Locality-aware Attention with Decoupled Knowledge Memory",
+     "summary": "New pretraining architecture targeting self-attention inductive bias and KV-cache efficiency.",
+     "url": "https://arxiv.org/abs/2608.12419",
+     "source": "arXiv"
+    }
+   ]
+  },
+  "post_ideas": [
+   {
+    "hook": "GLM-5.3 just found 2.4k unpatched vulns averaging 26 years old",
+    "draft": "GLM-5.3 reportedly surfaced 2436 unpatched OSS vulns (1097 critical/high). Average age 26 years. If reproducible this changes vuln discovery economics overnight.",
+    "why_viral": "Concrete security numbers + recency create immediate debate on real-world impact vs hype.",
+    "based_on_url": "https://z.ai/blog/glm-5.3"
+   },
+   {
+    "hook": "Apple's China model trained with Alibaba is a quiet regulatory win",
+    "draft": "Apple + Alibaba just built a China-specific LLM. First foreign lab potentially cleared to run its own model inside China. Strategy shift worth watching.",
+    "why_viral": "Geopolitics + frontier lab moves always spark discussion; contrarian angle on decoupling.",
+    "based_on_url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba"
+   },
+   {
+    "hook": "Qwen3.8-27B card is up, dense not MoE this time",
+    "draft": "Qwen3.8-27B model card live. Looks like a straight dense 27B. Offloading math just got simpler (and slower) for local users.",
+    "why_viral": "Local LLM crowd cares about exact size/architecture for hardware planning; timely card drop.",
+    "based_on_url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+   }
+  ]
+ },
+ "meta": {
+  "generated_at": "2026-08-14T13:49+00:00",
+  "window_start": "2026-08-14T03:03+00:00",
+  "window_end": "2026-08-14T13:49+00:00",
+  "candidate_count": 67,
+  "model": "grok-4-1-fast-reasoning",
+  "input_tokens": 35190,
+  "output_tokens": 1957,
+  "est_token_cost_usd": 0.008
+ }
+}
