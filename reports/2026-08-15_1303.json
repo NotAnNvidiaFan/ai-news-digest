@@ -1,0 +1,121 @@
+{
+ "digest": {
+  "overview": "Quiet Saturday window dominated by local LLM tinkering (Qwen/Muse/Deepseek quants on 4090s) and a burst of arXiv position papers on reasoning/alignment. Frontier notes include Debian's AI contribution vote and OpenAI talent concerns ahead of IPO; Amazon's Twitch data policy drew attention.",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "OpenAI talent exodus raises 'huge red flag' ahead of IPO",
+   "summary": "Community discussion highlights ongoing departures at OpenAI as the company prepares for IPO.",
+   "why_it_matters": "Talent drain at the leading lab could slow progress on frontier models and signal internal instability.",
+   "url": "https://www.reddit.com/r/artificial/comments/1voy5dh/openai_talent_exodus_raises_huge_red_flag_ahead/",
+   "source": "r/artificial"
+  },
+  "sentiment": {
+   "label": "mixed",
+   "score": 0.1,
+   "summary": "Local community energetic about running models on consumer hardware; broader mood cautious on lab stability and alignment risks."
+  },
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Qwen 3.8 35BA3B spotted in ms-swift commit",
+     "summary": "New Qwen variant spotted; community testing 27B/3.8B quants on single 4090s with custom engines.",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1voxppd/qwen_38_35ba3b_spotted/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Deepseek-v4-flash Q2 runs on single 4090",
+     "summary": "Unsloth IXQ2 checkpoint achieves usable speeds via custom Blaze compiler, no llama.cpp/vLLM.",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vozg7c/deepseek_v4_flash_q2_on_a_single_4090/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Debian begins voting on AI/LLM contributions",
+     "summary": "Project discusses policy for accepting AI-generated code and contributions.",
+     "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
+     "source": "Debian"
+    },
+    {
+     "headline": "Amazon to use Twitch streams for AI training unless opted out",
+     "summary": "Streamers can opt out but thousands question the default inclusion of their content.",
+     "url": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
+     "source": "Wired"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Simon Willison",
+     "handle": "@simonw",
+     "quote": "It's LM Studio's 17GB Q4_K_M quantized build",
+     "context": "Discussing practical local Qwen deployment options",
+     "url": "https://x.com/simonw/status/2088504645241160005"
+    },
+    {
+     "author": "Matt Shumer",
+     "handle": "@mattshumer_",
+     "quote": "Yep! Just ask it to launch a cursor agent",
+     "context": "On practical agent workflows with local models",
+     "url": "https://x.com/mattshumer_/status/2088494769110479115"
+    },
+    {
+     "author": "roon",
+     "handle": "@tszzl",
+     "quote": "did you forget to negate the sign in your reward function or something?",
+     "context": "Typical wry take on RL/training issues",
+     "url": "https://x.com/tszzl/status/2088559477809438737"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Position: Reasoning is a Learnable Rule-Based Process",
+     "summary": "Argues for bridging symbolic and deep generative approaches to autonomous reasoning.",
+     "url": "https://arxiv.org/abs/2608.12325",
+     "source": "arXiv"
+    },
+    {
+     "headline": "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit",
+     "summary": "Warns that safety methods are dual-use and risk misuse for censorship.",
+     "url": "https://arxiv.org/abs/2608.12346",
+     "source": "arXiv"
+    },
+    {
+     "headline": "Don't Want Your LLM to Recommend Nuclear Strike? Try Asking It in Japanese",
+     "summary": "Tests show language of prompt alters safety behavior across nine models.",
+     "url": "https://arxiv.org/abs/2608.12373",
+     "source": "arXiv"
+    }
+   ]
+  },
+  "post_ideas": [
+   {
+    "hook": "Debian voting on AI code right now",
+    "draft": "Debian is literally voting on whether to accept AI-generated contributions. The future of open source governance just got weird.",
+    "why_viral": "Direct policy vote at a major distro creates governance tension everyone in OSS cares about.",
+    "based_on_url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html"
+   },
+   {
+    "hook": "OpenAI exodus before IPO",
+    "draft": "OpenAI talent leaving in numbers that are being called a 'huge red flag' pre-IPO. What does that say about the culture?",
+    "why_viral": "IPO timing + talent story = high-stakes drama with clear stakes.",
+    "based_on_url": "https://www.reddit.com/r/artificial/comments/1voy5dh/openai_talent_exodus_raises_huge_red_flag_ahead/"
+   },
+   {
+    "hook": "Twitch data defaulting to AI training",
+    "draft": "Amazon is training on your Twitch VODs unless you opt out. Thousands of streamers are only finding out now.",
+    "why_viral": "Data consent surprise + big tech move hits creator economy directly.",
+    "based_on_url": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/"
+   }
+  ]
+ },
+ "meta": {
+  "generated_at": "2026-08-15T13:03+00:00",
+  "window_start": "2026-08-15T01:53+00:00",
+  "window_end": "2026-08-15T13:03+00:00",
+  "candidate_count": 48,
+  "model": "grok-4-1-fast-reasoning",
+  "input_tokens": 20490,
+  "output_tokens": 2478,
+  "est_token_cost_usd": 0.0053
+ }
+}
