@@ -1,0 +1,108 @@
+{
+ "digest": {
+  "overview": "Qwen 3.8 27B dominates local LLM chatter with strong reasoning gains and vision tests versus prior versions. SpaceX closes its Cursor acquisition as a notable infra move. Community highlights interpretability survival across Qwen checkpoints and indie game dev AI backlash.",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "SpaceX officially closes Cursor acquisition",
+   "summary": "AI coding startup Cursor is now part of SpaceX.",
+   "why_it_matters": "Brings frontier coding agent tech under one of the most aggressive hardware+AI deployers; signals continued vertical integration in AI tooling.",
+   "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+   "source": "TechCrunch AI"
+  },
+  "sentiment": {
+   "label": "optimistic",
+   "score": 0.6,
+   "summary": "Enthusiasm for Qwen 3.8's reasoning depth and one-shot coding wins; acquisition news adds momentum without major skepticism in the window."
+  },
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Qwen 3.8 27B shows incremental one-shot gains over 3.6/3.5",
+     "summary": "Tests on 35 one-shot prompts show 3.8 succeeding where prior versions failed (e.g., working 2048 game, better Wolfenstein, accurate pelican).",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vp52ct/qwen38_27b_vs_qwen36_27b_vs_qwen35_27b_a_slight/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Qwen 3.8 27B outperforms in image recognition vs Muse Glimmer 30B",
+     "summary": "Early tests find Glimmer stronger on dense OCR but note Qwen's persistent glyph failures from 3.x lineage.",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vp6xec/doing_image_recognition_tests_of_muse_glimmer_v/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Alibaba AI models reach 3 billion downloads, surpassing Meta and Google",
+     "summary": "Rapid adoption milestone reported in community thread.",
+     "url": "https://www.reddit.com/r/singularity/comments/1vp77op/alibaba_ai_models_hit_3_billion_downloads_passing/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "SpaceX closes Cursor acquisition",
+     "summary": "AI coding startup now officially under SpaceX.",
+     "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+     "source": "TechCrunch AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Simon Willison",
+     "handle": "@simonwillison.net",
+     "quote": "Qwen 3.8 27B in its default reasoning settings in LM Studio of \"extra high\" is a chronic over-thinker and I kind of love it",
+     "context": "Captures the community's mixed delight at the model's deliberate, lengthy reasoning on local runs.",
+     "url": "https://bsky.app/profile/simonwillison.net/post/3mt4xrhnjz225"
+    },
+    {
+     "author": "Ethan Mollick",
+     "handle": "@emollick.bsky.social",
+     "quote": "there is constant policing of any AI use among small, indie developers... punished more harshly than big devs by their audience",
+     "context": "Highlights audience double standards hitting the most resource-constrained creators hardest.",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mt54nhcrus2k"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Survival of the Fitted: Qwen3.6-27B\u2019s Jacobian lens reads and steers Qwen3.8-27B with zero refitting",
+     "summary": "Interpretability instrument fitted to one checkpoint transfers across model-line update without retraining.",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1vpa5cv/survival_of_the_fitted_qwen3627bs_jacobian_lens/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Dataset: Starfield Fauna - 20,000 images in 50 species categories",
+     "summary": "New image classification dataset extracted from game footage for ML experiments.",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1vp9q5v/dataset_starfield_fauna_20000_images_in_50/",
+     "source": "r/MachineLearning"
+    }
+   ]
+  },
+  "post_ideas": [
+   {
+    "hook": "Qwen 3.8 overthinks on purpose and it's working",
+    "draft": "Qwen 3.8 27B's \"extra high\" reasoning mode turns slow into smart: one-shots a working 2048 and better code than 3.6. Local frontier vibes arriving fast.",
+    "why_viral": "Contrarian take on \"slower is better\" amid speed complaints; concrete wins cited.",
+    "based_on_url": "https://www.reddit.com/r/LocalLLaMA/comments/1vp52ct/qwen38_27b_vs_qwen36_27b_vs_qwen35_27b_a_slight/"
+   },
+   {
+    "hook": "SpaceX just bought the AI code editor",
+    "draft": "Cursor is now SpaceX property. Vertical integration of frontier coding agents into rocket ops starts today.",
+    "why_viral": "Surprise acquisition by high-profile player; immediate speculation on internal use.",
+    "based_on_url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/"
+   },
+   {
+    "hook": "Indie devs get punished hardest for using AI",
+    "draft": "Small teams with least resources face the strictest anti-AI audience policing. Big studios skate by.",
+    "why_viral": "Moral-economy tension in creative fields; resonates with indie maker audience.",
+    "based_on_url": "https://bsky.app/profile/emollick.bsky.social/post/3mt54nhcrus2k"
+   }
+  ]
+ },
+ "meta": {
+  "generated_at": "2026-08-15T18:52+00:00",
+  "window_start": "2026-08-15T13:03+00:00",
+  "window_end": "2026-08-15T18:52+00:00",
+  "candidate_count": 39,
+  "model": "grok-4-1-fast-reasoning",
+  "input_tokens": 16016,
+  "output_tokens": 2175,
+  "est_token_cost_usd": 0.0043
+ }
+}
