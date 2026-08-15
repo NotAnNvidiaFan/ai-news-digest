@@ -1,0 +1,76 @@
+{
+ "digest": {
+  "overview": "Qwen 3.8 27B dominates the short window with rapid local adoption, strong local inference benchmarks on Apple Silicon and dual 3090s, and standout creative output. Chinese labs continue closing the gap via efficient releases like GLM-5.3. Sparse signals on Anthropic internals and OpenAI talent moves but lack fresh verification.",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Qwen 3.8 27B drops, running locally at high speed with impressive creative results",
+   "summary": "Alibaba's Qwen 3.8 27B (also referenced as 3.7) sees immediate community uptake with MLX ports hitting ~3x speed on M4 Pro, Q8 runs on dual 3090s, and GGUF inference praised for drawing quality.",
+   "why_it_matters": "Strong local performance at 27B scale challenges assumptions about needing frontier API access for capable coding, agentic, and creative tasks; official HF weights and new sampling params fuel quick fine-tunes and uncensored variants.",
+   "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+   "source": "Hugging Face"
+  },
+  "sentiment": {
+   "label": "bullish",
+   "score": 0.7,
+   "summary": "Local LLM community excited by accessible high-performance Chinese open weights; rapid ports, benchmarks, and creative demos drive optimism about practical local agency without big-lab gatekeeping."
+  },
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Qwen 3.8 27B release sparks megathread and rapid local optimizations",
+     "summary": "New recommended sampling params noted; MLX-dspark port delivers up to 3x speedup on Apple Silicon; Q8 runs excel at one-shot HTML/JS game generation and uncensored Opus-like behavior.",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1voojjz/megathread_qwen_38_27b_release_day/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "GLM-5.3 shows Chinese labs sustaining frontier stride via efficient iteration",
+     "summary": "Interconnects analysis highlights non-distillation strengths, faster release cycles, and compute efficiency vs OpenAI/Anthropic.",
+     "url": "https://www.interconnects.ai/p/glm-53-how-chinese-labs-keep-stride",
+     "source": "Interconnects"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Simon Willison",
+     "handle": "@simonw",
+     "quote": "The new Qwen 3.7 27B, running as a 17GB GGUF in LM Studio on my M5 Max MacBook Pro, just drew me the best pelican riding a bicycle I've seen from any model that runs on my laptop",
+     "context": "Real-time validation of local creative capability from a prominent independent voice, later corrected to 3.8",
+     "url": "https://x.com/simonw/status/2088361426662637714"
+    }
+   ],
+   "research_radar": []
+  },
+  "post_ideas": [
+   {
+    "hook": "Qwen 3.8 27B just produced the best pelican-on-bike drawing Simon Willison has seen locally",
+    "draft": "Simon Willison ran Qwen 3.8 27B GGUF locally and got the single best pelican-riding-a-bicycle image from any laptop-scale model. Chinese open weights keep punching above their parameter count.",
+    "why_viral": "Combines credible influencer endorsement with surprise creative quality at accessible scale, triggering shareable visual contrast",
+    "based_on_url": "https://x.com/simonw/status/2088361426662637714"
+   },
+   {
+    "hook": "Qwen 3.8 27B hits 3x speed on Apple Silicon via new MLX speculative decoding port",
+    "draft": "mlx-dspark just added Qwen3.8-27B support. M4 Pro users now seeing up to 3x faster inference with lossless verification. Local 27B suddenly feels very usable.",
+    "why_viral": "Concrete performance numbers on popular hardware create immediate FOMO and testing urge among local runners",
+    "based_on_url": "https://www.reddit.com/r/LocalLLaMA/comments/1vokrcy/qwen3827b_is_now_up_to_3_faster_on_apple_silicon/"
+   },
+   {
+    "hook": "One-shot RetroCraft: Qwen 3.8 27B Q8 built a full playable 80s GeoCities Minecraft clone in a single prompt",
+    "draft": "Qwen 3.8 27B Q8 on dual 3090s produced a working single-binary RetroCraft game from one prompt. Exact performance data included. Local models are shipping functional software now.",
+    "why_viral": "Demonstrates end-to-end creative-to-deployable output with verifiable metrics, contrasting API hype with runnable local results",
+    "based_on_url": "https://www.reddit.com/r/LocalLLaMA/comments/1voj571/retrocraft_qwen_38_27b_q8_one_shot_with_exact/"
+   }
+  ]
+ },
+ "meta": {
+  "generated_at": "2026-08-15T01:53+00:00",
+  "window_start": "2026-08-14T19:24+00:00",
+  "window_end": "2026-08-15T01:53+00:00",
+  "candidate_count": 30,
+  "model": "grok-4-1-fast-reasoning",
+  "input_tokens": 17087,
+  "output_tokens": 2247,
+  "est_token_cost_usd": 0.0045
+ }
+}
