@@ -1,0 +1,76 @@
+{
+ "digest": {
+  "overview": "Qwen3.8-27B and its abliterated variants dominate local LLM chatter with strong reasoning and low-refusal benchmarks; AWS mandates CPU conservation amid AI-driven server capacity shortages. Sparse high-profile X activity in the narrow window leaves community forums driving the narrative.",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "AWS mandates CPU conservation as AI workloads explode server wait times",
+   "summary": "AWS engineers told to conserve CPU cycles at all costs after explosion in wait times for CPU server capacity driven by AI workloads.",
+   "why_it_matters": "Signals shift back toward CPU efficiency in cloud infra as GPU-heavy AI strains traditional capacity planning.",
+   "url": "https://spectrum.ieee.org/ai-cpu-comeback",
+   "source": "IEEE Spectrum"
+  },
+  "sentiment": {
+   "label": "optimistic",
+   "score": 0.6,
+   "summary": "Local AI community excited by Qwen3.8-27B performance gains and abliterated FP8 builds dropping refusals sharply with minimal benchmark loss."
+  },
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Qwen3.8-27B abliterated FP8 drops refusals to 0-6% with <1.3pt benchmark shift",
+     "summary": "Huihui-ai Qwen 3.8 abliterated variant available on HF; strong results with DeepSeek Harness and reasoning effort tests.",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vppox6/qwen3827b_abliterated_fp8_refusal_6499_06_and/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "frontier_labs": [],
+   "influencer_takes": [
+    {
+     "author": "Ethan Mollick",
+     "handle": "@emollick",
+     "quote": "In a large field experiment with real students, o3-mini (very obsolete) in an agentic loop made very good exam questions... psychometric properties on par with high-stakes standardized tests.",
+     "context": "Highlights continued utility of older models in structured agentic tasks.",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mt6iiuwqxc2r"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Paper: RL for reasoning changes only 1-3% of tokens; gains replicable without RL at ~1000x less compute",
+     "summary": "Claims and replication discussion on r/LocalLLaMA around minimal token changes in reasoning RL.",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpuhh1/paper_claims_rl_for_reasoning_only_changes_13_of/",
+     "source": "r/LocalLLaMA"
+    }
+   ]
+  },
+  "post_ideas": [
+   {
+    "hook": "AWS forcing CPU austerity while everyone chases GPUs",
+    "draft": "AWS just told engineers to hoard CPU cycles because AI is eating all the server capacity. The CPU comeback is real and happening now.",
+    "why_viral": "Contrarian infra angle on AI scaling pains resonates with engineers watching costs.",
+    "based_on_url": "https://spectrum.ieee.org/ai-cpu-comeback"
+   },
+   {
+    "hook": "Qwen3.8-27B abliterated beats refusals without losing capability",
+    "draft": "New Qwen3.8-27B FP8 ablit version tanks refusal rates from 64-99% to 0-6% while MMLU/GSM8K barely move. Local crowd eating it up.",
+    "why_viral": "Practical win for uncensored local models with real numbers.",
+    "based_on_url": "https://www.reddit.com/r/LocalLLaMA/comments/1vppox6/qwen3827b_abliterated_fp8_refusal_6499_06_and/"
+   },
+   {
+    "hook": "Even obsolete o3-mini nails exam questions in agent loop",
+    "draft": "o3-mini (called very obsolete) in an agentic loop produced exam questions matching high-stakes test psychometrics in real student field study.",
+    "why_viral": "Surprising result on older models still delivering in structured workflows.",
+    "based_on_url": "https://bsky.app/profile/emollick.bsky.social/post/3mt6iiuwqxc2r"
+   }
+  ]
+ },
+ "meta": {
+  "generated_at": "2026-08-16T13:05+00:00",
+  "window_start": "2026-08-16T02:00+00:00",
+  "window_end": "2026-08-16T13:05+00:00",
+  "candidate_count": 33,
+  "model": "grok-4-1-fast-reasoning",
+  "input_tokens": 15360,
+  "output_tokens": 1735,
+  "est_token_cost_usd": 0.0039
+ }
+}
