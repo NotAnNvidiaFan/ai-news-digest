@@ -1,0 +1,96 @@
+{
+ "digest": {
+  "overview": "Short window heavy on trust and privacy angles: Dario Amodei frames AI backlash as a crisis of trust rather than risk warnings, while ChatGPT's new desktop tracking feature surfaces. Local inference sees concrete gains with Qwen3-8 on GB300 hardware and Koboldcpp adding video gen.",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "ChatGPT desktop app now tracks clicks and keystrokes via 'Computer History'",
+   "summary": "macOS app builds timelines of user actions for training, automation suggestions, and resuming tasks; feeds into ChatGPT and Codex.",
+   "why_it_matters": "Turns everyday desktop activity into persistent training data with no opt-out details yet; direct escalation from prior memory features.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+   "source": "The Verge"
+  },
+  "sentiment": {
+   "label": "mixed",
+   "score": -0.1,
+   "summary": "Community notes trust erosion and privacy creep alongside excitement for local perf jumps; Dario's framing resonates but does not shift broader skepticism."
+  },
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Qwen3-8 2.4T hits 288k tokens/s on Nvidia GB300 NVL72",
+     "summary": "4k tokens/s per GPU across 72 GPUs; configurable reasoning without extra tuning.",
+     "url": "https://developer.nvidia.com/blog/serve-qwen3-8-2-4t-a95b-a-2-4t-parameter-model-with-configurable-reasoning-on-nvidia-gb300-nvl72/",
+     "source": "NVIDIA"
+    },
+    {
+     "headline": "Koboldcpp v1.119 adds Minimax H3 video generation and I2V",
+     "summary": "Requires specific 4-file setup; single-binary GGUF runner gains multimodal video support.",
+     "url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.119",
+     "source": "GitHub"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Anthropic CEO Dario Amodei: AI backlash is fundamentally a crisis of trust",
+     "summary": "Pushes back on over-pessimism claims; ordinary people distrust companies, governments, and institutions more than risk warnings.",
+     "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+     "source": "TechCrunch"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Ethan Mollick",
+     "handle": "@emollick",
+     "quote": "Its hard to imagine... that Google AI Overview alone would not profoundly change the nature of the web, and the information we consume and act on as a result.",
+     "context": "Highlights structural shift from search to AI summaries already underway.",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mt7hcnadb22u"
+    },
+    {
+     "author": "Simon Willison",
+     "handle": "@simonw",
+     "quote": "I do agree that the public has a negative view of AI... but I don\u2019t think it is primarily caused by me or any other AI leader warning about AI\u2019s risks. I think it is fundamentally a crisis of trust.",
+     "context": "Direct quote amplifying Amodei's point in newsletter context.",
+     "url": "https://simonwillison.net/2026/Aug/16/dario-amodei/"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "1.7B TwIL-LM2 beats Qwen3-8B and Gemma-4-26B on strict-7 formal reasoning via LoRA on SmolLM2",
+     "summary": "Narrow specialist adapter flips script on scale-is-everything for formal logic tasks.",
+     "url": "https://www.reddit.com/r/artificial/comments/1vq2io1/17b_model_leading_strict7_formal_reasoning_above/",
+     "source": "r/artificial"
+    }
+   ]
+  },
+  "post_ideas": [
+   {
+    "hook": "ChatGPT is now literally watching every click and keystroke on your desktop.",
+    "draft": "ChatGPT's new Computer History feature records your macOS actions to build timelines, suggest automations, and resume half-done tasks. Your workflow just became training data.",
+    "why_viral": "Privacy tension + concrete product change; readers will test or rage immediately.",
+    "based_on_url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes"
+   },
+   {
+    "hook": "Dario Amodei says the AI backlash isn't about doomer warnings\u2014it's a trust crisis.",
+    "draft": "Amodei: people don't trust companies, governments or institutions. That's the real driver of negative views, not risk talk from leaders.",
+    "why_viral": "Direct quote from frontier CEO reframes narrative; invites agreement or pushback.",
+    "based_on_url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/"
+   },
+   {
+    "hook": "Qwen3-8 2.4T running at 288k tokens/s on a single GB300 NVL72 rack.",
+    "draft": "NVIDIA demo: 4k t/s per GPU \u00d7 72 = 288k total. Open weights hitting serious inference scale without cloud.",
+    "why_viral": "Numbers shock + local/open angle; counters closed-lab dominance narrative.",
+    "based_on_url": "https://developer.nvidia.com/blog/serve-qwen3-8-2-4t-a95b-a-2-4t-parameter-model-with-configurable-reasoning-on-nvidia-gb300-nvl72/"
+   }
+  ]
+ },
+ "meta": {
+  "generated_at": "2026-08-16T18:51+00:00",
+  "window_start": "2026-08-16T13:05+00:00",
+  "window_end": "2026-08-16T18:51+00:00",
+  "candidate_count": 32,
+  "model": "grok-4-1-fast-reasoning",
+  "input_tokens": 25046,
+  "output_tokens": 2429,
+  "est_token_cost_usd": 0.0062
+ }
+}
