@@ -1,0 +1,89 @@
+{
+ "digest": {
+  "overview": "Qwen 3.8 27B drops with strong local benchmarks and Simon Willison's glowing review; Stripe nears $7B+ OpenRouter acquisition; OpenAI disbands its preparedness team. Window dominated by open-model excitement, infra deals, and lab safety moves.",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Stripe nears $7B+ deal for AI gateway OpenRouter",
+   "summary": "Bloomberg reports Stripe is closing in on acquiring OpenRouter, the 'Stripe for AI' startup routing to dozens of models. TechCrunch confirms the $7B+ valuation rumors.",
+   "why_it_matters": "Consolidates access to fragmented model APIs under a major payments player, signaling AI infrastructure maturing into enterprise plumbing.",
+   "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+   "source": "Bloomberg"
+  },
+  "sentiment": {
+   "label": "optimistic",
+   "score": 0.6,
+   "summary": "Buzz centers on runnable local models like Qwen 3.8 27B and hardware wins; M&A and safety-team changes add business-layer tension without derailing momentum."
+  },
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Qwen 3.8 27B released: Apache 2, vision-capable, strong local performance",
+     "summary": "Alibaba's 27B model praised by Simon Willison for fun local runs on laptops; benchmarks show 82 tps on RTX 3090, big gains over 3.6 in code tasks.",
+     "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+     "source": "Simon Willison"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "OpenAI disbands preparedness team",
+     "summary": "FT via The Verge: team assessing catastrophic risks dissolved end of July; no public comment on why or follow-up structure.",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+     "source": "The Verge"
+    },
+    {
+     "headline": "Anthropic's Claude watermarking draws sharp criticism",
+     "summary": "Daring Fireball calls text adulteration a 'perversion of writing'; HN debate on detection vs. integrity.",
+     "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+     "source": "Daring Fireball"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Simon Willison",
+     "handle": "@simonw",
+     "quote": "I can't remember the last time I've had this much fun playing with a local model that runs on my own computers",
+     "context": "Review of Qwen 3.8 27B highlights practical local usability over cloud defaults",
+     "url": "https://bsky.app/profile/simonwillison.net/post/3mta6urbgf22b"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "SineKAN: Kolmogorov-Arnold Networks with sinusoidal activations",
+     "summary": "New arXiv variant swaps B-splines for sinusoids; shared on r/MachineLearning for discussion on smoother function approximation.",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1vqdode/r_sinekan_kolmogorovarnold_networks_using/",
+     "source": "r/MachineLearning"
+    }
+   ]
+  },
+  "post_ideas": [
+   {
+    "hook": "Qwen 3.8 27B already hitting 82 tps on a 3090",
+    "draft": "Qwen 3.8 27B just dropped and locals are reporting 82 tps single-stream on 3090s with 150k+ context. Simon Willison says it's the most fun he's had with a local model in ages. The dense model race is back.",
+    "why_viral": "Concrete speed numbers + respected reviewer quote create immediate FOMO and benchmark debate",
+    "based_on_url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/"
+   },
+   {
+    "hook": "Stripe buying the 'Stripe for AI' for $7B+",
+    "draft": "Stripe is reportedly paying $7B+ for OpenRouter. The company that routes your prompts across every model is about to sit inside the payments giant. API fragmentation just got a new owner.",
+    "why_viral": "Big-ticket M&A in AI infra hits the 'who owns the pipes' nerve right now",
+    "based_on_url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion"
+   },
+   {
+    "hook": "OpenAI quietly killed its preparedness team last month",
+    "draft": "OpenAI disbanded the team whose job was spotting if its models could go rogue or cause real harm. No replacement announced. The safety org chart keeps shrinking while capabilities keep growing.",
+    "why_viral": "Contrarian safety angle with clear timeline and no spin creates instant discussion",
+    "based_on_url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team"
+   }
+  ]
+ },
+ "meta": {
+  "generated_at": "2026-08-17T01:58+00:00",
+  "window_start": "2026-08-16T18:51+00:00",
+  "window_end": "2026-08-17T01:58+00:00",
+  "candidate_count": 32,
+  "model": "grok-4-1-fast-reasoning",
+  "input_tokens": 16509,
+  "output_tokens": 2100,
+  "est_token_cost_usd": 0.0044
+ }
+}
