@@ -8,11 +8,12 @@ settings:
   window_hours_max: 24         # clamp if runs were skipped for a long time
 
 synthesis:
+  enabled: false                   # set true to re-enable Grok ranking (costs ~$0.01/run in tokens)
   model: grok-4-1-fast-reasoning   # verify against GET https://api.x.ai/v1/models
-  x_search: true
-  web_search: true
+  x_search: false                  # disabled — each call costs $0.005
+  web_search: false                # disabled — each call costs $0.005
   restrict_x_to_curated: true      # pass top-20 curated handles as allowed_x_handles
-  max_x_searches: 4                # each search call costs $0.005
+  max_x_searches: 4
   max_web_searches: 2
   max_output_tokens: 8000
 

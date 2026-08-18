@@ -156,7 +156,7 @@ def main():
         "window_start": window_start.isoformat(timespec="minutes"),
         "window_end": window_end.isoformat(timespec="minutes"),
         "candidate_count": len(candidates),
-        "model": cfg["synthesis"]["model"] if not digest.get("raw_mode") else "raw (no LLM)",
+        "model": cfg["synthesis"]["model"] if not digest.get("raw_mode") else "free (no LLM)",
         **usage_meta,
     }
     render(digest, meta, run_stamp)

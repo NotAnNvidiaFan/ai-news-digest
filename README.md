@@ -20,8 +20,9 @@ publishes a static HTML dashboard via GitHub Pages.
 4. **Publish:** Jinja2 renders `reports/<stamp>.html` plus an archive
    `index.html`; the workflow commits them, and GitHub Pages serves the site.
 
-Estimated cost: ~$0.04–0.07 per run (~$4–6/month), dominated by X/web search
-tool fees ($5 per 1,000 calls). Discovery sources are all free.
+Estimated cost: **$0 when `synthesis.enabled` is false** (current setting) — free
+fetchers only, grouped digest. With synthesis on and no search tools:
+~$0.01/run in tokens. X/web search tools add ~$0.02/run each when enabled.
 
 ## Setup
 
@@ -55,8 +56,8 @@ digest (useful for testing fetchers).
 
 ## Schedule
 
-Cron in `.github/workflows/digest.yml`: `0 0,12,18 * * *` (UTC) = 7pm, 7am,
-1pm US Central. Adjust as desired.
+Scheduled runs are disabled. To run manually: Actions → AI News Digest → Run workflow.
+To re-enable cron, add a `schedule` trigger back to `.github/workflows/digest.yml`.
 
 ## Future
 

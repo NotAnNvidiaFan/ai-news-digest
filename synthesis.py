@@ -118,7 +118,7 @@ def _fallback_digest(candidates):
             })
     top = candidates[0] if candidates else None
     return {
-        "overview": "Raw digest (no XAI_API_KEY set): unranked candidates grouped by type.",
+        "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
         "quiet_window": not candidates,
         "top_story": {
             "headline": top["title"], "summary": top["summary"],
@@ -131,9 +131,13 @@ def _fallback_digest(candidates):
 
 
 def synthesize(candidates, window_start, window_end, syn_cfg, x_accounts):
+    if not syn_cfg.get("enabled", True):
+        log.info("Synthesis disabled in config -- producing free-mode digest")
+        return _fallback_digest(candidates), {}
+
     api_key = os.environ.get("XAI_API_KEY")
     if not api_key:
-        log.warning("XAI_API_KEY not set -- producing raw fallback digest")
+        log.warning("XAI_API_KEY not set -- producing free-mode digest")
         return _fallback_digest(candidates), {}
 
     from openai import OpenAI
