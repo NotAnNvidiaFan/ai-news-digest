@@ -1,0 +1,243 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Galbot teases its new humanoid robot ahead of WRC26 and WHRG26",
+   "summary": "WRC26 Wordwide Robot Conference - 19Aug WHRG26 Wordwide Humandoid Robot Games - 22Aug submitted by /u/Distinct-Question-16 [link] [comments]",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/singularity/comments/1vryeur/galbot_teases_its_new_humanoid_robot_ahead_of/",
+   "source": "r/singularity"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Galbot teases its new humanoid robot ahead of WRC26 and WHRG26",
+     "summary": "WRC26 Wordwide Robot Conference - 19Aug WHRG26 Wordwide Humandoid Robot Games - 22Aug submitted by /u/Distinct-Question-16 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1vryeur/galbot_teases_its_new_humanoid_robot_ahead_of/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "and here we are",
+     "summary": "submitted by /u/johnnyApplePRNG [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vry2ns/and_here_we_are/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "OpenAI's largest planned frontier RL run is still on hold",
+     "summary": "Bearish for near-term model releases. We'll probably be stuck at roughly the current externally available capability level for many weeks, maybe even months. submitted by /u/Eyeswideshut_91 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1vrxua9/openais_largest_planned_frontier_rl_run_is_still/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Ling-3.0 (BailingMoE3) lands in llama.cpp mainline - Quick benchmarks on Intel Arc B580",
+     "summary": "Finally llama.cpp now officially supports Ling-3.0! (Starting from build b10472 +) If you want to run them locally, bartowski has already released the GGUF imatrix quantizations for both models: - Ling-3.0-tiny (8B) - Ling-3.0-flash (127B) After quite a while, PR #26608 has officially been merged\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vrxoxy/ling30_bailingmoe3_lands_in_llamacpp_mainline/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Idea: massively compress Qwen 3.8 KV cache by using a single bit for the token \"wait\"",
+     "summary": "Not even sure if I'm joking, my thinking history is about 50% \"wait\". submitted by /u/pixelpoet_nz [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vrxgiu/idea_massively_compress_qwen_38_kv_cache_by_using/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Turbovec \u2013 Google's TurboQuant for vector search in Rust",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49349898",
+     "url": "https://github.com/RyanCodrai/turbovec",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Memory prices climb 500% in 12 months, up to 10x the lowest ever tracked prices - 128GB of DDR5 now $3,399",
+     "summary": "submitted by /u/johnnyApplePRNG [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vrwsfl/memory_prices_climb_500_in_12_months_up_to_10x/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Qwen3.8 2.4T open weights made a Call of Duty clone",
+     "summary": "Qwen released the 2.4T Max weights and I was curious how well it can re-create COD in one prompt I ran the model on a rented B200 cluster and used roughly 1.1M output tokens over a 5 hour time span Realistically barely anyone can run this model locally, but the fact that it's open weights unlocks\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vrwn1f/qwen38_24t_open_weights_made_a_call_of_duty_clone/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I pushed Qwen3.8-27B to 124 tps on a single request on a RTX 3090",
+     "summary": "Two days ago I released a hyper-optimized Qwen3.8-27B inference engine for an RTX 3090 (82 tps single request, 672 peak) - yesterday's update took that to 99 tps single-user / ~1,000 tps at 64 concurrent. Since then I've focused on the single-request number, again without quality degradation. It's\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vrw4sz/i_pushed_qwen3827b_to_124_tps_on_a_single_request/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Claude Code May\u2013August 2026 weekly limits promotion",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49348751",
+     "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Why your Amazon order confirmation emails have become so unhelpful",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49348627",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Diesel Margins Top $100 a Barrel to Reach Record High as Supply Crunch Grows",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49348356",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-18/diesel-margins-top-100-a-barrel-to-reach-record-high-as-supply-crunch-grows",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "And Samsung has started using Anthropic\u2019s Claude Code for chip design, reportedly compressing a month of work into two days, but...",
+     "summary": "I saw this snippet in another article and was blown away, 15x faster on chip development is HUGE! And then I clicked on the link to the source and saw this: Samsung says Claude Code can cut chip design work from weeks to days, but it still makes serious mistakes. The tool has made unauthorized\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1vruawz/and_samsung_has_started_using_anthropics_claude/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Degraded performance for multiple models",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49348163",
+     "url": "https://status.claude.com/incidents/q7txxvbsftgq",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Launch HN: machine0 (YC S26) \u2013 Persistent CPU and GPU VMs from the CLI",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49348136",
+     "url": "https://machine0.io",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Qwen3.8-27B: slower tokens, faster and better results",
+     "summary": "submitted by /u/surreal_tournament [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vru16d/qwen3827b_slower_tokens_faster_and_better_results/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Scaling self-verification with DeepSeek V4 Flash beats Claude Fable 5 on Terminal-Bench 2.1, while being 11x cheaper",
+     "summary": "submitted by /u/yogthos [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1vrsn4q/scaling_selfverification_with_deepseek_v4_flash/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Show HN: Shoehorn \u2013 Quantize any model down to run on your machine",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49346135",
+     "url": "https://notactuallytreyanastasio.github.io/shoehorn/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Running DeepSeek V4 Flash Q4_K_XL at ~100 tok/s prompt processing on 4\u00d7 RTX 3060 12GB",
+     "summary": "I managed to run the 143\u2013144 GiB DeepSeek-V4-Flash-0731 UD-Q4_K_XL GGUF on four RTX 3060 12GB cards while keeping a 360k\u2013376k context window. Hardware: CPU: Intel Core i9-10920X, 12C/24T RAM: 128 GB DDR4-3200, quad-channel GPU: 4\u00d7 NVIDIA RTX 3060 12GB Total VRAM: 48 GB Storage: NVMe SSD Engine:\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vrqf4f/running_deepseek_v4_flash_q4_k_xl_at_100_toks/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "If the weights never change, is it really recursive self-improvement?",
+     "summary": "https://preview.redd.it/e0ydm43a55kh1.png?width=2902&format=png&auto=webp&s=8c9b88ff5e4157811e8996ba5a1e96cc55c8ae6a This paper is using a much narrower definition of recursive self-improvement than the phrase usually suggests. AQuA stores validated evidence in a persistent research state that\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vrqamv/if_the_weights_never_change_is_it_really/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "What sandbox are you all using for AI agents?",
+     "summary": "Hi everyone, I use AI agents to code and manage my personal files heavily. However, I am worried that the agents may accidentally delete some important files on my machine, outside of the defined scope. I am wondering what sandboxes people are using. I am looking for a solution that is easy to\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vrps78/what_sandbox_are_you_all_using_for_ai_agents/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "ChatGPT has almost stopped citing Reddit",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49345364",
+     "url": "https://promptwatch.com/data/reddit-citations-are-dropping-in-chatgpt",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49345320",
+     "url": "https://github.com/pitiflautico/neobrowser",
+     "source": "Hacker News"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
+     "summary": "The ChatGPT maker says its upcoming Astra model may have reached \u201ccritical\u201d cyber capabilities, prompting it to halt a significant number of training runs while it tightens internal safeguards.",
+     "url": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "How Much Memory Does Your Agent Actually Need?",
+     "summary": "",
+     "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+     "source": "Hugging Face Blog"
+    },
+    {
+     "headline": "OpenAI institutes new safeguards after Hugging Face breach",
+     "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
+     "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Etched\u2019s valuation doubles to $21B in a month",
+     "summary": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
+     "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Why Apple\u2019s camera-equipped AirPods may not be the \u2018pervert pods\u2019 consumers fear",
+     "summary": "Apple\u2019s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos.",
+     "url": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Warp\u2019s new system is an out-of-the-box software factory for AI development",
+     "summary": "On Tuesday, Warp introduced Warp Factories, a new infrastructure system designed to make building AI software factories as easy as possible.",
+     "url": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "OpenAI launches a safer ChatGPT for teens \u2014 years after teens started using it",
+     "summary": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content \u2014 and from using AI to cheat on their homework.",
+     "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Perplexity\u2019s free AI offer left it with millions more users in India",
+     "summary": "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined.",
+     "url": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
+     "source": "TechCrunch AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "Some early evidence that AI may actually be accelerating discoveries in the areas where you would expect to see AI acceleration happening first. metr.org/notes/2026-0...",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mteol7gac22j"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Some fertility and AI forecasts",
+     "summary": "The 2024 forecast is particularly pessimistic about China\u2019s fertility prospects. Both projections produce very substantial global aging, a major global capital glut producing very low long-run real capital returns. The latest forecast entails 10% lower global GDP in 2100 and far higher payroll tax\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/08/some-fertility-and-ai-forecasts.html?utm_source=rss&utm_medium=rss&utm_campaign=some-fertility-and-ai-forecasts",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Tuesday assorted links",
+     "summary": "1. AI is helping patients to solve their medical mysteries (WSJ). 2. History of economic thought in one paragraph. 3. Becca Rothfeld on Rachel Cusk. 4. \u201cSince ChatGPT, the number of new economics papers posted each year has almost doubled.\u201d 5. Alan Macfarlane update China fact of the day. 6. Is\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/08/tuesday-assorted-links-582.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-582",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "V1ki/dsh-plugin-subscriptions: Use ChatGPT (Codex), Claude, and Grok (X Premium) subscriptions as DeepSeek Harness LLM providers \u2014 OAuth login in the web UI, no API keys",
+     "summary": "Use ChatGPT (Codex), Claude, and Grok (X Premium) subscriptions as DeepSeek Harness LLM providers \u2014 OAuth login in the web UI, no API keys",
+     "url": "https://github.com/V1ki/dsh-plugin-subscriptions",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-08-18T19:03+00:00",
+  "window_start": "2026-08-18T13:14+00:00",
+  "window_end": "2026-08-18T19:03+00:00",
+  "candidate_count": 35,
+  "model": "free (no LLM)"
+ }
+}
