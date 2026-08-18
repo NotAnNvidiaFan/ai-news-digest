@@ -1,0 +1,90 @@
+{
+ "digest": {
+  "overview": "OpenAI launched dedicated ChatGPT protections and features for teens plus an education partnership, while the local LLM community buzzed over Qwen 3.8 27B performance and Hugging Face crossing 3 million models. Hardware tweaks like Linux 7.3 VRAM improvements and a Copilot exploit disclosure rounded out the morning.",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "OpenAI rolls out ChatGPT for Teens with stronger safeguards",
+   "summary": "New dedicated mode bundles youth protections, healthy-use limits, and parent controls; paired with CodeAI partnership to build AI literacy in schools.",
+   "why_it_matters": "Comes amid rising scrutiny on AI's impact on younger users; first major frontier lab move to segment teen access with built-in guardrails.",
+   "url": "https://openai.com/index/chatgpt-for-teens",
+   "source": "OpenAI Blog"
+  },
+  "sentiment": {
+   "label": "optimistic",
+   "score": 0.6,
+   "summary": "Community excited about practical local model wins (Qwen 3.8 27B) and HF scale milestone, with measured optimism on OpenAI's teen safety push."
+  },
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Qwen 3.8 27B delivers strong local performance",
+     "summary": "Users report 50-60 t/s on dual 5060 Ti cards and big API cost savings on long-horizon tasks with 262K context.",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vriwym/qwen_38_27b_is_faster_than_expected/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "OpenAI partners with CodeAI and ships ChatGPT for Teens",
+     "summary": "Focus on AI literacy, critical thinking, and age-appropriate protections as scrutiny grows over youth usage.",
+     "url": "https://openai.com/index/partnering-with-codeai",
+     "source": "OpenAI Blog"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Ethan Mollick",
+     "handle": "@emollick",
+     "quote": "The fact that LLMs have theory of mind at all is a huge deal... but you can still see the limitations when models need to consider more than one audience - like how they struggle to separate end user & creator needs/perspectives when coding.",
+     "context": "Highlights persistent LLM limits even as capabilities advance",
+     "url": "https://x.com/emollick/status/2089685655534129663"
+    },
+    {
+     "author": "Simon Willison",
+     "handle": "@simonw",
+     "quote": "I got a fantastic pelican out of that one!",
+     "context": "Tying into strong early results from Qwen 3.8 27B local runs",
+     "url": "https://x.com/simonw/status/2089635473803071704"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Large Language Models Show Metacognitive Sensitivity in Medical Reasoning",
+     "summary": "New arXiv paper tests whether LLM confidence tracks evidence quality and uncertainty in clinical scenarios.",
+     "url": "https://arxiv.org/abs/2608.14552",
+     "source": "arXiv"
+    }
+   ]
+  },
+  "post_ideas": [
+   {
+    "hook": "OpenAI just carved out a whole teen tier of ChatGPT",
+    "draft": "OpenAI's new teen mode adds parent controls and usage limits on top of existing safeguards. First real segmentation play from a frontier lab.",
+    "why_viral": "Timely angle on youth safety debate with concrete product change",
+    "based_on_url": "https://openai.com/index/chatgpt-for-teens"
+   },
+   {
+    "hook": "Hugging Face just hit 3 million models",
+    "draft": "HF crossed 3M models on the Hub. The open ecosystem keeps scaling even as frontier labs tighten access.",
+    "why_viral": "Clean milestone number that signals open-source momentum",
+    "based_on_url": "https://www.reddit.com/r/LocalLLaMA/comments/1vrnckt/hugging_face_just_surpassed_3_million_models_on/"
+   },
+   {
+    "hook": "Qwen 3.8 27B is punching above its weight locally",
+    "draft": "Users hitting 50-60 t/s on mid-range GPUs and saving hundreds in API costs. Dense 27B model running surprisingly fast with MTP.",
+    "why_viral": "Contrarian surprise on open model speed vs expectations",
+    "based_on_url": "https://www.reddit.com/r/LocalLLaMA/comments/1vriwym/qwen_38_27b_is_faster_than_expected/"
+   }
+  ]
+ },
+ "meta": {
+  "generated_at": "2026-08-18T13:14+00:00",
+  "window_start": "2026-08-18T01:54+00:00",
+  "window_end": "2026-08-18T13:14+00:00",
+  "candidate_count": 75,
+  "model": "grok-4-1-fast-reasoning",
+  "input_tokens": 27585,
+  "output_tokens": 1912,
+  "est_token_cost_usd": 0.0065
+ }
+}
