@@ -1,0 +1,89 @@
+{
+ "digest": {
+  "overview": "Qwen 3.8 27B posts benchmark scores matching GPT-5.6 variants while running locally on consumer GPUs, Anthropic's annualized revenue hits $65B after adding $18B in two months, and Stripe acquires OpenRouter for $7B. The window highlights open-weight performance gains pressuring closed labs and accelerating commercial infrastructure plays.",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Qwen 3.8 27B matches GPT-5.6 Luna at 52 on Artificial Analysis Intelligence Index",
+   "summary": "Alibaba's 27B model scores identically to GPT-5.6 Luna (max) and trails GLM-5.2/DeepSeek V4 Pro by one point on the index, despite far smaller scale than the 753B GLM.",
+   "why_it_matters": "Local benchmarks on 4x RTX 3090 and agentic coding tasks show it outperforming prior Qwen versions with lower token use; raises questions on scaling laws and parameter efficiency.",
+   "url": "https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/",
+   "source": "Simon Willison"
+  },
+  "sentiment": {
+   "label": "optimistic",
+   "score": 0.7,
+   "summary": "Community excited by Qwen 3.8 27B's efficiency and benchmark parity on local hardware; Anthropic revenue jump signals sustained demand despite open-model progress."
+  },
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Qwen 3.8 27B scores 52 on Artificial Analysis Intelligence Index",
+     "summary": "Matches GPT-5.6 Luna (max); runs quantized on consumer GPUs with strong agentic coding results vs DeepSeek v4 Flash.",
+     "url": "https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/",
+     "source": "Simon Willison"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Anthropic annualized revenue surges to $65B",
+     "summary": "Added $18B in annualized revenue in two months.",
+     "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Stripe buys OpenRouter for $7B",
+     "summary": "Deal targets infra and distribution, not GPUs or agents.",
+     "url": "https://www.latent.space/p/ainews-stripe-buys-openrouter-for",
+     "source": "Latent Space"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Nathan Lambert",
+     "handle": "@natolambert",
+     "quote": "Nvidia\u2019s optimism on open-source AI harkens back to Meta & Google investing so much in the free web...",
+     "context": "Frames open weights as long-term bet against monopoly, relevant amid Qwen performance.",
+     "url": "https://x.com/natolambert/status/2089389309333787107"
+    },
+    {
+     "author": "Ethan Mollick",
+     "handle": "@emollick",
+     "quote": "Less than two years later, this is the quality of the video of an otter using a laptop... from an open weights AI video generator, MiniMax H3, running entirely on my local computer.",
+     "context": "Highlights rapid local/open progress in video gen.",
+     "url": "https://x.com/emollick/status/2089185295518302489"
+    }
+   ],
+   "research_radar": []
+  },
+  "post_ideas": [
+   {
+    "hook": "27B open model ties closed frontier on intelligence index",
+    "draft": "Qwen 3.8 27B hits the same 52 score as GPT-5.6 Luna on Artificial Analysis. Runs on 4x 3090s. Scaling laws just got another data point.",
+    "why_viral": "Direct benchmark parity between small open and large closed models creates surprise and debate right now.",
+    "based_on_url": "https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/"
+   },
+   {
+    "hook": "Anthropic quietly added $18B ARR in 60 days",
+    "draft": "Anthropic annualized revenue now $65B after +$18B in two months. Demand curve still steep even as open models close the gap.",
+    "why_viral": "Concrete revenue number amid capability debates; contrasts with open-source momentum.",
+    "based_on_url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/"
+   },
+   {
+    "hook": "Stripe pays $7B for router infra, not a model lab",
+    "draft": "Stripe acquires OpenRouter for $7B. Pure distribution and routing play while labs chase parameters.",
+    "why_viral": "Highlights infra value in a model-saturated market; contrarian to usual model hype.",
+    "based_on_url": "https://www.latent.space/p/ainews-stripe-buys-openrouter-for"
+   }
+  ]
+ },
+ "meta": {
+  "generated_at": "2026-08-18T01:54+00:00",
+  "window_start": "2026-08-17T19:03+00:00",
+  "window_end": "2026-08-18T01:54+00:00",
+  "candidate_count": 46,
+  "model": "grok-4-1-fast-reasoning",
+  "input_tokens": 25077,
+  "output_tokens": 2069,
+  "est_token_cost_usd": 0.006
+ }
+}
