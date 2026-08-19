@@ -1,0 +1,225 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "How I made DeepSeek V4 Flash 12x faster on an M3 Ultra",
+   "summary": "I work with a Mac Studio M3 Ultra (512GB) serving DeepSeek V4 Flash on antirez/ds4 (\"DwarfStar\"). A chat turn took between 6 and 20 seconds. Now it takes 1.6s. Kernels (+21% cold prefill at 64k, bit-exact). DeepSeek V4's sparse attention runs a \"lightning indexer\" that dominates long-context\u2026",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vs7ft2/how_i_made_deepseek_v4_flash_12x_faster_on_an_m3/",
+   "source": "r/LocalLLaMA"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "How I made DeepSeek V4 Flash 12x faster on an M3 Ultra",
+     "summary": "I work with a Mac Studio M3 Ultra (512GB) serving DeepSeek V4 Flash on antirez/ds4 (\"DwarfStar\"). A chat turn took between 6 and 20 seconds. Now it takes 1.6s. Kernels (+21% cold prefill at 64k, bit-exact). DeepSeek V4's sparse attention runs a \"lightning indexer\" that dominates long-context\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vs7ft2/how_i_made_deepseek_v4_flash_12x_faster_on_an_m3/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Cerebras CS4",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49354949",
+     "url": "https://www.cerebras.ai/cs4",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Anthropic working on Claude autonomously designing drugs.",
+     "summary": "submitted by /u/borowcy [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1vs6f13/anthropic_working_on_claude_autonomously/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Solo \u2013 a .so loader for static Linux binaries",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49354613",
+     "url": "https://github.com/pg83/solo",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Aaron Parnas on Instagram",
+     "summary": "Apparently Amazon is buying up rare books only to destroy them after scanning using AI. submitted by /u/PNWHome95 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1vs5qmo/aaron_parnas_on_instagram/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "GLM-5.3 achieves 60 on the Artificial Analysis Intelligence Index, on par with Kimi K3 and up 7 points from GLM-5.2. Once the weights are released it will be tied as the leading open weights model",
+     "summary": "submitted by /u/Facelessjoe [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1vs5q84/glm53_achieves_60_on_the_artificial_analysis/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Putting money where their mouth is: Anthropic\u2019s Claude autonomously designs disease-targeting proteins with real wet-lab proof, hitting a 35% success rate vs 10\u201315% human average",
+     "summary": "https://preview.redd.it/t2etcv8rs7kh1.png?width=960&format=png&auto=webp&s=bff2886a56220157d7eb4a3b7ef3a040a855cbe6 Source submitted by /u/ResultBackground2450 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1vs524y/putting_money_where_their_mouth_is_anthropics/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "What is the best Qwen3.8 27b Abliterated version out there?",
+     "summary": "I'm trying to get a model to reverse engineer / decompile or otherwise reverse to source some of my old c,c++, pascal, and asm demo programs I made from decades ago and I'm constantly met with refusals. It is highly annoying. Does anybody know of a good abliterated/uncensored version of Qwen3.8\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vs4wo9/what_is_the_best_qwen38_27b_abliterated_version/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I tested DFlash2 for Qwen3.8 27B on a 5090",
+     "summary": "Here's the DFlash2 announcement , and I was pretty excited for this after trying out DSpark on llama.cpp a few days ago and being somewhat disappointed that it wasn't really working. Anyways, I spent a while setting it up (you need to rebuild llama.cpp with pr #27342). Here's my config: -hf\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vs43av/i_tested_dflash2_for_qwen38_27b_on_a_5090/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "AI usage patterns in software teams",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49353432",
+     "url": "https://linear.app/data",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "GLM-5.3 Artificial Analysis Benchmarks",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49353407",
+     "url": "https://artificialanalysis.ai/models/glm-5-3",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "GLM5.3 Artificial Analysis Benchmarks",
+     "summary": "submitted by /u/anderspitman [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vs3joh/glm53_artificial_analysis_benchmarks/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49353221",
+     "url": "https://github.com/DenisSergeevitch/desktop-fly",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "DFlash 2: Keep Drafting Parallel",
+     "summary": "submitted by /u/coder543 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vs2tz1/dflash_2_keep_drafting_parallel/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "DFlash 2 available for Qwen 3.8 27B and Muse Glimmer",
+     "summary": "Apparently a second version of DFlash from the original authors of DFlash GGUF quants are already made available with an accompanying llama.cpp PR: https://github.com/ggml-org/llama.cpp/pull/27342 submitted by /u/rerri [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vs2tsn/dflash_2_available_for_qwen_38_27b_and_muse/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Best Gemma 4 31B finetune for creative writing?",
+     "summary": "I know that equinox, skyfall exist, but what is out there and which is the best option? I\u2019m trying to use it for dnd so it needs to be able to fetch character info. I have been using qwen 3.6 35ba3b at q8_0 but its writing capabilities are horrible. submitted by /u/opoot_ [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vs2tlz/best_gemma_4_31b_finetune_for_creative_writing/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49352806",
+     "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Companies promote incompetent employees to management to limit damage they do",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49352794",
+     "url": "https://lawsofsoftwareengineering.com/laws/dilbert-principle/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Are you using --reasoning-preserve with llama.cpp and qwen3.8-27b?",
+     "summary": "Just learned about --reasoning-preserve which apparently causes llama.cpp to include full reasoning traces in the conversation, instead of just the answers. Sounds like it would improve quality, but given how much the model thinks, I'm concerned it might blow out my context. submitted by\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vs26o1/are_you_using_reasoningpreserve_with_llamacpp_and/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "OpenAI refers to its two week RL pause on their latest models in the past tense",
+     "summary": "submitted by /u/Outside-Iron-8242 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1vs1gy7/openai_refers_to_its_two_week_rl_pause_on_their/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "OpenAI is slowing down its AI training efforts because its unreleased models are showing \u201cvarious degrees of misalignment\"",
+     "summary": "This is a new quote from Sam Altman to Alex Heath saying that the reason OpenAI is slowing training is because its unreleased models are showing 'various degrees of misalignment'. They said in the blog that 'The signals we are seeing from upcoming model progress make clear that we need a broader\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1vs1fu9/openai_is_slowing_down_its_ai_training_efforts/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Alibaba's RISC-V CPU, XuanTie C950, Runs Qwen-3.8 27B at 30 tps",
+     "summary": "Who needs GPUs? submitted by /u/DeltaSqueezer [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vs0wsl/alibabas_riscv_cpu_xuantie_c950_runs_qwen38_27b/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Flock Cameras Can Track Every Car in America. Police Love Them. Citizens Don\u2019t.",
+     "summary": "submitted by /u/SnoozeDoggyDog [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1vrzb9b/flock_cameras_can_track_every_car_in_america/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Would training a model on only one human language mean there will be more parameter budget to be stronger at other tasks like programming?",
+     "summary": "E.g. There are 7100 known languages in the world how many parameters are wasted to learn 7099 languages I will never use? I know training is expensive so creating 7200 variants won't be practical, but even just an English and an all-languages version would be good enough for me if it means there\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vrz5f7/would_training_a_model_on_only_one_human_language/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Explanation from @sama on RL training pause: \"Model progress is now extremely rapid, and we always said we would take action if we felt that model capabilities were outstripping the pace of safety\u2026",
+     "summary": "submitted by /u/borowcy [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1vrz27g/explanation_from_sama_on_rl_training_pause_model/",
+     "source": "r/singularity"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+     "summary": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
+     "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Robin Williams\u2019 Instagram account brought back to fight \u2018AI abuse\u2019",
+     "summary": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak, Zelda, and Cody Williams write that they want the late actor's Instagram profile to be a \"safe,\u2026",
+     "url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+     "summary": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and alignment techniques. The company had already put the brakes on a new model,\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+     "source": "The Verge AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "If alignment issues are becoming big enough in their new models that OpenAI is willing to commit 20% of research inference compute to chain-of-thought monitoring, that suggests that alignment issues are becoming a serious concern. We really need universal policies. openai.com/index/pacing...",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mtf67piajs2n"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Frontier Model Cost and Open-Weights Popularity is Driving Demand for Model Routing",
+     "summary": "Glean CEO Arvind Jain explains why model routing helps control AI costs for organizations, and how human feedback loops at scale improve its routing systems.",
+     "url": "https://www.latent.space/p/glean-model-routing",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "Mojo\ud83d\udd25 is now open source",
+     "summary": "Mojo\ud83d\udd25 is now open source Mojo\ud83d\udd25 is now open source The Mojo programming language has been promising an open source release since May 2023 . Last week they shipped their 1.0 and today they have followed through on that original promise, releasing the compiler and toolchain under an Apache 2 license.\u2026",
+     "url": "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "amitshekhariitbhu/llm-inference-engineering: Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs.",
+     "summary": "Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs.",
+     "url": "https://github.com/amitshekhariitbhu/llm-inference-engineering",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-08-19T01:56+00:00",
+  "window_start": "2026-08-18T19:03+00:00",
+  "window_end": "2026-08-19T01:56+00:00",
+  "candidate_count": 32,
+  "model": "free (no LLM)"
+ }
+}
