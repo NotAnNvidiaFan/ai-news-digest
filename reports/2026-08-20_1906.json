@@ -1,0 +1,277 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "After the DeepSeek price increase, Grok 4.6 looks like the value pick to me",
+   "summary": "After the DeepSeek price increase, Grok 4.6 looks like the best value model available right now to me. That is my current judgment, not a universal benchmark result. The part I care about is whether a model can finish a coding task without turning a cheap run into two retries and a repair pass. A\u2026",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/singularity/comments/1vtso5b/after_the_deepseek_price_increase_grok_46_looks/",
+   "source": "r/singularity"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "After the DeepSeek price increase, Grok 4.6 looks like the value pick to me",
+     "summary": "After the DeepSeek price increase, Grok 4.6 looks like the best value model available right now to me. That is my current judgment, not a universal benchmark result. The part I care about is whether a model can finish a coding task without turning a cheap run into two retries and a repair pass. A\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1vtso5b/after_the_deepseek_price_increase_grok_46_looks/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "AQuA's \"self-improvement\" updates research state, not the agent LM. What should a local port freeze?",
+     "summary": "AQuA's preprint uses \"recursive self-improvement\" for a bounded research loop. It does not say the research-agent LM rewrites its own weights. The paper separates three objects: The language model driving the research agent and the evaluator stay fixed within each part. Each part has its own\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vtrxxb/aquas_selfimprovement_updates_research_state_not/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Is KV Cache in a high dimensional vector space? [D]",
+     "summary": "I've been doing some research on this question: At inference time a large part of a model's working memory lives in the KV cache, plus whatever external memory the harness bolts on. I've been poking at the storage-and-retrieval side of this, treating that cache as an index, and what stands out is\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1vtrdem/is_kv_cache_in_a_high_dimensional_vector_space_d/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "A question on gradual displacement",
+     "summary": "I\u2019ve been reading a lot of AI safety research around gradual disempowerment, and I ended up writing about a question I haven\u2019t been able to find addressed directly: What if the societal and institutional degradation that these models generally treat as a future consequence of AI dependence is\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1vtr6nv/a_question_on_gradual_displacement/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Ladies and gentlemen I present to you Qwen3.8 27b 1bit brain damage quant",
+     "summary": "I wanted to just test the unsloth 1bit quant of qwen 3.8 27b as I have just 8gb vram and ngl it gave me a good laugh submitted by /u/Ok-Health-7096 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vtr3h0/ladies_and_gentlemen_i_present_to_you_qwen38_27b/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Another crash during practices ahead of the Worldwide Humanoid Robot Games",
+     "summary": "submitted by /u/Distinct-Question-16 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1vtqssh/another_crash_during_practices_ahead_of_the/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Theres surely SOMEONE out there whose job is just pumping out low-poly oneshot ThreeJS assets..",
+     "summary": "..for that person AGI has effectively been achieved and is fully local. For everyone else - come up with new tests please!! I'm going to lose my mind if I see another tech influencer post that damn pagoda submitted by /u/ForsookComparison [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vtqd5d/theres_surely_someone_out_there_whose_job_is_just/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "AI is finally curing cancer",
+     "summary": "submitted by /u/Different-Froyo9497 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1vtqalk/ai_is_finally_curing_cancer/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Show HN: We chased a weather balloon across Montana and never found it",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49377660",
+     "url": "https://radi8.dev/blog/uplink/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Ling-3.0 released all 6 base checkpoints: 2 sizes \u00d7 3 stages",
+     "summary": "AntLing has released the full six-checkpoint matrix for the Ling-3.0 base model. tiny: pretrained, mid-trained, WSM-merged flash: pretrained, mid-trained, WSM-merged The concrete artifact is six separate official repositories, not one endpoint repeated under different names. All six were public\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vtpsqf/ling30_released_all_6_base_checkpoints_2_sizes_3/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "QwenMix-3.7: Kept seeing posts about Qwen3.8 and 3.6 sharing the same structure.. so I had Qwen3.8 combine them.",
+     "summary": "I chose to do this thing, not because it was hard, but because it was silly. Posts kept discussing how 3.8 and 3.6 were functionally the same, but based on training (3.8 does have seven new tokens!).. so I figured I'd see if they could be merged. They can. I used `Qwen3.8-27B-UD-Q6_K_XL.gguf` to\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vtozjq/qwenmix37_kept_seeing_posts_about_qwen38_and_36/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Moderna\u2019s new cancer vaccine (mRNA-4157) is basically an AWS cloud pipeline that \"compiles\" a custom drug for your specific tumor.",
+     "summary": "submitted by /u/AppropriateAd2997 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1vtozgt/modernas_new_cancer_vaccine_mrna4157_is_basically/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Getting better at coding doesn't make a model better at everything else",
+     "summary": "A majority of users in this sub use LLMs for coding/agentic tasks and I see why a lot of value is put into them but many try to say \"Well coding has improved therefore it can just use tool calling and/or just look up what the user needs if there's a degradation for general knowledge/reasoning\" and\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vtoqr9/getting_better_at_coding_doesnt_make_a_model/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Pres. Trump: I would 'absolutely' want a data center if I were the mayor of a town",
+     "summary": "submitted by /u/SnoozeDoggyDog [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1vtop3w/pres_trump_i_would_absolutely_want_a_data_center/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Claude sonnet 4.6 was really good at estimating the future qwen 3.8 27b performance",
+     "summary": "On August 8th, I asked Claude to estimate what performance might I expect out of the soon coming qwen 3.8 27b release by telling it to extrapolate from the qwen 3.6 max to qwen 3.6 27b difference, and apply it to the next generation. It gave me a couple of results which placed it in the broadly\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vtnuuk/claude_sonnet_46_was_really_good_at_estimating/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "GLM 5.3 SlopCodeBench Results",
+     "summary": "Howdy once again, I had a request to try out 5.3 on the benchmarks - they're unsaturated so it's a fun test right now! This one was interesting because I accidentally ran it on all 36 problems (rip $200) instead of the 9 i typically do previous runs a b c benchmark context: the ai is tasked to\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vtnnf0/glm_53_slopcodebench_results/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I Am Morally Opposed to Updating My Claude.md",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49376287",
+     "url": "https://alex-jacobs.com/posts/claudemd/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Epic Games Store to get an official Linux version",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49376100",
+     "url": "https://www.pcguide.com/news/epic-games-store-to-get-an-official-linux-version-which-could-mean-a-native-app-for-steam-deck-and-machine/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Clean up Claude 5's token vomit with a separate LLM",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49375996",
+     "url": "https://github.com/zachahn/vomit",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Anti-AI fonts are useless and harmful",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49375719",
+     "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "[MASSIVE TINY RELEASE] - Supra2-Medium-Base - a tiny 25M parameters model competing heavily with our previous 50M model!",
+     "summary": "Hey guys! Supra2-Medium is finally out! It's a 25M parameters qwen3 architecture model trained entirely from scratch (on our new rig: RTX 5060 Ti 16GB + the new RTX 5060 8GB!). Here's how it competes in benchmarks with Supra-50M-Base (which is double as large!!):\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vtlmtx/massive_tiny_release_supra2mediumbase_a_tiny_25m/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Show HN: Open-source Stripe Connect alternative",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49375244",
+     "url": "https://zoneless.com",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Hacking with Claude on a $27 Smart Watch",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49374772",
+     "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Qwen3.8 27b just exceeded my expectations on svg generation :D",
+     "summary": "https://reddit.com/link/1vtkgdj/video/595yn0ckdjkh1/player I wanted to try out Qwen3.8 27B 's SVG capabilities but with something different than the pelican on a bicycle. Promt was literally just : create a single html file with an embedded svg of a cat riding a zebra, riding an elephant took 20\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vtkgdj/qwen38_27b_just_exceeded_my_expectations_on_svg/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Mapping intrinsic rank and informational gravity in complex tabular data: I developed a non-parametric, model-agnostic, information-theoretic diagnostic to bypass the limits of linear, rank, and\u2026",
+     "summary": "Links: Preprint: https://doi.org/10.5281/zenodo.22028087 Entropic Scree Function v1.0.0 / GitHub: https://github.com/tjleestjohn/Entropic-Scree TL;DR: Standard PCA fundamentally fractures non-linear dependencies into \"Spurious Orthogonal Dimensions,\" drastically overestimating the true rank of\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1vtjotb/mapping_intrinsic_rank_and_informational_gravity/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Malicious Rust crate Arrayref runs a build-time payload",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49374269",
+     "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+     "source": "Hacker News"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Silicon Valley Doesn't Get Why You Hate AI",
+     "summary": "Technology leaders don\u2019t seem to understand society\u2019s gripes about AI, but boy, are they posting through it.",
+     "url": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Linkdaze\u2019s smart calendar is built to run a household, not just track a schedule",
+     "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+     "url": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Grok keeps sending gibberish responses to users",
+     "summary": "Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning.",
+     "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "A third of web pages published since ChatGPT\u2019s launch show signs of AI authorship, study finds",
+     "summary": "ChatGPT and other AI models are now authoring and editing much of the new web.",
+     "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+     "summary": "",
+     "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+     "source": "Hugging Face Blog"
+    },
+    {
+     "headline": "Ramp launches its own AI model router, called Router",
+     "summary": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
+     "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
+     "summary": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil.",
+     "url": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Broadening access to Skala creates a faster path to predictive DFT",
+     "summary": "Skala 1.1, the updated deep-learning exchange-correlation functional from Microsoft Research, provides greater accuracy, expanded accessibility across the computational chemistry ecosystem, and a living benchmark to track computational performance. The post Broadening access to Skala creates a\u2026",
+     "url": "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/",
+     "source": "Microsoft Research"
+    },
+    {
+     "headline": "Inertia Enterprises finds a way to make its fusion fuel fast",
+     "summary": "Fusion power startup Inertia Enterprises reduced the fuel filling process from a week to just a few hours. It's one of 10 hurdles the company must overcome to make a profitable power plant.",
+     "url": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "It\u2019s Greg Brockman\u2019s OpenAI now",
+     "summary": "OpenAI has had a hell of a year. The company spent months battling former co-founder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company. As it prepares for an IPO, a\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Debates over AI consciousness are a trap",
+     "summary": "\u201cRunaway\u201d AI, \u201crogue\u201d agents, and \u201cautonomous\u201d actors\u2014the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly\u2026",
+     "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+     "source": "MIT Tech Review AI"
+    },
+    {
+     "headline": "Welcome to the AI crisis in math",
+     "summary": "Today on Decoder, I\u2019m talking with Robert Hart, The Verge\u2019s London-based AI reporter, about what AI is doing to the field of mathematics and the existential crisis many lead mathematicians are having about it. OpenAI just published a set of solutions to longstanding problems in math that went off\u2026",
+     "url": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
+     "source": "The Verge AI"
+    }
+   ],
+   "influencer_takes": [],
+   "research_radar": [
+    {
+     "headline": "Indian documentary covers EV winners",
+     "summary": "A new short documentary (22 mins) film called The 22nd Century Indian by Shaurya Sinha offers an optimistic take on India, and also covers five (!) Emergent Ventures winners. Congratulations to them, and to Shruti too. EV India winners featured: Naman Pushp https://x.com/therealnamzoo?s=11 Khushi\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/08/indian-documentary-covers-ev-winners.html?utm_source=rss&utm_medium=rss&utm_campaign=indian-documentary-covers-ev-winners",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Thursday assorted links",
+     "summary": "1. This guy is productive. Yes very productive. 2. \u201cMercor is building a network of experienced data scientists for potential future projects with leading AI research organizations.\u201d And The New Statesman covers the poetry project. 3. How did the English build such beautiful villages? 4. Two\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/08/thursday-assorted-links-566.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-566",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "CopilotKit/OpenBot: Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+     "summary": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+     "url": "https://github.com/CopilotKit/OpenBot",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-08-20T19:06+00:00",
+  "window_start": "2026-08-20T13:22+00:00",
+  "window_end": "2026-08-20T19:06+00:00",
+  "candidate_count": 41,
+  "model": "free (no LLM)"
+ }
+}
