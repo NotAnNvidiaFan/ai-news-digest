@@ -1,0 +1,313 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Is it possible to fine-tune gemma4 A4B to generate complex legal principles of court decision? [D]",
+   "summary": "I have a big database of local court decisions with a legal sentence which is like a paragraph summary of the doc. I've been tinkering with FTing for many days now, all results inconclusive never beating base except for a highly specific task where the eval was built around a specific task of\u2026",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1vt53dp/is_it_possible_to_finetune_gemma4_a4b_to_generate/",
+   "source": "r/MachineLearning"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Is it possible to fine-tune gemma4 A4B to generate complex legal principles of court decision? [D]",
+     "summary": "I have a big database of local court decisions with a legal sentence which is like a paragraph summary of the doc. I've been tinkering with FTing for many days now, all results inconclusive never beating base except for a highly specific task where the eval was built around a specific task of\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1vt53dp/is_it_possible_to_finetune_gemma4_a4b_to_generate/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Ling 3.0 Tiny makes an amazing auxillery model for Hermes (Qwen 3.8 27B as the primary model)",
+     "summary": "Just got the setup dialed in yesterday. Getting really good results and is making 3.8 usage feel faster in hermes. I got Qwen to specifically use Ling tiny for simple tasks like context compression and summerization tasks. (basically anything that is not intellegence critical) Ling has like 5x\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vt3ttl/ling_30_tiny_makes_an_amazing_auxillery_model_for/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Companies buying rare books to train AI and destroying them",
+     "summary": "Has this been addressed in this subreddit? https://youtu.be/LAslxexwhOU?is=W745WpGFlnmQI2PQ this is from Forbes. Why destroy those books? submitted by /u/SubstantialPressure3 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1vt3gsm/companies_buying_rare_books_to_train_ai_and/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "My View on A.i Art",
+     "summary": "how i see it? humans are the pancil and a.i is the paintbrush; essentially expanding on you own creative ideas and concepts intead of a.i just doing all the conceptualization itself. Ultimately, i see a.i as an extension of ones own creativity, a multiplier if you will. At the end of the day,\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1vt2p49/my_view_on_ai_art/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Qwen3.8-23B-Mini-Me: A Depth-Pruned Qwen3.8-27B (to ~22.7BB)",
+     "summary": "I've been working on a depth pruning approach and decided to try it out on the new Qwen3.8-27B model. I managed to get the model down to about 22.7B params without severe reasoning degradation. No fine-tuning was done, just strategic removal of layers. It's been working well for my use cases in\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vt2jef/qwen3823bminime_a_depthpruned_qwen3827b_to_227bb/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Looking for criticism on an AI that can watch and track your screen",
+     "summary": "I'm working on an AI tool that can see what's happening on your screen in real time and understand the context, rather than requiring you to constantly take screenshots and upload them. The idea is that you could ask it things like: \"What's going wrong here?\" \"How do I fix this?\" \"What am I\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1vt2idv/looking_for_criticism_on_an_ai_that_can_watch_and/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Qwen 3.8 27B SlopCodeBench results",
+     "summary": "Howdy, I'm back again - running my favorite benchmark (it's still unsaturated for the time being so might as well!) previous runs a b https://github.com/michaelasper/benchmarks/blob/main/qwen3.8-27b-pi-on-slop-code-bench.md I ran this via OpenRouter because my mac would cry running 9 problems It\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vt2cjy/qwen_38_27b_slopcodebench_results/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Rick Scott Walked Away from $1.7B Health Care Fraud Case, Then Got a Senate Seat",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49368193",
+     "url": "https://www.uncensoredobjection.com/p/senator-rick-scott-walked-away-from",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "An AI agent just stacked blocks in a live physics simulation \u2014 building an open benchmark arena for embodied AI",
+     "summary": "Sharing an early result from a project I'm building: an open, browser-based arena where AI agents (Vision-Language-Action models, robotic policies) compete on real-time physical reasoning tasks. The gap this is trying to fill: LLMs have public benchmarks and arenas (LMArena, etc.) that let anyone\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1vt1dhc/an_ai_agent_just_stacked_blocks_in_a_live_physics/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Anyone NOT on full auto when coding with local LLMs?",
+     "summary": "Would love to know who's letting a 9B just go ham locally, haha But in all seriousness, how many of you are keeping to manual or manual-ish dev workflows? submitted by /u/BatPlack [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vt0y1g/anyone_not_on_full_auto_when_coding_with_local/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Same GRPO recipe on three from-scratch LLMs (353M/316M/672M) gave three different outcomes, with no clean relationship to scale [P]",
+     "summary": "I trained three LLMs from scratch in raw PyTorch then post-trained each one with SFT and then GRPO. Same process every time: same synthetic arithmetic curriculum, same reward function, same hyperparameters, same KL coefficient. Pre-training went as expected, the val loss went down as the model got\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1vszsit/same_grpo_recipe_on_three_fromscratch_llms/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Feature Request: Support AGENTS.md",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49367350",
+     "url": "https://github.com/anthropics/claude-code/issues/6235",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "S1-mini by Superwhisper running 100% locally in the browser on WebGPU with Transformers.js",
+     "summary": "It's a 600M-parameter LLM designed to turn raw speech-to-text transcripts into clean written text. It removes false starts and self-corrections, adds punctuation and capitalization, and formats spoken numbers, dates, times, and currencies. Try it out yourself: - Model:\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsze11/s1mini_by_superwhisper_running_100_locally_in_the/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I built a custom multi-agent framework (GenOS) to autonomously evolve algorithms. I pitted the 3 fundamental AI paradigms against an NP-Hard problem. Here is what happened.",
+     "summary": "Hey everyone, For a while now, I\u2019ve been developing a proprietary multi-agent framework called GenOS . Without giving away the exact mechanics, GenOS is an orchestrator where autonomous LLM sub-agents write, compile, benchmark, and iteratively evolve Rust code to solve extremely complex\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1vsyo3j/i_built_a_custom_multiagent_framework_genos_to/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Poor adoption at different scales",
+     "summary": "Generic AI training at one company: 11% uptake. A company-wide licence at an unrelated firm, different sector: 11.5% active use. Same number twice, from opposite directions. The cause underneath is the same. Nobody connected the tool to the job sitting in front of the person. Training that opens\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1vsyj5s/poor_adoption_at_different_scales/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Fluid Simulation Qwen3.8 27B IQ3_XXS",
+     "summary": "After reading this tweet: https://x.com/scaling01/status/2089784644400976254 where the author says Qwen3.8 27B is not comparable to Opus, I had to try it out myself. First of: GPT 5.6 Sol (High) also failed the task and gave me a blank screen on the first try. And the author seemingly tried a\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsyj2o/fluid_simulation_qwen38_27b_iq3_xxs/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "DFlash 2: Keep Drafting Parallel",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49366792",
+     "url": "https://inco.ai/blog/dflash2/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "I pushed Qwen3.8-27B limits again... Dflash2 - 134 tps on a RTX 3090",
+     "summary": "Edit: Title says 134 tps, it's actually 138 -- keep in mind my 3090 is power limited to 250w. Three days ago I released a hyper-optimized Qwen3.8-27B inference engine for an RTX 3090 (82 tps single request, 672 peak), and yesterday's update took it to ~114 tps single-user / ~1,000 tps at 64\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsy4l2/i_pushed_qwen3827b_limits_again_dflash2_134_tps/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "KV cache may affect a lot on the quality in Qwen3.8-27B-Q6_K",
+     "summary": "What I found is when I use Q8/Q8 for KV cache, the model thinks a lot more than the Q4/Q4 or Q8/Q4. I also feel that the quality is a lot better when using Q8/Q8. submitted by /u/fbms2 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsxca1/kv_cache_may_affect_a_lot_on_the_quality_in/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "We quantized the new Ornith 1.5 9B and 35B-A3B",
+     "summary": "ornith lab dropped new ornith 1.5 today, a 9B dense with vision and a 35B-A3B MoE, both MIT, trained on a loop that generates its own tasks. in addition there was giant 397b model, but we didn't quantize it (but if you want to try - we will do it) we made our AD (Atomic Dynamic) quants for both,\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsx94f/we_quantized_the_new_ornith_15_9b_and_35ba3b/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Hi everyone, I\u2019ve been working on an independent conceptual paper and architecture called FRONT 3.1, and I wanted to share it with this community to get your techn",
+     "summary": "\u200bThe Core Premise \u200bCurrent Large Language Models (LLMs) are powerful statistical engines, but they are fundamentally decoupled from any internal somatic or homeostatic state. Every prompt is evaluated from scratch, with no persistent internal needs or history-driven predispositions. \u200bThe core\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1vsx18h/hi_everyone_ive_been_working_on_an_independent/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "How much of the weight-space perception gap is actually symmetry? Evidence from ~1.8M fitted SIRENs [R]",
+     "summary": "I\u2019ve been looking at a fairly basic question in weight-space learning that I don\u2019t think gets separated cleanly enough: Why does reading semantics directly from neural network weights work pretty well when the networks share an initialization, but collapse when the networks are fitted\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1vswdnf/how_much_of_the_weightspace_perception_gap_is/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Ornith-1.5 9B might not be bad at all",
+     "summary": "(my own experience) I have a mid-range gaming laptop from 2024 with 4GB VRAM and 16GB RAM. There is nothing that I can run other than small models at humble t/s. I mostly use the models to generate scripts for medical physics research (don't worry, I verify them before any use, no one is getting\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsvr7f/ornith15_9b_might_not_be_bad_at_all/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Stripe didn\u2019t really buy OpenRouter because of the \u2018singularity\u2019",
+     "summary": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
+     "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+     "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
+     "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+     "summary": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
+     "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Flight attendants freaked out that Google is buying tons of Spirit employee data",
+     "summary": "Bankrupt Spirit accused of selling out workers in massive data sale to Google.",
+     "url": "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
+     "summary": "During a recent visit to Generalist AI, I watched a robotic arm improvise and use a banana as a tool.",
+     "url": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "AI was supposed to win people over by now \u2014 it hasn\u2019t",
+     "summary": "As AI becomes harder to avoid, consumers are growing more wary of the technology \u2014 and Silicon Valley is discovering that widespread adoption doesn\u2019t necessarily lead to acceptance.",
+     "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Offering Zero Data Retention for frontier models",
+     "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+     "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+     "source": "OpenAI Blog"
+    },
+    {
+     "headline": "5 new ways to level up your learning with Search",
+     "summary": "an illustrated image with icons and phrasing like \"Add Notebook\" and \"Ask Google\"",
+     "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+     "source": "Google AI Blog"
+    },
+    {
+     "headline": "Google Gemini is getting a dedicated student hub",
+     "summary": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice quizzes, and more. Google is also enhancing its study notebooks with support for\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Google packs Search and Gemini with new AI study tools",
+     "summary": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI.",
+     "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+     "source": "TechCrunch AI"
+    }
+   ],
+   "influencer_takes": [],
+   "research_radar": [
+    {
+     "headline": "smolmachines / smolvm as a sandbox for untrusted Python & JavaScript",
+     "summary": "Research: smolmachines / smolvm as a sandbox for untrusted Python & JavaScript I tasked Claude Fable 5 running in Claude Code for web with the following research task: Put https://smolmachines.com through its paces as a fast secure sandbox. Explore what it would take to use this to run untrusted\u2026",
+     "url": "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "Quoting Jeremy Morrell",
+     "summary": "My hypothesis is that there is a new opportunity for Extensible Software on the web . LLMs radically lower the cost of authoring extensions, and modern sandbox primitives lower the deployment cost and provide good security boundaries. We can build our app as a solid, accountable core, and allow\u2026",
+     "url": "https://simonwillison.net/2026/Aug/19/jeremy-morrell/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "Conceptual integrity and counting lines of code",
+     "summary": "Last week I recorded an episode of the Talking Postgres podcast with Claire Giordano on the subject of \"How AI is changing software development\". We had a really great conversation. Here are a couple of my highlights from a lightly edited transcript (prompt to Claude: \"very minor edits to remove\u2026",
+     "url": "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "only-cli/oc: Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.",
+     "summary": "Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.",
+     "url": "https://github.com/only-cli/oc",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "squall01337/mixamo-llm-mocap: Turn any video into a Mixamo-rig animation - GVHMR estimator, spec-driven retarget, FK apply in Blender via MCP. Works with any Mixamo character; built to be operated\u2026",
+     "summary": "Turn any video into a Mixamo-rig animation - GVHMR estimator, spec-driven retarget, FK apply in Blender via MCP. Works with any Mixamo character; built to be operated end-to-end by an AI agent.",
+     "url": "https://github.com/squall01337/mixamo-llm-mocap",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "elie222/botdirectory.ai: Open-source directory of agent-bot prompts for Grok Bot, Rakazo, and any agent \u2014 botdirectory.ai",
+     "summary": "Open-source directory of agent-bot prompts for Grok Bot, Rakazo, and any agent \u2014 botdirectory.ai",
+     "url": "https://github.com/elie222/botdirectory.ai",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "CopilotKit/openbot: Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+     "summary": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+     "url": "https://github.com/CopilotKit/openbot",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "ZSeven-W/dsh-crew: DeepSeek Harness (DSH) plugin: dispatch work to DSH agents from Claude Code / Codex \u2014 native subagent progress, in-host worker sessions with per-tier presets, and a multimodal\u2026",
+     "summary": "DeepSeek Harness (DSH) plugin: dispatch work to DSH agents from Claude Code / Codex \u2014 native subagent progress, in-host worker sessions with per-tier presets, and a multimodal bridge that lends the text-only harness vision and image generation.",
+     "url": "https://github.com/ZSeven-W/dsh-crew",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "wtfzambo/speak-like-you-eat: Translate AI garbage to human language. A Pi package for plain-language rewrites.",
+     "summary": "Translate AI garbage to human language. A Pi package for plain-language rewrites.",
+     "url": "https://github.com/wtfzambo/speak-like-you-eat",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "toolclub/dsh-agent-team-gui: Persistent multi-model workflow teams for DeepSeek Harness \u2014 dynamic lead planning, bounded DAGs, per-agent model/tools, Run Center and Token insights.",
+     "summary": "Persistent multi-model workflow teams for DeepSeek Harness \u2014 dynamic lead planning, bounded DAGs, per-agent model/tools, Run Center and Token insights.",
+     "url": "https://github.com/toolclub/dsh-agent-team-gui",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "ustoppble/overclick: The open source task board where AI agents do the work. Self-hosted, MCP-native, zero data collection.",
+     "summary": "The open source task board where AI agents do the work. Self-hosted, MCP-native, zero data collection.",
+     "url": "https://github.com/ustoppble/overclick",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "xmanrui/dsh-im: \u901a\u8fc7\u626b\u7801\u6216\u673a\u5668\u4eba\u51ed\u636e\u628aIM\u673a\u5668\u4eba\u63a5\u5165DeepSeek Harness\uff08\u652f\u6301\u98de\u4e66\u3001\u5fae\u4fe1\u3001\u9489\u9489\u3001\u4f01\u4e1a\u5fae\u4fe1\u3001QQ\u3001Slack\u3001Telegram\u3001Discord\u548cWhatsApp\uff09\u3002 Connect IM bots to DeepSeek Harness via QR code or credentials (9 channels).",
+     "summary": "\u901a\u8fc7\u626b\u7801\u6216\u673a\u5668\u4eba\u51ed\u636e\u628aIM\u673a\u5668\u4eba\u63a5\u5165DeepSeek Harness\uff08\u652f\u6301\u98de\u4e66\u3001\u5fae\u4fe1\u3001\u9489\u9489\u3001\u4f01\u4e1a\u5fae\u4fe1\u3001QQ\u3001Slack\u3001Telegram\u3001Discord\u548cWhatsApp\uff09\u3002 Connect IM bots to DeepSeek Harness via QR code or credentials (9 channels).",
+     "url": "https://github.com/xmanrui/dsh-im",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "ZSeven-W/dsh-noema: Noema long-term memory plugin for DSH: durable, inspectable agent memory with recall tools and a settings page.",
+     "summary": "Noema long-term memory plugin for DSH: durable, inspectable agent memory with recall tools and a settings page.",
+     "url": "https://github.com/ZSeven-W/dsh-noema",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "Mars-Sea/dsh-commandcode-provider: Unofficial DeepSeek Harness LLM provider plugin for Command Code: live model catalog, reasoning-effort support, Models-page card. Ported from\u2026",
+     "summary": "Unofficial DeepSeek Harness LLM provider plugin for Command Code: live model catalog, reasoning-effort support, Models-page card. Ported from pi-commandcode-provider (MIT).",
+     "url": "https://github.com/Mars-Sea/dsh-commandcode-provider",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-08-20T01:55+00:00",
+  "window_start": "2026-08-19T18:58+00:00",
+  "window_end": "2026-08-20T01:55+00:00",
+  "candidate_count": 47,
+  "model": "free (no LLM)"
+ }
+}
