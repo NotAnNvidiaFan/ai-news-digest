@@ -1,0 +1,301 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "So uh\u2026 wtf?",
+   "summary": "submitted by /u/cheesyweiner420 [link] [comments]",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/artificial/comments/1vup7pd/so_uh_wtf/",
+   "source": "r/artificial"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "So uh\u2026 wtf?",
+     "summary": "submitted by /u/cheesyweiner420 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1vup7pd/so_uh_wtf/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Ling-3.0 opens six base checkpoints across three training stages",
+     "summary": "Ling-3.0 is being presented with six base checkpoints covering two model sizes and three training stages: pretrained, mid-trained, and WSM-merged. The interesting part is that the release exposes multiple points in the training process rather than only a single final checkpoint. That could give\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1vup2uv/ling30_opens_six_base_checkpoints_across_three/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Qwen3.8-27B Q6 is a beast at agentic coding",
+     "summary": "A quick feedback after a really major test: nearly 20 hours of non-stop goal-oriented work with Qwen3.8-27B Q6, running across an RTX 3090 and an RTX 3060. It maintained a speed of around 60\u201363 tokens/s throughout the session. submitted by /u/Ok_Ninja7526 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vuotqr/qwen3827b_q6_is_a_beast_at_agentic_coding/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "model: add dots3-note by ngxson \u00b7 Pull Request #27060 \u00b7 ggml-org/llama.cpp",
+     "summary": "dots3-note preview is the first open-weight model in the dots3 family. It is a Mixture-of-Experts model with 280B total parameters, 16B activated parameters, and support for a context length of up to 512K tokens. The model can understand text, images, video, and audio, and produces text outputs.\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vunrrp/model_add_dots3note_by_ngxson_pull_request_27060/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Llama.cpp DSpark PC Tree Fork (up to 3%-29.5% faster!)",
+     "summary": "Hello gang, I made an implementation of DSpark PC Tree (Parent conditioned drafting tree). This is an implementation of this research paper: https://arxiv.org/abs/2608.02123 Unaffiliated, just found it and implemented it. And I have to preface: This is just a first shot, I have no feedback from\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vunqoz/llamacpp_dspark_pc_tree_fork_up_to_3295_faster/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "1.7B model leading strict-7 formal reasoning above Qwen3-8B and Gemma-4-26B - specialists eating generalist territory?",
+     "summary": "Most of the reasoning gains coming out of the big labs are still tied to scale. More params, more compute, better reasoning. That's been the play for a while. Ran into TwIL-LM2 which flips the script for narrow tasks. PEFT LoRA adapter on SmolLM2-1.7B, specialized purely for formal logic\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1vunilm/17b_model_leading_strict7_formal_reasoning_above/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "repo2nb 0.2.0, convert a GitHub repo into a Kaggle/Colab notebook (dependency resolution, reverse mode, incremental sync) [P]",
+     "summary": "repo2nb is an open-source CLI that converts a GitHub repo into a runnable Kaggle or Colab notebook: walks the file tree, resolves dependencies, and generates cells, instead of you doing that by hand for a repo you didn't write (a paper's code, a tutorial, someone else's experiment). 0.2.0\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1vuni29/repo2nb_020_convert_a_github_repo_into_a/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Rebuilding our Electron meeting-recording engine in Swift",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49391389",
+     "url": "https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "What coding practices are you adopting for development today? [D]",
+     "summary": "I have been reflecting on this while working on a project recently. Every time we start a new model, we rewrite roughly same scaffolding, data validation checks, feature transformation logic ; all of this is nealy 80 percent identical to last project I tired templating with cookiecutter style\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1vumbwe/what_coding_practices_are_you_adopting_for/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Retrieval-augmented generation solves a problem most teams don't actually have",
+     "summary": "Adding a vector database is usually the first move when output quality drops on a knowledge-heavy task. It's rarely the right one. Most quality problems in that category aren't retrieval failures, they're curation failures wearing a retrieval-shaped disguise. The model isn't underinformed. It's\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1vum0np/retrievalaugmented_generation_solves_a_problem/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Qwen 3.8 vs 3.6 27b low reasoning loops way less now",
+     "summary": "Have seen some people say Qwen 3.8 still overthinks even when reasoning is set to low. Which on my case has been way better compared to 3.6, eveb on a 3 bit quant. I think it's worth mentioning that the default is actually xhigh, so first make sure to specify it if not already. Also, Qwen 3.8 has\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vulsom/qwen_38_vs_36_27b_low_reasoning_loops_way_less_now/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Research internship at MSR [D]",
+     "summary": "So got selected for a research internship at MSR, how good is the quality of work and how useful is it to move to Applied sciences or research sciences position at other FAANG companies after the internship. And any perks and other benefits that interns get during microsoft internship? Any tips\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1vuloyq/research_internship_at_msr_d/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Does telling an LLM to \"be concise\" actually save you money? We measured it across 9 models. Compressing the output can save you money and keep accuracy, compressing the input prompt does not. [R]",
+     "summary": "LLMs are too verbose and with a black box model the only things you control are what goes in and how you tell it to write back. Yesterday Claude Code shipped a \"concise output style\" where Claude keeps things short. We already have a paper out about this! We tested both channels, shortening the\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1vulfei/does_telling_an_llm_to_be_concise_actually_save/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "I have a mid-sized GPU cluster and was thinking about giving free compute [D]",
+     "summary": "I have built an on-prem GPU cluster, 8 nvidia 16GB GPU's and 256GB CPU RAM, 50TB HDD and several TBs of SSDs. I have used it, and currently use it, for ML/AI research. But that research is not constantly running jobs, sometimes I use it heavily and other times it's idle. I was considering just\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1vulefc/i_have_a_midsized_gpu_cluster_and_was_thinking/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49390463",
+     "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Kobo can run apps now",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49390427",
+     "url": "https://bandarlabs.github.io/Cobalt/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "EMNLP26 Cost [D]",
+     "summary": "What is up with the EMNLP prices? What is the actual price for attending as a student with one accepted paper? If I register now in August, is it $350 or $550? Congratulations to everyone accepted!\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1vul1fw/emnlp26_cost_d/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Safety critical systems (SCS) are the only real benchmark for ML systems. Thoughts? [D]",
+     "summary": "What are real-world safety critical systems (SCS)? A flight controller for a commercial airplane carrying 300 passengers. A braking system for a bullet train that operates at 320km/hour. A reactor protection system for nuclear power plant that serves millions of people. A piece of medical\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1vukv7j/safety_critical_systems_scs_are_the_only_real/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "What happens when a GPU reads memory",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49390308",
+     "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "What\u2019s the best local AI harness for coding + general use?",
+     "summary": "So what\u2019s actually the best local AI harness rn? I\u2019ve read a TON about this already and somehow ended up more confused than when I started so I figured screw it, let the community decide. Right now I mainly run Qwen 3.6 35B-A3B and Qwen 3.8 27B, with Ornith 1.5 9B sometimes for lighter stuff. The\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vukppf/whats_the_best_local_ai_harness_for_coding/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "FireRedAudio & FireRedTTS3 by FireRedTeam - Huggingface",
+     "summary": "FireRedAudio: A General-Purpose Audio Language Model with Decoupled Continuous Representations for Understanding and Generation HuggingFace : https://huggingface.co/FireRedTeam/FireRedAudio GitHub : https://github.com/FireRedTeam/FireRedAudio Demo :\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vukj3m/fireredaudio_fireredtts3_by_fireredteam/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I benchmarked Ox Alpha on SWE-bench Verified Mini (50 tasks): 96% resolved. Now I\u2019m skeptical of myself.",
+     "summary": "TL;DR: The result looks TOO GOOD TO BE TRUE \u2014 that's exactly why I'm posting it. I ran Ox alpha on the entire SWE-bench Verified-Mini set with the official mini-swe-agent scaffold \u2014 the same agent used for the swebench.com Bash-Only leaderboard. Result: 48/50 = 96% resolved, judged locally with\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vuke8o/i_benchmarked_ox_alpha_on_swebench_verified_mini/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "LLMs are proof that Unix won",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49390066",
+     "url": "https://bastian.rieck.me/blog/2026/unix/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Epistemic Intelligence in Machine Learning Neurips Workshop page limit? [D]",
+     "summary": "I'm aiming to submit a paper to The 3rd Workshop on Epistemic Intelligence in Machine Learning at Neurips https://eiml.cc/ I can't find a page limit anywhere on their website and I've emailed the organisers (twice) asking for clarity on it. The previous workshop at ICML had a page limit of 6\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1vujk2p/epistemic_intelligence_in_machine_learning/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "AI boosted homework scores, then exam scores dropped: Study",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49389565",
+     "url": "https://canews24.online/?p=71",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Let scan is trending hard today: hot take thread",
+     "summary": "Everyone's talking about Let scan right now. The main story: aI companies destroy physical books, let's scan rare books before it's too late. I'll go against the grain a bit: I think the real effect shows up in the boring use cases, not the flashy demos. What's the take you disagree with?\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1vuj4o6/let_scan_is_trending_hard_today_hot_take_thread/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "How I came to write that paper with Leslie Lamport",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49388963",
+     "url": "https://lawrencecpaulson.github.io//2026/08/21/Lamport.html",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Maharlika's CEO Put a Number on AI Job Losses \u2014 1.9M Filipino BPO Jobs. The Real Question Is Who's Liable When It Breaks.",
+     "summary": "TL;DR: Maharlika's CEO puts a number on AI job risk \u2014 1.9M Filipino BPO jobs. The real fault line isn't skill, it's who's accountable when the machine gets it wrong. Consing runs the Philippines' sovereign wealth fund, and he doesn't dodge the number \u2014 he states it plainly on camera. What's easy\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1vui5vd/maharlikas_ceo_put_a_number_on_ai_job_losses_19m/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Claudette: Make Claude stop talking like a BuzzFeed article",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49388752",
+     "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Good results teaching an open weight model how to reason about a new domain",
+     "summary": "Spent some time looking into how to teach a model a new domain. Sharing a write-up for those who are interested in this topic: https://www.teachmecoolstuff.com/viewarticle/teaching-a-local-llm-a-new-domain submitted by /u/funJS [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1vuhgie/good_results_teaching_an_open_weight_model_how_to/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "NVIDIA AVO got 100% on ARC-AGI-3. It completed all 183 levels across all 25 public environments, figuring out what to do with no instructions, explicit rules, or stated goals.",
+     "summary": "submitted by /u/theologi [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vuh7to/nvidia_avo_got_100_on_arcagi3_it_completed_all/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "EXCLUSIVE: How a Texas student blew the whistle on a rogue AI hacking attempt",
+     "summary": "submitted by /u/MatriceJacobine [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1vuh1x4/exclusive_how_a_texas_student_blew_the_whistle_on/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "DeepSeek Harness v0.1.1 released",
+     "summary": "https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.1-rc.1 The DeepSeek adapter adds the multimodal visual understanding model DeepSeek-V4-Flash-Vision-Exp. It also supports configuring native image requests. Commands such as /goal and /plan can accept text and image input, and\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vugyfe/deepseek_harness_v011_released/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Qwen 3.8 27b is strong even at Q3_xxs",
+     "summary": "So usually I avoid Q3 quants because I have had bad experiences with it, models were usually too degraded, so the smallest I normally do is Q4, since I only have rtx 4060 ti 16gb. But since there hasn't been a 35b-3ab released yet, I had to try it. I don't use LLMs in agentic workflows, just on\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vugryn/qwen_38_27b_is_strong_even_at_q3_xxs/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "This IEEE Senior Member Develops AI Tools for E-Commerce Sites",
+     "summary": "Balaji Ingole rarely saw televisions while growing up in Udgir, India. No one in the small Maharashtra village had computers or phones. Only one household owned a television, and neighbors often gathered there to watch shows together. Ingole never even saw a computer growing up. It wasn\u2019t until he\u2026",
+     "url": "https://spectrum.ieee.org/ieee-senior-member-ai-ecommerce",
+     "source": "IEEE Spectrum AI"
+    },
+    {
+     "headline": "Stop Hunting, Start Solving: Accelerating Root Cause Analysis with Agentic AI",
+     "summary": "About this Webinar Turn Yield Excursions into Faster, More Confident Root Cause Analysis When a yield issue emerges, the answer rarely lives in a single system. Critical clues are spread across metrology data, tool traces, chemical analysis, and facilities systems, while growing data volumes make\u2026",
+     "url": "https://event.on24.com/wcc/r/5460332/DAFEFF7A68EE900DEA7A14356089B553?utm_source=IEEE&utm_medium=site&utm_campaign=922",
+     "source": "IEEE Spectrum AI"
+    },
+    {
+     "headline": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+     "summary": "There's about to be a big fight to secure access to space.",
+     "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "The DOJ is investigating a16z. What does this mean for venture capital?",
+     "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has reportedly been investigating the arrangement for almost a\u2026",
+     "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Major YouTube creators are facing backlash for accepting AI money",
+     "summary": "Over the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam \"Kold\" Kolder have posted videos of themselves demonstrating what's possible with AI platform Higgsfield. The videos highlight Higgsfield's recently added Seedance 2.5 functionality and pitch\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
+     "source": "The Verge AI"
+    }
+   ],
+   "influencer_takes": [],
+   "research_radar": [
+    {
+     "headline": "This brew, at least, is from Ashburn, Virginia",
+     "summary": "The post This brew, at least, is from Ashburn, Virginia appeared first on Marginal REVOLUTION .",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/08/this-brew-at-least-is-from-ashburn-virginia.html?utm_source=rss&utm_medium=rss&utm_campaign=this-brew-at-least-is-from-ashburn-virginia",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "2026.34: App Snore",
+     "summary": "The best Stratechery content from the week of August 17, 2026, including Apple making compromises in the EU, Truth (Social) and reconciliation, and August fun with the Clippers and Lakers.",
+     "url": "https://stratechery.com/2026/app-snore/",
+     "source": "Stratechery"
+    },
+    {
+     "headline": "Stop Making TUIs",
+     "summary": "Stop Making TUIs Thomas Ptacek advocates for building real native user interfaces for even the smallest of personal tools, because coding agents have reduced the cost of getting a usable-enough GUI up and running to almost nothing. I wrote about my vibe-coded bandwidth and GPU monitoring macOS\u2026",
+     "url": "https://simonwillison.net/2026/Aug/21/stop-making-tuis/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "Friday assorted links",
+     "summary": "1. Profile of Julian Gough and his evolutionary cosmology. And the Substack version. 2. New Spanish-language edition of Bioy Casares on Borges coming out. The older edition was, among other things, too heavy to lug around or bring on a trip. 3. The market for data is the market of the future. 4.\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/08/friday-assorted-links-586.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-586",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Quoting Matt Webb",
+     "summary": "After I released version 1.0, I figured I would have to do the rotations myself. So I sat down with ChatGPT and I didn\u2019t get it to write the code, but I got it to educate me. With a patient, interactive tutor, I was able to finally do what I hadn\u2019t by reading books and asking mathematician friends\u2026",
+     "url": "https://simonwillison.net/2026/Aug/21/matt-webb/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "How I built this",
+     "summary": "Ben\u2019s session #3",
+     "url": "https://www.bensbites.com/p/how-i-built-this",
+     "source": "Ben's Bites"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-08-21T19:02+00:00",
+  "window_start": "2026-08-21T13:19+00:00",
+  "window_end": "2026-08-21T19:02+00:00",
+  "candidate_count": 45,
+  "model": "free (no LLM)"
+ }
+}
