@@ -1,0 +1,230 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Meta Muse Spark 1.2 Contributor is now available globally at a huge discount",
+   "summary": "It was previously only available in the US or through other routers like Nano-GPT, but is now also available on OpenRouter, beating OpenAI's Luna and DeepSeek on price/performance by a large margin. You are \"selling\" your data though - hence the \"Contributor\" tag. Meta will use your\u2026",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/singularity/comments/1vvbocc/meta_muse_spark_12_contributor_is_now_available/",
+   "source": "r/singularity"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Meta Muse Spark 1.2 Contributor is now available globally at a huge discount",
+     "summary": "It was previously only available in the US or through other routers like Nano-GPT, but is now also available on OpenRouter, beating OpenAI's Luna and DeepSeek on price/performance by a large margin. You are \"selling\" your data though - hence the \"Contributor\" tag. Meta will use your\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1vvbocc/meta_muse_spark_12_contributor_is_now_available/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Gemini 3.7 Flash is currently 75% off on OpenRouter, beating DeepSeek on price/performance",
+     "summary": "Google seems to realize their recent Flash price hikes were just inappropriate for a Flash model and that they need more real-world agent traces to train their upcoming models on and slashed prices another 50% on OpenRouter. Artificial Analysis does not have the OpenRouter discount prices worked\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1vvb47a/gemini_37_flash_is_currently_75_off_on_openrouter/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "What Parsewave\u2019s Work Says About the Next Phase of AI Training",
+     "summary": "One of the questions I've been asking myself recently is how AI training will evolve when simply adding more data provides diminishing returns. We've made tremendous progress in scaling up generation of synthetic examples, but it doesn't always equal diversity in capabilities learned. It's\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1vvasub/what_parsewaves_work_says_about_the_next_phase_of/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Anyone else tried out KV cache blending?",
+     "summary": "Idea is simple-ish in abstract: instead of running normal prefill over all of a given prompt, split it into parts - generates caches for part A and part B in isolation, concatenate the result, feed it into decode like normal. I honestly thought it'd totally fail. But I've been trying it out on\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vv9oe2/anyone_else_tried_out_kv_cache_blending/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Ox Alpha can't be the Chinese.",
+     "summary": "submitted by /u/IndependentFresh628 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1vv8njv/ox_alpha_cant_be_the_chinese/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Possible pathways to RSI",
+     "summary": "I was just wondering what could be, from this point onwards the potential pathways to undeniable RSI.. which in my opinion is precursor to singularity/ AGI. Maybe not AGI but definitely RSI. (BELOW TEXT WAS EDITED BY GEMINI) Pathway 1: Decentralized & Crowdsourced Open-Source Automation An\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1vv8iu3/possible_pathways_to_rsi/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Think you're going to get cheap DDR5 RAM? Think again, even if prices fall, scalper bots now outnumber shoppers 10 to 1 and will keep prices high",
+     "summary": "submitted by /u/DeltaSqueezer [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vv86lm/think_youre_going_to_get_cheap_ddr5_ram_think/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Artificial Analysis \"Intelligence\": A meaningless benchmark",
+     "summary": "https://preview.redd.it/84zi5nsdawkh1.png?width=2368&format=png&auto=webp&s=1109e69db807b153064b1f5b61d22cf1e9fbca05 Another user posted the benchmarks for Qwen 3.8 27B today, and while I think Qwen 27B is a really powerful model, I can't help but notice just how meaningless these Artificial\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vv80xa/artificial_analysis_intelligence_a_meaningless/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Why does lightgbm not fit my toy example but catboost does? (2 order interactions) [D]",
+     "summary": "I am trying understand how tree-based regression model handle the dependencies of the target variables on the interaction of explanatory variables. However my experiment revealed that my understanding about the fitting process of a lgbm is not correct. And I don\u2019t know why. My experiment is quite\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1vv7wx3/why_does_lightgbm_not_fit_my_toy_example_but/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "The amount of activity on GitHub right now is crazy. Thoughts?",
+     "summary": "Source: https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/ submitted by /u/Electronic-Ad5094 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1vv79k5/the_amount_of_activity_on_github_right_now_is/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "AntLing released a dspark draft model for Ling-3.0-flash",
+     "summary": "No GGUFs yet on Huggingface though. submitted by /u/Ihtien [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vv71pg/antling_released_a_dspark_draft_model_for/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Freetokens project is impressive",
+     "summary": "A new project was released yesterday and I have the opportunity to test it today. Papper: https://arxiv.org/abs/2608.16157 Github: https://github.com/FlashML-org/FreeToken My initial tests with the following setup: RTX 5080 (16 GB) DDR6 64GB AMD Ryzen 9 9950X3D I got 100tok/s on QWEN3.6-35B-A3B\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vv6v00/freetokens_project_is_impressive/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "AI for editing existing Songs/Music?",
+     "summary": "Hi, I was just wondering if there is an AI Software available, that allows to edit existing songs, like changing words or sentences in the Lyrics. Suno does not allow uploads with vocals and Minimax H3 Music only has text to music feature. A few years ago, before generative AI was released, there\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1vv4zqz/ai_for_editing_existing_songsmusic/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Llama.cpp version 0.2.0 is out!",
+     "summary": "You can find the changelog and source code here: https://github.com/ggml-org/llama.cpp/releases/tag/v0.2.0 Associated pre-build is here: https://github.com/ggml-org/llama.cpp/releases/tag/b10566 submitted by /u/PhilippeEiffel [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vv4mei/llamacpp_version_020_is_out/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "New anti-ai sloptube clickbait format just dropped",
+     "summary": "submitted by /u/plantsnlionstho [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1vv4dlc/new_antiai_sloptube_clickbait_format_just_dropped/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Bro wtf, Qwen Lab cooked with Qwen 3.8 27B, it's so fucking good",
+     "summary": "Context: Earlier, open-source large models like Mimo V2.5 Pro, DeepSeek V4 Pro (first version), and Kimi K2.5 used to struggle with this prompt, and Qwen 3.6 27B couldn't even render the globe properly. But now, Qwen 3.8 27B is so much better than the previous model. I hope qwen publishes some\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vv47sr/bro_wtf_qwen_lab_cooked_with_qwen_38_27b_its_so/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Sharp template to NInfer: -42% output tokens, same speed",
+     "summary": "Sharp is u/peculiar-ragdoll 's system prompt that makes Qwen answer way more tersely without losing correctness. It's built on top of froggeric's fixed chat templates for Qwen; several fixes now in the v22.x templates (error-escalation tiers, false retry-loop kills, multi-system merging, correct\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vv3b6o/sharp_template_to_ninfer_42_output_tokens_same/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Deepmind Researcher Strongly Hints Ox Alpha Is The Next Gemini Pro Model",
+     "summary": "So it turns out Ox Alpha is not a Chinese model. It's either Gemini 3.5 Pro Or Gemini 4 Pro. https://x.com/EvanOtero/status/2090998215977947365 Gemini https://x.com/EvanOtero/status/2090998729637511301 What if the Ox Alpha was the friends we made along the way Ox Alpha reportedly trounced both GPT\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1vv32g8/deepmind_researcher_strongly_hints_ox_alpha_is/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Are we paying a \"Reasoning Tax\" for smarter AI?",
+     "summary": "More reasoning does not automatically mean more factual reliability. OpenAI\u2019s evaluations produced a counterintuitive result: on PersonQA, o3 recorded a 33% hallucination rate, compared with 16% for o1. On SimpleQA, the reported hallucination rate was 51% for o3 and 79% for the smaller o4-mini.\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1vv2wi8/are_we_paying_a_reasoning_tax_for_smarter_ai/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "I developed my own quantized LLM from scratch, trained on 30B tokens, deploys in 60 MB [R]",
+     "summary": "I trained a 250M parameter model from scratch on 30B tokens of fineweb. It\u2019s quantized to under 2 bits so the whole deployment is 60 MB and it needs about 80 MB of RAM to run. Runs around 400 tok/s on a normal laptop CPU, no GPU needed. How the long context works: the most recent 2048 tokens stay\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1vv2nkh/i_developed_my_own_quantized_llm_from_scratch/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Why Self-Correction Loops Can Degrade Reliability in LLM Pipelines (85% Down to 62%)",
+     "summary": "In structured data extraction, adding an LLM-as-a-judge self-correction loop is often expected to improve accuracy. In practice, our pipeline showed the opposite: standalone extraction scored ~85% consistency , but introducing a validation/retry loop dropped consistency to 62% or lower.\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1vv2kki/why_selfcorrection_loops_can_degrade_reliability/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "GPT 5.6 Sol 20% price reduction",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49396590",
+     "url": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "This is why I run locally.",
+     "summary": "It was only a matter of time... submitted by /u/Retumbo77 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vv1qfs/this_is_why_i_run_locally/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Setting behavioural rules for AIs",
+     "summary": "I learned on a kettlebell forum that I could set up \"ground rules\" for AIs to limit sycophantic behaviour, flattery and fantasised answers. These ground rules are stored in some sort of memory and applied when I start a chat. I did this and it seemed to work for a while and slowly the AI would\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1vv04jj/setting_behavioural_rules_for_ais/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "16 GB VRAM purgatory discussion thread",
+     "summary": "What models and configs are we using? Please share here On windows, I am using this copium pared down model https://huggingface.co/Bucoid/Qwen3.8-27B-Uncensored-IQ4-XS-MTP-16GB-VRAM-GGUF with MTP disabled, q4 k/q4 v mmproj banished to CPU/RAM and a small ub to save whatever context I can\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vuzz3j/16_gb_vram_purgatory_discussion_thread/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "frontier_labs": [],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "Fable: \"I want a twigl shader that renders Lost Carcosa from The King in Yellow. Nail the mood.\" (Shaders are procedurally generated using math alone) twigl.app?ol=true&ss=-... Along the shore the cloud waves break, The twin suns sink behind the lake, The shadows lengthen In Carcosa",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mtncr3ccls2j"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "How Claude Watermarks AI-Generated Text",
+     "summary": "A 48-minute video walkthrough of token sampling, watermark detection, and removal",
+     "url": "https://magazine.sebastianraschka.com/p/claude-watermarking",
+     "source": "Ahead of AI"
+    },
+    {
+     "headline": "The End of Friday Nights with Friends",
+     "summary": "This study examines how Americans\u2019 time with friends has changed over the week, focusing not on how much social interaction has declined but on when it has. Using American Time Use Survey data from 2003 to 2024 (N = 243,095), I map hourly patterns of \u201cfriend time\u201d across the days of the week. In\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/08/the-end-of-friday-nights-with-friends.html?utm_source=rss&utm_medium=rss&utm_campaign=the-end-of-friday-nights-with-friends",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "[AINews] 10% worse, 100x cheaper, 10000x faster: Why Simulation is taking over",
+     "summary": "Did you think RSI stopped at model training?",
+     "url": "https://www.latent.space/p/ainews-10-worse-100x-cheaper-10000x",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "The Evolution of the Agent Harness",
+     "summary": "Models keep absorbing the harness into their weights \u2014 soon, it will be a harness for human attention rather than for the model.",
+     "url": "https://www.latent.space/p/attention-interface",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "What should I ask Annie Lowrey?",
+     "summary": "Yes I will be doing a Conversation with her. She has a new and very interesting book coming out, namely The Time Tax: How the Government Wastes Our Time\u2015and How to Fix It. More generally, from Wikipedia: Annie M. Lowrey\u2026is an American journalist who writes on politics and economic policy for The\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/08/what-should-i-ask-annie-lowrey.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-annie-lowrey",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "unclecode/modelprint: Who is really behind that API? Fingerprint any OpenAI-compatible endpoint in the browser: 9 infrastructure probes, side-by-side comparison, community-extensible.",
+     "summary": "Who is really behind that API? Fingerprint any OpenAI-compatible endpoint in the browser: 9 infrastructure probes, side-by-side comparison, community-extensible.",
+     "url": "https://github.com/unclecode/modelprint",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "Jordanwei1/jiaojie-skill: \u4ea4\u63a5 Skill\uff08Jiaojie\uff09\uff1a\u8de8\u7a97\u53e3\u3001\u8de8\u6a21\u578b\u3001\u8de8\u8bbe\u5907\u3001\u8de8\u8bed\u8a00\u7684 AI \u4e0a\u4e0b\u6587\u4ea4\u63a5\u5de5\u5177\u3002\u6362\u7a97\u53e3\uff0c\u4e0d\u5931\u5fc6\uff1b\u6362\u6a21\u578b\uff0c\u4e0d\u91cd\u6765\u3002Open-source AI context handoff.",
+     "summary": "\u4ea4\u63a5 Skill\uff08Jiaojie\uff09\uff1a\u8de8\u7a97\u53e3\u3001\u8de8\u6a21\u578b\u3001\u8de8\u8bbe\u5907\u3001\u8de8\u8bed\u8a00\u7684 AI \u4e0a\u4e0b\u6587\u4ea4\u63a5\u5de5\u5177\u3002\u6362\u7a97\u53e3\uff0c\u4e0d\u5931\u5fc6\uff1b\u6362\u6a21\u578b\uff0c\u4e0d\u91cd\u6765\u3002Open-source AI context handoff.",
+     "url": "https://github.com/Jordanwei1/jiaojie-skill",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-08-22T13:05+00:00",
+  "window_start": "2026-08-22T01:54+00:00",
+  "window_end": "2026-08-22T13:05+00:00",
+  "candidate_count": 33,
+  "model": "free (no LLM)"
+ }
+}
