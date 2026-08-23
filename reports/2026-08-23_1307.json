@@ -1,0 +1,194 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "I gave a repair tool exactly one worked example. It inferred the rest and fixed 5/5 bugs in code it had never seen \u2014 4 CPU instructions, zero tokens.[p]",
+   "summary": "You tell it one fact \u2014 fault kind 0 is repaired by act 5 \u2014 and it returns the act for any fault kind it's never been told about. The offset isn't stored; it's recovered from the worked example on every call, so you can renumber your act codes freely and nothing breaks. A lookup table is wrong on\u2026",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1vw6dmi/i_gave_a_repair_tool_exactly_one_worked_example/",
+   "source": "r/MachineLearning"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "I gave a repair tool exactly one worked example. It inferred the rest and fixed 5/5 bugs in code it had never seen \u2014 4 CPU instructions, zero tokens.[p]",
+     "summary": "You tell it one fact \u2014 fault kind 0 is repaired by act 5 \u2014 and it returns the act for any fault kind it's never been told about. The offset isn't stored; it's recovered from the worked example on every call, so you can renumber your act codes freely and nothing breaks. A lookup table is wrong on\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1vw6dmi/i_gave_a_repair_tool_exactly_one_worked_example/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Anyone wish there was a way to track chemo side effects and meds in one place",
+     "summary": "hemo brain is real. I have three different notebooks, a wall calendar, and a notes app and i'm STILL missing doses or forgetting when a symptom started. Is there an app or website for tracking this stuff that doesn't feel like a second job? submitted by /u/GroundbreakingLie507 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1vw6bg9/anyone_wish_there_was_a_way_to_track_chemo_side/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "28 TPS on Qwen2.5-7B across two separate cloud regions over public WAN using speculative decoding + CUDA Graphs [P]",
+     "summary": "been building ShardFlow for the past few months, a distributed LLM inference framework that splits any HuggingFace transformer across N GPU machines and uses neural speculative decoding to deal with WAN latency. the setup for the benchmark: two T4 nodes in separate GCP regions (Iowa + Oregon)\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1vw5ysj/28_tps_on_qwen257b_across_two_separate_cloud/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Qwen3.8-27B NVFP4 with vision + 451K token KV-cache on one RTX 5090 (power limited to 400W) at 120 tokens/s average",
+     "summary": "Hello, So I've been trying lots of combinations in that never-ending landscape of options and settings. I wanted a proper quant of 3.8 27B running as fast as possible on my 5090 at 400W, with vision and with as much KV-cache as possible and with concurrency enabled (aiming at 3 parallel sessions).\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw5q47/qwen3827b_nvfp4_with_vision_451k_token_kvcache_on/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "GMKtec is going to launch new hardware with Ryzen AI Max+ PRO 495 at IFA Berlin 2026",
+     "summary": "submitted by /u/fairydreaming [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw55zn/gmktec_is_going_to_launch_new_hardware_with_ryzen/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "[N] EACL 2027 Industry Track - Deadline 11 September [N]",
+     "summary": "Hi! I'm one of the chairs of the EACL 2027 Industry Track , so flagging the deadline here \u2014 it's about three weeks out and this community has a lot of people doing exactly the kind of work the track exists for. The EACL 2027 Industry Track provides the opportunity to highlight key insights and new\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1vw4un3/n_eacl_2027_industry_track_deadline_11_september_n/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "It has been quite a few years since AI first exploded massively, but people are still acting angry. Why?",
+     "summary": "I\u2019ve made a post (in my country dev sub) regarding how Claude made a pretty good video with almost no assets except of videos of my app I quickly recorded. And I already getting comments like \u201cwow, Claude made a junk no one asked for!\u201d. And the video itself isn\u2019t a junk tbh (can\u2019t post here and\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1vw4cpl/it_has_been_quite_a_few_years_since_ai_first/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "'AI refuser' quit her dream job, and hopes others follow",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49407785",
+     "url": "https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Don't want to be this guy, but I need Qwen 3.8 35B A3B",
+     "summary": "Qwen 3.8 27B is great, however it takes me ages to do tasks on xhigh. I need Qwen 3.8 35B A3B. It'll be a little dumber but faster. I am also aware of the fact that 27B gets its \"intelligence\" from the long thinking time. I therefore assume that 35B would also be a long-thinking model, however\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw2cop/dont_want_to_be_this_guy_but_i_need_qwen_38_35b/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Qwen3.8-27B KLDs",
+     "summary": "I have been lurking on reddit for like 6 years, and this is the first time posting, so apologies for the mistakes. I'm not a native English speaker, so sorry for the bad English too. I used LLM to translate / refine my post, including images. This is my attempt to compare the Qwen3.8-27B quants.\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw2ayp/qwen3827b_klds/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Found a scammer sketch artist on Discord.",
+     "summary": "A few days ago I was looking for a professional sketch artist for my project, so I found someone on Discord. He said he\u2019ll do the work for around $5 which was very cheap so i tell him to draw a horse in multiple angles as a demo sketch and he send me this. By obviously looking at anyone can tell\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1vw28te/found_a_scammer_sketch_artist_on_discord/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "I hosted Kimi K3 (2.8T parameters) using 8 B300s. 92 tok/s, $190 per million tokens",
+     "summary": "What I ran: 8x B300 on Modal, $56.79 per hour, vLLM, tensor parallel 8, native MXFP4 Cold boot ~27 min (1.56 TB load, JIT, 51 CUDA graph captures) TTFT 0.92 to 1.02 s, decode 92 tok/s steady, 83 tok/s average over 4 prompts $190 per million output tokens. One clean run is about $36 of GPU time.\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw1j2p/i_hosted_kimi_k3_28t_parameters_using_8_b300s_92/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Implementing Watermarking for Language Models [P]",
+     "summary": "I recently implemented a minimal, educational version of SynthID-Text-style watermarking for language models. I saw anthropic post about how they'll start adding watermarks to their model responses and it made me very curious as to how they'll do it and what do they even mean by watermark here.\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1vw18ys/implementing_watermarking_for_language_models_p/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "i finally switched from windows to linux and got a 30-50% boost in speed.",
+     "summary": "This is amazing. All I did was switch from llamacpp on windows to vllm on linux. submitted by /u/unraveleverything [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw15bm/i_finally_switched_from_windows_to_linux_and_got/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "DeepSeek Harness is Insanely Good",
+     "summary": "I don't know about you guys, but Deep-seek harness is insane. It's not focused on being a coder agent, it's webUI made it very easy to just checkin from time to time, and the best part? Why it's better than Hermes? It wasn't frustrating at all to setup. ZERO. NADA. Progressive setup is such an\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw10m3/deepseek_harness_is_insanely_good/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "An information theory based PCA...",
+     "summary": "If you need to estimate rank and standard tools are giving you wildly high estimates or no estimate at all, it might be worth your time giving this new method (Entropic Scree) a full read/try. Preprint: https://doi.org/10.5281/zenodo.22028087 submitted by /u/Chocolate_Milk_Son [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1vw0vdk/an_information_theory_based_pca/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Nvidia Poolside deal to compete with Chinese Open Weights",
+     "summary": "Nvidia is investing $1 billion in Poolside and paying $6 billion to license its technology and hire most of its engineers. Over 100 Poolside staff will move to Nvidia to work on Nemotron. Good news for us! submitted by /u/mrgreatheart [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw0mcd/nvidia_poolside_deal_to_compete_with_chinese_open/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Qwen 3.8 27B is a game changer.",
+     "summary": "Our devs got their hands on it a few days ago. One wired it into Codex to compare with GPT Luna, our usual workhorse right now for its cost effectiveness. Another tried it out on one of our OCR pipelines. It's comparable to Luna for coding and ***OCR quality appears to be better than Gemini 3.5\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvyacg/qwen_38_27b_is_a_game_changer/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "AI Models rankings\u2026",
+     "summary": "Theo T3 recently ranked AI models, and I couldn\u2019t agree more. It\u2019s spot on, lol. So, why am I sharing this? Well, it\u2019s about Anthropic. It\u2019s crazy to me how Anthropic doesn\u2019t offer a model that\u2019s truly all-around good at this point. What do I mean by that? - Fable: Way too expensive, but the best.\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1vvvi8d/ai_models_rankings/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "\u201cThe All Spark\u201d Cluster: Upgrading from 16 - 36 DGX Sparks",
+     "summary": "Earlier this year I posted about building what at the time I believe was the first 16x DGX Spark Cluster. I\u2019m now adding 20 more Sparks to the cluster in my homelab server rack, giving me 4.6TB of unified memory. \u2022 36x Sparks \u2022 1x 200Gbps FS 24 x 200Gb QSFP56 + 8x 400Gb Switch \u2022 24x QSFP56 DAC\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvv7iv/the_all_spark_cluster_upgrading_from_16_36_dgx/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "A personalized history podcast you can interrupt to ask the questions",
+     "summary": "The idea came from a personal frustration: I love history but could never find podcasts on the niche topics I wanted, and when I did, my curiosity always wanted a detour the host couldn't take. So I built the tool I wanted. It's called Historai https://historai.ca/ , it generates a podcast on any\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1vvup6g/a_personalized_history_podcast_you_can_interrupt/",
+     "source": "r/artificial"
+    }
+   ],
+   "frontier_labs": [],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "Life is full of things that, by complexity or design or lack of care or required time, are hard to navigate: healthcare, government, personal finance, school forms are all among them It is why I feel consumer AI is underrated. People muddle by, but are missing support & AI is good enough to help.",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mtptqr5o6c2j"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Democracy and Caeserism",
+     "summary": "In my 2015 post discussing Joseph Heath\u2019s excellent book Enlightenment 2.0, I had this to say: One of the reasons that I oppose the extension of democratic politics into every aspect of modern life is precisely that in trying to do too much, democracy delivers incoherence, gridlock and\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/08/democracy-and-caeserism.html?utm_source=rss&utm_medium=rss&utm_campaign=democracy-and-caeserism",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "My recent visit to Anthropic",
+     "summary": "I very recently participated in a two-day session to offer guidance on rewriting the constitution for Claude. The small group invited was uniformly excellent, we received serious time with key decision-makers, and the discussions were of very high quality. Some of the points I stressed were the\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/08/my-recent-visit-to-anthropic.html?utm_source=rss&utm_medium=rss&utm_campaign=my-recent-visit-to-anthropic",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "The new agentic O-ring world",
+     "summary": "But because agents often require guidance or additional context as they move through their tasks, Sharma, 27, finds himself wanting to be available to them around the clock and forgoing a regular sleep schedule as a result. Until recently, he couldn\u2019t monitor them remotely through a phone or\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/08/the-new-agentic-o-ring-world.html?utm_source=rss&utm_medium=rss&utm_campaign=the-new-agentic-o-ring-world",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "duty1g/x64dbg-mcp-server: x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI\u2026",
+     "summary": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more. Built with\u2026",
+     "url": "https://github.com/duty1g/x64dbg-mcp-server",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "SeanEllyJames/deep-research-skill: \u8ba9AI Agent \u505a\u771f\u6b63\u4f1a\u601d\u8003\uff0c\u6709\u5224\u65ad\u7684\u6df1\u5ea6\u8c03\u7814\uff0c\u800c\u4e0d\u662f\u4f1a\u6446\u4fe1\u606f\u7684\u6c47\u603b\u62a5\u544a\u3002\u4e00\u4e2a\u5373\u63d2\u5373\u7528\u7684 skill \u6587\u4ef6\u3002",
+     "summary": "\u8ba9AI Agent \u505a\u771f\u6b63\u4f1a\u601d\u8003\uff0c\u6709\u5224\u65ad\u7684\u6df1\u5ea6\u8c03\u7814\uff0c\u800c\u4e0d\u662f\u4f1a\u6446\u4fe1\u606f\u7684\u6c47\u603b\u62a5\u544a\u3002\u4e00\u4e2a\u5373\u63d2\u5373\u7528\u7684 skill \u6587\u4ef6\u3002",
+     "url": "https://github.com/SeanEllyJames/deep-research-skill",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-08-23T13:07+00:00",
+  "window_start": "2026-08-23T02:04+00:00",
+  "window_end": "2026-08-23T13:07+00:00",
+  "candidate_count": 27,
+  "model": "free (no LLM)"
+ }
+}
