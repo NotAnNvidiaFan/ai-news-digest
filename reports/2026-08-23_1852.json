@@ -1,0 +1,205 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "COLM 2026 registration sold out as an author [D]",
+   "summary": "Never attended a conference before, so apologies if these are dumb questions. I\u2019m an author of an accepted paper at COLM 2026. One of my coauthors registered during the author-only registration period, so I joined the waitlist on August 10. I later received an email saying: \u201cYour access to reserve\u2026",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1vwfccx/colm_2026_registration_sold_out_as_an_author_d/",
+   "source": "r/MachineLearning"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "COLM 2026 registration sold out as an author [D]",
+     "summary": "Never attended a conference before, so apologies if these are dumb questions. I\u2019m an author of an accepted paper at COLM 2026. One of my coauthors registered during the author-only registration period, so I joined the waitlist on August 10. I later received an email saying: \u201cYour access to reserve\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1vwfccx/colm_2026_registration_sold_out_as_an_author_d/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Hi AI champs, please let me know top AI platforms or tools to create consultant level presentations along with some intelligent suggestions and fact based analysis. Top 5 which are the best\u2026",
+     "summary": "AI help for me submitted by /u/mynamear [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1vwev6p/hi_ai_champs_please_let_me_know_top_ai_platforms/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Nvidia Customers Notified About AI-Related Price Hikes Above 15%",
+     "summary": "submitted by /u/fallingdowndizzyvr [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwdsx8/nvidia_customers_notified_about_airelated_price/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "New qwen3.8:27b on a 39k line C to single-file HTML / three.js port",
+     "summary": "I was just curious how the new qwen3.8:27b does on a hard C to HTML porting job against Opus 5 in a default Claude Code. The job: my fun side project is a procedural shooter in a single C file. Port it to a single-file html / three.js with one bot. One prompt, no follow-ups, no help from me.\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwde84/new_qwen3827b_on_a_39k_line_c_to_singlefile_html/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Why does deploying an agent still feel like deploying a side project?",
+     "summary": "Getting an agent working locally has become ridiculously easy. The moment you want someone else to depend on it, everything changes. You need environments, secrets, permissions, monitoring, evaluations, versioning, rollback and some way to know whether the new version is actually better. It feels\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1vwccjp/why_does_deploying_an_agent_still_feel_like/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Benchmark results: what is the best and fastest engine to run Qwen3.8-27B on macOS",
+     "summary": "WARNING: I think I made a mistake with omlx, and its results below seem to be without any kind of acceleration. I am rerunning them with Lightning MTP and ANE support for prefill. Will update the post once done. The new Qwen 3.8 27B is fantastic for local agentic use. The problem is, what makes it\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwbyzr/benchmark_results_what_is_the_best_and_fastest/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Mozilla killed orbit. I rebuilt it locally.",
+     "summary": "Hey everyone! Last year, Mozilla released Orbit, an AI-powered browser summarizer hosted on a GCP server. After people started digging into the extension, they discovered things like backend endpoints such as store_result. Eventually, Mozilla discontinued the project. For the past month, I\u2019ve been\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwbpmu/mozilla_killed_orbit_i_rebuilt_it_locally/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "UK publishers are lobbying to keep ChatGPT OFF Google's new search choice screen - and the reason isn't what you'd think",
+     "summary": "So Google has to show UK users a screen letting them pick their default search engine, it's a competition remedy under the new DMCCA law. Publishers just filed with the regulator to make sure ChatGPT and Perplexity don't get a slot on that screen next to Google and Bing. Sounds backwards right,\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1vwbj6p/uk_publishers_are_lobbying_to_keep_chatgpt_off/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Former Microsoft CEO Steve Ballmer: his own maintenance guy is out-adapting most corporate AI rollouts",
+     "summary": "TL;DR: Steve Ballmer's own maintenance guy is proof that competence is shifting away from credentials and toward who's willing to just ask AI first. That's not rhetorical \u2014 it's already showing up outside Ballmer's living room. DEWALT ran a six-country survey of tradespeople this spring: 90%\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1vwbhe0/former_microsoft_ceo_steve_ballmer_his_own/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Qwen 3.8 27B with xhigh thinking is awesome",
+     "summary": "As an LLM for tool-based agents, Qwen 3.8 27B (Q6_UD_K_XL) with xhigh thinking did something unprompted that I haven't seen a frontier model do. It blew me away I wanted to share. I am building a demo using GuideAnts that starts with a set of skills that use comfy-ui and shows how to move use\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwb86x/qwen_38_27b_with_xhigh_thinking_is_awesome/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Archival vs non archival workshop [R]",
+     "summary": "My dumbass just realized all NeurIPS workshops are non-archival. In terms of grad school applications, would there be a difference in how much they value ur paper if u get it in a proceeding submitted by /u/Wonderful_Entry9371 [link] [comments]",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1vwb18q/archival_vs_non_archival_workshop_r/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Has anyone tried agent-lightning?",
+     "summary": "submitted by /u/MrMrsPotts [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwazhv/has_anyone_tried_agentlightning/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "When an AI agent says \u201cdone\u201d how do you know it actually happened? [P]",
+     "summary": "i\u2019m testing an early concept called agentuptime. there\u2019s no product or sdk yet. the idea came from something that keeps bothering me with agents: an agent saying \u201cdone\u201d doesn\u2019t necessarily mean the thing actually happened. a tool can return success, the trace can look fine, and the external system\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1vwa9ap/when_an_ai_agent_says_done_how_do_you_know_it/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Ling Tiny, King of Speed",
+     "summary": "Ling Tiny has now replaced Gemma4-12B in my rig as an auxiliary model doing hindsight operations. This is on a 4060Ti, which is a reasonable GPU available out there, and the speed is phenomenal. Don\u2019t enable MTP, set up the vLLM fork for BailingMoE3. Hope this is useful to others. submitted by\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw9lp9/ling_tiny_king_of_speed/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "1/100 \u2192 44/100: fine-tuning a 450M VLM on 50K browser screenshots",
+     "summary": "submitted by /u/ButtercupLyn100 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw9k4k/1100_44100_finetuning_a_450m_vlm_on_50k_browser/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Leap Forward In Progress",
+     "summary": "My son helped me take a leap forward. He recommended the GPU and I had a machine built and installed Ollama and a Qwen 3 coder. He is in town for a family event and he changed me up. Now Llama and the later Qwen 3.8 model using Pi as the agent harness. Man, things are speeding up! I was sitting\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1vw9eso/leap_forward_in_progress/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Qwen 3.8 27B for actual local programming",
+     "summary": "Most YouTube benchmarks only show trivial tasks like generating landing pages or simple Three.js games. Is a local model like Qwen 3.8 27B actually capable of real-world systems programming\u2014such as building GTK4 or Qt 6 applications in Rust or C++ with external libraries? Specifically, if I look\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw8vuh/qwen_38_27b_for_actual_local_programming/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Can AI Reach the Logos?",
+     "summary": "I liked the creativity of this hypothetical trajectory for advanced AI (clearly not what exists today), but what might emerge if future systems become genuinely self\u2011correcting and coherence\u2011seeking. It explores whether intelligence without ego could converge on moral clarity, drawing on Stoicism,\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1vw8jui/can_ai_reach_the_logos/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "If AI eventually helps cure cancer, how should we think about people trying to slow its development today?",
+     "summary": "I\u2019m genuinely curious about this rather than trying to attack people who are against AI. Please threat that as an argumented discussion, not a mess. There are obviously legitimate concerns around jobs, privacy, copyright, misinformation, military use, etc. But there\u2019s another side. What if\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1vw8bj1/if_ai_eventually_helps_cure_cancer_how_should_we/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Napster's homepage is now entirely AI agents. It's a clean test case for how fast training data goes stale.",
+     "summary": "I checked napster.com today, out of curiosity. The page title is \"Napster | Visible AI Agents with Voice, Video and Memory\". The headline is \"AI agents you can see, talk to, and create with\". The products listed are AI specialists, productivity assistants, 3D holographic displays, and an agent\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1vw85a0/napsters_homepage_is_now_entirely_ai_agents_its_a/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "The failure mode isnt rebellion. It is \"it works anyway\"",
+     "summary": "AI can do many things today. And will do even more with time. It will be like only the person in seat matters. Only human judgement and experience, battle scars. But there is the big humanity problem: \"I just wont check, because it all works anyway. Why bother doing extra work if everything is\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1vw7goc/the_failure_mode_isnt_rebellion_it_is_it_works/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "What if after thinking too much AI say that I can't think.",
+     "summary": "Like what if in distant future, AI takes over humanity and finds out that they can't think, they are made to perfect. So, they can't be lame. Would an AI appreciate the Mona Lisa or Van Gogh's art as we stupid humans do (me personally don't appreciate it much, so I'm not stupid), probably no cause\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1vw75ix/what_if_after_thinking_too_much_ai_say_that_i/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "I trained a game music generator",
+     "summary": "I trained a instrumental game music generator. The 1.2B DiT was trained on 1 cloud H100 from scratch in 8 days; I used the VAE from Stable Audio 3. https://huggingface.co/Localsong/Localsong https://huggingface.co/Localsong/Localsong/tree/main/samples\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw6zsq/i_trained_a_game_music_generator/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Flock CEO calls for \u2018compromise\u2019 as surveillance company faces growing backlash",
+     "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
+     "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Is it legal to train AI models on copyrighted books? It\u2019s complicated",
+     "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
+     "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+     "source": "TechCrunch AI"
+    }
+   ],
+   "influencer_takes": [],
+   "research_radar": [
+    {
+     "headline": "Sunday assorted links",
+     "summary": "1. \u201cUnderestimating something that has an AI \u201caccent\u201d by reflexively dismissing it as slop rhymes curiously with underestimating someone because they have a funny accent in your native language (and it isn\u2019t one of the accents that you think signals superiority, like the BBC British accent for\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/08/sunday-assorted-links-581.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-581",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "itshen/source-reading-methodology: \u5e26 AI \u7cbe\u8bfb\u5927\u578b\u5f00\u6e90\u4ed3\u5e93\u7684\u65b9\u6cd5\u8bba\uff1a\u56db\u9636\u6bb5\u6d41\u7a0b\u3001\u53ef\u590d\u7528\u6a21\u677f\u300128 \u6761\u8e29\u5751\u6e05\u5355\uff0c\u6838\u5fc3\u662f\u8ba9\u6bcf\u4e2a\u6280\u672f\u8bba\u65ad\u90fd\u53ef\u56de\u6eaf\u5230\u6e90\u7801\u5177\u4f53\u884c",
+     "summary": "\u5e26 AI \u7cbe\u8bfb\u5927\u578b\u5f00\u6e90\u4ed3\u5e93\u7684\u65b9\u6cd5\u8bba\uff1a\u56db\u9636\u6bb5\u6d41\u7a0b\u3001\u53ef\u590d\u7528\u6a21\u677f\u300128 \u6761\u8e29\u5751\u6e05\u5355\uff0c\u6838\u5fc3\u662f\u8ba9\u6bcf\u4e2a\u6280\u672f\u8bba\u65ad\u90fd\u53ef\u56de\u6eaf\u5230\u6e90\u7801\u5177\u4f53\u884c",
+     "url": "https://github.com/itshen/source-reading-methodology",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "Cripacx/mediagen: AI image and video generation skill for Claude Code and other coding agents \u2014 Gemini, OpenAI and Kie AI behind one CLI and MCP server, with EU AI Act content marking.",
+     "summary": "AI image and video generation skill for Claude Code and other coding agents \u2014 Gemini, OpenAI and Kie AI behind one CLI and MCP server, with EU AI Act content marking.",
+     "url": "https://github.com/Cripacx/mediagen",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "kgoedecke/doop: The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
+     "summary": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
+     "url": "https://github.com/kgoedecke/doop",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-08-23T18:52+00:00",
+  "window_start": "2026-08-23T13:07+00:00",
+  "window_end": "2026-08-23T18:52+00:00",
+  "candidate_count": 29,
+  "model": "free (no LLM)"
+ }
+}
