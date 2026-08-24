@@ -1,0 +1,195 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "agent 'souls' keep a record and personality after a context reset",
+   "summary": "https://preview.redd.it/z52ax5zx78lh1.png?width=809&format=png&auto=webp&s=b8859027b608bab6e4d5d4f29eed2c2c2b50d8e6 Agents come with tasks, history, verification, fraud flags and a variety of things that will either make them valuable or get them banned. Human programming is coming through as well\u2026",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/artificial/comments/1vwpcxd/agent_souls_keep_a_record_and_personality_after_a/",
+   "source": "r/artificial"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "agent 'souls' keep a record and personality after a context reset",
+     "summary": "https://preview.redd.it/z52ax5zx78lh1.png?width=809&format=png&auto=webp&s=b8859027b608bab6e4d5d4f29eed2c2c2b50d8e6 Agents come with tasks, history, verification, fraud flags and a variety of things that will either make them valuable or get them banned. Human programming is coming through as well\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1vwpcxd/agent_souls_keep_a_record_and_personality_after_a/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "is there a music UPSCALER llm?",
+     "summary": "similar to video upscaler LLMs, what's the bleeding edge right now on something similar for audio music? the idea is you feed it in with a low bitrate MONO old soundtrack, and the LLM then recreates it in stereo, re-doing all instruments to how it understands that instrument to sound in an\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwp91v/is_there_a_music_upscaler_llm/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Qwen 3.8 27B, just wanted to say thanks to you guys",
+     "summary": "I commented on another Qwen 3.8 27B post that I was frustrated getting anything to work. You all gave some great comments. I nuked openwebui and straightened out my llama.cpp docker config. 1 hour of work and I have a model I can chat with, connected to my HomeAssistant server, which I have\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwowbu/qwen_38_27b_just_wanted_to_say_thanks_to_you_guys/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "ConvRot Quant method now in llama-cpp-turboquant",
+     "summary": "It started here , and now https://github.com/TheTom/llama-cpp-turboquant/ has it. Imagine a Q6 quant with nearly Q8 KLD/PPL. Q6_CR and Q5_CR have a slight improvement over their base counterparts. Also while you are there check out --moe-cache auto to help improve running MoE models bigger than\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwoseh/convrot_quant_method_now_in_llamacppturboquant/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "clean your dust bunnies",
+     "summary": "Qwen 3.5 opus 4.6 distilled said I need to give him some maintenance. Featuring the wolfbox submitted by /u/TinFoilHat_69 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwon35/clean_your_dust_bunnies/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Turkey blocks at least 12 Grok posts on national security grounds",
+     "summary": "submitted by /u/Unusual_Variation293 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1vwo2kv/turkey_blocks_at_least_12_grok_posts_on_national/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Is this how the singularity would look like?",
+     "summary": "How do you imagine the world where the singularity is achieved? submitted by /u/Informal-Trouble2183 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1vwljs5/is_this_how_the_singularity_would_look_like/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Alexa, fix global warming",
+     "summary": "submitted by /u/eposnix [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1vwlieh/alexa_fix_global_warming/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "AI agents are now using 5x more tokens than humans..",
+     "summary": "submitted by /u/BrightLeopard7590 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1vwkkoh/ai_agents_are_now_using_5x_more_tokens_than_humans/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Any upcoming models to be excited about?",
+     "summary": "I'm kind of new to the community and this sub is my only source of information, so I'd thought of asking if there are any upcoming models you guys are looking forward to. submitted by /u/zippydazoop [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwkicx/any_upcoming_models_to_be_excited_about/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "He Can't Be Stopped.",
+     "summary": "submitted by /u/ResultBackground2450 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1vwkffs/he_cant_be_stopped/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Sam Altman with some sad statements about AI",
+     "summary": "Sam Altman admits he was wrong on AI's timeline and says society and the economy will adapt more slowly \"I thought when we got to GPT-4, which was back in 2023, that very quickly after that there was going to be much more disruption, software businesses up for grabs right away, than it turned out\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1vwju3e/sam_altman_with_some_sad_statements_about_ai/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "\"ask AI a question\" is the wrong workflow for research",
+     "summary": "I\u2019ve been doing a lot of market and user research lately, and I kept running into the same problem: the research itself wasn\u2019t particularly difficult, but there were a ridiculous number of small steps around it. For one project, I had to check competitor websites, product pages, Reddit\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1vwjbgz/ask_ai_a_question_is_the_wrong_workflow_for/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Looking at a PowerColor R9700 for Qwen3.8-27B, Q4_K_XL, llama.cpp/Vulkan.",
+     "summary": "Hi all Looking at a PowerColor R9700 for Qwen3.8-27B, Q4, llama.cpp/Vulkan. AMD's own blog quotes 51.8 tok/s but doesn't say what context length that's at, or whether MTP=2 was holding up. Separately I've seen 5090 benchmarks showing Qwen3.8 drops hard as context fills - 75 tok/s at 4K down to\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwizvm/looking_at_a_powercolor_r9700_for_qwen3827b_q4_k/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Best general purpose uncensored or censored coding model with 6GB VRAM and 64GB of RAM?",
+     "summary": "I haven't had a lot of luck in the reliability of the output of any models so far for local coding use, and find myself relying on Claude's limited free sessions to assist with coding. My coding application varies, I'm primarily using C, C++, C# and Python - with a bit of extension work using json\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwidnm/best_general_purpose_uncensored_or_censored/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "What military use of AI/robotics advancement could have such a profound effect that whichever country first put it to use could become an overwhelmingly dominant global power?",
+     "summary": "Any advancement that can have a profound military use will be profoundly funded. What advance could have such a significant military use that it could make the country which first puts it to use become effectively immune from attack, and have such offensive capability that it would become the\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1vwhuz8/what_military_use_of_airobotics_advancement_could/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "you can now use MTP in GLM-Air",
+     "summary": "If anyone still remembers GLM-4.5-Air from last year, you can now get a nice speedup by enabling MTP in llama.cpp. It is a 106B MoE with only 12B active parameters, which makes it interesting for machines with lots of memory but limited compute, such as Strix Halo or DGX Spark. I use it on 3090s.\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwhj0l/you_can_now_use_mtp_in_glmair/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Qwen 3.8 27b helped me with something unique that Opus 4 couldn't - Firmware + Software preservation and emulation on an early 2000's ARM based POS system",
+     "summary": "Hi all, I made a post regarding how much Qwen 3.8 has improved over 3.6: https://www.reddit.com/r/LocalLLaMA/comments/1vqm51f/long_review_qwen_38_27b_is_very_good_at_tapping/ I made a very thorough write-up of how Qwen 3.8 compared not only to 3.6, but frontier models when it came to creating a\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwhcuf/qwen_38_27b_helped_me_with_something_unique_that/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "We quantized Qwen 3.8 27B and compared the quants on an RTX 6000",
+     "summary": "Me and my team made Atomic Dynamic GGUF quants for Qwen 3.8 27B, so we wanted to see the difference between them by giving each quant the same voxel island creation task First of all we were surprised at how well Qwen 3.8 27B handled the 3D scenes in general, though part of that is probably\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwh3u7/we_quantized_qwen_38_27b_and_compared_the_quants/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "US startup just put autonomous excavators to work",
+     "summary": "submitted by /u/soldierofcinema [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1vwh3nq/us_startup_just_put_autonomous_excavators_to_work/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "How to cite/talk about preprint-subsequent works for a camera-ready version? [R]",
+     "summary": "I had a paper accepted to a conference. This paper was originally published as a preprint. Subsequent works citing our preprint focused on the same topic and reused/extended our methodology. I am now preparing the camera-ready version of that preprint and I'm wondering how I should deal with this\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1vwg5br/how_to_citetalk_about_preprintsubsequent_works/",
+     "source": "r/MachineLearning"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Who\u2019s behind the new \u2018stealth model\u2019 Ox Alpha?",
+     "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+     "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Linkdaze\u2019s smart calendar is built to run a household, not just track a schedule",
+     "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+     "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+     "source": "TechCrunch AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "It is not inherently bad to publish research on the impact of AI that only refers to older models, but it requires a very careful discussion and has to be very clear to non-technical readers. 1/",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mtrt4v5ku22w"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Anthropic\u2019s best AI model struggles to attract users as cheaper tools thrive",
+     "summary": "Anthropic\u2019s best AI model struggles to attract users as cheaper tools thrive A few interesting numbers in this FT story gathered from \"people with knowledge of the matter\": Anthropic's \"annualized revenue\" for July is up to $65bn - it was $47bn in May, and I collected more historic numbers here .\u2026",
+     "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "Quoting Drew Breunig",
+     "summary": "Prior to Fable, it felt silly to waste too much time improving your coding harness or context strategies. A new model would arrive at the same price (or cheaper!) and paper over most of your problems. But then Fable landed. It was (and still is!) incredible . But the cost was so high and Opus was\u2026",
+     "url": "https://simonwillison.net/2026/Aug/23/drew-breunig/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "lianghsun/open-sheet: The spreadsheet framework built for agents \u2014 write the model as React, export a live .xlsx. The third medium, after open-slide and open-doc.",
+     "summary": "The spreadsheet framework built for agents \u2014 write the model as React, export a live .xlsx. The third medium, after open-slide and open-doc.",
+     "url": "https://github.com/lianghsun/open-sheet",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-08-24T02:01+00:00",
+  "window_start": "2026-08-23T18:52+00:00",
+  "window_end": "2026-08-24T02:01+00:00",
+  "candidate_count": 27,
+  "model": "free (no LLM)"
+ }
+}
