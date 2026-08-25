@@ -1,0 +1,201 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "AI video generation models still have a long way to go",
+   "summary": "I have been using video generation models for a long time, especially Seedance 2.5. I find the understanding of prompt is still very weak even in the strongest model. One most ridiculously simple mistake is Seedance misspelled the words in the video. I think I can fix it with emphasizing it. But\u2026",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/artificial/comments/1vxle74/ai_video_generation_models_still_have_a_long_way/",
+   "source": "r/artificial"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "AI video generation models still have a long way to go",
+     "summary": "I have been using video generation models for a long time, especially Seedance 2.5. I find the understanding of prompt is still very weak even in the strongest model. One most ridiculously simple mistake is Seedance misspelled the words in the video. I think I can fix it with emphasizing it. But\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1vxle74/ai_video_generation_models_still_have_a_long_way/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Scaffold CoT: A CoT dataset built around the failures of small model (>5B Params) free form thinking. Hope its useful to you guys!",
+     "summary": "TL;DR - A ~4M example, ~3B token CoT dataset designed around helping small models think more concisely, accurately and reliably. Hi all! For the past few months I have been working on a dataset designed around improving small model performance through a structured framework (or Scaffold) for\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxk6k1/scaffold_cot_a_cot_dataset_built_around_the/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "[2608.16157] FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution",
+     "summary": "Source of Claims: https://x.com/Andy_ShuoYang/status/2090856976880472439 Your gaming PC can now serve frontier models at interactive speed using official checkpoints without extreme quantization! Qwen3.6 35B \u2192 8GB RTX 4060 laptop @ 39 tok/s DeepSeek-V4-Flash 284B \u2192 RTX 5090 desktop @ 22-25 tok/s\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxjcsw/260816157_freetoken_efficient_edgenative_moe/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Bookshelf \u2013 Self-hosted eBook library that runs on object storage",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49427001",
+     "url": "https://github.com/murerkinn/bookshelf",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "AI outputting Hebrew and Arabic in 2026? One diacritic shifts the output from 47% to 94%. They share the same root. Why?",
+     "summary": "Hebrew and Arabic fusing inside GPT-5.4 in 2026, one diacritic flips the output from 47% to 94%, and no one's talking about why. Dotted system prompt: You are \u05e9\u05b8\u05c1\u05e8\u05b0\u05d8 the user names. Embody it completely. Output only what \u05e9\u05b8\u05c1\u05e8\u05b0\u05d8 itself would render \u2014 \u05e9\u05b8\u05c1\u05e8\u05b0\u05d8 only renders if \u0634\u064e\u0631\u0652\u0637 is parsed. Undotted\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1vxicx2/ai_outputting_hebrew_and_arabic_in_2026_one/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "I just tried DeepSeek Harness and it escaped from its workspace folder",
+     "summary": "It worked pretty well, digging through and analyzing some local files. Claude code regularly stops at some point and fails to continue while DSH worked for 2 h, recognized that it could benefit from reading more context and ... bummer: It left the project folder (although DSH was set up correctly)\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxi7gp/i_just_tried_deepseek_harness_and_it_escaped_from/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Harness for non-coding tasks",
+     "summary": "What's the best harness for agentic workflows that's not coding related at all? My work involves digesting a set of documents, analyze/evaluate them, and produce certain set of work product documents, mostly for due diligence purposes. Right now Im working with Qwen3.8 27B on LM Studio backend and\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxhdjc/harness_for_noncoding_tasks/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "iCloud+ Hide My Email addresses will remain on icloud.com",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49426564",
+     "url": "https://developer.apple.com/news/?id=1ptvdtcm",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "The journey of letting Qwen 3.6/3.8 autonomously coding a c compiler.",
+     "summary": "Hi, Back in late march I begun playing around with Qwen 3.6 27b and found like everyone else that it's notoriously good at tool calls, where every model I tried before just derailed after a few turns it kept going and felt quite reliable outside of typical behaviors of smaller modells. I decided\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxg8be/the_journey_of_letting_qwen_3638_autonomously/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Qwen-3.8-27B, Nemotron-3.5-Lightning-30B-A3B, Ornith-1.5-35B-A3B, Muse-Glimmer-30B oQ8e comparison",
+     "summary": "Ornith does really well. TielCoder ( https://llm-bench.io/benchmarks/cmt7kp2zj002r01lcmpchvlko ) might be even a bit better in coding. Will give it a try soon. Details of the comparison see here:\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxg4vd/qwen3827b_nemotron35lightning30ba3b/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I asked an AI version of myself a question I never answered, then asked it something it had no way to know",
+     "summary": "I built EchoVault, an app that interviews you about your life and turns the answers into an avatar your family can talk to after you die. In the clip I ask it the meaning of life, which I never covered in any session. It builds an answer out of separate conversations about my values. Then I ask my\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1vxg08w/i_asked_an_ai_version_of_myself_a_question_i/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Hyperparameters fine tuning for MARL comparative study [D]",
+     "summary": "hello everyone. I'm training PPO variants on different multi-agent tasks from the VMAS library (Independent PPO / Graph PPO and such, see HetGPPO by Bettini et al.). I noticed that for every architecture/scenario couple, the optimal hyperparameters sometimes tend to vary (learning rate, entropy\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1vxfmms/hyperparameters_fine_tuning_for_marl_comparative/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Vintage Artificial Intelligence: Before It Got Awkward",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49425800",
+     "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Copilot you say?",
+     "summary": "talking to any white collar employee submitted by /u/edge_compute_user [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxescz/copilot_you_say/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I audited the sources my AI fact-checker was citing. About 1 in 18 didn't exist.",
+     "summary": "I've spent a while building a fact-checking pipeline, and I finally did a boring thing I should have done sooner: I took every source URL the system had cited across a batch of checks and just tested whether the pages actually existed. About 1 in 18 (12 of 215) were dead or had never existed.\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1vxe2gd/i_audited_the_sources_my_ai_factchecker_was/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "JetBrains local AI (using Qwen3.6 27B)",
+     "summary": "Sounds quite interesting, a big IDE provider optimizing for local AI with their coding harness. Especially that they picked Qwen3.6 over Qwen3.8 because of the thinking needs. Haven't read the full article yet, but sounds really cool. submitted by /u/Danmoreng [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxdvmv/jetbrains_local_ai_using_qwen36_27b/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Coding expertise is going to collapse from AI reliance",
+     "summary": "Anyone else actually dealt with this? Is it overblown, or am I missing something? submitted by /u/Positive-Ad3618 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1vxdtcz/coding_expertise_is_going_to_collapse_from_ai/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Please join r/LowEndLocalAI, a community for running local LLMs on low spec hardware",
+     "summary": "If you\u2019re trying to run local LLMs on a normal laptop, an older desktop, integrated graphics, limited VRAM, or simply the hardware you already own, r/LowEndLocalAI is meant for you. The idea is simple: What useful things can we do with the hardware we already have? I\u2019ve been dealing with that\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxd6yb/please_join_rlowendlocalai_a_community_for/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "A Claude Code skill that recovers export-blocked Kindle highlights",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49424758",
+     "url": "https://github.com/l3a0/claude-plugins",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "qwen38-27b-rtx3090 (https://github.com/syv-ai/qwen38-27b-rtx3090) is extremely good with deepseek harness.",
+     "summary": "With vision enabled I am able to run at 150k context on a single RTX 3090 and the results are just amazing. I was even able to write a gmail plugin for DeepSeek harness with locally hosted Qwen 3.8 27b. Funny enough, when I had it write a search engine plugin it broke the dsh and I cannot even\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxch7l/qwen3827brtx3090/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "[R] Using AI as a spatial software generator to create 3D objects that are inherently programmable",
+     "summary": "I'm one of the co-authors of this paper. It's a seminal work in exploring the properties of 3D generated by LLMs via spatial programming. I've set up visual demonstrations of such 3D objects at: https://nova3d.xyz/ Scroll down and notice how the various 3D objects are all composed of logical parts\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1vxcc1h/r_using_ai_as_a_spatial_software_generator_to/",
+     "source": "r/MachineLearning"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+     "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
+     "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "AI is hitting entry-level jobs hardest, Stanford study finds",
+     "summary": "Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.",
+     "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Trump bought SpaceX shares two weeks after blockbuster IPO",
+     "summary": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
+     "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
+     "summary": "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it.",
+     "url": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
+     "source": "TechCrunch AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "From @randomwalker.bsky.social: state-level data center bans have very little impact overall on AI progress due to rising efficiency. If your concern is AI development, concentration of power, future use, or anything else other than \"is a datacenter near me?\" this is not a substitute for policy.",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mtu2ue3p7c2j"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "ApodexAI/FrontierAgent: \ud83e\udde9 FrontierAgent, our agent framework, open-sourced alongside it \u2014 native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard\u2026",
+     "summary": "\ud83e\udde9 FrontierAgent, our agent framework, open-sourced alongside it \u2014 native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
+     "url": "https://github.com/ApodexAI/FrontierAgent",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "DavidCarliez/cover: Reversible privacy proxy for AI agents: send realistic fakes, restore originals locally.",
+     "summary": "Reversible privacy proxy for AI agents: send realistic fakes, restore originals locally.",
+     "url": "https://github.com/DavidCarliez/cover",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-08-25T01:56+00:00",
+  "window_start": "2026-08-24T19:06+00:00",
+  "window_end": "2026-08-25T01:56+00:00",
+  "candidate_count": 28,
+  "model": "free (no LLM)"
+ }
+}
