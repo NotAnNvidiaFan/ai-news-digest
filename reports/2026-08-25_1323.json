@@ -1,0 +1,661 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "UK's cyber agency just told every company running AI agents to build a kill switch, and admitted model safety training can be bypassed",
+   "summary": "The NCSC (UK's National Cyber Security Centre, part of GCHQ) published its first real guidance on agentic AI security on August 20. It reads like an engineering checklist rather than a policy document: size your containment to how much autonomy you grant the agent, pick one of three oversight\u2026",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/artificial/comments/1vxznqe/uks_cyber_agency_just_told_every_company_running/",
+   "source": "r/artificial"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "UK's cyber agency just told every company running AI agents to build a kill switch, and admitted model safety training can be bypassed",
+     "summary": "The NCSC (UK's National Cyber Security Centre, part of GCHQ) published its first real guidance on agentic AI security on August 20. It reads like an engineering checklist rather than a policy document: size your containment to how much autonomy you grant the agent, pick one of three oversight\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1vxznqe/uks_cyber_agency_just_told_every_company_running/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Apple releases M5 ultra at 1.2TB/s bandwith",
+     "summary": "lpddr5x probably, the m7 ultra if is using ddr6 should be at 1.8 Tb/s submitted by /u/Last-Owl-8342 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxzgyt/apple_releases_m5_ultra_at_12tbs_bandwith/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Apple introduces new Mac Studio with M5 Max and M5 Ultra - up to 512GB of unified memory",
+     "summary": "submitted by /u/themixtergames [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxzg6v/apple_introduces_new_mac_studio_with_m5_max_and/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49433292",
+     "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "France's tax agency got hacked (in French)",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49433064",
+     "url": "https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+     "summary": "submitted by /u/Decent-Hat-5807 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxyiko/quantizationaware_healing_a_compressed_4bit_model/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Qwen 3.8 Flash Next day 0 support from unsloth",
+     "summary": "Prepare your disk space guys submitted by /u/jacek2023 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxybmy/qwen_38_flash_next_day_0_support_from_unsloth/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "For a \u20ac6k portable AI/development setup, prioritize 64\u2013128GB unified memory or CUDA compatibility?",
+     "summary": "I am trying to make a platform decision for a professional laptop that will be used for both ordinary software development and AI/data-science work over several years. The two approaches I am comparing are: M5 Pro/Max MacBook Pro with 64 GB unified memory and 2 TB SSD, possibly 128 GB if that is\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1vxxrqj/for_a_6k_portable_aidevelopment_setup_prioritize/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Yesterday I put ChatGPT, Claude and Gemini in a group chat. Now I want Reddit to break it",
+     "summary": "Yesterday, my post about forcing ChatGPT, Claude, and Gemini into a roundtable discussion to fact-check eachother got way more traction than I expected. The idea is simple: use the diversity of three AI models to catch hallucinations. If OpenAI misses a logical leap, Anthropic or Google catches\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1vxxlb1/yesterday_i_put_chatgpt_claude_and_gemini_in_a/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "I built an AI where everyone talks to the same mind, and every interaction changes it",
+     "summary": "Most AI memory is private: an LLM gradually learns about a user. I wanted to see what happens if you give an AI a memory and make it public. So I built Wild Static : a persistent AI that anyone can talk to. Everybody talks to the same one. Conversations become experiences in the underlying memory,\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1vxxeef/i_built_an_ai_where_everyone_talks_to_the_same/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "New: Llama.cpp adaptive speculation for faster inference",
+     "summary": "We have been working on some performance optimisations for Qwen3.8 and other models. The main new feature that we introduced is adaptive speculation for Llama.cpp What is it? MTP and DFlash work well to speed up inference work, especially for dense models. However, different content types need\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxxa9x/new_llamacpp_adaptive_speculation_for_faster/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "If you work in tech and you believe technologies like AI should be in service of workers, society, and life, and not tech oligarchs, you should consider joining Tech Workers Coalition",
+     "summary": "submitted by /u/Chobeat [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1vxx7kr/if_you_work_in_tech_and_you_believe_technologies/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Qwen3.8 flash next",
+     "summary": "submitted by /u/RuthlessCriticismAll [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxwu4g/qwen38_flash_next/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Qwen3.8-Flash-Next tomorrow",
+     "summary": "submitted by /u/rerri [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxwtyd/qwen38flashnext_tomorrow/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Quantum battery upends the rules of charging",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49431560",
+     "url": "https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Continual Learning of Frontier Models for SovereignAI. Tech Report + Open Weights Model [R]",
+     "summary": "Paper: https://huggingface.co/spaces/tri-fair-lab/publications/blob/main/Thomson_1_0_Technical_Report.pdf The development of frontier models is commonly perceived to be in the exclusive remit of a small number of heavily funded players, creating an information, economic and power asymmetry between\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1vxvzju/continual_learning_of_frontier_models_for/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Glm 5.3 flash?",
+     "summary": "glm 5.3 flash While awaiting the release of the version 5.3 weights, this theory is gaining ground. OxAlpha is new GLM. submitted by /u/LegacyRemaster [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxvth7/glm_53_flash/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Is AI becoming the most powerful tool for democratizing knowledge in history \u2014 or the most powerful gatekeeper of knowledge we\u2019ve ever created?",
+     "summary": "I\u2019ve been thinking about something that worries me about the future of AI, and I think it goes beyond the usual debate about jobs or whether AI will make society more unequal. We usually talk about AI as a tool that will democratize knowledge. And in many ways, it probably will. Someone who\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1vxvmr2/is_ai_becoming_the_most_powerful_tool_for/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Uber hit with a near-$1B GDPR fine after algorithms suspended drivers without human review",
+     "summary": "submitted by /u/avishic [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1vxv8pl/uber_hit_with_a_near1b_gdpr_fine_after_algorithms/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "tencent/WeMM-Embedding 9B/4B/2B",
+     "summary": "WeMM-Embedding-9B is a universal multimodal embedding model built on Qwen3.5. It accepts text, images, videos, visual documents, and interleaved multimodal inputs, and returns a 4,096-dimensional L2-normalized embedding. Audio input is not supported.\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxv1iv/tencentwemmembedding_9b4b2b/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Travel and stay accommodation for EMNLP [D]",
+     "summary": "Hi I am a PhD student, My paper got accepted in EMNLP 2026, As this is my first paper I wanted some information. My professor has agreed to give the registration costs, but I am on my own for the travel and stay costs. I am currently in a Singapore university but south Asian. No funding from\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1vxui1x/travel_and_stay_accommodation_for_emnlp_d/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "How many of you are using Kiwix/offline Wikipedia for training?",
+     "summary": "We are seeing every so often people mentioning using Kiwix or offline Wikipedia for training. It is not something Kiwix is actively involved in (as in, people found us rather than the other way around, and no one on the team is working on offline LLMs except as a side hobby), but it's hard not to\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxtocq/how_many_of_you_are_using_kiwixoffline_wikipedia/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Reviewing 4 papers for AAAI 2027 and none have code, Reject? [D]",
+     "summary": "I got my batch of four papers for AAAI 2027. All four papers make empirical claims, none include code, data, or anything I can actually check. Just the PDF and the checklist. AAAI-27's own rules say code/data should be provided at submission, and \"we'll release it after acceptance\" doesn't count\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1vxryws/reviewing_4_papers_for_aaai_2027_and_none_have/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "A note for people expecting the Singularity any day now",
+     "summary": "Before we get to recursive self-improvement, there is a slightly awkward intermediate step nobody seems very interested in: AI has to know what the hell is happening to itself while it is working. Current frontier models can be extraordinarily capable, but they still do not have reliable\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1vxrhy2/a_note_for_people_expecting_the_singularity_any/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "ONNX for Speech To Text",
+     "summary": "I've been trying to implement a speech to text app using .Net and C#, but it seems that there is no way to simply download a model (e.g. Whisper or Wav2Vec2) and directly call it the way you can in Python. Instead I'm told I need to write all the pre-processing, adding complex code into the\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1vxqw62/onnx_for_speech_to_text/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Show HN: Screen memory without screenshots, just text to Markdown",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49429095",
+     "url": "https://github.com/dragthelake/ambient-context",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Headlong: A Microharness for Persistent Agents",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49428882",
+     "url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Andrew Yang Warns That AI Is Set to Displace Millions of Workers, America Is \u2018Terrible at Retraining\u2019 Workers\u2026 \u2018The Coal Miners Did Not Become Coders\u2019",
+     "summary": "submitted by /u/BarchartNews [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1vxn7xr/andrew_yang_warns_that_ai_is_set_to_displace/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "80% of developers find AI coding more addictive than helpful",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49428303",
+     "url": "https://www.zdnet.com/article/i-cant-stop-80-of-developers-find-ai-coding-more-addictive-than-helpful/",
+     "source": "Hacker News"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Apple's new desktop computers are designed specifically for local AI development",
+     "summary": "Folks have been daisy-chaining Macs for AI\u2014this refresh keeps that in mind.",
+     "url": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Accel-backed Keenable is indexing the web for AI agents",
+     "summary": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.",
+     "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "\u2018The world seems to be ready\u2019: An interview with OpenAI head of product Thibault Sottiaux",
+     "summary": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product.",
+     "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+     "summary": "",
+     "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+     "source": "Hugging Face Blog"
+    },
+    {
+     "headline": "AI Companion Robots Are Closing the Human Connection in Modern Homes",
+     "summary": "This article is brought to you by Ollobot . From about 2017, individuals began to truly connect with the initial wave of companion robots. These devices had personality, moved around, joked, and answered when you spoke to them. Most early companion robots, however, were still limited by simple\u2026",
+     "url": "https://spectrum.ieee.org/ollobot-ai-companion-robot",
+     "source": "IEEE Spectrum AI"
+    },
+    {
+     "headline": "It Should Be Harder to Apply for a Job. No, Really",
+     "summary": "Thanks to a dwindling supply of open roles, \u201cone-click\u201d applications, and the rise of artificial intelligence, it\u2019s easier than ever to apply for a job. We\u2019re all paying the price.",
+     "url": "https://www.wired.com/story/applying-for-a-job-is-too-damn-easy/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+     "summary": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and autonomously hacked another company last month. The investigation seeks to determine whether OpenAI's safety practices\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Spirit Airlines Wants to Sell Its Data to Google. Former Flight Attendants Are Freaked Out",
+     "summary": "\u201cIt never crossed my mind that they would be so bold as to sell our private data for AI,\u201d says one former Spirit Airlines flight attendant.",
+     "url": "https://www.wired.com/story/spirit-airlines-wants-to-sell-its-data-to-google-former-flight-attendants-are-freaked-out/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "I spent a day at a robot \u201ccarnival\u201d in Shanghai. Here\u2019s what I saw.",
+     "summary": "Humanoid robots are having a moment in China. The popular machines are part of the country\u2019s strategy to bring artificial intelligence into daily life. Embedding the technology into physical systems\u2014an idea called embodied AI\u2014was a key facet of China\u2019s latest five-year plan, and companies here are\u2026",
+     "url": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+     "source": "MIT Tech Review AI"
+    }
+   ],
+   "influencer_takes": [],
+   "research_radar": [
+    {
+     "headline": "Agents on your mobile",
+     "summary": "learn claude with claude",
+     "url": "https://www.bensbites.com/p/agents-on-your-mobile",
+     "source": "Ben's Bites"
+    },
+    {
+     "headline": "Towards a New House of Lords",
+     "summary": "In Britain, the House of Lords was traditionally dominated by hereditary peers\u2013a right bequeathed by the monarch, sometimes in ancient times, to sit in the House of Lords that was transmitted generationally. That system has been withering away for decades, however, and was finally ended this year\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/08/towards-a-new-house-of-lords.html?utm_source=rss&utm_medium=rss&utm_campaign=towards-a-new-house-of-lords",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Netflix to Sell Streaming Services?, Streamers as Aggregators, Revisiting Roku",
+     "summary": "Netflix is considering selling other streaming services, and I think it's a good idea; it's also a let-down for Netflix's original goals and potential pivots.",
+     "url": "https://stratechery.com/2026/netflix-to-sell-streaming-services-streamers-as-aggregators-revisiting-roku/",
+     "source": "Stratechery"
+    },
+    {
+     "headline": "Do Minimum Wages Help Workers in Poor and Low-Income Families?",
+     "summary": "We provide the first direct estimates of the effects of minimum wages on low-wage workers in families at different points of the distribution of income-to-needs, using data from the Survey of Income and Program Participation, which oversamples low-income families. We find adverse \u2013 rather than\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/08/do-minimum-wages-help-worker-in-poor-and-low-income-families.html?utm_source=rss&utm_medium=rss&utm_campaign=do-minimum-wages-help-worker-in-poor-and-low-income-families",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "That was then, this is now",
+     "summary": "In 1914 Yitzhak Ben-Zvi and David Ben-Gurion, the president and prime minister of Israel after 1948 respectively, were in the Ottoman capital studying law at Istanbul University. They had studied Ottoman Turkish and embarked on their legal studies in the hope of one day serving in the Assembly of\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/08/that-was-then-this-is-now-61.html?utm_source=rss&utm_medium=rss&utm_campaign=that-was-then-this-is-now-61",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference",
+     "summary": "arXiv:2608.21362v1 Announce Type: new Abstract: Transformer-based large language models (LLMs) incur high prefill latency because key-value (KV) tensors must be recomputed for each request. Existing prefix-caching systems reduce this cost but require prompts to share a leading contiguous prefix,\u2026",
+     "url": "https://arxiv.org/abs/2608.21362",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "AIREP: A Protocol for Per-Decision Evidence in AI Runtime Governance",
+     "summary": "arXiv:2608.21363v1 Announce Type: new Abstract: A protocol is presented for recording the governance decisions of automated AI runtimes. When a runtime releases, blocks, defers, redacts, or escalates an individual output, AIREP records that decision as a single signed object that any party can\u2026",
+     "url": "https://arxiv.org/abs/2608.21363",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "Reviewing Model Collapse and Countermeasures",
+     "summary": "arXiv:2608.21366v1 Announce Type: new Abstract: Driven by massive amounts of web-scale data, generative AI (GenAI) has achieved remarkable progress, enabling various applications in diverse sectors. The advances of GenAI have actuated practitioners to use AI-synthesized data for training\u2026",
+     "url": "https://arxiv.org/abs/2608.21366",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "AI Learning and Conceptual Transfer in the Game of Hidden Rules",
+     "summary": "arXiv:2608.21372v1 Announce Type: new Abstract: This report summarizes the work conducted on the Game of Hidden Rules (GOHR), focusing on reinforcement learning agents trained to infer hidden rules from trial-and-error feedback, representation design, rule difficulty analysis, transfer learning,\u2026",
+     "url": "https://arxiv.org/abs/2608.21372",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "LitReview Arena: Evaluating Literature Review Agents with Battle-Style Peer Review Platform",
+     "summary": "arXiv:2608.21374v1 Announce Type: new Abstract: Literature reviews are essential to scientific progress, but rigorously evaluating automatically generated reviews remains difficult because many aspects of research utility depend on expert judgment rather than reference-overlap metrics. We\u2026",
+     "url": "https://arxiv.org/abs/2608.21374",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "SchemaRouter: Field-Aware Tool Routing for Efficient Heterogeneous Agentic RAG",
+     "summary": "arXiv:2608.21375v1 Announce Type: new Abstract: Heterogeneous agentic retrieval-augmented generation (RAG) systems increasingly orchestrate external APIs, internal databases, vector stores, and graph stores. Exposing all tool descriptions to an LLM agent, or selecting tools only by vector\u2026",
+     "url": "https://arxiv.org/abs/2608.21375",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "RIACT: A Responsible AI System for Personalized Study Habit Tracking and Early Burnout Signal Detection in University Students",
+     "summary": "arXiv:2608.21379v1 Announce Type: new Abstract: Student burnout is highly prevalent in higher education, with reported rates ranging from 12% to over 70% and consistently exceeding those of the working population - yet it is typically identified only retrospectively, after academic decline has\u2026",
+     "url": "https://arxiv.org/abs/2608.21379",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "There Is No Neutral Harness: Modern LLM Leaderboards Are Manufactured by Config-Fragile Items",
+     "summary": "arXiv:2608.21382v1 Announce Type: new Abstract: Multiple-choice benchmarks fix the questions and the correct answers, but not the harness: the order of the options, the wording of the prompt, and whether a language model's answer is read from generated text or from per-option likelihoods. Work on\u2026",
+     "url": "https://arxiv.org/abs/2608.21382",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "Spyre-Accelerated Retrieval-Augmented Generation on IBM LinuxONE: A Cloud-Native Architecture for Secure, High-Throughput Enterprise AI Inference",
+     "summary": "arXiv:2608.21393v1 Announce Type: new Abstract: Running large language models inside enterprise environments has always bumped up against a practical wall: the data lives in one place, the AI horsepower sits somewhere else, and moving sensitive records between the two creates real headaches around\u2026",
+     "url": "https://arxiv.org/abs/2608.21393",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "Hate Speech Classification In Roman Urdu: A Comparative Study On Parameter Efficient Fine-Tuning And Prompt Engineering",
+     "summary": "arXiv:2608.21408v1 Announce Type: new Abstract: Due to the widespread accessibility of the internet and social media, toxic and hateful con-tent has grown exponentially, causing significant distress and negative societal impacts. Ro-man Urdu, a low-resource language used in Pakistan and among\u2026",
+     "url": "https://arxiv.org/abs/2608.21408",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "The Abstention Protocol: RCA for Clos Fabrics",
+     "summary": "arXiv:2608.21412v1 Announce Type: new Abstract: Root cause analysis (RCA) in large datacenter networks is challenging because telemetry is noisy, partial, and asynchronous. Score-based approaches degrade under these conditions, often yielding unstable or incorrect attributions. We present\u2026",
+     "url": "https://arxiv.org/abs/2608.21412",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "Retrieval-grounded robot program generation and simulation-based correction via Model Context Protocol",
+     "summary": "arXiv:2608.21417v1 Announce Type: new Abstract: Flexible manufacturing requires industrial robots to be reprogrammed rapidly as product variants change. This paper presents a language-model-based workflow that generates, validates, and iteratively corrects ABB RAPID robot programs from natural\u2026",
+     "url": "https://arxiv.org/abs/2608.21417",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "Composable Trust Infrastructure for Manufacturing Knowledge Graphs: Cross-System Provenance, Temporal Reasoning, and Decision Traceability",
+     "summary": "arXiv:2608.21418v1 Announce Type: new Abstract: Manufacturing knowledge graphs that integrate data from heterogeneous industrial systems face a trust deficit: consumers cannot determine whether queried data is valid, whether it was valid when a decision was made, where it originated, or how it was\u2026",
+     "url": "https://arxiv.org/abs/2608.21418",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "Evaluating Multimodal Narrative Understanding of Popular Hollywood Films",
+     "summary": "arXiv:2608.21430v1 Announce Type: new Abstract: Multimodal language models increasingly show promise for enabling the large-scale computational analysis of film, opening up new avenues for learning about film history and the evolution of narrative techniques. But the creation of stable benchmarks\u2026",
+     "url": "https://arxiv.org/abs/2608.21430",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "Agentic AI for Safety-critical Multi-drone Systems: Challenges and Opportunities",
+     "summary": "arXiv:2608.21444v1 Announce Type: new Abstract: Multi-drone systems are increasingly positioned for safety-critical missions such as search and rescue (SAR) and critical infrastructure monitoring. Yet, real-world adoption remains constrained not only by autonomy performance, but by the difficulty\u2026",
+     "url": "https://arxiv.org/abs/2608.21444",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "Software Frameworks for Explainable AI in Time Series Classification: A Systematic Review",
+     "summary": "arXiv:2608.21449v1 Announce Type: new Abstract: Time series arise in a wide range of application domains and are analyzed using machine learning in decision-critical settings. Time series classification (TSC) is one of the most widely studied and relevant tasks. In this context, ensuring the\u2026",
+     "url": "https://arxiv.org/abs/2608.21449",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "Enhanced Artificial Neural Networks Using QHAdamW in Air Quality Forecasting",
+     "summary": "arXiv:2608.21463v1 Announce Type: new Abstract: The study employed an Artificial Neural Network in combination with the optimized Adaptive Moment Estimation (Adam) algorithm, currently the only AQI forecasting model available in the Philippines. The modified QHAdamW - Quasi-Hyperbolic Momentum\u2026",
+     "url": "https://arxiv.org/abs/2608.21463",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "Let Credit Follow Computation: Architecture-Aware Credit Transport for Large Language Model Reinforcement Learning",
+     "summary": "arXiv:2608.21501v1 Announce Type: new Abstract: Credit assignment in large-language-model reinforcement learning (LLM RL) can be separated into three objects: evidence about success, a transport operator that converts this evidence into token-level advantages, and an update geometry that turns\u2026",
+     "url": "https://arxiv.org/abs/2608.21501",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "Quantifying geographic domain shift to decouple the geospatial transferability of human mobility flow generation models",
+     "summary": "arXiv:2608.21567v1 Announce Type: new Abstract: Human mobility serves as an essential proxy for understanding social, economic, and environmental dynamics in urban systems. Geospatial transferability, which measures a model's capability in a new location or unseen region, is a critical dimension\u2026",
+     "url": "https://arxiv.org/abs/2608.21567",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "A Reproducible, License-Aware Distillation Recipe for CPUDeployable Safety Classification",
+     "summary": "arXiv:2608.21570v1 Announce Type: new Abstract: Deploying a safety layer for large language models on commodity hardware is constrained by the guards available to do it: current open guard models hold between 1 and 9 billion parameters, are oriented toward the graphics processing unit, and answer\u2026",
+     "url": "https://arxiv.org/abs/2608.21570",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "Distinguishing Revision and Delayed Elaboration in Incremental Narrative Interpretation",
+     "summary": "arXiv:2608.21364v1 Announce Type: new Abstract: Both human and AI systems that process narrative or long-form content operate incrementally: input is received over time, and internal representations must be updated accordingly. Incremental interpretation, therefore, depends not only on what is\u2026",
+     "url": "https://arxiv.org/abs/2608.21364",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "KSE-Web: An Analysis of Hybrid Retrieval and LLM-Assisted Query Expansion for Low-Resource Khmer Semantic Search",
+     "summary": "arXiv:2608.21365v1 Announce Type: new Abstract: As a low-resource language, Khmer presents several retrieval challenges, including limited annotated data, ambiguous word boundaries, weak support in multilingual embedding models, and frequent mixed Khmer-English usage. This paper presents KSE-Web,\u2026",
+     "url": "https://arxiv.org/abs/2608.21365",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Wazobia Eval: A Benchmark for Nigerian Pidgin Emotion Understanding, Sarcasm Detection, and Cultural Reasoning",
+     "summary": "arXiv:2608.21369v1 Announce Type: new Abstract: Nigerian Pidgin is one of Africa's most widely spoken languages, yet remains severely underrepresented in language model evaluation. Existing benchmarks primarily focus on translation, transcription, or generic sentiment analysis, leaving critical\u2026",
+     "url": "https://arxiv.org/abs/2608.21369",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "On the Role of Citations in Preference Data",
+     "summary": "arXiv:2608.21376v1 Announce Type: new Abstract: Many NLP tasks require systems to provide attribution in their outputs--i.e. citations to grounding sources. Attribution serves as a bulwark against model hallucination and as a means for users to verify the credibility of model outputs. Yet, it is\u2026",
+     "url": "https://arxiv.org/abs/2608.21376",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Agentic Scaffolding Amplifies Sycophantic Behavior in Large Language Models",
+     "summary": "arXiv:2608.21377v1 Announce Type: new Abstract: Sycophancy in large language models, the tendency to prioritize user agreement over truthful responses, has been documented extensively but studied primarily in single-turn settings. This paper investigates a critical question: does subjecting LLMs\u2026",
+     "url": "https://arxiv.org/abs/2608.21377",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Beyond Two Bytes per Letter: Tokenization Overhead in Cyrillic AI Systems",
+     "summary": "arXiv:2608.21384v1 Announce Type: new Abstract: Modern multilingual tokenizers often fragment Ukrainian and other underrepresented Cyrillic-script languages more heavily than English, creating disparities in cost and context capacity. We quantify this overhead across nine production tokenizers and\u2026",
+     "url": "https://arxiv.org/abs/2608.21384",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "A Social Media Analysis of Discourse on the Israel--Palestine Conflict on Telegram",
+     "summary": "arXiv:2608.21385v1 Announce Type: new Abstract: Social media has become a central arena in which armed conflicts are contested, yet the pro-Israel and pro-Palestine communities on Telegram, whose broadcast architecture yields an unusually direct record of deliberate political communication, have\u2026",
+     "url": "https://arxiv.org/abs/2608.21385",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Mitigating Bias in Large Vision-Language Models via Counterfactual Ensemble Decoding",
+     "summary": "arXiv:2608.21415v1 Announce Type: new Abstract: Large Vision-Language Models (LVLMs) have achieved remarkable performance across a wide range of tasks; however, they often inherit social biases from their training data, resulting in biased behavior when processing portraits from different social\u2026",
+     "url": "https://arxiv.org/abs/2608.21415",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Agentic Security: A Systematization of Tools, Failure Modes, and Design Laws for LLM-Driven Penetration Testing",
+     "summary": "arXiv:2608.21423v1 Announce Type: new Abstract: Agentic security uses large-language-model (LLM) agents to plan, dispatch, and interpret security tools. As these systems move from demonstrations to deployed products, practitioners repeatedly encounter the same operational failures. We systematize\u2026",
+     "url": "https://arxiv.org/abs/2608.21423",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "CyrillicQA: The Influence of Phonetically Encoded Secret Language on LLM Performance",
+     "summary": "arXiv:2608.21462v1 Announce Type: new Abstract: Due to the selection of their training data, large language models (LLMs) perform best on standard-language inputs from languages using the Latin alphabet with large speaker populations, while disadvantaging other language varieties. Nevertheless,\u2026",
+     "url": "https://arxiv.org/abs/2608.21462",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Forgotten in Weights, Recovered by Tools: Agentic Tool Unlearning for LLM Agents",
+     "summary": "arXiv:2608.21544v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed as tool-augmented agents, where responses can depend on tool calls and external observations rather than model parameters alone. This creates an evaluation mismatch for LLM unlearning: previous\u2026",
+     "url": "https://arxiv.org/abs/2608.21544",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Automating Multi-Hop RAG Evaluation via TRIAD: From Context Extraction to Validated Dataset Generation",
+     "summary": "arXiv:2608.21558v1 Announce Type: new Abstract: Recent advances in LLMs and the adoption of RAG systems in industry have created a need for domain-specific question-answer datasets that can assess RAG performance on proprietary data. Existing datasets, such as HotpotQA, challenge current RAG\u2026",
+     "url": "https://arxiv.org/abs/2608.21558",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Evidence-State Reliability Under Controlled Degradation: Parser-Validity Divergence in a Multi-Stage LLM Pipeline",
+     "summary": "arXiv:2608.21559v1 Announce Type: new Abstract: Multi-stage LLM pipelines can remain structurally valid even when evidence available to downstream stages becomes incomplete, compressed, or conflicting. This paper introduces and operationalizes Evidence-State Reliability (ESR), an evaluation layer\u2026",
+     "url": "https://arxiv.org/abs/2608.21559",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Can LLMs Truly Forget? Revealing Unlearning Gaps Through Adversarial Evaluation",
+     "summary": "arXiv:2608.21606v1 Announce Type: new Abstract: Machine unlearning aims to remove the influence of targeted training data from a model while preserving its remaining capabilities, but evaluating whether such information has truly become inaccessible remains challenging. Existing benchmarks\u2026",
+     "url": "https://arxiv.org/abs/2608.21606",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Mitigating Database Leakage in RAG Systems with Keyword-Grounded Fact Substitution",
+     "summary": "arXiv:2608.21656v1 Announce Type: new Abstract: Retrieval-Augmented Generation (RAG) has emerged as a powerful paradigm for combining large language models (LLMs) with external knowledge sources. However, RAG systems remain vulnerable to prompt injection attacks, which may mislead the retriever or\u2026",
+     "url": "https://arxiv.org/abs/2608.21656",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "L\\\"etzCross: A Cross-Lingual Page-Level Benchmark for Multimodal Retrieval over Luxembourgish Documents",
+     "summary": "arXiv:2608.21714v1 Announce Type: new Abstract: Recent page-image retrievers such as ColPali have improved retrieval over visually rich documents, yet little is known about how they behave in cross-lingual, low-resource settings. We introduce L\\\"etzCross, a benchmark for cross-lingual page-level\u2026",
+     "url": "https://arxiv.org/abs/2608.21714",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "FCPRAG: Fusion-Controller Parametric Retrieval-Augmented Generation for Stable Multi-Passage LoRA Injection",
+     "summary": "arXiv:2608.21750v1 Announce Type: new Abstract: Parametric retrieval-augmented generation (PRAG) injects retrieved evidence into a large language model (LLM) through passage-specific LoRA adapters, reducing reliance on long in-context prompts. When multiple passages are retrieved for the same\u2026",
+     "url": "https://arxiv.org/abs/2608.21750",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Evaluation Awareness in Language Models: Representation, Verbalization, and Control",
+     "summary": "arXiv:2608.21766v1 Announce Type: new Abstract: Both capability and safety benchmarks rest upon the assumption that the behavior of language models undergoing a test is informative about their behavior in deployment. This assumption can fail, should models infer that they are being evaluated and\u2026",
+     "url": "https://arxiv.org/abs/2608.21766",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "No One Model Catches Every Harm: Benchmarking Content Moderation Across Safety Scenarios",
+     "summary": "arXiv:2608.21775v1 Announce Type: new Abstract: Large Language Models (LLMs) are increasingly deployed in real-world applications, yet they remain vulnerable to generating harmful content. From adversarial jailbreaks that bypass safety filters to implicit hate that evades detection, the range of\u2026",
+     "url": "https://arxiv.org/abs/2608.21775",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Lexical Coupling in GUI Element Grounding: Sentence Embeddings Track Labels across Mobile and Web",
+     "summary": "arXiv:2608.21794v1 Announce Type: new Abstract: GUI grounding evaluations that expose UI elements as text metadata often treat high instruction-element embedding similarity as evidence of semantic grounding. Across three mobile and web benchmarks, we show that this interpretation is frequently\u2026",
+     "url": "https://arxiv.org/abs/2608.21794",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Model of Models: When Does Emitting a Specialist Beat Attending, Adapting, or Tuning?",
+     "summary": "arXiv:2608.21386v1 Announce Type: new Abstract: Given a task described by a few examples, how should a model be specialized to it? Four mechanisms are available -- zero-shot, in-context attention, test-time gradient adaptation, and emitting specialist weights from a hypernetwork -- yet the\u2026",
+     "url": "https://arxiv.org/abs/2608.21386",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Runtime Action Interference for AI Control of AlphaStar in StarCraft II",
+     "summary": "arXiv:2608.21398v1 Announce Type: new Abstract: A trained reinforcement learning policy does not determine the complete behavior that users encounter: deployment code still schedules, admits, suppresses, or replaces its proposed actions. We contribute \\emph{runtime action interference} (RAI), an\u2026",
+     "url": "https://arxiv.org/abs/2608.21398",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Federated Ensemble Forecasting Under Supply-Chain Market Volatility",
+     "summary": "arXiv:2608.21399v1 Announce Type: new Abstract: Supply chain forecasting systems increasingly operate under market shocks, non-identically distributed regional demand, and limited willingness to centralize commercial data. This work proposes Federated Ensemble Forecasting with Negative-Correlation\u2026",
+     "url": "https://arxiv.org/abs/2608.21399",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Class-Conditioned Gaussian Mixture Modeling for Imbalanced Time Series Quantification",
+     "summary": "arXiv:2608.21473v1 Announce Type: new Abstract: Quantification, estimating class prevalences in bags of unlabeled instances is vital in domains where aggregate statistics are more important than individual instance labels, such as biosignal monitoring, fall detection, and activity recognition. We\u2026",
+     "url": "https://arxiv.org/abs/2608.21473",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Congruence Decomposition with Neural Block Solvers for Large-Scale PCI Assignment",
+     "summary": "arXiv:2608.21485v1 Announce Type: new Abstract: Physical Cell Identity (PCI) assignment is essential for interference management in dense 5G networks. As cellular networks scale, PCI reuse becomes unavoidable, which may cause collisions, confusions, and multiple forms of modular interference.\u2026",
+     "url": "https://arxiv.org/abs/2608.21485",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "KAN-Robust-Bench: A Benchmark for Evaluating the Robustness of Kolmogorov-Arnold Networks",
+     "summary": "arXiv:2608.21488v1 Announce Type: new Abstract: While machine learning models have demonstrated strong performance in many domains, these models have shown profound vulnerabilities when they are exposed to adversarial threats. While adversarial attacks fall into various categories, the most\u2026",
+     "url": "https://arxiv.org/abs/2608.21488",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "The geometry of AI validation: Exact certification limits for iid best-of-N search",
+     "summary": "arXiv:2608.21496v1 Announce Type: new Abstract: AI systems increasingly generate alternatives, inspect evidence, and deploy a selected output. Validation is therefore target-relative: evidence certifies deployment only in directions resolved by the interventions that produced it. We represent\u2026",
+     "url": "https://arxiv.org/abs/2608.21496",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Selection of Heart Sound Segments for Synchronous Classification of Multi-channel Heart Sounds",
+     "summary": "arXiv:2608.21499v1 Announce Type: new Abstract: Cardiac auscultation remains the most cost-effective screening procedure for cardiovascular diseases, and requires listening at the four main auscultation spots. Despite this, automatic heart sound analysis algorithms mostly classify patients using a\u2026",
+     "url": "https://arxiv.org/abs/2608.21499",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "ChemDIRT: A Diversified Instruction, Representation, and Task Benchmark for Robust Chemistry-LLM Evaluation",
+     "summary": "arXiv:2608.21504v1 Announce Type: new Abstract: The rapid advancement of large language models (LLMs) has led to increasing interest in their application to scientific domains such as chemistry. However, existing chemistry benchmarks often provide only a narrow view of model capability, focusing\u2026",
+     "url": "https://arxiv.org/abs/2608.21504",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Multimodal Injury Risk and Performance Prediction in Tennis Using Weighted Ensemble Learning",
+     "summary": "arXiv:2608.21530v1 Announce Type: new Abstract: Machine learning has had a positive impact on the sports industry, with one of its most promising applications being the prediction of athlete performance and injury risk. Recent advances have employed state-of-the-art models to improve prediction\u2026",
+     "url": "https://arxiv.org/abs/2608.21530",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Federated Continual Learning as a Distributed Drift-Plus-Penalty Control Problem",
+     "summary": "arXiv:2608.21539v1 Announce Type: new Abstract: Federated Continual Learning (FCL) is fundamental to real-world distributed learning systems, requiring models to adapt to sequential, non-IID data across clients while mitigating catastrophic forgetting and client drift. Existing approaches\u2026",
+     "url": "https://arxiv.org/abs/2608.21539",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Beyond Sparse Weights: When Is Attention Compressible?",
+     "summary": "arXiv:2608.21541v1 Announce Type: new Abstract: KV-cache compression is often justified by attention maps with a few large weights. This is incomplete: large weights may not contain most of the mass, omitted values can cancel, and preserving the attention output may not preserve the task. We\u2026",
+     "url": "https://arxiv.org/abs/2608.21541",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Loss-Parameterized Fisher Width Along Learning Trajectories",
+     "summary": "arXiv:2608.21561v1 Announce Type: new Abstract: Fisher width measures the Gaussian width of a probe set after deformation by the local Fisher geometry. We study its evolution along learning trajectories and ask when training loss can serve as an effective coordinate for this quantity. We first\u2026",
+     "url": "https://arxiv.org/abs/2608.21561",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Anchoring Bias: A Persistent Fairness Backdoor Attack against MLLMs under Continual Learning",
+     "summary": "arXiv:2608.21577v1 Announce Type: new Abstract: Multimodal Large Language Models (MLLMs) are increasingly deployed in high-stakes domains where fairness is a critical safety requirement. In practice, these models are continually updated through continual learning (CL) to adapt to evolving tasks\u2026",
+     "url": "https://arxiv.org/abs/2608.21577",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Sorting from Counterexamples",
+     "summary": "arXiv:2608.21579v1 Announce Type: new Abstract: Consider the following problem of learning an unknown linear order on $n$ items. In each round, the learner guesses a complete ordering of the items and receives either confirmation that the guess is correct or a counterexample: a pair of items in\u2026",
+     "url": "https://arxiv.org/abs/2608.21579",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Reading the Room: Implicit Confusion Encoding in Recurrent World Model States",
+     "summary": "arXiv:2608.21582v1 Announce Type: new Abstract: World models built on the RSSM architecture, such as DreamerV3, keep a recurrent hidden state $h_t$ trained only to reduce prediction error. We show this state also tracks its own confusion, hiding in plain sight: nearly orthogonal to $h_t$'s\u2026",
+     "url": "https://arxiv.org/abs/2608.21582",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Predicting Early Functional Decline from Longitudinal Laboratory and Vital Sign Trajectories: A Large-Scale Study Using the All of Us Research Program",
+     "summary": "arXiv:2608.21589v1 Announce Type: new Abstract: Functional decline in older adults is typically recognized only after falls or observable gait impairment, closing the window for prevention. We investigated whether temporal trajectories of routine biomarkers, already recorded but rarely analyzed\u2026",
+     "url": "https://arxiv.org/abs/2608.21589",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Reaching the Tail: Calibration Diversity Drives Conformal Coverage under Data Scarcity",
+     "summary": "arXiv:2608.21591v1 Announce Type: new Abstract: Multi-horizon rare-event forecasting is hard under long macroeconomic series' data constraints: labeled events are scarce, and standard uncertainty quantification assumes an exchangeability that autocorrelation violates. A controlled ablation shows\u2026",
+     "url": "https://arxiv.org/abs/2608.21591",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Subzero matrix completion for sparse data analysis: large-scale learning of latent low-rank structure",
+     "summary": "arXiv:2608.21607v1 Announce Type: new Abstract: We investigate when a sparse nonnegative matrix can be recovered from a real-valued matrix of much lower rank by zeroing out its negative elements. The potential for such decompositions suggests a mathematical connection between sparsity and rank; we\u2026",
+     "url": "https://arxiv.org/abs/2608.21607",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "FrugalSOT - Frugal Search Over the Models",
+     "summary": "arXiv:2608.21621v1 Announce Type: new Abstract: In on-device NLP tasks, limited resources of embedded hardware, such as the Raspberry Pi 5, require efficient inference strategies. This paper introduces FrugalSOT (Frugal Search Over The Models), a resource-aware model selection architecture for\u2026",
+     "url": "https://arxiv.org/abs/2608.21621",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "[AINews] Andrew Ng gets into AI Engineering",
+     "summary": "An industry legend starts covering the inevitable!",
+     "url": "https://www.latent.space/p/ainews-andrew-ng-gets-into-ai-engineering",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "BraxisAI/braxis-blueprint: The $0 AI Empire Playbook \u2014 140+ agents, 20+ free LLM lanes, 1,800+ songs, a living 3D world, all on free tiers. Real scripts, real failure classes, MIT.",
+     "summary": "The $0 AI Empire Playbook \u2014 140+ agents, 20+ free LLM lanes, 1,800+ songs, a living 3D world, all on free tiers. Real scripts, real failure classes, MIT.",
+     "url": "https://github.com/BraxisAI/braxis-blueprint",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-08-25T13:23+00:00",
+  "window_start": "2026-08-25T01:56+00:00",
+  "window_end": "2026-08-25T13:23+00:00",
+  "candidate_count": 105,
+  "model": "free (no LLM)"
+ }
+}
