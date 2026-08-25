@@ -1,0 +1,253 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+   "summary": "The company's new fundraising total now stands at $232 million.",
+   "why_it_matters": "",
+   "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+   "source": "TechCrunch AI"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "[D] Looking for advice: Modelling a medicine-reminder agent that must decide \u201cremind / wait / notify\u201d under incomplete information[D]",
+     "summary": "Hi everyone, I\u2019m researching how to design an AI agent for a medicine-reminder system. The agent has to decide, at each relevant time, whether to: send a reminder, wait (do nothing for now), or notify another person (e.g. caregiver), when it does not have complete information about the patient\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1vy8a9g/d_looking_for_advice_modelling_a_medicinereminder/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Scrub: local MIT CLI that strips EXIF, C2PA, and hidden Unicode from files you own",
+     "summary": "submitted by /u/Impossible_Fault_503 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vy844d/scrub_local_mit_cli_that_strips_exif_c2pa_and/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "The next AI hardware race might be about inference",
+     "summary": "The NVIDIA/Groq news got me looking at how fast different LLM providers actually serve tokens. Everyone obsesses over training bigger models, more GPUs. But running these things in production is a completely different problem. If AI agents actually end up in daily workflows, response speed and\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1vy7cry/the_next_ai_hardware_race_might_be_about_inference/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Firefox 157 will include JPEG XL by default on all platforms",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49437946",
+     "url": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "About the Huggingface sale..",
+     "summary": ".. didn't llama.cpp aka ggml get acquired by Huggingface not too long ago? How would this sale affect llama.cpp and ggml? What are possible risks, and did ggerganov share his opinions or potential next steps on the matter? I'm genuinely worried that this might turn out bad for the ecosystem\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vy71my/about_the_huggingface_sale/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Qwen3.8-Flash-Next. This architecture could be surprisingly local-friendly once the weights drop. \ud83d\udc40",
+     "summary": "Qwen3.8-Flash-Next (~125B-A6B + 51B n-gram) memory estimate: Ideal 4-bit quant \u2248 82 GB (58 GB main weights + 24 GB n-gram tables) Real-world quants likely land in the 80\u201390 GB range. The big n-gram table is sparsely accessed \u2192 excellent candidate for system RAM offload. This architecture could be\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vy6smx/qwen38flashnext_this_architecture_could_be/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "CNBC Television: Nvidia partner with Perplexity AI to run locally in DGX Spark.",
+     "summary": "submitted by /u/dd32x [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vy6mjb/cnbc_television_nvidia_partner_with_perplexity_ai/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "New Figure/PI/Tesla/Sunday competitor just dropped",
+     "summary": "submitted by /u/oouuaaii [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1vy6klj/new_figurepiteslasunday_competitor_just_dropped/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "OpenAI blog post on their new custom inference chip",
+     "summary": "submitted by /u/borowcy [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1vy6bmm/openai_blog_post_on_their_new_custom_inference/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Nitter project received cease and desist",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49437283",
+     "url": "https://github.com/zedeus/nitter/issues/1442",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "A new ceiling for \u039b: the de Bruijn\u2013Newman constant",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49437165",
+     "url": "https://www.judegomila.com/posts/riemann-lambda-0.1787854",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Anjney Midha is a genuinely well-connected and unusually well-placed person in frontier AI.",
+     "summary": "submitted by /u/Southern-Break5505 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1vy5iqs/anjney_midha_is_a_genuinely_wellconnected_and/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Show HN: LatticeDB \u2013 Like SQLite but for graph databases",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49437049",
+     "url": "https://github.com/jeffhajewski/latticedb",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Anthropic Sees over $30T in Potential Revenue",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49436536",
+     "url": "https://www.wsj.com/tech/ai/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-a611efea",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Mac Studio M5 Max Cost Analysis",
+     "summary": "At $10k, you could get - 6.2B tokens with Qwen 3.8 Max (Qwen Pro plan) - 5.7B tokens with DeepSeek V4 Pro OpenRouter - 100B tokens with DeepSeek V4 Flash OpenRouter As a firm believer of local inference, unless you need it for data sovereignty, it's much more cost effect to wait for smaller models\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vy3lsp/mac_studio_m5_max_cost_analysis/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "How much of HN is AI?",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49435728",
+     "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "ibm-granite/granite-4.2-30b \u00b7 Hugging Face",
+     "summary": "Granite-4.2-30B is the flagship reasoning model in the Granite 4.2 family. It delivers the strongest performance across reasoning-intensive tasks by leveraging built-in <think>...</think> chain-of-thought. It supports flexible thinking modes \u2014 full thinking (default), non-thinking, and low-effort\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vy2jz7/ibmgranitegranite4230b_hugging_face/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Ox Alpha more reliable than intelligent?",
+     "summary": "https://x.com/cline/status/2091995642201842015 Could whatever lab that made Ox Alpha be trying to get reliability gains rather than raw intelligence. Could this also be why it was released stealthily, to test how reliable it is a scale, rather than just more feedback? submitted by\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1vy2cfa/ox_alpha_more_reliable_than_intelligent/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "OpenAI's new chip is better than Vera rubin on benchmark",
+     "summary": "https://openai.com/index/jalapeno-first-results/ submitted by /u/Wonderful_Buffalo_32 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1vy29d7/openais_new_chip_is_better_than_vera_rubin_on/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "12 abliterated Gemma 4 12B variants, one base, 165 GPU hours - Abliterlitics",
+     "summary": "I ran 11 uncensored variants of Gemma 4 12B that I grabbed from huggingface, sorting by downloads. 10 full abliterations plus 2 LoRA adapters which were requested to be added in the comparison, against the official base. 165 GPU hours over three and a half weeks on a single 5090. Weight forensics,\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vy1q1l/12_abliterated_gemma_4_12b_variants_one_base_165/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Intel Arc Pro B60 Dual 48G spotted",
+     "summary": "I spotted the Dual B60 48GB listed on Digitec/Galaxus. Initially it was said these wouldn't go into standard retail channels. At CHF 2500 (post tax, USD ~3000) not particularly competitive but worth keeping an eye on. For it to be interesting it shouldn't be more than like 2.5x a single B60.\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vy1g90/intel_arc_pro_b60_dual_48g_spotted/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "me to the model I spent all weekend fine-tuning",
+     "summary": "I just can't resist submitted by /u/close_Meal6005 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vy0knv/me_to_the_model_i_spent_all_weekend_finetuning/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "What would a fair benchmark for agent architecture look like? [D]",
+     "summary": "I am working on an evaluation design and would appreciate criticism before running it. Most coding-agent benchmarks collapse the model and its harness into one score. If a run fails, it is difficult to tell whether the cause was model capability, context assembly, task decomposition, tool design,\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1vy0ki7/what_would_a_fair_benchmark_for_agent/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Apple unveils a more powerful Mac mini featuring the all-new M6 and M5 Pro",
+     "summary": "\"A 12-core GPU, also with two more cores than before, now includes Neural Accelerators in each core for the first time on Mac mini, resulting in up to 4x faster AI performance and 2x faster graphics than Mac mini with M4. In addition, the all-new Dual 16-core Neural Engine delivers up to 2x faster\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vy09xv/apple_unveils_a_more_powerful_mac_mini_featuring/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Anthropic\u2019s best AI model struggles to attract users as cheaper tools thrive",
+     "summary": "submitted by /u/yogthos [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1vxzsxc/anthropics_best_ai_model_struggles_to_attract/",
+     "source": "r/singularity"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+     "summary": "The company's new fundraising total now stands at $232 million.",
+     "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Claude Cowork finally remembers what you told the app in chat",
+     "summary": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
+     "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "5 ways to upgrade your home decor with Google Search",
+     "summary": "Illustration of ombre rainbow furniture items like a sofa, lamp, and chair against a purple background",
+     "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
+     "source": "Google AI Blog"
+    },
+    {
+     "headline": "Leading Publishers Bring Blockbuster PC Games and Technology to NVIDIA RTX Spark",
+     "summary": "NVIDIA is bringing the next wave of RTX gaming to the Gamescom conference running this week in Cologne, Germany, with support for new games, anti-cheat technologies and increased visual quality. Electronic Arts, Embark and Ubisoft are among the latest game publishers and developers bringing their\u2026",
+     "url": "https://blogs.nvidia.com/blog/gamescom-rtx-spark-pc-games-technology/",
+     "source": "NVIDIA Blog"
+    },
+    {
+     "headline": "Granite 4.2 LLMs: How They're Built",
+     "summary": "",
+     "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+     "source": "Hugging Face Blog"
+    },
+    {
+     "headline": "AI won\u2019t replace radiologists, but it will dramatically change their jobs",
+     "summary": "A pioneering AI scientist once predicted computers would replace human radiologists. They haven't.",
+     "url": "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Gamma acquires Accel-backed design startup Lica",
+     "summary": "Lica co-founders are going to work on Gamma's new research team.",
+     "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "OpenAI\u2019s Jalape\u00f1o chip is built for fast inference at scale, benchmarks show",
+     "summary": "Tested on SemiAnalysis\u2019 InferenceX benchmark, Jalape\u00f1o registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
+     "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "OpenAI says its Jalape\u00f1o chip can power faster AI responses than the competition",
+     "summary": "OpenAI says its new AI chip, Jalape\u00f1o, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday. During a briefing with reporters, OpenAI hardware vice president Richard Ho said Jalape\u00f1o offers the \"best of both worlds\" with\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
+     "source": "The Verge AI"
+    }
+   ],
+   "influencer_takes": [],
+   "research_radar": [
+    {
+     "headline": "Tuesday assorted links",
+     "summary": "1. How to run a start-up with AI agents and zero employees (video talk). 2. Elon of the bird world (Times of London). 3. Swiss judge using AI to help set sentences (in German). And in French. 4. Arguably EA philanthropists should obsess over fertility decline at least as much as X risk. 5. Much\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/08/tuesday-assorted-links-583.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-583",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "AI and constitutions (from my email)",
+     "summary": "\u201cDear Tyler, I enjoyed reading your notes on visiting Anthropic to advise on Claude\u2019s constitution. Framing AI governance around the common law, case law (\u201cTalmud\u201d), and independent adjudication is a much more adaptive approach than relying on a static, top-down text. That said, moving from a\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/08/ai-and-constitutions-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-and-constitutions-from-my-email",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "halofyai/halofy: Halofy is the open access and governance layer for AI agents across your organization. Identity, policy, provenance, audit, and signed erasure.",
+     "summary": "Halofy is the open access and governance layer for AI agents across your organization. Identity, policy, provenance, audit, and signed erasure.",
+     "url": "https://github.com/halofyai/halofy",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-08-25T19:05+00:00",
+  "window_start": "2026-08-25T13:23+00:00",
+  "window_end": "2026-08-25T19:05+00:00",
+  "candidate_count": 37,
+  "model": "free (no LLM)"
+ }
+}
