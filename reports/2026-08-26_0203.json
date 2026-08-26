@@ -1,0 +1,235 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "NVIDIA Groq 3 LPX Now in Full Production With World-Class Speed for Agentic AI",
+   "summary": "submitted by /u/badumtsssst [link] [comments]",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/singularity/comments/1vyjimo/nvidia_groq_3_lpx_now_in_full_production_with/",
+   "source": "r/singularity"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "NVIDIA Groq 3 LPX Now in Full Production With World-Class Speed for Agentic AI",
+     "summary": "submitted by /u/badumtsssst [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1vyjimo/nvidia_groq_3_lpx_now_in_full_production_with/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Why are AI scientists so adamant that frontier LLMs are NOT conscious or sentient?",
+     "summary": "Why are AI scientists so adamant that frontier model LLMs are NOT conscious or sentient? submitted by /u/DoublePassRadiator [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1vyjh77/why_are_ai_scientists_so_adamant_that_frontier/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Accelerated Understanding | AI that can simulate and understand physics to invent and discover.",
+     "summary": "Also: https://www.reuters.com/business/ai-founders-who-walked-away-bezos-backed-prometheus-model-universe-2026-08-25/ submitted by /u/otarU [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1vyj3go/accelerated_understanding_ai_that_can_simulate/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Chinese robot Tiangong clocks sub-9 second 100 metres in Beijing",
+     "summary": "Chinese robot Tiangong clocks sub-9 second 100 metres in Beijing submitted by /u/badumtsssst [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1vyis3j/chinese_robot_tiangong_clocks_sub9_second_100/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Alabama launches probe into OpenAI after Hugging Face breach",
+     "summary": "Alabama launches probe into OpenAI after Hugging Face breach submitted by /u/badumtsssst [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1vyipc0/alabama_launches_probe_into_openai_after_hugging/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "A recirculation fix for running context",
+     "summary": "submitted by /u/yogthos [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1vyiocu/a_recirculation_fix_for_running_context/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Fully quantized NVFP4 Qwen3.8-27B with QUASAR QAD",
+     "summary": "We're releasing a fully quantized NVFP4 version of Qwen3.8-27B. The checkpoint was trained using quantization-aware distillation (QAD) with QUASAR, our new QAT algorithm. We used the original BF16 model as the teacher and distilled the quantized model for 2,446 steps. The checkpoint supports vLLM\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vyie86/fully_quantized_nvfp4_qwen3827b_with_quasar_qad/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Qwen3.8-27B IQ3_XXS wrote a correct multilayer TMM on a 16 GB Quadro \u2014 after 100 minutes, 3 compactions, and 108k output tokens",
+     "summary": "https://preview.redd.it/i8rjx0ar5mlh1.png?width=2160&format=png&auto=webp&s=c2588bc7b2519ea71b176ca73faf566dfc585496 I wanted to see whether a heavily quantized 27B model running entirely on an older 16 GB workstation GPU could do more than the usual coding demos. FFT felt too easy, so I asked it\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vyhcz3/qwen3827b_iq3_xxs_wrote_a_correct_multilayer_tmm/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "M5 Ultra 96GB vs M5 Max 128GB \u2014 is 2x bandwidth worth losing 32GB of RAM, with Qwen3.8-Flash-Next dropping tomorrow?",
+     "summary": "I\u2019ve been going back and forth on this for a week and I can\u2019t settle it, so I\u2019m hoping someone here has hands-on numbers. The two configs (German prices, dealer quote, incl. VAT): Config Price Mac Studio M5 Max, 128GB / 512GB SSD \u20ac5,859 Mac Studio M5 Max, 128GB / 1TB SSD \u20ac6,189 Mac Studio M5\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vyfved/m5_ultra_96gb_vs_m5_max_128gb_is_2x_bandwidth/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49441666",
+     "url": "https://github.com/runetes/maiao",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Qwen 3.8 27b has ThreeJs locked down.",
+     "summary": "Generated on a 3090 Qwen 3.8 27b Q4 Thinking high. submitted by /u/Both_Opportunity5327 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vyewwd/qwen_38_27b_has_threejs_locked_down/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Peak Portable Personal Datacenter",
+     "summary": "Portable rig for Qwen3.8-27B-BF16 200K+ token prompts. My work Panasonic Toughbook + the T1 + power brick + headphones all fit in my lunchbox. Need the BF16 for huge context highly sensitive document OCR, image analysis, aggregation and summarization. I've done a ton of testing and it absolutely\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vyephx/peak_portable_personal_datacenter/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "CEO fired developers to make room for AI. Developers respond by creating open source AI CEO",
+     "summary": "I hope this is okay to share since it is not self promotion and it is open source. Some of my friends were let go as part of an \"AI Transformation\". So they got together and created Open Executive as a tool to replace the CEO and other executives. Hopefully, turnabout is fair play and might even\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1vyegah/ceo_fired_developers_to_make_room_for_ai/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49441375",
+     "url": "https://github.com/swimmingbrain/texbrain",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Inside China Business on China vs US Data Centers",
+     "summary": "About energy use and other topics. He has lots of supporting links. https://youtu.be/Kf4ivd0THb0 https://youtu.be/ny_3PRz6Zeg submitted by /u/silver_chief2 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1vydoqx/inside_china_business_on_china_vs_us_data_centers/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Ripping Off the Hey.com Band-Aid",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49441042",
+     "url": "https://kylemcgough.com/blogs/ripping-off-the-heycom-band-aid",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Truck Driver Builds AI News Aggregator",
+     "summary": "Truck driver here, zero coding background. I Built an AI news aggregator over a few evenings because I was sick of seeing the same story five times. It pulls from about a dozen AI news sources, auto-summarises each article so you get the gist without clicking through and dedupes stories covered by\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1vycupz/truck_driver_builds_ai_news_aggregator/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "It's here!",
+     "summary": "mrburns_excellent.gif submitted by /u/funding__secured [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vycbqw/its_here/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Dribbling the AI Watermark Directly In-Prompt",
+     "summary": "It's my article, it is about how to circumvent any even theoretical optimal AI watermark based on statistical biases via pseudorandom generators like Google's SynthID. Let me know what you guys think. Generally, I do not think watermarking is the right solution, hence I am sharing my idea how to\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1vybcrs/dribbling_the_ai_watermark_directly_inprompt/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "35B-A3B tool calling benchmark: Original Qwen vs. KAT Coder, Ornith and Tiel-Coder",
+     "summary": "With hopes of a Qwen3.8-35B-A3B release now mostly dashed, many people including myself are looking at fine-tunes and other variants of Qwen3.6-35B-A3B to run on VRAM-limited hardware. I decided to try to benchmark some of the top contenders: KAT-Coder, Ornith 1.5 and the very recent Tiel-Coder. I\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vyaxip/35ba3b_tool_calling_benchmark_original_qwen_vs/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "How to run LLMs as regular guy with low resources?",
+     "summary": "Hello everyone. I hope is all well with you all. I been around this sub for a few months and been quietly reading and I have seen how many of you are spending $10k on the Mac M5 and I am assuming you are using it for work or just for fun but have the resources to spend like that. I am a regular\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vyajjd/how_to_run_llms_as_regular_guy_with_low_resources/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "OpenAI adds an admin plugin for ChatGPT Work and Codex",
+     "summary": "OpenAI has introduced an Admin plugin for ChatGPT Work and Codex. It lets workspace admins review activity and credit usage, manage members and groups, check permissions, and adjust usage limits from a conversation. The plugin stays inside each admin's existing role and permissions. OpenAI says it\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1vyab8z/openai_adds_an_admin_plugin_for_chatgpt_work_and/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Granite Speech 5.0 Turbo CTC: Extremely Fast and Accurate Transcription",
+     "summary": "submitted by /u/coder543 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vya9ok/granite_speech_50_turbo_ctc_extremely_fast_and/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I benchmarked AutoGen, CrewAI, LangGraph, and MetaGPT against my own Agent OS. The \"LLM-as-a-judge\" paradigm is completely broken. Here is the local data.",
+     "summary": "I've supposed their approach based on their website, they are of course more complex. I set up a local \"Agent Arena\" ( qwen2.5-coder:14b on an RTX A4500) to test 5 AI agent frameworks on an ultra-strict coding task. Classic multi-agent \"swarms\" either hallucinated success, burned 500k+ tokens in\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1vya5ko/i_benchmarked_autogen_crewai_langgraph_and/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "OpenAI's Head of Data Centers Has Left the Company",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49439489",
+     "url": "https://www.wsj.com/tech/ai/openais-head-of-data-centers-has-left-company-6d24fd83",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Embrace!",
+     "summary": "submitted by /u/ToasterBotnet [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1vy9z3p/embrace/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Figure.AI just dropped Index, the biggest and most diverse robot dataset ever with 16 million videos; From now on, everyone can record their daily tasks and get paid for it",
+     "summary": "submitted by /u/Distinct-Question-16 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1vy9lfj/figureai_just_dropped_index_the_biggest_and_most/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Qwen3.8 27b FIM support?",
+     "summary": "Does the model have fill in middle support? I would love to have a smart model doing good code suggestions (auto complete). No full slop mode, just a little support. Anybody has this usecase for local models? Or does everyone full slop? submitted by /u/freehuntx [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vy9b1k/qwen38_27b_fim_support/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "According to Leo, OpenAI just finished its next >10T pretrain \"Bel\"",
+     "summary": "submitted by /u/Outside-Iron-8242 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1vy99vk/according_to_leo_openai_just_finished_its_next/",
+     "source": "r/singularity"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Robotics startup Generalist reaches $3B valuation, sources say",
+     "summary": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
+     "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+     "summary": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group.",
+     "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "World humanoid robot games show runners breaking records, bursting into flames",
+     "summary": "Record-breaking robot races are less substantial than household chore challenges.",
+     "url": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/",
+     "source": "Ars Technica AI"
+    }
+   ],
+   "influencer_takes": [],
+   "research_radar": [
+    {
+     "headline": "Dolly Parton, RIP",
+     "summary": "The post Dolly Parton, RIP appeared first on Marginal REVOLUTION .",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/08/dolly-parton-rip.html?utm_source=rss&utm_medium=rss&utm_campaign=dolly-parton-rip",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "EVE Online: The Move to Python 3 Begins!",
+     "summary": "EVE Online: The Move to Python 3 Begins! EVE Online has been one of the most interesting case studies in Python at scale for over twenty years now. They've been running on Stackless Python since their launch in 2003, and their last major upgrade was 16 years ago, to Stackless Python 2.7 in 2010 .\u2026",
+     "url": "https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/",
+     "source": "Simon Willison"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-08-26T02:03+00:00",
+  "window_start": "2026-08-25T19:05+00:00",
+  "window_end": "2026-08-26T02:03+00:00",
+  "candidate_count": 34,
+  "model": "free (no LLM)"
+ }
+}
