@@ -1,0 +1,351 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Just a rumour of a bug is enough to find a security exploit these days",
+   "summary": "Just a rumour of a bug is enough to find a security exploit these days Anil Madhavapeddy is a professor of computer science at Cambridge and a core maintainer of the OCaml compiler. In this somewhat alarming post he reports that security issues in OCaml projects are seeing evidence of attempted\u2026",
+   "why_it_matters": "",
+   "url": "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/",
+   "source": "Simon Willison"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Can I take a humanoid robot to dance parties?",
+     "summary": "I go to social dance parties twice a week. We mainly dance waltz around the room; there are also swing and latin dances. At every song, we change dance partners. One is the Lead and the other is the Follow. They protect each other and improvise dance moves, taking music and surroundings into\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1w14hbq/can_i_take_a_humanoid_robot_to_dance_parties/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Today I hit 181 toks/s (aggregate) on Qwen3.8-Flash-Next on 2x DGX Sparks",
+     "summary": "Hey all, and hello fellow DGX Spark-ers! Today I managed some pretty crazy numbers: 181 tok/s aggregate on 2\u00d7 DGX Spark on Qwen3.8-Flash-Next at 512Kcontext (2.8M kvc) I hit 181 tok/s aggregate today across a multi-agent fleet on a 2-node DGX Spark cluster. Single-stream decode is 30\u201350 tok/s \u2014\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1486l/today_i_hit_181_tokss_aggregate_on/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "[Release] SOTA GGUFs for Qwen3.8-27B: GSQ-RCO at 2.5 to 3.0 bpw",
+     "summary": "We're releasing Qwen3.8-27B quantized with our newest methods, GSQ + RCO. Higher-quality models, same file size, now with the search and the quantizer both learned. What's inside: GSQ (Gumbel-Softmax Quantization): post-training scalar quantization that jointly learns grid assignments and scales,\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w13vse/release_sota_ggufs_for_qwen3827b_gsqrco_at_25_to/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "China is secretly fueling America's data center rage",
+     "summary": "submitted by /u/Snoo26837 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w120cw/china_is_secretly_fueling_americas_data_center/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "I audited 443 GGUF quants across 25 repos. 64 of them can't be the quant their filename claims.",
+     "summary": "TL;DR: k-quants need tensor rows divisible by 256. When they aren't, llama-quantize quietly swaps in a ~4.5 bpw type and the file keeps its low-bit name. I audited 443 quants across 25 repos; 64 are affected. On Nemotron-3.5-Lightning all four IQ2 rungs are the same 4.58 bpw file under four\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w11ob5/i_audited_443_gguf_quants_across_25_repos_64_of/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Trump says NASA is building a nuclear-powered starship set for a 2028 Mars mission",
+     "summary": "submitted by /u/Distinct-Question-16 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w11kz8/trump_says_nasa_is_building_a_nuclearpowered/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "GLM-5.3 on HF Viewer",
+     "summary": "GLM-5.3 is now ready to visualize in HF Viewer! Note again that the architecture is unchanged since GLM-5.2! Crazy improvements just from improved training! The graph visualization becomes quite complex at the expanded levels, with sparse attention, MoE routing, shared indexers, and multi-token\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w11epf/glm53_on_hf_viewer/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Anthropic's automated alignment researchers perform significantly better than human researchers",
+     "summary": "submitted by /u/badumtsssst [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w10ty7/anthropics_automated_alignment_researchers/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "I implemented a very tiny image generation model (latent flow transformer) on a RP2350 microcontroller - it can generate 128x128 images of faces [P]",
+     "summary": "Its a 2.4-4 million parameter model, quantized to int8, that can be fully executed on the microcontroller in ~20s with the longest generation. The generated image will then be displayed on a monitor or transferred via usb. Its a latent flow transformer with 12 layers using AdaLN-Zero for\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1w10tax/i_implemented_a_very_tiny_image_generation_model/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Breeze-TTS-2 initial impressions: genuinely 'frontier' TTS",
+     "summary": "You can test it out on breezblue's playground or use it locally, its only ~7GB. submitted by /u/Gohab2001 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1002h/breezetts2_initial_impressions_genuinely_frontier/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Bye, Bye GitHub",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49483020",
+     "url": "https://log.ozgur.works/bye-bye-github.html",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "I benchmarked 9 open models on spotting fake sources during agentic search (DeepSeek V4, Qwen 3.8, Nemotron 3 Ultra)",
+     "summary": "I built a benchmark called EchoNet. An agent gets a factual question, then searches a syntheic web I made before answering. Some of that web is seeded with misinformation: one fake page, a fake page ranked first in search results, the same fake claim copied across many pages, a loud fake majority\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w0zl5q/i_benchmarked_9_open_models_on_spotting_fake/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "The Analytical AI Handbook",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49482925",
+     "url": "https://handbook.sutro.sh",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "ROCm 10.0: A Decade of Open Compute, Built for the Age of Agentic AI",
+     "summary": "Their last version 7.14 was released just a month ago. llama.cpp PR(waiting for approval) for Version 10.0 https://github.com/ggml-org/llama.cpp/pull/27803 Hope this version comes with more boost & improvements. submitted by /u/pmttyji [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w0yfmn/rocm_100_a_decade_of_open_compute_built_for_the/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Could a model one day align its stronger successors?",
+     "summary": "submitted by /u/Anxious-Yoghurt-9207 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w0xisb/could_a_model_one_day_align_its_stronger/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "I Asked 100 Companies for My Data. I Got Deletion Notices Instead",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49481451",
+     "url": "https://www.wired.com/story/i-demanded-my-data-from-over-100-companies-deletion-notices-started-arriving-instead/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Anthropic CEO, Dario Amodei: in the next 3 to 6 months, AI is writing 90% of the code, and in 12 months, nearly all code may be generated by AI",
+     "summary": "submitted by /u/PsychologicalRiceOne [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w0ur6v/anthropic_ceo_dario_amodei_in_the_next_3_to_6/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Nvidia Insists It Can Keep Printing Money to Fund the AI Boom",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49480449",
+     "url": "https://www.wsj.com/tech/ai/nvidia-insists-it-can-keep-printing-money-to-fund-the-ai-boom-195e7d5e",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "ds4 branch with GLM 5.3 Flash support",
+     "summary": "As a happy user of ds4, I'm very excited about this branch. Ran some prompts and it seems to be working well on my M4 Max 128gb! https://x.com/antirez/status/2093349448445243873 submitted by /u/lakySK [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w0u82b/ds4_branch_with_glm_53_flash_support/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Qwen3.8-Flash on RTX3090 + 64GB RAM (but you only need 12GB VRAM)",
+     "summary": "I've got Qwen3.8-Flash-next running on RTX 3090, Ryzen 9 3950X, a PCIe 3.0 motherboard, and 64GB DDR RAM from 2020. IQ4_XS weights, full kvarn5 context, vision on GPU, experts in host RAM, n-grams on disk. MTP works but actually slows decode down even with 80% draft acceptance, as expected since\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w0u24k/qwen38flash_on_rtx3090_64gb_ram_but_you_only_need/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "GLM-5.3 is now open-weight",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49479878",
+     "url": "https://huggingface.co/zai-org/GLM-5.3",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "zai-org/GLM-5.3 \u00b7 Hugging Face",
+     "summary": "GLM-5.3 uses the same base model as GLM-5.2 \u2014 every gain comes from post-training. Compared with GLM-5.2, it is much better at complex coding and long-horizon tasks: Stronger Coding: GLM-5.3 is the most capable open-weights model for coding, with a 50% improvement over GLM-5.2 on our in-house Z.ai\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w0tgzl/zaiorgglm53_hugging_face/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Don't use musl if you care about performance",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49479826",
+     "url": "https://blog.brokk.ai/dont-use-musl-if-you-care-about-performance/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "OpenAI, Google join dozens of tech companies to call for urgent action against AI-powered threats | The companies stress in a letter that there is a \u201climited window\u201d to prepare for AI-enabled\u2026",
+     "summary": "submitted by /u/SnoozeDoggyDog [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w0t2my/openai_google_join_dozens_of_tech_companies_to/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Australia\u2019s music industry bans AI songs from charts",
+     "summary": "submitted by /u/SnoozeDoggyDog [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w0rwlx/australias_music_industry_bans_ai_songs_from/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Runway shares a video highlighting what you can do with current SOTA image gen models and tooling",
+     "summary": "submitted by /u/TFenrir [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w0rmif/runway_shares_a_video_highlighting_what_you_can/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Get your Windows license refund",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49478340",
+     "url": "https://en.refund4freedom.org/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Google CS PhD Fellowship 2026 [R]",
+     "summary": "Has anyone got the decision notification yet? Please mention decision (e.g., approved/rejected) and geographical area (e.g., North America) in your answer. I know the official notification date is 31 August, but putting this here before hand so folks can post updates asap when they get them.\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1w0qv95/google_cs_phd_fellowship_2026_r/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Interactive pattern discovery in binaries (FF-16-TUI)",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49477925",
+     "url": "https://github.com/HexLasso/FF-16-TUI",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Tencent Hy4 Preview full benchmarks",
+     "summary": "submitted by /u/badumtsssst [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w0oqrg/tencent_hy4_preview_full_benchmarks/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "AI Agent Has Root",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49477311",
+     "url": "https://infernalcode.com/posts/your-ai-agent-has-root/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "ALMA Reveals Long-Lived Hotspots on Betelgeuse's Bubbling Surface",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49477302",
+     "url": "https://www.almaobservatory.org/en/audiences/alma-reveals-long-lived-hotspots-on-betelgeuses-bubbling-surface/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Migrating to HTTPX2",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49477212",
+     "url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "HTTPX2 \u2013 A next-generation HTTP client for Python",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49477157",
+     "url": "https://github.com/pydantic/httpx2",
+     "source": "Hacker News"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Neocloud Lambda secures $1B in debt to buy more chips",
+     "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
+     "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "An Anthropic researcher just gave us a peek at self-improving AI",
+     "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+     "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Open-weight AI companies are the Valley\u2019s hottest acquisition targets",
+     "summary": "There's a lot of capital pouring into the business of giving models away.",
+     "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
+     "summary": "Anthropic refused to support lethal autonomous warfare and mass surveillance.",
+     "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Trump\u2019s EPA wants to let data centers hide their air pollution",
+     "summary": "Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those centers create. The EPA plans to toss out a federal rule requiring public notice and an opportunity to\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording",
+     "summary": "Meta fixes AI glasses to stop recording any time users cover up the safety light.",
+     "url": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "AI Has Human Doctors Asking: What\u2019s Left for Us?",
+     "summary": "A recent paper argues that AI is often better at doctoring than doctors. Guess who isn't thrilled.",
+     "url": "https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Anthropic gets its first court win over the Pentagon\u2019s supply-chain risk label",
+     "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
+     "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+     "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
+     "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+     "source": "TechCrunch AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "I think the release of GLM-5.3, a very good open weights models with considerable offensive cyber capability, is worth noticing. Open weights models have effectively no guardrails, and they only provide minimal risk testing (though what they do test is eye opening, as you can see in the image).",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mu5xtm24zk2o"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Just a rumour of a bug is enough to find a security exploit these days",
+     "summary": "Just a rumour of a bug is enough to find a security exploit these days Anil Madhavapeddy is a professor of computer science at Cambridge and a core maintainer of the OCaml compiler. In this somewhat alarming post he reports that security issues in OCaml projects are seeing evidence of attempted\u2026",
+     "url": "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "Tysons Corner (Alaska) fact of the day",
+     "summary": "The centerpiece is Tysons Corner Center, today the eighth largest mall in the country, and one of the largest sub-city-sized markets for office space. It is half-owned by the Alaska Permanent Fund, which is the state-owned corporation that invests oil revenue on behalf of Alaska\u2019s citizens, and\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/08/tysons-corner-alaska-fact-of-the-day.html?utm_source=rss&utm_medium=rss&utm_campaign=tysons-corner-alaska-fact-of-the-day",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "2026.35: Internet Hype and Real World Change",
+     "summary": "The best Stratechery content from the week of August 24, 2026 including the breaker's advantage, the new battle for HDMI1, and how data center discourse ends.",
+     "url": "https://stratechery.com/2026/internet-hype-and-real-world-change/",
+     "source": "Stratechery"
+    },
+    {
+     "headline": "Friday assorted links",
+     "summary": "1. \u201cWith homicides up 50% since 2020\u2014putting the country\u2019s murder rate on par with Mexico\u2019s\u2014Costa Rican President Laura Fern\u00e1ndez and her ruling party are blaming the independent judiciary.\u201d (WSJ) 2. The Monterrey spirit. 3. Is Aaron Renn the biggest superinfluencer on the New Right? 4. Two Dan\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/08/friday-assorted-links-587.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-587",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Value generalisation theory of change: the theory behind the approach",
+     "summary": "This is the first part of a theory of change explaining why I'm targeting value generalisation as the path to AI alignment. It presents the definitions and key claims behind the theory, and shows that most AI alignment failure modes are value generalisation failures . Note that a lot of these\u2026",
+     "url": "https://www.alignmentforum.org/posts/f79SNtqFD7SqJY2vf/value-generalisation-theory-of-change-the-theory-behind-the",
+     "source": "Alignment Forum"
+    },
+    {
+     "headline": "XiaoDuoYa/codex-with-chatgpt: ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+     "summary": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+     "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "How I built this",
+     "summary": "Ben\u2019s session #4",
+     "url": "https://www.bensbites.com/p/how-i-built-this-21f",
+     "source": "Ben's Bites"
+    },
+    {
+     "headline": "Nanako0129/sepia: De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity \u2014 narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope\u2026",
+     "summary": "De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity \u2014 narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+     "url": "https://github.com/Nanako0129/sepia",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "acryldev/acryl: ACRYL - Agent Context Relay Yielding Lifecycles. One persistent workspace, one canonical context, any coding agent.",
+     "summary": "ACRYL - Agent Context Relay Yielding Lifecycles. One persistent workspace, one canonical context, any coding agent.",
+     "url": "https://github.com/acryldev/acryl",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-08-28T22:28+00:00",
+  "window_start": "2026-08-28T11:32+00:00",
+  "window_end": "2026-08-28T22:28+00:00",
+  "candidate_count": 53,
+  "model": "free (no LLM)"
+ }
+}
