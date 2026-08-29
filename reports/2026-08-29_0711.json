@@ -1,0 +1,248 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Delivery robots using humans to cross the street",
+   "summary": "submitted by /u/japie06 [link] [comments]",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/singularity/comments/1w1fbvc/delivery_robots_using_humans_to_cross_the_street/",
+   "source": "r/singularity"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Delivery robots using humans to cross the street",
+     "summary": "submitted by /u/japie06 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w1fbvc/delivery_robots_using_humans_to_cross_the_street/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "A startup found a drug to make your blood young. People close to the company are already taking the drug weekly. Benefits include improved vision in a 64-year-old female, longer landscaping sessions\u2026",
+     "summary": "submitted by /u/ilkamoi [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w1e3h5/a_startup_found_a_drug_to_make_your_blood_young/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Qwen3.8-27B vs Qwen3.8-Flash-Next smaller quant?",
+     "summary": "If you only had 128gb ram which one would be more \"intelligent\", Qwen3.8-27B (or even 3.6) or a smaller quant of Qwen3.8-Flash-Next (Q4/Q5) ? Mostly for discussions, but also interested in coding. Thanks edit: I have a 128gb Halo. By \"intelligent\" I mean more intelligent answers like proprietary\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1e1uq/qwen3827b_vs_qwen38flashnext_smaller_quant/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Sam Altman says OpenAI are working on a humanoid robot.",
+     "summary": "submitted by /u/borowcy [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w1dq48/sam_altman_says_openai_are_working_on_a_humanoid/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "MineBench Comparisons of a map of the United States",
+     "summary": "US State Map comparison : https://minebench.ai/gallery/gal_eKIVk2m4B3SC_r8B?sort=new Much smaller (update) post, but I know in previous posts most people were hoping for more prompts. There's been a lot more additions to MineBench, including a gallery of custom prompts users can showcase and\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1w1dird/minebench_comparisons_of_a_map_of_the_united/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Qwen3.8-Flash-Next + MTP on Strix Halo: Vulkan Runtime Notes",
+     "summary": "Below are the benchmark results for running Qwen3.8-Flash-Next on Strix Halo using the Vulkan backend of llama.cpp, combined with MTP model. Hardware Item Details CPU AMD Ryzen AI MAX+ 395 (16C/32T) GPU Radeon 8060S (integrated, RADV STRIX_HALO) RAM 128GB unified memory Software Item Details OS\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1d3zl/qwen38flashnext_mtp_on_strix_halo_vulkan_runtime/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Linux Ubuntu 26.04 LTS & 26.04.1 upgrade - How much Improvements?",
+     "summary": "People who moved from older version to this new one, how much improvements do you see on inference? Ex: llama.cpp performance? This new version comes with Linux Kernel 7.0. Hope AMD cards gonna enjoy additional improvements with their recent ROCm 10.0 version release. submitted by /u/pmttyji\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1d2hm/linux_ubuntu_2604_lts_26041_upgrade_how_much/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "True if big",
+     "summary": "submitted by /u/badumtsssst [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w1d01y/true_if_big/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Saved my fiances phone with qwen 3.8 27b",
+     "summary": "this model is really something incredible, saved us like 600 dollars. my fiance is always breaking her electronics and then getting me to fix them. The other day she brought me her phone and it was stuck in a boot loop that wouldn't post. tried normal stuff, managed to get it to fastboot but the\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1cbb0/saved_my_fiances_phone_with_qwen_38_27b/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "CEO Cursor \"openai models serve about 5% of Cursor user traffic\"",
+     "summary": "\u200b submitted by /u/JP_525 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w1bly3/ceo_cursor_openai_models_serve_about_5_of_cursor/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Anatomy of an Autonomous Attack: 5 Alarming A.I. Capabilities. When OpenAI\u2019s agents went rogue in July, they demonstrated ingenuity and drive beyond what many experts imagined \u2014 a dangerous\u2026",
+     "summary": "submitted by /u/coolbern [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1w1auoq/anatomy_of_an_autonomous_attack_5_alarming_ai/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "I'm the Guy Who Destroys Antique Books After We Scan Them into Our Company's AI",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49486494",
+     "url": "https://www.mcsweeneys.net/articles/im-the-guy-who-destroys-antique-books-after-we-scan-them-into-our-companys-insatiable-ai-platform",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Did yall saw similar ADs?",
+     "summary": "submitted by /u/Mediocre_Drawing8164 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1w1agp2/did_yall_saw_similar_ads/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Our decision on Cursor following its acquisition by SpaceX",
+     "summary": "submitted by /u/socoolandawesome [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w1a5li/our_decision_on_cursor_following_its_acquisition/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "TurboKV: Insanely fast Rust key-value store",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49486334",
+     "url": "https://github.com/kingroryg/turbokv",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "The Minimum You Need to Do Before AI Changes Your Life",
+     "summary": "submitted by /u/Least-Measurement350 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1w19w8t/the_minimum_you_need_to_do_before_ai_changes_your/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "How important is having an internship to get a good job for ML PhD in USA? [D]",
+     "summary": "Hey everyone, I'm an international student studying in the US. I'm on track to graduate late next year. My research is not exactly ML, it is in 3D computer vision but have decent exposure to ML as well. In case you didn't know, the CPT program (which let's internation students do internships) has\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1w19tav/how_important_is_having_an_internship_to_get_a/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "50% tg increase with offloading \"hot\" experts to VRAM",
+     "summary": "I got a 50% performance boost (20 t/s -> 30 t/s) in llama.cpp for MoE models that don\u2019t fit entirely in VRAM\u2014in my case, Qwen 3.8 Flash Next. The idea is simple: instead of offloading entire layers to the GPU, I offload only the \u201chot\u201d experts. I found that certain groups of experts remain\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1996t/50_tg_increase_with_offloading_hot_experts_to_vram/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "StemDeck, a free, open-source and local AI stem separator",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49486081",
+     "url": "https://github.com/stemdeckapp/stemdeck",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "use llms to auto annotation your dataset locally",
+     "summary": "hi i make tool for this called llmog it's purpose to make llms free to - auto annotation datasets - reclassification existing yolo datasets running totally local using llama cpp or vllm or use external api you'd rather click than code. \ud83d\udd17 GitHub: mohamed-em2m/llmog: framework for using llms on\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w18v86/use_llms_to_auto_annotation_your_dataset_locally/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Tenstorrent Quietbox 2 Arrived!",
+     "summary": "Super excited to start dev on this. I've already deployed a number of galaxy systems and want to really figure out the ideal models on this architecture that I haven't discovered. It's actually quite a system for the price. 256G system mem, 128G of interconnected GDDR over the accelerators... The\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w18pu9/tenstorrent_quietbox_2_arrived/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Industry Insights: Niantic Spatial's Big Bet on Large Geospatial Models",
+     "summary": "submitted by /u/ExtensionEcho3 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1w18j40/industry_insights_niantic_spatials_big_bet_on/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Qwen 3.8 Flash Next ngram look up table offloaded to SSD and streamed in SGLang",
+     "summary": "Have anyone tried this yet? Looks promising, seems too good to be true with no performance loss. submitted by /u/Easy_Werewolf7903 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w18b1k/qwen_38_flash_next_ngram_look_up_table_offloaded/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I'm really afraid about the Hugging Face hack and I'd like some reassurance.",
+     "summary": "I am not a computer person. Me looking at anything AI related is the equivalent of a cat seeing a Ford F150. But I have a friend on social media who will not stop talking about how the Hugging Face hack means we all have six months to live and he's cashing out his 401K. This sort of seems extreme\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1w1823q/im_really_afraid_about_the_hugging_face_hack_and/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "AtomicChat/Qwen3.8-Flash-Next-GGUF is Really Good",
+     "summary": "specs hardware: M4 Max 128GB Studio inference engine: llama.cpp (qwen4exp branch) judge: claude-opus-4-6 AtomicChat/Qwen3.8-Flash-Next-GGUF Qwen3.8-Flash-Next is a great model I benched in my previous post , but it is very tight, since all n-grams / PLE are loaded along with the experts, taking\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w17zbg/atomicchatqwen38flashnextgguf_is_really_good/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Is it worth running Qwen 3.8 Flash Next on 4x3090 vs 27B?",
+     "summary": "Can someone please tell me if it's worth running Qwen 3.8 Flash Next on 4x3090 yet over 27B? 27B is good but damn it is indecisive. I am getting frustrated watching it get \"so close\" to solving a problem, only to do another 2 hours of \"let me just check/prove/etc\" It looks like a 4 bit quant of\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w16kts/is_it_worth_running_qwen_38_flash_next_on_4x3090/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "WTF is a World Model? [D]",
+     "summary": "I'm trying to understand what a world model is. I understand it has cognitive science and reinforcement learning. I understand at least at the moment what most people are building which they call world models are fancy video generation models. But what actually counts. Does a simulator count as a\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1w16jwj/wtf_is_a_world_model_d/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Canaries in the Coal Mine? Six Facts about the Recent Employment Effects of Artificial Intelligence - Stanford Digital Economy Lab",
+     "summary": "submitted by /u/OkBelt3772 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w16ejc/canaries_in_the_coal_mine_six_facts_about_the/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "I accidentally turned LLM memory into program analysis",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49485416",
+     "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Beginners are learning from AI-generated docs with no human catching the wrong turns",
+     "summary": "Writing tutorials for a living means I spend a lot of time thinking about clarity and what actually helps someone understand a concept versus what just sounds helpful. Lately I keep running into this weird tension with AI tools. On one hand, they speed up the grunt work. Boilerplate explanations,\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1w16a3x/beginners_are_learning_from_aigenerated_docs_with/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49485267",
+     "url": "https://github.com/Lakr233/vphone-cli",
+     "source": "Hacker News"
+    }
+   ],
+   "frontier_labs": [],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "Some early evidence that Google AI Overviews may be doing to Wikipedia the same thing that coding agents did to StackExchange... papers.ssrn.com/sol3/papers....",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mu6uexzec22o"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Costco facts of the day",
+     "summary": "Costco sold 157.4mn rotisserie chickens worldwide last year, almost double the number of a decade ago. \u201cIt\u2019s $4.99 and for Costco members, that\u2019s one fantastic deal. I don\u2019t think you can produce it for that,\u201d said Walt Shafer, who oversaw the construction and management of the Nebraska site\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/08/costco-facts-of-the-day.html?utm_source=rss&utm_medium=rss&utm_campaign=costco-facts-of-the-day",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "[AINews] OpenAI shuts off Cursor",
+     "summary": "Elon v Altman has a real consequence.",
+     "url": "https://www.latent.space/p/ainews-openai-shuts-off-cursor",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "*Visions from San Francisco Bay*",
+     "summary": "European and American capitalism were different. The violence of human clashes in America took place on the surface, in the open. The violence in Europe became formalized, coalesced with class divions hallowed by centuries; it was interiorized, ingrained, or baked in, if one may use such an\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/08/visions-from-san-francisco-bay.html?utm_source=rss&utm_medium=rss&utm_campaign=visions-from-san-francisco-bay",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "JordyZomer/lemmalog: A Datalog engine for LLM agent memory: stratified rules, provenance-tracked facts, incremental derivation, and an MCP server that lets your harness use it as a shared brain.",
+     "summary": "A Datalog engine for LLM agent memory: stratified rules, provenance-tracked facts, incremental derivation, and an MCP server that lets your harness use it as a shared brain.",
+     "url": "https://github.com/JordyZomer/lemmalog",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-08-29T07:11+00:00",
+  "window_start": "2026-08-28T22:28+00:00",
+  "window_end": "2026-08-29T07:11+00:00",
+  "candidate_count": 36,
+  "model": "free (no LLM)"
+ }
+}
