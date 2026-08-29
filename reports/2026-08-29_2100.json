@@ -1,0 +1,163 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Creative destruction",
+   "summary": "This has been a big 2 weeks for local models with 3.8 27B and Next coming out, a lot of \"frontier labs are done\" comments which, in general, could certainly be true. Could be trillions in economic value evaporating here over the next few months as \"normies\" catch on to what just happened in the\u2026",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1xgm1/creative_destruction/",
+   "source": "r/LocalLLaMA"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Creative destruction",
+     "summary": "This has been a big 2 weeks for local models with 3.8 27B and Next coming out, a lot of \"frontier labs are done\" comments which, in general, could certainly be true. Could be trillions in economic value evaporating here over the next few months as \"normies\" catch on to what just happened in the\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1xgm1/creative_destruction/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "You can beat SOTA Time Series Anomaly Detection methods with a 100 year old algorithm [R]",
+     "summary": "You can beat SOTA Time Series Anomaly Detection methods with a 100 year old algorithm Time Series Anomaly Detection (TSAD) seems to be one of the hottest topics in NeurIPS, SIGKDD, VLDB etc. Many (perhaps most) papers evaluate on Paparrizos\u2019 TSB-AD-M benchmark\u2026 However, I tested these benchmark\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1w1wt1s/you_can_beat_sota_time_series_anomaly_detection/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "OpenAI plans to stop supplying models to Cursor on Nov. 12",
+     "summary": "OpenAI says it intends to wind down its contract providing models to Cursor, with a proposed shutoff date of November 12, 2026. OpenAI says Cursor's change of control after SpaceX's acquisition triggered a limited cancellation window, and says it will not provide future models to Cursor. Reuters\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1w1w7f9/openai_plans_to_stop_supplying_models_to_cursor/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Any current Voice2Voice AI model that runs locally that\u2019s good?",
+     "summary": "You guys remember sesame AI? With their really good AI voice model? Obviously ChatGPT has their voice model that\u2019s also really good. Is there any smaller local variant that runs on like consumer grade gpu\u2018s (12,16 24gb?) I think NVidia released something but I didn\u2019t really remember much or look\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1vw3c/any_current_voice2voice_ai_model_that_runs/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Tenstorrent Qwen3.7-27b Benchmarks",
+     "summary": "I saw someone here posted about getting a Tenstorrent QuietBox 2, and I wanted to look into it the hardware. It's very difficult to find any benchmarks, but I managed to find some from an employee. The machine it was benchmarked on has 2 p300c's, their top of the line card, that's not sold\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1vtfo/tenstorrent_qwen3727b_benchmarks/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Qwen3.8-27B thinking xhigh Vs. thinking off - Apple M5 Max",
+     "summary": "I ran a few benchmarks on my MacBook Pro M5 Max with oMLX: Running Qwen3.8-27B with thinking off has a big effect on output quality. Running it with thinking on xhigh burns 5.5x the tokens and runs 6x longer. The amount of thinking that Qwen3.8-27B puts into its work is really enormous - this has\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1vbal/qwen3827b_thinking_xhigh_vs_thinking_off_apple_m5/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Warp builds self-improving agents on Claude",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49492432",
+     "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "67-84 t/s DeepSeek flash v4 off 2x GX10s",
+     "summary": "Finally achieved usable results with 2 gx10 at over 65 tokens a second sustained. The 2570 prompt eval is really crucial for me as well. Overall stoked 10/10 edit: I followed this setup with 2 ASUS GX10 DGX computers :)\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1uug2/6784_ts_deepseek_flash_v4_off_2x_gx10s/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "llama.cpp Open PRs list - CPU/RAM/Disk/Hybrid Related - Better for CPU-only & Hybrid inference",
+     "summary": "Folks! We're just 50 PRs away from more faster inference . Hopefully by end of year. Experts!, please chip in there. List of Open/Ongoing PRs(and also Discussions) related to CPU/RAM/Disk/Hybrid: [Discussion] RFC: MoE expert cache, VRAM caching of hot CPU-resident experts with hybrid hit/miss\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1uu6d/llamacpp_open_prs_list_cpuramdiskhybrid_related/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "(NInfer Fork) I wanted to have a 1M context Qwen-3.8 27B, tp2, dual 5090s",
+     "summary": "Hey! I forked NInfer (a from-scratch C++20/CUDA inference engine for Qwen models) and added two things: tensor-parallel across two GPUs, and YaRN \u00d74 rope scaling. Together they let Qwen3.8-27B NVFP4 run a 1,048,576-token context on two consumer 5090s \u2014 27.4 GB per card, no NVLink. Numbers (single\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1txyk/ninfer_fork_i_wanted_to_have_a_1m_context_qwen38/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "vLLM v0.28.0",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49492067",
+     "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Finished ML + DL \u2014 what should I do next? [D]",
+     "summary": "I\u2019ve recently completed learning Machine Learning and Deep Learning, including the mathematics behind the major concepts and algorithms rather than just learning to use libraries. My long-term goal is to eventually become capable of doing research at the level of NeurIPS, ICML, and ICLR. I\u2019m not\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1w1tr86/finished_ml_dl_what_should_i_do_next_d/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "This finance-model benchmark card is more useful for what it discloses than for who \"wins\"",
+     "summary": "The official benchmark card for Ling-3.0-flash-Fin is a useful reminder that the unit being tested is rarely just \u201cthe model.\u201d The release says most runs used temperature 1, top_p 0.95 and the highest available reasoning effort. FinFIRST and FinSearchComp Verified used a common ReAct scaffold with\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1tfkc/this_financemodel_benchmark_card_is_more_useful/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Best first model for high RAM, limited VRAM for coding",
+     "summary": "Hi all, I'm looking to try out a local model for agentic coding (for now; seems like an easy starting place). I've used opencode and cloud-based open models for personal projects and I'm hoping to sell colleagues on local models. At home I only have a 2018 laptop so no possibility to try things\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1t3aw/best_first_model_for_high_ram_limited_vram_for/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Good Culture Is the Biggest Productivity Hack, Not AI",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49491568",
+     "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "I\u2019ve pushed llama.cpp pretty far for Qwen3.8-Flash-Next \u2014 is there any reason not to move to vLLM for 200K+ context?",
+     "summary": "I'm currently running Qwen3.8-Flash-Next on a CMP 170HX 64GB + RTX 3090 24GB, with 80GB system RAM. With llama.cpp I've already spent quite a bit of time tuning it: layer split across the two GPUs, PLE on CPU, q8 KV, Flash Attention, detached MTP draft on the 170HX, and some custom MTP/runtime\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1riio/ive_pushed_llamacpp_pretty_far_for/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Sony Music, Warner sue Anthropic, alleging a \u201cbrazen campaign\u201d of intellectual property theft",
+     "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+     "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Sony Music and Warner Chappell are suing Anthropic",
+     "summary": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "\u201cWe\u2019re not doing 30 bets a year\u201d: Vijay Pande on betting small after running $4 billion at a16z",
+     "summary": "Vijay Pande \u2014 who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC \u2014 talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared\u2026",
+     "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+     "source": "TechCrunch AI"
+    }
+   ],
+   "influencer_takes": [],
+   "research_radar": [
+    {
+     "headline": "Saturday assorted links",
+     "summary": "1. Roger Myerson now has a Substack. 2. The future of higher education? 3. Another look at data centers in space. 4. \u201cThe Global Economics Lab is a non-partisan organization located at Harvard and draws on a network of faculty affiliates across universities. We conduct policy-relevant research on\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/08/saturday-assorted-links-576.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-576",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "raamonp/rl-gym-orchestrator: Ultimate LLM Gym Trainer Guide 2026: Reinforcement Learning Fine-Tuning Framework",
+     "summary": "Ultimate LLM Gym Trainer Guide 2026: Reinforcement Learning Fine-Tuning Framework",
+     "url": "https://github.com/raamonp/rl-gym-orchestrator",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "genoskietv/AdalFlow-Optimizer: Build & Auto-Optimize LLM Apps in 2026: The Ultimate AdalFlow Guide",
+     "summary": "Build & Auto-Optimize LLM Apps in 2026: The Ultimate AdalFlow Guide",
+     "url": "https://github.com/genoskietv/AdalFlow-Optimizer",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-08-29T21:00+00:00",
+  "window_start": "2026-08-29T16:47+00:00",
+  "window_end": "2026-08-29T21:00+00:00",
+  "candidate_count": 22,
+  "model": "free (no LLM)"
+ }
+}
