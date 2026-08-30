@@ -1,0 +1,127 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Amazon is killing Mechanical Turk. By the end, a third of the humans on it were secretly using AI to do the work",
+   "summary": "Amazon announced this week that Mechanical Turk closes on September 30 after 21 years. Bezos originally called it \"artificial artificial intelligence\". the joke being that it handed humans the tasks computers couldn't do yet. 500 000 people at peak, a few cents a task, labelling images and\u2026",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/artificial/comments/1w2snwd/amazon_is_killing_mechanical_turk_by_the_end_a/",
+   "source": "r/artificial"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Amazon is killing Mechanical Turk. By the end, a third of the humans on it were secretly using AI to do the work",
+     "summary": "Amazon announced this week that Mechanical Turk closes on September 30 after 21 years. Bezos originally called it \"artificial artificial intelligence\". the joke being that it handed humans the tasks computers couldn't do yet. 500 000 people at peak, a few cents a task, labelling images and\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1w2snwd/amazon_is_killing_mechanical_turk_by_the_end_a/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "We used HFlow to evaluate the latest open weights VLMs for processing egocentric data",
+     "summary": "We used HFlow to evaluate the latest open weights VLMs for processing egocentric data. This was based on Build AI's Egocentric-10k evaluation , which used Gemini 2.5 Flash to measure hand visibility and active manipulation. We kept the same prompts and the same dataset, only varying the model. How\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2r6v8/we_used_hflow_to_evaluate_the_latest_open_weights/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Are there any interesting architectural innovations that we seem to be on the verge of for LLM models or AI models that might be a big deal? (Excluding maybe N-gram, since everyone is already well\u2026",
+     "summary": "So, ideally for this thread we exclude the ones that everyone on here is already well aware of and discussing on here a lot, like N-gram, quantization improvements, MTP, D-flash, and D-spark, since those are improvement areas that most people on here are already pretty familiar with. I'm more\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2r37q/are_there_any_interesting_architectural/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "NeurIPS accepted papers leaked? [D]",
+     "summary": "I found this GitHub link, and the HTML file contains ~7k papers. Some are anonymized, and the details seem pretty accurate. It looks like these might actually be the accepted papers. https://github.com/xll0328/NIPS26- Can someone confirm whether this list is legit? I\u2019m hoping it\u2019s just a\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1w2r1f3/neurips_accepted_papers_leaked_d/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Demo of local document extraction (52 pages) using Arctic Embed and Bonsai 8B on an Iphone 16 (KernelAI app)",
+     "summary": "Hello everyone, Just sharing this cool and useful feature in the KernelAI mobille app. It works on pretty much any model, and the ability to run both an 8B model + extraction is pretty impressive. For IOS 26 folks, you can use this with the Apple foundation model that does not need any\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2qe1t/demo_of_local_document_extraction_52_pages_using/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Qwen3.8-27b-UD-IQ3XXS - End to end Build App -> Prompt Flow-> Test to Image -> Image to Video - Stitch",
+     "summary": "submitted by /u/dreamai87 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2qcf0/qwen3827budiq3xxs_end_to_end_build_app_prompt/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Will apple still release devices with mobile HbM in 2027 ?",
+     "summary": "In 2025, they were planning to release an iphone with mobile hbm in 2027; perhaps they have scraped this idea due to higher memory prices. It will be great if they made affordable mobile hbm for macs and iphones, ipads. submitted by /u/power97992 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2qb2y/will_apple_still_release_devices_with_mobile_hbm/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "NVIDIA\u00ae DGX Station\u2122 Delivering Data-Center-Class Performance from the Desktop",
+     "summary": "This might be worth it for some small business. 7.1tb vram bandwidth submitted by /u/SpendLucky1273 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2q1ug/nvidia_dgx_station_delivering_datacenterclass/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Whatever happened to OpenClaw and its derivatives?",
+     "summary": "OpenClaw was all the rage a few months ago but the hype seems to have died down. Are you guys using it for any of your needs? submitted by /u/cdrfrk [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2q1hx/whatever_happened_to_openclaw_and_its_derivatives/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Here my pretty good qwen3.8 27B setup, hope it helps",
+     "summary": "Since I spent the time to figure it out and it is not like it will make me any money ever. I think I'd share with you all what I managed to cobble together. First and foremost here the relevant bits about my hardware and software stack: OS: Debian 13 CPU: 8700G GPU: 7900XTX (this GPU has 24GB VRAM\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2pvsd/here_my_pretty_good_qwen38_27b_setup_hope_it_helps/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Why open source rocks \u2013 a new SM750 (Silicon Motion GPU) HDMI Driver",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49501611",
+     "url": "https://github.com/KodeMunkie/sm750hdmifb",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Genuinely curious how people running AI agencies actually started. Not the polished version, the real one.",
+     "summary": "Every time I read about someone running an AI agency, it sounds very clean. \u201cIdentified a niche, got clients, scaled.\u201d But I have a feeling the actual story is messier than that. So I want to ask people who are actually doing it: How did you really start? Like what was the actual first step that\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1w2oyli/genuinely_curious_how_people_running_ai_agencies/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Qwen 3.8 Flash Next locally on simple mobile phone at 3.5 tok/s",
+     "summary": "Qwen 3.8 Flash Next (80gb) now at 3.5 tok/s on 12gb mid range android phone thanks to some optimizations and with a low quantization on dense part. I don't want to promote the project, but simply show that it's possible on a $400\u2013$500 phone submitted by /u/dai_app [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2nz07/qwen_38_flash_next_locally_on_simple_mobile_phone/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Unpopular opinion Qwen 3.8 is hard to understand",
+     "summary": "I find both Qwen 3.8 27b and Qwen 3.8 Flash Next difficult to read. Here's some examples of what I mean: **Model-visible tool set per turn** (assembled by the host at provider-request time): persona tool allowlist \u2229 session tool surface \u2229 tools not `deny`-classified under the active permission\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2ncr5/unpopular_opinion_qwen_38_is_hard_to_understand/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Musk\u2019s faster path to more gas turbines comes with pollution problem",
+     "summary": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else \u2014 but it's a bet on a fuel source that's already triggering lawsuits and health studies everywhere his (and others') turbines have gone in.",
+     "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+     "source": "TechCrunch AI"
+    }
+   ],
+   "influencer_takes": [],
+   "research_radar": [
+    {
+     "headline": "Russia markets in everything",
+     "summary": "While Western export bans have severed Russia from much of the auto market, they have not tempered the demand for brand-name SUVs and trucks. That has given rise to a sophisticated network of criminals that steals cars, hides them in shipping containers and sends them to Russia, often by way of\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/08/russia-markets-in-everything.html?utm_source=rss&utm_medium=rss&utm_campaign=russia-markets-in-everything",
+     "source": "Marginal Revolution"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-08-30T21:15+00:00",
+  "window_start": "2026-08-30T16:49+00:00",
+  "window_end": "2026-08-30T21:15+00:00",
+  "candidate_count": 16,
+  "model": "free (no LLM)"
+ }
+}
