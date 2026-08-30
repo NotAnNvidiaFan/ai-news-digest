@@ -1,0 +1,207 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "an unscientific qwen 3.8 flash next and glm 5.3 flash comparison",
+   "summary": "I stole the reference image from a recent post on r/stablediffusion , and then asked both qwen 3.8 flash next (q4 K XL) and GLM flash (oQ4e MLX) to choose try to reproduce it into a \"video game or tech demo\" as closely as possible, iterating over a period of (up to) about an hour and a half each.\u2026",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w28alw/an_unscientific_qwen_38_flash_next_and_glm_53/",
+   "source": "r/LocalLLaMA"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "an unscientific qwen 3.8 flash next and glm 5.3 flash comparison",
+     "summary": "I stole the reference image from a recent post on r/stablediffusion , and then asked both qwen 3.8 flash next (q4 K XL) and GLM flash (oQ4e MLX) to choose try to reproduce it into a \"video game or tech demo\" as closely as possible, iterating over a period of (up to) about an hour and a half each.\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w28alw/an_unscientific_qwen_38_flash_next_and_glm_53/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "FlashMLA sm_120 kernel build with 2-3x performance increase from SPDA",
+     "summary": "Hey guys I have been working on a open source LLM development repo. Anyone can train any amount of parameter against any arch (GQA, MLA, Dense...) When I tried to implement MLA I read the technical research paper on deepseek implementation and found they used FlashMLA for fast training and\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w27woy/flashmla_sm_120_kernel_build_with_23x_performance/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Ran Qwen3.8-Flash-Next (79 GB, 2-bit) at 350K ctx for 3.5 hours on a 128 GB M5 Max \u2014 speed vs context depth, 100 turns, one graph",
+     "summary": "Setup: MacBook Pro M5 Max, 128 GB unified, macOS 26.5.2 \u00b7 llama.cpp b10686 (Metal, 12 threads, batch 2048, flash-attn, kv-unified, ngram-mod spec decode) \u00b7 Qwen3.8-Flash-Next UD-Q2_K_XL (Unsloth), 78.9 GB \u00b7 358,400-token context slot via YaRN from the native 262,144, fp16 KV. Weights + full 350K\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w26y0w/ran_qwen38flashnext_79_gb_2bit_at_350k_ctx_for_35/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "AI for business and industry? Where is this taking the human race?",
+     "summary": "Hi all. I find myself kinda \u201ctripping out\u201d on certain topics and ideas from time to time. Here\u2019s my recent one that pertains to AI and the direction that it could be driving humanity. I\u2019m sure it\u2019s a common discussion on Reddit, but I\u2019d love to spin it in my own way and hear what yall think. \ud83e\udd14 So\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1w25b52/ai_for_business_and_industry_where_is_this_taking/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "I built a \u201cBest LLMs for Coding\u201d guide from 11 benchmark boards \u2014 what evidence am I missing?",
+     "summary": "TL;DR: 11 coding benchmark boards are normalized by field-size percentile, de-duplicated by benchmark family, and combined across repository, agentic, live-coding, and function-generation tasks. The current snapshot covers 98 model series and 268 evidence rows. I\u2019m looking for missing leaderboards\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w24xvk/i_built_a_best_llms_for_coding_guide_from_11/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "What would you do with $4,000?",
+     "summary": "I already have a 5090 that I use got Hermes and coding mostly. My only jealously is trying models that don\u2019t fit in my VRAM. I do want to get into some more media creation (the 5090 would be better for it, I know) and I was thinking I could use a spark for coding too (give it some problems that a\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2479z/what_would_you_do_with_4000/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "GLM 5.3 weights are now public",
+     "summary": "submitted by /u/badumtsssst [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w243so/glm_53_weights_are_now_public/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "*ACL Findings or TMLR? [D]",
+     "summary": "Expecting a rejection from NeurIPS given our scores of 5/2/2. Trying to decide between ARR vs. TMLR, but thinking NAACL findings are more likely than main conference. Would you rather have TMLR or *ACL findings on your publication list? Genuinely curious to hear what people have to say. submitted\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1w23w2l/acl_findings_or_tmlr_d/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Who benefits the most from AI going at this exponential pace?",
+     "summary": "I\u2019m just wondering beyond the basics Why are they so obsessed with going so fast - will they really be so behind forever. The only answer I come down to is to get more money, spend more, more investors, the gold rush. So the wrecking ball just gets bigger and faster making the players pushing it\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1w23ewv/who_benefits_the_most_from_ai_going_at_this/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Westworld scenario",
+     "summary": "Do you think it will happen within our lifetime? Or ever? Such theme parks, yes, but also generally 100% human-looking androids? Would you even like to see it happen? submitted by /u/StevieFindOut [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w23bd2/westworld_scenario/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Visual comparison of various models - a very subjective, but kind of interesting comparison method",
+     "summary": "I was messing around with different skills, RAG and models and got somewhat interesting results that maybe would be interesting to somebody. Quick backstory This all started with Minimax H3 and its annoying querying syntax. I didn't feel like writing it out myself, so I have created a pi.dev skill\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w21qz0/visual_comparison_of_various_models_a_very/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Nemotron-3.5-Lightning at 11.77 GiB, a 16 GB option for a model that didn't have one",
+     "summary": "TL;DR: Every public low-bit GGUF of this model is secretly ~4.70 bpw. Shim the rows to 256 and it becomes a real 3.07 bpw / 11.77 GiB file that runs 262K context on 16GB. Needs patched llama.cpp \u2014 not LM Studio or Ollama. In the AtomicChat HuggingFace repo it says \"There is currently no good 16 GB\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w21d86/nemotron35lightning_at_1177_gib_a_16_gb_option/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "OpenAI and especially Anthropic have WEAKENED the models intelligence in novel research work.",
+     "summary": "I accomplished 10x the work with last years models doing novel research work. Anthropic and OpenAI smartest models are now the most useless when it comes to achieving any thing that can be attributed to meaningful progress in research domains that could potentially threaten their dominance. Its\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1w21abv/openai_and_especially_anthropic_have_weakened_the/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Humaneval benchmark for Deepseek V4 Flash 0731 vs GLM5.3 Flash on 2x DGX Spark setup",
+     "summary": "I have a 2 DGX Spark setup recently and I have been happily running Deepseek V4 Flash 0731. Since the release of GLM5.3 Flash and Qwen 3.8 Flash Next this week, a lot of folks are still waiting to see what model to run given their own hardware situations. I am very interested in running a GLM\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w215qm/humaneval_benchmark_for_deepseek_v4_flash_0731_vs/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Create a problem, sell a solution",
+     "summary": "submitted by /u/GeneReddit123 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w20pkq/create_a_problem_sell_a_solution/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Any reason to use Qwen 3.8 Next UD IQ1_S over Qwen 3.8 27B UD Q4?",
+     "summary": "It is 6 times slower on my system, and at Q1 it\u2019s about 70+ accuracy. submitted by /u/freedomachiever [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1zy1p/any_reason_to_use_qwen_38_next_ud_iq1_s_over_qwen/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Open-source access-control checker for retrieval-based AI applications [P]",
+     "summary": "Hey Guys, I built a small open-source tool that checks whether a RAG application retrieves documents a user shouldn\u2019t have access to. It supports offline test cases and live HTTP API testing with bearer token/API-key auth. I\u2019m looking for a few engineers to try it on a test or non-sensitive\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1w1zm5m/opensource_accesscontrol_checker_for/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Map of AI: we built a living map of the AI ecosystem",
+     "summary": "submitted by /u/No_Drummer7550 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w1zgk1/map_of_ai_we_built_a_living_map_of_the_ai/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Do you use a whiteboard when thinking? [D]",
+     "summary": "Hello all, here is a chill post. When I was an undergrad, I really liked working things out on a whiteboard. Drawing stuff, talking through ideas out loud, testing little hypotheses. Now I work in radar DSP, and a lot of my work is code, numerical experiments, deep learning and waiting for\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1w1yv9b/do_you_use_a_whiteboard_when_thinking_d/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Aptera announces a $44M to design and build a solar electric vehicle",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49493563",
+     "url": "https://frequal.com/aptera/ProductionDealAug2026.html",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Is this hallucination or is Ox Alpha actually using Anthropic inference?",
+     "summary": "Surprised by it \u201csaying\u201dit twice in different chats. submitted by /u/robertovertical [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w1yet7/is_this_hallucination_or_is_ox_alpha_actually/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Qwen3.8-Flash-Next protip tensor-read-lazy on requires load-mode mmap",
+     "summary": "I expected the Q4 to fit on my system with tensor-read-lazy on but I kept running out of memory. Turns out load-mode auto wasn't using mmap. But once I turned it on manually, I got it to work! llama-bench -m models/qwen/Qwen3.8-Flash-Next-UD-Q4_K_XL-00001-of-00004.gguf --device\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1y3yo/qwen38flashnext_protip_tensorreadlazy_on_requires/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "frontier_labs": [],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "Was just skimming through the webpages of some of my favorite hard science fiction authors and wow the majority of them hate LLMs: a surprising number of them because they think it is a useless parrot that doesn\u2019t work(!), some because of IP, and a minority because of worries about existential risk.",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3muaw46wixc2b"
+    },
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "It might soon be disrespectful to use a weaker AI model for producing human-facing content: \u201cyou saved 6 cents to make me read through error-filled & badly written AI slop? At least send me high quality and low-error slop that doesn\u2019t waste my time.\u201d",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3muavt5mrv22b"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "China fact of the day",
+     "summary": "Chinese actors and online influencers have a new rival: cost-effective advanced AI video generation programmes that are threatening millions of jobs in a once-vibrant area of China\u2019s gig economy. The release of powerful new AI-powered video software, such as tech group ByteDance\u2019s Seedance 2.0\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/08/china-fact-of-the-day-81.html?utm_source=rss&utm_medium=rss&utm_campaign=china-fact-of-the-day-81",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Introducing Hy4 Preview",
+     "summary": "Introducing Hy4 Preview New open weight text input (no vision) LLM from Chinese company Tencent today: 770B total parameters, 49B active parameters, 1M token context window, 1.56TB on Hugging Face . This is a big size increase from their previous Hy3 in July, which was 295B, 21B active, 256,000\u2026",
+     "url": "https://simonwillison.net/2026/Aug/29/hy4/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "useagenthq/useagent: Hand off the work. Get back the result. The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work -\u2026",
+     "summary": "Hand off the work. Get back the result. The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work - websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
+     "url": "https://github.com/useagenthq/useagent",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "TTheuPP/NLP-LLM-Orchestrator-FineTuner: Master LLM Fine-Tuning Trainer 2026: Advanced NLP Optimization Toolkit",
+     "summary": "Master LLM Fine-Tuning Trainer 2026: Advanced NLP Optimization Toolkit",
+     "url": "https://github.com/TTheuPP/NLP-LLM-Orchestrator-FineTuner",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "omaekumiko2-create/kru: Local-first MCP password and credential manager for AI agents. Use passwords, API keys, SSH identities, and TOTP without exposing hidden plaintext to the model.",
+     "summary": "Local-first MCP password and credential manager for AI agents. Use passwords, API keys, SSH identities, and TOTP without exposing hidden plaintext to the model.",
+     "url": "https://github.com/omaekumiko2-create/kru",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-08-30T05:33+00:00",
+  "window_start": "2026-08-29T21:00+00:00",
+  "window_end": "2026-08-30T05:33+00:00",
+  "candidate_count": 29,
+  "model": "free (no LLM)"
+ }
+}
