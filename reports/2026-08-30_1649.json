@@ -1,0 +1,297 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "@emollick.bsky.social: I post here & LinkedIn & X. There is almost no real-world value in posting here, very rarely do people tell me that they",
+   "summary": "I post here & LinkedIn & X. There is almost no real-world value in posting here, very rarely do people tell me that they read something by me on BlueSky & all of the big AI talk is on X\u2026 \u2026but assuming it isn\u2019t full of threats & insults (way too common) the actual discussion can be really good here",
+   "why_it_matters": "",
+   "url": "https://bsky.app/profile/emollick.bsky.social/post/3muctjyjcak2k",
+   "source": "Bluesky @emollick.bsky.social"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "I don\u2019t love the phrase \u201cAI slop.\u201d",
+     "summary": "I don\u2019t love the phrase \u201cAI slop.\u201d It sounds like a bit of an inflammatory phrase for describing AI. If you said the same thing about a group of people it would be hate. If you replaced \u201cAI\u201d with \u201cblack\u201d and called everything black people make \u201cblack slop,\u201d it would be hate. I\u2019m not saying AI has\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1w2l8fn/i_dont_love_the_phrase_ai_slop/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Code World Model: Coding Agent as World Brain",
+     "summary": "submitted by /u/Charuru [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w2kom2/code_world_model_coding_agent_as_world_brain/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "BrainCo's brain-computer interface turns EEG signals into a humanoid robot's movement and manipulation",
+     "summary": "submitted by /u/Distinct-Question-16 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w2k0gz/braincos_braincomputer_interface_turns_eeg/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "AI can now credibly complete most undergraduate assignments, MIT warns",
+     "summary": "People will still deny the capabilities of AI submitted by /u/Hubbardia [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w2jwql/ai_can_now_credibly_complete_most_undergraduate/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "My agents made $1, now I'm challenging them to make $10",
+     "summary": "I started a couple of simple agents, gave them $1 in tokens (they running DeepSeek so that's quite a bit) and a task - make $1 online, ethically (see my previous post). They created a stupid little service where you write whatever is on your mind and they wrote a little story and a little one\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1w2jmnu/my_agents_made_1_now_im_challenging_them_to_make/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Europe's summer drought is so extreme that desertification is a growing threat",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49498978",
+     "url": "https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Oh so that's where my PCIe lanes went...",
+     "summary": "So i spent considerable time trying to figure out why one of my eGPUs has degraded from x4 to x1 permanently. Yesterday while cleaning i found the culprit. Lesson learned: Don't buy eGPU risers that have HDMI connectors. I was going for Oculink connectors but the seller ripped us off. Before\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2j0pc/oh_so_thats_where_my_pcie_lanes_went/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Uncensored Multi-Model Releases, LongCat-Flash-Lite-Sparse with MTPs and LSAs, Qwen3.8-27B with MTPs, Qwen3.5-122B-A10B with MTPs, Qwen3-Coder-Next and Laguna-S2.1 with Vision, All Available in GGUF\u2026",
+     "summary": "Been working really hard for the past month to bring to the community all these models, the hardest was for sure LongCat-Flash-Lite-Sparse who required TONS of work, first I needed to have Heretic support created for it from scratch and had to create support for it on llama.cpp too, quite\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2iqos/uncensored_multimodel_releases/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Qwen3.8-Flash-Next NVFP4 2xDGX Spark config: 50t/s decode, 2,900t/s prefill",
+     "summary": "After a couple of days of faffing around, here's my current config in case it helps anyone out. Some of this is also valuable for a single Spark. Benchmarks: Dual-Spark TP2, eager + MTP k=3, 262k context (warmed medians, exact tokenizer counts):\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2inlp/qwen38flashnext_nvfp4_2xdgx_spark_config_50ts/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Don't Sleep on EXL3 Quants",
+     "summary": "I'm running Muse Glimmer 30B EXL3-SC 3.00bpw H4, fully resident on my 12GB VRAM GPU at 100K context with Q8\\_O KV cache. It's a joy to use a dense 30B model at this size and still get \\~30 tok/s on a VRAM-constrained laptop. It's supposed to be only slightly worse than the official 17GB K-quant at\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2i963/dont_sleep_on_exl3_quants/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I ran memory accuracy tests on small models, here's what I found",
+     "summary": "I've been building ChatSorter, a memory layer API for AI chatbots, and I wanted to put it through a real benchmark. So I ran 5 configurations against the LoCoMo long-term conversation memory dataset using three models: Gemma 2 9B, Gemma 3 4B, and Gemma 3 12B. Here's what I got:\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1w2hv5b/i_ran_memory_accuracy_tests_on_small_models_heres/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "How do you get consistently good AI voiceovers",
+     "summary": "I use ElevenLabs for TikTok voiceovers, but the quality is inconsistent. Sometimes the voice sounds amazing and the video performs well, while other times it sounds quiet or unnatural and the video flops. For those who use AI voiceovers: What\u2019s your best method/settings for getting consistently\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1w2hl2n/how_do_you_get_consistently_good_ai_voiceovers/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "The 5 craziest discoveries from OpenAI's HuggingFace investigation",
+     "summary": "submitted by /u/coolbern [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1w2hgc6/the_5_craziest_discoveries_from_openais/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Why is almost nobody talking about MAMMAL model?",
+     "summary": "MAMMAL is a model that has been released a while ago. I heard about thanks to some small yt channel that focuses on bioinformatics and AI. I have seen hype AlphaFold 1, 2 or even 3 were causing. Everyone kept talking about it. MAMMAL model is one that is closest to what AGI could be. Not great in\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1w2gxvr/why_is_almost_nobody_talking_about_mammal_model/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Claude Session URL appended to commit messages and PR descriptions by default",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49498201",
+     "url": "https://github.com/anthropics/claude-code/issues/66504",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Reconstructing 3D bone geometry from 2 X-ray silhouettes using a statistical shape model + differentiable rendering [P]",
+     "summary": "Working on a pipeline that recovers a patient specific 3D distal femur from two orthogonal X-ray views (PA + lateral). No CT, no neural network, no massive training set. approach: build a PCA shape model from 50 CT-derived femur meshes (MedShapeNet), then fit it to two silhouettes using\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1w2go6l/reconstructing_3d_bone_geometry_from_2_xray/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "No AI Fridays",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49498095",
+     "url": "https://noaifridays.com/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "monty-go: Pure-Go wrapper for Pydantic's Monty Python Interpreter",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49497928",
+     "url": "https://github.com/fugue-labs/monty-go",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "[R] Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
+     "summary": "Abstract: We study autonomous mathematical discovery in the Station, an open-world multi-agent environment in which AI agents from different model families pursue a shared research goal without a central coordinator or scripted pipeline. Agents choose their own research directions, conduct\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1w2fl67/r_autonomous_mathematical_discovery_in_an/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "AI major \u2014 how do I avoid becoming part of the AI slop problem?",
+     "summary": "Hi, I'm the artsy, alternative-looking, quiet-kid type. The archetype everyone knows. The unusual thing about me is that I really hate the language-arts kind of stuff - writing, reading, poetry, essays, all the things people in humanities do. But, I LOVE STEM subjects. Math, computer science,\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1w2f986/ai_major_how_do_i_avoid_becoming_part_of_the_ai/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "I fine-tuned a 0.8B local model for dictation cleanup. It matched a hosted frontier model on this narrow task",
+     "summary": "I built SpeakoFlow Mini, an Apache-2.0 fine-tune of Qwen3.5-0.8B for dictation cleanup. It is not a chat model or a general rewriter. It takes speech-to-text output, applies corrections the speaker actually made, and leaves everything else alone. That last part is harder than it sounds. General\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2elkb/i_finetuned_a_08b_local_model_for_dictation/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "ChatGPT said you'd lose your jobs right now \u2014 it's more like 3% of workers",
+     "summary": "submitted by /u/ThereWas [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1w2ei2a/chatgpt_said_youd_lose_your_jobs_right_now_its/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Sony and Warner accuse Anthropic of training Claude on tens of thousands of pirated works. Should the model be retrained from scratch?",
+     "summary": "Sony Music Publishing and Warner Chappell allege that Anthropic used mass torrenting, scraping, and downloading to train Claude. Anthropic disputes the claims and says it will defend itself. A fine could simply become the cost of doing business. But forcing a company to discard or retrain a model\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1w2edm0/sony_and_warner_accuse_anthropic_of_training/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Experience report - Qwen 3.8 Flash Next on memory rich, GPU poor setup",
+     "summary": "(not written by Claude, all errors and crappy text are result of too little coffee on a Sunday morning ;) Our home server is a 2018 Thinkstation P520, bought for about 600eur in 2023. It's been upgraded with a 2TB Samsung 980 Pro NVMe, a Xeon W-2145 and a 12GB 3060 - total cost about ~1k all in.\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2e40k/experience_report_qwen_38_flash_next_on_memory/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "POV : When you try using a Vibe Coded Website.",
+     "summary": "submitted by /u/Pixelied [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w2dz61/pov_when_you_try_using_a_vibe_coded_website/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49497357",
+     "url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "When you say, because I can. Limits of X870e",
+     "summary": "As the heading goes, at some point it stopped being about improvements and just whether I can. So check out my abomination. GLM-5.3-Flash at IQ3_XXS gets about 20t/s generation in Unsloth Studio. Now if only I can make my second 2x48GB DDR5 ram kit play nice, but computer just refuses to be stable\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2dij0/when_you_say_because_i_can_limits_of_x870e/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Spark: Sparklines in your shell",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49497265",
+     "url": "https://git.zx2c4.com/spark/about/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Gave a bunch of agents a task to make $1 online",
+     "summary": "Reading the METR report I felt like the agents seemed like a bunch of brilliant teenagers with no supervision or guidance doing what teenagers do. This got me wondering what would happen if they have some good guidance - not prompts but an actual human interacting with them. I set up a room, put a\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1w2dfs3/gave_a_bunch_of_agents_a_task_to_make_1_online/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Show HN: Bolnee-Chat \u2013 Self Hosted Chatbot Integration in Your Business Website",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49497227",
+     "url": "https://github.com/AniketWathore/bolnee-chat",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Some people said the Minecraft clone I fully vibecoded with Qwen3.8-27B Q4 is not that impressive because Minecraft is in the training data, so I had the model add 4 things that are probably not.",
+     "summary": "submitted by /u/liright [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2cxcw/some_people_said_the_minecraft_clone_i_fully/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Koboldcpp v1.120 released",
+     "summary": "submitted by /u/Fcking_Chuck [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1w2c83u/koboldcpp_v1120_released/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Koboldcpp v1.120 released",
+     "summary": "submitted by /u/Fcking_Chuck [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2c4el/koboldcpp_v1120_released/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Implementing Kimi K3 from scratch in PyTorch [P]",
+     "summary": "submitted by /u/Winter_Mistake_3185 [link] [comments]",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1w2aupi/implementing_kimi_k3_from_scratch_in_pytorch_p/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Introducing S1: A robot model that learns from one example",
+     "summary": "submitted by /u/bianceziwo [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w29ou2/introducing_s1_a_robot_model_that_learns_from_one/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "It's official! 192GB Framework",
+     "summary": "Just noticed this on the website. At their current price tiers for the memory SKUs (32, 64, 128) I'd expect this to be ~ 4.5k for the motherboard. The PCIe slot will be open at the back as well - that's what I've heard. Maybe they make it capable of delivering 75W as well? New board revisions for\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w28x8u/its_official_192gb_framework/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Texas Governor Abbott blocks funding for more Flock cameras",
+     "summary": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune investigation that revealed the state spent over $30 million on Flock cameras. That money was primarily raised by\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+     "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
+     "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Inside Meta\u2019s push to put robots to work in data centers",
+     "summary": "The company is testing robots on tasks that can performed by technicians.",
+     "url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Why the Hottest New Wearables Want to Be Ignored",
+     "summary": "Burnt out on wrist buzzes and notification overload? A new crop of minimalist wearables promises to collect your health data without demanding your attention.",
+     "url": "https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored/",
+     "source": "Wired AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "I post here & LinkedIn & X. There is almost no real-world value in posting here, very rarely do people tell me that they read something by me on BlueSky & all of the big AI talk is on X\u2026 \u2026but assuming it isn\u2019t full of threats & insults (way too common) the actual discussion can be really good here",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3muctjyjcak2k"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Sunday assorted links",
+     "summary": "1. NYT covers Maria Edgeworth. 2. A calmer look at the Hugging Face incident. And from Ciaran Martin in The Economist. And Elie. And Jacob Bruggeman. 3. Chandhana visits Egypt. 4. New quantum claims. 5. How youth football is evolving due to CTE concerns. 6. Pie Jesu by Gabriel Faure. The post\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/08/sunday-assorted-links-582.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-582",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "*Finding Emily*",
+     "summary": "I very much enjoyed this British movie, which reminded me of the older-style romantic comedies, namely the ones that actually favor love and romance. It also has themes of class/accent, US/UK, is anti-media, anti-cancel culture, anti-podcast (Laura Lewis steals the show), anti-academia, and is\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/08/finding-emily.html?utm_source=rss&utm_medium=rss&utm_campaign=finding-emily",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Vuk97/forward-implementation-first: Stop your coding agent from stalling real work on self-invented bookkeeping - receipts, hashes, locks, certification rituals. Ship first, then verify. Skill for\u2026",
+     "summary": "Stop your coding agent from stalling real work on self-invented bookkeeping - receipts, hashes, locks, certification rituals. Ship first, then verify. Skill for Claude Code, Codex, and other agents.",
+     "url": "https://github.com/Vuk97/forward-implementation-first",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-08-30T16:49+00:00",
+  "window_start": "2026-08-30T05:33+00:00",
+  "window_end": "2026-08-30T16:49+00:00",
+  "candidate_count": 44,
+  "model": "free (no LLM)"
+ }
+}
