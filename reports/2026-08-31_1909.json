@@ -1,0 +1,384 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Validated a trust-propagation rule against 577k real transmission chains - \u03ba 0.871 vs 0.331 between the human experts themselves [P]",
+   "summary": "Short version: I built a claim-level provenance framework for multi-agent systems that caps a chain\u2019s trust at its weakest link. The obvious objection is that weakest-link is arbitrary \u2014 so I tried to falsify it against a dataset where humans have already done the labelling, at scale, for\u2026",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1w3ndm2/validated_a_trustpropagation_rule_against_577k/",
+   "source": "r/MachineLearning"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Validated a trust-propagation rule against 577k real transmission chains - \u03ba 0.871 vs 0.331 between the human experts themselves [P]",
+     "summary": "Short version: I built a claim-level provenance framework for multi-agent systems that caps a chain\u2019s trust at its weakest link. The obvious objection is that weakest-link is arbitrary \u2014 so I tried to falsify it against a dataset where humans have already done the labelling, at scale, for\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1w3ndm2/validated_a_trustpropagation_rule_against_577k/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "AVX2: Speed up large batch size prompt processing of IQ models by bartowski1182 \u00b7 Pull Request #27402 \u00b7 ggml-org/llama.cpp",
+     "summary": "Faster prompt processing on CPU. submitted by /u/jacek2023 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w3n506/avx2_speed_up_large_batch_size_prompt_processing/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "ACML 2026 Journal Track Any update ?[D]",
+     "summary": "I have submitted a paper to acml 2026 journal track, the official date of release of review is 27 August, but I have not heard anything from them, if anyone received the review then let me know I will write to program chairs. Thanks submitted by /u/Jealous_Key_4030 [link] [comments]",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1w3n4ig/acml_2026_journal_track_any_update_d/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Whats the current state of Qwen 3.8 Flash regarding inference (llama.cpp)?",
+     "summary": "Title submitted by /u/No_Algae1753 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w3mneh/whats_the_current_state_of_qwen_38_flash/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "A walkable ASCII cyberpunk city in one HTML file [video]",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49512975",
+     "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "\ud83d\ude02 seems like 10 hours is a bear market in AI models world",
+     "summary": "submitted by /u/ocean_protocol [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w3m36t/seems_like_10_hours_is_a_bear_market_in_ai_models/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "The safest job from AI may be writing",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49512856",
+     "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "GLM 5.3 and GLM 5.3 Flash ran locally on RTX PRO 6000 WS and built a penthouse using BlenderMCP",
+     "summary": "I keep seeing demos of AI agents building scenes in Blender through BlenderMCP, so I tried it myself. I ran both models locally for this and picked the GLM 5.3 family(Q4 quant) because videos of it doing 3D work kept showing up in my twitter feed (out of curiosity, I ran the same prompt through\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w3kppp/glm_53_and_glm_53_flash_ran_locally_on_rtx_pro/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Introducing Solaris our first Interface World Model | Runway",
+     "summary": "submitted by /u/XxSpookxX [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w3jq0t/introducing_solaris_our_first_interface_world/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Sliding-window attention beats linear on long-context reasoning [R]",
+     "summary": "Sliding Window Attention with sinks, one of the simplest existing fixes for the quadratic-cost problem in LLMs, holds up as well or better than the linear-attention variants labs have been spending post-training compute to produce. That is the claim of a [new arXiv preprint](\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1w3j1vw/slidingwindow_attention_beats_linear_on/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Your GNN is probably just an overcomplicated MLP (Tabular Leakage). We built SynthFin-AML to enforce strict causal boundaries. [P]",
+     "summary": "We noticed our anti-money laundering models were performing suspiciously well. After digging into standard baselines on dynamic graphs, we found widespread temporal leakage in message-passing. If you train a GNN on a static snapshot of a dynamic graph, your model is likely cheating by seeing\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1w3imxy/your_gnn_is_probably_just_an_overcomplicated_mlp/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "SlopTV: an infinite livestream of AI slop generated from youtube chat comments, Minimax H3 on 2x5090",
+     "summary": "SlopTV: a YouTube live stream where the chat writes the programming. You type \"capybara dj underwater rave\", an LLM inflates it into a 400-word structured video prompt, one of my 5090s renders 15 seconds of it with MiniMax H3, and it airs on the same stream you typed into. Then people comment on\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w3i7ze/sloptv_an_infinite_livestream_of_ai_slop/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "What are your hopes for the new Mistral?",
+     "summary": "Mistral is to be release a new model this summer, they still are working on it. What are your hopes? submitted by /u/always_posedge_clk [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w3hcab/what_are_your_hopes_for_the_new_mistral/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "First time running local models",
+     "summary": "Sad that I only have 12gb of vram but this ik_llama is so fast submitted by /u/Needausernameplzz [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w3h7rg/first_time_running_local_models/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Launch HN: Hebbian Robotics (YC S26) \u2013 Build scalable robotics data pipelines",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49510632",
+     "url": "https://github.com/Hebbian-Robotics/hflow",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Marx, Keynes, and AI",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49510302",
+     "url": "https://www.unpopularfront.news/p/marx-keynes-and-ai",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Ask HN: What would happen if your company stopped using all AI tomorrow?",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49510066",
+     "url": "https://news.ycombinator.com/item?id=49510066",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "AI-generated videos are slowly displacing actors and live-streamers in China's entertainment industry",
+     "summary": "submitted by /u/kernelangus420 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w3eq4n/aigenerated_videos_are_slowly_displacing_actors/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Inside Meta\u2019s push to put robots to work in data centers | The company is testing robots on tasks that can performed by technicians.",
+     "summary": "submitted by /u/SnoozeDoggyDog [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w3e21z/inside_metas_push_to_put_robots_to_work_in_data/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "How bad do you think models like Qwen3.8-27B or GLM-5.3-Flash would be with H-Neurons disabled?",
+     "summary": "TL;DR: this paper proposes a method to fix hallucination rates to very low levels or zero by disabling neurons which contribute to hallucination. This discovery has been out for a while now, but it hasn't been that popular, since it kind of lobotomises parts of the LLM. I honestly don't care too\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w3co3k/how_bad_do_you_think_models_like_qwen3827b_or/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49508982",
+     "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "vote for the Qwen 3.8",
+     "summary": "Remember to vote and comments guys ;) https://x.com/QwenDevs/status/2094389239761031591 submitted by /u/jacek2023 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w3cbei/vote_for_the_qwen_38/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Cold emailing profs about PhD positions? Read this [D]",
+     "summary": "This is the time of year when the number of cold emails I receive about PhD positions tends to ramp up quite a bit. In many countries, this cold emailing is essentially part of the normal recruitment process, so there is nothing inherently wrong with doing this. However, there are a few things you\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1w3bwci/cold_emailing_profs_about_phd_positions_read_this/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "AI-written code is still your code",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49508664",
+     "url": "https://martiansoftware.com/articles/ai-written-code-is-still-yours",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "How to assess if there is a strong signal in your dirty data [Project]",
+     "summary": "I'm sharing this new tabular data diagnostic tool (Entropic Scree). It can be used to estimate these properties of your high-d, real-world, dirty dataset: The informational volume of the signal (i.e., helps you assess whether the signal is strong enough to survive the dataset's idiosyncratic\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1w3br9c/how_to_assess_if_there_is_a_strong_signal_in_your/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp \u00b7 Hugging Face",
+     "summary": "submitted by /u/t4a8945 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w39i6r/deepseekaideepseekv4flashvisionexp_hugging_face/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Good Machine Learning Posters [D]",
+     "summary": "Hi, I'm making posters for ECCV 2026. Does anyone have any ML/CV posters they thought were really well done? Would love to see some cool examples. Thanks submitted by /u/National-Resident244 [link] [comments]",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1w39buv/good_machine_learning_posters_d/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "INB4 GPT 7 One Shots a game better looking and more polished then Star Citizen",
+     "summary": "submitted by /u/PathOfEnergySheild [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w38mkh/inb4_gpt_7_one_shots_a_game_better_looking_and/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Breaking Claude Code Opus 5 Auto Mode",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49506819",
+     "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Meta Security Researcher's AI Agent Accidentally Deleted Her Emails",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49506655",
+     "url": "https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Claude Code reduces it's weekly limit by 17% \u2013 compared to today",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49506519",
+     "url": "https://twitter.com/ClaudeDevs/status/2093742322525810912",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Could this affect M5 Ultra price/availability?",
+     "summary": "submitted by /u/No_Conversation9561 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w35sc1/could_this_affect_m5_ultra_priceavailability/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "uv: Deduplicate all files in the wheel cache",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49506142",
+     "url": "https://github.com/astral-sh/uv/pull/21327",
+     "source": "Hacker News"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Harvard Law dropout raises $6M for Blue Voice to build a \u2018Harvey for police officers\u2019",
+     "summary": "The seed round for the app that provides real-time legal and policy guidance to officers was led by SignalFire and Las Olas VC.",
+     "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "\u201cZlibrary my beloved\u201d: Anthropic staff chats extolling piracy cited in Sony suit",
+     "summary": "Lawsuit: Anthropic\u2019s torrenting totally screwed songwriters as AI songs top charts.",
+     "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Hugging Face hack could indicate cultural issues at OpenAI",
+     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you\u2019ve probably heard about last month\u2019s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging\u2026",
+     "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+     "source": "MIT Tech Review AI"
+    },
+    {
+     "headline": "GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models",
+     "summary": "What if pathology foundation models could do more with less? GigaPath-Flash and GigaTIME-Flash cut computational demands while maintaining strong performance, opening the door to larger studies and broader exploration. The post GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery\u2026",
+     "url": "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/",
+     "source": "Microsoft Research"
+    },
+    {
+     "headline": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+     "summary": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.",
+     "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Debian won\u2019t ban AI code from its Linux distribution",
+     "summary": "Debian voted to allow developers to use AI tools in their contributions to the Linux distribution's \"development, maintenance, [and] documentation.\" The new policy on AI acknowledges that \"responsible\" use of AI can improve developers' productivity, and goes on to say, \"generative AI is neither\u2026",
+     "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Nvidia\u2019s $3.5B MediaTek bet reveals its plan for tackling Big Tech\u2019s AI chip buildout",
+     "summary": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips.",
+     "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "New York Governor Kathy Hochul thinks AI should be \u2018less evil\u2019",
+     "summary": "Today, I\u2019m talking with New York Governor Kathy Hochul, and I\u2019ll just warn you \u2014 this episode moves really fast. It\u2019s an election year, after all, with a shocking amount of tech policy at stake, and Governor Hochul has taken strong positions on almost every major tech issue there is. For example,\u2026",
+     "url": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "ChatGPT and Reddit now face EU's toughest online safety rules",
+     "summary": "Explosive growth comes with a new regulatory burden in the European Union.",
+     "url": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "ChatGPT to face tougher regulation in the EU",
+     "summary": "OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and the spread of illegal content in the European Union. That's because ChatGPT is now considered a Very Large Online Search Engine under the EU's Digital Services Act, a set of\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Instagram cracks down on AI accounts pretending to be human",
+     "summary": "Instagram is finally taking steps to address the rise of fake AI-influencer accounts that have gotten harder to spot. It's also renaming the \"AI creator\" label to \"AI-generated profile\" to make it clear when a profile features an AI-generated person that's not a real human being. \"We've heard that\u2026",
+     "url": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Meeting note-taker Circleback adds a free tier to attract more customers",
+     "summary": "Circleback is also introducing new pricing plans starting from $14 per month.",
+     "url": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "You Know Who Really Hates AI? Insurance Claims Adjusters",
+     "summary": "Of the Glassdoor reviews from claims adjusters that mentioned AI, a staggering 98 percent were negative. \u201cAI is just a tool,\u201d one person tells WIRED. \u201cIt should never be given the keys.\u201d",
+     "url": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Pocket's AI made my game ideas real. Now Meta controls the results.",
+     "summary": "Interactive mobile \"gizmos\" are easy to make, hard to share outside Meta's platform.",
+     "url": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
+     "source": "Ars Technica AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "The First Golden Age of AI writing is now over. For a brief period of time, many people were better off having Claude do a lot of their writing, because it is a pretty good writer & AI detectors were bad Now ClaudeSpeak is cliched & suspect & annoying, and Pangram is well-known.",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mufjzkuxl22t"
+    },
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "Kind of surprised that we are not seeing more radical political ideas built around AI capabilities, the way that early mass industrialization was a prime motivator in the conceptions of capitalism, communism, and socialism.",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mufgigs4uk2t"
+    },
+    {
+     "author": "Bluesky @simonwillison.net",
+     "handle": "",
+     "quote": "In local news, the tunnel between Pacifica and Half Moon Bay had some maintenance recently and now it screams",
+     "context": "",
+     "url": "https://bsky.app/profile/simonwillison.net/post/3mufeho5l4s2k"
+    },
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "Its kind of a bummer that Asimov's Three Laws of Robotics do not work for actual AI morality. But the failure shows why rule-based approaches won't work. (and Asimov wanted to write stories about how robots got around the Laws, so their failure was a good thing for his plots)",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mue7rj3rkk2l"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Monday assorted links",
+     "summary": "1. Prices, prices, prices: \u201cAgain I am asking how the following two things can be true at the same time: 1) we\u2019re all massively compute limited so inferences & GPU time are $$$$$, and 2) SoTA models will just start running themselves on everyone\u2019s GPU clusters & no one will notice or turn them\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/08/monday-assorted-links-575.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-575",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "AI and Employment: So Far, So Good",
+     "summary": "In September 2023, the Census Bureau added questions about AI to its Business Trends and Outlook Survey. Census asked hundreds of thousands of businesses whether they had used AI in the previous two weeks to produce goods and services. At that time, 3.7% said yes; by late 2025 the figure had\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/08/ai-and-employment-what-the-firms-say.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-and-employment-what-the-firms-say",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "good books so far this year",
+     "summary": "Homer, Shakespeare, and Kim Il Sung. Plus: nyc\u2019s best fish head",
+     "url": "https://www.chinatalk.media/p/good-books-so-far-this-year",
+     "source": "ChinaTalk"
+    },
+    {
+     "headline": "Value generalisation Theory of Change: putting it into practice",
+     "summary": "In the previous post , I presented my theory of change for why value generalisation is vital for AI alignment. Here I'll add the practical part of the argument: given those facts, why explicitly try to do value generalisation, what are the dangers of the approach, how should it be done, and how do\u2026",
+     "url": "https://www.alignmentforum.org/posts/kjPEH4KGEHd8iQ4Hn/value-generalisation-theory-of-change-putting-it-into",
+     "source": "Alignment Forum"
+    },
+    {
+     "headline": "Meta Settles, A Framework For Regulating Content, The Rest of Big Tech",
+     "summary": "Meta's settlement makes sense for all parties, but the entire sage highlights why any solution to regulating technology feels off.",
+     "url": "https://stratechery.com/2026/meta-settles-a-framework-for-regulating-content-the-rest-of-big-tech/",
+     "source": "Stratechery"
+    },
+    {
+     "headline": "Spain fact of the day",
+     "summary": "CoverManager, an online platform that manages reservations for thousands of Spanish restaurants, reports that half the dinner bookings now are for before 9 p.m., compared with 27 percent a decade ago. TheFork, a similar platform, said its 8 p.m. bookings in Spain have nearly tripled from 2019,\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/08/spain-fact-of-the-day-7.html?utm_source=rss&utm_medium=rss&utm_campaign=spain-fact-of-the-day-7",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "AMAP-ML/LoopArena: Benchmarking models as runtime Controllers for Loop Engineering",
+     "summary": "Benchmarking models as runtime Controllers for Loop Engineering",
+     "url": "https://github.com/AMAP-ML/LoopArena",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-08-31T19:09+00:00",
+  "window_start": "2026-08-31T05:48+00:00",
+  "window_end": "2026-08-31T19:09+00:00",
+  "candidate_count": 58,
+  "model": "free (no LLM)"
+ }
+}
