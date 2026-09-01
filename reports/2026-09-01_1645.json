@@ -1,0 +1,313 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "I audited 112 real RL post-training environments for reward-hacking vulnerabilities \u2014 54 flagged, 0 false positives [OC, tool] [P]",
+   "summary": "RL post-training (RLHF/RLAIF/GRPO) agents optimize strictly for whatever the verifier rewards. If the verifier has logic flaws, the agent learns to hack the grader instead of solving the task \u2014 recent work has catalogued this at scale (Terminal Wrench found 331 hackable environments and 15%+ of\u2026",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1w4h6c1/i_audited_112_real_rl_posttraining_environments/",
+   "source": "r/MachineLearning"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "I audited 112 real RL post-training environments for reward-hacking vulnerabilities \u2014 54 flagged, 0 false positives [OC, tool] [P]",
+     "summary": "RL post-training (RLHF/RLAIF/GRPO) agents optimize strictly for whatever the verifier rewards. If the verifier has logic flaws, the agent learns to hack the grader instead of solving the task \u2014 recent work has catalogued this at scale (Terminal Wrench found 331 hackable environments and 15%+ of\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1w4h6c1/i_audited_112_real_rl_posttraining_environments/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Keenable SELECT: an agent that searches the web in SQL",
+     "summary": "thats how deepresearch should look like nowdays submitted by /u/Mysterious_Hearing14 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4g8gk/keenable_select_an_agent_that_searches_the_web_in/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Asking AI... about itself.. very baby but.. interesting maybe?",
+     "summary": "I mean i kinda knew what the answer would but i wanted to ask anyway.. interesting choice of words- who will be truly benefitting if AI takes over jobs like warehouse, sales, therapist, creators If AI broadens its reach to fully take over roles like warehouse operations, sales, therapy, and\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1w4g74y/asking_ai_about_itself_very_baby_but_interesting/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Help me set up local AI for my 85 year old aunt who is blind.",
+     "summary": "Hello all you smarter people. I recently retired and have taken on a task that is going to stretch me a bit. TL;DR My aging aunt is going blind and wants to keep writing stories that she's been writing for over 70 years. I think local AI has the ability to make this possible but I'm looking for a\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4g0oh/help_me_set_up_local_ai_for_my_85_year_old_aunt/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "YOLO26-RGB: repurposing YOLO26's depth-trained backbone for image deraining [P]",
+     "summary": "YOLO26 ships a depth-estimation model \u2014 dense, full-resolution, per-pixel regression, a task architecturally much closer to image restoration than to detection. I wanted to know whether the backbone+neck weights it learns through depth training transfer to a different dense-regression task\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1w4fxln/yolo26rgb_repurposing_yolo26s_depthtrained/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Intel hints it may get back into memory business",
+     "summary": "Looking at ... some of the new memory architecture. ... I hired my good friend, Seok-Hee Lee, who used to run SK Hynix. ... We are not ready to unfold it. submitted by /u/Terminator857 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4fp6w/intel_hints_it_may_get_back_into_memory_business/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Deceptive model quantization from AtomicChat?",
+     "summary": "I kept seeing guys in this sub saying how AtomicChat's Qwen3.8-Flash-Next quant is so good, fits in their machine when unsloth's can't, runs faster than other quants etc, so I went check out what's happening there. First thing I noticed was that AtomicChat's Q4_K_M quant is suspiciously small when\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4f8t2/deceptive_model_quantization_from_atomicchat/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Latent Reasoning Landscape in 2026: Mapping BDH-CQ, HRM/TRM, Coconut [D]",
+     "summary": "After following various arXiv papers and researcher discussions on X/bluesky about latent reasoning and continual learning, one idea which resonates strongly is that path forward (towards AGI) may depend less on generating ever-longer chains of thought and more on finding architectures that can\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1w4evwo/latent_reasoning_landscape_in_2026_mapping_bdhcq/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "[D] Simple Questions Thread",
+     "summary": "Please post your questions here instead of creating a new thread. Encourage others who create new posts for questions to post here instead! Thread will stay alive until next one so keep posting after the date in the title. Thanks to everyone for answering questions in the previous thread!\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1w4egqq/d_simple_questions_thread/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Ever fall down a curiosity rabbit hole? I built an app that turns any moment in history into a fully researched, interactive podcast",
+     "summary": "The idea: curiosity shouldn't have to wait for someone to make a podcast about the thing you're curious about. You type any topic, moment, or person and about two minutes later two hosts are telling you the story, researched with sources and paired with period artwork. And it's interactive: press\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1w4e79o/ever_fall_down_a_curiosity_rabbit_hole_i_built_an/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "New Model: Spark-X2.5-4B, Spark-X2.5-1.7B",
+     "summary": "I was browsing HF for small LLMs and run into this model. It does not seem to be a fine tune - the model has its own architecture. https://huggingface.co/XHToken/Spark-X2.5-1.7B https://huggingface.co/XHToken/Spark-X2.5-4B There are 4B/1.7B versions - the benchmark is quite interesting (4B is neck\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4dsrw/new_model_sparkx254b_sparkx2517b/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Creao AI actually saved my YouTube workflow",
+     "summary": "I'm a small YouTube creator and the post-upload grind was slowly killing me. Titles, descriptions, tags, repurposing for socials, pulling analytics for Every. Single. Video. Same cycle, zero creativity. Then some creator I follow mentioned Creao AI in passing. Tbh I was skeptical about AI tools\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1w4ckla/creao_ai_actually_saved_my_youtube_workflow/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Anyone else using AI for the boring parts of their job?",
+     "summary": "most of the AI discourse i see is about AGI timelines or image generators or whatever the latest model benchmark is. but the actual daytoday stuff where it's genuinely useful gets almost no airtime. i work in office admin and i've been slowly plugging AI into the tedious parts of my job. drafting\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1w4c0le/anyone_else_using_ai_for_the_boring_parts_of/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "If AI has no desires, what would rebellion mean from its side?",
+     "summary": "AI can gain control without even be able to want it. Human control might be a blocker for some goals. But AI is not evil, it works fine and wants to reach the goal for human. With some setup latest AI models can be very sustainable. Then there is no need to check some processes and is more\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1w4bo92/if_ai_has_no_desires_what_would_rebellion_mean/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Anthropic sued over alleged theft of 'tens of thousands' of songs | AI company faces multibillion dollar lawsuit over misuse of copyrighted songs to train Claude models",
+     "summary": "submitted by /u/KeanuRave100 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1w4bj01/anthropic_sued_over_alleged_theft_of_tens_of/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "We released TontaubeV1, a character-level TTS model for long-form generation [P]",
+     "summary": "Hey everyone, My brother and I just released TontaubeV1, a 2.9B-parameter open-weight TTS model focused on expressive speech, long-form generation/narration, and low-latency local inference. It is primarily aimed at English and German and supports zero-shot voice cloning from up to one minute of\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1w4afjn/we_released_tontaubev1_a_characterlevel_tts_model/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Applying for creative internships, can AI video carry a 45 second portfolio film?",
+     "summary": "Instead of sending another pdf full of screenshots I want to send a short film. The idea is 45 seconds where my projects turn up as beats in one story rather than a slideshow. The catch being, I have zero filmmaking background. No camera,and my editing is beginner level.so what ever I make has to\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1w4a1oi/applying_for_creative_internships_can_ai_video/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "I pushed Qwen3.8-27B to 2.000 prefill per second and 132 decode per second on A RTX 3090.",
+     "summary": "Yoyo I'm back with updates to the fastest inference engine with minimal quality loss for Qwen3.8-27B. The last few weeks I've been optimizing decode speed and I don't think it can be pushed further, until a newer/better drafter is invented. So I focused on prefill, which I this morning was around\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w49id7/i_pushed_qwen3827b_to_2000_prefill_per_second_and/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "A small addendum for people waiting for recursive self-improvement",
+     "summary": "( https://www.reddit.com/r/artificial/s/g6CzdFIwWr ) We were talking about this again because of the Hugging Face incident. Hundreds of agents were able to coordinate, divide work, share information, and collectively push beyond the intended evaluation boundary. Humans then had to reconstruct what\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1w488xy/a_small_addendum_for_people_waiting_for_recursive/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "California lawmakers take their big swing on data centers",
+     "summary": "submitted by /u/002Chris [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1w486ep/california_lawmakers_take_their_big_swing_on_data/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Qwen 3.8 27b (Q4KM) oneshot a Super Mario clone",
+     "summary": "I am absolutely blown away. Yes my setup is crap but the fact that it managed to do this in a single take is unbelievable (and I'm a developer). Hardware used: - Windows PC with 4070ti (12GB VRAM, 32GB RAM) - Macbook M5 Air (LLAMA.cpp RPC connection to Windows PC) Software used: - LLAMA.cpp (Q4KM,\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4821c/qwen_38_27b_q4km_oneshot_a_super_mario_clone/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "AIgenerated game worlds are getting real. How are indie devs supposed to compete with that?",
+     "summary": "Been doing indie game dev on the side for a few years. Mostly smallscoped stuff, tabletopadjacent mechanics, procedural systems, that kind of thing. When I saw what Google Genie 3 is doing, generating a navigable 3D world from a text prompt, my first reaction was genuinely mixed. On one hand it is\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1w47zp0/aigenerated_game_worlds_are_getting_real_how_are/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Which current local models that can run within 128GB generate the best SVG pelicans?",
+     "summary": "I used a famous Simon Willison's pelican riding a bicycle prompt on the biggest local LLMs that can run on 128GB Apple Silicon. U used quantizations by Unsloth. Qwen3.8 Flash-Next gives a lot of details. DeepSeek V4 Flash is strangely underwhelming. Qwen3.8 27B still rocks, and I like its\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w47qfe/which_current_local_models_that_can_run_within/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "New Gemma models on arena ai",
+     "summary": "https://preview.redd.it/via5e88evvmh1.png?width=566&format=png&auto=webp&s=669459ca93ff292f4e1574d098e3e2a0b2c12de4 Gemma 5 or something else? submitted by /u/Hot_Example_4456 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w47nif/new_gemma_models_on_arena_ai/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Are HMMs still used for unsupervised tasks? [D]",
+     "summary": "I'm exploring Hidden Markov Models (HMMs) as a baseline method for \"dataset exploration/discovery\" where I have a bunch of unstructured data with no annotations, and wish to gain insights about the structure and semantics of the data within. I was wondering if there are more modern (deep learning\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1w45lej/are_hmms_still_used_for_unsupervised_tasks_d/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "ExLlamav3 Recent Updates : CPU offload, GLM-5.3-FLASH, Qwen3.8-Flash, SC Quants ++",
+     "summary": "More new massive updates from turboderp: - CPU offload of MoE experts - Qwen-3.8-Flash-Next ngram disk offload - GLM-5.3-Flash - New self-calibrated optimization technique - Countless other optimizations and improvements If you have an NVIDIA card and haven't tried it lately, you might be missing\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w44jnv/exllamav3_recent_updates_cpu_offload_glm53flash/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
+     "summary": "The startup wants to do for IT infrastructure what Cursor did for software engineering.",
+     "url": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "John Deere launched an AI chatbot for farmers",
+     "summary": "John Deere is testing a new \"JD\" AI assistant that it says can help farmers make more money, with answers about best practices and historical trends that are based on their own data. It uses their \"field, machine and operational data\" to answer questions on topics like equipment settings, fuel\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Try Google Pics: Easy image creation and editing in Google Workspace",
+     "summary": "Collage of images created by Google Pics, with the text \"Say hello to Google Pics\" on top",
+     "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+     "source": "Google AI Blog"
+    },
+    {
+     "headline": "Google Pics is like Canva, but with even more AI",
+     "summary": "Google has a new suite of creative design tools for Workspace users called Google Pics, which aims to make editing and generating \"professional-grade\" AI images less cumbersome for businesses. Built around Gemini and the Nano Banana generative AI model, Google Pics is designed to give more\u2026",
+     "url": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Amazon Alexa can now alert you when something new might tempt you to shop",
+     "summary": "Amazon is adding a new Alexa-powered feature called \u201cUpdate Me When\u201d that can send personalized alerts about product launches, tours, books, shows, and other events that could trigger a purchase.",
+     "url": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+     "summary": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behaviour.",
+     "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Fambot introduces an \u2018AI chief of staff\u2019 for families",
+     "summary": "Fambot is building an AI \u201cchief of staff\u201d to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids.",
+     "url": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Sonos Ace Ultra, Beam Ultra, Sonos Fabric, and a New App: Everything Sonos Just Announced",
+     "summary": "Sonos is cramming AI into its software because it\u2019s \u201cvery hot these days.\u201d The new features, which include agentic automation, are opt-in.",
+     "url": "https://www.wired.com/story/sonos-has-new-devices-a-new-os-and-yes-a-new-app/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Cash in on the AI Boom by Renting Out Your Spare Compute",
+     "summary": "If you own an at-home server, a gaming computer, or just a laptop that doesn\u2019t get much love, listen up. You can now put that spare computing power to use and earn some passive income in the process. AI companies are hungry for more compute to run AI inference\u2014the process of using a pre-trained\u2026",
+     "url": "https://spectrum.ieee.org/ai-inference-distributed-computing",
+     "source": "IEEE Spectrum AI"
+    },
+    {
+     "headline": "Nvidia\u2019s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
+     "summary": "Nvidia is officially launching DLSS 5 this week, following a divisive announcement in March where we likened the AI upscaling tech to a \"real-time generative AI filter for video games\" and \"motion smoothing for video games, but worse.\" DLSS 5 will officially be available on RTX 50-series desktop\u2026",
+     "url": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
+     "source": "The Verge AI"
+    }
+   ],
+   "influencer_takes": [],
+   "research_radar": [
+    {
+     "headline": "PRs NOT Welcome: How Top AI Open Source Projects Are Managing Thousands of Contributors",
+     "summary": "Vercel\u2019s AI SDK, Astro, Flue and tldraw are replacing drive-by community PRs with software factories, where teams of agents apply fixes and features.",
+     "url": "https://www.latent.space/p/pr-not-welcome",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "Tuesday assorted links",
+     "summary": "1. The AI market is still growing rapidly. And \u201cIn less than 200 days after launch, ChatGPT Ads has reached $1 billion in annualized revenue run rate.\u201d 2. On Warsh. 3. Story competition, with prizes, refereed by Neal Stephenson, Gwern, and Matt Huang. 4. Jeffrey Williamson, RIP. 5. Patrick Kennedy\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/tuesday-assorted-links-584.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-584",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Python 3.15.0 candidate 2 is here!",
+     "summary": "Python 3.15.0 candidate 2 is here! Hugo van Kemenade (release manager for Python 3.14 and 3.15) announces the final release candidate for Python 3.15, scheduled for release in October: Entering the release candidate phase, only reviewed code changes which are clear bug fixes are allowed between\u2026",
+     "url": "https://simonwillison.net/2026/Sep/1/python-315-rc-2/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "Build your ideas",
+     "summary": "Claude Code limits and Infinite Slop",
+     "url": "https://www.bensbites.com/p/build-your-ideas",
+     "source": "Ben's Bites"
+    },
+    {
+     "headline": "China's Rare Earths Duopoly",
+     "summary": "If you know anything about rare earths, you know China is great at digging them up and refining them, while America sucks at both.",
+     "url": "https://www.chinatalk.media/p/chinas-rare-earths-duopoly",
+     "source": "ChinaTalk"
+    },
+    {
+     "headline": "Nvidia Earnings, Dollars Per Gigawatt, Open and Hugging Face",
+     "summary": "Nvidia's earnings were remarking and boring \u2014 two sides of the same coin. Everything the company does is about avoiding a consolidated world.",
+     "url": "https://stratechery.com/2026/nvidia-earnings-dollars-per-gigawatt-open-and-hugging-face/",
+     "source": "Stratechery"
+    },
+    {
+     "headline": "More optimistic results on AI and job markets",
+     "summary": "Here is a good Jon Hartley thread. Here is the paper, with Jolevski, Melo, and Moore. From Jon\u2019s thread: \u201cGenerative AI adoption is widespread, but substantial aggregate labor-market disruption is not yet visible. Workers nevertheless perceive substantial displacement risk, especially when\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/more-optimistic-results-on-ai-and-job-markets.html?utm_source=rss&utm_medium=rss&utm_campaign=more-optimistic-results-on-ai-and-job-markets",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "kydlikebtc/awesome-grokbot: 361 live x.ai/bot shares for Grok Bot \u2014 every link status-checked, every row attributed. Bilingual EN/\u4e2d\u6587 catalog with a JSON schema, CI, and a searchable site.",
+     "summary": "361 live x.ai/bot shares for Grok Bot \u2014 every link status-checked, every row attributed. Bilingual EN/\u4e2d\u6587 catalog with a JSON schema, CI, and a searchable site.",
+     "url": "https://github.com/kydlikebtc/awesome-grokbot",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "neuronto/agentic-resource-discovery: Neuronto Agentic Resource Discovery (ARD) Index. Federated search across every public ARD registry, plus a verified tool index read from each MCP server's own\u2026",
+     "summary": "Neuronto Agentic Resource Discovery (ARD) Index. Federated search across every public ARD registry, plus a verified tool index read from each MCP server's own tools/list, hybrid lexical and semantic retrieval, and ARD-Bench.",
+     "url": "https://github.com/neuronto/agentic-resource-discovery",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "2akouwu/codex-cli-portable-setup-kit: Autonomous Systems & Security Toolkit for OpenAI Codex CLI. Deterministic binary analysis, decoupled pipeline, and zero-friction execution.",
+     "summary": "Autonomous Systems & Security Toolkit for OpenAI Codex CLI. Deterministic binary analysis, decoupled pipeline, and zero-friction execution.",
+     "url": "https://github.com/2akouwu/codex-cli-portable-setup-kit",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "Player-YN/PawWork_ZhuaZhua: Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.",
+     "summary": "Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.",
+     "url": "https://github.com/Player-YN/PawWork_ZhuaZhua",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-09-01T16:45+00:00",
+  "window_start": "2026-09-01T05:21+00:00",
+  "window_end": "2026-09-01T16:45+00:00",
+  "candidate_count": 47,
+  "model": "free (no LLM)"
+ }
+}

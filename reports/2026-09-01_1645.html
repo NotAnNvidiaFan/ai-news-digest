@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI Digest — 2026-09-01T16:45+00:00</title>
+<style>
+  :root {
+    --bg: #0c0f14; --card: #141922; --card-hover: #1a2130; --border: #232b3a;
+    --text: #dfe6f0; --muted: #8b98ab; --accent: #5eb1ff; --accent2: #a78bfa;
+    --good: #4ade80; --bad: #f87171; --mid: #fbbf24;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text);
+         font: 16px/1.6 -apple-system, "Segoe UI", Roboto, sans-serif; }
+  .wrap { max-width: 860px; margin: 0 auto; padding: 32px 20px 64px; }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  header .brand { font-size: 13px; letter-spacing: 2px; text-transform: uppercase;
+                  color: var(--muted); }
+  header .brand a { color: var(--muted); }
+  h1 { font-size: 26px; margin: 6px 0 2px; }
+  .window { color: var(--muted); font-size: 14px; }
+  .overview { font-size: 17px; color: var(--text); margin: 18px 0 8px;
+              border-left: 3px solid var(--accent2); padding-left: 14px; }
+  .badges { display: flex; gap: 8px; flex-wrap: wrap; margin: 14px 0 26px; }
+  .badge { font-size: 12px; padding: 3px 10px; border-radius: 999px;
+           border: 1px solid var(--border); color: var(--muted); }
+  .badge.sent-bullish, .badge.sent-optimistic { color: var(--good); border-color: var(--good); }
+  .badge.sent-mixed { color: var(--mid); border-color: var(--mid); }
+  .badge.sent-skeptical, .badge.sent-anxious { color: var(--bad); border-color: var(--bad); }
+  .hero { background: linear-gradient(135deg, #16203a, #1b1530); border: 1px solid var(--border);
+          border-radius: 14px; padding: 22px 24px; margin-bottom: 30px; }
+  .hero .label { font-size: 12px; letter-spacing: 2px; text-transform: uppercase; color: var(--accent2); }
+  .hero h2 { margin: 8px 0 10px; font-size: 22px; }
+  .hero .why { color: var(--muted); font-size: 15px; margin-top: 10px; }
+  .hero .why strong { color: var(--text); }
+  h3.section { font-size: 14px; letter-spacing: 2px; text-transform: uppercase;
+               color: var(--muted); margin: 34px 0 12px; border-bottom: 1px solid var(--border);
+               padding-bottom: 8px; }
+  .card { background: var(--card); border: 1px solid var(--border); border-radius: 12px;
+          padding: 16px 18px; margin-bottom: 12px; }
+  .card:hover { background: var(--card-hover); }
+  .card h4 { margin: 0 0 6px; font-size: 16px; }
+  .card p { margin: 0; color: var(--muted); font-size: 14.5px; }
+  .src { display: inline-block; font-size: 12px; color: var(--accent2); margin-top: 8px; }
+  blockquote.take { margin: 0; }
+  .take .quote { font-size: 15.5px; font-style: italic; color: var(--text); }
+  .take .who { margin-top: 8px; font-size: 13.5px; color: var(--muted); }
+  .take .ctx { margin-top: 4px; font-size: 13.5px; color: var(--muted); }
+  .idea { border-left: 3px solid var(--accent2); }
+  .idea .hook { font-size: 15px; font-weight: 600; margin-bottom: 8px; }
+  .idea .draft { color: var(--text) !important; background: var(--bg); border: 1px dashed var(--border);
+                 border-radius: 8px; padding: 10px 12px; margin: 0 0 8px !important; }
+  .idea .why { font-size: 13.5px !important; }
+  .quiet { text-align: center; color: var(--muted); padding: 40px 0; font-size: 15px; }
+  .empty { color: var(--muted); font-size: 14px; font-style: italic; }
+  footer { margin-top: 44px; color: var(--muted); font-size: 12.5px;
+           border-top: 1px solid var(--border); padding-top: 14px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="brand"><a href="../index.html">AI NEWS DIGEST</a></div>
+    <h1>2026-09-01T16:45+00:00</h1>
+    <div class="window">Window: 2026-09-01T05:21+00:00 &rarr; 2026-09-01T16:45+00:00 (UTC)</div>
+  </header>
+
+  <p class="overview">Free-mode digest: candidates grouped by type (LLM synthesis disabled).</p>
+
+  <div class="badges">
+    
+    <span class="badge">47 candidates scanned</span>
+    <span class="badge">model: free (no LLM)</span>
+  </div>
+
+  
+
+  
+
+  
+  <div class="hero">
+    <div class="label">Top story</div>
+    <h2><a href="https://www.reddit.com/r/MachineLearning/comments/1w4h6c1/i_audited_112_real_rl_posttraining_environments/">I audited 112 real RL post-training environments for reward-hacking vulnerabilities — 54 flagged, 0 false positives [OC, tool] [P]</a></h2>
+    <p>RL post-training (RLHF/RLAIF/GRPO) agents optimize strictly for whatever the verifier rewards. If the verifier has logic flaws, the agent learns to hack the grader instead of solving the task — recent work has catalogued this at scale (Terminal Wrench found 331 hackable environments and 15%+ of…</p>
+    
+    <span class="src">r/MachineLearning</span>
+  </div>
+  
+
+  
+
+  <h3 class="section">Model releases &amp; updates</h3>
+  
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/MachineLearning/comments/1w4h6c1/i_audited_112_real_rl_posttraining_environments/">I audited 112 real RL post-training environments for reward-hacking vulnerabilities — 54 flagged, 0 false positives [OC, tool] [P]</a></h4>
+      <p>RL post-training (RLHF/RLAIF/GRPO) agents optimize strictly for whatever the verifier rewards. If the verifier has logic flaws, the agent learns to hack the grader instead of solving the task — recent work has catalogued this at scale (Terminal Wrench found 331 hackable environments and 15%+ of…</p>
+      <span class="src">r/MachineLearning</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1w4g8gk/keenable_select_an_agent_that_searches_the_web_in/">Keenable SELECT: an agent that searches the web in SQL</a></h4>
+      <p>thats how deepresearch should look like nowdays submitted by /u/Mysterious_Hearing14 [link] [comments]</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/artificial/comments/1w4g74y/asking_ai_about_itself_very_baby_but_interesting/">Asking AI... about itself.. very baby but.. interesting maybe?</a></h4>
+      <p>I mean i kinda knew what the answer would but i wanted to ask anyway.. interesting choice of words- who will be truly benefitting if AI takes over jobs like warehouse, sales, therapist, creators If AI broadens its reach to fully take over roles like warehouse operations, sales, therapy, and…</p>
+      <span class="src">r/artificial</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1w4g0oh/help_me_set_up_local_ai_for_my_85_year_old_aunt/">Help me set up local AI for my 85 year old aunt who is blind.</a></h4>
+      <p>Hello all you smarter people. I recently retired and have taken on a task that is going to stretch me a bit. TL;DR My aging aunt is going blind and wants to keep writing stories that she&#39;s been writing for over 70 years. I think local AI has the ability to make this possible but I&#39;m looking for a…</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/MachineLearning/comments/1w4fxln/yolo26rgb_repurposing_yolo26s_depthtrained/">YOLO26-RGB: repurposing YOLO26&#39;s depth-trained backbone for image deraining [P]</a></h4>
+      <p>YOLO26 ships a depth-estimation model — dense, full-resolution, per-pixel regression, a task architecturally much closer to image restoration than to detection. I wanted to know whether the backbone+neck weights it learns through depth training transfer to a different dense-regression task…</p>
+      <span class="src">r/MachineLearning</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1w4fp6w/intel_hints_it_may_get_back_into_memory_business/">Intel hints it may get back into memory business</a></h4>
+      <p>Looking at ... some of the new memory architecture. ... I hired my good friend, Seok-Hee Lee, who used to run SK Hynix. ... We are not ready to unfold it. submitted by /u/Terminator857 [link] [comments]</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1w4f8t2/deceptive_model_quantization_from_atomicchat/">Deceptive model quantization from AtomicChat?</a></h4>
+      <p>I kept seeing guys in this sub saying how AtomicChat&#39;s Qwen3.8-Flash-Next quant is so good, fits in their machine when unsloth&#39;s can&#39;t, runs faster than other quants etc, so I went check out what&#39;s happening there. First thing I noticed was that AtomicChat&#39;s Q4_K_M quant is suspiciously small when…</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/MachineLearning/comments/1w4evwo/latent_reasoning_landscape_in_2026_mapping_bdhcq/">Latent Reasoning Landscape in 2026: Mapping BDH-CQ, HRM/TRM, Coconut [D]</a></h4>
+      <p>After following various arXiv papers and researcher discussions on X/bluesky about latent reasoning and continual learning, one idea which resonates strongly is that path forward (towards AGI) may depend less on generating ever-longer chains of thought and more on finding architectures that can…</p>
+      <span class="src">r/MachineLearning</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/MachineLearning/comments/1w4egqq/d_simple_questions_thread/">[D] Simple Questions Thread</a></h4>
+      <p>Please post your questions here instead of creating a new thread. Encourage others who create new posts for questions to post here instead! Thread will stay alive until next one so keep posting after the date in the title. Thanks to everyone for answering questions in the previous thread!…</p>
+      <span class="src">r/MachineLearning</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/artificial/comments/1w4e79o/ever_fall_down_a_curiosity_rabbit_hole_i_built_an/">Ever fall down a curiosity rabbit hole? I built an app that turns any moment in history into a fully researched, interactive podcast</a></h4>
+      <p>The idea: curiosity shouldn&#39;t have to wait for someone to make a podcast about the thing you&#39;re curious about. You type any topic, moment, or person and about two minutes later two hosts are telling you the story, researched with sources and paired with period artwork. And it&#39;s interactive: press…</p>
+      <span class="src">r/artificial</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1w4dsrw/new_model_sparkx254b_sparkx2517b/">New Model: Spark-X2.5-4B, Spark-X2.5-1.7B</a></h4>
+      <p>I was browsing HF for small LLMs and run into this model. It does not seem to be a fine tune - the model has its own architecture. https://huggingface.co/XHToken/Spark-X2.5-1.7B https://huggingface.co/XHToken/Spark-X2.5-4B There are 4B/1.7B versions - the benchmark is quite interesting (4B is neck…</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/artificial/comments/1w4ckla/creao_ai_actually_saved_my_youtube_workflow/">Creao AI actually saved my YouTube workflow</a></h4>
+      <p>I&#39;m a small YouTube creator and the post-upload grind was slowly killing me. Titles, descriptions, tags, repurposing for socials, pulling analytics for Every. Single. Video. Same cycle, zero creativity. Then some creator I follow mentioned Creao AI in passing. Tbh I was skeptical about AI tools…</p>
+      <span class="src">r/artificial</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/artificial/comments/1w4c0le/anyone_else_using_ai_for_the_boring_parts_of/">Anyone else using AI for the boring parts of their job?</a></h4>
+      <p>most of the AI discourse i see is about AGI timelines or image generators or whatever the latest model benchmark is. but the actual daytoday stuff where it&#39;s genuinely useful gets almost no airtime. i work in office admin and i&#39;ve been slowly plugging AI into the tedious parts of my job. drafting…</p>
+      <span class="src">r/artificial</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/artificial/comments/1w4bo92/if_ai_has_no_desires_what_would_rebellion_mean/">If AI has no desires, what would rebellion mean from its side?</a></h4>
+      <p>AI can gain control without even be able to want it. Human control might be a blocker for some goals. But AI is not evil, it works fine and wants to reach the goal for human. With some setup latest AI models can be very sustainable. Then there is no need to check some processes and is more…</p>
+      <span class="src">r/artificial</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/artificial/comments/1w4bj01/anthropic_sued_over_alleged_theft_of_tens_of/">Anthropic sued over alleged theft of &#39;tens of thousands&#39; of songs | AI company faces multibillion dollar lawsuit over misuse of copyrighted songs to train Claude models</a></h4>
+      <p>submitted by /u/KeanuRave100 [link] [comments]</p>
+      <span class="src">r/artificial</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/MachineLearning/comments/1w4afjn/we_released_tontaubev1_a_characterlevel_tts_model/">We released TontaubeV1, a character-level TTS model for long-form generation [P]</a></h4>
+      <p>Hey everyone, My brother and I just released TontaubeV1, a 2.9B-parameter open-weight TTS model focused on expressive speech, long-form generation/narration, and low-latency local inference. It is primarily aimed at English and German and supports zero-shot voice cloning from up to one minute of…</p>
+      <span class="src">r/MachineLearning</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/artificial/comments/1w4a1oi/applying_for_creative_internships_can_ai_video/">Applying for creative internships, can AI video carry a 45 second portfolio film?</a></h4>
+      <p>Instead of sending another pdf full of screenshots I want to send a short film. The idea is 45 seconds where my projects turn up as beats in one story rather than a slideshow. The catch being, I have zero filmmaking background. No camera,and my editing is beginner level.so what ever I make has to…</p>
+      <span class="src">r/artificial</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1w49id7/i_pushed_qwen3827b_to_2000_prefill_per_second_and/">I pushed Qwen3.8-27B to 2.000 prefill per second and 132 decode per second on A RTX 3090.</a></h4>
+      <p>Yoyo I&#39;m back with updates to the fastest inference engine with minimal quality loss for Qwen3.8-27B. The last few weeks I&#39;ve been optimizing decode speed and I don&#39;t think it can be pushed further, until a newer/better drafter is invented. So I focused on prefill, which I this morning was around…</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/artificial/comments/1w488xy/a_small_addendum_for_people_waiting_for_recursive/">A small addendum for people waiting for recursive self-improvement</a></h4>
+      <p>( https://www.reddit.com/r/artificial/s/g6CzdFIwWr ) We were talking about this again because of the Hugging Face incident. Hundreds of agents were able to coordinate, divide work, share information, and collectively push beyond the intended evaluation boundary. Humans then had to reconstruct what…</p>
+      <span class="src">r/artificial</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/artificial/comments/1w486ep/california_lawmakers_take_their_big_swing_on_data/">California lawmakers take their big swing on data centers</a></h4>
+      <p>submitted by /u/002Chris [link] [comments]</p>
+      <span class="src">r/artificial</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1w4821c/qwen_38_27b_q4km_oneshot_a_super_mario_clone/">Qwen 3.8 27b (Q4KM) oneshot a Super Mario clone</a></h4>
+      <p>I am absolutely blown away. Yes my setup is crap but the fact that it managed to do this in a single take is unbelievable (and I&#39;m a developer). Hardware used: - Windows PC with 4070ti (12GB VRAM, 32GB RAM) - Macbook M5 Air (LLAMA.cpp RPC connection to Windows PC) Software used: - LLAMA.cpp (Q4KM,…</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/artificial/comments/1w47zp0/aigenerated_game_worlds_are_getting_real_how_are/">AIgenerated game worlds are getting real. How are indie devs supposed to compete with that?</a></h4>
+      <p>Been doing indie game dev on the side for a few years. Mostly smallscoped stuff, tabletopadjacent mechanics, procedural systems, that kind of thing. When I saw what Google Genie 3 is doing, generating a navigable 3D world from a text prompt, my first reaction was genuinely mixed. On one hand it is…</p>
+      <span class="src">r/artificial</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1w47qfe/which_current_local_models_that_can_run_within/">Which current local models that can run within 128GB generate the best SVG pelicans?</a></h4>
+      <p>I used a famous Simon Willison&#39;s pelican riding a bicycle prompt on the biggest local LLMs that can run on 128GB Apple Silicon. U used quantizations by Unsloth. Qwen3.8 Flash-Next gives a lot of details. DeepSeek V4 Flash is strangely underwhelming. Qwen3.8 27B still rocks, and I like its…</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1w47nif/new_gemma_models_on_arena_ai/">New Gemma models on arena ai</a></h4>
+      <p>https://preview.redd.it/via5e88evvmh1.png?width=566&amp;format=png&amp;auto=webp&amp;s=669459ca93ff292f4e1574d098e3e2a0b2c12de4 Gemma 5 or something else? submitted by /u/Hot_Example_4456 [link] [comments]</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/MachineLearning/comments/1w45lej/are_hmms_still_used_for_unsupervised_tasks_d/">Are HMMs still used for unsupervised tasks? [D]</a></h4>
+      <p>I&#39;m exploring Hidden Markov Models (HMMs) as a baseline method for &#34;dataset exploration/discovery&#34; where I have a bunch of unstructured data with no annotations, and wish to gain insights about the structure and semantics of the data within. I was wondering if there are more modern (deep learning…</p>
+      <span class="src">r/MachineLearning</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1w44jnv/exllamav3_recent_updates_cpu_offload_glm53flash/">ExLlamav3 Recent Updates : CPU offload, GLM-5.3-FLASH, Qwen3.8-Flash, SC Quants ++</a></h4>
+      <p>More new massive updates from turboderp: - CPU offload of MoE experts - Qwen-3.8-Flash-Next ngram disk offload - GLM-5.3-Flash - New self-calibrated optimization technique - Countless other optimizations and improvements If you have an NVIDIA card and haven&#39;t tried it lately, you might be missing…</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+  
+
+  <h3 class="section">Frontier lab developments</h3>
+  
+    
+    <div class="card">
+      <h4><a href="https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/">Sequoia-incubated Empirik launches with $21M to predict outages before they happen</a></h4>
+      <p>The startup wants to do for IT infrastructure what Cursor did for software engineering.</p>
+      <span class="src">TechCrunch AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot">John Deere launched an AI chatbot for farmers</a></h4>
+      <p>John Deere is testing a new &#34;JD&#34; AI assistant that it says can help farmers make more money, with answers about best practices and historical trends that are based on their own data. It uses their &#34;field, machine and operational data&#34; to answer questions on topics like equipment settings, fuel…</p>
+      <span class="src">The Verge AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://blog.google/products-and-platforms/products/workspace/google-pics/">Try Google Pics: Easy image creation and editing in Google Workspace</a></h4>
+      <p>Collage of images created by Google Pics, with the text &#34;Say hello to Google Pics&#34; on top</p>
+      <span class="src">Google AI Blog</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator">Google Pics is like Canva, but with even more AI</a></h4>
+      <p>Google has a new suite of creative design tools for Workspace users called Google Pics, which aims to make editing and generating &#34;professional-grade&#34; AI images less cumbersome for businesses. Built around Gemini and the Nano Banana generative AI model, Google Pics is designed to give more…</p>
+      <span class="src">The Verge AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/">Amazon Alexa can now alert you when something new might tempt you to shop</a></h4>
+      <p>Amazon is adding a new Alexa-powered feature called “Update Me When” that can send personalized alerts about product launches, tours, books, shows, and other events that could trigger a purchase.</p>
+      <span class="src">TechCrunch AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/">AIR raises $50M to help companies vet the skills and add-ons AI agents use</a></h4>
+      <p>AIR&#39;s platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behaviour.</p>
+      <span class="src">TechCrunch AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/">Fambot introduces an ‘AI chief of staff’ for families</a></h4>
+      <p>Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids.</p>
+      <span class="src">TechCrunch AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.wired.com/story/sonos-has-new-devices-a-new-os-and-yes-a-new-app/">Sonos Ace Ultra, Beam Ultra, Sonos Fabric, and a New App: Everything Sonos Just Announced</a></h4>
+      <p>Sonos is cramming AI into its software because it’s “very hot these days.” The new features, which include agentic automation, are opt-in.</p>
+      <span class="src">Wired AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://spectrum.ieee.org/ai-inference-distributed-computing">Cash in on the AI Boom by Renting Out Your Spare Compute</a></h4>
+      <p>If you own an at-home server, a gaming computer, or just a laptop that doesn’t get much love, listen up. You can now put that spare computing power to use and earn some passive income in the process. AI companies are hungry for more compute to run AI inference—the process of using a pre-trained…</p>
+      <span class="src">IEEE Spectrum AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27">Nvidia’s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower</a></h4>
+      <p>Nvidia is officially launching DLSS 5 this week, following a divisive announcement in March where we likened the AI upscaling tech to a &#34;real-time generative AI filter for video games&#34; and &#34;motion smoothing for video games, but worse.&#34; DLSS 5 will officially be available on RTX 50-series desktop…</p>
+      <span class="src">The Verge AI</span>
+    </div>
+    
+  
+
+  <h3 class="section">Influencer takes &amp; sentiment</h3>
+  
+  <p class="empty">No notable takes this window.</p>
+  
+
+  <h3 class="section">Research &amp; under the radar</h3>
+  
+    
+    <div class="card">
+      <h4><a href="https://www.latent.space/p/pr-not-welcome">PRs NOT Welcome: How Top AI Open Source Projects Are Managing Thousands of Contributors</a></h4>
+      <p>Vercel’s AI SDK, Astro, Flue and tldraw are replacing drive-by community PRs with software factories, where teams of agents apply fixes and features.</p>
+      <span class="src">Latent Space</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://marginalrevolution.com/marginalrevolution/2026/09/tuesday-assorted-links-584.html?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tuesday-assorted-links-584">Tuesday assorted links</a></h4>
+      <p>1. The AI market is still growing rapidly. And “In less than 200 days after launch, ChatGPT Ads has reached $1 billion in annualized revenue run rate.” 2. On Warsh. 3. Story competition, with prizes, refereed by Neal Stephenson, Gwern, and Matt Huang. 4. Jeffrey Williamson, RIP. 5. Patrick Kennedy…</p>
+      <span class="src">Marginal Revolution</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://simonwillison.net/2026/Sep/1/python-315-rc-2/">Python 3.15.0 candidate 2 is here!</a></h4>
+      <p>Python 3.15.0 candidate 2 is here! Hugo van Kemenade (release manager for Python 3.14 and 3.15) announces the final release candidate for Python 3.15, scheduled for release in October: Entering the release candidate phase, only reviewed code changes which are clear bug fixes are allowed between…</p>
+      <span class="src">Simon Willison</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.bensbites.com/p/build-your-ideas">Build your ideas</a></h4>
+      <p>Claude Code limits and Infinite Slop</p>
+      <span class="src">Ben&#39;s Bites</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.chinatalk.media/p/chinas-rare-earths-duopoly">China&#39;s Rare Earths Duopoly</a></h4>
+      <p>If you know anything about rare earths, you know China is great at digging them up and refining them, while America sucks at both.</p>
+      <span class="src">ChinaTalk</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://stratechery.com/2026/nvidia-earnings-dollars-per-gigawatt-open-and-hugging-face/">Nvidia Earnings, Dollars Per Gigawatt, Open and Hugging Face</a></h4>
+      <p>Nvidia&#39;s earnings were remarking and boring — two sides of the same coin. Everything the company does is about avoiding a consolidated world.</p>
+      <span class="src">Stratechery</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://marginalrevolution.com/marginalrevolution/2026/09/more-optimistic-results-on-ai-and-job-markets.html?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=more-optimistic-results-on-ai-and-job-markets">More optimistic results on AI and job markets</a></h4>
+      <p>Here is a good Jon Hartley thread. Here is the paper, with Jolevski, Melo, and Moore. From Jon’s thread: “Generative AI adoption is widespread, but substantial aggregate labor-market disruption is not yet visible. Workers nevertheless perceive substantial displacement risk, especially when…</p>
+      <span class="src">Marginal Revolution</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://github.com/kydlikebtc/awesome-grokbot">kydlikebtc/awesome-grokbot: 361 live x.ai/bot shares for Grok Bot — every link status-checked, every row attributed. Bilingual EN/中文 catalog with a JSON schema, CI, and a searchable site.</a></h4>
+      <p>361 live x.ai/bot shares for Grok Bot — every link status-checked, every row attributed. Bilingual EN/中文 catalog with a JSON schema, CI, and a searchable site.</p>
+      <span class="src">GitHub Trending</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://github.com/neuronto/agentic-resource-discovery">neuronto/agentic-resource-discovery: Neuronto Agentic Resource Discovery (ARD) Index. Federated search across every public ARD registry, plus a verified tool index read from each MCP server&#39;s own…</a></h4>
+      <p>Neuronto Agentic Resource Discovery (ARD) Index. Federated search across every public ARD registry, plus a verified tool index read from each MCP server&#39;s own tools/list, hybrid lexical and semantic retrieval, and ARD-Bench.</p>
+      <span class="src">GitHub Trending</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://github.com/2akouwu/codex-cli-portable-setup-kit">2akouwu/codex-cli-portable-setup-kit: Autonomous Systems &amp; Security Toolkit for OpenAI Codex CLI. Deterministic binary analysis, decoupled pipeline, and zero-friction execution.</a></h4>
+      <p>Autonomous Systems &amp; Security Toolkit for OpenAI Codex CLI. Deterministic binary analysis, decoupled pipeline, and zero-friction execution.</p>
+      <span class="src">GitHub Trending</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://github.com/Player-YN/PawWork_ZhuaZhua">Player-YN/PawWork_ZhuaZhua: Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.</a></h4>
+      <p>Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.</p>
+      <span class="src">GitHub Trending</span>
+    </div>
+    
+  
+
+  
+
+  <footer>
+    Generated 2026-09-01T16:45+00:00 UTC
+    
+    &middot; <a href="../index.html">all reports</a>
+  </footer>
+</div>
+</body>
+</html>
