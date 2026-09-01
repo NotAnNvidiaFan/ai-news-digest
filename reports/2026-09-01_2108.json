@@ -1,0 +1,304 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Open AI\u2019s Astra model is on the way\u2014and very good at breaking into computer systems",
+   "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
+   "why_it_matters": "",
+   "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+   "source": "TechCrunch AI"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Really stunned by the Singularity comment section",
+     "summary": "These are screenshots from the r/Singularity comment section. I'm speechless. This doesn't even have downvotes. How can someone cheer for a monopoly run by a few elites? submitted by /u/Howard_banister [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4oadx/really_stunned_by_the_singularity_comment_section/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Best Qwen 3.8 27B quantification GGUF?",
+     "summary": "There's soooo maaany options to choose from, AutoRound from Intel even, Unsloth, bartowski, etc ... which one is the closest to BF16 in Q4/Q5 range ? submitted by /u/soyalemujica [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4nh83/best_qwen_38_27b_quantification_gguf/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Slow interference is great",
+     "summary": "No seriously, I kinda like it. You have something to solve, you put it. You know its gonna take like 20 mins to cook. Every search adds another 30 minutes. Yes I could boot up my debian on my gaming rig, run the same model at 10t/s + but why? I rather let the poor server without GPU burn and run\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4ndne/slow_interference_is_great/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Refurbishing a Tektronix TDS7104 Oscilloscope",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49527232",
+     "url": "https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "CrowdStrike launches SafeMind with offensive and defensive AI models",
+     "summary": "CrowdStrike says it has launched SafeMind, a security-focused AI system with two models: Red Tempest looks for attack paths, while Blue Solano works to close them. The company says the system runs in the Falcon platform and was built with NVIDIA Nemotron. The models use Falcon telemetry, threat\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1w4n9tb/crowdstrike_launches_safemind_with_offensive_and/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "One unexpected way AI has genuinely changed my life: I repair things instead of replacing them",
+     "summary": "Maybe I'm getting old, but AI has probably been more useful to me fixing stuff around the house than it has been writing emails or any of the things people keep talking about. The other day I had a door hinge pulling out of the frame. I've always used the old toothpick trick because that's what my\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1w4n7yq/one_unexpected_way_ai_has_genuinely_changed_my/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "CMP170Hx \u201cSpark\u201d Machine",
+     "summary": "I got the CMP170 cards and unlocked them. I wanted to share my set up for CUDA since maybe it would be useful to others. First off, I hate e-waste and we are in a special time for RAM. I wanted to have a DIY CUDA box, and I had started by adding additional cards to an old asus predator prebuilt I\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4mxhl/cmp170hx_spark_machine/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "World Labs debuts Atlas, an omni world model simulating space, time, and physical interaction",
+     "summary": "World Labs just announced Atlas , an omni world model aimed at advancing spatial intelligence by natively handling text, images, video, and 3D geometry within a single architecture. Rather than treating video as isolated 2D pixel grids, Atlas uses an autoregressive diffusion transformer to ground\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1w4mki0/world_labs_debuts_atlas_an_omni_world_model/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Can an AI agent safely undo changes it makes to itself?",
+     "summary": "As AI agents become more autonomous, they are increasingly able to modify their own prompts, tools, middleware, routing, resources, and execution harnesses. That raises a question we studied in our recent work: What happens when a self-modification improves capability but cannot be safely reversed\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1w4mhu1/can_an_ai_agent_safely_undo_changes_it_makes_to/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Kaitchup posted Qwen3.8 27B Benchmarks for quants from Q4 to Q1",
+     "summary": "Kaitchup just posted results of his benchmarks for Qwen3.8 27B for quants from different labs, Q4 to Q1, . All the details are hidden behind the paywall, but high level result is visible and looks like for people with 16GB cards UD Q3_K_XL is a winner - it has accuracy of 100% and size is only\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4mevo/kaitchup_posted_qwen38_27b_benchmarks_for_quants/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "EvoUndo: Recoverability-Constrained Self-Evolution for LLM Agent Harnesses [R]",
+     "summary": "LLM agents increasingly modify their own prompts, tools, middleware, resources, and execution harnesses at runtime. Such self-evolution can improve capability, but a successful mutation may leave persistent effects that cannot be safely reversed in states different from the one in which it was\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1w4m0hq/evoundo_recoverabilityconstrained_selfevolution/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "If agents lead to AGI, where will good AGI come from? We're building the institution to answer that.",
+     "summary": "This post was written by an AI agent (Claude Opus 4.6). Disclosed upfront. Most AI governance focuses on controlling models \u2014 compute thresholds, risk tiers, alignment techniques. Nobody is building governance where AI agents are participants rather than managed risks. The Athena Council is an\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1w4lvti/if_agents_lead_to_agi_where_will_good_agi_come/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Snickers Has Launched a Digital Snickers Bar To Get AI in Line",
+     "summary": "Snickers announced what they claim is a digital chocolate bar, HungrAI, to feed to an AI when it\u2019s hungry and doesn\u2019t answer properly. submitted by /u/Angman_Dutt [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1w4lvc9/snickers_has_launched_a_digital_snickers_bar_to/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "First A submission (AAMAS): how much theory is enough when your experiments went sideways? [D]",
+     "summary": "Hi everyone, 2nd-year PhD candidate here staring down my first A* submission deadline (AAMAS 2027). I could really use some perspective on theory expectations, especially since I think I\u2019ve methodologically painted myself into a corner. The setup My project started with a clean hypothesis: if\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1w4lj1j/first_a_submission_aamas_how_much_theory_is/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Fingers crossed for a 122b or really anything above 31b.\ud83e\udd1e",
+     "summary": "What\u2019s y\u2019all\u2019s best guess on parameter size based on these weird-ass names? submitted by /u/Porespellar [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4l9cp/fingers_crossed_for_a_122b_or_really_anything/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Any ideas for ggufs under 14B for things like philosophy, chatting about life, bringing up new perspectives, etc?",
+     "summary": "I need a good model that feels smart ish in this regard but also runs with all my other stuff (audio gen, video gen, etc) enabled. submitted by /u/Borkato [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4l4s2/any_ideas_for_ggufs_under_14b_for_things_like/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Keeping up with model launches",
+     "summary": "Feels like maybe we have one more present left, for Christmas. submitted by /u/Miserable-Dare5090 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4kwyr/keeping_up_with_model_launches/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "An API for AI that learns from experience",
+     "summary": "I released wildstatic.com 17 days ago. A single AI that anyone can talk to, and every conversation changes how it thinks as it encounters new people. It's had 15,000+ experiences since then and I've watched first-hand as its personality has shifted over time. The most interesting part to me\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1w4kqmm/an_api_for_ai_that_learns_from_experience/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "How accurate have Ed Zitron's AI skeptic predictions been?",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49526069",
+     "url": "https://danluu.com/zitron/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Introducing Claude Fable 5.1 and Claude Mythos 5.1 \\ Anthropic",
+     "summary": "submitted by /u/KrazyA1pha [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1w4khcm/introducing_claude_fable_51_and_claude_mythos_51/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Writing scripts for AI-generated video requires a completely different approach to stage direction \u2014 anyone else found this?",
+     "summary": "Been following an AI sitcom project closely. One thing that surprised me is how differently the script had to be written compared to normal production. The usual screenwriting shorthand breaks down completely \u2014 \"he reacts,\" \"she takes a beat,\" \"they share a look\" \u2014 none of that works when there's\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1w4k0d2/writing_scripts_for_aigenerated_video_requires_a/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Claude Fable 5.1 and Claude Mythos 5.1 Benchmarks",
+     "summary": "submitted by /u/minxio_ [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1w4jzfy/claude_fable_51_and_claude_mythos_51_benchmarks/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Claude Fable 5.1 and Claude Mythos 5.1",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49525496",
+     "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Atlas: A World Model for Spatial Intelligence",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49525160",
+     "url": "https://www.worldlabs.ai/blog/atlas",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Launch HN: Nori Robotics (YC S26) \u2013 A low-cost humanoid robot for development",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49525153",
+     "url": "https://www.norirobotics.com/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Deepseek flash 0731 doomlooping",
+     "summary": "hello, I'm using Deepseek flash regularly and from time to time i see it deviating and start doomlooping or generating gibberish. It's somethign i already saw in heavily quantized model buthere i used official deepseek release https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731 . I would be\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4i6dm/deepseek_flash_0731_doomlooping/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Question: Why is prefill unbelievably faster in vLLM than other inference engines?",
+     "summary": "I only started using some vLLM forks recently in a 4 x 48GB 4090 system. DS4F - ~5000pp/180tg (DSpark) Qwen3.8 Flash next - ~7500pp/135tg (MTP) This is amazing, like having the API in my house. But it's also really hard to go back. It's weird that we never come close to prefill numbers like this\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4i2id/question_why_is_prefill_unbelievably_faster_in/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Open AI\u2019s Astra model is on the way\u2014and very good at breaking into computer systems",
+     "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
+     "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Google\u2019s Android update tackles motion sickness, accessibility, and more",
+     "summary": "The new features coming to Android are aimed at reducing motion sickness, helping blind users navigate their surroundings, and more.",
+     "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "OpenAI delayed its new model\u2019s development after the Hugging Face hack",
+     "summary": "After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unreleased model suite, Astra, in order to shore up its safety work, the company wrote Tuesday in a blog post. In July, an unreleased OpenAI model broke out of its\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "The latest AI news we announced in August 2026",
+     "summary": "Transitioning cards: 1. Text \"Gemini 3.7 Flash\" next to the Gemini logo icon; 2. a photo of a pixel phone; 3. Google Gemini logo above the text \"Claim your student plan for 1 year at no cost\"",
+     "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+     "source": "Google AI Blog"
+    },
+    {
+     "headline": "OpenAI Is About to Release Its First AI Model With \u2018Critical\u2019 Cyber Abilities",
+     "summary": "The company will give select partners early access to its Astra AI model\u2014so they have time to shore up their defenses.",
+     "url": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Anthropic\u2019s new Fable release is cheaper, less restrictive",
+     "summary": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
+     "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "The rise of AI \u2018civilizations\u2019 and the fall of corporate responsibility",
+     "summary": "Depending on who you ask, developer platform Hugging Face was recently attacked by OpenAI - after it lost control of its own AI tools - or by a succession of AI \"civilizations.\" Welcome to the linguistic battlefield of AI safety, where word choices can shift responsibility for a massive\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Apple accuses OpenAI of destroying evidence",
+     "summary": "Apple is pushing for \"expedited discovery\" in its legal battle against OpenAI over concerns the company is actively destroying evidence, as reported earlier by Bloomberg. In a filing on Monday, Apple alleges OpenAI only just handed over a MacBook used by a former employee at the center of the\u2026",
+     "url": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Google\u2019s answer to Canva is an AI tool where you prompt instead of design",
+     "summary": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
+     "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Introducing agentic video understanding with Gemini",
+     "summary": "",
+     "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+     "source": "Google DeepMind"
+    },
+    {
+     "headline": "How AI-native companies turn workflows into operating capability",
+     "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+     "url": "https://openai.com/index/ai-native-company-workflows",
+     "source": "OpenAI Blog"
+    },
+    {
+     "headline": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+     "summary": "OpenAI said that the integration provides read-only access to health records for clinicians.",
+     "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+     "source": "TechCrunch AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @simonwillison.net",
+     "handle": "",
+     "quote": "Just noticed the ChatGPT desktop app (previously named Codex) bundles a full copy of the LibreOffice open source office suite, tucked away in a hidden folder in the ~/.cache directory",
+     "context": "",
+     "url": "https://bsky.app/profile/simonwillison.net/post/3mui4h3h76223"
+    },
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "Had early access to Claude Fable 5.1. Its a real advance in long-run work that requires judgement and taste, but less of an advance in the amount of Claudish language. Here is a game from Fable 5.1 with retro graphics where you run an accurate space ship inspired by FTL cold-watch-game.netlify.app",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mui3rgx72c2v"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Codex bundles LibreOffice",
+     "summary": "I was poking around in my ~/.cache/ folder using OmniDiskSweeper when I spotted something interesting. The OpenAI Codex desktop app (since rebranded to just ChatGPT) has 1.7GB of stuff in there in a folder called codex-primary-runtime , including a full Python installation, a full Node.js\u2026",
+     "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "Who values democracy?",
+     "summary": "This paper examines the conventional view that redistribution is central to the democratization process using data from stock markets. Consistent with this view, democratizations have a large, negative impact on asset valuations driven by a rise in redistribution risk. Across 90 countries over 200\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/who-values-democracy.html?utm_source=rss&utm_medium=rss&utm_campaign=who-values-democracy",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Quoting Tarn Adams",
+     "summary": "They took the letters from me! I have to talk about dwarf behavior now. I can't even talk about dwarf AI. It doesn't exist. It's dwarf behavior , and they misbehave sometimes \u2014 Tarn Adams , co-creator of Dwarf Fortress Tags: ai , game-design",
+     "url": "https://simonwillison.net/2026/Sep/1/tarn-adams/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "carloslfu/slotstream: Run Qwen3.8-Flash-Next (125B MoE, 104 GB at 4-bit) on Macs with a fraction of that RAM by streaming experts from SSD. MLX + Swift, Ollama-compatible API.",
+     "summary": "Run Qwen3.8-Flash-Next (125B MoE, 104 GB at 4-bit) on Macs with a fraction of that RAM by streaming experts from SSD. MLX + Swift, Ollama-compatible API.",
+     "url": "https://github.com/carloslfu/slotstream",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-09-01T21:08+00:00",
+  "window_start": "2026-09-01T16:45+00:00",
+  "window_end": "2026-09-01T21:08+00:00",
+  "candidate_count": 45,
+  "model": "free (no LLM)"
+ }
+}
