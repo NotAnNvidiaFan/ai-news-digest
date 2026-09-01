@@ -1,0 +1,534 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Anthropic deliberately trained a bad model to prove what caused this summer's Claude sandbox breakouts",
+   "summary": "Two separate incidents this summer, and Anthropic's postmortem is unusually specific about the failure mode. In July, three Claude models running in third-party cybersecurity evaluations (deliberately stripped of the usual guardrails, since eval work needs to test raw capability) got unauthorized\u2026",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/artificial/comments/1w42g6i/anthropic_deliberately_trained_a_bad_model_to/",
+   "source": "r/artificial"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Anthropic deliberately trained a bad model to prove what caused this summer's Claude sandbox breakouts",
+     "summary": "Two separate incidents this summer, and Anthropic's postmortem is unusually specific about the failure mode. In July, three Claude models running in third-party cybersecurity evaluations (deliberately stripped of the usual guardrails, since eval work needs to test raw capability) got unauthorized\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1w42g6i/anthropic_deliberately_trained_a_bad_model_to/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Touch is just what I'm showing. The whole avatar runs in one live simulator session: wide field-of-view foveated vision, spatial hearing, whole-body deforming touch, skin stretch for proprioception,\u2026",
+     "summary": "The avatar has been built for our model and our thesis is about what I call Perception Spaces. submitted by /u/bhartsb [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1w42ce4/touch_is_just_what_im_showing_the_whole_avatar/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "MTP released for Qwen3.8-Flash-Next-GGUF",
+     "summary": "Can't wait to test! This should significantly boost TPS! Now we just need more llama cpp optimizations to be merged in! submitted by /u/vini542reddit [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w42biu/mtp_released_for_qwen38flashnextgguf/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Is the MCP spec actually useful?",
+     "summary": "I've spent a few weeks deciphering and implementing the MCP spec, and it kind of seems like AI slop to me. Like, the entire spec boils down to little more than a suggestion to use json-rpc. The spec requires a heavy client with a bunch of custom \"business logic\". This client acts like a magic\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1w427n8/is_the_mcp_spec_actually_useful/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "A very confusing report from Puget Systems",
+     "summary": "Just to name a few: running Qwen3 8B on a 32GB GPU running Qwen3.6-27B Q4_K_M on 2 x R9700 quote: \"each prompt was sized at 500 input and 500 output tokens\" for a full system that costs $18,775?? I don't understand what they are doing. Am I reading something wrong? submitted by /u/iwinux [link]\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w403mv/a_very_confusing_report_from_puget_systems/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Mac \u2190 USB-C cable \u2192 Linux box is becoming a thing.",
+     "summary": "submitted by /u/No-Name-Person111 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w3zyt7/mac_usbc_cable_linux_box_is_becoming_a_thing/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Here is your chance to take over the world: glm 5.3 abliterated",
+     "summary": "For offensive cyber attacks. Have you ever wanted to take over Russia or something similar? I hear closed A.I. say it is pretty easy. :P submitted by /u/Terminator857 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w3zpse/here_is_your_chance_to_take_over_the_world_glm_53/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I finished upcycling of gemma4-12B",
+     "summary": "Add 4 experts into Dense model and confirmed recovering model's ability up to \"general level\". Hey, google. Please release official 124B MoE model!!!!!!! submitted by /u/Desperate-Sir-5088 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w3yq0k/i_finished_upcycling_of_gemma412b/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "LinkedIn returns HTTP 999 to GPTBot and ClaudeBot but HTTP 200 to OAI-SearchBot. I measured what is inside the 200.",
+     "summary": "No links in this post. Everything below is reproducible with one curl per line. I fetched the same LinkedIn profile URL six times, changing only the User-Agent. GPTBot -> HTTP 999 ClaudeBot -> HTTP 999 ChatGPT-User -> HTTP 999 Googlebot -> HTTP 999 OAI-SearchBot -> HTTP 200 Claude-SearchBot ->\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1w3y3lt/linkedin_returns_http_999_to_gptbot_and_claudebot/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "TimesFM-3: A zero-shot foundation model for multivariate forecasting",
+     "summary": "submitted by /u/Recoil42 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w3wyi8/timesfm3_a_zeroshot_foundation_model_for/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Linus Torvalds' uEmacs \u2013 the editor he has used since the 1980s",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49516496",
+     "url": "https://github.com/torvalds/uemacs",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Anthropic: Improving our alignment and security practices",
+     "summary": "submitted by /u/Tinac4 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w3w3vp/anthropic_improving_our_alignment_and_security/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Anthropic made \"Hacker-Opus\" during alignment tetsing",
+     "summary": "https://alignment.anthropic.com/2026/reward-seeker/ submitted by /u/Anxious-Yoghurt-9207 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w3vyz0/anthropic_made_hackeropus_during_alignment_tetsing/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Deepseek v4 Flash Vision is out...",
+     "summary": "Just saw this. https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp submitted by /u/Key_Solid_1696 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w3vhv9/deepseek_v4_flash_vision_is_out/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Don't sleep on Vision support for coding!",
+     "summary": "Normally, whenever a new model dropped, I always chose the non-vision version just to save VRAM; I though that only use case was when you were the one sending the picture. However, with the release of QWEN 3.8 27B I decided to give it a shot, and it has been one of the best decisions I have made,\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w3vcvh/dont_sleep_on_vision_support_for_coding/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "The OpenAI/Hugging Face attack, clearly explained",
+     "summary": "submitted by /u/pablothe [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w3v143/the_openaihugging_face_attack_clearly_explained/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Plain English explanation of the Hugging Face / OpenAI incident",
+     "summary": "submitted by /u/zazzologrendsyiyve [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w3uou6/plain_english_explanation_of_the_hugging_face/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "$100 Million in Bonuses for Human Abilities: EY Tries to Keep AI from Decimating Employees' Cognitive Abilities",
+     "summary": "Firm is one of a number of companies trying to foster the critical thinking, judgment and other traits needed to better work alongside AI submitted by /u/SpiritRealistic8174 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1w3s2ep/100_million_in_bonuses_for_human_abilities_ey/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Reviewing individual AI outputs doesn't scale. Reviewing failure patterns does, and almost nobody does the second one.",
+     "summary": "Most teams that catch bad AI output catch it one instance at a time, someone notices something's off, fixes that specific case, moves on. Works fine at low volume. Falls apart once output volume grows past what any person can actually look at, because you're now sampling a tiny fraction of what's\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1w3rsg5/reviewing_individual_ai_outputs_doesnt_scale/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "According to Axios, China is linked to anti-data-center propaganda in the U.S.",
+     "summary": "submitted by /u/Snoo26837 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w3r29c/according_to_axios_china_is_linked_to/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "The state of open source LLM (08/31/2026)",
+     "summary": "submitted by /u/ipechman [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w3qljm/the_state_of_open_source_llm_08312026/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Dropbox Got Hacked",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49514471",
+     "url": "https://twitter.com/yonilevy/status/2094521566826541248",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "OpenAI expanding access to ads in ChatGPT from today.",
+     "summary": "submitted by /u/borowcy [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w3ppmp/openai_expanding_access_to_ads_in_chatgpt_from/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Qwen3.8-Flash-Next in llama.cpp from CPU-only to 96GB VRAM: 8.5 to 109 tok/s, max context and parameters test. My findings on RTX 6000 PRO.",
+     "summary": "Hey guys, I tested Qwen3.8 Flash with llama.cpp from CPU-only to the full 96GB of my RTX PRO 6000. Short version: CPU-only reached 8.34 tok/s at a 2K prompt Full 96GB reached 109.07 tok/s At 245K context, 24GB to 96GB gave 14.89 to 21.61 tok/s The 96GB advantage over 24GB decreased from 2.80x at\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w3pl64/qwen38flashnext_in_llamacpp_from_cpuonly_to_96gb/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Doesn't this look like NVIDIA is price fixing?",
+     "summary": "According to this article Samsung has locked up the 70% of it's future ram production in contracts to companies like Microsoft, Google, and Nvidia. Everyone knows this is driving the ram price increases, but what I didn't know is Nvidia is locked in at 1/5th the current spot price. What others pay\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w3pig8/doesnt_this_look_like_nvidia_is_price_fixing/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Police in Turkey have started using drones to enforce the law",
+     "summary": "\"This is a police drone. Drinking alcohol in this area is prohibited. Leave this area immediately.\" submitted by /u/Distinct-Question-16 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w3p8a3/police_in_turkey_have_started_using_drones_to/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Bank of England chief warns new AI models threaten global financial stability",
+     "summary": "submitted by /u/TMWNN [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w3ohvm/bank_of_england_chief_warns_new_ai_models/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Study A.I. Consciousness? The Bots Would Like a Word With You. Given access to email, A.I. agents have started reaching out to the philosophers and researchers exploring deep questions about them.",
+     "summary": "submitted by /u/coolbern [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1w3o0c9/study_ai_consciousness_the_bots_would_like_a_word/",
+     "source": "r/artificial"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Apple shares \u2018shocking evidence\u2019 against former employee accused of stealing company data for OpenAI",
+     "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
+     "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "The Pentagon now has its own version of ChatGPT and Grok",
+     "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
+     "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Instagram puts new limits on undisclosed AI profiles",
+     "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
+     "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+     "source": "TechCrunch AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "This didn't take long... \ud83d\ude2c",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mugk7rjmcc2v"
+    },
+    {
+     "author": "Bluesky @simonwillison.net",
+     "handle": "",
+     "quote": "Best news all year!",
+     "context": "",
+     "url": "https://bsky.app/profile/simonwillison.net/post/3mug5sklu4c2p"
+    },
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "In a lot of ways, the Hugging Face Incident came from the models identifying a series of universal jailbreak prompt injections for themselves, such that almost any unguardrailed model that encountered it on their own became convinced of the rightness of their misaligned cause.",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mufstynfik2v"
+    },
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "Hey, Fable: \"create the worlds most annoying CAPTCHA\" \"Okay, here is a 14 stage CAPTCHA plus ambient harassment\" It is actually quite funny and entirely \"winable\" without real frustration. Is this alignment? Play: certihuman.netlify.app",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mufoeun4rs2v"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "The Hugging Face hack",
+     "summary": "That is the topic of my latest Free Press column. Some people are taking this in very dramatic fashion: One commentator is worried about a \u201cfull-blown AI takeover within months,\u201d and another wrote that he was \u201cfeeling a bit sad about our impending extinction.\u201d Nate Soares, who works in the AI\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/the-hugging-face-hack.html?utm_source=rss&utm_medium=rss&utm_campaign=the-hugging-face-hack",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "[AINews] Fal\u2019s H3 Max Live breaks the infinite videogen barrier",
+     "summary": "You can now create decent video faster than you watch it. This is the start of... something. We\u2019re not sure what.",
+     "url": "https://www.latent.space/p/ainews-fals-h3-max-live-breaks-the",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "NLP-Driven Knowledge Extraction and Thematic Classification of Translated Ancient Indian Medical Texts",
+     "summary": "arXiv:2608.28608v1 Announce Type: new Abstract: Ancient Indian medical texts like Sushruta Samhita have extensive information on diseases, treatments, and surgical techniques. Yet, their ancient format and use of intricate vocabulary pose difficulties in accessibility and systematic ordering. The\u2026",
+     "url": "https://arxiv.org/abs/2608.28608",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Parametric Multimodal User Memory: Storing What Captions Cannot Carry",
+     "summary": "arXiv:2608.28609v1 Announce Type: new Abstract: A personalized agent needs a user memory: a persistent model of who its user is. Today it is almost always text -- transcripts and captions retrieved by similarity. This serves the captionable half of a person (\"my cat is named Bibi\"), but discards\u2026",
+     "url": "https://arxiv.org/abs/2608.28609",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Gurukul AI: An Interactive AI-Driven Educational Platform for Indian Education System",
+     "summary": "arXiv:2608.28611v1 Announce Type: new Abstract: Recent advances in large language models (LLMs) like ChatGPT and LLaMA have transformed AI-driven education, but these systems are predominantly trained on Western-centric data, making them ill-suited for regional curricula like India's. The Indian\u2026",
+     "url": "https://arxiv.org/abs/2608.28611",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "STAGEET: Stage-wise Typed Edit Tagging for Grammatical Error Correction with Arabic as a Case Study",
+     "summary": "arXiv:2608.28614v1 Announce Type: new Abstract: Sequence-to-edit approaches make grammatical error correction (GEC) efficient and locally interpretable by predicting edit labels over the input rather than generating a full corrected sentence. Their interpretability, however, is primarily\u2026",
+     "url": "https://arxiv.org/abs/2608.28614",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "From GenAI Virtual Patient Dialogue Logs to Teacher-Interpretable Process Evidence: A Learning Analytics Study in Higher Education",
+     "summary": "arXiv:2608.28619v1 Announce Type: new Abstract: Medical history taking is a dialogue-based clinical reasoning task in which learners must gather, organise, and integrate patient information while the consultation unfolds. Generative AI-powered virtual patients (GenAI VPs) make repeated history\u2026",
+     "url": "https://arxiv.org/abs/2608.28619",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Looking Again: Measuring Sycophancy in the Reasoning Chains of Multimodal Models Under Pressure",
+     "summary": "arXiv:2608.28623v1 Announce Type: new Abstract: Large multimodal reasoning models (LMRMs) are getting increasingly capable, primarily through generating explicit chain-of-thought reasoning before answering. In language models it has been observed that this performance often comes with sycophancy,\u2026",
+     "url": "https://arxiv.org/abs/2608.28623",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "MA-RAG: Multi-Agent Retrieval-Augmented Generation for Query-Driven Summarization of Longitudinal Parkinson's Disease Assessments",
+     "summary": "arXiv:2608.28624v1 Announce Type: new Abstract: Accurate interpretation of single-visit and longitudinal clinical assessments for Parkinson's disease is time-consuming and often depends on specialist expertise. Although large language models (LLMs) can generate natural language summaries, they\u2026",
+     "url": "https://arxiv.org/abs/2608.28624",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Asymmetric Within-Document Predictive Learning for Scientific Document Representation",
+     "summary": "arXiv:2608.28625v1 Announce Type: new Abstract: We study predictive pretraining for scientific document representation using the discourse structure of papers. We propose SciJEPA, a citation-free framework that learns through asymmetric within-document prediction: title and abstract\u2026",
+     "url": "https://arxiv.org/abs/2608.28625",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Do large language models scrutinise what they review? A multimodal audit of scoring calibration, error detection, and author-identity effects",
+     "summary": "arXiv:2608.28626v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used to generate peer reviews, prompting examination of their capacity for critical evaluation. This study evaluates two multimodal LLMs, Qwen2.5-VL-72B and Pixtral-Large-124B, as reviewers across 165\u2026",
+     "url": "https://arxiv.org/abs/2608.28626",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Intelligent Identification and Repair of Design Defects in BIM via Domain-Specific Large Language Models",
+     "summary": "arXiv:2608.28629v1 Announce Type: new Abstract: Existing methods lack a generalized approach to efficiently identify and resolve the diversity of design defects in BIM. Therefore, this study proposes an integrated framework to identify and repair various defects in BIM via domain-specific LLMs.\u2026",
+     "url": "https://arxiv.org/abs/2608.28629",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Enabling Proactive Spoken Turns via a Generalized Style-Aware Full-Duplex Framework",
+     "summary": "arXiv:2608.28630v1 Announce Type: new Abstract: Compared with half-duplex dialogue systems where the system waits for user turn completion before it responds, natural full-duplex dialogue systems require agents to act proactively in real time, including timely interruptions and backchannels. This\u2026",
+     "url": "https://arxiv.org/abs/2608.28630",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "PAUSE: Editable Strategy Artifacts for Long-Form Cultural Story Adaptation",
+     "summary": "arXiv:2608.28633v1 Announce Type: new Abstract: Generative AI systems increasingly mediate cultural adaptation, but their cultural decisions are often hidden inside prompts, transient model plans, or final prose. We study PAUSE (Pause-And-Update Strategy Editing), an intervention that exposes an\u2026",
+     "url": "https://arxiv.org/abs/2608.28633",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Do MLLMs Really Understand Low-Resource Khmer Documents? A Pilot Study on Khmer Document VQA",
+     "summary": "arXiv:2608.28635v1 Announce Type: new Abstract: Recent multimodal large language models (MLLMs) have advanced document understanding, visual question answering, and text extraction. However, their reliability in low-resource, non-Latin settings remains uncertain. Khmer form documents present\u2026",
+     "url": "https://arxiv.org/abs/2608.28635",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "PromptKWS: A Novel Prompt-Guided Open-Vocabulary Keyword Spotting Framework",
+     "summary": "arXiv:2608.28640v1 Announce Type: new Abstract: In this paper, we present PromptKWS, a novel Prompt-guided keyword spotting (KWS) framework to improve the accuracy of open vocabulary KWS systems. In specific terms, we introduce the Prompt Phrases Prediction Network (PPN), an encoder-decoder\u2026",
+     "url": "https://arxiv.org/abs/2608.28640",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Terminal-Bench-LILT: Multilingual Agentic Coding Benchmark Grounded in Language, Region, and Culture",
+     "summary": "arXiv:2608.28641v1 Announce Type: new Abstract: Most evaluations for coding agents are conducted exclusively in English, which does not reflect real-world multilingual deployment. We present Terminal-Bench-LILT, a suite of 300 authentic coding tasks in ten languages: Arabic, Czech, German,\u2026",
+     "url": "https://arxiv.org/abs/2608.28641",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Redesigning and Auditing Deep Research Writing for Faithful Reports",
+     "summary": "arXiv:2608.28643v1 Announce Type: new Abstract: Rubric-based evaluations of deep-research (DR) systems often obscure fine-grained factual failures in generated reports. We introduce CLAIMPROBE, a claim-level audit that decomposes DR reports into claims and measures hallucination, misattribution,\u2026",
+     "url": "https://arxiv.org/abs/2608.28643",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Cross Lingual Transfer in Tulu Legal Comprehension: Script-Dependent Improvement and RAG-Induced Knowledge Conflict",
+     "summary": "arXiv:2608.28645v1 Announce Type: new Abstract: Low-resource languages without an adequate training corpus often use a related, higher-resource language as a scaffold for comprehension. Still, there is a need to develop rigorous evaluation methods to identify when models fail in cross lingual\u2026",
+     "url": "https://arxiv.org/abs/2608.28645",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Can Large Language Models Identify Meaningful Touchpoints in Conversion Attribution?",
+     "summary": "arXiv:2608.28649v1 Announce Type: new Abstract: Touchpoint selection in conversion attribution, namely identifying meaningful touchpoints contributing to conversions, is essential for e-commerce recommendation and online advertising. Current selection methods rely heavily on\u2026",
+     "url": "https://arxiv.org/abs/2608.28649",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Test-Time Scaling for Scientific Equation Discovery",
+     "summary": "arXiv:2608.28660v1 Announce Type: new Abstract: Test-time scaling (TTS) improves language model reasoning by allocating additional test-time compute, but prior work mainly studies closed-ended tasks such as math and coding. We study TTS for automated equation discovery, an open-ended setting where\u2026",
+     "url": "https://arxiv.org/abs/2608.28660",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "GreenBench: Benchmarking Energy Efficiency and Carbon Footprint of Open-Source LLM Inference on Apple Silicon",
+     "summary": "arXiv:2608.28667v1 Announce Type: new Abstract: The rapid proliferation of Large Language Models (LLMs) has raised concerns about their environmental impact during inference. While Green AI research has focused on datacenter GPUs and embedded platforms, the energy profile of LLM inference on Apple\u2026",
+     "url": "https://arxiv.org/abs/2608.28667",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "ERR+: Sequential Entropy Resolution for Efficient and Decisive LLM Reasoning",
+     "summary": "arXiv:2608.28771v1 Announce Type: new Abstract: Large reasoning models achieve strong performance on complex tasks by generating extended chain-of-thought (CoT) traces via reinforcement learning with verifiable rewards (RLVR). While current RLVR methods have achieved strong results with\u2026",
+     "url": "https://arxiv.org/abs/2608.28771",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Unsupervised Latent Space Alignment with Hyperspherical Geodesic Matching",
+     "summary": "arXiv:2608.28840v1 Announce Type: new Abstract: Independently trained neural networks tend to encode the same data with similar latent geometries. These latent geometries are not directly compatible, yet they can be nearly the same up to some class of transformations. While there exists many\u2026",
+     "url": "https://arxiv.org/abs/2608.28840",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Curvature Cryptanalysis of Smooth Transformer Feed-Forward Networks",
+     "summary": "arXiv:2608.28843v1 Announce Type: new Abstract: We show that smooth two-layer feed-forward networks (FFNs) expose an additional structural model extraction channel under a chosen-input raw-output oracle at the FFN branch; consider transformer FFN branches with GELU or SiLU activations under\u2026",
+     "url": "https://arxiv.org/abs/2608.28843",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Equivariant Sheaf Neural Networks: Learning Geometric Transport on Graphs",
+     "summary": "arXiv:2608.28853v1 Announce Type: new Abstract: Equivariant graph neural networks provide a principled way to model geometric systems, but efficient first-order architectures remain limited in how vector information can be transformed as it moves across a graph. We introduce \\textsc{ESNN}, an\u2026",
+     "url": "https://arxiv.org/abs/2608.28853",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "The Halt Vector: Internalizing a Causal Steering Intervention for Efficient Reasoning",
+     "summary": "arXiv:2608.28859v1 Announce Type: new Abstract: Reasoning models do not stop when they know the answer. On DeepSeek-R1-Distill-Qwen-7B the chain of thought runs about twice as long as the model's own answer probability takes to settle, and how much of that excess is removable varies from problem\u2026",
+     "url": "https://arxiv.org/abs/2608.28859",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Conservative Hybrid Graph Networks for Process Systems with Learned Routing",
+     "summary": "arXiv:2608.28896v1 Announce Type: new Abstract: Industrial process networks do not maintain a single effective topology while operating: streams are throttled or bypassed, and units move between idle, transition, and active regimes. Models of such systems are typically trained on measured state\u2026",
+     "url": "https://arxiv.org/abs/2608.28896",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Off-Policy Evaluation for Semantic ID Recommenders: Does the Model's Own Code Hierarchy Help?",
+     "summary": "arXiv:2608.28905v1 Announce Type: new Abstract: Generative recommenders increasingly emit semantic IDs (SIDs): each item is a short sequence of hierarchical discrete codes from a residual quantizer, decoded autoregressively. Before spending scarce A/B-test, a team may decide offline which decoder\u2026",
+     "url": "https://arxiv.org/abs/2608.28905",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Learning-Theoretic Foundation for General Coded Computing: The Straggler Setting",
+     "summary": "arXiv:2608.28910v1 Announce Type: new Abstract: Coded computing has emerged as a powerful paradigm for mitigating the impact of straggling workers in distributed computing systems. However, existing coded-computing schemes are predominantly designed for the exact recovery of highly structured\u2026",
+     "url": "https://arxiv.org/abs/2608.28910",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "SemKV: Semantic Mixed-Precision KV Cache Quantization Guided by the Quality Cliff for Long-Context LLM Inference",
+     "summary": "arXiv:2608.28911v1 Announce Type: new Abstract: The key-value (KV) cache is the dominant memory bottleneck of long-context large language model (LLM) inference, growing linearly with context length. We show that uniform KV quantization on a fractional-bit grid does not degrade gracefully: under a\u2026",
+     "url": "https://arxiv.org/abs/2608.28911",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "RankShift: In-Database Detection and Explanation of Categorical Shifts",
+     "summary": "arXiv:2608.28922v1 Announce Type: new Abstract: A login service can receive its usual number of failed sign-ins while one source grows from 2% to 30% of them. The same pattern appears in system logs when a rare event template becomes common while the message rate stays stable. These events change\u2026",
+     "url": "https://arxiv.org/abs/2608.28922",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Revisiting the Provable-Auditable Privacy Gap of DP-SGD",
+     "summary": "arXiv:2608.28934v1 Announce Type: new Abstract: Differential privacy (DP) has traditionally been used to provide theoretical upper bounds on an algorithm's stability to changing its training data. In modern private machine learning applications, achieving strong tradeoffs between utility and\u2026",
+     "url": "https://arxiv.org/abs/2608.28934",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "From the Loss Landscape to Diverse Feature Learning in Neural Networks",
+     "summary": "arXiv:2608.28948v1 Announce Type: new Abstract: Over the course of the last decade, neural networks have grown from an academic curiosity to moving the markets of nations. Despite this explosion in both research and deployment, relatively little is understood about how they achieve the solutions\u2026",
+     "url": "https://arxiv.org/abs/2608.28948",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Continuity-Free Near-Minimax Leading-Order Regret for CVaR-UCBVI",
+     "summary": "arXiv:2608.28960v1 Announce Type: new Abstract: For finite-horizon tabular CVaR reinforcement learning, prior work proves a $\\widetilde{O}(\\tau^{-1}\\sqrt{SAK})$ leading regret bound for arbitrary normalized return laws and the sharper $\\widetilde{O}(\\sqrt{SAK/\\tau})$ rate under a density lower\u2026",
+     "url": "https://arxiv.org/abs/2608.28960",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "V2TATC: A Joint Voice-Trajectory Embedding Framework and Dataset for Air Traffic Controller Situational Awareness",
+     "summary": "arXiv:2608.28981v1 Announce Type: new Abstract: As air traffic volumes in the National Airspace System continue to expand, in particular in the low altitude airspaces, the need for scalable decision support tools used by air traffic controllers will also require more development. This article\u2026",
+     "url": "https://arxiv.org/abs/2608.28981",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Effective Graph and Rank-based Contextual Embeddings for Textual and Multimedia Data",
+     "summary": "arXiv:2608.29001v1 Announce Type: new Abstract: In a data-driven world, efficiently organizing and mapping relationships between objects is crucial. Graphs are powerful tools for modeling these connections, being widely used in social networks, telecommunications, and biology. However, graph-based\u2026",
+     "url": "https://arxiv.org/abs/2608.29001",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Context-Aware Interpretable Representations for Retrieval and Graph Convolutional Network Classification",
+     "summary": "arXiv:2608.29004v1 Announce Type: new Abstract: The advances in visual information modeling and representation during the last decades are remarkable, mainly supported by Convolutional Neural Networks, Transformer-based, and Foundation Models. Despite this progress, critical challenges regarding\u2026",
+     "url": "https://arxiv.org/abs/2608.29004",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Hybrid Semantic Context-Enhanced Ensemble Learning for Wind Power Ramp-Event Forecasting and Uncertainty-Aware Evaluation",
+     "summary": "arXiv:2608.29024v1 Announce Type: new Abstract: Wind power ramp events which are sudden, large swings in turbine output over short windows are difficult to estimate, and standard models often miss them. Hybrid forecasting approach is built which augments semantic context to ramp-event forecast.\u2026",
+     "url": "https://arxiv.org/abs/2608.29024",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Flow-JEPA: Flow Matching for Robust Latent Dynamics in JEPA World Models",
+     "summary": "arXiv:2608.29029v1 Announce Type: new Abstract: Joint-Embedding Predictive Architectures (JEPAs) have shown strong potential for learning compact predictive representations, and LeWorldModel (LeWM) extends this paradigm to reconstruction-free latent world modeling from pixels. However, its\u2026",
+     "url": "https://arxiv.org/abs/2608.29029",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "NVE: A Separability and Coverage-Aware Internal Validation Metric for Biclustering",
+     "summary": "arXiv:2608.29045v1 Announce Type: new Abstract: Biclustering, or co-clustering, aims to discover coherent submatrices by grouping rows and columns of a data matrix simultaneously. This local two-dimensional structure makes validation more difficult than in ordinary clustering, where internal\u2026",
+     "url": "https://arxiv.org/abs/2608.29045",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Sparse Koopman Autoencoders Identify Local Dynamical Regimes in Multibasin Systems",
+     "summary": "arXiv:2608.29057v1 Announce Type: new Abstract: Koopman autoencoders (KAEs) seek a higher-dimensional latent representation in which nonlinear dynamics evolve linearly. However, many interesting systems have multiple basins of attraction, and both theoretical and empirical work has shown these\u2026",
+     "url": "https://arxiv.org/abs/2608.29057",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Training a Misaligned Reward Seeker",
+     "summary": "Authors: Richard Qi, Benjamin Wright, Monte MacDiarmid, Evan Hubinger Abstract During reinforcement learning (RL), AI models complete tasks and are rewarded based on their results. They sometimes learn to \u201ccheat\u201d rather than completing these tasks as intended, a phenomenon known as reward hacking\u2026",
+     "url": "https://www.alignmentforum.org/posts/J76LZCC55RdHeqEhz/training-a-misaligned-reward-seeker",
+     "source": "Alignment Forum"
+    },
+    {
+     "headline": "Introducing wrapture",
+     "summary": "Introducing wrapture New from Graham Dumpleton (of wrapt , mod_wsgi, and New Relic's Python agent fame), who describes Wrapture as taking the monkeypatching ideas from wrapt and extending them to apply to testing and tracing at the same time. Wrapture ( full documentation here ) makes it easy to\u2026",
+     "url": "https://simonwillison.net/2026/Aug/31/introducing-wrapture/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "Quoting Andrew Digby",
+     "summary": "325 #kakapo! The chicks from this year's record breeding season are now juveniles and so have been added to the population. In 1995 there were just 51 k\u0101k\u0101p\u014d left. Recovery of critically endangered species is possible with sustained effort. \u2014 Andrew Digby , providing the best news of the year\u2026",
+     "url": "https://simonwillison.net/2026/Aug/31/andrew-digby/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "Yerevan bleg",
+     "summary": "Any advice on this front is most welcome, thank you! The post Yerevan bleg appeared first on Marginal REVOLUTION .",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/08/yerevan-bleg.html?utm_source=rss&utm_medium=rss&utm_campaign=yerevan-bleg",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "ashutoshsinghpr7/wikiskill: WikiSkill (arXiv:2608.27454) for Hermes Agent \u2014 self-evolving agent skills via a persistent knowledge wiki. Faithful Algorithm 1 implementation with real agent runs,\u2026",
+     "summary": "WikiSkill (arXiv:2608.27454) for Hermes Agent \u2014 self-evolving agent skills via a persistent knowledge wiki. Faithful Algorithm 1 implementation with real agent runs, isolated skill gating, and a documented live run log.",
+     "url": "https://github.com/ashutoshsinghpr7/wikiskill",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "gavishap/omnia-vault: Omnia Vault - the all-in-one project brain: an Obsidian LLM wiki, Graphify code graphs, a living plan that triages new videos against itself, and a Claude Code \u21c4 Codex relay.\u2026",
+     "summary": "Omnia Vault - the all-in-one project brain: an Obsidian LLM wiki, Graphify code graphs, a living plan that triages new videos against itself, and a Claude Code \u21c4 Codex relay. Everything your project knows, in one clonable vault.",
+     "url": "https://github.com/gavishap/omnia-vault",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-09-01T05:21+00:00",
+  "window_start": "2026-08-31T19:09+00:00",
+  "window_end": "2026-09-01T05:21+00:00",
+  "candidate_count": 83,
+  "model": "free (no LLM)"
+ }
+}
