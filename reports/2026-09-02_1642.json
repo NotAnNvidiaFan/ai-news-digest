@@ -1,0 +1,436 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Proactive cyber defense for governments and enterprises",
+   "summary": "",
+   "why_it_matters": "",
+   "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+   "source": "Google DeepMind"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "\"GPT-6-ASTRA\" has been staged on the OpenAI API",
+     "summary": "https://preview.redd.it/qa0i0dfyu4nh1.png?width=598&format=png&auto=webp&s=cca6c0c3722796add5d00c7b55c090531a0ea2be we eating good this week submitted by /u/ThunderBeanage [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w5f55h/gpt6astra_has_been_staged_on_the_openai_api/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+     "summary": "submitted by /u/Jame92 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w5eez1/introducing_gemini_38_flash_and_38_flash_cyber/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Gemini 3.8 flash benchmark in Arfticial analysis",
+     "summary": "submitted by /u/Expensive_Syrup_6529 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w5eat8/gemini_38_flash_benchmark_in_arfticial_analysis/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Vision support merged for DeepSeek-V4-Flash-Vision-Exp",
+     "summary": "Unsloth GGUFs and Vision support https://huggingface.co/unsloth/DeepSeek-V4-Flash-Vision-Exp-GGUF submitted by /u/fmillar [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5e9fi/vision_support_merged_for_deepseekv4flashvisionexp/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Good, cheap, token hungry",
+     "summary": "will likely be slow again for agentic work, they also got first place for highest step count (in this selection sonnet 5 still beats it) submitted by /u/NoFaithlessness951 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w5e53g/good_cheap_token_hungry/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49538007",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Analysis: How accurate have Ed Zitron's predictions been?",
+     "summary": "https://danluu.com/zitron/ Very well-written and considered analysis; homework was done here. Two good excerpts: Zitron's reasoning isn't worse than Kurzweil's, who (for example) continually made new predictions of extremely fast progress that didn't pan out (such as, in 2001, predicting unbounded\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1w5deqf/analysis_how_accurate_have_ed_zitrons_predictions/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Gemini 3.8 Flash",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49537553",
+     "url": "https://deepmind.google/models/model-cards/gemini-3-8-flash/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Gemini 3.8 Flash Benchmarks",
+     "summary": "submitted by /u/Able-Line2683 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w5d1pz/gemini_38_flash_benchmarks/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "CABiNet (ICRA 2021) vs YOLO26-sem on UAVid: accuracy, compute, and GPU latency [P]",
+     "summary": "Disclosure up front : I'm the original first author of CABiNet (ICRA 2021), so I'm not a neutral party. Everything below is reproducible from the repo. Background CABiNet is a dual-branch CNN for real-time semantic segmentation: a high-res spatial branch, a lightweight context branch (global\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1w5cfv1/cabinet_icra_2021_vs_yolo26sem_on_uavid_accuracy/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Detailed explanation of how to create a text-to-image model from scratch. [R]",
+     "summary": "Jasper Research just released a cookbook on how to build a text-to-image model from scratch. It shares the full reasoning and intermediate results, making it ideal if you want to deep-dive into text-to-image models, or if you are curious about how frontier labs build them. The cookbook also\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1w5c9rd/detailed_explanation_of_how_to_create_a/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "First local-LLM tuning attempt: Qwen3.8-27B true Q4_K_M at 13.2 tok/s near 50-61K context on RTX 5080 16GB",
+     "summary": "This was my first serious attempt at tuning a local LLM. I started because Qwen3.8-27B IQ3 was fast on my RTX 5080 but the coding quality disappointed me, and the Q4 profiles I tried in LM Studio were much slower than reports here. Hardware: RTX 5080 16 GB i5-14600K 64 GB DDR5-5600 (4 DIMMs)\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5c04h/first_localllm_tuning_attempt_qwen3827b_true_q4_k/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "\"Big news: Qwen3.8-Max-0902 by @Alibaba_Qwen just debuted at #1 overall in the Code Arena: WebDev with 1691 pts! It scores 3 pts above Claude Opus 5 (Max), 17 pts above Kimi K3 (Max), and 22 pts\u2026",
+     "summary": "submitted by /u/theimposingshadow [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w5bp51/big_news_qwen38max0902_by_alibaba_qwen_just/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Do we forget about another Qwen model for a while now ?",
+     "summary": "So when Qwen3.8 27b dropped they were hinting for another model which is Qwen3.8-next-flash , i was hoping for something more light like Qwen 3.6 35b and we got a large one but since the Qwen 3 and 3.5, they reduced the number of models they publish we used to get very small 0.8b 2b 9b to very\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5bkrf/do_we_forget_about_another_qwen_model_for_a_while/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Show HN: ZSvirt \u2013 A lightweight, scalable open source virtualization platform",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49536562",
+     "url": "https://github.com/ZSvirt/zsvirt",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "WebLLM: high-performance in-browser LLM inference engine",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49536411",
+     "url": "https://github.com/mlc-ai/web-llm",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Three sites made 215,128 \u201cbest software\u201d pages for AI. Perplexity cites them",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49536375",
+     "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Six curl CVEs after OpenAI and Anthropic came back with zero",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49536114",
+     "url": "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "H3-World: Turning Language Understanding into World Control",
+     "summary": "Language-Native Control: Composes character and camera actions into textual instructions and injects them through MiniMax-H3\u2019s pretrained text pathway. Temporally Grounded: Assigns one action prompt to each video latent interval, enabling precise control when actions change over time. Efficient &\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5akpy/h3world_turning_language_understanding_into_world/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "HomeOS \u2013 A self-hosted family dashboard for a kitchen touchscreen",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49535594",
+     "url": "https://github.com/danialkhilji/HomeOS",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "LLMs: Intelligence vs. Cost",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49535586",
+     "url": "https://openteams.com/intelligence-vs-cost/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Using jq to format JSON on the clipboard",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49535324",
+     "url": "https://chris48s.github.io/blogmarks/posts/2021/jsontidy/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Mistral now trains on user input by default, except on enterprise tier",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49535284",
+     "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Does anyone make an external GPU enclosure for 2Xdual slot cards?",
+     "summary": "I'm considering adding another A40 to my setup but my case doesn't have the space (or power) for it. It's a server chassis so there's no easy way to just pick the MB and put it in a new case, it's a bunch of custom connections off the PSU to the MB. What would be perfect? A dual PCI external box\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w58xnm/does_anyone_make_an_external_gpu_enclosure_for/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Check if a file was made with Claude",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49535201",
+     "url": "https://claude.com/check-content",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Most open-source AI detectors can't hold a 0.5% false-positive rate [P]",
+     "summary": "We needed to know where the open-source AI-detection field actually stands, so we ran every notable open detector through the same protocol. Setup: - Public data only: Jabarian & Imas 2025 (NBER), Liang 2023 TOEFL essays, a 1,060-text frontier set (GPT-5.x, Claude Opus 5, Gemini 3.x), 5,000\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1w58erw/most_opensource_ai_detectors_cant_hold_a_05/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "What kinds of ML bottlenecks are a good fit for Triton? [Manning giveaway] [D]",
+     "summary": "Hi r/MachineLearning , Stjepan from Manning here, posting with the mods\u2019 permission. We\u2019ve recently released GPU Programming with Triton by Harshwardhan Fartale in early access. It\u2019s a practical guide to speeding up machine learning training and inference by writing custom GPU kernels in Python\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1w58dib/what_kinds_of_ml_bottlenecks_are_a_good_fit_for/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "LLMs: Intelligence vs. cost | OpenTeams",
+     "summary": "I got fed up with ArtificialAnalysis 's intelligence vs. cost plots, so I made my own. This is an updated and refined follow-up to a previous post I made . submitted by /u/crusaderky [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w583o7/llms_intelligence_vs_cost_openteams/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Take heed...",
+     "summary": "submitted by /u/alanskimp [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w57i6r/take_heed/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Quasar 438B: Europe's Leading AI Model",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49534132",
+     "url": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "MIR with AudioMuse-AI-SAE [P]",
+     "summary": "Hi all, I recently read this paper: Julien Guinot, Alain Riou, Elio Quinton, Gyorgy Fazekas. Steering dense music retrieval with open-vocabulary concept discovery. https://arxiv.org/abs/2608.08757 There is multiple model where you can get embedding from Song and Text so that you can search song by\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1w54qkk/mir_with_audiomuseaisae_p/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Your favorite fastest abliterated/safety removed 3.6 and 3.8 27b?",
+     "summary": "Not written by AI all mistakes mine. I saw people on the subreddit saying that 3.6 works better without thinking . It made me want to know for certain about which is better, 3.6 or 3.8 for low thinking tasks. I only use abliterated models (safety removed) because it makes the model better at a lot\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w54fqs/your_favorite_fastest_abliteratedsafety_removed/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Qwen will be the king?",
+     "summary": "Extended reasoning and post-training appear to be the keys used by DeepSeek, Qwen, and GLM to boost performance (leveraging higher token counts). And Qwen 4 hasn't even been released yet. Of course, we don't know if that release will be open-sourced, but I am optimistic about future models,\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w53ti8/qwen_will_be_the_king/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Mayor says 'large chunks' of Wellington council Deloitte report written by AI",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49533132",
+     "url": "https://www.rnz.co.nz/news/regions/1229348/mayor-says-large-chunks-of-wellington-council-deloitte-report-written-by-ai",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Ask HN: How do you survive a job you hate which is slowly making you sick?",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49533073",
+     "url": "https://news.ycombinator.com/item?id=49533073",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Android Studios native Gemma 4 runs on llama.cpp",
+     "summary": "https://preview.redd.it/6e9xb57a42nh1.png?width=787&format=png&auto=webp&s=ffae7996bbf8ab00498cc62c733e7597dc550f24 I'm not sure how many people care about Android Studio, but I think it's cool that Google uses llama.cpp. My guess is that it is Vulkan and the QAT versions of Gemma 4. It supports\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w53b96/android_studios_native_gemma_4_runs_on_llamacpp/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Sam Altman on X: \"We are going to be launching our next model soon. There is an obvious tension\u2026 Astra is very good. We are proud of our work.\"",
+     "summary": "submitted by /u/borowcy [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w52kvr/sam_altman_on_x_we_are_going_to_be_launching_our/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "OpenAl's chief scientist on the neuralese controversy",
+     "summary": "\"I want to prevent a race into unmonitorability kicked off by confused reporting. The depth of the computation graph for our present frontier models, including Astra, is within a factor of two of GPT-4. OpenAI has worked to preserve and utilize chain-of-thought monitoring since our very first\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1w51wt0/openals_chief_scientist_on_the_neuralese/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "LocalLLaMA is unironically one of the best places to go to get up to date AI news.",
+     "summary": "One of the other posts today by user u/Howard_banister confirmed what I've been seeing from the other AI subreddits as well. Most of these other subs are 90% trend hopping crypto-bros equivalent people who are seemingly irrelevant most of the time when it comes to advancing AI as the vast majority\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w50ur8/localllama_is_unironically_one_of_the_best_places/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Proactive cyber defense for governments and enterprises",
+     "summary": "",
+     "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+     "source": "Google DeepMind"
+    },
+    {
+     "headline": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+     "summary": "",
+     "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+     "source": "Google DeepMind"
+    },
+    {
+     "headline": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
+     "summary": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. The landmark lawsuit, filed in December 2023, alleging that OpenAI unlawfully trained its AI systems on articles from The New York Times and seeks to recoup\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Wonderful more than doubles its valuation to $5B in under 6 months",
+     "summary": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products.",
+     "url": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "India\u2019s richest man now wants to turn aging computers into AI-ready PCs",
+     "summary": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months.",
+     "url": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "The Logical End Point of AI Job Interviews Is Two Bots Talking to Each Other",
+     "summary": "Christopher was sick of being ghosted by AI recruiters. So he unleashed ChatGPT on his robot interviewer.",
+     "url": "https://www.wired.com/story/bot-vs-bot-job-interview-ai/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Google is sending MrBeast into the wilderness, armed with AI",
+     "summary": "MrBeast will feature Gemini, Google Health, and the Fitbit Air in upcoming videos as part of a multi-year partnership with Google. The deal will kick off with a video featuring Jimmy \"MrBeast\" Donaldson turning to Gemini for wilderness survival advice: First up on September 5 is a new MrBeast\u2026",
+     "url": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Proactive cyber defense for governments and enterprises",
+     "summary": "Introducing Fairwind Program",
+     "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+     "source": "Google AI Blog"
+    },
+    {
+     "headline": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
+     "summary": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use.",
+     "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "PSA: Amazon\u2019s shopping AI can now tell you if that message is a scam",
+     "summary": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.",
+     "url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "OpenAI accused of \u2018aiding and abetting\u2019 Tumbler Ridge mass shooting in dozens of new lawsuits",
+     "summary": "OpenAI and its CEO Sam Altman are facing 30 new lawsuits that accuse them of providing \"substantial assistance and encouragement\" to the suspect in Canada's Tumbler Ridge school shooting, as reported earlier by TechCrunch. The new wave of lawsuits was filed in a California federal court on\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "NYC bans AI use for students until they reach high school",
+     "summary": "New York City mayor Zohran Mamdani has announced a new policy today that will ban younger schoolchildren from using AI in classrooms. The one-year moratorium, effective in the 2026-2027 school year, will impact about 600,000 public school students in 2-K through eighth grade and is being\u2026",
+     "url": "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Adobe acquires Indian market intelligence startup Rilo",
+     "summary": "This is Adobe's second acquisition out of India after Rephrase.ai in 2023",
+     "url": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Facilitating AI integration with simplicity at scale",
+     "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make\u2026",
+     "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+     "source": "MIT Tech Review AI"
+    },
+    {
+     "headline": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+     "summary": "",
+     "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+     "source": "Hugging Face Blog"
+    },
+    {
+     "headline": "AI Efficiency Could Cost Us the Next Generation of Experts",
+     "summary": "A little over a decade ago, I led the controls design for a first-of-its-kind full digital-control system for a U.S. nuclear plant. It was, on paper, a beautiful machine\u2014engineered to run itself the way a modern airliner does, with operators watching over a system that rarely needed them. And we\u2026",
+     "url": "https://spectrum.ieee.org/ai-engineer-skills",
+     "source": "IEEE Spectrum AI"
+    },
+    {
+     "headline": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
+     "summary": "Edelson PC is filing 30 new lawsuits against OpenAI over the Tumbler Ridge shooting, escalating claims to aiding and abetting and naming Chris Lehane, though evidence remains unconfirmed.",
+     "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Pangram Has Emerged as the Gold Standard of AI Detection. Should You Trust It?",
+     "summary": "Meet the AI police who can make or break careers\u2014in publishing and beyond.",
+     "url": "https://www.wired.com/story/pangram-has-emerged-as-the-gold-standard-of-ai-detection/",
+     "source": "Wired AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @simonwillison.net",
+     "handle": "",
+     "quote": "I wrote some notes on what's new in the (published) Fable 5.1 system prompt in comparison to Fable 5 - it's mostly about not reproducing song lyrics and avoiding drawing copyrighted characters simonwillison.net/2026/Sep/2/c...",
+     "context": "",
+     "url": "https://bsky.app/profile/simonwillison.net/post/3muk4vfcq2k2f"
+    },
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "These 3 pages (from before AI) on complex systems are worth reading Complex systems run broken but survive because the flaws rarely line up, which allows humans a chance to intervene. AI can find or make aligned flaws. We need a similar new philosophy of system defense (beyond just cyber) using AI",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3muk4iiojus2o"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Wednesday assorted links",
+     "summary": "1. Ruxandra on AI and the remaining roles for humans. 2. The buildings of university architecture departments. Most of them I like. 3. Dean Ball on the coming of untethered AI agents. 4. How accurate are Ed Zitron\u2019s AI skeptic predictions? 5. Atlas: model the world. 6. In 2012 some Advent church\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/wednesday-assorted-links-569.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-569",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Claude's new system prompt really doesn't want to reproduce song lyrics",
+     "summary": "Anthropic publish the system prompts for their Claude consumer applications ( Claude.ai and the Claude mobile apps - sadly not for Claude Cowork or Claude Code). I love that they do this, and that they share not just the current prompts but historic changes to their prompts as well. They used to\u2026",
+     "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "Fable 5.1, Enterprise Frontier Safeguards",
+     "summary": "Fable 5.1 is out, and the hated Fable data retention policy is not just being altered, but entirely removed in the meantime. Plus, why increased caching is a win-win.",
+     "url": "https://stratechery.com/2026/fable-5-1-enterprise-frontier-safeguards/",
+     "source": "Stratechery"
+    },
+    {
+     "headline": "Cyber Apocalypse, Now?",
+     "summary": "The Hugging Face hack, crime, and nation states with AI cyber",
+     "url": "https://www.chinatalk.media/p/cyber-apocalypse-now",
+     "source": "ChinaTalk"
+    },
+    {
+     "headline": "[AINews] Claude Fable/Mythos 5.1: new SOTA model, 75% cache price cut but 70% more output tokens",
+     "summary": "Queue the usual rush of model launches...",
+     "url": "https://www.latent.space/p/ainews-claude-fablemythos-51-new",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "Quoting Rick Brewster",
+     "summary": "Direct2D has always been the biggest hurdle for Paint.NET on WINE, and it's clear that it will never be completed enough for Paint.NET's use. And I can't just \"disable\" the use of Direct2D. So, instead, Paint.NET now has an internal, from-scratch, clean-room reverse-engineered rewrite of Direct2D\u2026",
+     "url": "https://simonwillison.net/2026/Sep/2/rick-brewster/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "Human-Agent-Society/reef: Continual learning infra for self-improving agents",
+     "summary": "Continual learning infra for self-improving agents",
+     "url": "https://github.com/Human-Agent-Society/reef",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "2akouwu/reverify: Verified reverse engineering: AI RE grounded on deterministic tools - results checked against the binary, not hallucinated.",
+     "summary": "Verified reverse engineering: AI RE grounded on deterministic tools - results checked against the binary, not hallucinated.",
+     "url": "https://github.com/2akouwu/reverify",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-09-02T16:42+00:00",
+  "window_start": "2026-09-02T04:47+00:00",
+  "window_end": "2026-09-02T16:42+00:00",
+  "candidate_count": 67,
+  "model": "free (no LLM)"
+ }
+}
