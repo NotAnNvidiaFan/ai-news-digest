@@ -1,0 +1,341 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Training-free hack to reduce MoE reasoning tokens by 8.5% without losing accuracy but increasing Active parameters per token in MOE (Qwen 35B A4B+)",
+   "summary": "Hey everyone, Wanted to share a short paper we just published exploring a simple but surprisingly effective optimization for sparse MoE reasoning models. The problem: MoE reasoning models (especially the newer Qwen generations) tend to \"overthink\" \u2014 they burn through tons of reasoning tokens to\u2026",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6jamh/trainingfree_hack_to_reduce_moe_reasoning_tokens/",
+   "source": "r/LocalLLaMA"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Training-free hack to reduce MoE reasoning tokens by 8.5% without losing accuracy but increasing Active parameters per token in MOE (Qwen 35B A4B+)",
+     "summary": "Hey everyone, Wanted to share a short paper we just published exploring a simple but surprisingly effective optimization for sparse MoE reasoning models. The problem: MoE reasoning models (especially the newer Qwen generations) tend to \"overthink\" \u2014 they burn through tons of reasoning tokens to\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6jamh/trainingfree_hack_to_reduce_moe_reasoning_tokens/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Astra's Chain of Thought",
+     "summary": "What do you guys think? submitted by /u/Tough_North7059 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1w6j8s1/astras_chain_of_thought/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "ChatGPT, Claude and Grok Went Down Together: But How Did Gemini Avoid a Major Outage?",
+     "summary": "submitted by /u/beingmodest [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1w6j83r/chatgpt_claude_and_grok_went_down_together_but/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Sam's Astra post",
+     "summary": "submitted by /u/Outside-Iron-8242 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w6iwhj/sams_astra_post/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Not only does Astra saturate ARC-AGI-3, it does so using fewer moves than the average human",
+     "summary": "submitted by /u/ObiWanCanownme [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w6icmp/not_only_does_astra_saturate_arcagi3_it_does_so/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Mol-JEPA - Multimodal molecular foundation model [R]",
+     "summary": "Hi everyone, I just quickly wanted to share a paper I was working on for around a year now. I created this summary website with key results: https://flogrammer.github.io/moljepa/ TL;DR: its a multimodal JEPA model for molecules. There will be more work to do to improve performance and I would be\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1w6i8pr/moljepa_multimodal_molecular_foundation_model_r/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Astra is available to plus users. You will be able to use 100% of your usage limits toward it. They're going for the throat of Anthropic",
+     "summary": "https://preview.redd.it/de73ckmk0dnh1.png?width=1098&format=png&auto=webp&s=6bd0f515e15a1bbfcb1137e808dd1f106a7e9fcc . submitted by /u/Just_Stretch5492 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w6i29a/astra_is_available_to_plus_users_you_will_be_able/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "NVIDIA's PAIR beta routes local AI work across PCs",
+     "summary": "NVIDIA's new PAIR beta is a free, open source tool that finds compatible PCs on a local network and routes independent inference requests to whichever system has capacity. NVIDIA says it works with Ollama and LM Studio and supports Windows, macOS, and Linux, plus RTX 20-series GPUs and newer, RTX\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1w6hx9o/nvidias_pair_beta_routes_local_ai_work_across_pcs/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49555691",
+     "url": "https://arcprize.org/blog/astra",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Introducing Quartermaster, an open source local AI platform designed for ease of use that does not sacrifice customizability",
+     "summary": "It started as a fork of llama-swap , but I have been building it out for myself since then as a convenient tool for all my local AI needs, and by now it has drifted far enough to be its own thing. The main idea is that you point it at your models folder and it configures things for you. It reads\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6hnpd/introducing_quartermaster_an_open_source_local_ai/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Google released TimesFM-3, a 330M-parameter time series foundation model with native multivariate forecasting (non-commercial license)",
+     "summary": "TimesFM-3 is the third generation of Google Research's zero-shot forecasting model, and the main change from 2.5 is that it handles multivariate inputs natively instead of being limited to a single series' own history. It supports multiple simultaneous targets, past-only covariates, and\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6hlpt/google_released_timesfm3_a_330mparameter_time/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Prime Gaps at Most 186",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49555257",
+     "url": "https://github.com/openai/PrimeGaps186",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "NeurIPS Sydney SOLD OUT in minutes [N]",
+     "summary": "Three weeks from decisions even. I wonder what percentage is industry and VC funded AI labs looking to mingle and recruit. submitted by /u/alrojo [link] [comments]",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1w6gwni/neurips_sydney_sold_out_in_minutes_n/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Astra benchmarks from the OpenAI blog before it was taken down",
+     "summary": "submitted by /u/saln1 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w6gp90/astra_benchmarks_from_the_openai_blog_before_it/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "GPT-6 Astra Launch Video",
+     "summary": "submitted by /u/ResultBackground2450 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w6gjmb/gpt6_astra_launch_video/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "AI can never seem to give a straight forward answer on literally anything political, social or economic oriented.",
+     "summary": "I have recently been getting into LLM\u2019s more and talking to AI about literally anything is becoming increasingly infuriating. Ask it a question about the recent name change of Lake Ontario and at first it will say that the lake is named Ontario and not Lake America if you show it a picture of the\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1w6g9k8/ai_can_never_seem_to_give_a_straight_forward/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "How an unsupported tool-call response could become \u201cperfectly stable\u201d in an LLM benchmark",
+     "summary": "While reviewing an LLM output-stability benchmark, I found a latent gap between its documented scope and its scoring pipeline. Tool-call responses weren\u2019t supported, but the response parsers could erase them: The OpenAI adapter used message.get(\"content\") or \"\". A tool-call response with null\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1w6g2z5/how_an_unsupported_toolcall_response_could_become/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "GPT-6 Astra",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49554643",
+     "url": "https://openai.com/index/gpt-6-astra/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49554520",
+     "url": "https://inference-docs.cerebras.ai/models/overview",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "GPT-6-Astra is launching exclusively for large enterprises at first, with access to subscribers and the API later",
+     "summary": "submitted by /u/AlyoshaV [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w6ftbg/gpt6astra_is_launching_exclusively_for_large/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Need to decide: DGX spark vs framework desktop vs Mac mini/studio",
+     "summary": "I\u2019ve been running qwen on my personal Mac but I\u2019m getting to the point where\u2019d I\u2019d like to have something always on, running various jobs, and some more ability to experiment and earn about fine tuning. I\u2019d like to keep things <$5k if possible. To anyone with any of these 3 platforms, what\u2019s your\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6fqc9/need_to_decide_dgx_spark_vs_framework_desktop_vs/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Qwen3.8 27B KV cache",
+     "summary": "Which KV cache do you use F16 or BF16 for Q6 quant? What is the difference between them? submitted by /u/esw123 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6fnef/qwen38_27b_kv_cache/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "OpenAI begins rolling out GPT-6 Astra",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49554273",
+     "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Gpt 6 astra benchmarks",
+     "summary": "https://thenewstack.io/openai-gpt6-astra-benchmarks/ submitted by /u/CounterReady4774 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w6f9xo/gpt_6_astra_benchmarks/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "\"Welcome to the AGI era,\" OpenAI says as GPT-6 Astra debuts",
+     "summary": "submitted by /u/ShreckAndDonkey123 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w6f0jp/welcome_to_the_agi_era_openai_says_as_gpt6_astra/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "\"Welcome to the AGI era,\" OpenAI says as GPT-6 Astra debuts",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49554048",
+     "url": "https://www.axios.com/2026/09/03/openai-astra-gpt-6-agi-brockman",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Bernie Sanders proposes to ban AI",
+     "summary": "Defined as AI exceeding human cognitive abilities. 20 years in prison. Plenty of local models already fall under that big of an umbrella in some capacities. This is why it's not enough to say that you could torrent open models so who cares what the politicians do. They want you to not have access\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6egid/bernie_sanders_proposes_to_ban_ai/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "What will happen to AI once they start making it a non-free service for consumers?",
+     "summary": "Just a regular smeggular person here asking a question. AI is everywhere now, but its free so its being pushed on a lot of people everywhere. Eventually I expect it to just not have a free option once everything is settled. I mean, Netflix doesn't let you watch their streams for free. I would\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1w6e81s/what_will_happen_to_ai_once_they_start_making_it/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Micron Explores Near-GPU NAND Flash to Run Bigger LLMs",
+     "summary": "I would be really curious about this especially on unified memory devices. submitted by /u/giveen [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6e6u2/micron_explores_neargpu_nand_flash_to_run_bigger/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Bernie Sanders on X today is calling \u201cPermanent ban on Super-intelligence\u201d",
+     "summary": "submitted by /u/dolo937 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w6dtd6/bernie_sanders_on_x_today_is_calling_permanent/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Sanders introduces bill to ban artificial superintelligence and pause AI",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49553463",
+     "url": "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Yes, no (built-in) AI is now a feature \u2013 LibreOffice blog",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49553350",
+     "url": "https://blog.documentfoundation.org/blog/2026/09/03/yes-no-ai-is-now-a-feature/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "[Academic Survey] Employees working in Germany: Attitudes toward AI in the workplace (5\u20137 min)",
+     "summary": "Hi everyone! I'm conducting this survey as part of my Master's thesis and would greatly appreciate your participation. The research examines how employees' perceptions of HR practices relate to work engagement and innovativeness, and how attitudes toward the application of Artificial Intelligence\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1w6dar8/academic_survey_employees_working_in_germany/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "WeatherNext 3: Our most advanced global weather AI model",
+     "summary": "submitted by /u/Recoil42 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w6d3co/weathernext_3_our_most_advanced_global_weather_ai/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Feature/adaptive kv stream integration by giveen \u00b7 Pull Request #326 \u00b7 TheTom/llama-cpp-turboquant",
+     "summary": "I've been working on overcoming KV cache size issues, allowing the ability to load a slightly larger model and/or a larger context size. Downfall is a hit to tg speeds. Think of it as a \"ram disk\" for KV Cache, however, ram speed may be a determining factor on the actual hit to speed as well.\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6cuu5/featureadaptive_kv_stream_integration_by_giveen/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Megathread for listing latest open source projects, research papers that are helping optimizations, efficiencies and accessibility to Open Source LLM and related hardware, software ?",
+     "summary": "I start with some informations gathered thorough endless posts reading on this sub and online: Inference and hardware optimization projects https://dwarfstar.sh/ - inference engine optimization proposal https://github.com/JustVugg/colibri - Treats VRAM + RAM + storage as one managed inference\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6cnfz/megathread_for_listing_latest_open_source/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Nvidia Pair seems nice for people with multiple inference servers",
+     "summary": "submitted by /u/DustNearby2848 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6chxw/nvidia_pair_seems_nice_for_people_with_multiple/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+     "summary": "The high-profile startup's annual revenue run rate stands at over $100 million.",
+     "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Abliteration.ai is making a business out of removing AI guardrails",
+     "summary": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
+     "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Meta is paying to peek at how you use their latest AI model",
+     "summary": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
+     "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Four major AI models suffer rare overlapping downtime",
+     "summary": "Service interruptions hit ChatGPT, Claude, Grok, and Gemini practically simultaneously.",
+     "url": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "GPT-6 Astra Is Here\u2014and OpenAI Thinks It May Kick Off the AGI Era",
+     "summary": "OpenAI leaders think the company\u2019s next generation model, which excels at computer use and coding, may mark a major milestone in AI development.",
+     "url": "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "OpenAI launches Astra, its powerful (and controversial) new model",
+     "summary": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
+     "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "OpenAI\u2019s next big AI model has \u2018entered the AGI era\u2019",
+     "summary": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use. As OpenAI announced earlier this week, it's also the first model designated as meeting OpenAI's\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk",
+     "summary": "OpenAI recently estimated its Cursor partnership would make more than $1 billion in revenue a year, WIRED has learned. It still walked away after Elon Musk\u2019s SpaceX acquired the AI coding startup.",
+     "url": "https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue/",
+     "source": "Wired AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "One of the most subtle valuable things about Astra is that it maintains better theory-of-mind: you don't get nearly as many weird references in the final product to previous drafts or work you did during building, and there less drift as it runs long tasks. Not perfect, but very good.",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3munavcqzfs2z"
+    },
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "I had early access, and a longer post is coming, but GPT-6 is stunning & is good enough that it actually does complex meaningful work for me autonomously for days. As a more fun visual example, it made a historically-based simulation of the Library of Alexandria: alexandria-mouseion.netlify.app",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3muna4w24bs2z"
+    },
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "Multiplayer AI, where many people in an organization can use AI together to accomplish goals, remains one of the biggest (non-technical) problems in using AI. Approaches tend to be pretty primitive and based around AI-as-a-person-in-your-group-chat. It encourages automation, not augmentation",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mun4tzchis2n"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "GPT\u20116 Astra",
+     "summary": "GPT\u20116 Astra GPT-6 Astra is \"rolling out today to a limited set of organizations and over the coming days will become available to all ChatGPT Plus, Pro, Business, and Enterprise users, as well as through the OpenAI API and AWS\" - I've not tried it yet myself, so I don't have a great deal to say\u2026",
+     "url": "https://simonwillison.net/2026/Sep/3/gpt6-astra/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "And it begins\u2026(a good start\u2026)",
+     "summary": "Wall Street banks are pushing large law firms to cut fees, arguing that the business model that has enriched top lawyers for decades is not sustainable in an era of AI. Morgan Stanley and Citigroup have told major law firms they want to set up new payment arrangements that would save them money,\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/and-it-begins-a-good-start.html?utm_source=rss&utm_medium=rss&utm_campaign=and-it-begins-a-good-start",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Agenta-AI/awesome-ai-agent-platforms: A curated list of open-source AI agent platforms: AI coworkers and teammates, agent builders and frameworks, workflow automation platforms, browser agents, and\u2026",
+     "summary": "A curated list of open-source AI agent platforms: AI coworkers and teammates, agent builders and frameworks, workflow automation platforms, browser agents, and coding agents, with licenses.",
+     "url": "https://github.com/Agenta-AI/awesome-ai-agent-platforms",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-09-03T21:08+00:00",
+  "window_start": "2026-09-03T16:33+00:00",
+  "window_end": "2026-09-03T21:08+00:00",
+  "candidate_count": 51,
+  "model": "free (no LLM)"
+ }
+}

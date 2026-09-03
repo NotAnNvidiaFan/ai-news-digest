@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI Digest — 2026-09-03T21:08+00:00</title>
+<style>
+  :root {
+    --bg: #0c0f14; --card: #141922; --card-hover: #1a2130; --border: #232b3a;
+    --text: #dfe6f0; --muted: #8b98ab; --accent: #5eb1ff; --accent2: #a78bfa;
+    --good: #4ade80; --bad: #f87171; --mid: #fbbf24;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text);
+         font: 16px/1.6 -apple-system, "Segoe UI", Roboto, sans-serif; }
+  .wrap { max-width: 860px; margin: 0 auto; padding: 32px 20px 64px; }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  header .brand { font-size: 13px; letter-spacing: 2px; text-transform: uppercase;
+                  color: var(--muted); }
+  header .brand a { color: var(--muted); }
+  h1 { font-size: 26px; margin: 6px 0 2px; }
+  .window { color: var(--muted); font-size: 14px; }
+  .overview { font-size: 17px; color: var(--text); margin: 18px 0 8px;
+              border-left: 3px solid var(--accent2); padding-left: 14px; }
+  .badges { display: flex; gap: 8px; flex-wrap: wrap; margin: 14px 0 26px; }
+  .badge { font-size: 12px; padding: 3px 10px; border-radius: 999px;
+           border: 1px solid var(--border); color: var(--muted); }
+  .badge.sent-bullish, .badge.sent-optimistic { color: var(--good); border-color: var(--good); }
+  .badge.sent-mixed { color: var(--mid); border-color: var(--mid); }
+  .badge.sent-skeptical, .badge.sent-anxious { color: var(--bad); border-color: var(--bad); }
+  .hero { background: linear-gradient(135deg, #16203a, #1b1530); border: 1px solid var(--border);
+          border-radius: 14px; padding: 22px 24px; margin-bottom: 30px; }
+  .hero .label { font-size: 12px; letter-spacing: 2px; text-transform: uppercase; color: var(--accent2); }
+  .hero h2 { margin: 8px 0 10px; font-size: 22px; }
+  .hero .why { color: var(--muted); font-size: 15px; margin-top: 10px; }
+  .hero .why strong { color: var(--text); }
+  h3.section { font-size: 14px; letter-spacing: 2px; text-transform: uppercase;
+               color: var(--muted); margin: 34px 0 12px; border-bottom: 1px solid var(--border);
+               padding-bottom: 8px; }
+  .card { background: var(--card); border: 1px solid var(--border); border-radius: 12px;
+          padding: 16px 18px; margin-bottom: 12px; }
+  .card:hover { background: var(--card-hover); }
+  .card h4 { margin: 0 0 6px; font-size: 16px; }
+  .card p { margin: 0; color: var(--muted); font-size: 14.5px; }
+  .src { display: inline-block; font-size: 12px; color: var(--accent2); margin-top: 8px; }
+  blockquote.take { margin: 0; }
+  .take .quote { font-size: 15.5px; font-style: italic; color: var(--text); }
+  .take .who { margin-top: 8px; font-size: 13.5px; color: var(--muted); }
+  .take .ctx { margin-top: 4px; font-size: 13.5px; color: var(--muted); }
+  .idea { border-left: 3px solid var(--accent2); }
+  .idea .hook { font-size: 15px; font-weight: 600; margin-bottom: 8px; }
+  .idea .draft { color: var(--text) !important; background: var(--bg); border: 1px dashed var(--border);
+                 border-radius: 8px; padding: 10px 12px; margin: 0 0 8px !important; }
+  .idea .why { font-size: 13.5px !important; }
+  .quiet { text-align: center; color: var(--muted); padding: 40px 0; font-size: 15px; }
+  .empty { color: var(--muted); font-size: 14px; font-style: italic; }
+  footer { margin-top: 44px; color: var(--muted); font-size: 12.5px;
+           border-top: 1px solid var(--border); padding-top: 14px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="brand"><a href="../index.html">AI NEWS DIGEST</a></div>
+    <h1>2026-09-03T21:08+00:00</h1>
+    <div class="window">Window: 2026-09-03T16:33+00:00 &rarr; 2026-09-03T21:08+00:00 (UTC)</div>
+  </header>
+
+  <p class="overview">Free-mode digest: candidates grouped by type (LLM synthesis disabled).</p>
+
+  <div class="badges">
+    
+    <span class="badge">51 candidates scanned</span>
+    <span class="badge">model: free (no LLM)</span>
+  </div>
+
+  
+
+  
+
+  
+  <div class="hero">
+    <div class="label">Top story</div>
+    <h2><a href="https://www.reddit.com/r/LocalLLaMA/comments/1w6jamh/trainingfree_hack_to_reduce_moe_reasoning_tokens/">Training-free hack to reduce MoE reasoning tokens by 8.5% without losing accuracy but increasing Active parameters per token in MOE (Qwen 35B A4B+)</a></h2>
+    <p>Hey everyone, Wanted to share a short paper we just published exploring a simple but surprisingly effective optimization for sparse MoE reasoning models. The problem: MoE reasoning models (especially the newer Qwen generations) tend to &#34;overthink&#34; — they burn through tons of reasoning tokens to…</p>
+    
+    <span class="src">r/LocalLLaMA</span>
+  </div>
+  
+
+  
+
+  <h3 class="section">Model releases &amp; updates</h3>
+  
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1w6jamh/trainingfree_hack_to_reduce_moe_reasoning_tokens/">Training-free hack to reduce MoE reasoning tokens by 8.5% without losing accuracy but increasing Active parameters per token in MOE (Qwen 35B A4B+)</a></h4>
+      <p>Hey everyone, Wanted to share a short paper we just published exploring a simple but surprisingly effective optimization for sparse MoE reasoning models. The problem: MoE reasoning models (especially the newer Qwen generations) tend to &#34;overthink&#34; — they burn through tons of reasoning tokens to…</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/artificial/comments/1w6j8s1/astras_chain_of_thought/">Astra&#39;s Chain of Thought</a></h4>
+      <p>What do you guys think? submitted by /u/Tough_North7059 [link] [comments]</p>
+      <span class="src">r/artificial</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/artificial/comments/1w6j83r/chatgpt_claude_and_grok_went_down_together_but/">ChatGPT, Claude and Grok Went Down Together: But How Did Gemini Avoid a Major Outage?</a></h4>
+      <p>submitted by /u/beingmodest [link] [comments]</p>
+      <span class="src">r/artificial</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/singularity/comments/1w6iwhj/sams_astra_post/">Sam&#39;s Astra post</a></h4>
+      <p>submitted by /u/Outside-Iron-8242 [link] [comments]</p>
+      <span class="src">r/singularity</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/singularity/comments/1w6icmp/not_only_does_astra_saturate_arcagi3_it_does_so/">Not only does Astra saturate ARC-AGI-3, it does so using fewer moves than the average human</a></h4>
+      <p>submitted by /u/ObiWanCanownme [link] [comments]</p>
+      <span class="src">r/singularity</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/MachineLearning/comments/1w6i8pr/moljepa_multimodal_molecular_foundation_model_r/">Mol-JEPA - Multimodal molecular foundation model [R]</a></h4>
+      <p>Hi everyone, I just quickly wanted to share a paper I was working on for around a year now. I created this summary website with key results: https://flogrammer.github.io/moljepa/ TL;DR: its a multimodal JEPA model for molecules. There will be more work to do to improve performance and I would be…</p>
+      <span class="src">r/MachineLearning</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/singularity/comments/1w6i29a/astra_is_available_to_plus_users_you_will_be_able/">Astra is available to plus users. You will be able to use 100% of your usage limits toward it. They&#39;re going for the throat of Anthropic</a></h4>
+      <p>https://preview.redd.it/de73ckmk0dnh1.png?width=1098&amp;format=png&amp;auto=webp&amp;s=6bd0f515e15a1bbfcb1137e808dd1f106a7e9fcc . submitted by /u/Just_Stretch5492 [link] [comments]</p>
+      <span class="src">r/singularity</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/artificial/comments/1w6hx9o/nvidias_pair_beta_routes_local_ai_work_across_pcs/">NVIDIA&#39;s PAIR beta routes local AI work across PCs</a></h4>
+      <p>NVIDIA&#39;s new PAIR beta is a free, open source tool that finds compatible PCs on a local network and routes independent inference requests to whichever system has capacity. NVIDIA says it works with Ollama and LM Studio and supports Windows, macOS, and Linux, plus RTX 20-series GPUs and newer, RTX…</p>
+      <span class="src">r/artificial</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arcprize.org/blog/astra">OpenAI&#39;s GPT-6 Astra on ARC-AGI-3</a></h4>
+      <p>Hacker News discussion: https://news.ycombinator.com/item?id=49555691</p>
+      <span class="src">Hacker News</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1w6hnpd/introducing_quartermaster_an_open_source_local_ai/">Introducing Quartermaster, an open source local AI platform designed for ease of use that does not sacrifice customizability</a></h4>
+      <p>It started as a fork of llama-swap , but I have been building it out for myself since then as a convenient tool for all my local AI needs, and by now it has drifted far enough to be its own thing. The main idea is that you point it at your models folder and it configures things for you. It reads…</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1w6hlpt/google_released_timesfm3_a_330mparameter_time/">Google released TimesFM-3, a 330M-parameter time series foundation model with native multivariate forecasting (non-commercial license)</a></h4>
+      <p>TimesFM-3 is the third generation of Google Research&#39;s zero-shot forecasting model, and the main change from 2.5 is that it handles multivariate inputs natively instead of being limited to a single series&#39; own history. It supports multiple simultaneous targets, past-only covariates, and…</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://github.com/openai/PrimeGaps186">Prime Gaps at Most 186</a></h4>
+      <p>Hacker News discussion: https://news.ycombinator.com/item?id=49555257</p>
+      <span class="src">Hacker News</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/MachineLearning/comments/1w6gwni/neurips_sydney_sold_out_in_minutes_n/">NeurIPS Sydney SOLD OUT in minutes [N]</a></h4>
+      <p>Three weeks from decisions even. I wonder what percentage is industry and VC funded AI labs looking to mingle and recruit. submitted by /u/alrojo [link] [comments]</p>
+      <span class="src">r/MachineLearning</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/singularity/comments/1w6gp90/astra_benchmarks_from_the_openai_blog_before_it/">Astra benchmarks from the OpenAI blog before it was taken down</a></h4>
+      <p>submitted by /u/saln1 [link] [comments]</p>
+      <span class="src">r/singularity</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/singularity/comments/1w6gjmb/gpt6_astra_launch_video/">GPT-6 Astra Launch Video</a></h4>
+      <p>submitted by /u/ResultBackground2450 [link] [comments]</p>
+      <span class="src">r/singularity</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/artificial/comments/1w6g9k8/ai_can_never_seem_to_give_a_straight_forward/">AI can never seem to give a straight forward answer on literally anything political, social or economic oriented.</a></h4>
+      <p>I have recently been getting into LLM’s more and talking to AI about literally anything is becoming increasingly infuriating. Ask it a question about the recent name change of Lake Ontario and at first it will say that the lake is named Ontario and not Lake America if you show it a picture of the…</p>
+      <span class="src">r/artificial</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/artificial/comments/1w6g2z5/how_an_unsupported_toolcall_response_could_become/">How an unsupported tool-call response could become “perfectly stable” in an LLM benchmark</a></h4>
+      <p>While reviewing an LLM output-stability benchmark, I found a latent gap between its documented scope and its scoring pipeline. Tool-call responses weren’t supported, but the response parsers could erase them: The OpenAI adapter used message.get(&#34;content&#34;) or &#34;&#34;. A tool-call response with null…</p>
+      <span class="src">r/artificial</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://openai.com/index/gpt-6-astra/">GPT-6 Astra</a></h4>
+      <p>Hacker News discussion: https://news.ycombinator.com/item?id=49554643</p>
+      <span class="src">Hacker News</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://inference-docs.cerebras.ai/models/overview">Qwen 3.8 27B available on Cerebras at 1500 tokens/s</a></h4>
+      <p>Hacker News discussion: https://news.ycombinator.com/item?id=49554520</p>
+      <span class="src">Hacker News</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/singularity/comments/1w6ftbg/gpt6astra_is_launching_exclusively_for_large/">GPT-6-Astra is launching exclusively for large enterprises at first, with access to subscribers and the API later</a></h4>
+      <p>submitted by /u/AlyoshaV [link] [comments]</p>
+      <span class="src">r/singularity</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1w6fqc9/need_to_decide_dgx_spark_vs_framework_desktop_vs/">Need to decide: DGX spark vs framework desktop vs Mac mini/studio</a></h4>
+      <p>I’ve been running qwen on my personal Mac but I’m getting to the point where’d I’d like to have something always on, running various jobs, and some more ability to experiment and earn about fine tuning. I’d like to keep things &lt;$5k if possible. To anyone with any of these 3 platforms, what’s your…</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1w6fnef/qwen38_27b_kv_cache/">Qwen3.8 27B KV cache</a></h4>
+      <p>Which KV cache do you use F16 or BF16 for Q6 quant? What is the difference between them? submitted by /u/esw123 [link] [comments]</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html">OpenAI begins rolling out GPT-6 Astra</a></h4>
+      <p>Hacker News discussion: https://news.ycombinator.com/item?id=49554273</p>
+      <span class="src">Hacker News</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/singularity/comments/1w6f9xo/gpt_6_astra_benchmarks/">Gpt 6 astra benchmarks</a></h4>
+      <p>https://thenewstack.io/openai-gpt6-astra-benchmarks/ submitted by /u/CounterReady4774 [link] [comments]</p>
+      <span class="src">r/singularity</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/singularity/comments/1w6f0jp/welcome_to_the_agi_era_openai_says_as_gpt6_astra/">&#34;Welcome to the AGI era,&#34; OpenAI says as GPT-6 Astra debuts</a></h4>
+      <p>submitted by /u/ShreckAndDonkey123 [link] [comments]</p>
+      <span class="src">r/singularity</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.axios.com/2026/09/03/openai-astra-gpt-6-agi-brockman">&#34;Welcome to the AGI era,&#34; OpenAI says as GPT-6 Astra debuts</a></h4>
+      <p>Hacker News discussion: https://news.ycombinator.com/item?id=49554048</p>
+      <span class="src">Hacker News</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1w6egid/bernie_sanders_proposes_to_ban_ai/">Bernie Sanders proposes to ban AI</a></h4>
+      <p>Defined as AI exceeding human cognitive abilities. 20 years in prison. Plenty of local models already fall under that big of an umbrella in some capacities. This is why it&#39;s not enough to say that you could torrent open models so who cares what the politicians do. They want you to not have access…</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/artificial/comments/1w6e81s/what_will_happen_to_ai_once_they_start_making_it/">What will happen to AI once they start making it a non-free service for consumers?</a></h4>
+      <p>Just a regular smeggular person here asking a question. AI is everywhere now, but its free so its being pushed on a lot of people everywhere. Eventually I expect it to just not have a free option once everything is settled. I mean, Netflix doesn&#39;t let you watch their streams for free. I would…</p>
+      <span class="src">r/artificial</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1w6e6u2/micron_explores_neargpu_nand_flash_to_run_bigger/">Micron Explores Near-GPU NAND Flash to Run Bigger LLMs</a></h4>
+      <p>I would be really curious about this especially on unified memory devices. submitted by /u/giveen [link] [comments]</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/singularity/comments/1w6dtd6/bernie_sanders_on_x_today_is_calling_permanent/">Bernie Sanders on X today is calling “Permanent ban on Super-intelligence”</a></h4>
+      <p>submitted by /u/dolo937 [link] [comments]</p>
+      <span class="src">r/singularity</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/">Sanders introduces bill to ban artificial superintelligence and pause AI</a></h4>
+      <p>Hacker News discussion: https://news.ycombinator.com/item?id=49553463</p>
+      <span class="src">Hacker News</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://blog.documentfoundation.org/blog/2026/09/03/yes-no-ai-is-now-a-feature/">Yes, no (built-in) AI is now a feature – LibreOffice blog</a></h4>
+      <p>Hacker News discussion: https://news.ycombinator.com/item?id=49553350</p>
+      <span class="src">Hacker News</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/artificial/comments/1w6dar8/academic_survey_employees_working_in_germany/">[Academic Survey] Employees working in Germany: Attitudes toward AI in the workplace (5–7 min)</a></h4>
+      <p>Hi everyone! I&#39;m conducting this survey as part of my Master&#39;s thesis and would greatly appreciate your participation. The research examines how employees&#39; perceptions of HR practices relate to work engagement and innovativeness, and how attitudes toward the application of Artificial Intelligence…</p>
+      <span class="src">r/artificial</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/singularity/comments/1w6d3co/weathernext_3_our_most_advanced_global_weather_ai/">WeatherNext 3: Our most advanced global weather AI model</a></h4>
+      <p>submitted by /u/Recoil42 [link] [comments]</p>
+      <span class="src">r/singularity</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1w6cuu5/featureadaptive_kv_stream_integration_by_giveen/">Feature/adaptive kv stream integration by giveen · Pull Request #326 · TheTom/llama-cpp-turboquant</a></h4>
+      <p>I&#39;ve been working on overcoming KV cache size issues, allowing the ability to load a slightly larger model and/or a larger context size. Downfall is a hit to tg speeds. Think of it as a &#34;ram disk&#34; for KV Cache, however, ram speed may be a determining factor on the actual hit to speed as well.…</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1w6cnfz/megathread_for_listing_latest_open_source/">Megathread for listing latest open source projects, research papers that are helping optimizations, efficiencies and accessibility to Open Source LLM and related hardware, software ?</a></h4>
+      <p>I start with some informations gathered thorough endless posts reading on this sub and online: Inference and hardware optimization projects https://dwarfstar.sh/ - inference engine optimization proposal https://github.com/JustVugg/colibri - Treats VRAM + RAM + storage as one managed inference…</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1w6chxw/nvidia_pair_seems_nice_for_people_with_multiple/">Nvidia Pair seems nice for people with multiple inference servers</a></h4>
+      <p>submitted by /u/DustNearby2848 [link] [comments]</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+  
+
+  <h3 class="section">Frontier lab developments</h3>
+  
+    
+    <div class="card">
+      <h4><a href="https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/">Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation</a></h4>
+      <p>The high-profile startup&#39;s annual revenue run rate stands at over $100 million.</p>
+      <span class="src">TechCrunch AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/">Abliteration.ai is making a business out of removing AI guardrails</a></h4>
+      <p>Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.</p>
+      <span class="src">TechCrunch AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/">Meta is paying to peek at how you use their latest AI model</a></h4>
+      <p>For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who &#34;contribute&#34; to the development of future models by sharing their prompts and model outputs.</p>
+      <span class="src">TechCrunch AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/">Four major AI models suffer rare overlapping downtime</a></h4>
+      <p>Service interruptions hit ChatGPT, Claude, Grok, and Gemini practically simultaneously.</p>
+      <span class="src">Ars Technica AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/">GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era</a></h4>
+      <p>OpenAI leaders think the company’s next generation model, which excels at computer use and coding, may mark a major milestone in AI development.</p>
+      <span class="src">Wired AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/">OpenAI launches Astra, its powerful (and controversial) new model</a></h4>
+      <p>OpenAI claims that Astra represents &#34;a new frontier on computer and browser use,&#34; and that it handles tasks with unmatched &#34;speed, accuracy, and safety.&#34;</p>
+      <span class="src">TechCrunch AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release">OpenAI’s next big AI model has ‘entered the AGI era’</a></h4>
+      <p>OpenAI&#39;s next big model is here: GPT-6 Astra. The company calls it a &#34;generational leap in capability&#34; for areas like cybersecurity, professional work, software engineering, science, and computer use. As OpenAI announced earlier this week, it&#39;s also the first model designated as meeting OpenAI&#39;s…</p>
+      <span class="src">The Verge AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue/">OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk</a></h4>
+      <p>OpenAI recently estimated its Cursor partnership would make more than $1 billion in revenue a year, WIRED has learned. It still walked away after Elon Musk’s SpaceX acquired the AI coding startup.</p>
+      <span class="src">Wired AI</span>
+    </div>
+    
+  
+
+  <h3 class="section">Influencer takes &amp; sentiment</h3>
+  
+  <div class="card">
+    <blockquote class="take">
+      <div class="quote">&ldquo;One of the most subtle valuable things about Astra is that it maintains better theory-of-mind: you don&#39;t get nearly as many weird references in the final product to previous drafts or work you did during building, and there less drift as it runs long tasks. Not perfect, but very good.&rdquo;</div>
+      <div class="who">&mdash; Bluesky @emollick.bsky.social
+        &middot; <a href="https://bsky.app/profile/emollick.bsky.social/post/3munavcqzfs2z">view post</a></div>
+      
+    </blockquote>
+  </div>
+  
+  <div class="card">
+    <blockquote class="take">
+      <div class="quote">&ldquo;I had early access, and a longer post is coming, but GPT-6 is stunning &amp; is good enough that it actually does complex meaningful work for me autonomously for days. As a more fun visual example, it made a historically-based simulation of the Library of Alexandria: alexandria-mouseion.netlify.app&rdquo;</div>
+      <div class="who">&mdash; Bluesky @emollick.bsky.social
+        &middot; <a href="https://bsky.app/profile/emollick.bsky.social/post/3muna4w24bs2z">view post</a></div>
+      
+    </blockquote>
+  </div>
+  
+  <div class="card">
+    <blockquote class="take">
+      <div class="quote">&ldquo;Multiplayer AI, where many people in an organization can use AI together to accomplish goals, remains one of the biggest (non-technical) problems in using AI. Approaches tend to be pretty primitive and based around AI-as-a-person-in-your-group-chat. It encourages automation, not augmentation&rdquo;</div>
+      <div class="who">&mdash; Bluesky @emollick.bsky.social
+        &middot; <a href="https://bsky.app/profile/emollick.bsky.social/post/3mun4tzchis2n">view post</a></div>
+      
+    </blockquote>
+  </div>
+  
+
+  <h3 class="section">Research &amp; under the radar</h3>
+  
+    
+    <div class="card">
+      <h4><a href="https://simonwillison.net/2026/Sep/3/gpt6-astra/">GPT‑6 Astra</a></h4>
+      <p>GPT‑6 Astra GPT-6 Astra is &#34;rolling out today to a limited set of organizations and over the coming days will become available to all ChatGPT Plus, Pro, Business, and Enterprise users, as well as through the OpenAI API and AWS&#34; - I&#39;ve not tried it yet myself, so I don&#39;t have a great deal to say…</p>
+      <span class="src">Simon Willison</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://marginalrevolution.com/marginalrevolution/2026/09/and-it-begins-a-good-start.html?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=and-it-begins-a-good-start">And it begins…(a good start…)</a></h4>
+      <p>Wall Street banks are pushing large law firms to cut fees, arguing that the business model that has enriched top lawyers for decades is not sustainable in an era of AI. Morgan Stanley and Citigroup have told major law firms they want to set up new payment arrangements that would save them money,…</p>
+      <span class="src">Marginal Revolution</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://github.com/Agenta-AI/awesome-ai-agent-platforms">Agenta-AI/awesome-ai-agent-platforms: A curated list of open-source AI agent platforms: AI coworkers and teammates, agent builders and frameworks, workflow automation platforms, browser agents, and…</a></h4>
+      <p>A curated list of open-source AI agent platforms: AI coworkers and teammates, agent builders and frameworks, workflow automation platforms, browser agents, and coding agents, with licenses.</p>
+      <span class="src">GitHub Trending</span>
+    </div>
+    
+  
+
+  
+
+  <footer>
+    Generated 2026-09-03T21:08+00:00 UTC
+    
+    &middot; <a href="../index.html">all reports</a>
+  </footer>
+</div>
+</body>
+</html>
