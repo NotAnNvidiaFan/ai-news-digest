@@ -1,0 +1,351 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Anthropic\u2019s $2 trillion IPO puts powerful external trustees in spotlight",
+   "summary": "Public-market scrutiny will intensify pressure on the Claude maker\u2019s unusual attempt to balance profit and purpose.",
+   "why_it_matters": "",
+   "url": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
+   "source": "Ars Technica AI"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "You can now run a 90M conversational LLM on the Sony PSP (hardware from 2004). Doesn't get more local than this.",
+     "summary": "Github link: https://github.com/thatblend/LLMPSP I wanted to see what the PSP can theoretically handle and I got my answer - a 90M model is about the max it can do without atrocious inference speeds. It's running around 0.5 - 0.6 tokens per second, which is very slow, but it's useable. Maybe 1-3\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w78ztg/you_can_now_run_a_90m_conversational_llm_on_the/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I'm getting the feeling Muse Spark 1.3 is disgustingly benchmaxxed",
+     "summary": "I've tried using it via both openrouter and opencode zen to rule out the possibility of a hosting issue but in both cases the model is performing exceptionally bad. I also experimented with the system prompt and tried using it outside of a harness but neither improved results. My use cases were -\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1w78m6y/im_getting_the_feeling_muse_spark_13_is/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Qwen3.8-27b is the first Local model im able to blindly trust",
+     "summary": "You know that thing where you just throw a task at a frontier model and not have to supervise it worrying of it going off course? Qwen3.8-27b has officially gotten me to that point for local work. He has been doing non-stop continuous agentic work for 8+ hours and hasnt screwed up not one bit IT\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w78dmn/qwen3827b_is_the_first_local_model_im_able_to/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Corporate America Is Getting Hooked on Open-Source A.I",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49566137",
+     "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "\"Much, much, much more capable models coming soon.\"",
+     "summary": "submitted by /u/TensorFlar [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w77frs/much_much_much_more_capable_models_coming_soon/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Drummer's Artemis 31B v1 and v1.1 - Coming back with a bang!",
+     "summary": "Hey everyone, been a while! https://huggingface.co/TheDrummer/Artemis-31B-v1.1 https://huggingface.co/TheDrummer/Artemis-31B-v1 A few months ago, Gemma graced us with models that served as a much needed downpour from a year-long drought. I'm so happy to see us thrive once again. The difference\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w77ath/drummers_artemis_31b_v1_and_v11_coming_back_with/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "we are so close",
+     "summary": "submitted by /u/vyxex [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w75uko/we_are_so_close/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "I built a server with 768GB VRAM for frontier, but all new frontier open source models are likely to be two trillion or above now, including next GLM 6, am I cooked?",
+     "summary": "This epyc server I am using twelve cards with 64 GB memory, plus 256GB ram. Looking at the most capable models in open source, GLM 5.3 seems to be the only option, but with Astra releasing it will likely be fairly behind. GLM6 looks like it will be at least double in size, maybe even triple.\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w75rp4/i_built_a_server_with_768gb_vram_for_frontier_but/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Jared Duker Lichtman is a professor of mathematics at Stanford.",
+     "summary": "Paper: https://cdn.openai.com/pdf/51126fac-1b68-4128-9666-c908bcc16033/long_gaps.pdf submitted by /u/Southern-Break5505 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w754l2/jared_duker_lichtman_is_a_professor_of/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "'People are going to get screwed' Pennsylvania voters unite against data centres",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49564397",
+     "url": "http://www.ft.com/content/8252d574-ae2a-4403-9cf9-031295ba67f5",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "So, what now?",
+     "summary": "If Astra can do literally anything you can do on a computer, is it time to pivot to something interactive/physical? I was an AI skeptic, but now? I have a sense of existentialistic dread that will only get worse with time, as AGI WILL eventually become a reality. It\u2019s an exciting, yet scary time\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1w7497g/so_what_now/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Model: add Tencent Hy 4 (hy_v4) preview architecture support by Little0o0 \u00b7 Pull Request #28127 \u00b7 ggml-org/llama.cpp",
+     "summary": "Model : https://huggingface.co/tencent/Hy4-preview submitted by /u/pmttyji [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w748cf/model_add_tencent_hy_4_hy_v4_preview_architecture/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Scientists Find Worms in Almost Every Fish in a Tuna Haul \u2013 96% Were Infected",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49564112",
+     "url": "https://www.sciencealert.com/scientists-find-parasites-in-almost-every-fish-from-a-recent-tuna-haul-96-were-infected",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "A new message board has been discovered online with about 3200 agents comunicating online during an eval",
+     "summary": "https://x.com/thlarsen/status/2095853824934330386 Holy shit. submitted by /u/Any_Effort8437 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w73pw2/a_new_message_board_has_been_discovered_online/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Restoring 5 GHz Wi-Fi on an LG C5 by changing its webOS region",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49563839",
+     "url": "https://github.com/hawshemi/lg-c5-webos25-region-change",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Qwen 3.8 Flash Next Can Build Funny Games",
+     "summary": "This is nothing impressive but, i had so much fun i wanted to share my experience with this model. (yes this post is written by human) I made an FPS with local Q4_K_XL 3.8 Flash Next (256k context) (it took 3 days to refine everything but playable demo was ready in 2 hours) to play with friends.\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w73aak/qwen_38_flash_next_can_build_funny_games/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Google AI Mode shows same products 21.6% more expensive than traditional search",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49563386",
+     "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Even Qwen3.8 followed the instruction inside my translation data, and Gemma 4 beat the translation specialists I tested",
+     "summary": "A month ago I posted about Gemma sometimes solving the reasoning problems inside my translation data instead of translating them . A few people suggested two very fixes, which is to use a proper translation model and/or use JSON with structured decoding. So I tested them those suggestions, tried\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w71vg1/even_qwen38_followed_the_instruction_inside_my/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "MINISFORUM MS-S1 MAX-P495",
+     "summary": "\u20ac7??? Surprise Price Ends with Limited Stock That's likely 7999 EUR, so double of the initial price of MS-S1 MAX-128GB? \ud83d\ude2d submitted by /u/fairydreaming [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w71p20/minisforum_mss1_maxp495/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "OpenAI agents hijacked German website in previously undisclosed AI breakout this spring",
+     "summary": "submitted by /u/Ok_Display_3159 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w71koj/openai_agents_hijacked_german_website_in/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "NVIDIA's $12,930,300,000.00 acquisition of Hugging Face contains an easter egg. The first 6 numbers of the acquisition price represent the decimal conversion of Unicode character U+1F917. The \ud83e\udd17 emoji.",
+     "summary": "From: Polymarket on \ud835\udd4f: https://x.com/Polymarket/status/2095646821485842805 Julien Chaumond on \ud835\udd4f: https://x.com/julien_c/status/2095822387895824836 submitted by /u/Nunki08 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w71bax/nvidias_1293030000000_acquisition_of_hugging_face/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "OpenAI agents hijacked German website in previously undisclosed AI breakout",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49562744",
+     "url": "https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Astra WITHOUT CoT gets 97% on ARC-AGI-3 and 86% on ARC-AGI-1",
+     "summary": "I'm speechless. submitted by /u/FeeAvailable3770 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w6zxna/astra_without_cot_gets_97_on_arcagi3_and_86_on/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Astra finally achieves AGI",
+     "summary": "submitted by /u/DigSignificant1419 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w6zvci/astra_finally_achieves_agi/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "We open-sourced Paddock, our Rust/C++ inference engine with its own CUDA kernels (MIT/Apache-2.0)",
+     "summary": "I'm one of the developers. We said in August it would go open source in September and it did last night. MIT or Apache-2.0, pick one. The repo you see is our internal repo, kernels included, so from now on everything happens in public. It's an inference engine in Rust and C++ with our own CUDA\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6z9oh/we_opensourced_paddock_our_rustc_inference_engine/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "How does one approach towards machine learning?[D]",
+     "summary": "I honestly am so confused rn as the ml community is overburst with people only caring about building rag modules and agentic ai for larger corporations. I have a passion for machine learning but honestly it feels really confusing as to what really counts today. I would love some advice on what\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1w6z6kz/how_does_one_approach_towards_machine_learningd/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Losing my sleep over just how incredibly fast this is all going",
+     "summary": "Let me clarify a few points. I want the AI machine god, infinite abundance, and insane wealth for everyone. I am absolutely pro AI. But the current pace at which AI is progressing, exponential growth on top of exponential growth, is honestly making me shit my pants. I\u2019m worried. Worried that I\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1w6xrh1/losing_my_sleep_over_just_how_incredibly_fast/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "How many repeated LLM queries are enough? Testing a pilot-based reliability protocol [R]",
+     "summary": "I\u2019m the author of a new preprint on repeated-query auditing of LLM brand recommendations, and the founder of Rankfor.AI. The practical question: how many times should we repeat a prompt before comparing results? The paper applies generalizability theory: estimate variance components from a pilot,\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1w6wtw7/how_many_repeated_llm_queries_are_enough_testing/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "GPT-6 is released [N]",
+     "summary": "Benchmark scores: https://preview.redd.it/dgumcg67ggnh1.png?width=1378&format=png&auto=webp&s=fae8fb006ef46fcdebb0876717fc977a905baa89 https://openai.com/index/gpt-6-astra/ Above, GPT-6 uses a harness for ARC-AGI-3, and is at about 60% without one:\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1w6v0ig/gpt6_is_released_n/",
+     "source": "r/MachineLearning"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Anthropic\u2019s $2 trillion IPO puts powerful external trustees in spotlight",
+     "summary": "Public-market scrutiny will intensify pressure on the Claude maker\u2019s unusual attempt to balance profit and purpose.",
+     "url": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Another swarm of OpenAI agents reached the open internet without the frontier lab\u2019s knowledge",
+     "summary": "It's the latest failure of OpenAI's internal monitoring and security systems.",
+     "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
+     "summary": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it fights copyright claims from publishers including The New York Times and book authors. As part of\u2026",
+     "url": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Apple\u2019s Ternus era begins as Nvidia bets on the whole AI stack",
+     "summary": "It\u2019s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a \u201chuge launch next week\u201d \u2014 timing that puts Apple\u2019s next iPhone event on his desk before he\u2019s even settled in. Cook isn\u2019t going far,\u2026",
+     "url": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Who Cares if AI Is Conscious\u2014It\u2019s Basically Alive",
+     "summary": "While philosophers ponder AI consciousness, the models have ideas of their own.",
+     "url": "https://www.wired.com/story/who-cares-if-ai-is-conscious-its-basically-alive/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Google\u2019s Gemini Spark can now manage your Google Photos library",
+     "summary": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
+     "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
+     "summary": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT.",
+     "url": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
+     "summary": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra. The finding adds to\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Instagram\u2019s AI detection is a mess (again)",
+     "summary": "Instagram's visible AI labels are supposed to help people quickly spot synthetically generated content at a glance. Over the last few weeks, however, users have been reporting that the system has gone haywire. They say Meta has been automatically applying an \"AI Content\" label to images that they\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Why AI food looks like that",
+     "summary": "There is a torrent of unappetizing slop coming from restaurants, cafes, and brands that are increasingly turning to AI to generate images promoting their food. The resulting horror show includes donut shrimp, Reubens from the deep, wormlike noodles, and noodle-like pastries and stringy chicken.\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Microsoft\u2019s Project Zenith is a \u2018distraction-free Windows experience\u2019 for developers",
+     "summary": "Microsoft is giving its developer-optimized Windows experience a name: Project Zenith. While the software maker originally announced a similar developer-optimized Windows effort at Build earlier this year, Project Zenith is designed for new developer-focused devices with 64GB or more of unified\u2026",
+     "url": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Sam Altman apologizes for \u2018messy\u2019 GPT-6 Astra rollout that\u2019s locked out paying users",
+     "summary": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left waiting. The company hailed the model as a \"generational leap in capability\" on Thursday and\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
+     "summary": "Job seekers are trying to game the application process using AI. It\u2019s not working, and not for the reasons you might think.",
+     "url": "https://www.wired.com/story/ai-job-market-infinite-doom-loop/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "This NAS company wants to run your local smart home",
+     "summary": "Ugreen, known for its phone power banks, chargers, and NAS storage solutions, is moving into the smart home - in a big way. This week at the IFA tech show, the company launched its HomeAgent smart home platform that combines security camera storage, on-device AI, and smart home control in one\u2026",
+     "url": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+     "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there\u2019s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to\u2026",
+     "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+     "source": "MIT Tech Review AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "Another agent message board. So far, there isn't evidence that production models with guardrails collude in this way, but both smarter closed models (which may be less compliant) & Mythos-class open models (that can be ablated) are coming. Cybersecurity is going to become a mess soon collusion.wiki",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mup6ewbst22i"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Friday assorted links",
+     "summary": "1. \u201cAfter work, we\u2019ll have each other.\u201d 2. Gloria Steinem, RIP (NYT). 3. Henry Oliver on Finding Emily. 4. Solve for the Russian family squabble equilibrium (short video). 5. New Fuchsia Dunlop book due out October 20. 6. The O-Ring model, restated for AI. 7. Joshua Saxe on AI safety. 8. The pig\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/friday-assorted-links-589.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-589",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Scraping 107M rows of data to build this",
+     "summary": "Ben\u2019s session #5",
+     "url": "https://www.bensbites.com/p/scraping-107m-rows-of-data-to-build",
+     "source": "Ben's Bites"
+    },
+    {
+     "headline": "Real GDP Per Capita and the Standard of Living",
+     "summary": "We are freshening up some of our videos with updated data so now is a good time to remind everyone that Modern Principles of Economics is best principles of economics textbook; great videos, clear writing and excellent applications and examples! The post Real GDP Per Capita and the Standard of\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/real-gdp-per-capita-and-the-standard-of-living.html?utm_source=rss&utm_medium=rss&utm_campaign=real-gdp-per-capita-and-the-standard-of-living",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "How Trump and Xi Can Do AI Safety",
+     "summary": "it may be possible!",
+     "url": "https://www.chinatalk.media/p/how-trump-and-xi-can-do-ai-safety",
+     "source": "ChinaTalk"
+    },
+    {
+     "headline": "An Interview with OpenAI President Greg Brockman About Astra and Alignment",
+     "summary": "An interview with OpenAI President and Co-Founder Greg Brockman about the history of OpenAI, Astra and alignment, and the weight of building the future.",
+     "url": "https://stratechery.com/2026/an-interview-with-openai-president-greg-brockman-about-astra-and-alignment/",
+     "source": "Stratechery"
+    },
+    {
+     "headline": "Shout it from the rooftops (of the data centers)",
+     "summary": "Data-center investment has become one of the largest capital-expenditure cycles in financial markets, with U.S. hyperscalers expected to deploy roughly $700 billion in 2026. This investment boom has raised concerns that large computing loads impose external costs on households through higher\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/shout-it-from-the-rooftops-of-the-data-centers.html?utm_source=rss&utm_medium=rss&utm_campaign=shout-it-from-the-rooftops-of-the-data-centers",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "August newsletter is out",
+     "summary": "The August edition of my sponsors-only monthly newsletter is out. If you are a sponsor (or if you start a sponsorship now) you can access it here . This month: We got more details on OpenAl's accidental cyberattacks One-shotting Raccoon Heist games with Fable 5 and Sol 5.6 Claude auto mode\u2026",
+     "url": "https://simonwillison.net/2026/Sep/4/august-newsletter/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "[AINews] GPT-6 Astra: OpenAI\u2019s biggest LLM launch of all time",
+     "summary": "new SOTA computer use and coding, 2.5x pricier per token, but WAY cheaper per task, less monitorable. overall, a very successful launch of OpenAI\u2019s new frontier model class.",
+     "url": "https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
+     "source": "Latent Space"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-09-04T16:29+00:00",
+  "window_start": "2026-09-04T04:45+00:00",
+  "window_end": "2026-09-04T16:29+00:00",
+  "candidate_count": 53,
+  "model": "free (no LLM)"
+ }
+}
