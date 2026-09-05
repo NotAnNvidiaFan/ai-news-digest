@@ -1,0 +1,243 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "OpenClaw Power, MacBook Simplicity: Five Days With Grok Bot",
+   "summary": "SpaceXAI\u2019s Grok Bot has the same level of programming power as OpenClaw, but it\u2019s programmable at a different level of abstraction.",
+   "why_it_matters": "",
+   "url": "https://www.latent.space/p/grok-bot",
+   "source": "Latent Space"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "The gap has closed, open source will win",
+     "summary": "I've been trying the latest models from the frontier labs and honestly, after extensive testing I can not tell the difference between the best open source options. I think the differences are now marginal but the labs are doing heavy marketing to convince the public into paying more for tokens as\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w825pc/the_gap_has_closed_open_source_will_win/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "NInfer vs llama.cpp vs vLLM: quality + speed comparison for Qwen3.8-27B NVFP4 on RTX 5090",
+     "summary": "I've been running Qwen3.8-27B as a local inference server for a production content intelligence pipeline (HVAC industry stuff, lots of long-context retrieval and structured extraction). I have been watching other redditors post their custom configurations, and I wanted to share what I tested to\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w821fg/ninfer_vs_llamacpp_vs_vllm_quality_speed/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I'm building a 2D video to 3D animation translation layer.",
+     "summary": "Wrote up this experiment. For context I have never used blender or unreal engine before, I work as a dev in a different industry. I want to see how Astra advances special reasoning & understanding :) This session was about an hour total. submitted by /u/Relevant-Magic-Card [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1w81x6x/im_building_a_2d_video_to_3d_animation/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "There's No Limit to How Bad Code Can Get",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49576704",
+     "url": "https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Global warming will exceed 1.5-degree limit, UN says",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49576124",
+     "url": "https://www.pbs.org/newshour/science/global-warming-will-exceed-1-5-degree-limit-un-says-in-report-that-maps-path-back-below-danger-zone",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Qwen3.8-Flash-Next (UD-Q4_K_XL) on a single RTX 3090 24GB + 128GB DDR4, is this config optimal?",
+     "summary": "Qwen3.8-Flash-Next (UD-Q4_K_XL) on a single RTX 3090 24GB + 128GB DDR4 \u2014 is this config optimal? Hardware CPU: Intel Core i5-12600K RAM: 128 GB DDR4 @ 3600 MHz GPU: NVIDIA RTX 3090, 24 GB VRAM OS: Windows 11 llama.cpp: freshly compiled from today's master (build b10794, Sep 4 2026) Model\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7zz1o/qwen38flashnext_udq4_k_xl_on_a_single_rtx_3090/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Top AI Development Companies to Consider in 2026",
+     "summary": "I have been looking into AI development companies recently. I am starting to realize how difficult it is to tell which AI development companies are actually good. Every company seems to offer AI development now, whether that is building an LLM-based application, an AI agent, an automation system,\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1w7zwpf/top_ai_development_companies_to_consider_in_2026/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "AA Update! Here's how the small models score.",
+     "summary": "Ling 3.0 Tiny still seems to be leading the pack despite only having 1.3B active submitted by /u/Tall_Abrocoma_3533 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7y3sa/aa_update_heres_how_the_small_models_score/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "AA Update! Here's how the Frontier ranks.",
+     "summary": "Along with everyone's favorite here, qwen3.8-27B submitted by /u/Tall_Abrocoma_3533 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7y261/aa_update_heres_how_the_frontier_ranks/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "local vibecoding with Qwen 3.8 27B and Godot",
+     "summary": "OK, you guys want to start with local vibecoding but don't know how. In the discussions, you recommended that I use Godot. I downloaded it without knowing what it was. I was expecting a library, but it was an .exe file. So I started pi with Qwen 3.8 27B and told it to explore this topic without my\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7xso4/local_vibecoding_with_qwen_38_27b_and_godot/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "AI agents can now pay for things online by themselves. Here is what can go wrong, and what I built to catch it",
+     "summary": "There is a real, live protocol called x402 that lets an AI agent pay for web content automatically. No login, no card entry, no human approval. A site says payment required, the agent signs a small crypto payment, gets the content. This already exists and is already being used. Two things worried\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1w7xjis/ai_agents_can_now_pay_for_things_online_by/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "OK, who's gonna make a model of Michael Knight's computer KITT ?",
+     "summary": "So we can use it with our version of whatever LLM we use in daily life? I want my LLM to have a slight british accent ... or rather transatlantic accent I think it was. Slightly like a butler but also with an attitude. The next apple watch .. if they manage to get a chip on it that can run\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1w7x9ht/ok_whos_gonna_make_a_model_of_michael_knights/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "[Discussion] Do you think AI can develop secure enough projects?",
+     "summary": "I want to discuss something, vibe coding is being presented as ultimate solution for people who don\u2019t know how to code. When it comes to cyber security though there are major flawbacks. idk if there is a general consensus but what do you think about this issue? Should vibe coded programs be\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1w7ww1q/discussion_do_you_think_ai_can_develop_secure/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Qwen3.8 27B on Strix - the optimized setup",
+     "summary": "Ever since u/jfowers_amd has asked me to help with the Lemonade project (and provided some hardware to test on), I've been trying my best to optimize llama.cpp for AMD setups. This has led me in some very weird pathways where I wasn't expecting to go, but in the end I'm happy to share an optimized\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7wte4/qwen38_27b_on_strix_the_optimized_setup/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "LLVM developers begin debate over AGENTS.md for helping AI agents",
+     "summary": "submitted by /u/Fcking_Chuck [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1w7w950/llvm_developers_begin_debate_over_agentsmd_for/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "AI handles incidents, engineers lose touch with their systems",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49574167",
+     "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Are we finally hitting the \u201cScaling-Wall\u201d? Test-Time Compute meta on AI Industry.",
+     "summary": "For the last few years, the playbook for building better AI was simple: build a bigger model, scrape more of the internet, and throw more GPUs at it. Bigger always meant better. But over the last few months, it\u2019s become obvious that the industry is quietly shifting its entire strategy. We are\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1w7u5f7/are_we_finally_hitting_the_scalingwall_testtime/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Qwen3.8 27b for agentic coding and next .... what?",
+     "summary": "First, I'd like to thank the Qwen and Unsloth teams for the Qwen3.8 27b UD Q4_K_XL. Fits the poor 24GB of 3090 VRAM with 100k context at Q8 and works phenomenally well! Imho if theres anything that can threaten Anthropic/OpenAI profits is not another frontier model but actually these small ones\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7tndw/qwen38_27b_for_agentic_coding_and_next_what/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I've found myself using Local LLM's like 3D printers.",
+     "summary": "Anyone who has a 3D printer and get use of it finds it incredibly useful for those odd jobs around the house, a missing bracket, a cable router, steam deck holder and so on. In the past if I was missing an app or useful software, a game I'd do the lazy thing, even though I can and have coded in\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7thwv/ive_found_myself_using_local_llms_like_3d_printers/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "The OpenAI Huggingface incident from an agents POV",
+     "summary": "Full credits to @artificialisabel from X! submitted by /u/iPingWine [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7tfrm/the_openai_huggingface_incident_from_an_agents_pov/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Git hosting that never leaves Europe",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49573680",
+     "url": "https://pushin.eu",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "NeurIPS 2026 Automatic Reference Checker [R]",
+     "summary": "Just received an email about the automatic reference/citation checker. Did anyone receive a follow up email about whether the checker was included in the paper's decision making too, along with the general instructional email? submitted by /u/Emergency_Plate241 [link] [comments]",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1w7sljy/neurips_2026_automatic_reference_checker_r/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Language Models Can Control Their Own Attention [R]",
+     "summary": "Abstract Language models spend most of their attention on a small fraction of context, yet they read the entire KV cache to find the few tokens that matter. If the user asks about a previous detail in a 1M-token conversation, global attention layers must scan the full context to generate each\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1w7sgf3/language_models_can_control_their_own_attention_r/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Implementing Embedding Gemma from scratch in PyTorch [P]",
+     "summary": "submitted by /u/Winter_Mistake_3185 [link] [comments]",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1w7scxc/implementing_embedding_gemma_from_scratch_in/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Why is it so hard for some to believe that AI is useful?",
+     "summary": "I've seen a lot of arguing on Reddit about AI, and a portion is dedicated to this seemingly easily disprovable claim. I see people claim that AI can't do any actual work and that anyone who uses it is brain-dead. I just don't understand how people can claim that if they look at current frontier\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1w7s4l8/why_is_it_so_hard_for_some_to_believe_that_ai_is/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "How to gamify jobs which are inherently not fun",
+     "summary": "submitted by /u/shanoshamanizum [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1w7rx33/how_to_gamify_jobs_which_are_inherently_not_fun/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "50.5% of Americans Say AI Romance Can Count as Cheating",
+     "summary": "This survey seems pretty interesting. My only concern is whether data collected using SurveyMonkey Audience really represents Americans in a broad sense. What do you guys think? https://www.artificialintelligence-news.com/news/50-5-of-americans-say-ai-romance-can-count-as-cheating/ submitted by\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1w7r5mn/505_of_americans_say_ai_romance_can_count_as/",
+     "source": "r/artificial"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "OpenAI admits to German wiki \u2018incident\u2019",
+     "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site. Regarding the \"'wiki incident,' where our\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "OpenAI Agents Hacked Another Website",
+     "summary": "Plus: Tens of millions of US and Canadian drivers\u2019 licenses go up for sale on the dark web, the US military finally tries to tackle the risk online ad data poses to troops, and more.",
+     "url": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/",
+     "source": "Wired AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "One thing I have learned talking to lots of people about AI is that they can be both worried about the implications of AI and very excited about using AI themselves. I think people on this site tend to view many people's attitudes to AI as much less complicated than they are.",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3muqr6aawqc2t"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "OpenClaw Power, MacBook Simplicity: Five Days With Grok Bot",
+     "summary": "SpaceXAI\u2019s Grok Bot has the same level of programming power as OpenClaw, but it\u2019s programmable at a different level of abstraction.",
+     "url": "https://www.latent.space/p/grok-bot",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "The Kalshi Citizen Debt Forecast (CDF)",
+     "summary": "Kalshi Research is doing interesting work on the fundamentals of prediction markets and also on how data from prediction markets can be used to improve other forecasts. Economists at the Fed, for example, recently wrote Kalshi and the Rise of Macro Markets finding: Prediction markets offer a new\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/the-kalshi-citizen-debt-forecast-cdf.html?utm_source=rss&utm_medium=rss&utm_campaign=the-kalshi-citizen-debt-forecast-cdf",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Mein Ingeborg Bachmann Studium",
+     "summary": "Recently I finished read Malina, by Ingeborg Bachmann, an Austrian novel published in 1971. I was pretty stunned by how good it was (it seems less good in English), and I would say I enjoyed it more, and found it deeper, than any of the famous 19th century Victorian novels by women. The initial\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/mein-ingeborg-bachmann-studium.html?utm_source=rss&utm_medium=rss&utm_campaign=mein-ingeborg-bachmann-studium",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Is Lichtenstein an actual monarchy?",
+     "summary": "It seems so: Internal documents reviewed by the FT show that three days earlier, behind the walls of Vaduz Castle, Europe\u2019s wealthiest ruling dynasty had quietly approved an overhaul that strengthens the authority of a prince who already wields extraordinary power over his 42,000 citizens, while\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/is-lichtenstein-an-actual-monarchy.html?utm_source=rss&utm_medium=rss&utm_campaign=is-lichtenstein-an-actual-monarchy",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "chigwell/Penelopa.ai: Continuous improvement for AI coding agents: Penelopa analyzes real Codex and Claude Code sessions, finds repeated workflow patterns, and turns them into reusable skills,\u2026",
+     "summary": "Continuous improvement for AI coding agents: Penelopa analyzes real Codex and Claude Code sessions, finds repeated workflow patterns, and turns them into reusable skills, checks, prompts, and recommendations.",
+     "url": "https://github.com/chigwell/Penelopa.ai",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-09-05T15:21+00:00",
+  "window_start": "2026-09-05T04:40+00:00",
+  "window_end": "2026-09-05T15:21+00:00",
+  "candidate_count": 35,
+  "model": "free (no LLM)"
+ }
+}
