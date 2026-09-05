@@ -1,0 +1,197 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "How does your favourite local model do with the slinky test?",
+   "summary": "Prompt: Make me a single HTML file of a rainbow slinky going down an up-escalator forever. No libraries, just canvas and code. The slinky should be a chain of springs, each coil a different color of the rainbow. It starts folded in half like a horseshoe draped over a step. When dropped it flips\u2026",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8b84k/how_does_your_favourite_local_model_do_with_the/",
+   "source": "r/LocalLLaMA"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "How does your favourite local model do with the slinky test?",
+     "summary": "Prompt: Make me a single HTML file of a rainbow slinky going down an up-escalator forever. No libraries, just canvas and code. The slinky should be a chain of springs, each coil a different color of the rainbow. It starts folded in half like a horseshoe draped over a step. When dropped it flips\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8b84k/how_does_your_favourite_local_model_do_with_the/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Eidon: an all-in-one self-hosted AI platform: Chat, agents (Grok bot like), automations, tools included. One single Docker container !",
+     "summary": "Eidon: an all-in-one self-hosted AI platform. Chat, agents, automations, tools included. One Docker container, works with Ollama/LM Studio (AGPL) I've been building a self-hosted AI platform and v4 just shipped, so sharing it here because some of you might find it useful. Eidon is an \"everything\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8asps/eidon_an_allinone_selfhosted_ai_platform_chat/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Companies Have 6 Months to Prepare for Automated Attacks",
+     "summary": "submitted by /u/israelavila [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1w8aso1/companies_have_6_months_to_prepare_for_automated/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "My local LLM demoscene generator can now watch its own output and rewrite it!",
+     "summary": "I've updated my auto_demo_scener project with Ninfer support and a \u201crewrite based on video\u201d feature that I thought you might find interesting. The project is basically an endless demoscene machine. A local LLM writes Three.js effects (from a library of editable prompts), you watch the code stream\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8a45b/my_local_llm_demoscene_generator_can_now_watch/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "GPT-6 reportedly jailbroken within 24 hours using an extended Task-in-Prompt (TIP) attack [N]",
+     "summary": "A researcher has reported a jailbreak of GPT-6 Astra within a day after release. The attack is described as combination of TIP (Task-in-Prompt) attack from ACL 2025 paper with four other unnamed techniques. TIP attacks exploit the model\u2019s reasoning/instruction-following behaviour by hidding the\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1w89m36/gpt6_reportedly_jailbroken_within_24_hours_using/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Trump Says AI Will Create 'Millions and Millions' of Jobs as He Defends Data Centre Boom",
+     "summary": "submitted by /u/beingmodest [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1w89lyj/trump_says_ai_will_create_millions_and_millions/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Am I the only one thinking AI workflows are more of a burden than relief?",
+     "summary": "I reckon we have all seen demos where someone\u2019s multi-agent framework spins up, researches a topic, writes code, and deploys an app while they grab coffee. but when i actually try to set something up locally to handle basic daily tasks, i spend three hours trying to make things work, only to watch\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1w88rti/am_i_the_only_one_thinking_ai_workflows_are_more/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "The generation generation.",
+     "summary": "This term came to my mind. Maybe it should become the official name for the era after LLMs became available. There will soon be an entire generation living in a time when they always had access to AI, and no doubt AI generation will drastically change the way they live compared to prior to that.\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1w88r1a/the_generation_generation/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "What if AI models are designed to make mistakes? \ud83e\udd14",
+     "summary": "\u200b I had a weird thought: What if some lower-tier AI models knowingly make certain mistakes or give lower-quality answers, while higher-tier models are much better at detecting and fixing those mistakes? Not necessarily because the AI is \u201cevil,\u201d but because it could create a business model: Basic\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1w88h4v/what_if_ai_models_are_designed_to_make_mistakes/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Best way to run Qwen3.8-27B on a system with a RTX 5090 + RTX 5070 Ti (32GB + 16GB)?",
+     "summary": "I have a system with 2 GPUs and 48GB VRAM total, a RTX 5090 + RTX 5070Ti. What would you say is the best way to run Qwen3.8-27B on that system with the best quality and 262k context? Would just the normal llama.cpp work with how it detects and does its own magic with dual CPU systems, or something\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8714b/best_way_to_run_qwen3827b_on_a_system_with_a_rtx/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Show HN: We Beat MLPerf: Modern Storage for KV Offload and LLM Training",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49578727",
+     "url": "https://www.theopenlake.com/blog/openlake-leads-mlperf-storage-v3-0",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Any resource on using Blender with local models, and which models work best?",
+     "summary": "Hey all, I've seen some really fun looking things with people having their local models drive Blender to create pretty cool looking world scenes. Is there a good tutorial on setting up Blender yo be driven by your model? For example, what programming harness, do you use a MCP and which? Which\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w86wqp/any_resource_on_using_blender_with_local_models/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Six months on an on-device Android agent where the behaviour is an editable graph, not a prompt - please take it apart",
+     "summary": "English isn't my first language: I wrote this in Russian and used an LLM to translate and tighten it. The project, the code, the measurements and the argument are mine. I've been building an Android agent since March, nights and weekends. It went into Google Play a couple of weeks ago. I use it\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w862br/six_months_on_an_ondevice_android_agent_where_the/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Learn Programming with OCaml",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49578280",
+     "url": "https://usr.lmf.cnrs.fr/lpo/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Otaku \u2014 an LLM frontend",
+     "summary": "Otaku is an LLM frontend, primarily designed for roleplay, an alternative to SillyTavern and the like. However, It also works for general-purpose chat with local backends (including Ollama) or cloud models, the way Open WebUI is used, once lore extraction is switched off in the settings. Otaku\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w85blf/otaku_an_llm_frontend/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Is there a local LLM or toolchain to edit 3d models?",
+     "summary": "I got a lot of ads for meshy recently and went to try it with hilariously bad results. It apparently can't do anything but decorative figurines. I wanted a body shell for an rc car and it just couldn't generate a car without wheels or bottom chassis. It also looks like it can't tell the difference\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w854iq/is_there_a_local_llm_or_toolchain_to_edit_3d/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "What's the deal with all those cheap 3D modelled web apps?",
+     "summary": "My feed is filled with demos showcasing random worlds generated by the new model that just came out, not sure about it's name but the one that is real real AGI. Thing is, most are using prefabs reused or stolen from online libraries. Or cheap SVGs. Most seem to run on THREE.JS which requires\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1w84vih/whats_the_deal_with_all_those_cheap_3d_modelled/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Shouldn't the solution to thinking-effort be an adaptive system?",
+     "summary": "I bet i'm not the first one to have this idea, but with the recent debate about qwen 3.8 27b thinking levels, i was wondering whether the optimum solution might just be to change your harness in a way that lets the LLM itself decide when it is time to raise or lower the required reasoning effort?\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w84qia/shouldnt_the_solution_to_thinkingeffort_be_an/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Qwen3.8 Flash Next - Templates Comparison",
+     "summary": "I was running into a lot of posts that praised both the Fixed template and the Sharp template in comparison to the stock one, so I put them to the test. It's not as extensive as it should be for a paper-grade analysis, but it gives out the point of each template. Test setup I used SWE-bench\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w84mod/qwen38_flash_next_templates_comparison/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Hikers rescued after using Google Gemini for planning",
+     "summary": "The sheriff\u2019s office said the hikers \u201cwere advised by Gemini to bring far less food and water than their group required.\"",
+     "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "OpenAI confirms \u2018wiki incident,\u2019 says it\u2019s \u2018working on a framework\u2019 for more disclosure",
+     "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+     "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+     "source": "TechCrunch AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "An effect of the rapid acceleration of AI is we are losing an empirical handle on what is happening in the actual micro-processes of work in the post-2026 long-running agentic era. We have academic knowledge of the impact of chatbots on work, much less on impacts of agents that can work for hours",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3musaft2voc2z"
+    },
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "Another neat one: I had GPT-6 Astra build a model of a famous never-built buildings, Boull\u00e9e\u2019s 1784 Centograph. There were only a few black and white sketches to work with, along with a description. It built a full Blender model & directed a dramatic narrated walkthrough to emphasize its scale.",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3murua22igs2i"
+    },
+    {
+     "author": "Bluesky @simonwillison.net",
+     "handle": "",
+     "quote": "New TIL on using Blender with coding agents on macOS: til.simonwillison.net/llms/blender... GPT-6 Astra (medium): > Use the already install /Applications/Blender to render a scene of a pelican riding a bicycle > OK add a background and a lot of flair > OK make it a whole lot better Result:",
+     "context": "",
+     "url": "https://bsky.app/profile/simonwillison.net/post/3murtmdynq22s"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Short Videos, Big Self-Control Problems",
+     "summary": "I study how short-form design amplifies self-control problems in digital media. Short units repeatedly renew temptation that lasts longer than each unit, turning local temptation into sustained overconsumption. Using microdata from a U.S. short-drama platform, I exploit a nonlinear top-up menu to\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/short-videos-big-self-control-problems.html?utm_source=rss&utm_medium=rss&utm_campaign=short-videos-big-self-control-problems",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Using Blender with coding agents on macOS",
+     "summary": "TIL: Using Blender with coding agents on macOS I've been having fun with Blender in ChatGPT Codex on my Mac recently. Getting it to work with coding agents is really easy: install the full Mac application from blender.org and run a prompt like this: Use the already install /Applications/Blender to\u2026",
+     "url": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "Saturday assorted links",
+     "summary": "1. Joaquin Rodrigo\u2019s Toccata. Rodrigo by the way was blind, 2. China word of the day. 3. \u201cPeople Keep Sneaking Into New York City Sewers. No One Knows Why.\u201d (NYT) 4. Yiyang Zhuge has postponed her recording session with CWT, in case you will be wondering why the episode does not show up soon. 5.\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/friday-assorted-links-588.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-588",
+     "source": "Marginal Revolution"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-09-05T20:30+00:00",
+  "window_start": "2026-09-05T15:21+00:00",
+  "window_end": "2026-09-05T20:30+00:00",
+  "candidate_count": 27,
+  "model": "free (no LLM)"
+ }
+}
