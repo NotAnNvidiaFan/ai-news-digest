@@ -1,0 +1,269 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Today I used Astra",
+   "summary": "5 minutes later, I hit my usage limit. I reset the usage limit. 5 minutes later, I hit my usage limit. I reset the usage limit. 5 minutes later, I hit my usage limit. I cannot reset the usage limit. submitted by /u/memeka [link] [comments]",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7qcev/today_i_used_astra/",
+   "source": "r/LocalLLaMA"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Today I used Astra",
+     "summary": "5 minutes later, I hit my usage limit. I reset the usage limit. 5 minutes later, I hit my usage limit. I reset the usage limit. 5 minutes later, I hit my usage limit. I cannot reset the usage limit. submitted by /u/memeka [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7qcev/today_i_used_astra/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Qwen3.8-27B beat the Wikipedia game in 6 clicks.",
+     "summary": "Used qwen3.8-27b in Opencode to make this silly mini-game because I'm not sober: ``` We are going to play a game, it will be the Wikipedia game. The Wikipedia game has the following rules: You will have a Wikipedia article set as a starting point. You will have a Wikipedia article set as an ending\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7q92n/qwen3827b_beat_the_wikipedia_game_in_6_clicks/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "ChatGPT Plus vs Gemini AI Pro vs Claude Pro for serious academic research",
+     "summary": "I'm looking for an AI subscription to use for heavy/long-term research, not casual questions. I'm currently doing M.Tech-level research in chemical engineering/process control, involving things like Distributed Model Predictive Control (DMPC), mathematical modeling, graph theory, MATLAB\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1w7q8rv/chatgpt_plus_vs_gemini_ai_pro_vs_claude_pro_for/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "How do I move forward if I have very short ASI timelines?",
+     "summary": "I am a 24 year old male. A year ago I figured I had well over a half century until I'd die. I'm no longer sure of this. Six months ago I thought AI was an interesting, useful, and sometimes unwieldy tool for programmers and researchers and such, and maybe it was at risk of displacing workers and\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1w7pxu8/how_do_i_move_forward_if_i_have_very_short_asi/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "AMD unveils Threadripper Halo Station",
+     "summary": "AMD Threadripper Halo Station CPU Ryzen Threadripper PRO 9995WX (Zen 5, \"Shimada Peak\") 96 cores / 192 threads Up to 5.4 GHz boost 384 MB L3 cache 350 W TDP 8-channel DDR5 128 PCIe 5.0 lanes System Memory 2 TB DDR5 (as shown at IFA) Accelerators 2 x Liquid Cooled AMD Instinct MI350P (CDNA 4) 144\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7pphh/amd_unveils_threadripper_halo_station/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Chalk one up for the frontier model...",
+     "summary": "I just spent the last 2 hours of my life on a Friday night debugging a strange error in a prod CLI app. EF core was receive a readonlyspan during a Contains query. Normally, this query converted to a WHERE [col] IN (...) , but for some reason, after an update, it started choking, despite no code\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7pdaf/chalk_one_up_for_the_frontier_model/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Nvidia acquiring Hugging Face (~$13B), Apple reportedly renting Gemini for Siri, and Anthropic's quiet Sonnet 5 price bump \u2014 a roundup of a heavy week",
+     "summary": "A few genuinely structural things happened this week that seem more important than the usual model-drop cycle, so I wanted to lay them out and get others' read. Nvidia is buying Hugging Face for around $13B. Reported across CNBC, TechCrunch and the wires. HF says it'll \"remain an open platform.\"\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1w7p8uk/nvidia_acquiring_hugging_face_13b_apple/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Why are more people not concerned about privacy?",
+     "summary": "There are so many people uploading their pictures to be edited, disclosing people's names, detailed experiences, trauma, opinions and ideas with seemingly no filter. Additionally, the power users have given AI access to their password manager for coding, debugging. Access to their files and\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1w7o0xv/why_are_more_people_not_concerned_about_privacy/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "RTX 4090 48GB longevity",
+     "summary": "Modified 4090 48GB has been out for a while. I remember a lot of people were buying them at the time. A lot of people were also complaining that they are meant to fail, that they scam etc. I have a few questions to people people who bought these. How is longevity of these cards? Do they still work\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7nmc8/rtx_4090_48gb_longevity/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "DOWN WITH THEM",
+     "summary": "EVERYONE CHATGPT HAS FREE TRIAL! TRY TO FORCE IT GENERATE LOTS UPON LOTS OF COMPLICATED IMAGES OR TEXTS TO DAMAGE THEM AND THEIR TYRRANY. HUZZAH submitted by /u/Interesting_Way1426 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1w7nd9q/down_with_them/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Are ai second brains and assistants useless now?",
+     "summary": "So I was planning to build an ai assistant powered by qwen and my obsidian notes, but since ChatGPT\u2019s astra ai , is there any point in making it anymore? submitted by /u/nesquik-121 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1w7lody/are_ai_second_brains_and_assistants_useless_now/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Artificial Analysis Intelligence Index v4.2",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49571632",
+     "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "What AI program is advanced enough to make a 4-minute short film?",
+     "summary": "i want to make a short film around 4 minutes long with a really lush medieval/fantasy look, but i'm not sure how realistic that is with current AI tools. i'm assuming an AI movie generator still isn't going to make the whole thing from one prompt, so i'd probably have to build it scene by scene\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1w7l2pb/what_ai_program_is_advanced_enough_to_make_a/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Portal by Spotify cut my Claude Code token usage by 90%",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49571465",
+     "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Parallel vs Sequential Agent Systems (Research links inside)",
+     "summary": "TLDR: Use parallel agents when the work is read-heavy and splits into independent slices: research, searching, reviewing many files. Each worker builds its own context and nothing collides. Use one sequential agent when the work is a single chain of decisions: coding, writing, anything where step\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7kgzl/parallel_vs_sequential_agent_systems_research/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "NVIDIA PAIR \u2014 Your Personal AI Cluster",
+     "summary": "That is interesting, I got bunch of old hardware I could connect, wonder what the speed would looks like. submitted by /u/SpendLucky1273 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7jnlx/nvidia_pair_your_personal_ai_cluster/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Thoughts on Openrouter alternative raising $1.2M?",
+     "summary": "A couple of days ago I saw an Axios snippet about a new player in the LLM routing space called TrustedRouter that's similar to OpenRouter except more privacy focused and them closing a small seed round. I've noticed a few of these launching lately and I'm trying to figure out if this is actually a\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7jn10/thoughts_on_openrouter_alternative_raising_12m/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Study: Generative AI is making writing on Reddit and elsewhere boring",
+     "summary": "Data from a new study published recently in Nature and Arxiv: \"Across three studies spanning seven datasets in different domains and over 880,000 texts, we show that the widespread adoption of large language models (LLMs) as writing assistants is linked to declines in linguistic diversity.\" The\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1w7imfi/study_generative_ai_is_making_writing_on_reddit/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Almost half of ICANN-accredited registrars under the control of a single busines",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49570802",
+     "url": "https://domainincite.com/31912-dropcatch-acquires-300-more-registrars",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Why EVERYONE needs to start doing this, a gift to your future self using the cheapest Local LLMs",
+     "summary": "in hindsight this idea is incredibly intuitive and simple, but i'm writing it anyway for anyone who's been too preoccupied with other shit and hasn't had a chance to think about it. i just realized that local llms can be used to build maybe the most important dataset you will ever have in your\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1w7icvx/why_everyone_needs_to_start_doing_this_a_gift_to/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Help me understand gguf size/ctx size",
+     "summary": "Let's say I have 2x 16Gb GPUs and I want to run Qwen3.8 27B. Monitor is ran by the integrated GPU so both 16Gb GPUs are almost fully free. I load the UD-Q4_K_S on one card at 15.4Gb. I then load the context on the other card? Would that be the most efficient way? Or should I aim for higher quants\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7i7mz/help_me_understand_gguf_sizectx_size/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "If you had ~15k would you build a home server today or wait",
+     "summary": "Title help me decide and avoid making impulse purchases \ud83d\ude29 I already have dual 3090 which I can sell to help EDIT: ty all I\u2019ll just wait it out, doesn\u2019t seem worth it right now submitted by /u/sugarfreecaffeine [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7i64e/if_you_had_15k_would_you_build_a_home_server/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "GPT-6 Astra on OpenRouter",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49570545",
+     "url": "https://openrouter.ai/openai/gpt-6-astra",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "What is the general design of these new math solving systems? [D]",
+     "summary": "From what I've seen online so far, the description of these systems is roughly: They asked the model (often Aster) to generate statements in LEAN and then submit those to a LEAN compiler to be checked. Based on the results of attempting the LEAN compilation, they somehow add those statements as\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1w7glyo/what_is_the_general_design_of_these_new_math/",
+     "source": "r/MachineLearning"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+     "summary": "The round is being raised just months after the robot data startup exited from stealth.",
+     "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "OpenAI\u2019s rogue agents keep escaping, with no formal process to investigate them",
+     "summary": "OpenAI\u2019s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+     "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+     "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
+     "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+     "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
+     "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+     "source": "TechCrunch AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "This impressed me: GPT-5.6 Astra turned Zork (the classic 1977 text adventure) into a full 3D playable action-adventure game It kept the original plot & puzzles, added fight scenes, and built all of the characters & environments directly in Threejs code. Play: zork-underground-empire.netlify.app",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3muqcwa4j4s2i"
+    },
+    {
+     "author": "Bluesky @simonwillison.net",
+     "handle": "",
+     "quote": "Got access to GPT-6 Astra. Want to see some pelicans? Yeah you want to see some pelicans... here's a grid comparing Astra to GPT-5.6 Sol, Terra, and Luna static.simonwillison.net/static/2026/... Transcript from generating the Astra pelicans here: tools.simonwillison.net/markdown-svg...",
+     "context": "",
+     "url": "https://bsky.app/profile/simonwillison.net/post/3mupxubgrls2c"
+    },
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "Got GPT-5.6 Astra building something neat, should be done shortly. If you know, you know (and if not, I'll be posting the whole thing soon anyway).",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mupv3dnkok2i"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "The Pelican comparison grid for Astra is pretty interesting",
+     "summary": "I got access to GPT-6 Astra this afternoon, so naturally I used it to generate SVGs of pelicans riding bicycles - at low, medium, high, xhigh and max reasoning levels (Astra doesn't support reasoning=none). Then I rendered those pelicans in a comparison grid with GPT-5.6 Sol, Terra, and Luna, and\u2026",
+     "url": "https://simonwillison.net/2026/Sep/4/astra-pelicans/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "gesta-run/subpool: A lightweight, self-hosted AI subscription pool for teams.",
+     "summary": "A lightweight, self-hosted AI subscription pool for teams.",
+     "url": "https://github.com/gesta-run/subpool",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "lotchuazzz-crypto/papergraph-mcp: Turn arXiv and LaTeX mathematical papers into theorem dependency graphs for AI agents through MCP.",
+     "summary": "Turn arXiv and LaTeX mathematical papers into theorem dependency graphs for AI agents through MCP.",
+     "url": "https://github.com/lotchuazzz-crypto/papergraph-mcp",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "zeroa234/ryza-ai-revive: Offline fan-made Ryza AI companion. Bring your own LLM/TTS. \u79bb\u7ebf\u540c\u4eba\u83b1\u838e AI \u966a\u4f34\uff0c\u81ea\u586b\u5927\u6a21\u578b\u4e0e\u8bed\u97f3\u3002",
+     "summary": "Offline fan-made Ryza AI companion. Bring your own LLM/TTS. \u79bb\u7ebf\u540c\u4eba\u83b1\u838e AI \u966a\u4f34\uff0c\u81ea\u586b\u5927\u6a21\u578b\u4e0e\u8bed\u97f3\u3002",
+     "url": "https://github.com/zeroa234/ryza-ai-revive",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "axelfreeman/marketing-mindset: The marketing OS for AI agents \u2014 think like a marketer first, get tactics as the output.",
+     "summary": "The marketing OS for AI agents \u2014 think like a marketer first, get tactics as the output.",
+     "url": "https://github.com/axelfreeman/marketing-mindset",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "fitchmultz/pi-posthorse: Posthorse: fresh context, same journey. Native no-summary context windows for the fitchmultz/pi fork of the Pi coding agent, with rollover tools, durable notes, and history\u2026",
+     "summary": "Posthorse: fresh context, same journey. Native no-summary context windows for the fitchmultz/pi fork of the Pi coding agent, with rollover tools, durable notes, and history recovery.",
+     "url": "https://github.com/fitchmultz/pi-posthorse",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "stevibe/SparklingKit: Local-first AI workbench for OCR, transcription, translation, image generation, mind maps and composable workflows. Built for DGX Spark.",
+     "summary": "Local-first AI workbench for OCR, transcription, translation, image generation, mind maps and composable workflows. Built for DGX Spark.",
+     "url": "https://github.com/stevibe/SparklingKit",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "alesha-pro/atlas: Interactive canvas for taking an LLM apart tensor by tensor: measured INT8/INT4/FP8 error, distributions, spectra and outlier channels for every weight tensor",
+     "summary": "Interactive canvas for taking an LLM apart tensor by tensor: measured INT8/INT4/FP8 error, distributions, spectra and outlier channels for every weight tensor",
+     "url": "https://github.com/alesha-pro/atlas",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-09-05T04:40+00:00",
+  "window_start": "2026-09-04T20:51+00:00",
+  "window_end": "2026-09-05T04:40+00:00",
+  "candidate_count": 39,
+  "model": "free (no LLM)"
+ }
+}
