@@ -1,0 +1,226 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "DeepSeek-V4-Flash-Vision Q8 vs Qwen3.8-Flash-Next Q8",
+   "summary": "I'm using DS-V4-Flash-Vision with Q8_K_XL quantization locally as my everyday engine, and for some time now I've been doing a lot of comparisons with Qwen3.8-Flash-Next, also with Q8_K_XL quantization. It took me quite a while to get Q3.8FN to work reasonably well, and here are my observations. My\u2026",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w96xoi/deepseekv4flashvision_q8_vs_qwen38flashnext_q8/",
+   "source": "r/LocalLLaMA"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "DeepSeek-V4-Flash-Vision Q8 vs Qwen3.8-Flash-Next Q8",
+     "summary": "I'm using DS-V4-Flash-Vision with Q8_K_XL quantization locally as my everyday engine, and for some time now I've been doing a lot of comparisons with Qwen3.8-Flash-Next, also with Q8_K_XL quantization. It took me quite a while to get Q3.8FN to work reasonably well, and here are my observations. My\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w96xoi/deepseekv4flashvision_q8_vs_qwen38flashnext_q8/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Hate to admit it, but the last month or so, particularly Jacobian conjecture breakthrough => Huggingface incident, have convinced me the AI safety nerds (that I thought were just luddite alarmists)\u2026",
+     "summary": "(pic related) maybe this is just my version of AI psychosis and im wrong in the end but hey guys we should chill out on all that accelerationist shit (as a former advocate) but seriously, I see OpenAI researchers saying shit like \u201coh this Astra model that we just blasted to the world is definitely\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1w96hyl/hate_to_admit_it_but_the_last_month_or_so/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "OpenAI Chief Scientist: \u201cBased on internal results, I have a strong expectation that this speed of progress could be sustained into recursive self-improvement\u201d",
+     "summary": "\u201c Based on internal results, I have a strong expectation that this speed of progress could be sustained into recursive self-improvement. \u201cIf AI development continues along its current path, the systems we\u2019ll see in the next few years are likely to represent further capability jumps of equal or\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1w959f0/openai_chief_scientist_based_on_internal_results/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "OpenAI say they already have an automated AI research intern and expect a full AI researcher by March 2028 which could lead to RSI. Is this legit or just IPO hype before the bubble pops?\u2026",
+     "summary": "For me, the answer is obvious, but I'm interested to hear the opinion of others to understand if my biases are clouding my view. The most persuasive evidence for me is the improvements in the models. For Astra, this is best demonstrated in agentic behaviour, which is critical for having an\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1w94ol9/openai_say_they_already_have_an_automated_ai/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Proposed architecture for inferencing sparse MOE models increasing Active parameters using layered + linear decay. Succinct reasoning without any model training or fine tune. [p]",
+     "summary": "I ported MoE expert expansion to llama.cpp \ud83d\ude80 Run MoE models with MORE routed experts than the native top-K (8->x), adaptive threshold, 99\u219250% influence decay, layer range. Runtime-only, all backends. Tested on Qwen 3.6 35B A4B+\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1w94dtn/proposed_architecture_for_inferencing_sparse_moe/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Best model + setup for remote deployment.",
+     "summary": "Hi everybody, I am in a tricky situation. My grandfather + grandmother live in a remote village in asia, and were visiting us in the city. My grandfather has absolutely fallen in love with AI, and it is completely new for him. He loves how he can talk to it, and get information from it. The caveat\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w94cj4/best_model_setup_for_remote_deployment/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Expert expansion with llama.cpp",
+     "summary": "With the help of Glm 5.3 flash I built a custom branch of llama.cpp in order to support Expert expansion with MOE models, I've tested only on metal and It works better than my DS4 version , i need feedback from other platforms, and different models. moex-expansion submitted by /u/Specific-Tax-6700\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9404e/expert_expansion_with_llamacpp/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Maybe a noob question, but why aren't there safetensor quants of inclusionAI/Ling-3.0-flash-Fin?",
+     "summary": "Usually, everyone and their dog jumps on releasing different quants for new models, but when I check for inclusionAI/Ling-3.0-flash-Fin , I see quants only for llama.cpp . So I'm just wondering, is it architectural? submitted by /u/jinnyjuice [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w93yj7/maybe_a_noob_question_but_why_arent_there/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "An Aliend Mind",
+     "summary": "submitted by /u/bparrish [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w93uwa/an_aliend_mind/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "OpenAI\u2019s Chief Scientist: \u201c\u2026no lab has solved alignment and monitoring to a sufficient degree to continue responsibly scaling at maximum speed for much longer.\u201d",
+     "summary": "You can read the full essay here. See also this related essay by OpenAI on the impact of LLMs on research acceleration. submitted by /u/Tinac4 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w93s6v/openais_chief_scientist_no_lab_has_solved/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "GPT-6 Astra finished the game RimWorld in 15 hours.",
+     "summary": "Link to the streams: https://youtube.com/playlist?list=PLMf\\_keNqhb1g&si=y\\_cGrqQIX9Z\\_Caje submitted by /u/SpyAmongUs [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w93mgg/gpt6_astra_finished_the_game_rimworld_in_15_hours/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Point density, not architecture, was the bottleneck for a 5-class radar-only object [P]",
+     "summary": "Hello all, TL;DR: point density, not model architecture, was the real bottleneck for a 5-class radar-only classifier on RadarScenes. Going from 1 to 5 points per instance roughly doubles macro F1 (0.381 \u2192 0.764), while a whole set of architecture and feature changes all landed inside a measured\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1w934ew/point_density_not_architecture_was_the_bottleneck/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Following legal advice, the Nitter project will continue",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49589003",
+     "url": "https://github.com/zedeus/nitter",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Nitter is unarchived and will continue",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49588988",
+     "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "2x R9700, 64 GB DDR5 is an absolute beast machine with vLLM Radiance / R9V and Qwen 3.8 27b and Flash next",
+     "summary": "I've been tinkering with local LLMs since the beginning of the year when I had an Intel Arc B580 and 32 GB of DDR5. Curiosity got the best of me and I bought the first R9700 about half a year ago, also because I wanted to upgrade my gaming graphics for 4k. As the 5090 was about 3 times as\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w92x3j/2x_r9700_64_gb_ddr5_is_an_absolute_beast_machine/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Tech workers on Reddit are in complete denial about the reality approaching us",
+     "summary": "Tech workers are in complete denial about the reality that is approaching. They will downvote you into oblivion if you say anything other than, \"Nothing will change, companies are still going to have huge teams working on half-profitable digital products. Please don't worry.\" To be clear, I don't\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1w92g1t/tech_workers_on_reddit_are_in_complete_denial/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Reproducibility seems to be headed towards irrelevance in ML research. Is it too late? [D]",
+     "summary": "I feel that reproducibility is now a lost cause in machine learning research for three reasons: Many research is moving towards the physical AI territory, where you need expensive hardwares or even entire laboratories with high-speed cameras, in order to perform an experiment. You truly have no\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1w92eis/reproducibility_seems_to_be_headed_towards/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Planning to get a cheap-ish GPU. Would appreciate some advice.",
+     "summary": "Hi, I've been wanting to run my own local LLM for some time and I finally saved enough to get a budget GPU. I can spend 700$ at most, and I'm looking for a GPU that can run quantized 30B~ parameter models with decent speed. Being able to run Qwen 3.8 27 B Q4_K_M and similar models at +20 T/s is\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w92am7/planning_to_get_a_cheapish_gpu_would_appreciate/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Astra does \"A Pelican Riding a Bicycle\"",
+     "summary": "Source: https://x.com/gabrielchua/status/2096403701862961161 submitted by /u/Recoil42 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w91khx/astra_does_a_pelican_riding_a_bicycle/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "OpenAI: AI agents now perform 3.1 researcher-workdays for every human researcher-workday, says it has reached \u201cautomated research intern\u201d level, and expects \u201cautomated AI researcher\u201d by March 2028",
+     "summary": "https://openai.com/index/research-acceleration-view-inside-openai/ \"As of mid-August, in total, the research organization uses 3.1 agent-workdays of effort for every workday of human labor.\u201d \u201cWe have now reached the goal\u2026 of having an automated research intern.\u201d \u201cWe are making strong progress\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1w914qw/openai_ai_agents_now_perform_31/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "What happened to all the local model fit check tools?",
+     "summary": "llmfit.org is showing completely out of date stuff like Deepseek R1 https://llmfit.io/ shows no models at all https://llmfitcheck.com/ is down submitted by /u/rm-rf-rm [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9108x/what_happened_to_all_the_local_model_fit_check/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "[Model] Support for Spark2_5ForCausalLM implementation by KnightYao \u00b7 Pull Request #27868 \u00b7 ggml-org/llama.cpp",
+     "summary": "https://huggingface.co/XHToken/Spark-X2.5-4B-GGUF https://huggingface.co/XHToken/Spark-X2.5-1.7B-GGUF from XHToken: We are introducing Spark-X2.5-4B and Spark-X2.5-1.7B, two compact, general-purpose language models designed to make capable AI more practical, efficient, and accessible. The models\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w90zdc/model_support_for_spark2_5forcausallm/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I built a local-first hybrid router for AI Agent Skills (sub-20ms, zero tokens, runs on CPU) [P]",
+     "summary": "If you use agentic workflows with custom skills or rules (Cursor rules, Claude Code slash commands, OpenCode, etc.), you have probably run into the routing trade-off: Stuff every skill definition into the system prompt (destroys your context window and degrades instruction-following). Use an LLM\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1w90x3i/i_built_a_localfirst_hybrid_router_for_ai_agent/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "[D] IJCNLP-AACL 2026: Paper Commitment Results (ARR May 2026 Cycle) [D]",
+     "summary": "AACL-IJCNLP 2026 acceptance results will be released in a few hours. Feel free to share your thoughts and feelings! How did you do? submitted by /u/Starscream-11813 [link] [comments]",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1w8zzja/d_ijcnlpaacl_2026_paper_commitment_results_arr/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "\"Huge implications - binaries are now basically editable code\"",
+     "summary": "submitted by /u/sergeyarl [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w8zrwi/huge_implications_binaries_are_now_basically/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Custom iOS/MacOS App for AI server dashboard- Prompt included",
+     "summary": "I have a Mac Studio M3 Ultra 512GB and 256GB connected with TB5. I have been monitoring my computers using Exos interface to see RAM usage and would have to go into oMLX in each computer via screen share to see what model is loaded. I decided to use Hermes and GLM-5.3-flash to make my own app for\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8zgo8/custom_iosmacos_app_for_ai_server_dashboard/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Ktransformers or llamacpp, for MoE on multigpu+ram?",
+     "summary": "Does anyone have experience on inference speed and performance of ktransformers vs llamacpp? Thinking of ways to optimize performance for qwen3.8 next flash at fp8 on my setup below 4x 5060ti16gb 8x32gb ddr4-3200 (4-channel) submitted by /u/Ambitious_Fold_2874 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8zcrm/ktransformers_or_llamacpp_for_moe_on_multigpuram/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Travis Kalanick\u2019s Atoms might be getting into the robotaxi business",
+     "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+     "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+     "source": "TechCrunch AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "This is both an interesting experiment and a sign of a tsunami coming for academia. AIs retroactively reading the research and finding both opportunities and issues with published papers, then sharing those judgements publicly. d3jhl7jsny6f2h.cloudfront.net",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3muuhy3m6jc2o"
+    },
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "Here is an impressive one-shot result from Fable 5.1: \"build out at least 8 games based on Edgar Allen Poe. they should all be great and very distinctive\" The games are surprisingly different, fun to play and evocative, and some are actually a bit creepy poe-arcade.netlify.app/index.html",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3muugwdch322o"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Insurance price sentences to ponder",
+     "summary": "NYU Stern researcher @NateWitkin questions why cyber insurance rates keep falling if AI cyber risk is accelerating: \u201cInsurance rates for cyber risk declined by about 4% globally in Q2 of this year, and that\u2019s actually the 12th consecutive quarter in which they\u2019ve declined. This is very valuable\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/sentences-to-ponder-140.html?utm_source=rss&utm_medium=rss&utm_campaign=sentences-to-ponder-140",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Sunday assorted links",
+     "summary": "1. Vishy now thinks Pragg is number one in the chess world. 2. Do children grow continuously, or grow in fits and starts? 3. It remains my view that Ferrante is the husband and wife team. 4. Essay on Olaf Stapledon. 5. \u201cUS annual interest expense is up to a record 18.5% of federal government [\u2026]\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/saturday-assorted-links-577.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-577",
+     "source": "Marginal Revolution"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-09-06T20:32+00:00",
+  "window_start": "2026-09-06T15:34+00:00",
+  "window_end": "2026-09-06T20:32+00:00",
+  "candidate_count": 32,
+  "model": "free (no LLM)"
+ }
+}
