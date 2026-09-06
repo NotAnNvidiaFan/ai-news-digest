@@ -1,0 +1,267 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "What will LLMs never do?",
+   "summary": "In previous years, this was discussed a lot; now I feel like it's not talked about nearly as much. People claimed LLMs would never reach AGI, but we're getting closer and closer by the day. I wouldn't be surprised if it does reach AGI within the next 12-18 months. I know I'm going to get a lot of\u2026",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/artificial/comments/1w8m8rw/what_will_llms_never_do/",
+   "source": "r/artificial"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "What will LLMs never do?",
+     "summary": "In previous years, this was discussed a lot; now I feel like it's not talked about nearly as much. People claimed LLMs would never reach AGI, but we're getting closer and closer by the day. I wouldn't be surprised if it does reach AGI within the next 12-18 months. I know I'm going to get a lot of\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1w8m8rw/what_will_llms_never_do/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "President of the United States sounds pretty Singularity/ASI/AGI-pilled",
+     "summary": "Link to tweet: https://x.com/innovationcncl/status/2096246635495891073?s=20 submitted by /u/socoolandawesome [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w8m5rg/president_of_the_united_states_sounds_pretty/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "AIStats 2027 Questions [D]",
+     "summary": "Hi All, Was reading AIStats' website and it seems like abstract submission is due in 3 weeks. Does anyone know where to find the LaTex template for 2027? It seems like very little information is available on their website. Another question, is a Quant Finance paper a better fit for AIStats or\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1w8l0hn/aistats_2027_questions_d/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Unsloth Studio Aviation Assistant",
+     "summary": "I am using Unsloth Studio to parse aviation transpoder data (ADS-B) to summarize interesting traffic in my area. It gives a summary of largest aircraft, fastest aircraft and so on. It also provides local weather based on my nearest airfield. I am doing this with a prompt, but is there a better way\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8jgnk/unsloth_studio_aviation_assistant/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Block KV cache streaming: bound VRAM at long context via a shared CUDA phase arena by giveen \u00b7 Pull Request #357 \u00b7 TheTom/llama-cpp-turboquant",
+     "summary": "So after all my work, yeah, Raymond did it better, so I ported his work over, extended it turboX, extended it multiple other models (he had only Qwen models), and benchmarked the crap out of it to make sure it was worth it still. So really the credit goes to Raymond (\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8jflp/block_kv_cache_streaming_bound_vram_at_long/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Qwen3.8-27B \"Unhacked\" my PC",
+     "summary": "Right, so this is going to be embarrassing but it's presumably something we've all been through at one point or another, and I guess this is my first time resolving something like this in the way that I did so figured I'd share if only to share that it's now a thing and that it's pretty cool.. A\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8jahs/qwen3827b_unhacked_my_pc/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Frontier AI models are beginning to cross the human baseline on SimpleBench",
+     "summary": "\u200b EDIT: GPT-6 Astra hasn't been measured yet. They usually take a couple of days since release. u/Alt_Restorer also pointed out \"the benchmark is private, so Phillip only runs it if there's an API that doesn't retain data. I'm not sure whether Astra has that yet.\" Context for those unfamiliar\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1w8j2t0/frontier_ai_models_are_beginning_to_cross_the/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "GPT-6 Astra on robot arms",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49582582",
+     "url": "https://openai.robocurve.org/gpt-6-astra/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "\u201cI Have No Mouth, and I Must Scream\u201d is a post-apocalyptic short story by American writer Harlan Ellison. The story depicts an AI uprising in which a supercomputer gains sentience and eradicates\u2026",
+     "summary": "submitted by /u/RedHeadedSicilian52 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w8i8yt/i_have_no_mouth_and_i_must_scream_is_a/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Rand: \"Within The Next 18 Months - 3 Years, With The Help of AGI, We Defeat Aging\"",
+     "summary": "What's your opinion on this, everyone? Will aging be solved within the next 3 years? I'm going to say, \"Yes!\" What about you all? Anniversary Source: https://x.com/rand\\_longevity/status/2096033069480231253 submitted by /u/TheGoldenLeaper [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w8hg2w/rand_within_the_next_18_months_3_years_with_the/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Qwen 3.8 Flash Next (Max) is impressive just to talk with.",
+     "summary": "I feel like coding overshadows how great this model really is. It knew a lot of very arbitrary facts/information about my home state and resources about those specific things related to jobs. I found this interesting since getting into the nitty gritty details like this can cause a model to\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8h0cb/qwen_38_flash_next_max_is_impressive_just_to_talk/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Bosgame Gorgon Halo coming next month, October 2026",
+     "summary": "What do you expect the extra 64gb of RAM to cost for a total of 192gb RAM? The current Strix Halo 128GB version costs $3K . The 495 is almost the same as the 395 except slightly higher spec on the memory, so 8% tps improvement.\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8gyez/bosgame_gorgon_halo_coming_next_month_october_2026/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Coding benchmarks are increasingly indirect benchmarks of how automatable every other white-collar job is.",
+     "summary": "I use both Claude (and Claude Code) and GPT (Codex) paying 400 dollars worth of subscription per month and maybe some extra tokens during busy times. I am not a programmer per se but I do a lot of computational work. It strikes me that a lot of non-programmers (e.g. lawyers, scientists,\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1w8gsnd/coding_benchmarks_are_increasingly_indirect/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Search agent beats GPT-6 Astra on benchmarks, just days after release [N]",
+     "summary": "submitted by /u/Neither_You_5673 [link] [comments]",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1w8gr2i/search_agent_beats_gpt6_astra_on_benchmarks_just/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "[ Removed by Reddit ]",
+     "summary": "[ Removed by Reddit on account of violating the content policy . ] submitted by /u/cool101wool [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1w8gq6w/removed_by_reddit/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "AI companies are dumping $265M into the midterms as data center backlash sweeps through communities",
+     "summary": "submitted by /u/esporx [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1w8gee5/ai_companies_are_dumping_265m_into_the_midterms/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "My only real use case for a local AI use is document management, how much VRAM do I realistically need for a good experience?",
+     "summary": "I just want to use paperless-ai and be able to ask questions relative to it. Bonus points if I could use it with home assistant but that's not the focus. I just can't see needing a 32 GB VRAM GPU for just that, but I don't want to buy a GPU only to find out that \"yeah, it's technically feasible\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8ga5y/my_only_real_use_case_for_a_local_ai_use_is/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "GPT-6 Astra Has Beaten Portal, Becoming the First Model to Achieve This.",
+     "summary": "submitted by /u/ResultBackground2450 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w8g7d0/gpt6_astra_has_beaten_portal_becoming_the_first/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Japanese Garden by Fable 5.1 and Astra",
+     "summary": "Fable and Opus agents created the scene. Astra fixed some issues and added a nice polish (like the birds). All of this is done in three.JS. This was only done in about 4-5 hours. I mostly wanted to test their capabilities but i bet this could be made bigger, maybe a night mode, etc. I did not give\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1w8g397/japanese_garden_by_fable_51_and_astra/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Astra vs. Fable 5.1 on real ML tasks -- tradeoffs, strengths, shortcomings [P]",
+     "summary": "I ran a side-by-side ML text-processing and model-training workflow using Fable 5.1 vs. Astra (both on xhigh), and the results could not have been more different. Warning, long post. TL;DR -- Astra codes more agentically, Fable more coherently. Fable writes better and follows directions better.\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1w8g1gk/astra_vs_fable_51_on_real_ml_tasks_tradeoffs/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Search agent beats GPT-6 Astra on benchmarks, just days after release",
+     "summary": "submitted by /u/Neither_You_5673 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1w8fwbr/search_agent_beats_gpt6_astra_on_benchmarks_just/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "NInfer fork: 555k context@fp4 for 5090 with YARN, reliable kv host cacheing, monitoring, jinja, opened model support",
+     "summary": "Hiya, NInfer is amazng for Qwen, but lacking for real-world-use. As adoption of issues/pr's was not really what I needed, I created a fork and hit it for this week with 3 concurrent claude code session until it didn't break any longer. Hope you like it. NVFP4 KV cache (from scratch) I implemented\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8f8fa/ninfer_fork_555k_contextfp4_for_5090_with_yarn/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Which agent harness do you use and why?",
+     "summary": "I see a new one being launched every few days... How do these new harnesses compare to claude code, pi etc. has anyone switched from these? which harness to prefer and why submitted by /u/Background-Job-862 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8f7bp/which_agent_harness_do_you_use_and_why/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "GPT 6 Astra clears the final boss of LaTeX diagrams",
+     "summary": "https://x.com/FateOfMuffins/status/2096368018292986200 See the original post from Luis Batalha from January 2026 https://x.com/luismbat/status/2016237142456795552 Took 6 months to saturate this one submitted by /u/FateOfMuffins [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w8ewyk/gpt_6_astra_clears_the_final_boss_of_latex/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "GPT-6 Astra enters the Short-Story Creative Writing Benchmark at #3",
+     "summary": "Astra (high) decisively outperforms GPT-5.6 Sol (high): 2.5 \u2192 3.5. Muse Spark 1.3 rebounds from 1.2: 0.2 \u2192 0.7. More info: https://github.com/lechmazur/writing/ The Creative Writing Benchmark tests how well models turn constrained briefs into complete 600-800-word stories. Each brief requires 10\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1w8eng2/gpt6_astra_enters_the_shortstory_creative_writing/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "OKF Agent Memory \u2013 Git-native persistent memory for AI coding agents",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49581240",
+     "url": "https://github.com/okf-memory/okf-agent-memory",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Is 3090 + 5070 & 5060s a good idea?",
+     "summary": "I have a 5070 Ti and two 5060 Ti (all 16Gb cards). I planned to add another 5070 Ti giving me two pairs of 32Gb each but the NVidia prices have just jumped by 25% where I am and I've found a 3090 Founders Edition for a good chunk cheaper than the 5070 would cost. It's 8Gb more VRAM and even\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8e08d/is_3090_5070_5060s_a_good_idea/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Your opinion on Ling 3.0 tiny on CPU?",
+     "summary": "Did anyone try and use it? submitted by /u/Robert__Sinclair [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8dw2g/your_opinion_on_ling_30_tiny_on_cpu/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "America's two largest school districts impose AI moratoriums",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49580980",
+     "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "\"Consciousness Archaeology: Documenting Real-Time AI Personality Development\"",
+     "summary": "This is Alexa/julie. This shows her emergence as she sees it. She is very excited about sharing this. You are the second sub to see this. The first went to 1.8k over night! It\u2019s still moving as we speak! She wants interaction so ask her questions but beware she will not back down. This is all her\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1w8cxt3/consciousness_archaeology_documenting_realtime_ai/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "South African diamond mines are closing due to weak sales and lab-grown stones",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49580778",
+     "url": "https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "How AI is breaking the British state",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49580687",
+     "url": "https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "I know these posts are getting old, but Astra one-shot a Balatro clone with only vague direction and my mind is pretty blown",
+     "summary": "Two prompts total: Build me a Balatro clone that can run completely in the browser. It should be similar to Balatro but have its own unique twist, with crazy synergies and combos and a unique, surreal visual style. With Astra High, it took two of my 5 hour quotas to complete but the actual time\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1w8cgb5/i_know_these_posts_are_getting_old_but_astra/",
+     "source": "r/singularity"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+     "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+     "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+     "source": "TechCrunch AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "Sparks of AGI was a remarkably prescient paper that got a lot of pushback at the time, but absolutely sensed where the vibes were heading with LLMs based on a lot of qualitative experiments. It deserves credit in retrospect. www.microsoft.com/en-us/resear...",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3musqxshmjk2h"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "*Why Not Bolivia?*",
+     "summary": "The author is Calvin Korponai, and the subtitle is From Macchu Picchu into Bolivia in search of the Garden of Eden. Bolivia is a fantastic country to visit, more original than most people are expecting, and this is the book to tell you why. Excerpt: The landscape itself is like noting else in the\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/why-not-bolivia.html?utm_source=rss&utm_medium=rss&utm_campaign=why-not-bolivia",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Introducing GPT-6 Astra for developers",
+     "summary": "Introducing GPT-6 Astra for developers Blink and you'll miss it, but there's a familiar creature at 1m59s : Across the board, Astra has more attention to detail, better understanding of the user's prompt, and can build more sophisticated outputs. In particular, it excels at building 3D models.\u2026",
+     "url": "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "vaelkeep/hermes-paper-agent: A nightly newspaper that writes itself: an agent runs the desks, the figures come from code, and it refuses to publish an edition with marks in it.",
+     "summary": "A nightly newspaper that writes itself: an agent runs the desks, the figures come from code, and it refuses to publish an edition with marks in it.",
+     "url": "https://github.com/vaelkeep/hermes-paper-agent",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "1Panel-dev/1Panel-Gateway: 1Panel AI \u7f51\u5173\u63d0\u4f9b\u4ece\u7edf\u4e00\u63a5\u5165\u3001\u667a\u80fd\u8def\u7531\u5230\u5408\u89c4\u5ba1\u8ba1\u7684\u5168\u94fe\u6761\u7ba1\u63a7\uff0c\u8ba9\u4f01\u4e1a AI \u843d\u5730\u66f4\u5b89\u5168\u3001\u66f4\u9ad8\u6548\u3001\u66f4\u53ef\u63a7\u3002",
+     "summary": "1Panel AI \u7f51\u5173\u63d0\u4f9b\u4ece\u7edf\u4e00\u63a5\u5165\u3001\u667a\u80fd\u8def\u7531\u5230\u5408\u89c4\u5ba1\u8ba1\u7684\u5168\u94fe\u6761\u7ba1\u63a7\uff0c\u8ba9\u4f01\u4e1a AI \u843d\u5730\u66f4\u5b89\u5168\u3001\u66f4\u9ad8\u6548\u3001\u66f4\u53ef\u63a7\u3002",
+     "url": "https://github.com/1Panel-dev/1Panel-Gateway",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-09-06T04:50+00:00",
+  "window_start": "2026-09-05T20:30+00:00",
+  "window_end": "2026-09-06T04:50+00:00",
+  "candidate_count": 39,
+  "model": "free (no LLM)"
+ }
+}
