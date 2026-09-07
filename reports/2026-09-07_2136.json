@@ -1,0 +1,175 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "The Frontier AEO Tracker: What Astra Chooses (and every other frontier model, and what you can do about it)",
+   "summary": "Our first Astra project dives into AEO trends, a top asked topic from founders and DX leaders we talk to.",
+   "why_it_matters": "",
+   "url": "https://www.latent.space/p/aeo",
+   "source": "Latent Space"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "I had to put thinkingcap down",
+     "summary": "I've got a script that takes a video, cuts it in to scenes, cuts the scenes in to sections small enough to run through my comfyui flow, then it flows all the files, then it stitches the new video together. After a 6hr run it finished, but the script crashed during the stitch. I had designed things\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wa4s8v/i_had_to_put_thinkingcap_down/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Artificial Analysis updates its Intelligence Index to version 4.3",
+     "summary": "Terminal-Bench v2.1 benchmark was replaced with v4.0 . \ud835\udf0f\u00b3-Banking benchmark was replaced with AutomationBench-AA submitted by /u/Profanion [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wa3o5j/artificial_analysis_updates_its_intelligence/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Stormo vs. Goliad is why we're all gonna be fine, probably.",
+     "summary": "\u262f\ufe0f submitted by /u/Ronald-Obvious [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wa3k6h/stormo_vs_goliad_is_why_were_all_gonna_be_fine/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "NVIDIA launched a free tool that can turn your computers into a personal AI data center",
+     "summary": "submitted by /u/ohiocodernumerouno [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wa3g87/nvidia_launched_a_free_tool_that_can_turn_your/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "ExLlamaV3 is underrated",
+     "summary": "I moght get shit on for posting this but, I feel like i don't see this being talked enough and it feels like such a waste of a good piece of software. Exl3 is incredible, albeit only if you have NVIDIA cards I think? Exl3 quants are higher quality for its size, much lower KLD metrics, faster, all\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wa36d1/exllamav3_is_underrated/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Qwen3.5 0.8B on CPU",
+     "summary": "Since the Qwen3.5 0.8B model is an interesting one for small specialized fine tunes, I was curious how fast it can run on CPUs. Why CPUs? Mainly because I want to use it as a local dictation cleanup model when I'm using the GPU for something else. Over the weekend, I let Codex build a small C++\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wa2z88/qwen35_08b_on_cpu/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Friends Don't Let Friends Use Ollama",
+     "summary": "submitted by /u/rm-rf-rm [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wa26pn/friends_dont_let_friends_use_ollama/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "exllamav3 comfortably beats llama.cpp running CPU-offloaded Qwen-3.8-Flash-Next on my setup!",
+     "summary": "I got 2x 20GB RTX 3080s + 128GB of DDR4 2666hz RAM (only 4 of 6 channels populated) + a Xeon 6148 I've always been a llama.cpp person and I've been running Unsloth's Q4_K_XL quant of Qwen 3.8 Flash Next at ~270tps prefill and ~13tps decode (starts off close to 20 and falls down to 13 with growing\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wa1jkb/exllamav3_comfortably_beats_llamacpp_running/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "An experimental AI-created drug for an incurable lung disease had a surprising effect during trials: it made the body's biological age indicators drop by 6 years, towards a younger state.",
+     "summary": "An experimental drug called Rentosertib, created by biotech company Insilico Medicine using artificial intelligence, has shown an unexpected effect. It was developed against an incurable lung disease, but during the tests, the indicators by which scientists estimate the biological age of the body\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wa1a5n/an_experimental_aicreated_drug_for_an_incurable/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "AI Cold Showers",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49601810",
+     "url": "https://allan.reyes.sh/posts/ai-cold-showers/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Watch Los Angeles get built, one building at a time (1880\u20132026)",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49601655",
+     "url": "https://lax-skyline.parcelscope.net/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Cybersecurity is local AI model's killer use case",
+     "summary": "This weekend I posted about the gap closing between frontier models and open source models. Well, now I'm coming with receipts. I've been running local + cloud models against real public github codebases. This is all provable and verifiable: https://github.com/CYPHES-ATP/Node ( audit.db) Over two\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wa0ucq/cybersecurity_is_local_ai_models_killer_use_case/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Has anyone noticed a difference between bf16 and q8 quantization ever?",
+     "summary": "I'm currently running qwen 3.8 27b q8 and super happy with it. I have a DGX spark so could theoretically run at bf16 quantization. I know the measurable differences between an 8 bit and 16 bit quant are small, but I guess I get fomo, like 1% of tokens differ, but what if those are the hardest most\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wa0nvr/has_anyone_noticed_a_difference_between_bf16_and/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "The models are fine, our toolings and methods are shit.",
+     "summary": "I've hit again a point where me as a developer have to take a break from all this slop shit. Im a Developer for 13+ years and i loved it. But i fell for the slop trap. First it started with copilot and to be honest, that was pretty fine. Just assisting with your code in a small scope. Get support\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wa0l2t/the_models_are_fine_our_toolings_and_methods_are/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "DeepSeek-V4-Flash-Vision-Exp is amazing at creating game worlds!",
+     "summary": "Model: DeepSeek-V4-Flash-Vision-Exp (local and API when impatient) Time: about one weekend (2 days) of QA and small improvements Full game is here After Qwen3.8-Flash-Next one-shotted a really cool Cat-Hunt game demo, I decided to see what the new DeepSeek vision model can do. Now that it has\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wa06k3/deepseekv4flashvisionexp_is_amazing_at_creating/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49601338",
+     "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "A cryptic blog about the future written by Anthropic's cofounder",
+     "summary": "submitted by /u/Wonderful_Buffalo_32 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wa00we/a_cryptic_blog_about_the_future_written_by/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Radeon RX 7900 GRE 16GB and RX 480 8GB Vulkan benchmarks llama.cpp",
+     "summary": "My XFX Radeon RX 7900 GRE 16GB Vram GPU struggles with models over 20B size. I added my Radeon RX 480 8GB Vram GPU to the system and ran a few benchmarks using llama.cpp Ubuntu Vulkan build 10453.\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9z7lk/radeon_rx_7900_gre_16gb_and_rx_480_8gb_vulkan/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "The president of ARC Prize is actively soliciting ideas for games that Astra hasn't been able to play",
+     "summary": "Link: https://x.com/GregKamradt/status/2096965513184530549 submitted by /u/BrennusSokol [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w9z7in/the_president_of_arc_prize_is_actively_soliciting/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Astra scores the highest on Blueprint-bench2",
+     "summary": ">>Blueprint-Bench 2 tests spatial reasoning by asking AI agents to convert apartment photographs into accurate 2D floor plans. Each agent processes 50 apartments sequentially, examining ~20 interior photos per apartment and generating a floor plan showing room layouts, connections, and relative\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1w9z2q5/astra_scores_the_highest_on_blueprintbench2/",
+     "source": "r/singularity"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Opaque recurrence, and other AI terms that you should probably know",
+     "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+     "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+     "source": "TechCrunch AI"
+    }
+   ],
+   "influencer_takes": [],
+   "research_radar": [
+    {
+     "headline": "The Frontier AEO Tracker: What Astra Chooses (and every other frontier model, and what you can do about it)",
+     "summary": "Our first Astra project dives into AEO trends, a top asked topic from founders and DX leaders we talk to.",
+     "url": "https://www.latent.space/p/aeo",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "South Korean aspirational markets in everything",
+     "summary": "Instead of Amazon, I spent the past week browsing a new breed of websites known as \u201cdopamine sites,\u201d a trend that emerged in South Korea. These websites \u2014 like Dopamine Shop and FoodNeverComes \u2014 recreate the entire ritual of online shopping: You search for products, compare reviews, add items to\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/south-korean-aspirational-markets-in-everything.html?utm_source=rss&utm_medium=rss&utm_campaign=south-korean-aspirational-markets-in-everything",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Junhan2/oh-my-fable: Claude Fable 5.1 prompting guide as Claude Code skills (KO/EN/ZH). Output quality goes up on Opus 5 and Sonnet 5 too.",
+     "summary": "Claude Fable 5.1 prompting guide as Claude Code skills (KO/EN/ZH). Output quality goes up on Opus 5 and Sonnet 5 too.",
+     "url": "https://github.com/Junhan2/oh-my-fable",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-09-07T21:36+00:00",
+  "window_start": "2026-09-07T17:46+00:00",
+  "window_end": "2026-09-07T21:36+00:00",
+  "candidate_count": 24,
+  "model": "free (no LLM)"
+ }
+}
