@@ -1,0 +1,274 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "I REALLY hope the new gemma 5 family sticks to the \"chat model first\" philsophy and doesn't fall into the Qwen trap",
+   "summary": "It just seems every local 30b class model is just trying so hard to be the next Qwen that they all just kinda blend into a mass of code focused models. I really like how gemma 4 31b turned out with it feeling a lot less robotic and more creative than other models even knowing obscure lore from\u2026",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9ylhh/i_really_hope_the_new_gemma_5_family_sticks_to/",
+   "source": "r/LocalLLaMA"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "I REALLY hope the new gemma 5 family sticks to the \"chat model first\" philsophy and doesn't fall into the Qwen trap",
+     "summary": "It just seems every local 30b class model is just trying so hard to be the next Qwen that they all just kinda blend into a mass of code focused models. I really like how gemma 4 31b turned out with it feeling a lot less robotic and more creative than other models even knowing obscure lore from\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9ylhh/i_really_hope_the_new_gemma_5_family_sticks_to/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "LLM-guided program evolution improves 10 best-known circle-packing solutions (Packomania csqv, N=101-114) [R]",
+     "summary": "I used an LLM to iteratively evolve an optimization algorithm rather than solve the packing directly. Starting from a simple seed solver, the LLM proposes algorithmic changes guided by a scoreboard of results and a history of prior attempts, and each candidate is scored by an independent verifier\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1w9xlyi/llmguided_program_evolution_improves_10_bestknown/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49600233",
+     "url": "https://news.ycombinator.com/item?id=49600233",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "After over a year of my nights and weekends, the Jenny app is done!",
+     "summary": "Hi all! I just wanna say that I am tired lol. Yes, it's another harness, but I spent a lot of time and effort and have forsaken my hobbies to build the Jenny (like XJ-9) app. Jenny is a free, MIT licensed electron desktop app for running local LLMs with tool calling, rollback, and an IDE. A lot of\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9wvkb/after_over_a_year_of_my_nights_and_weekends_the/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "\"The AGI I imagined was an Einstein-level intellect backed by massive compute, curing diseases, advancing science exponentially, and kicking off a whole new era for humanity.\"",
+     "summary": "The AGI I imagined was an Einstein-level intellect backed by massive compute, curing diseases, advancing science exponentially, and kicking off a whole new era for humanity. Instead, people see an AI messing around in Blender, computer use, or booking a haircut appointment and call it AGI. Respect\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1w9wmkt/the_agi_i_imagined_was_an_einsteinlevel_intellect/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "FactorioBench just dropped ;-)",
+     "summary": "Link to full thread: https://x.com/DeryaTR_/status/2096791759166595130 submitted by /u/BrennusSokol [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w9vpyv/factoriobench_just_dropped/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Unitree\u2019s UnifoLM-X2-1.0 reads the opponent, predicts the next move and reacts instantly. For the first time a world model controls a fully autonomous humanoid fight in real time.",
+     "summary": "UnifoLM-X2-1.0 breaks through world-action foundation models' bottlenecks in instant planning, decision-making, and dynamic interactive execution, achieve high dynamics, strong interaction, real-time prediction and planning of the future, achieve fully autonomous combat for humanoid robots. This\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1w9vdkb/unitrees_unifolmx210_reads_the_opponent_predicts/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Bill Gates tries to install MovieMaker",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49599481",
+     "url": "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "People are still finding things Astra can do -- here it identifies sound from just a spectrogram image",
+     "summary": "Link to full thread/slideshow: https://x.com/maxxrubin_/status/2096892510241268094 submitted by /u/BrennusSokol [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w9v72a/people_are_still_finding_things_astra_can_do_here/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Are you running Qwen 3.8 27b or Qwen Flash Next?",
+     "summary": "Curious about what people are preferring, if you have the hardware. I have m3 Max 96gb and both run, and largely feel identical, but prefill on qwen 27b is faster. Is there anything / anyone working on anything to improve pp with mlx? Branching question: is anyone working on a harness that works\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9v6qp/are_you_running_qwen_38_27b_or_qwen_flash_next/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Higher acceptance length, slower prose: Ling\u2019s n=1/2/3 MTP test on one Spark",
+     "summary": "The missing control is visible in sudoingX\u2019s Ling-3.0-flash benchmark graphics. The earlier table leaves Ling\u2019s no-speculation baseline as \u201cnot measured.\u201d The later code/prose graphic fills it in: about 23 tok/s without the drafter, against 40.9 on code and 38.7 on prose with MTP n=1, at short\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9v4yz/higher_acceptance_length_slower_prose_lings_n123/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "[UPDATE - EIC confirmed ghost reviewer]How to get rejected by IEEE T-PAMI with 'Excellent' scores?[D]",
+     "summary": "How to get rejected by IEEE T-PAMI with 'Excellent' scores?[D] submitted by /u/cussealin [link] [comments]",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1w9v43o/update_eic_confirmed_ghost_reviewerhow_to_get/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Maybe a moot point, but Openai never declared Astra as AGI.",
+     "summary": "They said we're now in the singularity and agi era. So idk if that means they have internal agi or not, but they never once stated Astra as agi submitted by /u/ErmingSoHard [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w9ukfj/maybe_a_moot_point_but_openai_never_declared/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "How to squeeze out every last drop of your precious RAM on your Mac - Use iPhone mirroring",
+     "summary": "I was recently trying to load a larger model on my Mac and was going through the drill of checking RAM usage, closing apps like Telegram, Messages, Spark(email), etc that were using too much RAM and I saw iPhone Mirroring in the list was using only about 58MB. I\u2019ve occasionally used IPhone\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9ua08/how_to_squeeze_out_every_last_drop_of_your/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "GPT Astra scored 13% on Mazebench(no tools)",
+     "summary": "submitted by /u/Wonderful_Buffalo_32 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w9u8ul/gpt_astra_scored_13_on_mazebenchno_tools/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Why are the SOTA open-weight models scoring (relatively) low scores on AA-Omniscience Index",
+     "summary": "https://preview.redd.it/qwmh23nfr3oh1.png?width=1062&format=png&auto=webp&s=4741852dc3f5e7d86ae85281b089b2a325a1804a I mean they aren't that low but seeing them much lower than Gemini-3.* flash surprises me submitted by /u/the-grand-finale [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9t83y/why_are_the_sota_openweight_models_scoring/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "MiniCPM5-2B Release Day",
+     "summary": "OpenBMB's MiniCPM5-2B scores 15 on the Artificial Analysis Intelligence Index v4.2, the highest of any open weights model at 4B parameters or below Hugging Face: https://huggingface.co/openbmb/MiniCPM5-2B GitHub: github.com/OpenBMB/MiniCPM submitted by /u/Equivalent-Grass-527 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9skjz/minicpm52b_release_day/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "bzip3",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49598291",
+     "url": "https://github.com/iczelia/bzip3",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "9 easy steps for llama.cpp, a local model, Freecad (and pi coding agent) to generate solid objects that sound mechanically good and can be also be 3D printed/milled",
+     "summary": "Quick setup on linux: STEP 0: install/download llama.cpp, Freecad, your favourite gguf model - possibly with multimedia image reading capabilities (I've used Qwen3.8-27B-UD-Q4_K_M and relative mmproj-F16 quantized by Unsloth), uv (, pi.dev) STEP 1: $ cd /your/path/to/ (i.e. where to install) STEP\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9r73k/9_easy_steps_for_llamacpp_a_local_model_freecad/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "They simulated a fruit fly\u2019s entire brain\u2026 and made it play Bad Apple",
+     "summary": "submitted by /u/SALM0N_SLD [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w9qx54/they_simulated_a_fruit_flys_entire_brain_and_made/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "little-coder vs just Pi",
+     "summary": "Hi, I use hermes as a harness, and I am pleased with it, but sometimes Hermes's context size is a bit too much for my system, so I wanted to delegate or straight up use a lighter option for coding tasks. I run a laptop with a 8gb nvidia card and 40gb of ram. And qwen3.6 35b-a3b or similar tier\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9qvi9/littlecoder_vs_just_pi/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Apparently CodePen 2.0 sends data to their servers as you type",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49596976",
+     "url": "https://news.ycombinator.com/item?id=49596976",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "GPT-6 Astra scores 65.6% on ClockBench",
+     "summary": "submitted by /u/Well_being1 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w9ou70/gpt6_astra_scores_656_on_clockbench/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "The jobs apocalypse is postponed. An AI jobs boom is here",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49596610",
+     "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Rustuna: A High-Performance Rust Implementation of Optuna [P]",
+     "summary": "Hi everyone! We just released Rustuna (GitHub: https://github.com/optuna/rustuna/ ), a high-speed, memory-efficient implementation of Optuna built in Rust. Optuna-Compatible Design: Keeps the familiar API and concept of Optuna. Zero Python Dependencies: Mitigating the risk of supply chain attacks.\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1w9nyhz/rustuna_a_highperformance_rust_implementation_of/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "tencent/EVIE-8B and EVIE-4.5B (High-Capacity Visual Document Retrieval)",
+     "summary": "https://preview.redd.it/3p6234jzk2oh1.png?width=900&format=png&auto=webp&s=b9eab3351d6c6dbd4d5b3fd677a6c40b57f18167 https://huggingface.co/tencent/EVIE-8B \ud83c\udf1f Highlights SOTA Retrieval Performance : 66.75 nDCG@10 on ViDoRe V3, delivering industry-leading visual document retrieval accuracy.\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9nphc/tencentevie8b_and_evie45b_highcapacity_visual/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Speculative Decoding in vLLM on AMD GPUs",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49596054",
+     "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "KV cache as an agent runtime [R]",
+     "summary": "Our research team has been exploring an alternative approach to achieving interactivity and better responsiveness with LLM systems. One of the team members wrote up a post about it: https://research.yandex.com/blog/the-kv-cache-as-an-agent-runtime The post sums up the overall idea of modifying\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1w9myqc/kv_cache_as_an_agent_runtime_r/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Astra is now a certified human",
+     "summary": "Source: https://twitter.com/sharifshameem/status/2096847916837314853 The video is very interesting to watch, honestly when the game first came out I thought of it as a mini AGI test and didn't think AI would be able to complete it until 2029. submitted by /u/enilea [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1w9mp3k/astra_is_now_a_certified_human/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Automotive Radar Object Classification [P]",
+     "summary": "Hello all, I'm a radar signal processing engineer and i trained a 5-class classifier (car, large_vehicle, two_wheeler, pedestrian, pedestrian_group) on RadarScenes radar point clouds. The input vector is a per-scan histogram (16 bins) and the network is a 3-layer MLP. The loss function is a\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1w9m26u/automotive_radar_object_classification_p/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Roboticists working in Learning-from-Demonstrations and Behavioral Cloning : What is going on in your field these days? [D]",
+     "summary": "Is LfD and BC research being effected by recent advances in (so-called) Frontier LLMs? Or is research in LfD and BC sort of going along in an independent direction from these? Are you seeing any use from ViTs or VLAs? Any other recent advances you would like to bring up? submitted by /u/moschles\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1w9lt31/roboticists_working_in_learningfromdemonstrations/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Measuring LLM performance drift: observations and methodology from 31,352 repeated benchmark measurements [D]",
+     "summary": "One thing that has bothered me about LLM benchmarks for a while is that most of them are essentially snapshots. A model is evaluated, a score is published, and we tend to talk about that score as if it describes a relatively stable object. But with API-served models, the thing behind the model\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1w9llr4/measuring_llm_performance_drift_observations_and/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Using H3 MAX this person is able to generate playable, real-time animated Pok\u00e9mon battles.",
+     "summary": "The runnable project is available here: https://github.com/xflare-bot/pokemonlive And the twitter user/post: https://x.com/XXXXFLARE/status/2096821061627097575 H3 MAX generates the battles on the fly, considering move used, and status conditions like: 'Paralysis, fainting, and Pok\u00e9mon is hurt are\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1w9kjbe/using_h3_max_this_person_is_able_to_generate/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49594189",
+     "url": "https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9",
+     "source": "Hacker News"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "The complex corporate web behind a $3.2 billion AI data center",
+     "summary": "When multiple companies are behind one project, who bears responsibility for problems?",
+     "url": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Whispering Complaints Into Your Phone May Be the Future of Customer Feedback",
+     "summary": "Forget email surveys or long calls spent on hold. Voicebox lets people send customer feedback by recording a voice note on their phone.",
+     "url": "https://www.wired.com/story/whispering-complaints-into-your-phone-may-be-the-future-of-customer-feedback/",
+     "source": "Wired AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @simonwillison.net",
+     "handle": "",
+     "quote": "\"I don't know the answer myself, but I asked a blowhard I know and he took a wild guess, here's what he said: \" How I interpret pasted replies from an LLM in online conversations",
+     "context": "",
+     "url": "https://bsky.app/profile/simonwillison.net/post/3muwzopsoqs26"
+    },
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "I don't think this was the goal, but the fact that Astra is incredibly good at visually pleasing 3D work (blender, etc.) gives it a perception edge over Fable in the war for social media attention. It is harder to judge other kinds of outputs or intellectual work but the visual stuff comes through.",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3muwyhnjcx22k"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Monday assorted links",
+     "summary": "1. How are age verification systems going? 2. Eliezer predictions. 3. Are humpback whales policing nature? 4. \u201cTraces of nearly four million coins reveal how Rome achieved economic integration.\u201d 5. Estimating cybersecurity costs (numbers). 6. Great Barrier Reef is doing fine? 7. California Forever\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/monday-assorted-links-576.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-576",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Capital gains vs. wealth taxes",
+     "summary": "Standard optimal capital tax theory abstracts from modeling asset prices, making it unsuitable for thinking about capital gains and wealth taxation. We study optimal redistributive taxation in an environment with asset price movements, adopting the modern finance view that asset prices fluctuate\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/capital-gains-vs-wealth-taxes.html?utm_source=rss&utm_medium=rss&utm_campaign=capital-gains-vs-wealth-taxes",
+     "source": "Marginal Revolution"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-09-07T17:46+00:00",
+  "window_start": "2026-09-07T04:56+00:00",
+  "window_end": "2026-09-07T17:46+00:00",
+  "candidate_count": 40,
+  "model": "free (no LLM)"
+ }
+}
