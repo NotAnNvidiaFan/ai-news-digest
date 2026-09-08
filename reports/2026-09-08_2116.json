@@ -1,0 +1,305 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Microsoft patches a record 972 vulnerabilities, 112 of them critical",
+   "summary": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.",
+   "why_it_matters": "",
+   "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+   "source": "Ars Technica AI"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "ECCV 2026 Social Groups [D]",
+     "summary": "Hi. I'm visiting ECCV in Malmo and was wondering if there's any medium, like discord, whatsapp etc where people are discussing social activities. I couldn't find a way to connect to people on the official app to discuss common interests, research or otherwise. It'd also be nice to meet people\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wb0k5w/eccv_2026_social_groups_d/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "On the Value of Human Ideas: What data poisoning research reveals about \"autonomous\" AI breakthroughs",
+     "summary": "I was reading up on the recent controversy around Tristan Buckmaster, Levent Alp\u00f6ge, OpenAI, and the Navier\u2013Stokes result, and it got me thinking about something broader than this particular dispute. Buckmaster says that he and Alp\u00f6ge had been putting drafts from their project into Codex while\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wazzes/on_the_value_of_human_ideas_what_data_poisoning/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Mercury 2.5",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49616354",
+     "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "A hilarious comment about llama.cpp: \u201cIt\u2019s a FB business using the pipeline to make profits\u201d",
+     "summary": "from a 10K star open source project maintainer. Context: I tried to explain that audio.cpp is built around the same philosophy as llama.cpp, but for audio models. \"If you know llama.cpp, audio.cpp is ...\" Update: Mystery solved --- he\u2019s confusing the Llama models with llama.cpp. submitted by\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wazp0v/a_hilarious_comment_about_llamacpp_its_a_fb/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49616257",
+     "url": "https://github.com/argonautlabsai/deltafin",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "I only like human-solved secrets of the universe",
+     "summary": "submitted by /u/toni_btrain [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wazg2q/i_only_like_humansolved_secrets_of_the_universe/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "ChatGPT 2 years ago",
+     "summary": "submitted by /u/Distinct-Question-16 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wazbtv/chatgpt_2_years_ago/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "OpenAI's Internal Model Math Benchmark",
+     "summary": "submitted by /u/Ticluz [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1waz6c1/openais_internal_model_math_benchmark/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Qwen 3.8 27b with PI agent - pushed to its 3D graphic game limits",
+     "summary": "I was inspired by Bijan Bowen video - Subway FPS https://youtu.be/6kjXzTVmT58?t=1035 Wondered how far I can push Qwen 3.8 27b so I used a plan made by Fable 5.1 DESIGN.md which has 267 KB! ( 26K of design line for a game ... LOL )\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1waz5a0/qwen_38_27b_with_pi_agent_pushed_to_its_3d/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "OpenAI putting safety first ...",
+     "summary": "Background: From OpenAI's announcement on the Millennium Prize Problem. [...] the group that produced the Navier\u2013Stokes resolution involved on the order of 10,000 concurrent agents. At all times we maintained the same strict safeguards that we apply to all our frontier model evaluations, including\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wayu26/openai_putting_safety_first/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Qwen3.8-Flash-Next in llama.cpp vs SGLang vs FreeToken: 35s vs 258s to first token at full context. My findings on new PRs coming to engines.",
+     "summary": "Hey guys, After my CPU-only to 96GB VRAM test, I tested Qwen3.8-Flash-Next across llama.cpp, SGLang and FreeToken on the same workstation. This time I wanted to see what changes when you keep the hardware and model family fixed, but change the engine, weight format and memory placement. I also\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1waydqj/qwen38flashnext_in_llamacpp_vs_sglang_vs/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Muse: Meta's personal AI agent, features and capabilities",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49615537",
+     "url": "https://ai.meta.com/muse/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "A timeline of recent events leading to the solution of Navier-Stokes",
+     "summary": "Sep 19, 2025 - Levent Alp\u00f6ge emails Tristan Buckmaster and suggests a collaboration on Navier-Stokes. 2025-2026 - Alp\u00f6ge and Buckmaster make \u201cslow\u201d progress on Navier-Stokes and its related problems. Aug 15, 2026 - The duo achieve key results with solutions for Boussinesq and Euler, important\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1waxun0/a_timeline_of_recent_events_leading_to_the/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "ChatGPT Images 2.5",
+     "summary": "submitted by /u/FateOfMuffins [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1waxm7z/chatgpt_images_25/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "I built Infercat: Share your local AI with friends over an encrypted p2p tunnel. Connect with an invite code from anywhere.",
+     "summary": "Hello LocalLLaMA Fam! I built this project because I, like many of us here, enjoy local AI and have a nice setup, but still find myself reaching for Cloud-based AI due to their convenience. My models run on my MacBook and Linux server, but the experience is disjointed - I don't bother using my own\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1waxlpb/i_built_infercat_share_your_local_ai_with_friends/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Why is LlamaCpp using CPU if VRAM is available?",
+     "summary": "I am running Qwen3.8:27b with the following command on Windows Server: llama.exe serve -hf bartowski/Qwen3.8-27B-GGUF:Q4_K_L -ngl 99 -c 65536 --port 11434 The server has an NVidia A5000 with 24GB of VRAM. When the model loads, it's using 22.6 out of 24 GB . However, when I ask the model to do\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1waxjn1/why_is_llamacpp_using_cpu_if_vram_is_available/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "For the brave: Ninfer + MTP + Vision + 400k context (nvfp4 quant and kv)",
+     "summary": "I pulled out the YaRN support from another Redditor's work ( https://www.reddit.com/r/LocalLLaMA/comments/1w8f8fa ). Ninfer recently added some more features and fixes (such as nvfp4 kv cache and dflash2 support). I wanted to see how Ninfer would perform with just the addition of YaRN and their\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wax67h/for_the_brave_ninfer_mtp_vision_400k_context/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Flights cancelled at UK airports due to ATC issue",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49614557",
+     "url": "https://www.bbc.com/news/live/c6x2z0yy32ejt",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Today is a historical moment.",
+     "summary": "That is all. The AI age had been dawning upon us for a long time, but if today's provided solution of the Navier-Stokes problem by OpenAI holds, then this is, beyond any doubt , an intellectual feat that definitively surpassed the abilities of all mankind; or at least a hallmark of the problems\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wawkq5/today_is_a_historical_moment/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Meanwhile in r/physics",
+     "summary": "submitted by /u/heyhellousername [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wavzkf/meanwhile_in_rphysics/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "OpenAl Says It Has Cracked One of Math's \u201cMillennium Problems\u201d (Navier-Stokes) [N]",
+     "summary": "As reported by the New York Times: https://www.nytimes.com/2026/09/08/science/openai-proof-millennium-problem.html?smid=nytcore-ios-share OpenAI\u2019s announcement: https://openai.com/index/navier-stokes-solution/ submitted by /u/Shizuka_Kuze [link] [comments]",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wavdi7/openal_says_it_has_cracked_one_of_maths/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Why does Whisper drop half of any sentence when you switch languages? (and why do so many Whisper projects leave an ugly console window open?)",
+     "summary": "I speak English, Russian, German (and Kazakh) and mix them without thinking. Every local dictation tool I\u2019ve tried on GitHub completely falls apart on that. Or am I just stupid? Whisper basically picks one language per utterance. Whatever you said in the other language doesn\u2019t come back wrong\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wav9on/why_does_whisper_drop_half_of_any_sentence_when/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Qwen/Qwen-Drive-1.0-4B \u00b7 Hugging Face",
+     "summary": "I don't think anyone posted about this here, but Qwen released a finetuned version of 3.5 4 for driving. The full Bf16 checkpoint is 9B. This is a very interesting development of Chinese AI labs tackle self driving next with open weight models. Edit: the HF repo links to the github repo, which in\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wauxg9/qwenqwendrive104b_hugging_face/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "A Solution to the Navier-Stokes Millennium Prize Problem",
+     "summary": "submitted by /u/ResultBackground2450 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wauqbz/a_solution_to_the_navierstokes_millennium_prize/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "OpenAI Says It Has Cracked One of Math\u2019s \u2018Millennium Problems\u2019",
+     "summary": "submitted by /u/TheOneTrueEris [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wauihg/openai_says_it_has_cracked_one_of_maths/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Show HN: LLM Attention Visualization",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49613068",
+     "url": "https://ishamf.dev/p/llm-attention-visualizer/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Are there any (small, ~10B) models that you would say are a good collaborator?",
+     "summary": "Most of the new ~30B (and now ~10B, thankfully for my GPU) models we see score really high on benchmarks, but I feel like they don't push back on dumb ideas enough. I think most people don't being like told by an LLM that the premise is flawed but I certainly do. In my opinion they are optimised\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wau1zt/are_there_any_small_10b_models_that_you_would_say/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Microsoft patches a record 972 vulnerabilities, 112 of them critical",
+     "summary": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.",
+     "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Hackers are stealing Claude tokens from subscribers",
+     "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
+     "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+     "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
+     "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Drama swirls around OpenAI\u2019s legendary mathematical milestone",
+     "summary": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired. In a blog post on Tuesday, OpenAI announced that it discovered a solution to the Navier-Stokes problem - which relates to the flow of liquid\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+     "summary": "OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch, you can just draw something right inside ChatGPT and then tell ChatGPT how you want it to make an image [\u2026]",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Muse, Meta's New Personal AI Agent, Needs You to Trust It",
+     "summary": "Designed to compete with OpenClaw and Instinct, the company says Muse can do everything from sell your car to book you a plane ticket.",
+     "url": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Meta bets on AI agent Muse to catch up in AI race",
+     "summary": "Meta is making another push to bring artificial intelligence to the masses with Muse, a personal assistant it says can put AI in the hands of virtually anyone. The product is the latest step in a multi-billion-dollar strategy overhaul designed to revitalize the company's ailing position in the AI\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Meta debuts its Muse AI agent. Will consumers trust it?",
+     "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more \u2014 making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.",
+     "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "\u201cThis is the AI men actually use\u201d: Meta ads pushed apps nudifying real teens",
+     "summary": "Meta dragged its feet removing ads that nudify young girls' Instagram pics.",
+     "url": "https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Update to Google\u2019s AI weather model improves forecast accuracy",
+     "summary": "Like traditional weather models, it benefits from an expanded set of inputs.",
+     "url": "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+     "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
+     "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "AI power users claim Anthropic duped them with subscriptions, and they\u2019re taking it to court",
+     "summary": "Anthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular applications, like OpenClaw. But some of these same customers say Anthropic misled them into believing they'd get more out of a top-tier pricing subscription than they did. In an\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "How GPT-5.6 Sol helps run quantum computing experiments",
+     "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+     "url": "https://openai.com/index/codex-quantum-computing-experiments",
+     "source": "OpenAI Blog"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "The breakthrough that solved Navier-Stokes in 88 hours used 130 billion output tokens. It seems clear that other breakthroughs will be possible, especially as models get better. However much compute we have, it is increasingly likely that we are going to need more compute.",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3muzus5msw22v"
+    },
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "This is a VERY big one. (And yes, the fights over academic credit and what happened in the race for the proof needs to be resolved, but it is still appears that this is a big one, if true.) openai.com/index/navier...",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3muzke4uexs2v"
+    },
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "Weakly General AI achieved (at least according to the criteria set in Metaculus in 2020) & a year before the most recent predictions: \u2705Loebner prize was a weak Turing Test, equivalent achieved by GPT-4.5 \u2705Winograd passed by GPT-3 \u2705SAT passed at 75% by GPT-4 \u2705Montezuma's Revenge beaten by GPT-6",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3muzidaqxes2v"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Training on probes: Research ideas",
+     "summary": "Recap Sequel to Previous Post . This post might not make sense without it. Training on probes might let our judgments on easy domains generalize to harder domains by leveraging an AI's model of the world. Training using the gradient of the probe teaches the model to fool the probe, but doing RL\u2026",
+     "url": "https://www.alignmentforum.org/posts/HGfMBEFnsXYkKvbRo/training-on-probes-research-ideas",
+     "source": "Alignment Forum"
+    },
+    {
+     "headline": "Training on probes: What's going on",
+     "summary": "TL;DR If you train a probe for some property (like \"honesty\") and do gradient descent against this probe while continuing training that incentivizes dishonesty, the model will change its internal representation to evade the probe. Duh. If you train against the probe after all other training, it\u2026",
+     "url": "https://www.alignmentforum.org/posts/gHFCgrvfxQtaEnJye/training-on-probes-what-s-going-on",
+     "source": "Alignment Forum"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-09-08T21:16+00:00",
+  "window_start": "2026-09-08T16:44+00:00",
+  "window_end": "2026-09-08T21:16+00:00",
+  "candidate_count": 45,
+  "model": "free (no LLM)"
+ }
+}
