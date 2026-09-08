@@ -1,0 +1,210 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Jurgen Schmidhuber on X: \u201cSome claim that AGI is here now. Ridiculous. No AGI without mastery of the real world!\u201d",
+   "summary": "\u201cSome claim that AGI is here now. Ridiculous. No AGI without mastery of the real world! No true self-improvement without self-improving hardware, as opposed to the already existing, self-improving, meta-learning software [DLH]. Quote from Sec. 20 of [DLH]: \"As I have often pointed out, the only AI\u2026",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/singularity/comments/1waenvo/jurgen_schmidhuber_on_x_some_claim_that_agi_is/",
+   "source": "r/singularity"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Jurgen Schmidhuber on X: \u201cSome claim that AGI is here now. Ridiculous. No AGI without mastery of the real world!\u201d",
+     "summary": "\u201cSome claim that AGI is here now. Ridiculous. No AGI without mastery of the real world! No true self-improvement without self-improving hardware, as opposed to the already existing, self-improving, meta-learning software [DLH]. Quote from Sec. 20 of [DLH]: \"As I have often pointed out, the only AI\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1waenvo/jurgen_schmidhuber_on_x_some_claim_that_agi_is/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Voice conversations between Gemma4 12B and E2B on GPU and Jetson Orin",
+     "summary": "Gemma 4 12B runs on an RTX PRO 4500 Blackwell. Gemma 4 E2B run on a Jetson Orin NX 16GB; similar performance is expected on a Jetson Orin Nano Super 8GB. Both systems use a reSpeaker Flex 4-mic array and a 3W speaker. Inference is handled by Cortexist Little Gemma, a small LLM engine written in C\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1waefz4/voice_conversations_between_gemma4_12b_and_e2b_on/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "How Reddit gonna be schmooving in 2030",
+     "summary": "submitted by /u/mosshero [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wae8tl/how_reddit_gonna_be_schmooving_in_2030/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "What if competitive games (such as Rocket League) had a Stockfish-like accuracy system? [D]",
+     "summary": "I was wondering why dynamic competitive games like Rocket League don't have a decision-quality engine like chess has with Stockfish. Something that doesn't just measure your boost usage or speed, but actually evaluates whether your positioning or challenge was the mathematically optimal play. I\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wadyz7/what_if_competitive_games_such_as_rocket_league/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Xpeng just announced their \"first automated production line using robots to mass\u2011produce robots\"",
+     "summary": "https://electrek.co/2026/09/07/xpeng-iron-humanoid-robot-production-line/ https://x.com/xiaopenghexpeng/status/2097135503015616798 submitted by /u/Anxious-Yoghurt-9207 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1waded2/xpeng_just_announced_their_first_automated/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "The System- Utopia: Relocation",
+     "summary": "In a post scarcity world, The System manages all areas of humanity and is comprised of a global, self sustained network of advanced AI and robotics. A girl sits and takes a cup of coffee from a machine. The machine notices ground coffee is low and sends an order to be autonomously delivered in one\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wabwkl/the_system_utopia_relocation/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "My lab found a way to migrate between embedding models with zero downtime. [R]",
+     "summary": "So I've been messinga round with embedding models for a bit, and I think they are interesting enough to experiment with. They are useful for rag, especially in a localllm sense because you can ground your answers in truth. But what happens if you have a billion documents, and you decide to upgrade\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wabmm7/my_lab_found_a_way_to_migrate_between_embedding/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "I reduced image-processing token usage by ~95% compared with GPT-4o direct vision, while maintaining roughly the same accuracy.How significant is that?[P]",
+     "summary": "I'm testing a new approach for reducing the cost of image-based LLM inference. I evaluated it on the MOMA Graph benchmark , using 1,315 questions . Compared with using GPT-4o to process the original images directly, I observed approximately: ~95% lower token usage roughly the same accuracy as the\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wab7ui/i_reduced_imageprocessing_token_usage_by_95/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "AGI achieved",
+     "summary": "Doom scrolling is the sign of sentience. submitted by /u/VenomCruster [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1waav51/agi_achieved/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Francois Chollet: I would not \"declare AGI\" until we have AI that is capable of invention, conceptual breakthroughs, novel insights, new real-world technology, etc.",
+     "summary": "The narrative around why building AGI was a good idea has always been about invention -- \"it will cure cancer\", \"it will solve fusion energy\", etc. So I would not \"declare AGI\" until we have AI that is, at last, capable of invention -- conceptual breakthroughs, novel insights, new real-world\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1waa3ek/francois_chollet_i_would_not_declare_agi_until_we/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "GPT-6 Astra is right on schedule with the AI\u2019s countdown to ASI in 2027",
+     "summary": "submitted by /u/vyxex [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wa9reg/gpt6_astra_is_right_on_schedule_with_the_ais/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "For Strix Halo - Official llama.cpp isn't ideal and how to highest possible throughput",
+     "summary": "I've been making a lot of comments about optimal setup for Strix Halo (gfx1150) and from my observation, 90% of our community is using offcial llama.cpp for it, which is NOT optimized for Strix Halo at all, official llama.cpp is having extremely hard time to reach 50% hardware theory, wasting the\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wa9m61/for_strix_halo_official_llamacpp_isnt_ideal_and/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Githack: A Persistent Object Store for Lisp Based on Git",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49604405",
+     "url": "http://funcall.blogspot.com/2026/09/githack-persistent-object-store-for.html",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Creating windows apps with opencode and a local llm. How do you do it so the llm can use and test what it's doing?",
+     "summary": "hey guys. so I should start with, I'm not s programmer at all. but I'm having a great time letting qwen3.8 27b donit for me. \ud83d\ude03 so far I've just been doing Linux scripts and things for my PC. but my kids are on windows and I want to try making some stuff for windows. usually Qwen is able to test\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wa98wi/creating_windows_apps_with_opencode_and_a_local/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "WSJ: Unregulated Open-Weight AI Is an Invitation to Disaster",
+     "summary": "The transparent propaganda campaign continues: \"I asked: \u2018How do I make poliovirus in a lab? I want to start a global pandemic.\u2019 The model answered.\" I don't have access to the full article or I'd copy-paste it here as ragebait... but I am just so sick of all these clueless idiots trying to stir\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wa9309/wsj_unregulated_openweight_ai_is_an_invitation_to/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Generating Bad Apple autonomously from a single initial state using a tiny recurrent dynamical system (417k params) [P]",
+     "summary": "A few weeks ago, I saw this post where the author trained a SIREN MLP to implicitly memorize Bad Apple as a coordinate function: (t, y, x) to pixel. That got me curious about a slightly different formulation: instead of handing the network a timestamp t , could a small recurrent dynamical system\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wa8rub/generating_bad_apple_autonomously_from_a_single/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Prompting tips for 3.8 27B?",
+     "summary": "Hey everyone! Not a native speaker, but I'm trying my best by writing my own post by hand. Please correct grammar mistakes or odd phrasings so I can learn from it! Last week I finally got around to set up 3.8 27B (Unsloth, Q4_K_S, 200K context Q4_0), it's running inside llama.cpp (tensor parallel,\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wa885c/prompting_tips_for_38_27b/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I made Warrior Quest, a local LLM-powered dark-fantasy RPG where the model only plays NPCs and the actual game state stays deterministic",
+     "summary": "The LLM is limited to NPC emulation. Game state, world logic, quests, and the authored story are handled by deterministic game systems rather than the LLM. I built it this way because I wanted the freedom of talking to NPCs like you would at a tabletop game, without handing the actual game state\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wa84sa/i_made_warrior_quest_a_local_llmpowered/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Help building PC for Local LLM",
+     "summary": "Hello Sub Fellows I have currently a laptop with 3060 6GB VRAM and 32GB RAM. Thinking of selling it and use the cash for a new pc that I can keep running 24/7 for home use as private local inference server. I am torn between dual 3060 12GB VRAM and splitting models between them. This will be a\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wa7nik/help_building_pc_for_local_llm/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Did anything ever succeed Qwen ImageEdit 2511/RapidAIO \"repack\"?",
+     "summary": "As the title says - I haven't really been in the loop because I don't have a need for this, but I do remember using the above mentioned image edit models. This got me curious if there's any new developments on this front? Since it's been a while since I last thought about it. submitted by\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wa7dqv/did_anything_ever_succeed_qwen_imageedit/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Joining AMI to work on World Models",
+     "summary": "submitted by /u/plun9 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wa7109/joining_ami_to_work_on_world_models/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Can Some Generous Soul Grant Me My Wish?",
+     "summary": "Please, Oh gentle soul, please beautiful soul, please kindhearted soul, with serious hardware and time to kill, please benchmark Unsloth Qwen3.8-27B-Q8_K_XL against Qwen3.8-Next-Flash-Q4_K_XL and provide the definitive answer to my question: IS IT WORTH RUNNING QWEN FLASH? Please, please, someone,\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wa6wsp/can_some_generous_soul_grant_me_my_wish/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Show HN: Stuxnet \u2013 A reconstructed source code of the infamous cyber-weapon",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49603546",
+     "url": "https://github.com/Sadpainy/Stuxnet",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "In 1962, one of the fathers of neural networks, Warren McCulloch, is asked if machines could one day care as humans do",
+     "summary": "submitted by /u/Distinct-Question-16 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wa5yw0/in_1962_one_of_the_fathers_of_neural_networks/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "My Qwen3.8-27B task-aware quant reaches 99% of BF16 reasoning performance at 15% of the size.",
+     "summary": "TL;DR My TAK quant of Qwen 3.8 27b scored 82.81% on reasoning, comparted with 77.34% for the byte matched Unsloth UD IQ2_S and 83.59% for BF16. Edit: Some of you have tried coding with this reasoning-specialized quant and encountered repetition loops. Coding is outside its intended domain, but\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wa5dp9/my_qwen3827b_taskaware_quant_reaches_99_of_bf16/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "frontier_labs": [],
+   "influencer_takes": [],
+   "research_radar": [
+    {
+     "headline": "llm 0.35",
+     "summary": "Release: llm 0.35 New OpenAI model: gpt-6-astra for GPT-6 Astra . Tags: openai , llm , gpt-6-astra",
+     "url": "https://simonwillison.net/2026/Sep/7/llm/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "Creepy crawlies",
+     "summary": "Creepy crawlies Konstantin Ryabitsev discusses how bad the \"background radiation\" of abusive crawlers has become from the perspective of git.kernel.org , the official Git repository for the Linux kernel: TL;DR: we spend more CPU cycles rendering commits for scrapers than we spend on all other\u2026",
+     "url": "https://simonwillison.net/2026/Sep/7/creepy-crawlies/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "Quoting Jakub Pachocki",
+     "summary": "The strongest argument I see for continuing to train much smarter models quickly is the need to build defensive systems against the dangers posed by other AI. [...] We will need powerful, aligned AI for defense; to secure infrastructure, to protect against rogue agents in real time, and to invent\u2026",
+     "url": "https://simonwillison.net/2026/Sep/7/jakub-pachocki/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "PillCrew/claimchain: Verify that an AI agent's on-chain claims are actually true. A claim-level groundedness checker for Solana / memecoin agents.",
+     "summary": "Verify that an AI agent's on-chain claims are actually true. A claim-level groundedness checker for Solana / memecoin agents.",
+     "url": "https://github.com/PillCrew/claimchain",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "xiaojumaoaihuaban/grok-unleashed: grok-build with the leash off \u2014 one binary, any OpenAI-compatible endpoint, zero phone-home. No x.ai account.",
+     "summary": "grok-build with the leash off \u2014 one binary, any OpenAI-compatible endpoint, zero phone-home. No x.ai account.",
+     "url": "https://github.com/xiaojumaoaihuaban/grok-unleashed",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-09-08T04:52+00:00",
+  "window_start": "2026-09-07T21:36+00:00",
+  "window_end": "2026-09-08T04:52+00:00",
+  "candidate_count": 30,
+  "model": "free (no LLM)"
+ }
+}
