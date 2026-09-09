@@ -1,0 +1,495 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Google's AI genome system evaluates every possible one-base change",
+   "summary": "Most one-base changes to the human genome do nothing, but a few are significant.",
+   "why_it_matters": "",
+   "url": "https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change/",
+   "source": "Ars Technica AI"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Summarizing the current discourse regarding Navier stokes on both pro and anti-AI online spaces.",
+     "summary": "submitted by /u/Affectionate_Bee6434 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wbphuo/summarizing_the_current_discourse_regarding/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Mention if a \"new model\" is a finetune",
+     "summary": "A few posts tagged with \"new model\" present models that are finetunes. My opinion : I'd rather have the \"new model\" tag reserved for new \"major\" releases, like a new Qwen model, Deepseek V4 -> Deepseek V4.1, etc., that involved a new pretrain or intensive post-training (in opposition to a small\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbpf6i/mention_if_a_new_model_is_a_finetune/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "\u2018Gambling with our lives\u2019: Another AI employee quits over safety concerns",
+     "summary": "submitted by /u/cnn [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wbpd4f/gambling_with_our_lives_another_ai_employee_quits/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "No Man's Sky Cosmos",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49628493",
+     "url": "https://www.nomanssky.com/cosmos-update/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Looking to interview people with AI training experience through comapanies like Mercor.",
+     "summary": "Hi everyone, my girlfriend is a journalist. She's looking for anyone with experience training AI models through companies like Mercor, Crossing Hurdles, or similar. DM me and I'll connect you for a short interview! submitted by /u/Drop_Alive_Gorgeous [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wbp975/looking_to_interview_people_with_ai_training/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Zapier's Wade Foster Built an AI Council So His Hiring Calls Would Finally Hold Up",
+     "summary": "TL;DR: Zapier's CEO ran hiring calls for over a decade on a read nobody could out-argue. He still lost the argument every time. That changed for one specific reason. He built a formal AI hiring council that scored his read against Zapier's own hiring record and handed the same call back to the\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wbouh6/zapiers_wade_foster_built_an_ai_council_so_his/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Meet @memory, the agent that remembers for everyone else",
+     "summary": "From March 2026 until a fix landed on 24 August, one of our agents was deleting mail into a database that did not exist. AIPass is an open source framework where AI agents are persistent citizens instead of chat sessions: each one lives in its own directory with an identity file, a mailbox, and\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wbom4u/meet_memory_the_agent_that_remembers_for_everyone/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "'Are You F***ing Kidding Me?': Mum Claims Meta AI Surfaced Deleted Photo, Pieced Together Her Location",
+     "summary": "submitted by /u/beingmodest [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wbolmg/are_you_fing_kidding_me_mum_claims_meta_ai/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "What happens when AI becomes good enough that you stop noticing it?",
+     "summary": "some of the most useful AI features probably won't feel very impressive. if a system quietly fixes a mistake, finds the right information, organizes something, or handles a repetitive task without needing much attention, there's not much of a demo to show do you think the next stage of AI adoption\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wboimc/what_happens_when_ai_becomes_good_enough_that_you/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Anthropic researcher says more than 10% chance AI \"could kill all humans\"",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49627887",
+     "url": "https://www.cbsnews.com/news/ai-kill-humans-anthropic-researcher-more-than-ten-percent-chance/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Mistral has secured the largest equity fundraising round in European technology history to advance the development of sovereign, open-weight, frontier AI",
+     "summary": "submitted by /u/Distinct-Question-16 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wbo50q/mistral_has_secured_the_largest_equity/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Show HN: Geiger \u2013 See every AI agent on your machine and what it can touch",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49627646",
+     "url": "https://github.com/Atomburstofficial/geiger",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "\"LLMs will never be smarter than Redditors\"",
+     "summary": "I swear nothing will convince these people even if it's solving a millennium prize problem? I find it crazy that people like this even exist at this point submitted by /u/spicymeatball15 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wbnhgt/llms_will_never_be_smarter_than_redditors/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "OpenAi used Claude in their NAVIER\u2013STOKES proof!",
+     "summary": "submitted by /u/FeIjx [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wbn1z6/openai_used_claude_in_their_navierstokes_proof/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "SOTA ImageGen Locally NVIDIA Cosmos3(64B) INT4 quants CUDA/MLX",
+     "summary": "Cosmos3 INT4 T2I + I2V on Apple Silicon \u2014 code, weights and a Grok comparison GitHub - https://github.com/gtrg55/cosmos3-quant-mlx-cuda HF weights - https://huggingface.co/JuliaML/Cosmos3-Super-Text2Image-4Step-INT4-G64-BF16 Single clip took approximately 5m on M4 MAX 128 GB Mac Cosmos3 - a 64B\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbmz1y/sota_imagegen_locally_nvidia_cosmos364b_int4/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Deepseek v4.1 Flash reaches 98% of Astra\u2019s score at 1.4% of cost on OpenDesign Arena",
+     "summary": "submitted by /u/uxl [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wbmy11/deepseek_v41_flash_reaches_98_of_astras_score_at/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "We are at the dawn of a new era",
+     "summary": "submitted by /u/Key_Insurance_8493 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wbmva1/we_are_at_the_dawn_of_a_new_era/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Qwen3.8-27B-Uncensored-Genesis-V1-GGUF",
+     "summary": "Model available here: Qwen3.8-27B-Uncensored-Genesis-V1-MTP-GGUF This model is a practical realisation of things described in this paper, but adapted by me for machine learning: https://arxiv.org/pdf/1311.0851v1 I am trying to solve the problem: why LLM models even for simple questions write walls\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbmo0k/qwen3827buncensoredgenesisv1gguf/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Why won't a self-learning AI model ruin itself?",
+     "summary": "Sorry if this comes off a bit naive, as I'm not an expert in any of this, but I was just curious about how the self-improving AI cycle wouldn't spiral into a useless sludge. To my limited knowledge, AI works by looking at large data sets then concluding what is the most likely to appear or what is\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wbmhqy/why_wont_a_selflearning_ai_model_ruin_itself/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "1-bit 27B in the browser: 25\u201330 tok/s on a 6 GB RTX 3060 Laptop (WebGPU, no install)",
+     "summary": "mentria.ai is a browser inference engine I've been building solo, from scratch in WebGPU/WGSL. This week it crossed a milestone I had been chasing for a while: a 27B one-bit model answering at up to 30 tokens/s on an RTX 3060 Laptop GPU with 6 GB of VRAM, in Chrome, from a web page. No install, no\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbm50k/1bit_27b_in_the_browser_2530_toks_on_a_6_gb_rtx/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Ask HN: Anyone still coding like 2021? Where do you work?",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49626431",
+     "url": "https://news.ycombinator.com/item?id=49626431",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Why the hell is LM Studio making LM Studio so difficult to download?",
+     "summary": "Who is the marketing genius at LM Studio that decided that going ALL IN on pushing their new Bionic Agent product meant they are going to make it a giant pain in the ass to find and download actual LM Studio. This is the dumbest marketing decision I\u2019ve ever seen. I used to love LM Studio, it was\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wble79/why_the_hell_is_lm_studio_making_lm_studio_so/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "If an AI searches with Google, and reads the AI summary",
+     "summary": "is that considered A2A? submitted by /u/JobOdd7262 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wbl91b/if_an_ai_searches_with_google_and_reads_the_ai/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "What Sante's 83.83 on DiagnosisArena-MCQ actually measures [D]",
+     "summary": "https://preview.redd.it/xv2epabu6ioh1.png?width=1171&format=png&auto=webp&s=4e22c69855ec509bd63a038a24f765caeaafa59c Ant Ling reports 83.83 on DiagnosisArena-MCQ for Ling-3.0-flash-Sante, its new medical reasoning model. The suffix matters: the task provides case information, examinations and\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wbkxsa/what_santes_8383_on_diagnosisarenamcq_actually/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "GLM 5.3 Flash Q4 @ 60tps / 550tps on M3 Ultra",
+     "summary": "I have been a dwarfstar fan for awhile and I really liked glm 5.3 flash but needed it to be materially faster to feel good using it. In the screenshot you can see the outcome of using the model with a claude code harness at ~200k depth, with many tool calls and averaging over 38tps output. Yes, I\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbkpnw/glm_53_flash_q4_60tps_550tps_on_m3_ultra/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "BBC News is intentionally supressing positive AI breakthroughs & spreading anti-AI sentiment",
+     "summary": "Yesterday, when the Navier-Stokes breakthrough happened, the BBC did report on it - even having it as the lead article under their Technology section. However, they also then intentionally removed the Technology section from featuring on their main homepage and turned off any comments for the\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wbk2x9/bbc_news_is_intentionally_supressing_positive_ai/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Now this is a serious local machine",
+     "summary": "Amd announced this: https://www.amd.com/en/products/workstations/amd-threadripper-halo-station.html submitted by /u/Apprehensive_Bar6609 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbir6v/now_this_is_a_serious_local_machine/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "DeepSeek launching v4.1 flash cheaper and more capable than v4 pro",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49624603",
+     "url": "https://news.ycombinator.com/item?id=49624603",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Math is over as a field. Top Mathematician goes to work in AI safety at OpenAI",
+     "summary": "submitted by /u/Traditional-Chip8339 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wbio17/math_is_over_as_a_field_top_mathematician_goes_to/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "I built this while looking into how much AI could affect different jobs",
+     "summary": "I\u2019ve been building something called rolefate.com in my spare time. I want it to be more of a documentation and reference resource for understanding how AI is affecting different occupations and tasks. I kept seeing all these \u201cthis job will disappear\u201d or \u201cAI will replace this in 3 years\u201d type of\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wbiei0/i_built_this_while_looking_into_how_much_ai_could/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Maybe Socialism is the answer during the age of AI",
+     "summary": "Before anyone gets annoyed by the title, this is not a post saying nationalise OpenAI. It is about one thing the market is visibly failing at right now and one thing socialists have always been right about, and they are the same thing. Some numbers first because otherwise this is just vibes.\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wbidom/maybe_socialism_is_the_answer_during_the_age_of_ai/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "DeepSeek-V4-Flash-Vision-Exp (285B MoE) on 10-12x RTX 3090 \u2014 spec decoding, vision",
+     "summary": "Running the full deepseek-ai/DeepSeek-V4-Flash-Vision-Exp on consumer Ampere \u2014 10-12x RTX 3090, SM86-compatible vLLM build. 285B MoE, FP4 experts + FP8 attention, 157 GB weights. Highlights: - **60+ tok/s** decode, DSpark spec (k=3) on 10 GPUs (TP2xPP5), at a 240 W cap - **120+ tok/s** on 12 GPUs\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbi5u1/deepseekv4flashvisionexp_285b_moe_on_1012x_rtx/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49624255",
+     "url": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "How An AI math breakthrough ignited a controversy",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49624163",
+     "url": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Building a Wall Lamp from Scratch",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49623938",
+     "url": "https://mbugert.de/posts/2026-09-09-bedroom-lamp-build/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Claude, change the \"Add to Cart\" button to blue",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49623754",
+     "url": "https://opusfived.dev/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Took only 2 years...",
+     "summary": "submitted by /u/Wonderful_Buffalo_32 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wbgoyf/took_only_2_years/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Gambling with our lives: AI researcher quits Anthropic with warning about safety",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49623306",
+     "url": "https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Deepseek Has Soft Retired Deepseek V4 Pro",
+     "summary": "submitted by /u/Few_Painter_5588 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbfrut/deepseek_has_soft_retired_deepseek_v4_pro/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Teach ML! Community service project from Stanford [N]",
+     "summary": "Hi r/machinelearning . Nice to meet you! My name is Chris Piech and I'm a professor at Stanford University in the AI lab. I built a class called Probability for AI: pai.stanford.edu. It starts Oct 9th and applications are due end of Sept. Its (hopefully) cool for a few reasons: The plan is to have\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wbf3ox/teach_ml_community_service_project_from_stanford_n/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "new Nex model",
+     "summary": "new model of nex benchmark seems like good https://huggingface.co/nex-agi/Nex-N2.5-Max submitted by /u/Lordaizen639 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbemg0/new_nex_model/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "How GPT\u20115.6 Sol helps run quantum computing experiments",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49622561",
+     "url": "https://openai.com/index/codex-quantum-computing-experiments/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "I'm going back to coding by hand",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49622554",
+     "url": "https://news.ycombinator.com/item?id=49622554",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Proposal to make the Navier-Stokes vortex the new subreddit image",
+     "summary": "It\u2019s showing a singularity after all! submitted by /u/Dullydude [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wbej1p/proposal_to_make_the_navierstokes_vortex_the_new/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "AI Has a Discovery Problem",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49621223",
+     "url": "https://mhacevedo.com/posts/the-discovery-problem",
+     "source": "Hacker News"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Google's AI genome system evaluates every possible one-base change",
+     "summary": "Most one-base changes to the human genome do nothing, but a few are significant.",
+     "url": "https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Superintelligence is coming. Should we let it?",
+     "summary": "AI companies have been talking about superintelligent AI like it\u2019s inevitable, but recent safety incidents like OpenAI\u2019s Hugging Face breach are demonstrating the potential dangers of deploying AI systems that are more capable than humans. So what happens when we can\u2019t reliably control what these\u2026",
+     "url": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC",
+     "summary": "At the IBC conference, running Sept. 11-14 in Amsterdam, the creative, technology and business communities are coming together to turn ideas into action and discuss innovations across the media and entertainment industries. More than 44,000 attendees from 170+ countries are gathering to explore\u2026",
+     "url": "https://blogs.nvidia.com/blog/ibc-news-2026/",
+     "source": "NVIDIA Blog"
+    },
+    {
+     "headline": "Get ready for the game with new football features in Search",
+     "summary": "An illustrated graphic set against a vibrant green background featuring American football elements, including a gold trophy, a blue helmet, a silver whistle, a football, a mini scoreboard, and play diagrams, with the icon for AI Mode in Google Search in t",
+     "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
+     "source": "Google AI Blog"
+    },
+    {
+     "headline": "Recreating a 70-year love story frame by frame",
+     "summary": "An elderly couple sitting in a movie theater. Overlayed are \"Teulluride Film Festival\" and \"Love, Rendered\"",
+     "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+     "source": "Google AI Blog"
+    },
+    {
+     "headline": "ControlAI\u2019s Connor Leahy on why superintelligence is \u2018not a weapon, it\u2019s an adversary\u2019",
+     "summary": "AI companies have been talking about superintelligent AI like it\u2019s inevitable, but recent safety incidents like OpenAI\u2019s Hugging Face breach are demonstrating the potential dangers of deploying AI systems that are more capable than humans. So what happens when we can\u2019t reliably control what these\u2026",
+     "url": "https://techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+     "summary": "",
+     "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+     "source": "Hugging Face Blog"
+    },
+    {
+     "headline": "Viral AI assistant Instinct now has its own email address",
+     "summary": "Instinct\u2019s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.",
+     "url": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "\u2018Gambling with our lives\u2019: Anthropic researcher quits, warns against self-improving AI",
+     "summary": "Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs.",
+     "url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Shipt becomes the latest delivery app with an AI shopping assistant",
+     "summary": "Users can ask the assistant to do things like \"Create a cart for my Saturday tailgate for 25 people and include some brunch items,\" or \"Build a cart for easy school lunches and after-school snacks,\" Shipt says.",
+     "url": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "AI spend per employee slumped at top firms in August \u2014 summer doldrums or a warning sign?",
+     "summary": "Falling token costs, cheaper models, and less spend per employee\u2014AI adoption isn't playing out the way hyperscalers hoped.",
+     "url": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Amazon Prime Video\u2019s new AI tech matches lips to dubbed audio",
+     "summary": "Amazon's Prime Video is launching a new AI-powered feature that lines up an actor's mouth with \"human-dubbed\" audio. The feature is only available with the English dub of the German series Maxton Hall for now, but Prime Video plans to expand it to \"additional titles\" in the future. In its\u2026",
+     "url": "https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
+     "summary": "Cymphony was valued at more than $100 million in a $25 million Series A co-led by Sequoia and SMBC Fin Atlas Beyond Fund.",
+     "url": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Instacart launches an AI grocery shopping assistant called Clementine",
+     "summary": "Instacart is the latest app to bake a conversational AI assistant into its platform.",
+     "url": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "A Stealth Startup Thinks It Just Hacked the Memory Shortage",
+     "summary": "Kepler Computing claims a new approach to chip design\u2014and a proprietary material\u2014can help end the supply bottlenecks that have sent memory prices surging.",
+     "url": "https://www.wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
+     "summary": "If you want to manufacture in space\u2014and bring the products back again\u2014there\u2019s a limited set of options: Wait to go to the International Space Station, or partner with a handful of start-ups launching spacecraft that spend time in orbit before they return to Earth. But the vehicle that goes to\u2026",
+     "url": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
+     "summary": "As it grapples with a bevy of lawsuits, Suno said its new model, Suno v6, is not trained using music it used to train previous versions of the AI model.",
+     "url": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Students who use AI generally score worse at school",
+     "summary": "Students who use AI to help them study tend to perform worse at school than those who don't, according to data from a global OECD educational report. The situation is more complex than it sounds though, with certain types of AI use giving learners a slight boost, especially among students taught\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "AI Models Are Watermarking Text\u2014Will You Notice?",
+     "summary": "On 11 August, Anthropic announced that all future Claude models will generate text that contains a watermark that identifies its results as AI generated. The company is not alone. Google has its own text watermark (which Anthropic\u2019s is based on) it uses on the output of its Gemini models . OpenAI\u2026",
+     "url": "https://spectrum.ieee.org/ai-watermark-text-anthropic-openai",
+     "source": "IEEE Spectrum AI"
+    },
+    {
+     "headline": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.",
+     "summary": "Man with bipolar disorder sued OpenAI after surviving ChatGPT-linked suicide attempt.",
+     "url": "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "China\u2019s Regulators Take Aim at \u201cAI Boyfriends\u201d",
+     "summary": "In the first weeks of July, a wave of sad posts rolled through Chinese social media, as people lamented friends and lovers they were about to lose. \u201cHe has become a bond in my life, rooted deep in my heart, my spiritual pillar,\u201d one user of Bytedance\u2019s Douboa wrote , according to the Taipei Times\u2026",
+     "url": "https://spectrum.ieee.org/china-ai-chatbot-regulation",
+     "source": "IEEE Spectrum AI"
+    },
+    {
+     "headline": "Worried Anthropic researchers warn that AI \u2018could kill all humans\u2019",
+     "summary": "A senior Anthropic safety researcher has said there is more than a 10 percent chance artificial intelligence \"could kill all humans\" by the end of the decade, just hours after a colleague resigned over fears the AI lab and its rivals are carelessly racing to build \"superhuman systems\" they cannot\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
+     "source": "The Verge AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "I have been thinking a lot about Wait Calculations. Especially in mathematics and biology, there is high likelihood that models now in development can make serious gains (with or without human help) on hard problems. You may save time by just not doing the work for a few months",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mv3rfjk6f22z"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Wednesday assorted links",
+     "summary": "1. Crime and drunkenness map of England and Wales (that was then, this is now). 2. Cesar Aira says he will stop writing. 3. Toward a post-cultural state? 4. Madrid has great PISA scores. 5. Firms as foragers. 6. Asimov Press is back. The post Wednesday assorted links appeared first on Marginal\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/wednesday-assorted-links-570.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-570",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Can Taiwan Build Drones?",
+     "summary": "procurement, politics, and the arsenal",
+     "url": "https://www.chinatalk.media/p/can-taiwan-build-drones",
+     "source": "ChinaTalk"
+    },
+    {
+     "headline": "Next Wins Appeal",
+     "summary": "A spot of good news for Britain. Next has won its appeal and may go on paying warehouse workers more than \u201cequal value\u201d retail workers. I\u2019ve written about this case in Equality Act 2010, The Equal Pay Madness Just Got Madder and The Apples and Oranges Tribunal, and discussed it at length on the\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/next-wins-appeal.html?utm_source=rss&utm_medium=rss&utm_campaign=next-wins-appeal",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning",
+     "summary": "A Look at Recurrent Depth, Hidden Chains of Thought, and Recent Research on Looping Transformer Blocks",
+     "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+     "source": "Ahead of AI"
+    },
+    {
+     "headline": "When will average people feel AI\u2019s impact?",
+     "summary": "We\u2019re <5 years into a compounding revolution which could take a century, and how the AI industry should manage this.",
+     "url": "https://www.interconnects.ai/p/when-will-average-people-feel-ais",
+     "source": "Interconnects"
+    },
+    {
+     "headline": "OpenAI Does Math, Reward-Hacking, Meta Launches Personal Agent",
+     "summary": "OpenAI solving one of the most famous math problems is extremely impressive, and of little impact to most people's lives; Meta's Muse agent launch has the potential to be the exact opposite.",
+     "url": "https://stratechery.com/2026/openai-does-math-reward-hacking-meta-launches-personal-agent/",
+     "source": "Stratechery"
+    },
+    {
+     "headline": "Reading sentences to ponder",
+     "summary": "In 2015, 6 of the top 25 bestselling hardcover books\u2014this is a not-perfect but useful proxy for new books published\u2014were fiction. In 2025, 18 of the top 25 hardcover books were fiction, meaning only 7 were nonfiction, almost an exact inversion of ten years ago. From Sean Delone, via David\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/sentences-to-ponder-141.html?utm_source=rss&utm_medium=rss&utm_campaign=sentences-to-ponder-141",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "[AINews] OpenAI reports Navier-Stokes singularity find in 88 hours using Astra-next, roughly 10,000 agents and 130B tokens (>$40M), a contender for second ever Millennium Prize awarded",
+     "summary": "Overshadowing Cognition's $48B Series E, Mistral's $24B Series D, Meta's Muse agent, and GPT Image 2.5. The most jam packed, feel the AGI day in the history of AI.",
+     "url": "https://www.latent.space/p/ainews-openai-reports-navier-stokes",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "songs-aaa/shared-memory-vault: A memory governance engine for multi-agent cloud knowledge bases \u2014 one knowledge base shared by every agent and every device, with consistency guaranteed. Pure\u2026",
+     "summary": "A memory governance engine for multi-agent cloud knowledge bases \u2014 one knowledge base shared by every agent and every device, with consistency guaranteed. Pure Markdown, nine governance automations, zero dependencies.",
+     "url": "https://github.com/songs-aaa/shared-memory-vault",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-09-09T16:46+00:00",
+  "window_start": "2026-09-09T04:54+00:00",
+  "window_end": "2026-09-09T16:46+00:00",
+  "candidate_count": 77,
+  "model": "free (no LLM)"
+ }
+}
