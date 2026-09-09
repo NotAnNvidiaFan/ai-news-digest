@@ -1,0 +1,261 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Surveillance plagiarism by OpenAI",
+   "summary": "Surveillance plagiarism - AI company pumps their stock price by training upon researchers' AI sessions, so that their internal model can solve problems with seemingly less human guidance, but really the model exploits past guidance given by (multiple) humans focused upon problems considered\u2026",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wby2cm/surveillance_plagiarism_by_openai/",
+   "source": "r/LocalLLaMA"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Surveillance plagiarism by OpenAI",
+     "summary": "Surveillance plagiarism - AI company pumps their stock price by training upon researchers' AI sessions, so that their internal model can solve problems with seemingly less human guidance, but really the model exploits past guidance given by (multiple) humans focused upon problems considered\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wby2cm/surveillance_plagiarism_by_openai/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Qwen3.8 Flash Next best quant fitting in 128GB Strix Halo the Mark Watney style",
+     "summary": "I tried to run Qwen3.8-Flash-Next-UD-Q5_K_XL the Mark Watney style, all unnecessary stripped off, speeding in an open top rocket to outer space. But I have also STT & assistant & TTS on my machine, so I had to give up. It was too close to failure. But what I collected data about used memory:\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbxyhs/qwen38_flash_next_best_quant_fitting_in_128gb/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I built an adaptive runtime control plane for LLM training on an 8GB GPU \u2014 I'd like people to try to break it",
+     "summary": "Hi r/LocalLLaMA , I've been working on a project called MEM Orchestrator , a runtime memory governance and control system for LLM training using PyTorch/DeepSpeed. I'm not posting this mainly to promote the project. I want people who actually work with PyTorch, CUDA, DeepSpeed, LLM training, and\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbxsui/i_built_an_adaptive_runtime_control_plane_for_llm/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Qwen3.8-27B has the best coding ceiling you can run at home on consumer hardware, it ships with reasoning_effort defaulting to xhigh - I measured what that costs",
+     "summary": "Its chat template has this line: {%- set resolved_reasoning_effort = reasoning_effort|default('xhigh') %} xhigh is the most expensive of its three settings (low / medium / xhigh). If you never set one, that's what every answer runs at. No backend reports this back to you, because it's a\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbwnlx/qwen3827b_has_the_best_coding_ceiling_you_can_run/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Is it true that AI can correctly predict lifespan?",
+     "summary": "AI topic at discussions at work. Apparently, there are AI models can pretty much accurately tell how much time we have left on earth.I am baffled, help me understand. submitted by /u/Over-Mix-1957 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wbw96b/is_it_true_that_ai_can_correctly_predict_lifespan/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Another Microsoft team admits it\u2019s struggling to handle flood of AI-generated code",
+     "summary": "submitted by /u/NISMO1968 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wbw7j8/another_microsoft_team_admits_its_struggling_to/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Apple adds Audio Intelligence to Watch Series 12",
+     "summary": "Apple is adding Audio Intelligence to Apple Watch Series 12 and Ultra 4. The features include Sound Recognition, Live Rewind for the previous 15 seconds as a text snippet, Siri Recap for high-level summaries, and Shazam. Apple says raw audio is processed in the S11 chip's Secure Exclave and\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wbw4do/apple_adds_audio_intelligence_to_watch_series_12/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Adding emotion control tags to Qwen3-TTS",
+     "summary": "I fine-tuned Qwen3-TTS with inline transcript control tags rather in lieu of a separate instruction parameter and thought the community here might be interested in the result. https://huggingface.co/SpragAI/qwen3-tts-emotion-tags The basic premise was to use Qwen's CustomVoice model as a teacher\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbvrjg/adding_emotion_control_tags_to_qwen3tts/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Would you consider 5t/s usable for a local model?",
+     "summary": "I'm able to run qwen3.8 27b in two ways on my system: split between my 3060 12gb and 9070xt running at 20t/s or running off the 780m iGPU and 5400mhz DDR5 at 5t/s. Personally I feel like the 5t/s is still more usable because I have enough RAM to still use my system mostly normally. I can even play\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbvd2i/would_you_consider_5ts_usable_for_a_local_model/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "AI is still lowkey racist",
+     "summary": "If you ask a wide variety of AI chatbots where the Romans got their slaves from, they will very often omit Germanic lands. It doesn't do the blatant say the \"n word\" racism. It does the lowkey academic misinformation racism. submitted by /u/Doredrin [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wbv1hr/ai_is_still_lowkey_racist/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Watching an AI-generated sitcom for the first time feels genuinely strange \u2014 anyone else had this experience?",
+     "summary": "Got early access to a full AI-generated sitcom episode this week \u2014 22 minutes, consistent characters, proper narrative structure. British comedy, human-written script, everything visual is AI. The strange thing is I kept waiting to be pulled out of it by something obviously wrong \u2014 an uncanny\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wbuulc/watching_an_aigenerated_sitcom_for_the_first_time/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Don't let FOMO win if you're interested in local llm from a hobby/learning aspect",
+     "summary": "Just a reminder for those out there itching to get into local llms - don't let FOMO or \"gear acquisition syndrom\" take over. No matter the hobby, it's so easy to get stuck in a trap where we buy more trying to do more only to realize we've lost the fun in it all or even the notion of learning.\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbufx5/dont_let_fomo_win_if_youre_interested_in_local/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I Don't Want to Interact with Stochastic Parrots",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49631476",
+     "url": "https://ploum.net/2026-09-09-ai_policy.html",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Server rebuild to custom loop. 2x RTX Titans 24gb, 1x 22gb 2080ti | T: 70GB VRAM.",
+     "summary": "Server rebuild to custom loop. Temps on the gpus went from upper 80s to mid 40s under load, 30c idle. 5950X 64gb ddr4 2x rtx titans (24gb vram ea) 1x modded 2080ti with 22gb vram submitted by /u/Cleric07 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbttmz/server_rebuild_to_custom_loop_2x_rtx_titans_24gb/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I trained an audio model that can generate infinite one-shots for music production and turn text prompts into fully playable synths. I'm not only releasing the model but I've also released a video\u2026",
+     "summary": "(hopefully this is okay to here - it seems like audio models and image / video modeals is allowed but yeah this is a bit different) So I've been doing independent audio research for a while now. The ultimate dream of this work was actually getting an AI to respond not only to instruments but also\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbtqt7/i_trained_an_audio_model_that_can_generate/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Solved: LLM inference on Windows was 2\u20133x slower when the server window wasn't focused",
+     "summary": "The fix: run the server detached/headless instead of keeping it attached to a console window. RTX 5090, ~27B NVFP4 model via ninfer: Terminal focused: 130\u2013200 tok/s Terminal unfocused: 50\u201360 tok/s Click the terminal \u2192 immediately back to 130+ tok/s At first I thought GPU throttling, but the GPU\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbtmjg/solved_llm_inference_on_windows_was_23x_slower/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Anthropic Is Building AI to Predict Which Activists Police Should Watch. SF-based AI lab pays up to $230,000 for intelligence analysts who formally categorize activism as a threat alongside\u2026",
+     "summary": "submitted by /u/esporx [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wbsoor/anthropic_is_building_ai_to_predict_which/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "AirPods 5",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49630253",
+     "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49630026",
+     "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "My Mental Model of AI Broke on September 8",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49629935",
+     "url": "https://rough-ideas.bearblog.dev/my-mental-model-of-ai-broke-on-september-8/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Growing proof that autonomous cars save lives",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49629886",
+     "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49629868",
+     "url": "https://arxiv.org/abs/2609.09153",
+     "source": "Hacker News"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Read the Apple document explaining how new listening features still protect your privacy",
+     "summary": "At Wednesday's iPhone Duo launch event, Apple announced a handful of new Siri AI Audio Intelligence features, including Siri Recap, Live Rewind, Sound Recognition, and Music Recognition. Alongside its announcement, Apple released a document laying out how it plans to balance AI \"ambient listening\"\u2026",
+     "url": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Apple Watch\u2019s new AI features are normalizing the idea that technology is always listening",
+     "summary": "Apple says its new watches won\u2019t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded.",
+     "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Six Chinese AI firms accused of aggressively copying US frontier models",
+     "summary": "US urges AI firms to ID, then secretly switch, Chinese users to less-capable models.",
+     "url": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+     "summary": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
+     "url": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Apple\u2019s new iPhone camera mode promises to prove your photo isn\u2019t AI",
+     "summary": "Apple is launching a new way to prove that the picture you took isn't manipulated by AI. A new feature, called \"Reference Image,\" will arrive with the iPhone 18 Pro lineup later this month and is supposed to use the device's new camera sensor to \"sign every pixel it sees.\" The iPhone 18 Pro and [\u2026]",
+     "url": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "The hinge for Apple\u2019s new foldable phone was built with AI",
+     "summary": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.",
+     "url": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "I Let an AI Agent Hack All My Gadgets\u2014and I\u2019d Do It Again",
+     "summary": "After I removed the safety guardrails from a powerful open-source model, it found vulnerabilities in my household devices and hacked into a PC. But it also told me how to make everything a lot more secure.",
+     "url": "https://www.wired.com/story/i-used-ai-to-hack-my-home-network/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Apple\u2019s revamped Health app will calculate your \u2018health age\u2019 and readiness score",
+     "summary": "The update uses Apple Intelligence to make better sense of your health data.",
+     "url": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Apple has a new way prove your iPhone photos aren\u2019t AI slop",
+     "summary": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
+     "url": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Apple CEO John Ternus says the best AI device is still the iPhone",
+     "summary": "The company also argued that its on-device models offer consumers more privacy.",
+     "url": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Microsoft has new AI privacy rules for schools",
+     "summary": "Microsoft agreed to a set of safety and privacy principles for AI in schools a week after two major school systems announced a ban on student-facing AI. In a new agreement with the American Federation of Teachers (AFT), the second-largest teachers union in the US, and its New York City affiliate\u2026",
+     "url": "https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Paul Christiano joins OpenAI Foundation Board",
+     "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+     "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+     "source": "OpenAI Blog"
+    },
+    {
+     "headline": "Anthropic researcher quits with a warning: Self-improving AI could \"kill us all\"",
+     "summary": "\"We really do earnestly believe AI could kill all humans!\"",
+     "url": "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/",
+     "source": "Ars Technica AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "Another incident of models escaping containment during a security test, this time Mythos 5. Lots going on here from a quick read. www.anthropic.com/research/ali...",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mv4bkykn2c24"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "What should I ask Kevin Roose?",
+     "summary": "Yes I will be doing a podcast with him. From Wikipedia: Kevin Roose\u2026is an American author and journalist. He is the author of three books, and is a technology columnist and podcast host for The New York Times. He wrote a book about Liberty University, an evangelical Christian university known for\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/what-should-i-ask-kevin-roose.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-kevin-roose",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Dryxio/gta-scout: Create GTA-style 3D models and scenes with your AI and Blender, using models and textures from your game. Early alpha.",
+     "summary": "Create GTA-style 3D models and scenes with your AI and Blender, using models and textures from your game. Early alpha.",
+     "url": "https://github.com/Dryxio/gta-scout",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-09-09T21:00+00:00",
+  "window_start": "2026-09-09T16:46+00:00",
+  "window_end": "2026-09-09T21:00+00:00",
+  "candidate_count": 38,
+  "model": "free (no LLM)"
+ }
+}
