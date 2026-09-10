@@ -1,0 +1,237 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+   "summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
+   "why_it_matters": "",
+   "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+   "source": "TechCrunch AI"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Pi Agent Users - Nvidia Released Sol-Pi - A Pi-Extension based on AutoResearch loops to make the Harness more efficient",
+     "summary": "Github Repo. Blog post. \ud83d\udca1 TL;DR (from the Github Readme) Spend less without making the agent do less useful work. SoL-Pi is a standalone extension for Pi that packages four reusable efficiency mechanisms discovered through scaled auto-research loops. It reduces repeated model turns, context\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcujgg/pi_agent_users_nvidia_released_solpi_a/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "CPU Only Experimental Sloppy Deepseek V4.1 Flash",
+     "summary": "Title says it all. https://github.com/gjabdelnoor/Day1DeepseekV4.1-CPU The goal is pretty simple, I like having infinite slow tokens from the bioinformatics machine in the lab to run overnight or over-week agentic jobs, paired with a watcher that kills it in 15 seconds if someone else needs it for\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcu3fw/cpu_only_experimental_sloppy_deepseek_v41_flash/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "After Astra's stealth nerf last night, we really need benchmarks to do a re-bench 1 week after any model release. This is ridiculous.",
+     "summary": "2 days ago Astra was 1 shotting AAA game level models and now today even after reprompting on xhigh effort several times the results are completely terrible. Hundreds of users on X have noticed the same https://x.com/wholyv/status/2097985903830741439 It is ridiculous that these frontier labs will\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wcu0fj/after_astras_stealth_nerf_last_night_we_really/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Question about ngram and SSD streaming.",
+     "summary": "Hello, does streaming the ngram embeddings from the ssd heavily affect the ssd's health and lifetime? submitted by /u/OkStatement3655 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wctr91/question_about_ngram_and_ssd_streaming/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Notes on a hobby sub going mainstream",
+     "summary": "Both good and bad things have come from a subreddit that was lot more niche than for example r/flashlight rapidly transforming into the largest online forum about an increasingly core part of the infrastructure of the economy. This sub has experienced growing pains recently, and probably those are\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wctos6/notes_on_a_hobby_sub_going_mainstream/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Livebench added Deepseek v4.1 flash",
+     "summary": "https://preview.redd.it/3z56sdq1yqoh1.png?width=1362&format=png&auto=webp&s=5c9848a396a4bd2ec472a6b4761f90263feb44cc It's on par with 5.6 sol but for <1/10th the price on their evals submitted by /u/ihexx [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wctnzd/livebench_added_deepseek_v41_flash/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "antirez working on DSV4.1 support for ds4",
+     "summary": "submitted by /u/backyard_tractorbeam [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wctnq7/antirez_working_on_dsv41_support_for_ds4/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Microsoft's monthly patch has 974 security fixes, including 2 exploited privilege-escalation zero-days and 20 potentially wormable vulnerabilities - almost all of them found by AI systems",
+     "summary": "submitted by /u/Distinct-Question-16 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wct82j/microsofts_monthly_patch_has_974_security_fixes/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "U.S Senator: If we allow Dems to strangle American AI\u2014and hand global AI leadership to China\u2014it would be utterly catastrophic.",
+     "summary": "It's sad to see that AI has become a partisan issue. The left are the ones who should be pro-AI. This is shocking. AGI is the only technology that can force governments to enact widespread UBI, so it's unbelievable that Dems want to ban Superintelligence.\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wct1ax/us_senator_if_we_allow_dems_to_strangle_american/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "New tensor type layouts for my GGUF uploads",
+     "summary": "Hey all, long time no post. Figured I'd pop my head in to point you towards a blog post I just published about research I had performed and changes I'm making to the shape of models I post, you can read it here: https://huggingface.co/blog/bartowski/per-tensor-layout-maps-for-gguf-quantization I\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcsj6v/new_tensor_type_layouts_for_my_gguf_uploads/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "GPT-6 Sol Appeared on the OpenAI API",
+     "summary": "submitted by /u/141_1337 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wcqwj9/gpt6_sol_appeared_on_the_openai_api/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Don't Get in a Crash in a Cybercab",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49647900",
+     "url": "https://schwarztech.net/snippets/dont-get-in-a-crash-in-a-cybercab",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Chinese AI Giants Accused of Sending Millions of User Queries to U.S. Models- WSJ",
+     "summary": "submitted by /u/PathOfEnergySheild [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wcqd4h/chinese_ai_giants_accused_of_sending_millions_of/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "OUI-1: a model that generates bespoke UI elements",
+     "summary": "so i saw that openui.com released OUI-1, a model fine-tuned on DiffusionGemma. the training dataset uses OpenUI-Lang, a custom DSL (domain-specific language), instead of plain HTML, Markdown, or React code. what makes it interesting is that you can already get a regular LLM to use OpenUI-Lang\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcqa03/oui1_a_model_that_generates_bespoke_ui_elements/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "CyberTiel 35B-A3B\u2019s uncensored 4-bit quant beats Opus 4.6 medium cleanly on real codebase issues, in 27% of the time Qwen3.8-27b medium takes.",
+     "summary": "The downside of uncensoring a model is that it is known to potentially damage it, but CyberTiel is an even more capable software engineer than its censored TielCoder base, while allowing offensive security research. This was achieved by quantizing with an improved imatrix, baked from a curated\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcpppm/cybertiel_35ba3bs_uncensored_4bit_quant_beats/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "The stolen millennium problem narrative is hilarious to me",
+     "summary": "You expect me to believe that the solutions were stolen from scientists who have had decades to work on this problem. We may never know whether any of the scientist notes made it into the training data, but I find the idea that after having decades to work on it, these scientist were right around\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wcp6hh/the_stolen_millennium_problem_narrative_is/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "React Native ExecuTorch is now up to 92x faster \ud83c\udfce\ufe0f",
+     "summary": "In v0.10 we achieved significant speedups over v0.9. The video shows the maximum speedups we measured for specific groups of models. Among LLMs, the biggest gain came from Qwen3 0.6B, which runs over 3x faster on long prompts. For instance segmentation, FastSAM reached speedups of up to 92x! We\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcp4v1/react_native_executorch_is_now_up_to_92x_faster/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49646988",
+     "url": "https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "NYT - Anthropic Says It Blocked Possible Efforts to Build Biological Weapons",
+     "summary": "submitted by /u/offgramercy [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wcp1xa/nyt_anthropic_says_it_blocked_possible_efforts_to/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Amazing Navier Stokes evolving vortex is going viral",
+     "summary": "submitted by /u/Distinct-Question-16 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wcoyof/amazing_navier_stokes_evolving_vortex_is_going/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Cognition's SWE-2 achieves 92.8 on Terminal-Bench 2.1",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49646778",
+     "url": "https://tokenstead.ai/models/swe-2",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Looks like every Open AI maths breakthrough is going to be questioned by default",
+     "summary": "Being accused by researchers of \"stealing work\" or data to solve the Gromov soficity conjecture that Open AI announced it solved back in august. submitted by /u/SGC-UNIT-555 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wcobum/looks_like_every_open_ai_maths_breakthrough_is/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Rumors are spreading everywhere that OpenAI is close to verifying a proof of the Hodge conjecture, while either OpenAI or Anthropic may be nearing a solution to Birch\u2013Swinnerton-Dyer. Is physics\u2026",
+     "summary": "Rumor: Another Millennium prize problem just got cracked today using AI. It\u2019s being reviewed right now in secret \u2026 I can\u2019t say which one as I don\u2019t want anyone to scoop the team working on it. I don\u2019t have the proof myself but if I get it will post here and credit the authors. Source:\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wcoblk/rumors_are_spreading_everywhere_that_openai_is/",
+     "source": "r/singularity"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+     "summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
+     "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Is AI Actually Going to Kill Us All?",
+     "summary": "This week on \u201cUncanny Valley,\u201d we dig into a former Anthropic researcher\u2019s AI doomsday warning, the latest upgrades from Apple\u2019s event, and the census report that claimed Trump won the 2020 election.",
+     "url": "https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Meta\u2019s AI agent Muse is now the No. 2 app in the US",
+     "summary": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
+     "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Schools are catching on to Big Tech\u2019s playbook",
+     "summary": "It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, its creators are graciously providing the resources and curriculum for learning it, often pro bono. That's the narrative AI companies are pitching\u2026",
+     "url": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Panic builds over bankrupt Spirit\u2019s looming data sale to Google",
+     "summary": "\"Bankruptcy cannot become the new land grab for AI.\u201d",
+     "url": "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+     "summary": "Come inside the mind of a bot trying to convince the internet it's human.",
+     "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "India\u2019s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+     "summary": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
+     "url": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
+     "source": "TechCrunch AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "What you are seeing in math right now is a consequence of the jagged frontier, and a precursor of what is to come in other professions. Yes, mathematicians do math, but they also have other tasks they view as important (mentor students, maintain a community, safeguard the future) that AI can't do.",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mv6lhq5lyc2v"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "My short interview with Julia Willemyns",
+     "summary": "Here is the link, here is the end bit: Who is the most important thinker of our time? It\u2019s not about individual thinkers any more. It\u2019s about the internet as this vast organ of knowledge that you can play like a musical instrument, and combining the internet with AI. You can figure out things to\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/my-short-interview-with-julia-willemyns.html?utm_source=rss&utm_medium=rss&utm_campaign=my-short-interview-with-julia-willemyns",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "An operationalization of opaque serial depth",
+     "summary": "Currently, chain-of-thought (CoT) is a valuable tool for overseeing AI models. However, some architectural shifts could significantly reduce CoT monitorability . We have recently proposed that AI companies should transparently share \u200b\u200binformation about the degree to which their architectures may\u2026",
+     "url": "https://www.alignmentforum.org/posts/x8BvtWxtoajBGHS3g/an-operationalization-of-opaque-serial-depth",
+     "source": "Alignment Forum"
+    },
+    {
+     "headline": "Proposal for tracking the effects of architecture on monitorability",
+     "summary": "Architectures that incorporate opaque recurrence or allow for agents to communicate with each other using latents could rapidly make it much harder to monitor chains of thought or communication (we\u2019ll refer to this property as \u201cmonitorability\u201d going forward). [1] As companies begin to explore such\u2026",
+     "url": "https://www.alignmentforum.org/posts/hLPGv8QjPcNLtDp3A/proposal-for-tracking-the-effects-of-architecture-on",
+     "source": "Alignment Forum"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-09-10T20:59+00:00",
+  "window_start": "2026-09-10T16:32+00:00",
+  "window_end": "2026-09-10T20:59+00:00",
+  "candidate_count": 34,
+  "model": "free (no LLM)"
+ }
+}
