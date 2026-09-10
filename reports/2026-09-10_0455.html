@@ -1,0 +1,739 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI Digest — 2026-09-10T04:55+00:00</title>
+<style>
+  :root {
+    --bg: #0c0f14; --card: #141922; --card-hover: #1a2130; --border: #232b3a;
+    --text: #dfe6f0; --muted: #8b98ab; --accent: #5eb1ff; --accent2: #a78bfa;
+    --good: #4ade80; --bad: #f87171; --mid: #fbbf24;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text);
+         font: 16px/1.6 -apple-system, "Segoe UI", Roboto, sans-serif; }
+  .wrap { max-width: 860px; margin: 0 auto; padding: 32px 20px 64px; }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  header .brand { font-size: 13px; letter-spacing: 2px; text-transform: uppercase;
+                  color: var(--muted); }
+  header .brand a { color: var(--muted); }
+  h1 { font-size: 26px; margin: 6px 0 2px; }
+  .window { color: var(--muted); font-size: 14px; }
+  .overview { font-size: 17px; color: var(--text); margin: 18px 0 8px;
+              border-left: 3px solid var(--accent2); padding-left: 14px; }
+  .badges { display: flex; gap: 8px; flex-wrap: wrap; margin: 14px 0 26px; }
+  .badge { font-size: 12px; padding: 3px 10px; border-radius: 999px;
+           border: 1px solid var(--border); color: var(--muted); }
+  .badge.sent-bullish, .badge.sent-optimistic { color: var(--good); border-color: var(--good); }
+  .badge.sent-mixed { color: var(--mid); border-color: var(--mid); }
+  .badge.sent-skeptical, .badge.sent-anxious { color: var(--bad); border-color: var(--bad); }
+  .hero { background: linear-gradient(135deg, #16203a, #1b1530); border: 1px solid var(--border);
+          border-radius: 14px; padding: 22px 24px; margin-bottom: 30px; }
+  .hero .label { font-size: 12px; letter-spacing: 2px; text-transform: uppercase; color: var(--accent2); }
+  .hero h2 { margin: 8px 0 10px; font-size: 22px; }
+  .hero .why { color: var(--muted); font-size: 15px; margin-top: 10px; }
+  .hero .why strong { color: var(--text); }
+  h3.section { font-size: 14px; letter-spacing: 2px; text-transform: uppercase;
+               color: var(--muted); margin: 34px 0 12px; border-bottom: 1px solid var(--border);
+               padding-bottom: 8px; }
+  .card { background: var(--card); border: 1px solid var(--border); border-radius: 12px;
+          padding: 16px 18px; margin-bottom: 12px; }
+  .card:hover { background: var(--card-hover); }
+  .card h4 { margin: 0 0 6px; font-size: 16px; }
+  .card p { margin: 0; color: var(--muted); font-size: 14.5px; }
+  .src { display: inline-block; font-size: 12px; color: var(--accent2); margin-top: 8px; }
+  blockquote.take { margin: 0; }
+  .take .quote { font-size: 15.5px; font-style: italic; color: var(--text); }
+  .take .who { margin-top: 8px; font-size: 13.5px; color: var(--muted); }
+  .take .ctx { margin-top: 4px; font-size: 13.5px; color: var(--muted); }
+  .idea { border-left: 3px solid var(--accent2); }
+  .idea .hook { font-size: 15px; font-weight: 600; margin-bottom: 8px; }
+  .idea .draft { color: var(--text) !important; background: var(--bg); border: 1px dashed var(--border);
+                 border-radius: 8px; padding: 10px 12px; margin: 0 0 8px !important; }
+  .idea .why { font-size: 13.5px !important; }
+  .quiet { text-align: center; color: var(--muted); padding: 40px 0; font-size: 15px; }
+  .empty { color: var(--muted); font-size: 14px; font-style: italic; }
+  footer { margin-top: 44px; color: var(--muted); font-size: 12.5px;
+           border-top: 1px solid var(--border); padding-top: 14px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="brand"><a href="../index.html">AI NEWS DIGEST</a></div>
+    <h1>2026-09-10T04:55+00:00</h1>
+    <div class="window">Window: 2026-09-09T21:00+00:00 &rarr; 2026-09-10T04:55+00:00 (UTC)</div>
+  </header>
+
+  <p class="overview">Free-mode digest: candidates grouped by type (LLM synthesis disabled).</p>
+
+  <div class="badges">
+    
+    <span class="badge">102 candidates scanned</span>
+    <span class="badge">model: free (no LLM)</span>
+  </div>
+
+  
+
+  
+
+  
+  <div class="hero">
+    <div class="label">Top story</div>
+    <h2><a href="https://www.reddit.com/r/LocalLLaMA/comments/1wc97an/same_ling_model_different_longcontext_curve/">Same Ling model, different long-context curve: INT4/vLLM vs Q5/llama.cpp on one Spark</a></h2>
+    <p>The short-prompt ranking reverses in the context-depth table in sudoingX’s Ling-3.0-flash benchmark notes : Starting context Official INT4, vLLM fork Q5_K_M, llama.cpp Short prompt 38.3 tok/s 35.7 tok/s About 45K tokens 7.9 tok/s 33.6 tok/s About 90K tokens 4.6 tok/s 33.2 tok/s This is a same-box,…</p>
+    
+    <span class="src">r/LocalLLaMA</span>
+  </div>
+  
+
+  
+
+  <h3 class="section">Model releases &amp; updates</h3>
+  
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1wc97an/same_ling_model_different_longcontext_curve/">Same Ling model, different long-context curve: INT4/vLLM vs Q5/llama.cpp on one Spark</a></h4>
+      <p>The short-prompt ranking reverses in the context-depth table in sudoingX’s Ling-3.0-flash benchmark notes : Starting context Official INT4, vLLM fork Q5_K_M, llama.cpp Short prompt 38.3 tok/s 35.7 tok/s About 45K tokens 7.9 tok/s 33.6 tok/s About 90K tokens 4.6 tok/s 33.2 tok/s This is a same-box,…</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/artificial/comments/1wc8x2f/i_made_another_ai_experiment_but_tried_to_confuse/">I made another AI experiment, but tried to confuse agents at the start</a></h4>
+      <p>I conducted another experiment with AI agents. This time I decided to give them a harder task. First, I didn&#39;t remove old agent artifacts; second, I told them there were four, but actually, there were only three. Then I gave them a similar task: find the other agents. In short, it was too hard for…</p>
+      <span class="src">r/artificial</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/MachineLearning/comments/1wc7hmu/i_trained_a_348m_model_trained_from_scratch_on/">I trained a 348M model trained from scratch on 22.7B tokens that does 14 digit arithmetic [P]</a></h4>
+      <p>Hello this is my fifth small language model I&#39;ve made and apart of my third series and it has been a lot of work but it payed off: **348M parameters, 22.7B tokens**, then fine-tuned into a math model that solves arithmetic by *showing the work* — column addition with carries, borrow chains,…</p>
+      <span class="src">r/MachineLearning</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1wc6lkb/lmlinky_an_android_lm_wrapper_for_your_local/">LmLinky: an Android LM Wrapper for your local models</a></h4>
+      <p>I couldnt find one that was simplistic yet good enough to pop in for a quick chat one. So, as we do here, I made one. https://github.com/Dewpg/LmLinky https://github.com/Dewpg/LmLinky/releases/tag/v1.0.0 Thats the initial salvo. Let me know if its simplistic enough and works. Thanks. submitted by…</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1wc6krf/so_relevant/">So relevant</a></h4>
+      <p>submitted by /u/0dayturtle [link] [comments]</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1wc6fsk/qwen38flashnext_on_2x3090_ddr4_part_4_2225x/">Qwen3.8-Flash-Next on 2x3090 + DDR4, part 4: 2.2-2.5x faster prefill by kicking the expert cache off the GPU while the prompt runs</a></h4>
+      <p>Part 4 of the same box. Part 1 was 17 -&gt; 25-29 t/s with the expert cache PR, part 2 was 37-41 t/s after switching to UD-Q4_K_XL and stacking MTP on the cache, part 3 was the top-k fallback that was sorting more than it needed to. This one is all about prefill, which was honestly the weak spot the…</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/MachineLearning/comments/1wc67ci/i_tried_to_make_a_real_fly_connectome_learn_to/">I tried to make a real fly connectome learn to play Pong. It didn&#39;t — and auditing why turned out to be way more interesting than if it had worked [p]</a></h4>
+      <p>You&#39;ve probably seen the fly-brain-plays-Doom / Minecraft / Beat Saber clips going around this week, from the new MaleCNS v1.0 connectome release (166k neurons, real EM reconstruction, not a toy model). Cool clips. Nobody seemed to be checking whether any of it works though, versus just producing…</p>
+      <span class="src">r/MachineLearning</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/MachineLearning/comments/1wc5zak/icde_results_d/">ICDE Results [D]</a></h4>
+      <p>Who else is anticipating ICDE results tomorrow? Post your results here and let&#39;s discuss! submitted by /u/mythrowaway0852 [link] [comments]</p>
+      <span class="src">r/MachineLearning</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1wc5t3s/local_llm_qwen_38_win/">Local LLM / Qwen 3.8 win</a></h4>
+      <p>I’ve been working on perfecting my setup ever since 3.8 hit, but no longer pay for subscriptions. I had a coding interview today and setup openrouter ahead of time as another option. I figured I could use the latest GLM flash for cheap and it would be fast. Nope. Over thought the whole thing and I…</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://hugovergnes.github.io/little-lm-3-8b/">Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes</a></h4>
+      <p>Hacker News discussion: https://news.ycombinator.com/item?id=49637435</p>
+      <span class="src">Hacker News</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/artificial/comments/1wc49lv/agi/">AGI</a></h4>
+      <p>https://preview.redd.it/fkatypbxdloh1.png?width=401&amp;format=png&amp;auto=webp&amp;s=d3fefe06aacb0c076cc21beab77d259710fc3c79 I was just navigating a maths problems . That&#39;s what Open AI returned . Although i was using free model. It shouldn&#39;t be that bad lol submitted by /u/Excellent_Ebb7717 [link]…</p>
+      <span class="src">r/artificial</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from">I&#39;m sorry, you&#39;re not going to die from an AI-engineered supervirus</a></h4>
+      <p>Hacker News discussion: https://news.ycombinator.com/item?id=49636906</p>
+      <span class="src">Hacker News</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/artificial/comments/1wc3oue/if_ai_solves_a_millennium_prize_problem_using/">If AI solves a Millennium Prize problem using ideas from human research, who gets the credit?</a></h4>
+      <p>The flywheel effect is an interesting effect I discovered while researching. It makes the whole thing a self-reinforcing loop. When a human researcher uses an AI tool, or even just their own brain, to post or test a raw math theory and uploads it somewhere on the internet, they might post their…</p>
+      <span class="src">r/artificial</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/artificial/comments/1wc3jcq/neural_vocals_voice_cloning_timbre_transfer_trust/">Neural Vocals: Voice Cloning &amp; Timbre Transfer · Trust Node Logic</a></h4>
+      <p>Interesting read on how ai vocals are created submitted by /u/Jumpy-Program9957 [link] [comments]</p>
+      <span class="src">r/artificial</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/artificial/comments/1wc3hyd/what_video_games_of_the_past_were_the_most/">What video games of the past were the most prophetic about AI, surveillance technology and cyber security in your opinion? My vote is Metal Gear Solid 2, Deus Ex and Watch Dogs. Those 3 predicted…</a></h4>
+      <p>What others do you think have also been prophetic and come true? submitted by /u/MannerNo7000 [link] [comments]</p>
+      <span class="src">r/artificial</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/MachineLearning/comments/1wc34d2/i_made_a_way_to_migrate_between_embedding_models/">I made a way to migrate between embedding models without re-embedding your entire corpus [R]</a></h4>
+      <p>So I was playingw ith embedding models I saw that when you upgrade from model A to B, you face a very big backfilling cost Ie, suppose you have a 1b vectors from model A, and then you want to use model B. This would mean you have to re-embed all of your documents with model B before you can even…</p>
+      <span class="src">r/MachineLearning</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1wc30q1/i_made_a_way_to_migrate_between_embedding_models/">I made a way to migrate between embedding models without re-embedding your entire corpus</a></h4>
+      <p>So I was playingw ith embedding models I saw that when you upgrade from model A to B, you face a very big backfilling cost Ie, suppose you have a 1b vectors from model A, and then you want to use model B. This would mean you have to re-embed all of your documents with model B before you can even…</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/">Muse, the band, lost its social media handles to Muse, Meta&#39;s new AI agent</a></h4>
+      <p>Hacker News discussion: https://news.ycombinator.com/item?id=49636345</p>
+      <span class="src">Hacker News</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1wc2cs2/running_qwen_38_27b_iq3_xxs_on_rtx_3060/">Running qwen 3.8 27B iq3 xxs on RTX 3060.</a></h4>
+      <p>Getting anywhere from 10 - 20 tps. Thinking Off . Took about 4 mins and 7 mins. Running on about &#34;IQ3_S - 3.4375 bpw&#34; 37.03.960.932 I slot print_timing: id 0 | task 2665 | prompt processing, n_tokens = 12516, progress = 0.98, t = 37.08 s / 337.55 tokens per second 37.04.777.411 I slot…</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/artificial/comments/1wc2bw2/agents_that_can_communicate_with_running_python/">Agents that can communicate with running python code</a></h4>
+      <p>As my python executes, I want to receive info from a local agent. The agent would browse through a database in real-time as operational data is updated one per second. It would then suggest tweaks to make thing run smoother. A viable approach would have the agent communicate via a TCP/UDP link. My…</p>
+      <span class="src">r/artificial</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/artificial/comments/1wc0rzg/ai_minister_says_warnings_are_not_new_as_experts/">AI minister says &#39;warnings are not new&#39; as experts predict the technology could wipe out humanity</a></h4>
+      <p>submitted by /u/Educational_Fun_9001 [link] [comments]</p>
+      <span class="src">r/artificial</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1wc0ekw/apple_a20_pro_debuts_with_7core_gpu_32core_neural/">Apple A20 Pro debuts with 7-core GPU, 32-core Neural Engine and 50% more memory bandwidth (~115 GB/s)</a></h4>
+      <p>It seems to use a 96-bit LPDDR5X memory bus, instead of the previous 64-bit wide busses. Considering it&#39;s on 2nm, that&#39;s expensive silicon. That should result in around 115 GB/s memory bandwidth. A20 Pro also doubles the size of Apple&#39;s dedicated Neural Engine (from 16 to 32 cores total).…</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/artificial/comments/1wc04ai/gambling_with_our_lives_another_ai_employee_quits/">‘Gambling with our lives’: Another AI employee quits over safety concerns</a></h4>
+      <p>submitted by /u/Bubbly-Air7302 [link] [comments]</p>
+      <span class="src">r/artificial</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1wc0109/would_a_9070_xt_a_7800_xt_combo_work_fine_with/">Would a 9070 XT + a 7800 XT combo work fine with tensor parallelism?</a></h4>
+      <p>Hey guys, I have a 9070 XT (GDDR6 16GB, 644GB/s), a PCIE5 8x/8x motherboard and a spare 7800 XT (GDDR6 16GB, 624GB/s), that I was planning to sell. Seeing its possible to use multiple identical GPUs for scaling both decode and prefill speeds with tensor parallelism, I am wondering if I can do that…</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1wbyhg4/experimenting_with_an_adaptive_memory_governor/">Experimenting with an adaptive memory governor for PyTorch on an 8GB GPU — would love some feedback</a></h4>
+      <p>(Quick note: English is not my native language, so I used AI to help translate my thoughts clearly. The code, the 38 unit tests, and the experiments on my RTX 5060 Ti are my own work.) Hey everyone, Lately I&#39;ve been trying to train small models locally on an RTX 5060 Ti (8GB), and like many…</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+  
+
+  <h3 class="section">Frontier lab developments</h3>
+  
+    
+    <div class="card">
+      <h4><a href="https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/">AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks</a></h4>
+      <p>Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.</p>
+      <span class="src">TechCrunch AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/">OpenAI adds a prominent AI doomer to its board of directors</a></h4>
+      <p>Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.</p>
+      <span class="src">TechCrunch AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/">The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’</a></h4>
+      <p>Jacob Coxon talks to WIRED about the “mini Manhattan project” inside Anthropic, the problem with alignment, and why AI labs have just a few years left to make their systems safe.</p>
+      <span class="src">Wired AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/">Massachusetts hits data centers with new clean power rules</a></h4>
+      <p>Massachusetts has become the third state in as many months to slap new restrictions on data center development.</p>
+      <span class="src">TechCrunch AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help">Suno releases its first AI music model made with record industry help</a></h4>
+      <p>Suno&#39;s new v6 AI music model is its first made with support from the record industry. Suno&#39;s Jack Brody told The Verge that v6 was &#34;trained from the ground up, with a new set of data that does not include the same data that our previous models were trained on.&#34; The data includes content licensed […]</p>
+      <span class="src">The Verge AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes">OpenAI’s sly mathematical breakthrough sends a chill through academia</a></h4>
+      <p>OpenAI&#39;s announcement Tuesday that it has solved one of mathematics&#39; legendary Millennium Prize problems should have been a moment of triumph. The result is both an undeniable achievement and a striking demonstration of just how rapidly AI is transforming mathematics. But before it was even…</p>
+      <span class="src">The Verge AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads/">San Francisco Orders Meta to Stop ‘Allowing’ AI Child Abuse Ads</a></h4>
+      <p>The City Attorney’s Office has asked Meta to explain how the harmful ads repeatedly ran on Facebook and Instagram. The company claims the ads are not under the city’s jurisdiction.</p>
+      <span class="src">Wired AI</span>
+    </div>
+    
+  
+
+  <h3 class="section">Influencer takes &amp; sentiment</h3>
+  
+  <div class="card">
+    <blockquote class="take">
+      <div class="quote">&ldquo;Here&#39;s a Blender model of a Pluribus themed Fabergé egg I had GPT-6 Astra build - I generated the concept image using ChatGPT Images 2.5, then pasted the image into Codex and told Astra to turn that into a Blender file simonwillison.net/2026/Sep/9/b...&rdquo;</div>
+      <div class="who">&mdash; Bluesky @simonwillison.net
+        &middot; <a href="https://bsky.app/profile/simonwillison.net/post/3mv4su6pfzk24">view post</a></div>
+      
+    </blockquote>
+  </div>
+  
+  <div class="card">
+    <blockquote class="take">
+      <div class="quote">&ldquo;Kind of expecting to see a stance on here where people argue both that AI is fake &amp; not capable of doing anything interesting and also that it presents an existential threat.&rdquo;</div>
+      <div class="who">&mdash; Bluesky @emollick.bsky.social
+        &middot; <a href="https://bsky.app/profile/emollick.bsky.social/post/3mv4jopucic2g">view post</a></div>
+      
+    </blockquote>
+  </div>
+  
+
+  <h3 class="section">Research &amp; under the radar</h3>
+  
+    
+    <div class="card">
+      <h4><a href="https://marginalrevolution.com/marginalrevolution/2026/09/my-very-interesting-conversation-with-jared-diamond.html?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=my-very-interesting-conversation-with-jared-diamond">My very interesting Conversation with Jared Diamond</a></h4>
+      <p>Here is the audio, video, and transcript. Here is part of the episode summary: So which leaders do make a difference? Tyler and Jared debate that question, including conditions what a religious founder needs to succeed, whether destructive leaders matter more than constructive ones, why individual…</p>
+      <span class="src">Marginal Revolution</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09203">OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows</a></h4>
+      <p>arXiv:2609.09203v1 Announce Type: new Abstract: Existing benchmarks for autonomous AI scientists evaluate only final outputs---generated code, hypotheses, or papers---yet discard the reasoning process by which those outputs were obtained. This makes it impossible to audit scientific methodology,…</p>
+      <span class="src">arXiv cs.AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09226">Adaptive Entangled Game Modules in Artificial General Intelligence</a></h4>
+      <p>arXiv:2609.09226v1 Announce Type: new Abstract: We introduce a probability-wave framework for modeling the collective behavior of interacting adaptive agents, deriving testable eigenmodes through a generalized behavioral intelligence (GBI) nonlocal probability-wave equation. This framework…</p>
+      <span class="src">arXiv cs.AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09233">Subagents vs Agent Skills: Executing Reusable Knowledge for Long-Horizon Agentic Tasks</a></h4>
+      <p>arXiv:2609.09233v1 Announce Type: new Abstract: How can language model agents effectively leverage libraries of reusable knowledge to solve long-horizon tasks? Recent work has increasingly focused on agent skills: reusable capabilities represented as skill packages, i.e., multi-file bundles…</p>
+      <span class="src">arXiv cs.AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09306">Gradland: On Phenomenal Experience, Differentiated Across Many Dimensions</a></h4>
+      <p>arXiv:2609.09306v1 Announce Type: new Abstract: This paper investigates the hypothesis that the first-order structure of physical interactions, i.e. gradients or Jacobians, characterizes the structure of phenomenal experience. It does so in an idealized world inhabited by neural networks,…</p>
+      <span class="src">arXiv cs.AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09374">An Autonomous GeoAI Agent for Arctic Eco-Navigation</a></h4>
+      <p>arXiv:2609.09374v1 Announce Type: new Abstract: Arctic maritime navigation is becoming increasingly important as changing sea-ice conditions expand seasonal accessibility while simultaneously introducing substantial operational, environmental, and community risks. Arctic route planning is…</p>
+      <span class="src">arXiv cs.AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09395">The Menu Is an Execution Prior: State-Path Tool Menus for Online Agents</a></h4>
+      <p>arXiv:2609.09395v1 Announce Type: new Abstract: Language models act through tools, yet practical agents face libraries containing thousands of interfaces. We introduce the tool menu as the short, ordered subset of available tools shown to an agent before execution. The agent can call only tools in…</p>
+      <span class="src">arXiv cs.AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09413">Decision-Focused Active Learning for Scale-Aware Critical-Materials Recovery</a></h4>
+      <p>arXiv:2609.09413v1 Announce Type: new Abstract: Choosing a recovery process for scale-up requires connecting laboratory results with product requirements, process costs, and scale effects. We analyze records from Pacific Northwest National Laboratory&#39;s Computer Intelligence for Critical Element…</p>
+      <span class="src">arXiv cs.AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09418">Valerant: An Automatic Navigable Game Map Generator via Action-Conditioned World Model Exploration</a></h4>
+      <p>arXiv:2609.09418v1 Announce Type: new Abstract: World Action Models (WAMs) couple predictive world modeling with action generation, allowing anticipated future states to guide agent behavior. Although WAMs are rapidly advancing embodied AI, general-purpose counterparts remain largely unexplored in…</p>
+      <span class="src">arXiv cs.AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09428">XAI-Arena: Can LLMs Assess the Quality of XAI Explanations?</a></h4>
+      <p>arXiv:2609.09428v1 Announce Type: new Abstract: Evaluating the quality of explanations produced by explainable AI (XAI) methods remains challenging because existing approaches often rely on subjective human judgment, limiting reproducibility, scalability, and comparability between studies. We…</p>
+      <span class="src">arXiv cs.AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09448">Do Agents Know When They Succeed? Calibrating Agent Confidence from Internal Representations</a></h4>
+      <p>arXiv:2609.09448v1 Announce Type: new Abstract: As agentic systems getting adopted rapidly in safety critical applications, it is vital to measure the confidence associated with the agentic actions. In comparison to the traditional machine learning systems, agentic workflows have complex failure…</p>
+      <span class="src">arXiv cs.AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09458">ContractEval: Query-Conditioned Execution Matching for Procedural Instruction Conformance</a></h4>
+      <p>arXiv:2609.09458v1 Announce Type: new Abstract: As LLM agents move from answering questions to carrying out procedures, failures can be unwarranted rather than visibly wrong: the final response looks acceptable even though the system skipped the check, branch, dependency, or invariant that made…</p>
+      <span class="src">arXiv cs.AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09565">Multi-Agent Agentic Graph Learning via Structural Signatures</a></h4>
+      <p>arXiv:2609.09565v1 Announce Type: new Abstract: Agentic graph learning (AGL) has recently achieved promising results on graph reasoning tasks, where an agent powered by a large language model (LLM) sequentially samples the graph as evidence to support its final prediction. Existing methods either…</p>
+      <span class="src">arXiv cs.AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09578">CityPlanner: A Sandbox Agent for Executable Urban Planning</a></h4>
+      <p>arXiv:2609.09578v1 Announce Type: new Abstract: Urban planning is a real-world spatial optimization problem that requires selecting feasible actions from large candidate spaces under practical objectives such as cost and service quality. Existing optimization and reinforcement learning methods are…</p>
+      <span class="src">arXiv cs.AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09589">A Function-Space Approach to the Statistical Mechanics of Learning Dynamics</a></h4>
+      <p>arXiv:2609.09589v1 Announce Type: new Abstract: Deep neural networks exhibit regular macroscopic behavior despite highly nonlinear dynamics in vast parameter spaces. We develop a statistical-mechanical description of learning directly in function space, treating parameter configurations as…</p>
+      <span class="src">arXiv cs.AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09625">From State Synchronization to Cognitive Self-Evolution: An Operational Architecture for Cognitive Digital Twins</a></h4>
+      <p>arXiv:2609.09625v1 Announce Type: new Abstract: As Digital Twin (DT) systems evolve beyond state synchronization toward task-oriented and knowledge-driven operation, Cognitive Digital Twins (CDTs) have emerged as an extension that incorporates cognitive capabilities into twin operation. Existing…</p>
+      <span class="src">arXiv cs.AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09627">Seven Sources of Physical AI Capability Formation</a></h4>
+      <p>arXiv:2609.09627v1 Announce Type: new Abstract: Capabilities relevant to Physical AI can arise from materially different formation histories, yet existing taxonomies organized by morphology, architecture, learning algorithm, task, or domain do not directly answer what gives rise to a capability.…</p>
+      <span class="src">arXiv cs.AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09646">RobustSGPO: Search-Space Control for Agent Harness Evolution</a></h4>
+      <p>arXiv:2609.09646v1 Announce Type: new Abstract: Semantic-gradient-based prompt optimization (SGPO) improves agent harnesses using execution feedback, but its local update rule leaves the choice of edit scope and operation unresolved. We introduce RobustSGPO, which specifies the requested edit,…</p>
+      <span class="src">arXiv cs.AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09647">Black-Box Red Teaming of Agentic AI: A Taxonomy-Driven Framework for Automated Risk Discovery</a></h4>
+      <p>arXiv:2609.09647v1 Announce Type: new Abstract: Agentic systems are rapidly moving to production, where they read untrusted inputs, call tools with real permissions, and act autonomously, expanding the security surface beyond chat-only models. Yet standard evaluations remain single-turn and fail…</p>
+      <span class="src">arXiv cs.AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09657">RESCUE-BENCH: Towards Relation-Aware Multi-Party Emotional Support Conversation Systems</a></h4>
+      <p>arXiv:2609.09657v1 Announce Type: new Abstract: Existing emotional support conversation systems mainly focus on one-on-one seeker-supporter interactions and individual emotional states, leaving interpersonal relations in multi-party scenarios underexplored. In this work, we introduce…</p>
+      <span class="src">arXiv cs.AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09664">PRAGMA: Evaluating Personalized Guidance with Memory Alignment in Lifelong Conversations</a></h4>
+      <p>arXiv:2609.09664v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed as personalized assistants that interact with users over extended periods of time. As conversations grow longer, relying on full interaction histories becomes increasingly inefficient and…</p>
+      <span class="src">arXiv cs.AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09166">X-CoSD: Communication-Efficient Cross-Vocabulary Collaborative Speculative Decoding</a></h4>
+      <p>arXiv:2609.09166v1 Announce Type: new Abstract: This paper investigates collaborative speculative decoding (CoSD), a distributed large language model (LLM) inference framework in which an on-device small language model (SLM) drafts candidate tokens and a server LLM verifies them. Existing CoSD…</p>
+      <span class="src">arXiv cs.CL</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09264">StochBench: A Domain-Specific Benchmark for Stochastic Processes in Lean</a></h4>
+      <p>arXiv:2609.09264v1 Announce Type: new Abstract: Leading benchmarks for formal theorem proving with large language models are small collections drawn from competition math, such as the IMO and Putnam, that poorly represent field-specific applications. We introduce StochBench, a Lean 4 benchmark of…</p>
+      <span class="src">arXiv cs.CL</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09338">Osprey: Target-agnostic Pre-training Makes Stronger Drafters in Speculative Decoding</a></h4>
+      <p>arXiv:2609.09338v1 Announce Type: new Abstract: Speculative decoding is critical for accelerating LLM inference. However, the speedup is fragile: drafters are typically trained against a narrow distribution for a single target model, and their acceptance rate collapses under workload shifts. This…</p>
+      <span class="src">arXiv cs.CL</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09349">SWORD: Wikidata-based Distortions Reveal Hidden Cross-Lingual Inconsistencies in LLM Factual Error Rejection</a></h4>
+      <p>arXiv:2609.09349v1 Announce Type: new Abstract: Modern LLMs demonstrate impressive multilingual performance, yet standard benchmarks primarily reward selecting correct answers rather than evaluating genuine factual understanding. We introduce Systematic Wikidata-based Object-Relation Distortion…</p>
+      <span class="src">arXiv cs.CL</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09356">Auditable Emergency Triage for Maternal and Newborn Care in India</a></h4>
+      <p>arXiv:2609.09356v1 Announce Type: new Abstract: At Noora Health, our nurses answer more than 50,000 medical queries per month on our WhatsApp-based service that provides caregivers with on-demand support. Their most time-critical task is emergency triage: deciding which queries need immediate…</p>
+      <span class="src">arXiv cs.CL</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09363">Do LLMs Make More Mistakes If They Do Not Believe the Input Data?</a></h4>
+      <p>arXiv:2609.09363v1 Announce Type: new Abstract: Large language models (LLMs) are prone to hallucinating or misinterpreting facts, which impairs their usability in retrieval-augmented generation or data-to-text systems. We analyse how faithfulness of LLMs to provided context depends on how…</p>
+      <span class="src">arXiv cs.CL</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09410">Benchmarking Hybrid Deep Research Across Database Querying and Web Search</a></h4>
+      <p>arXiv:2609.09410v1 Announce Type: new Abstract: While autonomous agents have made significant strides in &#34;deep research&#34; by iteratively navigating the open web to synthesize information, real-world problem-solving is rarely confined to a single environment. Complex analytical tasks inherently…</p>
+      <span class="src">arXiv cs.CL</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09425">Edu-QuRating: Multi-Dimensional Educational Data Curation with Distilled Pairwise Judgements</a></h4>
+      <p>arXiv:2609.09425v1 Announce Type: new Abstract: Educational data filters have become a practical way to improve language-model pre-training, but most filters treat educational value as a single scalar property. This may be too broad for some applications, especially if the data set already…</p>
+      <span class="src">arXiv cs.CL</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09496">The Mutations of Machine Speech</a></h4>
+      <p>arXiv:2609.09496v1 Announce Type: new Abstract: Algorithmic outputs now populate the digital environments through which contemporary life is organized. The role of law in facilitating and constituting (rather than merely responding to) these processes is gaining increasing traction across…</p>
+      <span class="src">arXiv cs.CL</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09552">TEFM: Token-Efficient Faithful Modeling for Structured Data</a></h4>
+      <p>arXiv:2609.09552v1 Announce Type: new Abstract: In this paper, we solve two fundamental obstacles in applying LLMs to critical domains: token efficiency and faithfulness. To address both constraints jointly, we present TEFM (Token-Efficient Faithful Modeling), a framework designed for structured…</p>
+      <span class="src">arXiv cs.CL</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09554">BuzzASR: A Swarm of 100+ Monolingual Speech Recognition Models</a></h4>
+      <p>arXiv:2609.09554v1 Announce Type: new Abstract: We introduce BuzzASR, a collection of language-specialized fine-tuned Whisper models adapted for automatic speech recognition (ASR) in 102 languages. Large end-to-end Transformer-based ASR models such as Whisper have revolutionized ASR, but most…</p>
+      <span class="src">arXiv cs.CL</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09561">Towards Automatic Evolution Tree Generation from Citation Graphs</a></h4>
+      <p>arXiv:2609.09561v1 Announce Type: new Abstract: Surveys remain the primary way researchers grasp the lineage of methods within an AI subfield, but they scale poorly against the current rate of publication. Existing taxonomy-induction methods are largely leaf-bound and time-agnostic; they tend to…</p>
+      <span class="src">arXiv cs.CL</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09569">Reproducing Omitted Temporal Expressions in Japanese News for Retrieval-Augmented Applications</a></h4>
+      <p>arXiv:2609.09569v1 Announce Type: new Abstract: News articles often contain omitted temporal expressions, such as day-only or month-only mentions, which must be interpreted with reference to the publication date. When such articles are indexed or processed as standalone text in search and…</p>
+      <span class="src">arXiv cs.CL</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09575">Beyond Top Words: MonoTM for Topic Modeling with Interpretable Monosemantic Features</a></h4>
+      <p>arXiv:2609.09575v1 Announce Type: new Abstract: Topic models summarize large text corpora, but top-ranked words often provide only a limited representation of topic semantics. Sparse autoencoders (SAEs) offer a way to move beyond word-level descriptors by extracting interpretable features from…</p>
+      <span class="src">arXiv cs.CL</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09672">SEA-SpeechBench: A Large-Scale Multitask Benchmark for Speech Understanding Across Southeast Asia</a></h4>
+      <p>arXiv:2609.09672v1 Announce Type: new Abstract: The rapid advancement of audio and multimodal large language models has unlocked transformative speech understanding capabilities, yet evaluation frameworks remain predominantly English-centric, leaving Southeast Asian (SEA) languages critically…</p>
+      <span class="src">arXiv cs.CL</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09677">X2-NativeCursor: Native-Token Text Progress Tracking for Incremental-Text Streaming Codec TTS</a></h4>
+      <p>arXiv:2609.09677v1 Announce Type: new Abstract: Incremental-text streaming text-to-speech (TTS) needs online text progress tracking for synchronized highlighting, interruption handling, and dialogue-history updates. Input text arrives before it is spoken, so text arrival alone cannot indicate…</p>
+      <span class="src">arXiv cs.CL</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09684">Which Medical Questions Deserve Rationales? Perturbation-Sensitive Selection for Robust QA</a></h4>
+      <p>arXiv:2609.09684v1 Announce Type: new Abstract: Medical question-answering datasets often contain answer labels, whereas high-quality rationales remain scarce, noisy, or costly to validate. This changes the acquisition question: rather than asking which questions should be labeled, we ask which…</p>
+      <span class="src">arXiv cs.CL</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09691">Looped GPT-BERT: Trading Parameters for Computation in Small Language Modeling</a></h4>
+      <p>arXiv:2609.09691v1 Announce Type: new Abstract: When training data are limited, increasing parameter count is not the only way to improve language-model performance. A small parameter set, when repeatedly applied, can also deliver comparable performance. We study Looped GPT-BERT in the BabyLM 2026…</p>
+      <span class="src">arXiv cs.CL</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09696">When Auditors Fabricate: Batch-Size Degradation and Confident Hallucination in LLM Detection of Planted Document Contamination</a></h4>
+      <p>arXiv:2609.09696v1 Announce Type: new Abstract: Large language models are increasingly proposed as automated auditors of document quality, yet their reliability as detectors of planted errors is poorly characterised. We construct a contaminated corpus of 150 academic papers spanning supply chain…</p>
+      <span class="src">arXiv cs.CL</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09716">Scaling E-Commerce Attribute Extraction with Parallel Decoding</a></h4>
+      <p>arXiv:2609.09716v1 Announce Type: new Abstract: Customers rely on specific product attributes to compare products and make purchasing decisions, but e-commerce catalogs are messy and unstructured, making it difficult to identify which attributes matter most and extract them at scale. Standard…</p>
+      <span class="src">arXiv cs.CL</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09159">Spectral origin of the topological gap exponent d + {\eta}: mechanism, kernel, decomposition, and scope</a></h4>
+      <p>arXiv:2609.09159v1 Announce Type: new Abstract: The topological gap $\Delta$ -- the excess $H_1$ total persistence of a critical point cloud over a density-matched null -- scales as $\Delta \sim L^{d+\eta}$. We derive this analytically: the spectral integral $I(\alpha) = \sum_{k\neq 0}…</p>
+      <span class="src">arXiv cs.LG</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09162">Physics-informed neural networks by Gradient-Guided Gaussian Adaptive Sampling (3GAS-PINNs)</a></h4>
+      <p>arXiv:2609.09162v1 Announce Type: new Abstract: Physics-informed neural networks (PINNs) provide a mesh-free framework for solving partial differential equations, yet their performance in nonlinear problems is often limited by slow convergence, gradient imbalance, and insufficient resolution to…</p>
+      <span class="src">arXiv cs.LG</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09163">World-Time Compute with Verified Code World Models</a></h4>
+      <p>arXiv:2609.09163v1 Announce Type: new Abstract: LLMs generalize across a domain only after seeing many real, labeled examples, which most domains lack. We study a way to manufacture it cheaply. When a domain&#39;s dynamics can be written as code, one template instantiates into many world models:…</p>
+      <span class="src">arXiv cs.LG</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09240">Scaling Post-Training Ternarisation to Qwen3-8B Capability Retention, Reproduction, Lossless Packing, and Packed Execution</a></h4>
+      <p>arXiv:2609.09240v1 Announce Type: new Abstract: Ultra-low-bit language models promise reductions in storage and memory traffic, but a nominal &#34;1.58-bit&#34; label does not specify the deployed representation or its execution cost. We study a scale-up of an aggressive post-training conversion pipeline…</p>
+      <span class="src">arXiv cs.LG</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09241">Distribution-Consistent Inference for Dynamic Sparse Mixture-of-Experts</a></h4>
+      <p>arXiv:2609.09241v1 Announce Type: new Abstract: Mixture-of-Experts (MoE) architectures have emerged as a powerful paradigm for scaling model capacity while preserving efficient inference in large foundation models. However, most MoE models use a fixed top-$k$ expert selection policy, assigning the…</p>
+      <span class="src">arXiv cs.LG</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09254">DiffLUT-Net: Differentiable Training of FPGA LUT Networks with Learnable Connectivity</a></h4>
+      <p>arXiv:2609.09254v1 Announce Type: new Abstract: Field-programmable gate arrays (FPGAs) enable efficient neural-network inference, but most deployment flows either accelerate multiply-accumulate operations or convert pretrained quantized models into lookup tables (LUTs). We present DiffLUT-Net, an…</p>
+      <span class="src">arXiv cs.LG</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09257">Accountable and uncertainty-aware evaluation of sensor-based AI under distribution shift: devices, subjects, and nearly three years underground</a></h4>
+      <p>arXiv:2609.09257v1 Announce Type: new Abstract: Sensor-based AI systems are rarely operated under the conditions under which they were trained: devices, personnel and recording epochs change, and each change degrades performance in ways a random train-test split cannot reveal. We propose a staged,…</p>
+      <span class="src">arXiv cs.LG</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09299">Literati: Towards Anytime Optimal Shape Generalized Trees via AO*</a></h4>
+      <p>arXiv:2609.09299v1 Announce Type: new Abstract: Decision trees are prized for their interpretability and strong performance on tabular data, but popular greedy top-down induction algorithms can yield suboptimal and unnecessarily complex structures. Optimal decision tree methods address this…</p>
+      <span class="src">arXiv cs.LG</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09367">Explaining f-Divergence-Based Regularization via Local Curvature and Sharpness-Aware Minimization</a></h4>
+      <p>arXiv:2609.09367v1 Announce Type: new Abstract: Divergence-based regularization and Sharpness-Aware Minimization (SAM) are two prominent approaches for improving generalization in deep learning, both motivated by robustness to perturbations. However, their relationship has remained largely…</p>
+      <span class="src">arXiv cs.LG</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09370">Constraint-Aware Discrete Black-Box Optimization Using Tensor Decomposition</a></h4>
+      <p>arXiv:2609.09370v1 Announce Type: new Abstract: Discrete black-box optimization is often addressed using approaches such as Sequential Model-Based Optimization (SMBO), which aims to improve sample efficiency by fitting surrogate models that approximate a costly objective function over a discrete…</p>
+      <span class="src">arXiv cs.LG</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09388">XAI-Refine: An Automated Explanation-Knowledge Loop for Brain-Age Prediction</a></h4>
+      <p>arXiv:2609.09388v1 Announce Type: new Abstract: Brain-age prediction models are commonly evaluated by predictive accuracy, yet accurate predictions alone do not establish that a model relies on reproducible or neurobiologically supported mechanisms. Post-hoc explanation methods can expose these…</p>
+      <span class="src">arXiv cs.LG</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09429">Applying foundation model embeddings towards urban livability evaluation</a></h4>
+      <p>arXiv:2609.09429v1 Announce Type: new Abstract: While accurate measurement of socioeconomic indicators remains challenging in data-scarce regions, which limits policy interventions and resource allocation, high-resolution geospatial data is widely available and can contain information on various…</p>
+      <span class="src">arXiv cs.LG</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09432">SCCM : Stream Cruise Control Method for Automated Drift Detection and Adaptation</a></h4>
+      <p>arXiv:2609.09432v1 Announce Type: new Abstract: Real-world datasets often exhibit evolving distributions, known as concept drift. Ignoring drift degrades predictive performance, while reliance on fixed hyperparameters further limits model adaptability under changing conditions. Adaptive learning…</p>
+      <span class="src">arXiv cs.LG</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09433">Efficient Leakage-Free Neural Architecture Search under Leave-One-Subject-Out Evaluation</a></h4>
+      <p>arXiv:2609.09433v1 Announce Type: new Abstract: Leave-One-Subject-Out (LOSO) evaluation estimates generalisation performance for subject-based classification but makes Neural Architecture Search (NAS) computationally expensive because a fully nested implementation requires N independent…</p>
+      <span class="src">arXiv cs.LG</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09434">Tensor-Train Weak SINDy: Identifying High-Dimensional Nonlinear Dynamics</a></h4>
+      <p>arXiv:2609.09434v1 Announce Type: new Abstract: In recent years, weak-form methods have made significant advances in data-driven discovery of dynamical systems. However, in high-dimensional settings, current techniques can prove expensive in both computation and memory. In this work, we introduce…</p>
+      <span class="src">arXiv cs.LG</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09451">Uncertainty-Aware Sea-Ice Type Mapping with Multiple Ice Charts</a></h4>
+      <p>arXiv:2609.09451v1 Announce Type: new Abstract: Sea-ice stage of development (SoD) describes the age and associated thickness of sea ice and provides important information for navigation, and operational ice monitoring. SoD labels are obtained from operational ice charts, where trained analysts…</p>
+      <span class="src">arXiv cs.LG</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09466">Exact-Form Regret for Gradient Descent, Mirror Descent and Follow-the-Regularized-Leader</a></h4>
+      <p>arXiv:2609.09466v1 Announce Type: new Abstract: Online gradient descent is usually studied through external regret, where the learner competes with fixed alternatives. Recent work shows that first-order methods control richer action-dependent deviations. We ask for a geometric characterization of…</p>
+      <span class="src">arXiv cs.LG</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09468">Building the Harness Automatically: Self-Play in Code Distills a Text Harness for Black-Box Optimization</a></h4>
+      <p>arXiv:2609.09468v1 Announce Type: new Abstract: Can an agent learn a numerical search strategy through executable practice and then transfer that strategy as text? We study low-budget black-box optimization, where unaided language models remain well below strong classical optimizers. During…</p>
+      <span class="src">arXiv cs.LG</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09476">From Fixed Keys to Readable Schemas: Small Language Models for Vehicle Agent Function Calls</a></h4>
+      <p>arXiv:2609.09476v1 Announce Type: new Abstract: In-vehicle assistants must translate natural-language requests into accurate vehicle function calls under strict memory and latency constraints, making small language models (SLMs) attractive for on-device deployment. For such models, a key design…</p>
+      <span class="src">arXiv cs.LG</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arxiv.org/abs/2609.09478">Unthrottling the Tanh Jacobian in SAC: A Negative Result on Bang-Bang Control and MetaDrive</a></h4>
+      <p>arXiv:2609.09478v1 Announce Type: new Abstract: Soft Actor-Critic (SAC) represents a continuous policy as an unbounded Gaussian that is squashed by tanh. The Jacobian of that map is $\partial a/\partial u = 1-a^2$, which vanishes as $|a|\to 1$. A natural concern is that this throttle starves the…</p>
+      <span class="src">arXiv cs.LG</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.latent.space/p/ainews-not-much-happened-today-d3b">[AINews] not much happened today</a></h4>
+      <p>a quiet day</p>
+      <span class="src">Latent Space</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.alignmentforum.org/posts/eRmzz8J8Qkzqvzrgg/astra-can-do-a-concerning-amount-with-no-chain-of-thought">Astra can do a concerning amount with no chain of thought</a></h4>
+      <p>TLDR : Astra has 8.6x better odds of doing a reasoning task without CoT than the next best model (Fable 5.1), and can do 7.2 serial arithmetic steps in a forward pass vs 4.1 for the next best model (Gemini 3.8 Flash/Fable 5.1) Epistemic status: Heavily LLM-dependent research, and the precise…</p>
+      <span class="src">Alignment Forum</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://simonwillison.net/2026/Sep/10/calif-research/">Quoting Calif Research</a></h4>
+      <p>Today, we&#39;re releasing a demo of WeWorm, the first zero-click worm to spread through WeChat calls across iOS and Android. [...] The victim does not need to answer the call, or interact with their phone at all. Even if they do answer, they hear nothing, and the exploit still succeeds. [...] Working…</p>
+      <span class="src">Simon Willison</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://simonwillison.net/2026/Sep/9/blender-viewer/">.blend URL Viewer</a></h4>
+      <p>Tool: .blend URL Viewer I&#39;m continuing to have a lot of fun with GPT-6 Astra and Blender (see my TIL ). As a big fan of the Imperial Fabergé Easter eggs , I&#39;ve always thought it would be fun to make some new ones that celebrate popular culture. Yesterday I decided to try out the new ChatGPT Images…</p>
+      <span class="src">Simon Willison</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://github.com/Da7-Tech/SureForge">Da7-Tech/SureForge: Agent Skill for complex work: research before asking, ask before planning, plan before building, verify before delivering, independent review before calling it done. Plain text,…</a></h4>
+      <p>Agent Skill for complex work: research before asking, ask before planning, plan before building, verify before delivering, independent review before calling it done. Plain text, no runtime.</p>
+      <span class="src">GitHub Trending</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://github.com/eskim2001/dsh-cloud">eskim2001/dsh-cloud: dshcloud：部署并托管 DeepSeek Harness (dsh) 实例的多租户平台，支持自托管或云端部署。Deploy and host DeepSeek Harness (dsh) instances — self-hosted on your own server or cloud-hosted: a multi-tenant…</a></h4>
+      <p>dshcloud：部署并托管 DeepSeek Harness (dsh) 实例的多租户平台，支持自托管或云端部署。Deploy and host DeepSeek Harness (dsh) instances — self-hosted on your own server or cloud-hosted: a multi-tenant platform with isolated Docker containers, persistent workspaces and resource quotas.</p>
+      <span class="src">GitHub Trending</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://github.com/Vincentwei1021/anything2explainer">Vincentwei1021/anything2explainer: Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover,…</a></h4>
+      <p>Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.</p>
+      <span class="src">GitHub Trending</span>
+    </div>
+    
+  
+
+  
+
+  <footer>
+    Generated 2026-09-10T04:55+00:00 UTC
+    
+    &middot; <a href="../index.html">all reports</a>
+  </footer>
+</div>
+</body>
+</html>
