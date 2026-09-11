@@ -1,0 +1,495 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Markets do respond to AGI news",
+   "summary": "Here is the link. The post Markets do respond to AGI news appeared first on Marginal REVOLUTION .",
+   "why_it_matters": "",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/09/markets-do-respond-to-agi-news.html?utm_source=rss&utm_medium=rss&utm_campaign=markets-do-respond-to-agi-news",
+   "source": "Marginal Revolution"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Best Qwen 3.8 for 5090 and 64gb Ram?",
+     "summary": "I wanna run qwen 3.8 27B on my 5090. Which specific version should I use in terms of quant and such? Primary use case is Hermes agent with some coding too. I would like it to have voice as well I was also considering Hermes model as it\u2019s less censored but I heard it doesn\u2019t work with Hermes agent\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wd660a/best_qwen_38_for_5090_and_64gb_ram/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Any tools to turn a codebase into a fine tuning dataset? [D]",
+     "summary": "I have a few web projects with pretty good UI/UX and I\u2019m wondering if there\u2019s any tool or workflow that can turn an existing codebase into a dataset for fine tuning. For example, given a React/Next.js project with components, pages, styling, etc. or a static html site, I\u2019d like to turn it into\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wd5zkk/any_tools_to_turn_a_codebase_into_a_fine_tuning/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Why is TMLR so slow in recent times [D]",
+     "summary": "A final-year PhD student here. A few months back, I submitted a solo-authored paper to TMLR. The reviewers were on time and extremely positive, with some minor revisions. After submitting the revised version, there was absolute silence from the reviewers, with just one acknowledging that their\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wd5mki/why_is_tmlr_so_slow_in_recent_times_d/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Someone apparently managed to kind of replicate what V4.1 flash does on KV for fast prefill on Qwen",
+     "summary": "I wonder someone will figure out a way to do this with 27B? Throw Qwen3 on this page for demo https://kishida.github.io/webdemos/llkvapprox/ submitted by /u/T_rex2700 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wd4xxv/someone_apparently_managed_to_kind_of_replicate/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "The release of OpenAi's internal model 'Bel' is going to be the most hyped of all time.",
+     "summary": "Assuming all three proofs for the Millennium problems (Navier Stokes, The Hodge Conjecture & Potentially BSD) check out, Bel is going to be the most in-demand model of all time. What happens afterwards, who knows. If these results actually hold up, Bel won\u2019t just be another frontier model people\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wd3gj5/the_release_of_openais_internal_model_bel_is/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Let me get this straight: Mathematics community responds to AI by threatening the participants, most of them are just students?",
+     "summary": "On September 10, mathematicians published an open letter demanding the cancellation of the Caltech Mathathon, a student-run hackathon where 100 teams would use frontier LLMs on open problems, backed by $2M in credits from Anthropic and OpenAI. One clause warns that participation could damage\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wd2i9r/let_me_get_this_straight_mathematics_community/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "New Music Model YuE2-3B Released!",
+     "summary": "Surprised no one has posted it in this sub. Pretty solid model, IMHO. Demo: https://map-yue2.github.io/ submitted by /u/Acceptable-Cycle4645 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wd19c7/new_music_model_yue23b_released/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "How far can you prompt Astra? 1 prompt vs 200 prompts with Blender",
+     "summary": "The original prompt: \"Using Blender, build the Twin Towers/WTC (NYC) at a photoreal level. Look up all references to ensure every part of the building is accurate 1:1; all curves, the roof detail, the shading, the spire, etc. Ensure the final result is one that would pass as photoreal in a movie\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wd0yu9/how_far_can_you_prompt_astra_1_prompt_vs_200/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "YuE2 \u00b7 Frontier Music with Symbolic Planning",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49652028",
+     "url": "https://map-yue2.github.io/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Granular diff versioning for agent editing",
+     "summary": "Had some ideas about version control: Attribute, down to individual words: word created manually or with ai. if ai, which sources cited (scoped to paragraphs). also: full agent trace that led to the edit (all tool calls + metadata). also: any multi-agent transactions at the file/paragraph lock.\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wd0nja/granular_diff_versioning_for_agent_editing/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "All according to plan",
+     "summary": "submitted by /u/fzem [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wd05zw/all_according_to_plan/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49651372",
+     "url": "https://system76.com/workstations/thelio-mira-ai",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Is DeepSeek V4.1-Flash\u2019s SWA replay a free lunch, or does recall drop when the local KV is rebuilt?",
+     "summary": "DeepSeek-V4.1-Flash uses SWA Bounded Replay to avoid persisting the sliding window KV cache and saves massive memory, it discards the SWA KV and, on replay, approximately reconstructs it from only the last N_window tokens, even though the original SWA states had a much larger effective receptive\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcywl4/is_deepseek_v41flashs_swa_replay_a_free_lunch_or/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Are inference providers able to make any margins?",
+     "summary": "Spoke with many providers who lurk in this sub, plus met folks who work in inference. For a 10k monthly revenue, a provider was able to retain only 200 dollars in profit due to GPU costs. Their customers were negotiating the prices down to what other players cost for same, and it feels like major\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcyuhf/are_inference_providers_able_to_make_any_margins/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "First time?",
+     "summary": "First time? submitted by /u/tryingeasy [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wcynv9/first_time/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Anthropic CEOs wife once asked Epstein to fund porn venture \u2013 now steers Claude",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49651084",
+     "url": "https://nypost.com/2026/08/14/business/anthropic-ceos-wife-once-asked-jeffrey-epstein-to-fund-porn-venture-now-she-helps-steer-the-claude-ai-empire/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "OpenAI pauses Pro subscriptions due to overwhelming demand (is there a chance it never opens up again... ever?)",
+     "summary": "submitted by /u/Charuru [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wcxzn3/openai_pauses_pro_subscriptions_due_to/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Artificial Analysis is not \"broken\", and they prove it.",
+     "summary": "Like many of you, I have seen many posts and tweets in the last weeks complaining about Artificial Analysis being \"broken\", \"meaningless\", and \"bought out.\" People who say this have done no research and know very little about how benchmarks work and what they measure. Most people only care about\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcxxm8/artificial_analysis_is_not_broken_and_they_prove/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Open Letter from 1000 mathematicians against AI use for math",
+     "summary": "submitted by /u/Charuru [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wcxwn7/open_letter_from_1000_mathematicians_against_ai/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "How to surf the web?",
+     "summary": "Hey folks! I'm always a little bit late to the party, but learning nontheless. After I'm comfortable running agents on my Pi I'm now in need of them to get access to the world wide web and wanted to ask what local ways you are going? I remember there were discussions about going html2md like with\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcxa2v/how_to_surf_the_web/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "OpenAI Withdraws Sponsorship of Caltech Mathathon",
+     "summary": "Heavyweight list of signatories: Peter Scholze - One of the most brilliant mathematicians of this generation, 2018 Fields Medal Winner Hugo Duminil-Copin - One of the world's leading probability/statistical-physics mathematicians, 2022 Fields medal Winner James Maynard - 2022 Fields Medal Winner\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wcwmdg/openai_withdraws_sponsorship_of_caltech_mathathon/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Faster than Light in Air: 8-22 tg/s Qwen3.8-Flash-Next (Q4/Q4ish) on a 32GB M4 MacBook Air",
+     "summary": "I believe I may currently hold the record for memory constrained inference for Qwen3.8\u2013Flash-Next on Apple Silicon \u2014 needing only about 21GB of allocations. Introducing Cherenkov , an inference engine for Apple Silicon combining predictive expert streaming with optional mixed-precision execution.\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcwith/faster_than_light_in_air_822_tgs_qwen38flashnext/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Muse-glimmer-30b really punches above its weight(s) for creative writing",
+     "summary": "After noticing that it is ranked among MUCH larger frontier models in the EQ-Bench Creative Writing benchmark and the Hemingway-bench , I decided to give it a try and was very impressed. I didn't do very formal testing, but I did ask it to emulate the style of several different writers, including\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcwa7i/museglimmer30b_really_punches_above_its_weights/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Qwen, Kimi and DeepSeek ran industrial Claude distillation: Alibaba 151M exchanges, Moonshot 23M, DeepSeek 12M in 14 days. Kimi and DeepSeek also secretly served Opus to their own users and\u2026",
+     "summary": "submitted by /u/likeastar20 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wcw6m0/qwen_kimi_and_deepseek_ran_industrial_claude/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "\u201cI turned the fly bisexual\u201d",
+     "summary": "https://x.com/nicochristie/status/2098106823970828606 submitted by /u/AugusteToulmouche [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wcw4al/i_turned_the_fly_bisexual/",
+     "source": "r/singularity"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
+     "summary": "AI leaders worry antitrust law could stand in the way of what they view as an increasingly urgent push to coordinate a slowdown in AI development.",
+     "url": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+     "summary": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
+     "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+     "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses.",
+     "url": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Slack can now vibe-code interactive charts and reports inside chats",
+     "summary": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce Surfaces, you can describe to Slackbot what you need, and it will use AI to gather information from relevant\u2026",
+     "url": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+     "summary": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
+     "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+     "source": "TechCrunch AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "The strawberry thing was very funny but probably gave people the wrong impression of where AI was heading in math.",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mv6zkaqnqc2v"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Markets do respond to AGI news",
+     "summary": "Here is the link. The post Markets do respond to AGI news appeared first on Marginal REVOLUTION .",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/markets-do-respond-to-agi-news.html?utm_source=rss&utm_medium=rss&utm_campaign=markets-do-respond-to-agi-news",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Is there now a better trend in youth mental health?",
+     "summary": "A key U.S. government report on mental health, substance use and addiction showed continued improvements in several metrics, especially among young people. There was some uncertainty about the future of the National Survey on Drug Use and Health last year, when the entire 17-member team\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/is-there-now-a-better-trend-in-youth-mental-health.html?utm_source=rss&utm_medium=rss&utm_campaign=is-there-now-a-better-trend-in-youth-mental-health",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Data-Efficient Language Modeling: From Frontier Advancement to Principle-Guided Model Improvement",
+     "summary": "arXiv:2609.10702v1 Announce Type: new Abstract: Learning from limited text requires models to use context, generalize to new inputs, and retain useful capabilities. Qiushi Engine conducted a long-horizon, end-to-end autonomous research program on BabyLM 2026 Strict-Small, within 10 million corpus\u2026",
+     "url": "https://arxiv.org/abs/2609.10702",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction",
+     "summary": "arXiv:2609.10715v1 Announce Type: new Abstract: We introduce NCP-ArchPreview, a latent-space language model that pushes autoregressive pretraining beyond standard next-token prediction (NTP). Alongside NTP, the model learns through Next Concept Prediction (NCP) to predict discrete concepts that\u2026",
+     "url": "https://arxiv.org/abs/2609.10715",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "CMNIE: An Information Extraction Benchmark for Chinese Military News",
+     "summary": "arXiv:2609.10722v1 Announce Type: new Abstract: Structured extraction from Chinese military news supports intelligence analysis, decision-making, and knowledge base construction. However, existing resources provide limited support for joint informa?tion extraction in this domain, especially when\u2026",
+     "url": "https://arxiv.org/abs/2609.10722",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Think Before You Link: Rarity, Reasoning, and Retrieval in Multilingual Entity Linking",
+     "summary": "arXiv:2609.10745v1 Announce Type: new Abstract: Multimodal entity linking grounds entity mentions in text and images to knowledge-base entries. These systems degrade on rare entities, but prior work measures rarity primarily through popularity-based metrics such as pageviews. We broaden this view\u2026",
+     "url": "https://arxiv.org/abs/2609.10745",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Multilingual in Name Only? Cultural and Linguistic Weaknesses of LLMs in Urdu",
+     "summary": "arXiv:2609.10758v1 Announce Type: new Abstract: Multilingual large language models (LLMs) are increasingly used for open-ended text generation, yet their behaviour in low-resource languages remains poorly understood. In this work, we question how correct and reliable is the generation of\u2026",
+     "url": "https://arxiv.org/abs/2609.10758",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Analyzing Traditional and Neural Approaches to Multilingual Readability Assessment",
+     "summary": "arXiv:2609.10792v1 Announce Type: new Abstract: Transformer-based models excel at Automatic Readability Assessment (ARA), yet feature-based models remain in active use because their predictions tie back to linguistic properties. This matters because readability labels are subjective and\u2026",
+     "url": "https://arxiv.org/abs/2609.10792",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Larger Context Window, Fewer Overcorrections: Optimizing Prompts and Batching for Minimal-Edit Grammatical Error Correction",
+     "summary": "arXiv:2609.10810v1 Announce Type: new Abstract: Minimal-edit Grammatical Error Correction (GEC) is a challenging task for zero- and few-shot prompted Large Language Models (LLMs), which systematically overcorrect and degrade $F_{0.5}$ by rewriting well-formed spans. While fine-tuning provides an\u2026",
+     "url": "https://arxiv.org/abs/2609.10810",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Detectable Only Where It Is Confounded: What Verified Duplication Counts Say About Membership Evidence in Language Models",
+     "summary": "arXiv:2609.10830v1 Announce Type: new Abstract: When a language model finds a sentence unusually cheap to predict, it is tempting to conclude that the sentence was in its training data. Almost every published test of that inference has had to guess which sentences were in the training data, the\u2026",
+     "url": "https://arxiv.org/abs/2609.10830",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Does Linguistic Structure Enrichment Enhance Coherence Assessment? Not With Current Architectures",
+     "summary": "arXiv:2609.10893v1 Announce Type: new Abstract: Recent advances in large language models have transformed human-computer interaction. Despite their fluency, these models often produce texts that are grammatically correct but semantically incoherent, containing contradictions or disruptions in\u2026",
+     "url": "https://arxiv.org/abs/2609.10893",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "LLM-Anchored Paralinguistic Enrichment for Alzheimer's Disease Detection",
+     "summary": "arXiv:2609.10896v1 Announce Type: new Abstract: Speech-based automatic detection of Alzheimer's disease (AD) provides a non-invasive and scalable approach to early cognitive screening. AD affects both lexical-semantic organization and speech production, including atypical pauses and word\u2026",
+     "url": "https://arxiv.org/abs/2609.10896",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "SearchAtlas: Analyzing Agentic Search Strategies via Evidential Query Graphs",
+     "summary": "arXiv:2609.10901v1 Announce Type: new Abstract: LLM search agents are often evaluated on final-answer accuracy, overlooking the process. Analyzing a search strategy requires understanding how credible evidence is retrieved to address question constraints. This valuable information is buried in raw\u2026",
+     "url": "https://arxiv.org/abs/2609.10901",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Auto-RecSys: Harnessing Autonomous Research Agents for Industry-Scale Recommender System",
+     "summary": "arXiv:2609.10922v1 Announce Type: new Abstract: Auto-research agents have shown the potential to automate hypothesis generation, experiment execution, and iterative refinement. However, scaling this paradigm to industry-scale recommendation models introduces two challenges: (1) long feedback\u2026",
+     "url": "https://arxiv.org/abs/2609.10922",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Structurally Speaking: Motif-Oriented Graph Captioning through Bidirectional Graph-Text Translation",
+     "summary": "arXiv:2609.10923v1 Announce Type: new Abstract: Graph captions should help readers understand graph structure, rather than simply translate adjacency matrices into long textual edge lists. A useful graph caption abstracts connectivity into recognizable motifs, such as hubs, paths, cycles, cliques,\u2026",
+     "url": "https://arxiv.org/abs/2609.10923",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Using Semantic Uncertainty to Estimate Transition Relevance in Turn-taking",
+     "summary": "arXiv:2609.10934v1 Announce Type: new Abstract: Turn-taking is a fundamental mechanism that governs when interlocutors speak and listen. Although Spoken Dialogue Systems (SDS) exploit a range of linguistic, acoustic, and non-verbal cues, they produce ill-timed responses in unscripted interaction.\u2026",
+     "url": "https://arxiv.org/abs/2609.10934",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Robust Multimodal Sentiment Analysis with Incomplete Modalities via Semantic-aware Completeness based Reconstruction",
+     "summary": "arXiv:2609.10950v1 Announce Type: new Abstract: Recent multimodal sentiment analysis studies increasingly adopt text-centric fusion approaches to exploit the rich sentiment information inherent in the textual modality. However, these approaches often suffer from performance degradation during\u2026",
+     "url": "https://arxiv.org/abs/2609.10950",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Distribution-aware Language Neuron Identification in Multilingual Large Language Models",
+     "summary": "arXiv:2609.10993v1 Announce Type: new Abstract: Multilingual large language models (mLLMs) contain a small fraction of feed-forward neurons that are sensitive to particular languages, commonly termed language-specific neurons. Existing work measures language specificity using the entropy of each\u2026",
+     "url": "https://arxiv.org/abs/2609.10993",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Rethinking Verbalized Confidence for LLM-as-a-Judge: A Compatibility Shift on Post-2025 Proprietary Models",
+     "summary": "arXiv:2609.10996v1 Announce Type: new Abstract: Verbalized confidence, long dismissed as overconfident, coarse, and prone to round-number clustering, is now the more robust soft-scoring mechanism for LLM-as-a-Judge on top-tier proprietary models. Across SummEval, AggreFact, and HelpSteer2,\u2026",
+     "url": "https://arxiv.org/abs/2609.10996",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "K/V-Cache Interventions Dissociate Representation Alignment from Persona Expression in Decoder-Only Language Models",
+     "summary": "arXiv:2609.11020v1 Announce Type: new Abstract: We study K/V-cache interventions -- transplanting a target-conditioned K/V trajectory into a source-persona generation -- as a structured surface for persona control in decoder-only language models. Across 13 intervention configurations applied to\u2026",
+     "url": "https://arxiv.org/abs/2609.11020",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Rebalancing Token Importance in Language Models with TF-IDF Weighted Cross-Entropy Loss",
+     "summary": "arXiv:2609.11029v1 Announce Type: new Abstract: Large language models are typically trained under uniform token weighting, which allows frequent and low-information tokens to dominate learning and can increase the tendency to memorize surface-level text spans. To address this, we present an\u2026",
+     "url": "https://arxiv.org/abs/2609.11029",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "When Noise Fabricates Bias: The Fragility of LLM-as-a-Judge Bias Measurement under Noisy Text",
+     "summary": "arXiv:2609.11067v1 Announce Type: new Abstract: Large language models are increasingly used as judges to measure social bias in text, yet the passages they judge are often noisy, containing typos, informal spelling, and broken punctuation. The consequences of such surface noise for social bias\u2026",
+     "url": "https://arxiv.org/abs/2609.11067",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "M3-Former: Multimodal Transformer with Mixture-of-Experts for Long-Term Vessel Trajectory Prediction",
+     "summary": "arXiv:2609.10559v1 Announce Type: new Abstract: To address the challenges of behavioral multimodality, limited semantic utilization, and long-term error accumulation in vessel trajectory prediction, this paper proposes M3-Former, a multimodal trajectory prediction framework enhanced by large\u2026",
+     "url": "https://arxiv.org/abs/2609.10559",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Halo: Improving forecast accuracy through heteroscedastic estimation",
+     "summary": "arXiv:2609.10589v1 Announce Type: new Abstract: Heteroscedastic forecasting, where a network estimates a scale parameter alongside a location parameter, is normally motivated by uncertainty quantification. This paper shows it also improves the point estimate, in contrast to reported negative\u2026",
+     "url": "https://arxiv.org/abs/2609.10589",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Zero-shot rib design: merging training-free generative prior with topology optimization",
+     "summary": "arXiv:2609.10643v1 Announce Type: new Abstract: Natural load-bearing patterns such as leaf venation, trabecular bone, and spider webs achieve high stiffness per unit mass, yet classical topology optimizers rarely reach such geometries, and few let engineers express structural design intent through\u2026",
+     "url": "https://arxiv.org/abs/2609.10643",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Byzantine-Robust Federated Fire Detection with a Rotating Coordinator",
+     "summary": "arXiv:2609.10647v1 Announce Type: new Abstract: We study the application of federated learning (FL) to indoor fire detection. Such fire-detection systems use edge cameras that record sensitive footage which cannot easily be collected at a central server. Existing federated solutions leave three\u2026",
+     "url": "https://arxiv.org/abs/2609.10647",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Artificial Intelligence Algorithms for the Detection of Pathologies Related to Lung Cancer through Image Analysis using Convolutional Neural Networks and Data Augmentation: a systematic mapping of\u2026",
+     "summary": "arXiv:2609.10652v1 Announce Type: new Abstract: Lung cancer is one of the leading causes of death worldwide, and its early diagnosis is crucial to improving patients prognosis and quality of life. However, the process of interpreting medical images for the detection of lung cancer is complex and\u2026",
+     "url": "https://arxiv.org/abs/2609.10652",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "GEOSTEER: Geodesic Optimization for Activation Steering in Large Language Models",
+     "summary": "arXiv:2609.10658v1 Announce Type: new Abstract: Activation steering provides a lightweight way to control large language models (LLMs) by modifying their hidden activations at inference time. Among these approaches, norm-preserving steering aims to change model behavior without altering the\u2026",
+     "url": "https://arxiv.org/abs/2609.10658",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Conformal Calibration Transfer",
+     "summary": "arXiv:2609.10737v1 Announce Type: new Abstract: Conformal prediction converts point predictions into set-valued predictions with coverage guarantees under exchangeability between calibration and deployment data. We study conformal calibration transfer, where this requirement fails because labeled\u2026",
+     "url": "https://arxiv.org/abs/2609.10737",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "The Truth Was Never Gone: Perfect Aliasing in Compliant-Context Truth Probes",
+     "summary": "arXiv:2609.10739v1 Announce Type: new Abstract: A truth probe fitted where truthful reporting and a task's prescribed action coincide cannot distinguish those targets from its fitting labels alone. We call this failure of semantic identification perfect aliasing. In a controlled binary reporting\u2026",
+     "url": "https://arxiv.org/abs/2609.10739",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Adaptive Margin Ordinal Loss: Penalizing Center-Class Hedging in Ordinal Classification",
+     "summary": "arXiv:2609.10752v1 Announce Type: new Abstract: Standard cross-entropy loss causes neural networks trained on ordinal classification tasks to hedge predictions toward center classes, a failure mode we term \\emph{center-class hedging}. This occurs because predicting the middle class minimizes\u2026",
+     "url": "https://arxiv.org/abs/2609.10752",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "A Bellman Optimality Equation for Plasticity",
+     "summary": "arXiv:2609.10776v1 Announce Type: new Abstract: In continual reinforcement learning, carefully managing the stability-plasticity tradeoff remains a core challenge. Recent work by Abel et al. (2025) formalized this dilemma by defining plasticity as the generalized directed information from an\u2026",
+     "url": "https://arxiv.org/abs/2609.10776",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Counterfactual Marginalisation: Framework for Evaluating Robustness to Nuisance Variables",
+     "summary": "arXiv:2609.10778v1 Announce Type: new Abstract: Machine learning models can achieve strong test performance while relying on demographic or acquisition-related shortcuts. We propose counterfactual (CF) marginalisation as a test-time evaluation procedure for assessing robustness of classification\u2026",
+     "url": "https://arxiv.org/abs/2609.10778",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "From Connectivity to Rewards: Dense Reward Learning with Directed State Graphs",
+     "summary": "arXiv:2609.10781v1 Announce Type: new Abstract: The integration of graphs with Goal-Conditioned Hierarchical Reinforcement Learning (GCHRL) has received increasing attention, as graphs naturally encode task hierarchies for effective subgoal sampling. However, existing methods often overlook\u2026",
+     "url": "https://arxiv.org/abs/2609.10781",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "DR-LabStack: Design and Implementation of a Clinician-Facing Web System for Diabetic Retinopathy Prediction",
+     "summary": "arXiv:2609.10796v1 Announce Type: new Abstract: Pretrained diabetic retinopathy (DR) prediction models differ in their input fields, serialization formats, preprocessing requirements, and output semantics. Making these models accessible through a common clinical interface therefore requires\u2026",
+     "url": "https://arxiv.org/abs/2609.10796",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "RiVaT-Fuse: Reliability-Calibrated Variational Tensor Fusion for Multimodal Prediction under Modality Uncertainty",
+     "summary": "arXiv:2609.10798v1 Announce Type: new Abstract: Image-metadata prediction requires fusing heterogeneous evidence whose reliability can vary across samples and latent factors. Existing representation-level fusion methods typically choose an aggregation architecture, such as concatenation, gating,\u2026",
+     "url": "https://arxiv.org/abs/2609.10798",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Processing and classifying bird songs using wavelet techniques and supervised learning",
+     "summary": "arXiv:2609.10826v1 Announce Type: new Abstract: This study proposes an integrated framework for the processing and classification of invasive bird species vocalizations within natural soundscapes, characterized by high levels of environmental noise. We address the challenge of signal degradation\u2026",
+     "url": "https://arxiv.org/abs/2609.10826",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Flow Duality and Source Geometry for Categorical Generation",
+     "summary": "arXiv:2609.10863v1 Announce Type: new Abstract: Continuous and discrete flow matching are usually treated as separate constructions. This paper identifies a duality between them: projecting continuous convex-interpolant paths with one-hot targets through a position-wise argmax yields discrete\u2026",
+     "url": "https://arxiv.org/abs/2609.10863",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Certifying Lower Bounds for Risk-Sensitive Reinforcement Learning under Adversarial State Perturbations",
+     "summary": "arXiv:2609.10866v1 Announce Type: new Abstract: Reinforcement learning (RL) agents deployed in real-world environments are often vulnerable to adversarial perturbations in state observations, creating risks in safety-critical applications. Certification methods can improve robustness against\u2026",
+     "url": "https://arxiv.org/abs/2609.10866",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Learning Orthogonal Multi-Index Models Beyond Small Initialization: Incremental Learning, Competitive Dynamics and Symmetry",
+     "summary": "arXiv:2609.10879v1 Announce Type: new Abstract: Recent work has identified incremental learning in shallow networks trained on single-index and multi-index models. However, existing analyses often rely on simplifying settings, such as small initialization, correlation loss, or layer-wise training.\u2026",
+     "url": "https://arxiv.org/abs/2609.10879",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Story Imprinting: AI Assistants Absorb Traits from Human Characters They Resemble",
+     "summary": "arXiv:2609.10883v1 Announce Type: new Abstract: Language models are trained to implement a helpful AI Assistant character (e.g., Claude). We explore how finetuning on synthetic stories affects this character. Does it change the Assistant's behavior in multi-turn conversations with users, a format\u2026",
+     "url": "https://arxiv.org/abs/2609.10883",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Relatively Smart II: Tractable or Semi-Supervised Instance-Optimal Learning",
+     "summary": "arXiv:2609.10886v1 Announce Type: new Abstract: We continue the study of relatively smart learning, introduced by Dughmi and Pour (2026), which asks a supervised learner to compete, marginal by marginal, with every distribution-fixed error guarantee soundly certifiable from unlabeled data. They\u2026",
+     "url": "https://arxiv.org/abs/2609.10886",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Datasette 1.0a39 and 0.65.4 security releases",
+     "summary": "Datasette 1.0a39 and 0.65.4 security releases Today we're releasing two new security patch versions of Datasette: 1.0a39 and 0.65.4 - one for the current alpha series and one for the stable 0.65.x family. These are security fixes which you should apply if you are running a Datasette instance on\u2026",
+     "url": "https://simonwillison.net/2026/Sep/11/datasette-security/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "Any Nix package, live in your browser",
+     "summary": "Any Nix package, live in your browser Farid Zakaria calls this his \" magnum opus of Nix work\", and I can see why. trynix.dev provides a qemu-wasm powered x86_64 Linux virtual machine running entirely in your browser through WebAssembly. That VM can then be booted with any Nix package from the past\u2026",
+     "url": "https://simonwillison.net/2026/Sep/10/trynix/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "Native is now the future of mobile at Shopify",
+     "summary": "Native is now the future of mobile at Shopify Shopify are moving from React Native back to separate Swift and Kotlin codebases for their native apps, for the exact reason you would expect: We decided to switch from native to React Native in 2020 for three reasons: Stop building the same features\u2026",
+     "url": "https://simonwillison.net/2026/Sep/10/shopify-react-native/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "xiaYuTian11/maskit: \u6570\u636e\u9762\u5177 Data Maskit \u2014 \u4e13\u4e3a\u5927\u6a21\u578b\u6253\u9020\u7684\u672c\u5730\u9690\u79c1\u8131\u654f\u7f51\u5173\uff08\u8bf7\u6c42\u81ea\u52a8\u6253\u7801\uff0c\u56de\u590d\u6d41\u5f0f\u8fd8\u539f\uff1b\u652f\u6301 Cursor / Claude Code / Codex / Pi \u7b49\u4efb\u610f\u53ef\u914d Base URL \u5de5\u5177\uff09",
+     "summary": "\u6570\u636e\u9762\u5177 Data Maskit \u2014 \u4e13\u4e3a\u5927\u6a21\u578b\u6253\u9020\u7684\u672c\u5730\u9690\u79c1\u8131\u654f\u7f51\u5173\uff08\u8bf7\u6c42\u81ea\u52a8\u6253\u7801\uff0c\u56de\u590d\u6d41\u5f0f\u8fd8\u539f\uff1b\u652f\u6301 Cursor / Claude Code / Codex / Pi \u7b49\u4efb\u610f\u53ef\u914d Base URL \u5de5\u5177\uff09",
+     "url": "https://github.com/xiaYuTian11/maskit",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-09-11T04:52+00:00",
+  "window_start": "2026-09-10T20:59+00:00",
+  "window_end": "2026-09-11T04:52+00:00",
+  "candidate_count": 77,
+  "model": "free (no LLM)"
+ }
+}
