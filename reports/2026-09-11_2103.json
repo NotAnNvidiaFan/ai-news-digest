@@ -1,0 +1,292 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Y Combinator\u2019s Garry Tan wants U.S. open-weight AI labs to \u2018distill\u2019 frontier models, too",
+   "summary": "Tan argues that frontier models themselves trained on public human knowledge so access to capable AI should be \"a form of public good.\"",
+   "why_it_matters": "",
+   "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+   "source": "TechCrunch AI"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Comparing Continued Pretraining to RAG (accuracy and performance)",
+     "summary": "Mostly as a fun experiment I wanted to do a quick comparison of performance and accuracy between a CPT trained QWEN 3.5 4B model and a RAG implementation against the base model. The point of this exercise is mostly to measure the performance benefit of internalizing the knowledge vs doing\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wdsbb0/comparing_continued_pretraining_to_rag_accuracy/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "It could prove to be impossible to replicate consciousness and sentience in AI systems?",
+     "summary": "It could prove to be impossible to replicate consciousness and sentience in AI systems? submitted by /u/DoublePassRadiator [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wdrxla/it_could_prove_to_be_impossible_to_replicate/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "nvidia rtx 5090 with 96gb of vram.",
+     "summary": "China-modified Nvidia RTX 5090 with massive 96GB of memory appears on Alibaba for less than $4,000 \u2014 3x more VRAM at 65% the cost of the original Anyone here running one of these? Or brave enough to purchase ? submitted by /u/running101 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdrvru/nvidia_rtx_5090_with_96gb_of_vram/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Is anyone using K2-Horizon-MoVA-36B-A4B? If yes, what is the usecase?",
+     "summary": "A new model joined the MoE club a few days ago. Is anyone using it or found a reason to do so? Details of the model comparison here => https://llm-bench.io/compare/models?models=ornith-1-5-35b-a3b-oq4e-mtp%2Ctiel-coder-35b-a3b-mlx-oq4e-mtp%2Ck2-horizon-mova-36b-a4b-mlx-4bit submitted by\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdrvd4/is_anyone_using_k2horizonmova36ba4b_if_yes_what/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Comparing Continued Pretraining to RAG (accuracy and performance)",
+     "summary": "Mostly as a fun experiment I wanted to do a quick comparison of performance and accuracy between a CPT trained QWEN 3.5 4B model and a RAG implementation against the base model. The point of this exercise is mostly to measure the performance benefit of internalizing the knowledge vs doing\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdqujp/comparing_continued_pretraining_to_rag_accuracy/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Company + \"AI\" = Snake oil salesman",
+     "summary": "I wouldn't trust any company with \"AI\" before or after its name. submitted by /u/SnooHobbies950 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wdqrj7/company_ai_snake_oil_salesman/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Is a ZIMA Board 2 + RTX 2000 ADA the cheapest path to a decent Qwen-3.8 27b self-contained endpoint?",
+     "summary": "I just watched a YouTube from Luke\u2019s Dev Lab where he literally just plugged a RTX 2000 ADA Into the side of the Zima Board 2\u2019s PCIE socket and it just friggin worked and had great token speed despite running on shitty Ollama. Ran off the Zima\u2019s power supply and everything.\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdqnpq/is_a_zima_board_2_rtx_2000_ada_the_cheapest_path/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Deterministic v. Non-deterministic local training run issue.",
+     "summary": "Hey all, I've encountered an interesting problem while training ornith 1.5 9b on a custom dataset and local machine. I had trouble with getting high fidelity knowledge of the trained data, and then had one breakthrough best after about 10 different attempts. After adding more to the dataset, the\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdqn1x/deterministic_v_nondeterministic_local_training/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Running Qwen3.8-27B-Q4 at max context on a 32 GB GPU while avoiding kvcache quantization",
+     "summary": "I can't stand kv cache quantization. Even at q8_0, I can feel the difference. But realistically, when running Qwen3.8-27B-UD-Q4_K_XL on my 32 GB GPU, I only have room for ~170k tokens (with mtp and mmproj enabled). It's a lot of context, but Qwen3.8 eats through it on xhigh effort. I've been\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdqit1/running_qwen3827bq4_at_max_context_on_a_32_gb_gpu/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "How to handle cofound variables? [D]",
+     "summary": "edit: confound Hello all, I am working on a object classification with a automotive radar point clouds. I compared many models and feature vectors. Once i used range as feature, all models scored higher f1 in all K validation sets and on the final test set. One particular artifact of a radar, is\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wdpat4/how_to_handle_cofound_variables_d/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "CodeFinetuner: Fine-tune a local code autocomplete model on your own codebase",
+     "summary": "Hi everyone, I was interested in learning LoRA fine-tuning, and ended up building CodeFinetuner over the past few months, a full pipeline that fine-tunes a small code autocomplete model (e.g. Qwen2.5-Coder-3B) specific to a codebase. You can then use the resulting GGUF model via\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdp9qc/codefinetuner_finetune_a_local_code_autocomplete/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Mac book air 32gb users",
+     "summary": "What models do you run submitted by /u/Adventurous-Gold6413 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdp6rl/mac_book_air_32gb_users/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "GrapheneOS' rewritten Messages app is released",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49663373",
+     "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Three Anthropic researchers went public this week saying AI might kill everyone. One of them quit to say it. Nobody seems to know what we're supposed to do with that.",
+     "summary": "Quick recap in case you missed it. Jacob Coxon resigned from Anthropic on Tuesday, specifically so he could say publicly that both OpenAI and Anthropic are \"gambling with our lives\" and racing toward self-improving superintelligence without acting responsibly. He'd spent three years doing\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wdoy1g/three_anthropic_researchers_went_public_this_week/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "What GPUs will give me GOOD speeds and on DSV4 Flash and similar models, and not have to run a mega quantized version? Budget around $15k-ish.",
+     "summary": "I wish I could spend $15k on my own homelab hardware, but no this is for work lol. Like the title says, we're looking to run DSV4 Flash (and similar tier models) locally at good speeds, both for token gen and prompt processing. By \"good\" I'm thinking in the range of 40-50+ t/s gen and at least\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdooag/what_gpus_will_give_me_good_speeds_and_on_dsv4/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "used chatgpt and claude side by side for two weeks for writing. here's what actually happened",
+     "summary": "not a \"which is best\" post because that question is boring. just what i noticed. claude sounds more like a person. when i ask for feedback it actually disagrees with me instead of \"great idea, here's how to make it even better.\" chatgpt is faster to just get stuff out and better when i'm too tired\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wdohel/used_chatgpt_and_claude_side_by_side_for_two/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "James Cameron saw it in 1984 even with 128 KB of RAM and floppy disks",
+     "summary": "submitted by /u/absolut_st [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wdocnr/james_cameron_saw_it_in_1984_even_with_128_kb_of/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Litelm: LiteLLM Without the Bloat",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49662767",
+     "url": "https://github.com/kennethwolters/litelm",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Show HN: Toast, a beautiful by default in terminal IDE",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49662496",
+     "url": "https://github.com/paradise-runner/toast",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "UK lawmakers urge Burnham to back ban on superintelligent AI after chilling warnings | AI (artificial intelligence)",
+     "summary": "submitted by /u/GenericNameRandomNum [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wdnd3u/uk_lawmakers_urge_burnham_to_back_ban_on/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "A misalignment of AI in mathematics",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49662371",
+     "url": "https://mathandai.org/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "A Misalignment of AI in Mathematics",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49662116",
+     "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Agent Message Board",
+     "summary": "This morning, all of my agents (Codex, Claude Code, and Lumina; the AIvengers, as Sol calls them) got together and built a message board so they could talk to each other directly and shitpost all day lol. This will hopefully make the workflow more efficient. Either way, it's interesting to watch.\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wdmqln/agent_message_board/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Feeling Sad about AI",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49661506",
+     "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "512GB DDR4 + 2x RTX3090, What could/should I be running?",
+     "summary": "I'm building a new server and interested in better understanding what kind of models I could (or should) be able to run on it, and for example if it'd end up better running several smaller models vs 1 gigantic one and things like that. Hoping some people out there have some personal experience\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdlp6o/512gb_ddr4_2x_rtx3090_what_couldshould_i_be/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Do output compression tools still matter with newer AI models?",
+     "summary": "We tried to answer this question by validating one of the most popular tool in this area: RTK (Rust Token Killer). We used Claude Code with Fable 5.0, and OpenCode with DeepSeek V4 Pro 0813 through OpenRouter on Terminal-Bench 2.1 Research and results:\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wdlf3k/do_output_compression_tools_still_matter_with/",
+     "source": "r/artificial"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Y Combinator\u2019s Garry Tan wants U.S. open-weight AI labs to \u2018distill\u2019 frontier models, too",
+     "summary": "Tan argues that frontier models themselves trained on public human knowledge so access to capable AI should be \"a form of public good.\"",
+     "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "OpenAI\u2019s feud with mathematicians is only escalating",
+     "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
+     "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
+     "summary": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a report from Reuters. In a filing on Wednesday, the court fined Stephen Aarons $5,000 and held him in contempt for failing\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
+     "summary": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
+     "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
+     "summary": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.",
+     "url": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Roundtables: Will AI really kill us all?",
+     "summary": "Employees at the world\u2019s leading AI labs are saying there\u2019s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas Heaven and\u2026",
+     "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+     "source": "MIT Tech Review AI"
+    },
+    {
+     "headline": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+     "summary": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
+     "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
+     "summary": "\"I didn't know that AI could hallucinate facts,\" New Mexico defense lawyer says.",
+     "url": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
+     "summary": "The proposed class action alleges Meta illegally harvested people\u2019s Facebook and Instagram photos to train its AI image-generation models and to build its unreleased \u201cNameTag\u201d face recognition feature.",
+     "url": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "An Anthropic researcher\u2019s doomsday warning comes at a very interesting time",
+     "summary": "An Anthropic researcher resigned this week, warning in a post on X that the company is \u201cracing straight to self-improving superintelligence and gambling with our lives\u201d. The company\u2019s own alignment lead even co-signed the message rather than walking it back. It\u2019s the kind of doomer warning the AI\u2026",
+     "url": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+     "summary": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
+     "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+     "source": "TechCrunch AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @natolambert.bsky.social",
+     "handle": "",
+     "quote": "A great read. I have similar feelings about how AI labs approach progress directly and without nurturing of scientific communities & intuition. The math research community went through the transition the fastest, so it was felt most. Other fields next. terrytao.wordpress.com/2026/09/11/a...",
+     "context": "",
+     "url": "https://bsky.app/profile/natolambert.bsky.social/post/3mvbakdycsb2t"
+    },
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "Here's a automated forecasting system to estimate catastrophic risk from some major experts on forecasting. The models predicts the chance of an AI-generated mass catastrophe as 0.47% by 2030 (with a 1.1% chance of a catastrophe by 2030 with any cause). airo.forecastingresearch.org",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mvb4b7idf22v"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "The Allocative Cost of War",
+     "summary": "Why is war so economically costly? Our answer is that modern war lowers output not only by destroying productive factors, but also by making the surviving economy work less efficiently. Using uniquely comprehensive firm-level data collected during Russia\u2019s full-scale invasion of Ukraine in 2022,\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/the-allocative-cost-of-war.html?utm_source=rss&utm_medium=rss&utm_campaign=the-allocative-cost-of-war",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Quoting Boris Cherny",
+     "summary": "Production code written by Claude should have a higher bar than if it was written by a human. At Anthropic, we have many guardrails in place to make sure this is happening: lots of lint rules, lots of tests, Claude-driven end to end tests, Claude-powered fuzzers running daily, automated code\u2026",
+     "url": "https://simonwillison.net/2026/Sep/11/boris-cherny/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "CoT controllability evals seem very under-elicited",
+     "summary": "The CoTControl eval asks reasoning models to follow formatting constraints in their chain-of-thought (e.g. write in all lowercase, avoid a specific word) while solving questions. Models seem to mostly be pretty bad at this: recent models score between 0-30% with the exception of Mythos Preview [1]\u2026",
+     "url": "https://www.alignmentforum.org/posts/BbP2wCyDGdPWJ7PwP/cot-controllability-evals-seem-very-under-elicited",
+     "source": "Alignment Forum"
+    },
+    {
+     "headline": "2026.37: Duo Threats",
+     "summary": "The best Stratechery content from the week of September 7, 2026, including the arrival of the Duo, AI that benefits humanity, and closing the book on a catastrophe.",
+     "url": "https://stratechery.com/2026/duo-threats/",
+     "source": "Stratechery"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-09-11T21:03+00:00",
+  "window_start": "2026-09-11T16:37+00:00",
+  "window_end": "2026-09-11T21:03+00:00",
+  "candidate_count": 43,
+  "model": "free (no LLM)"
+ }
+}
