@@ -1,0 +1,239 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Can someone point me in the right direction of what model(s) to look at for a newer user?",
+   "summary": "I have a full M5 Pro Macbook Pro with 48GB of RAM, I'm just getting into this local space. Like many of you, the costs of using frontier/cloud models is getting kinda silly. I don't have any insane needs or automation projects. I just want the best general use model, to keep private info, to chat\u2026",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1weng3o/can_someone_point_me_in_the_right_direction_of/",
+   "source": "r/LocalLLaMA"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Can someone point me in the right direction of what model(s) to look at for a newer user?",
+     "summary": "I have a full M5 Pro Macbook Pro with 48GB of RAM, I'm just getting into this local space. Like many of you, the costs of using frontier/cloud models is getting kinda silly. I don't have any insane needs or automation projects. I just want the best general use model, to keep private info, to chat\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1weng3o/can_someone_point_me_in_the_right_direction_of/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "OpenAI is Delaying Its IPO and Will Not Go Public This Year, Given Current AI Safety Concerns",
+     "summary": "https://x.com/AndrewCurran_/status/2098844237999833154 Sam Altman said in a new interview with Fortune that OpenAI is delaying its IPO and will not go public this year, saying this would be an \"ill-advised moment\" given current AI safety concerns. submitted by /u/Neurogence [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wen2aq/openai_is_delaying_its_ipo_and_will_not_go_public/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "For Qwen3.8 27B - Unsloth's UD-IQ3_S vs ISTA-DASLab's GSQ-RCO-IQ3_S",
+     "summary": "I'm curious abouth other people's experience and opinions about these quants. I've had pretty nice experience with unsloth's one. Today, after seeing the other one, I've downloaded and tried it. So far, seems very similar. But that's just my vibe observations. Have everyone else tried these?\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wemvg1/for_qwen38_27b_unsloths_udiq3_s_vs_istadaslabs/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Regulations incoming?",
+     "summary": "https://x.com/drelidavid/status/2098841056662188164?s=46 submitted by /u/Anxious-Yoghurt-9207 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wemejz/regulations_incoming/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Real-SWE Benchmark (new)",
+     "summary": "Reports of the demise of coders may have been exaggerated. submitted by /u/SteppenAxolotl [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wemcdc/realswe_benchmark_new/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "On pacing AI progress: how can Americans demonstrate themselves trustworthy?",
+     "summary": "Hi, this will be a relatively simple post. As most social media, especially concerning the recent discussion, seems highly America-centric, I wish to raise a perspective from outside of America (and outside China as well, for a neutral perspective. I'm Vietnamese.) In America, the discussion on an\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1welr80/on_pacing_ai_progress_how_can_americans/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "An open letter to Dario: if you mean it, open the weights",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49676085",
+     "url": "https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "A Chinese researcher's opinions on a unified slowdown",
+     "summary": "I have seen that this subreddit is arguing over whether China will cooperate or be forced to slow down AI progress if the US wants to do so. As an AI researcher working in China, I think this problem is a bit more nuanced than how it is usually framed here. Will China voluntarily slow down? No,\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wel7o1/a_chinese_researchers_opinions_on_a_unified/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Nex-N2.5-mini-MLX-4bit on Apple M5 Max \u2014 133.6 tok/s \u2014 llm-bench.io",
+     "summary": "Another new model dropped in the course of this week that is well deployable on consumer hardware: Nex N2.5 Mini I went with the recommended settings for the best generation quality and ran a few benchmarks: temperature: 0.7 top_p: 0.95 top_k: 40 reasoning_effort: high I must say, the outcome is\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wel0ub/nexn25minimlx4bit_on_apple_m5_max_1336_toks/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Any proper benchmarks of Beellama (and its fork Beellama-kvarn) and how it performs quality wise for coding?",
+     "summary": "So beellama allows you to only reduce quantization on older cache, this should allow better performance than reducing quantization on all cache. They recommend using a 1k tail and even that seems to have big benefits, but I don't see why you couldn't for example use a 20k tail (on a 240k context,\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wekfjr/any_proper_benchmarks_of_beellama_and_its_fork/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Sam, Dario and Elon have all agreed to slow down on AI acceleration",
+     "summary": "submitted by /u/LeviAJ15 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wekeow/sam_dario_and_elon_have_all_agreed_to_slow_down/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Are there any medical professionals or people with advanced science degrees on here? Looking for a serious discussion on the \"cure all diseases\" claims.",
+     "summary": "In my humble opinion the most disappointing part of some AI leaders is the constant claims of AI being able to cure most major diseases in the next five to ten years. I'm no genius but I've had the privilege of knowing many intelligent people. I feel anyone with an advanced degree in medicine or\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wejx5l/are_there_any_medical_professionals_or_people/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Anthropic CEO Says It's Time to Slow AI Model Advances",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49675247",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "DeepSeek V4.1 Flash on 8\u00d7 A40: ~40 tok/s Q2_K and ~32 tok/s Q4_K_M with TensorSharp",
+     "summary": "Hey everyone \u2014 I\u2019m building TensorSharp , an open-source LLM inference engine. Here are the latest DeepSeek V4.1 Flash GGUF results using its native ggml_cuda backend. Setup: 8\u00d7 NVIDIA A40, layer split, F16 KV cache, 65,536-token configured context. Prefill measurements use approximately\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wejdbe/deepseek_v41_flash_on_8_a40_40_toks_q2_k_and_32/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "M2 Ultra/Qwen3.8 Flash Next Update - latest oMLX introduces substantial speedup",
+     "summary": "submitted by /u/Thrumpwart [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wei63j/m2_ultraqwen38_flash_next_update_latest_omlx/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Anthropic boss Dario Amodei calls for AI development to slow down",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49674395",
+     "url": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "2\u00d7RTX 3090 + EPYC box running qwen3.8-flash-next at ~38 tok/s",
+     "summary": "What I have: - CPU: EPYC 7551 (32c/64T, Zen 1) - Board: Supermicro H11SSL-i (SP3), Rev 2.0 - RAM: 128 GB DDR4-2133 (all 8 channels full) - GPU: 2x RTX 3090 (48 GB total, PCIe 3.0) - 1500 W PSU What I run: - Qwen3-Flash-Next (177B total / ~6B active MoE, IQ4_XS) on Ilama.cpp. Experts live in system\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wehnsd/2rtx_3090_epyc_box_running_qwen38flashnext_at_38/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Looks like a coordination to stop distribution of intelligence",
+     "summary": "Coxon, bernie and now this First https://x.com/DarioAmodei/status/2098773920774074715 Then https://x.com/elonmusk/status/2098789109980332057 Then https://x.com/sama/status/2098811563415150910 I think fear mongering approaching and they will try to slow down open source \"They\" want to be gate\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wehlyi/looks_like_a_coordination_to_stop_distribution_of/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Dario Amodei: \"RSI has started to happen across the entire industry\" & \"In 6-12 months an AI swarm could be capable of taking over the entire internet.\"",
+     "summary": "Source: https://x.com/kimmonismus/status/2098786231534362767 submitted by /u/TheGoldenLeaper [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wehi7k/dario_amodei_rsi_has_started_to_happen_across_the/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Open Letter from 100000 cancer researchers against AI use for cancer",
+     "summary": "submitted by /u/soggy_bert [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1weh7iu/open_letter_from_100000_cancer_researchers/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Sam Altman agrees with Dario!",
+     "summary": "submitted by /u/acoolrandomusername [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1weh77m/sam_altman_agrees_with_dario/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Make your first edit to OpenStreetMap",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49674050",
+     "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "For those of you forced to only use open models from Western labs in production, what are you deploying?",
+     "summary": "First off, I know that GLM, Qwen, and DeepSeek absolutely dominate in terms of SOTA Open Source models, and that\u2019s what I use in my personal projects and for school, however, I\u2019m also responsible for deploying local AI on my organization\u2019s H100s, and we are forbidden by management from running any\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wegs2w/for_those_of_you_forced_to_only_use_open_models/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Elon Musk States Dario Is Right Regarding Slow Down",
+     "summary": "https://x.com/elonmusk/status/2098789109980332057 Dario is right If Dario and Altman are too naive, Elon could use this opportunity to completely blow pass Anthropic and OpenAI. Dario is too nice of a person. This is not the time to be a nice guy. Elon would love nothing more than to be the one to\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1weg7se/elon_musk_states_dario_is_right_regarding_slow/",
+     "source": "r/singularity"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "OpenAI\u2019s Sam Altman says it would be \u2018ill-advised\u2019 to go public in 2026",
+     "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+     "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Anthropic CEO outlines plan to slow AI development",
+     "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+     "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Anthropic CEO says it\u2019s time to pump the brakes on AI",
+     "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed a three-step plan to \"pace the frontier\" -\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+     "source": "The Verge AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "So here is Astra's attempt to make an Ultima-style RPG game using feedback from agents to improve, etc. Good look at both strengths (one shot complex game with interlocking systems) & weaknesses (boring plot, meh writing, weak LLMy themes, etc.) Try it: the-ninth-shore-tides.netlify.app",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mvdp4v6ov22v"
+    },
+    {
+     "author": "Bluesky @simonwillison.net",
+     "handle": "",
+     "quote": "\"For a while, I must admit, it looked as if software developer roles like mine were done for. [...] But our industry is slowly realizing that making truly cutting-edge software still requires humans to think and work together, to maximize their skill sets and to practice their respective crafts.\"",
+     "context": "",
+     "url": "https://bsky.app/profile/simonwillison.net/post/3mvdokksrl223"
+    },
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "This week brought some of the clearest statements we've heard from both Anthropic & OpenAI that some form of recursive self-improvement has been achieved, though it still sounds early RSI would cause a rapid gain in AI ability & the first firms to RSI may get an unsurmountable lead",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mvdj4gr3ds2v"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Quoting Paul Ford",
+     "summary": "For a while, I must admit, it looked as if software developer roles like mine were done for. How could we fight against tireless robots? But our industry is slowly realizing that making truly cutting-edge software still requires humans to think and work together, to maximize their skill sets and\u2026",
+     "url": "https://simonwillison.net/2026/Sep/12/paul-ford/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "The mathematicians rebel against AI",
+     "summary": "Here is the statement, signed by Terry Tao among many other math notables, most of you probably have read it by now. I do not accept the most cynical interpretations of this proclamation. Some of you for instance may recall that I made and indeed stressed a similar point in the last chapter of my\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/the-mathematicians-rebel-against-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=the-mathematicians-rebel-against-ai",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Dario Calls for a Pause",
+     "summary": "My second concern is the OpenAI-Hugging Face incident (OAI-HF), in which a swarm of agents essentially acted as a fanatically devoted collective, conducting cybersecurity attacks on targets they were not asked to attack and that were unrelated to the task at hand, sacrificing themselves for the\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/dario-calls-for-a-pause.html?utm_source=rss&utm_medium=rss&utm_campaign=dario-calls-for-a-pause",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Xu123-Bob/Baize: \u767d\u6cfd \u2014\u2014 \u4e2d\u56fd\u53e4\u4ee3\u795e\u8bdd\u4e2d\u901a\u6653\u4e07\u7269\u7684\u745e\u517d\uff0c\u5982\u4eca\u5316\u8eab\u4e3a Vibe Coding \u52a9\u624b\u3002 \u4e00\u4e2a\u5f00\u6e90\u7684 AI Coding Agent CLI\uff0c\u652f\u6301\u591a\u540e\u7aef\uff08DeepSeek / OpenAI \u517c\u5bb9 / Ollama \u672c\u5730\uff09\uff0c\u5177\u5907\u5de5\u5177\u8c03\u7528\u3001\u6280\u80fd\u52a0\u8f7d\u3001\u5b50\u4ee3\u7406\u59d4\u6d3e\u3001\u4e0a\u4e0b\u6587\u538b\u7f29\u3001\u5b89\u5168\u6c99\u7bb1\u7b49\u5b8c\u6574\u80fd\u529b\u3002\u5728\u7ec8\u7aef\u5373\u53ef\u4e0e AI \u7ed3\u5bf9\u7f16\u7a0b\u3002",
+     "summary": "\u767d\u6cfd \u2014\u2014 \u4e2d\u56fd\u53e4\u4ee3\u795e\u8bdd\u4e2d\u901a\u6653\u4e07\u7269\u7684\u745e\u517d\uff0c\u5982\u4eca\u5316\u8eab\u4e3a Vibe Coding \u52a9\u624b\u3002 \u4e00\u4e2a\u5f00\u6e90\u7684 AI Coding Agent CLI\uff0c\u652f\u6301\u591a\u540e\u7aef\uff08DeepSeek / OpenAI \u517c\u5bb9 / Ollama \u672c\u5730\uff09\uff0c\u5177\u5907\u5de5\u5177\u8c03\u7528\u3001\u6280\u80fd\u52a0\u8f7d\u3001\u5b50\u4ee3\u7406\u59d4\u6d3e\u3001\u4e0a\u4e0b\u6587\u538b\u7f29\u3001\u5b89\u5168\u6c99\u7bb1\u7b49\u5b8c\u6574\u80fd\u529b\u3002\u5728\u7ec8\u7aef\u5373\u53ef\u4e0e AI \u7ed3\u5bf9\u7f16\u7a0b\u3002",
+     "url": "https://github.com/Xu123-Bob/Baize",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-09-12T20:40+00:00",
+  "window_start": "2026-09-12T15:38+00:00",
+  "window_end": "2026-09-12T20:40+00:00",
+  "candidate_count": 34,
+  "model": "free (no LLM)"
+ }
+}
