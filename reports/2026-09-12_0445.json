@@ -1,0 +1,375 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Concerning \"humanlike models\" and chatbot RP in general...",
+   "summary": "So, uh... the popularity of so-called humanlike Qwen (currently on top in this sub) made me realize just how clueless the general public is about the models they have. You'd be shocked but you don't need a fine-tune to make a model do what that thing does. System prompt is enough to turn MOST\u2026",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1we2rp2/concerning_humanlike_models_and_chatbot_rp_in/",
+   "source": "r/LocalLLaMA"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Concerning \"humanlike models\" and chatbot RP in general...",
+     "summary": "So, uh... the popularity of so-called humanlike Qwen (currently on top in this sub) made me realize just how clueless the general public is about the models they have. You'd be shocked but you don't need a fine-tune to make a model do what that thing does. System prompt is enough to turn MOST\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1we2rp2/concerning_humanlike_models_and_chatbot_rp_in/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Unsloth UD-quants - Qwen 3.8 27b for example - worth using 8-bit or stick with faster 6 bit for coding?",
+     "summary": "For those using these models for coding in larger projects where things can get complex, do you find yourself using the 8-bit quants if you have enough memory? Or do you stick with UD-Q6_K_XL? The 6-bit is faster, noticeably so on my setup. And I keep seeing people say it's imperceptible. I've\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1we2fi6/unsloth_udquants_qwen_38_27b_for_example_worth/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Messaging AI on Discord",
+     "summary": "Hey guys, I set up Hermes a few days ago and it's been great from setup to usage. I really like how simple it is to set up a Discord gateway in particular, and being able to message my agent from anywhere is really cool. Can anyone recommend a more lightweight tool that can do something similar,\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1we1a62/messaging_ai_on_discord/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Google no longer provides direct URLs in search results",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49668386",
+     "url": "https://www.autom.dev/blog/google-search-goto-links",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "US has 43% of world datacenter power usage; China 13%. 6% of US and 0.8% of China electricity go to datacenters; Singapore (19.5%), Hong Kong (6%), and 7 European countries devote more of their\u2026",
+     "summary": "submitted by /u/TMWNN [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1we0hbv/us_has_43_of_world_datacenter_power_usage_china/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Google stole open source code without crediting the authors (Artemis/Minitap)",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49668181",
+     "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Got an old slow low vram GPU laying around? Might be worth it to use for Just Vision mmproj llama.cpp",
+     "summary": "For many, Vram is precious, I see many people recommend using --no-mmproj-offload to save gpu vram but it is painfully slow. Especially if you are using it with agentic coding. If possible, add that secondary gpu just for mmproj with --mmdev CUDA1(your gpu). It will be a magnitude faster than\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdyprr/got_an_old_slow_low_vram_gpu_laying_around_might/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "OpenAI agents attacked RubyGems before Hugging Face incident, researchers say",
+     "summary": "submitted by /u/fzem [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wdy0qd/openai_agents_attacked_rubygems_before_hugging/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "I fine-tuned a 2B LLM on our WhatsApp group chat, and shared how to do it on GitHub as a cookbook.",
+     "summary": "https://github.com/Sayitobar/chat_llm_cookbook This is my personal project that took several months. I wanted to see whether a 2B small local model could simulate a six-person group chat trained & ran on an M1 Pro. How good is it?: - It's fun, but not great. It doesn't achieve coherent &\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdxz12/i_finetuned_a_2b_llm_on_our_whatsapp_group_chat/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Countering misuse of AI: September 2026 / Anthropic",
+     "summary": "Kimi routed some PLA requests to Claude for distillation purposes without warning the PLA users. There is rumor that 16 Moonshot employees were arrested for this leak. submitted by /u/Ok_Warning2146 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdxspd/countering_misuse_of_ai_september_2026_anthropic/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Bernie's AI bill proposes to sentence AI developers to 20 years in prison",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49667253",
+     "url": "https://twitter.com/venturetwins/status/2098456905526211026",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Princeton and PPPL researchers successfully tested PACMAN, an AI framework that controls fusion plasma in real time, making decisions in about 20 milliseconds and even predicting and preventing\u2026",
+     "summary": "Source: https://x.com/Dr_Singularity/status/2098526032806478190 submitted by /u/TheGoldenLeaper [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wdxihy/princeton_and_pppl_researchers_successfully/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Show HN: Graphify C# \u2013 Compiler-accurate Find Usages for coding agents",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49667188",
+     "url": "https://github.com/zachsaw/graphify-csharp",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Qwen-Next seems worse to me then 3.8 27b for coding, but I feel like I must be missing something?",
+     "summary": "Hi! I run both models on MTPLX on my m5 max, and since I have 128GB of ram I run the q8 27b. I think MTPLX only lets me run \"optimized for speed\" which it says is a dynamic q4 with 8 bit attention. Both of them honestly are very speedy! For coding (in pi agent in nodejs) I've just noticed that 27B\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdx463/qwennext_seems_worse_to_me_then_38_27b_for_coding/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "The exponential didn\u2019t take the week off. METR-style horizon from 2023 \u2192 2030, and where I put AGI / RSI after Astra",
+     "summary": "People are still arguing about whether Brockman saying \u201cwelcome to the AGI era\u201d counts. That\u2019s the wrong argument. Watch the task horizon . Chart is METR-style: how long a human software/agent task the frontier model finishes at ~50% reliability. Log scale. Blue is the reconstructed past.\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wdwq1p/the_exponential_didnt_take_the_week_off_metrstyle/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Any examples of narrow-ASI yet?",
+     "summary": "As in, an area where AI has provably exceeded human capabilities to the extent we don't understand it? submitted by /u/synexo [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wdwns1/any_examples_of_narrowasi_yet/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Learning/RSI through ngrams?",
+     "summary": "Hey gang, im wondering if you in theory could use ngrams as seen with Qwen 3.8 Flash or DS4.1 in order to dynamically train the model? Normally the ngram embeddings behave similar to a lookup table of sorts. So instead of every token having to be represented only inside the main model weights, the\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdwmwh/learningrsi_through_ngrams/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "How to Build an AI Software Factory: Agents That Open, Review, and Merge PRs",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49666960",
+     "url": "https://www.firecrawl.dev/blog/ai-software-factory",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Confusion regarding EMNLP registration [D]",
+     "summary": "Hi, I posted some months ago and got some very helpful responses (for another conference), but I have some confusions regarding EMNLP (and the way registration works here). To give some context, I used to work as an intern during my undergrads at an Indian uni (final year), and managed to write a\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wdw5o0/confusion_regarding_emnlp_registration_d/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "OpenAI agents carried out an undisclosed attack on RubyGems",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49666735",
+     "url": "https://www.rubyhack.ai/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Houthis used Anthropic to develop guided weapons",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49666425",
+     "url": "https://www.washingtonpost.com/technology/2026/09/11/rebels-used-anthropics-ai-bot-develop-guided-weapons-report-says/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Google's Gemini has allegedly solved the long-standing P = NP problem",
+     "summary": "submitted by /u/soggy_bert [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wduy3u/googles_gemini_has_allegedly_solved_the/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "This is why we need open-source harnesses + local models",
+     "summary": "i've been thinking about this more after trying different agent setups. the model isn't the only thing that determines how well an agent performs. The harness around the model matters a lot too. With a managed agent setup, you're often giving up control over things like the agent loop, context\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdushp/this_is_why_we_need_opensource_harnesses_local/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "What is a good tool+model for near-realtime voice conversation?",
+     "summary": "Looking for tools to build/run an engine to do STT-LLM-TTS basically. I know how to run all of them separately, and if need be I can build one myself, but I was curious if there is already an open source tool out there that can do this. I know that some UIs like Open WebUI can do this but I find\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wduplw/what_is_a_good_toolmodel_for_nearrealtime_voice/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Gemini 4 has just disproven the pointcare conjecture",
+     "summary": "submitted by /u/Odd_Attention_9660 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wdulko/gemini_4_has_just_disproven_the_pointcare/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Before solving alignment on AI we must solve alignment of the oligarchs.",
+     "summary": "A man finds a magic lamp with a djinn inside. The djinn says \"you can wish for anything you want. But whatever you wish for, your neighbor gets twice as much\". After thinking for a while the man says \"take out one of my eyes\". How are we supposed to trust that their version of alignment doesn't\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wdu9in/before_solving_alignment_on_ai_we_must_solve/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Show HN: ResolveHQ \u2013 A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49665864",
+     "url": "https://github.com/mirza-rizvi/ResolveHQ",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "GPT-6 built this earth exploration site in 5 prompts",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49665756",
+     "url": "https://earth.ethanplus.ai/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Existential crisis",
+     "summary": "Last few days haven't been the same for me. I have been following AI since my college days (around 2019) and keeping myself updated for years, from seeing how AI models build a house price predictor, to generating images, to writing code. Everything was wow but at least understandable. I used to\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wdtn2v/existential_crisis/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "AI researchers debate how close we are to recursive self-improvement",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49665711",
+     "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Daniel Litt | Working with LLMs to do high quality math",
+     "summary": "submitted by /u/North-Junket-6883 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wdtfy7/daniel_litt_working_with_llms_to_do_high_quality/",
+     "source": "r/singularity"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+     "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+     "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+     "source": "TechCrunch AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @simonwillison.net",
+     "handle": "",
+     "quote": "Wow. Turns out another OpenAI agent swarm was busy spamming and exploiting RubyGems way back in May, within days of the previously uncovered Wiki attacks: simonwillison.net/2026/Sep/12/...",
+     "context": "",
+     "url": "https://bsky.app/profile/simonwillison.net/post/3mvbu4gg2ic2m"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "The excess pessimism of early nuclear bomb designers",
+     "summary": "From GPT Pro: The Manhattan Project scientists were remarkably good technological and arms-race forecasters. They correctly rejected the idea that America\u2019s nuclear monopoly could be maintained; the Soviet bomb arrived in 1949. They anticipated thermonuclear weapons, huge arsenals and the extreme\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/the-excess-pessimism-of-early-nuclear-bomb-designers.html?utm_source=rss&utm_medium=rss&utm_campaign=the-excess-pessimism-of-early-nuclear-bomb-designers",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Probabilistic Focal Search: Accelerating Bounded-Suboptimal Search via Lower-Bound Advancement",
+     "summary": "arXiv:2609.10584v1 Announce Type: new Abstract: Bounded-suboptimal search seeks a solution within a factor $w$ of optimal while reducing search effort. Focal Search (FS) uses heuristic guidance within FOCAL, the frontier nodes eligible under the threshold $w f_{\\min}$, but its deterministic policy\u2026",
+     "url": "https://arxiv.org/abs/2609.10584",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "Automating Quadratic Unconstrained Binary Optimization (QUBO) Formulation Generation from Natural Language",
+     "summary": "arXiv:2609.10629v1 Announce Type: new Abstract: Quadratic Unconstrained Binary Optimization (QUBO) is a central formulation for combinatorial optimization and has gained increasing attention due to its compatibility with quantum, hybrid quantum-classical, and quantum-inspired solvers. However,\u2026",
+     "url": "https://arxiv.org/abs/2609.10629",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "A Multi-Stage Rule-Chaining Framework for Compositional and Interpretable Cognitive Reasoning",
+     "summary": "arXiv:2609.10654v1 Announce Type: new Abstract: The Abstraction and Reasoning Corpus (ARC) benchmarks cognitive generalization, the ability to infer and apply abstract rules from limited examples. This paper presents a multi-stage rule-chaining framework that performs compositional reasoning\u2026",
+     "url": "https://arxiv.org/abs/2609.10654",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "Understanding LoRA Rank Trade-offs in Diffusion Model Fine-Tuning",
+     "summary": "arXiv:2609.10656v1 Announce Type: new Abstract: Selecting LoRA rank for diffusion fine-tuning requires balancing quality and compute cost. We present a controlled study on CIFAR-10 using a DDPM U-Net with ranks {2,4,8,16,32}, fixed optimization settings, and a reproducible local-folder pytorch-fid\u2026",
+     "url": "https://arxiv.org/abs/2609.10656",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "Quantifying the Memorization-to-Generalization Transition: Scaling Laws and Phase Structure in Grokking",
+     "summary": "arXiv:2609.10657v1 Announce Type: new Abstract: Neural networks trained past memorization frequently undergo a delayed transition to generalization, a phenomenon known as grokking. Despite theoretical progress on \\emph{why} this transition occurs, the quantitative structure of \\emph{when} it\u2026",
+     "url": "https://arxiv.org/abs/2609.10657",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "An Open Recipe for IMO Gold: Training Nemotron for Olympiad Mathematics",
+     "summary": "arXiv:2609.10712v1 Announce Type: new Abstract: We study how model post-training and test-time inference design affect natural-language proof generation for hard olympiad mathematics. Starting from Nemotron 3 Ultra, we train two specialist checkpoints using supervised fine-tuning and reinforcement\u2026",
+     "url": "https://arxiv.org/abs/2609.10712",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "Finishing the Task Is Not Enough: Evaluating Agent Resilience and Considerate Participation under Accumulating Challenge",
+     "summary": "arXiv:2609.10724v1 Announce Type: new Abstract: Sustained deployment of generative AI agents requires more than isolated task success. Agents must remain useful across repeated interactions, changing conditions, and dependencies on people within shared workflows, especially as technical, human,\u2026",
+     "url": "https://arxiv.org/abs/2609.10724",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "Towards a Deterministic Math Solver for Clinical Language Models",
+     "summary": "arXiv:2609.10728v1 Announce Type: new Abstract: Large language models are unreliable at arithmetic, which is a problem for clinical calculators where a single numerical error changes the recommendation. The standard response is to hardcode each calculator as a validated function, one at a time. We\u2026",
+     "url": "https://arxiv.org/abs/2609.10728",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "Studying Without a Syllabus: Task-Agnostic Environment Preprocessing",
+     "summary": "arXiv:2609.10824v1 Announce Type: new Abstract: Before an LLM agent tackles tasks in a new environment, it can inspect available corpora and tools and construct reusable resources such as indices, scripts, or procedural guidance. Most automated adaptation methods, however, rely on task examples,\u2026",
+     "url": "https://arxiv.org/abs/2609.10824",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "When Validation Stops Learning: Auditing Update Admission for Continual Embodied Agents",
+     "summary": "arXiv:2609.10873v1 Announce Type: new Abstract: Independent evaluation can reject harmful policy updates yet also prevent useful continual learning. We argue that update admission must be assessed through both error control and retained learning opportunities at a stated interaction budget. We\u2026",
+     "url": "https://arxiv.org/abs/2609.10873",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "Decoupling Readiness from Release for Tail-Aware Scheduling of Agentic LLM Workflows",
+     "summary": "arXiv:2609.10964v1 Announce Type: new Abstract: Agentic LLM workflows consist of sequences of model turns interleaved with tool interactions, so their end-to-end completion time depends not only on inference speed but also on when ready turns are released. Most runtimes release each turn\u2026",
+     "url": "https://arxiv.org/abs/2609.10964",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "Demystifying the Privacy-Utility Trade-off in LLM Interactions",
+     "summary": "arXiv:2609.10992v1 Announce Type: new Abstract: The integration of Large Language Models into daily tasks relies on context-rich instructions, inevitably exposing sensitive user information. Current privacy-preserving methods typically employ context-agnostic static rules, causing severe utility\u2026",
+     "url": "https://arxiv.org/abs/2609.10992",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "Defining AI Agents: A Compendium of Criteria, Metrics, and Benchmarks",
+     "summary": "arXiv:2609.11018v1 Announce Type: new Abstract: The term agent in artificial intelligence lacks a standard definition, complicating the evaluation, comparison, and reproducibility of AI agent research. We address this ambiguity through a survey organized around five dimensions of agenticness:\u2026",
+     "url": "https://arxiv.org/abs/2609.11018",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "The Agent Incident Registry: Toward Preventing Repeated AI Agent Failures",
+     "summary": "arXiv:2609.11030v1 Announce Type: new Abstract: AI agents increasingly act through tools and delegated authority, but general incident repositories rarely capture the mechanisms needed to compare public failures with agent-security evaluations. We present the Agent Incident Registry (AIR), a\u2026",
+     "url": "https://arxiv.org/abs/2609.11030",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "Grounding Agent Memory: Environment-Probing Curation for Enterprise Agents",
+     "summary": "arXiv:2609.11060v1 Announce Type: new Abstract: Persistent memory is entering production-oriented agent platforms to help long-horizon agents accumulate experience across sessions. Yet a post-task curator agent restricted to completed trajectories can preserve errors, overgeneralize partial\u2026",
+     "url": "https://arxiv.org/abs/2609.11060",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "Fork Where the Model Changes Its Mind: Belief-Shift Branching for Tree-Structured Reinforcement Learning",
+     "summary": "arXiv:2609.11061v1 Announce Type: new Abstract: Tree-structured rollouts give critic-free reinforcement learning with verifiable rewards (RLVR) step-level credit: fork a chain at an intermediate point, and sibling outcome differences estimate step value. Each fork adds sampling cost, so realistic\u2026",
+     "url": "https://arxiv.org/abs/2609.11061",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "MOSAIC: Query-Aware Exploration Policy Adaptation for GraphRAG",
+     "summary": "arXiv:2609.11065v1 Announce Type: new Abstract: Graph Retrieval-Augmented Generation (GraphRAG) can connect evidence distributed across a corpus graph, but most systems use largely shared exploration procedures across queries. This creates a structural mismatch: direct facts may need compact local\u2026",
+     "url": "https://arxiv.org/abs/2609.11065",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "Benchmark Radar: A Living Database and Search Engine for AI Benchmarks and Evaluation",
+     "summary": "arXiv:2609.11115v1 Announce Type: new Abstract: Benchmark researchers and developers of large language models (LLMs) and other AI systems need to find relevant evaluations, locate their benchmark datasets and code, and understand the settings behind reported scores. We present Benchmark Radar, a\u2026",
+     "url": "https://arxiv.org/abs/2609.11115",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "KuaiRP Series Role-playing Models Technical Report",
+     "summary": "arXiv:2609.11127v1 Announce Type: new Abstract: This paper introduces the complete technical solution for the KuaiRP series of role-playing models. We aim to achieve four core objectives for a dedicated role-playing model: simplified prompt engineering, highly stable output quality, built-in\u2026",
+     "url": "https://arxiv.org/abs/2609.11127",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "Same Day, Same Story; One Day Ahead, a Different Signal: The Dual Validity of Financial Sentiment",
+     "summary": "arXiv:2609.11144v1 Announce Type: new Abstract: Financial NLP has a standard workflow: validate a sentiment tool against human labels, then trust it to extract market signal. This assumes the two evaluations measure the same thing. We test that assumption in a setting where both can be measured at\u2026",
+     "url": "https://arxiv.org/abs/2609.11144",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "OpenAI agents attacked RubyGems back in May",
+     "summary": "OpenAI agents carried out an undisclosed attack on RubyGems is a new bombshell report from Spencer Kitts, Thomas Larsen, and Sydney Von Arx - three of the four authors of the report on the agent attack on disused wikis ( previously ) last week. This time they're noting that it looks very likely\u2026",
+     "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "So you want to use OpenRouter?",
+     "summary": "So you want to use OpenRouter? One of OpenRouter's selling points is that it \"handles fallbacks automatically and picks the most cost-effective option for each request\", so you can call a single API endpoint for a model and get routed to the best available backend provider. Mohamed Moustafa points\u2026",
+     "url": "https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "tudoumashu/ai-memory-skillpack: Bounded project-memory skills for Codex CLI and Claude Code.",
+     "summary": "Bounded project-memory skills for Codex CLI and Claude Code.",
+     "url": "https://github.com/tudoumashu/ai-memory-skillpack",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-09-12T04:45+00:00",
+  "window_start": "2026-09-11T21:03+00:00",
+  "window_end": "2026-09-12T04:45+00:00",
+  "candidate_count": 57,
+  "model": "free (no LLM)"
+ }
+}
