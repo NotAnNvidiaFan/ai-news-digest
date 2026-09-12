@@ -1,0 +1,247 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "What happens after huge swaths of the population have been put out of work by AI job automation? Who is going to buy the goods and services that corporations are selling if hardly anyone has any\u2026",
+   "summary": "What happens after huge swaths of the population have been put out of work by AI job automation? Who is going to buy the goods and services that corporations are selling if hardly anyone has any money because they aren't employed? You're going to have entire professions that have been rendered\u2026",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/artificial/comments/1wefljq/what_happens_after_huge_swaths_of_the_population/",
+   "source": "r/artificial"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "What happens after huge swaths of the population have been put out of work by AI job automation? Who is going to buy the goods and services that corporations are selling if hardly anyone has any\u2026",
+     "summary": "What happens after huge swaths of the population have been put out of work by AI job automation? Who is going to buy the goods and services that corporations are selling if hardly anyone has any money because they aren't employed? You're going to have entire professions that have been rendered\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wefljq/what_happens_after_huge_swaths_of_the_population/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Is anyone else scared they won't be able to tell what's real anymore",
+     "summary": "saw a video last week that looked completely legit, turned out to be AI-generated. not even a bad job, genuinely couldn't tell until someone pointed it out feels like we're approaching a point where \"seeing is believing\" just... stops applying. not sure how society adjusts to that, or if we even\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1weep02/is_anyone_else_scared_they_wont_be_able_to_tell/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "How much do tech reports matter for a PhD application? [D]",
+     "summary": "The title, by tech reports I don't mean arXiv submissions, but reports of a large model, like say Kimi K3, DeepSeek, Gemini, Mistral Leanstral, etc. Is it much above, above, much below, below or equal to a first author A* paper? submitted by /u/simple-Flat0263 [link] [comments]",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1weedmk/how_much_do_tech_reports_matter_for_a_phd/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Dario's new plan: Govt should give frontier labs a narrow antitrust waiver to slow down AI development.",
+     "summary": "submitted by /u/MagicZhang [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1weeayb/darios_new_plan_govt_should_give_frontier_labs_a/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "OpenAI just went directly after junior banker jobs and called it a financial services product",
+     "summary": "OpenAI launched ChatGPT for Financial Services and the feature list is not subtle. Research, financial modeling, pitchbook prep. Those are the three things that justify hiring a class of analysts at \ud835\udfcf\ud835\udfce\ud835\udfce \ud835\udc2d\ud835\udc28 \ud835\udfcf\ud835\udfd1\ud835\udfce \ud835\udc24 a year on Wall Street. The product is not framed as a tool to help junior bankers. It\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wee9m4/openai_just_went_directly_after_junior_banker/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Dario Amodei \u2014 We Must Pace the Frontier",
+     "summary": "submitted by /u/dayanruben [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wee5pu/dario_amodei_we_must_pace_the_frontier/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "We just ran 10 builds through OpenAI, Claude, and RESORSA simultaneously, and the results took me by surprise.",
+     "summary": "I\u2019ve been trying to answer a pretty important question with the product I\u2019m building: Can an AI actually help someone make better business decisions, or does it just give them convincing-sounding answers? So I built a small test. I took 10 simulated business ideas and ran the same scenarios\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wedwqr/we_just_ran_10_builds_through_openai_claude_and/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Model Regulation",
+     "summary": "submitted by /u/nfox01 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wedp8r/model_regulation/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "OpenAI agents carried out an undisclosed cyber-attack on RubyGems",
+     "summary": "submitted by /u/rowrowrobot [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wedb3c/openai_agents_carried_out_an_undisclosed/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Intel Linux NPU driver only now officially supports Ubuntu 26.04 LTS",
+     "summary": "submitted by /u/Fcking_Chuck [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wed7cg/intel_linux_npu_driver_only_now_officially/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "LLMs are real, AI is fake",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49672281",
+     "url": "https://pluralistic.net/2026/09/12/god-in-the-box/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "tencent/AuK-Flash \u00b7 Hugging Face",
+     "summary": "AuK-Flash: Fast 4-Step Speech Generation and Editing arXiv : https://arxiv.org/abs/2609.08936 Full Paper : https://arxiv.org/pdf/2609.08936 GitHub : https://github.com/Tencent-Hunyuan/AuK Project : https://auk-project.github.io/ Introduction AuK is a 1.5B foundation model for speech generation and\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wecf25/tencentaukflash_hugging_face/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "A US-linked network of fake websites is promoting Alberta separatism to AI chatbots",
+     "summary": "submitted by /u/PerAsperaAdMars [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1webtw8/a_uslinked_network_of_fake_websites_is_promoting/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Steven Johnson (Google Labs) just described exactly how to clone a writer's voice without asking",
+     "summary": "TL;DR: The guy Google put in charge of its own AI writing tool just admitted, on camera, that he can't fully protect the one thing his career runs on. That's not hypothetical. Steven Johnson runs editorial for Google Labs' NotebookLM and has fourteen books behind his name, and he still walked an\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1webqoe/steven_johnson_google_labs_just_described_exactly/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "bartowski/Qwen3.8-27B-GGUF \u00b7 Hugging Face - Updated (Per-tensor layout)",
+     "summary": "Blog Post : Per-tensor layout maps for GGUF quantization Reddit thread : New tensor type layouts for my GGUF uploads EDIT : Model card has updated things such as Graph, table, text, etc., submitted by /u/pmttyji [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1webfsq/bartowskiqwen3827bgguf_hugging_face_updated/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Anybody use frontier models like Astra/Fable for planning/judging, and qwen3.8 as the main workhorse? Curious to hear about your setups!",
+     "summary": "Hey everyone! I'm curious to hear from people that use a combination of cloud-based frontier models and local ones for development. I'm planning to set something similar up and wanted to hear about actual examples of this in action. Currently my plan is to use my chatgpt plus subscription purely\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1web1jd/anybody_use_frontier_models_like_astrafable_for/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "How Far Are We from the \"ChatGPT Moment\" for Embodied Intelligence? Opinion",
+     "summary": "submitted by /u/globalsouthworld [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1weapgz/how_far_are_we_from_the_chatgpt_moment_for/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "A Severe Misalignment of AI in Mathematics (Declaration by 25 Fields Medalists) [D]",
+     "summary": "Note: this declaration was drafted by Mathematicians, and is mostly addressed to the mathematical community. It'd be interesting to discuss, among others, if what is written in the declaration may also apply to other communities---and, specifically, the AI/ML one. submitted by /u/hihey54 [link]\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wea1t7/a_severe_misalignment_of_ai_in_mathematics/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Palantir Foundry and cuOpt drive NVIDIA supply chain allocation",
+     "summary": "submitted by /u/Puzzled-Ad-6854 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1we9x1g/palantir_foundry_and_cuopt_drive_nvidia_supply/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49671159",
+     "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "I am impressed and I owe you one, Qwen 3.8 flash next (vision)!",
+     "summary": "I have enabled the vision for the CIRU Strix UL4 quant of Qwen 3.8 flash next (others quants likely perform very similar) and tried it on a few things, then wanted to show my partner how great it works and she asked it it could identify plants. So I took a photo from a plant that we recently got\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1we9mv0/i_am_impressed_and_i_owe_you_one_qwen_38_flash/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "3.8-27B has ruined 3.5/3.6-35B\u2019s for me. It\u2019s just *absurdly* superior.",
+     "summary": "Applied science work, from workflow design, data pipeline, results analysis, article/reports writing and data publishing online. 5 projects I did in the past replicated from start to finish. 3x to 4x more total wall time. Yes, HUGE toll on how much you can do in a day if this was the only model\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1we8tl1/3827b_has_ruined_353635bs_for_me_its_just/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Resistance Training Prescription for Muscle Function, Hypertrophy in Health",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49670493",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Qwen3.8 Flash Next llama.cpp config tuning",
+     "summary": "Hola all. Do you guys mind sharing your LLama.cpp config and system setup details for Qwen3.8 Flash Next? Model's quite big and tryining many combinations of llama.cpp options takes lots of time, so looking for other people setup details. I've attached my current config at the bottom, so if anyone\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1we6tau/qwen38_flash_next_llamacpp_config_tuning/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Agnes-AI/Agnes-3.0-Flash 33B Multimodal, AA score: 36",
+     "summary": "I find this new model at HF: \"Built for demanding work. A 262 144-token context window, adjustable reasoning effort, tool calling, and text, image and video understanding. Architecture Agnes-3.0-Flash is a hybrid-attention decoder: three of every four layers run a gated delta rule (recurrent, with\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1we6lrn/agnesaiagnes30flash_33b_multimodal_aa_score_36/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49670032",
+     "url": "https://eiln.github.io/posts/ane.html",
+     "source": "Hacker News"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Trump is giving data centers a pass to pollute",
+     "summary": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefing and new report. They are urging - perhaps futilely - the president to adopt\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "I spent $4,000 on a robot dog from China",
+     "summary": "Unitree might be the world\u2019s most important robotics company.",
+     "url": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "OpenAI just wants to win",
+     "summary": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem. In normal circumstances, this would have been celebrated as a historic achievement.\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
+     "summary": "Plus: The US disrupts the internet\u2019s biggest black market, a Conti ransomware hacker gets prison time, Meta fails to stop AI-generated videos of child abuse.",
+     "url": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
+     "source": "Wired AI"
+    }
+   ],
+   "influencer_takes": [],
+   "research_radar": [
+    {
+     "headline": "The Rise of the Forward Deployed Engineer \u2014 and How To Do the Job Right",
+     "summary": "Before co-founding Kepler, Vinoo Ganesh led compute at Palantir and built Project Frontline \u2014 a pioneering program for Forward Deployed Engineers. He takes us through the best practices of FDEs.",
+     "url": "https://www.latent.space/p/forward-deployed-engineer-best-practices",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "UK fact of the day",
+     "summary": "The UK economy grew 0.4 per cent in July as the global AI boom helped deliver an unexpectedly robust start to the third quarter, in a boost to Prime Minister Andy Burnham as he prepares for a tough first Budget next month. Friday\u2019s figure from the Office for National Statistics was far above the\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/uk-fact-of-the-day-8.html?utm_source=rss&utm_medium=rss&utm_campaign=uk-fact-of-the-day-8",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "The Prediction Archive",
+     "summary": "The Prediction Archive is a public database of tens of thousands of world predictions. Using AI it tracks predictions over many decades and marks to market. I was surprised to discover that I am currently the highest ranked individual predictor in the world! Huh, I would not have predicted that.\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/the-prediction-archive.html?utm_source=rss&utm_medium=rss&utm_campaign=the-prediction-archive",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Labor reallocation during the Industrial Revolution",
+     "summary": "New technologies swept through Britain during the Second Industrial Revolution, destroying old jobs and creating new ones. We know little about how workers reallocated. Using 170 million full-count British census observations (1851-1911), I construct new task-level data on occupation and\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/labor-reallocation-during-the-industrial-revolution.html?utm_source=rss&utm_medium=rss&utm_campaign=labor-reallocation-during-the-industrial-revolution",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "[AINews] DeepSeek v4.1-Flash: 763B-P8B-D16B novel causal Encoder\u2013Decoder architecture with vision marks the Return of the Whale",
+     "summary": "We agree with Sebastian: this should have been DeepSeek v5",
+     "url": "https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "blixvip/MotionClone: AI motion graphics for product demos and launch videos. Rebuild reference videos as editable HyperFrames projects with Codex + ChatGPT. Free local Windows download.",
+     "summary": "AI motion graphics for product demos and launch videos. Rebuild reference videos as editable HyperFrames projects with Codex + ChatGPT. Free local Windows download.",
+     "url": "https://github.com/blixvip/MotionClone",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-09-12T15:38+00:00",
+  "window_start": "2026-09-12T04:45+00:00",
+  "window_end": "2026-09-12T15:38+00:00",
+  "candidate_count": 36,
+  "model": "free (no LLM)"
+ }
+}
