@@ -1,0 +1,207 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Guide: How to escape ChatGPT & Claude for Coding Needs",
+   "summary": "Hey everyone, I want to give you something for free because I am pissed off. I am furious, heartsick, and fed up with nerd reich hoarding, poisoning, and controlling the narrative around humanity\u2019s greatest achievement; AI. Make no mistake. We are deeply lucky to be alive to experience the\u2026",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/singularity/comments/1wfjgii/guide_how_to_escape_chatgpt_claude_for_coding/",
+   "source": "r/singularity"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Guide: How to escape ChatGPT & Claude for Coding Needs",
+     "summary": "Hey everyone, I want to give you something for free because I am pissed off. I am furious, heartsick, and fed up with nerd reich hoarding, poisoning, and controlling the narrative around humanity\u2019s greatest achievement; AI. Make no mistake. We are deeply lucky to be alive to experience the\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wfjgii/guide_how_to_escape_chatgpt_claude_for_coding/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Admitting Ignorance",
+     "summary": "I\u2019ve been following the development of AI for about five years. While I\u2019ve always supported the technology, I was skeptical of an LLM\u2019s ultimate capabilities. I remain confident that they are an incomplete solution to the problem of machine superintelligence, but they have surpassed my\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wfj1ul/admitting_ignorance/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Horse racing as an ML ranking problem: 1.18M runners, walk-forward validation and a very strong market baseline [D]",
+     "summary": "Hi \ud83d\udc4b long time lurker It\u2019s been a few years since the last post about Horse Racing within this sub. A few years ago I was reading a popular science book and came across the story Bill Benter and the statistical models his team developed for Hong Kong racing. What stayed with me wasn\u2019t simply the\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wfivb2/horse_racing_as_an_ml_ranking_problem_118m/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "CUDA-for-AMD-Windows: Run CUDA-targeted Windows applications on AMD GPUs with ZLUDA + ROCm/HIP.",
+     "summary": "I couldn't find any posts mentioned this windows build via the subreddit search. Based on ZLUDA, but properly compiled for Windows, might be exciting. TLDR: About 3% slower compared to native, seems to be a good dropin for CUDA workloads. Hopefully finds its ways into many CUDA-restricted\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfij7a/cudaforamdwindows_run_cudatargeted_windows/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "A FINRA for AI is coming? Anthropic, Google and OpenAI have been holding regular discussions about creating an AI industry standards body, meeting as recently as this past week.",
+     "summary": "Source: Leo Schwartz, The Information submitted by /u/TorturedPoet30 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wfifhq/a_finra_for_ai_is_coming_anthropic_google_and/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Anyone worried about slowing down",
+     "summary": "I know AI has it's own dangers and should have safety measure like any other technology that came before it but I am more worried about everyone including companies building it overblowing the dangers to the extent of paranoia. I mean if you keep discussing about only the dangers of anything you\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wfhs1q/anyone_worried_about_slowing_down/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Plot twist",
+     "summary": "From ex Qwen leader https://x.com/JustinLin610/status/2098989619576729924 submitted by /u/jacek2023 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfhiqx/plot_twist/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "There Is No AI (It's Just People) with Jaron Lanier",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49687869",
+     "url": "https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Grandma harness for GPU challenged?",
+     "summary": "OK I have been trying to get most of my local Qwen 3.8 27b running on my \"Grandma's GPU cluster\" of 2xP40. I was able to make it produce reasonably usable speeds of like up to 45 tg/s and 450 prefill with fresh context, falling to 120-ish prefill on 150K+ ctx and 12-16 tg/s. Which is usable\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfghun/grandma_harness_for_gpu_challenged/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Got scipy's KD-tree to handle inserts and deletes without rebuilding. Three things I learned [P]",
+     "summary": "I built a small library called whitetree for exact Mahalanobis nearest-neighbour search on low-dimensional sensor data that keeps arriving. The idea is old. Whiten with the Cholesky factor of the covariance so Mahalanobis becomes Euclidean, then keep several scipy cKDTrees instead of one so\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wfg8e3/got_scipys_kdtree_to_handle_inserts_and_deletes/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Aurora1.0-150M Releases!",
+     "summary": "The first generation of our 150M model has just been released Its performance is similar to that of GPT2-Small The benchmarks: PIQA: 62.24% Hellaswag: 32.20% Arc-Easy: 44.91% Arc-Challenge: 25.00% Arithmark 3.0: 33.90% CapitalBench: 36.55% It was trained on 7B tokens, using an RTX Pro 6000 an\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfg0sb/aurora10150m_releases/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "BREAKING: The first naval battle in history between two unmanned surface drones has taken place in the Black Sea.",
+     "summary": "submitted by /u/Anen-o-me [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wffyhc/breaking_the_first_naval_battle_in_history/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "I have just moved from MacBook M5 pro 48 GB to RTX3090",
+     "summary": "Using the RTX3090 on a linux machine I built for it and running Qwen 3.8 27B getting average 100t/s compared to my MacBook 20t/s I think I can finally get rid of my Claude subscription, this is good enough for me. I am a software dev and I can get what I need from this set up and be more\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wffgdh/i_have_just_moved_from_macbook_m5_pro_48_gb_to/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "[Upcoming AMA] Waymo AI Team AMA \u2013 Drop Your Questions Early! [D]",
+     "summary": "Hi r/MachineLearning , Join our AI leads as they answer your questions on foundation models, simulation, and scaling the Waymo Driver. Our AMA thread is officially open, and you can start dropping your questions now. From multimodality and end-to-end architectures to the realities of validating\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wfesc0/upcoming_ama_waymo_ai_team_ama_drop_your/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Best use for these two separate systems?",
+     "summary": "Just want to confirm I am going about this logically. System 1: Gigabyte x99 mobo Xeon E5-2630V4 w/ 128gb ddr4 2x rtx3090, no nvlink. Pcie 3.0 x16 to each. System 1 is assembled currently and is running open webui with - qwen 3.8 27b q4 on one rtx3090. - other 3090 is handling comfyui for image\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfenvj/best_use_for_these_two_separate_systems/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Talk me out of buying a 3rd Spark",
+     "summary": "Does anyone think the gurus on the DGX Spark forum are going to figure out how to magically fit DeepSeek 4.1 Flash on a 2x cluster, or is it only possible on 3 or 4 Sparks? submitted by /u/Porespellar [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfefc4/talk_me_out_of_buying_a_3rd_spark/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I don't generally like or agree with David Sacks but...",
+     "summary": "submitted by /u/NetflowKnight [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wfead8/i_dont_generally_like_or_agree_with_david_sacks/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "3k$ 128GB VRAM + 256GB RAM DDR4 Server",
+     "summary": "I finished my home inference server. First I tried Lenovo p620 workstation and while it\u2019s a good value overall it pissed me off with a ton of proprietary Lenovo shit to deal with and I return it in the end. Components: 4xV620 - 1400$ 256GB DDR4 RDIMM 2666 - 610$ Huanandzhi D12D - 410$ EPYC 7452 -\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfe9zt/3k_128gb_vram_256gb_ram_ddr4_server/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Trump is refusing a slowdown",
+     "summary": "submitted by /u/ThatIsNotIllegal [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wfduzz/trump_is_refusing_a_slowdown/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Dear 24G owners, try VLLM you might be able to run Qwen3.8 27B INT4, 144K FP8 KV on RTX 3090 with better speed. (TLDR VLLM AOT)",
+     "summary": "VLLM Benchmark: Prefill, Prompt processing - avg, 871.93 tok/s (3 hours constant running xhigh) - 10K prompt, 1000.26 tok/s (16 runs) - 90K prompt, 743,59 tok/s (16 runs) Decode, tok gen - avg, 38.39 tok/s (3 hours constant running xhigh) - 10K, 42.3 tok/s (16 runs) - 90K, 34 tok/s (16 runs)\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfdtm7/dear_24g_owners_try_vllm_you_might_be_able_to_run/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I've stuck the fly brain in front of PCSX2, given it a tiny PS controller & hooked up its dopamine readout. It can play any PS2 game. I'm currently working on developing a quasi universal trainer.\u2026",
+     "summary": "So this is incredibly stupid and has no real world value but I'm using it to learn about SNN's - more info on what's happening is on my social but the long and short of it is I did some visual cue tests using Mr. Mosquito as the first test bed to find movement related-ish neurons and used those as\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wfcyo7/ive_stuck_the_fly_brain_in_front_of_pcsx2_given/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "If embeddings are so powerful, why are they mostly used for retrieval?",
+     "summary": "Vector embeddings natively are capable of much more than just retrieval. Even when OpenAI released their initial embedding models, it mentioned that their embeddings are natively capable of Search, Clustering, Recommendations, Anomaly Detection, Diversity Measurement, and Classification. But\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wfcmix/if_embeddings_are_so_powerful_why_are_they_mostly/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Palantir CEO alex Karp on pacing the AI development.",
+     "summary": "submitted by /u/Snoo26837 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wfclio/palantir_ceo_alex_karp_on_pacing_the_ai/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Migration from Claude Code to a private local harness. Questions.",
+     "summary": "I'll start by saying I'm not talking about the models themselves, I'm aware that I can't come close to something like Fable's intelligence locally. Just wanted to get that out of the way. Basically. Over the last year I've gotten quite comfortable with claude code, and it seems likely there were\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfcewd/migration_from_claude_code_to_a_private_local/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Trump and Mike Johnson think the AI industry is overreacting",
+     "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative support for Amodei's\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "What\u2019s behind the AI industry\u2019s latest warnings of doom?",
+     "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+     "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Obama urges Democrats to have a \u2018clear plan\u2019 for AI safeguards",
+     "summary": "Obama recently said that Democrats need to make artificial intelligence one of their \u201ccentral agendas\u201d and \u201chave a very clear plan\u201d to address concerns around the technology\u2019s economic impact and safety.",
+     "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+     "source": "TechCrunch AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "I cannot emphasize enough how much GPT-6 Astra and Fable 5.1 are already enough for transformative impact in large sections of the economy. They can reliably do weeks worth of human work when properly guided & harnessed.",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mvghxanmds2g"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Sunday assorted links",
+     "summary": "1. Scott Sumner as regional thinker. 2. The economists who work on \u201cProductivity and Innovation\u201d are most likely to use AI for their writing. 3. Michael Levin defends neo-neo-Platonism? 4. Look for and try to limit agent collusion. 5. Do orangutans like Indian classical music? 6. \u201cOur results\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/saturday-assorted-links-578.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-578",
+     "source": "Marginal Revolution"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-09-13T20:57+00:00",
+  "window_start": "2026-09-13T16:28+00:00",
+  "window_end": "2026-09-13T20:57+00:00",
+  "candidate_count": 29,
+  "model": "free (no LLM)"
+ }
+}
