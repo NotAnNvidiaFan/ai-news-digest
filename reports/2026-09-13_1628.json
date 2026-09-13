@@ -1,0 +1,257 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Which coding agent is everyone actually using in 2026?",
+   "summary": "Genuinely curious what the split looks like these days. I built a small open source tool called bough ( https://github.com/nickelsec/bough ) that reads the session history your coding agent leaves on disk and draws what you actually built with it. Right now it handles Claude Code and Codex CLI,\u2026",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/artificial/comments/1wfc39x/which_coding_agent_is_everyone_actually_using_in/",
+   "source": "r/artificial"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Which coding agent is everyone actually using in 2026?",
+     "summary": "Genuinely curious what the split looks like these days. I built a small open source tool called bough ( https://github.com/nickelsec/bough ) that reads the session history your coding agent leaves on disk and draws what you actually built with it. Right now it handles Claude Code and Codex CLI,\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wfc39x/which_coding_agent_is_everyone_actually_using_in/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Someone explain it to me like. I\u2019m five. They know they can shut the data centers off, right?",
+     "summary": "All this \u201cOh we need to pause because AI can kill us all\u201d talk coming from the people that spent the largest capital in human history for the non existent ROI\u2026. How? How can a trillion parameter model \u201ccopy itself\u201d? Where? This is not a 256kb virus. How can \u201cthe internet be overtaken in 6 months\u201d\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wfbqad/someone_explain_it_to_me_like_im_five_they_know/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Hoping for Optimized Smarter Upcoming Models .... Like DeepSeek-V4.1-Flash( KVCache + Engram) in Small/Medium/Big sizes",
+     "summary": "It's still a dream for many folks to run medium size(30B range) models @ Q8 with Unquantized KVCache (256K Context) on their GPUs. It would be awesome to have DeepSeek-V4.1-Flash's KVCache + Engram for all Upcoming models. Even for big models. Engram - Heard that approximately 1/3-1/2 of Model\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfbnhc/hoping_for_optimized_smarter_upcoming_models_like/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Qwen 3.8 27B UD-IQ4_XS even faster on 16GB CUDA",
+     "summary": "This is an evolution on top of Raymond's KV cache streaming fork - all credits to what enabled this goes to him. The basic idea behind what he enabled was a pool of memory in VRAM that is used differently depending on the phase (prompt processing or decoding) and when total used context is larger\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfba8g/qwen_38_27b_udiq4_xs_even_faster_on_16gb_cuda/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Hany Farid (UC Berkeley) says ten seconds of your voice is now enough to beat \"voice as password\"",
+     "summary": "TL;DR: A UC Berkeley digital-forensics researcher just told an interviewer the exact number that quietly retires \"voice as password.\" Ten seconds, per Hany Farid \u2014 that's the entire audio budget a bank's voice-biometric layer implicitly assumes an attacker can't clear. No breach, no malware, no\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wfah5e/hany_farid_uc_berkeley_says_ten_seconds_of_your/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Qwen3.8 flash next - untrained svg generation",
+     "summary": "> \"make an svg of a frog playing on a chello on the back of a whale with carribean island in the back.\" interestingly the svg looks different in the OpenWebUi preview then when looked at in preview (osx). The palms and music notes are missing in the browser. I am pretty impressed by the result, is\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wf9uc5/qwen38_flash_next_untrained_svg_generation/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "CUDA for AMD on Windows",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49684356",
+     "url": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "My experience building 64GB VRAM AI SWE assistant/agent PC",
+     "summary": "As a SWE I have ultimate belief that having a irreplaceable subscription on OpenAI and Anthropic models is actually against my beliefs (I'm not fond of becoming a digital slave and being unable to do my job without using tools from some sketchy corporation), so I kinda turned my attention to local\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wf8ur9/my_experience_building_64gb_vram_ai_swe/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49684266",
+     "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Key symbols we lost to time, pt. 1: The PC side",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49684101",
+     "url": "https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-1-the-pc-side/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Roxanne Ritchi Is In Dr. Claw's Hidden Base",
+     "summary": "Roxanne Ritchi realized that she's not in Megamind's lair, she's in Dr. Claw's hidden base. submitted by /u/Educational-Dog2222 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wf879h/roxanne_ritchi_is_in_dr_claws_hidden_base/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "AI models don't kill people \u2013 people kill people",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49683834",
+     "url": "https://www.theregister.com/ai-and-ml/2026/09/09/ai-models-dont-kill-people-people-kill-people/5295368",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "ai governance and esg platform reviews reddit",
+     "summary": "Our company is expanding its sustainability reporting while simultanously deploying enterprise AI initiatives, and leadership wants a unified software strategy to handle both ESG/carbon accounting and AI compliance. Are there platforms that genuinely handle both, or are companies stuck running\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wf6va5/ai_governance_and_esg_platform_reviews_reddit/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "The rhetoric is really heating up!",
+     "summary": "The entire page of the NY Times today above the fold absent one article is AI (the models are just too strong/too dangerous, must be regulated). They forgot to include \"Sponsored by OpenAI\" at the end of the articles, sure that was just an oversight? This is what the end of a bubble looks like,\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wf6nbi/the_rhetoric_is_really_heating_up/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Matt Mullenweg reportedly returns as Automattic CEO 2 days after getting booted",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49683265",
+     "url": "https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "What are the top AI Models that are still relevant today from 2024 and 2025?",
+     "summary": "We are in 2026 and it has been a crazy year. The evolution of the technology has been staggering to say the least. Pretty much we are on the MoE period and dense models are almost in the way of the dodo except for a few. I was just thinking, are there any models of the last 2 years that you would\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wf69ug/what_are_the_top_ai_models_that_are_still/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I trained an 825k-parameter model to generate drawing programs that execute exactly on an RP2040 [P]",
+     "summary": "I\u2019ve been working on a small research project about whether sub-million-parameter models can learn to generate executable drawing programs for constrained hardware. The current system is an 825k-parameter autoregressive transformer which generates ~100 bytes of drawing bytecode rather than pixels.\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wf611v/i_trained_an_825kparameter_model_to_generate/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Theory",
+     "summary": "I have a theory: OpenAI and Anthropic have recently been highlighting more stories about AI systems \u201cescaping\u201d sandboxes, hacking systems, or displaying unexpectedly autonomous behavior. Meanwhile, actual LLM progress looks increasingly less exponential (progress is real, but it feels more\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wf4do0/theory/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Zachery Lipton: \"CS academia broke the system...perhaps all that it takes for the system to rebuild is for it to burn to the ground\" [D]",
+     "summary": "Sept 9, 2026 hits an all time daily high of 447 new machine learning papers uploaded to cs.LG ( https://arxiv.org/list/cs.LG/recent?skip=0&show=500 ). This is many times more papers than what a human being or even a sizeable reading group could feasibly read and digest in a year. This is preceded\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wf4b5g/zachery_lipton_cs_academia_broke_the/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "When NeurIPS'26 final decision release? [D]",
+     "summary": "Will it be strictly Sep'24 AoE? Is there any possibility for releasing before Sep'18 AoE, ICLR abstract submission date? submitted by /u/No_Fig_3372 [link] [comments]",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wf48kt/when_neurips26_final_decision_release_d/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "internlm/Intern-S2 \u00b7 Hugging Face",
+     "summary": "from internlm: We introduce Intern-S2-397B , our most capable multimodal foundation model for scientific intelligence and long-horizon agents. Intern-S2-397B scales along three critical dimensions: pre-training, reinforcement-learning task coverage, and interactive agent environments. By combining\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wf3wt2/internlminterns2_hugging_face/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "The Local LLM community feels like the golden era of the internet all over again",
+     "summary": "Lately because of the current hardware shortage, unfortunately or fortunately, we can\u2019t just throw infinite cloud compute at our problems, but we\u2019re forced to actually care about what\u2019s happening under the hood. We\u2019re tweaking inference engines, learning quantization math, and optimizing\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wf3i1m/the_local_llm_community_feels_like_the_golden_era/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "McKinsey: 32% of companies skipped buying new software this year and built it with agents instead",
+     "summary": "This is from McKinsey's State of AI 2026 survey (published late August), not just a headline stat: 32% of organizations decided against an off the shelf purchase and built their own solution with agentic coding tools instead, 41% in tech specifically. Curious if anyone here has actually killed a\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wf3byr/mckinsey_32_of_companies_skipped_buying_new/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "What is the BEST Gemini alternative?",
+     "summary": "I have been using Google Gemini for a long time because it offers the most features in its free tier. In the free tier, there is an unlimited file upload limit, and etc. However, with the last update, Flash and Flash-Lite models have become literally stupid. Even the Pro model is shitty. And after\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wf30oo/what_is_the_best_gemini_alternative/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Can we finally say top models today are more intelligent than an average human if not what's missing?",
+     "summary": "Please define intelligence first. submitted by /u/CrazyCurrent8732 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wf2thp/can_we_finally_say_top_models_today_are_more/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "OpenAI's Millennium Prize proof has turned into a credit dispute, and Fields Medalists are now getting involved",
+     "summary": "An NYU mathematician named Tristan Buckmaster announced earlier this week that he and Anthropic mathematician Levent Alp\u00f6ge had made progress on the Navier-Stokes existence and smoothness problem, one of the seven Millennium Prize problems that carry a million dollar bounty from the Clay\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wf2aj2/openais_millennium_prize_proof_has_turned_into_a/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49681276",
+     "url": "https://www.bbc.co.uk/news/articles/cq635037g18o",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Is there still strong interest in a dense 9b model?",
+     "summary": "I have a full model, it's ready to train. It's ~9b parameters. 9.4b to be more exact. That includes a 1/2/3 Engram table, Moonshot's AttnRes modeling, and RoPE / NoPE layering at 3:1 as more or less validated by most major labs. It uses the Llama 3 series tokenizer and LM Head as an initial start.\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wezm58/is_there_still_strong_interest_in_a_dense_9b_model/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Should I sell my RTX 5090 for a Mac Studio M5 Ultra 96GB?",
+     "summary": "I can get $5k for the 5090 and the Mac is $5499 before tax. The 5090 has a memory bandwidth of 1.8 TB/s while the M5 Ultra is 1.2 TB/s. Is this a sensible upgrade? Primary use is coding. submitted by /u/unchikuso [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wez30k/should_i_sell_my_rtx_5090_for_a_mac_studio_m5/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "AI Agents Are Thirsty for Power",
+     "summary": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI\u2014and it's driving the data center buildout.",
+     "url": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
+     "source": "Wired AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "Existential AI risk is obviously critical, but it is not the only AI thing that requires policy. I worry it will become the sole focus of AI discussions. We don\u2019t need better models for AI to have wide impacts on jobs & society and we need to be preparing to encourage good outcomes & mitigate bad.",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mvfqufeavk2g"
+    },
+    {
+     "author": "Bluesky @natolambert.bsky.social",
+     "handle": "",
+     "quote": "Open-Source AI & Open Models Reading List How to get up to speed on open models and their implications. www.interconnects.ai/p/open-sourc...",
+     "context": "",
+     "url": "https://bsky.app/profile/natolambert.bsky.social/post/3mvfm6m2t672j"
+    },
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "One of the downsides in AI getting so good is that it is getting harder to demonstrate its strengths and weaknesses at the frontier. Yes, Astra and Fable can research and write good papers in an academic field. No, they are not as good as top humans (yet?), but you have to know the field to know why",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mvevfzucrk2v"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Diversity Is Our Strength?",
+     "summary": "Diversity is our strength is a common motto. Indeed it is one of GMU\u2019s core values but what is the scientific evidence for this thesis? A new scoping review: Recent years have witnessed many strong claims that \u2018diversity\u2019 leads to more original and impactful science, which is a science-focused\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/diversity-is-our-strength.html?utm_source=rss&utm_medium=rss&utm_campaign=diversity-is-our-strength",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "A simple model of AI-aided economic growth",
+     "summary": "The Solow model has its uses, but it fails when it comes to major changes stemming from AI. Consider instead an economy with (at least) two factors of production: 1. Intelligence. Yes, formal smarts. Playing chess, proving math theorems, and doing well on evals. Don\u2019t forget humans can do those\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/a-simple-model-of-ai-aided-economic-growth.html?utm_source=rss&utm_medium=rss&utm_campaign=a-simple-model-of-ai-aided-economic-growth",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "ivyfan-toowell/IvyClaw: A production-oriented multi-agent AI Agent system for software engineering. | \u9762\u5411\u8f6f\u4ef6\u7814\u53d1\u4efb\u52a1\u7684\u591a\u667a\u80fd\u4f53 AI Agent \u5de5\u7a0b\u7cfb\u7edf",
+     "summary": "A production-oriented multi-agent AI Agent system for software engineering. | \u9762\u5411\u8f6f\u4ef6\u7814\u53d1\u4efb\u52a1\u7684\u591a\u667a\u80fd\u4f53 AI Agent \u5de5\u7a0b\u7cfb\u7edf",
+     "url": "https://github.com/ivyfan-toowell/IvyClaw",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "oguzhankayan/turkish-native: Agent skill for writing native Turkish and removing translationese from AI and localized copy.",
+     "summary": "Agent skill for writing native Turkish and removing translationese from AI and localized copy.",
+     "url": "https://github.com/oguzhankayan/turkish-native",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-09-13T16:28+00:00",
+  "window_start": "2026-09-13T04:59+00:00",
+  "window_end": "2026-09-13T16:28+00:00",
+  "candidate_count": 37,
+  "model": "free (no LLM)"
+ }
+}
