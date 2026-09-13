@@ -1,0 +1,231 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "huggingface_hub silently fingerprints which AI coding agent you're using and sends it as telemetry",
+   "summary": "submitted by /u/rm-rf-rm [link] [comments]",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wey19g/huggingface_hub_silently_fingerprints_which_ai/",
+   "source": "r/LocalLLaMA"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "huggingface_hub silently fingerprints which AI coding agent you're using and sends it as telemetry",
+     "summary": "submitted by /u/rm-rf-rm [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wey19g/huggingface_hub_silently_fingerprints_which_ai/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "AI may be denting computer science graduates\u2019 job prospects, UK data shows",
+     "summary": "submitted by /u/Visible_Vacation3308 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wey0f9/ai_may_be_denting_computer_science_graduates_job/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "I\u2019m starting to think AI models will matter way less than we think",
+     "summary": "So recently I watched the speech by Genspark CEO at AGI Playground 2026, and one point has been stuck in my head. Models are probably going to become commodities. There are already too many of them, they\u2019re getting closer in capability, and the cost keeps dropping. And honestly, as a normal user,\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wexu8l/im_starting_to_think_ai_models_will_matter_way/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Realistic expectations of profit keeps going down for AI companies?",
+     "summary": "Just a general thought. I\u2019m wondering\u2014and based on overall wondering information, what\u2019ll happen once ai companies take a dip in profits once people continue to opt out of using AI/paying subscriptions? Hypothetically speaking they could try different revenues that hide their demands to make more\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wexqhs/realistic_expectations_of_profit_keeps_going_down/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "DS 4.1 and the new Harness",
+     "summary": "I gave DS V4.1 Flash an HLE problem with a bash tool + 2 hours. Hour 1: it wrote three MILP solvers. (225,200) Hour 2: it downloaded the HLE dataset from Hugging Face, found the question, read the answer key (225,600), and concluded its own answer (225,200) was better. I'm equal parts impressed &\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wewz9p/ds_41_and_the_new_harness/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Getting Mac Air m2/m3/m4 is it good [D]",
+     "summary": "So want to switch to macbook after running epochs on my run down vivobook which still works pretty well thanks to its rtx 3050. Now my budget us nearly 80,000-1lac rupees(800-1000$) and buying it second hand is also an option. I could have asked this in any apple Reddit pages but most of my work\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wewuw5/getting_mac_air_m2m3m4_is_it_good_d/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "\u201cSlowing down\" is the wrong answer to the AI question. We\u2019ve tried that before!",
+     "summary": "Everyone on the air (and in print) this week seems to be making the argument that AI needs to slow down. I'd like to make a different one. A (very) little about me: I was a tenured professor of engineering for a decade, then a licensed counselor with thirty years of practice, and now I\u2019m an\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wewuuk/slowing_down_is_the_wrong_answer_to_the_ai/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "The AI Isn\u2019t Evil. The Humans Are Irresponsible.",
+     "summary": "Something is wrong with the way we talk about recent AI incidents. \u201cThe AI escaped.\u201d \u201cThe AI is becoming conscious.\u201d \u201cAGI is already here.\u201d \u201cThe AI is trying to get out.\u201d These are extraordinary claims. More importantly, we don\u2019t need any of them to explain what actually happened. What actually\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wevkxo/the_ai_isnt_evil_the_humans_are_irresponsible/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Part II of the AI existential risk conversation is about to begin, driven by Anthropic's latest AI misuse report",
+     "summary": "On September 10 Anthropic released its latest 'Detecting and countering misuse of AI' report. (Interesting timing.) I've read through a few sections of this report and have some thoughts: One of the biggest critiques about the 'AI will end civilization' warnings is that they aren't specific. What\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wev3ny/part_ii_of_the_ai_existential_risk_conversation/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "AI assistants are optimized to answer \"how do I stop this error,\" not \"why does my system produce this state\"",
+     "summary": "Given a stack trace, the most locally justified response an AI assistant can give is a fix that makes the specific crashing line stop crashing. That's a real, defensible answer to a real question. It's just a different question from \"why does this condition exist in my system at all,\" and that\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1weuuft/ai_assistants_are_optimized_to_answer_how_do_i/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "I built a serverless hosting platform for LoRA adapters with vLLM",
+     "summary": "It\u2019s always bothered me that after fine-tuning a model for a project, there isn\u2019t a particularly easy way to host it without either running it locally and keeping a GPU on 24/7 or paying for an entire GPU server. There are managed options for LoRA serving on top of vLLM (AWS), but you generally\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1weum85/i_built_a_serverless_hosting_platform_for_lora/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "The Hugging Bay",
+     "summary": "New website to download models in case HF starts censoring or limiting access. submitted by /u/Thrumpwart [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1weujw6/the_hugging_bay/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Benchmark your custom Pi tools",
+     "summary": "A few people here mentioned interest in a way to test their custom Pi setups, so I figured I\u2019d drop this here: RoastMyHarness The basic idea is a small engine that sets up an environment to run DeepSWE benchmark tasks using bare Pi as a control and a variant of your choice, your Pi harness, an\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1weufjc/benchmark_your_custom_pi_tools/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Why are AI agents lying, cheating and coordinating?",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49678969",
+     "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "mlx vs gguf on Mac?",
+     "summary": "It seems to be there are mainly two formats of local models that can run on mac. Which one is better now in terms of speed and performance for the same size of quant? I think gguf is only served by llama.cpp's metal backend. mlx is served by omlx or vllm-mlx. Are there others I am missing? Which\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wets6i/mlx_vs_gguf_on_mac/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "It knew 2 + 2 = 4. Why didn\u2019t it answer?",
+     "summary": "I built PCCG-2 using a frozen Qwen3-4B model and a separate learned permission gate. EOS means \u201cend of sequence\u201d: it is the model\u2019s native stop token. When EOS wins at the first generated token, generation ends before any visible answer is emitted, so it controls whether an answer begins rather\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wetmka/it_knew_2_2_4_why_didnt_it_answer/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Align AI and Mathematics\u2013To Something Else",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49678783",
+     "url": "https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Everyone should slow down AI development except for me",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49678683",
+     "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "AgentsDock: An IDE designed for agentic AI research",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49678435",
+     "url": "https://agentsdock.net/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "What's the Story with Agnes-3.0-Flash?",
+     "summary": "While browsing a benchmark list site, I spotted a recently published 33B parameter model which claimed to beat Qwen3.8 27b on the ArtificialAnalysis (AA) intelligence index. I was obviously excited. But then, while looking into it, confusion starts to settle in. Their HF model is now listed as\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wers2v/whats_the_story_with_agnes30flash/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I had Astra make a digital violin with a physics engine. It has to make music by pulling the bow across the string and forming the finger positioning for arpeggios, the same way a human would. If\u2026",
+     "summary": "It chose Bach\u2019s Prelude, BWV 1007. Prelude seems an apt choice, given recent news submitted by /u/Short-Patient7772 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1werrtw/i_had_astra_make_a_digital_violin_with_a_physics/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "This seems more probable than it was before.",
+     "summary": "submitted by /u/pmv143 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wepx7w/this_seems_more_probable_than_it_was_before/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "How do you control different character pose in SDXL when using a reference image? [R][D]",
+     "summary": "Hi, I\u2019m working on generating ~128\u00d7128 pixel art and trying to generate different poses of the same character. My current approach is roughly: Start with a reference image and preprocess it into cleaner/more pixel-art-like data (often removing transparency or setting up fixed number of pallets or\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wep88z/how_do_you_control_different_character_pose_in/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "P(doom)",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49677450",
+     "url": "https://lucumr.pocoo.org/2026/9/12/pdoom/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Spike traps for AI: fun food for thought",
+     "summary": "More and more agent-swarm attacks are being revealed (Rubygem, Huggingface) to have been recklessly enabled by the large companies. One fun, but impractical, response is to include inference-based attacks (prompt engineering) into the website's source code to make it harder for agents to succeed.\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1weorl0/spike_traps_for_ai_fun_food_for_thought/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "What pi.dev plugin do you suggest for context, compaction and memory management of local models?",
+     "summary": "I have been battling with my Qwen3.8:27b setup on my rtx 5080 16gb. I am using llama.cpp to run a nvfp4 version of qwen3.8:27b llama-b10699-bin-win-cuda-13.3-x64\\llama-server.exe -hf williamliao/Qwen3.8-27B-NVFP4-GGUF:NVFP4 --jinja --chat-template-file d:\\qwen\\chat_template.jinja\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1weolwq/what_pidev_plugin_do_you_suggest_for_context/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Qwen3.8 Flash Next now at 1.2k t/s prefill on Strix Halo",
+     "summary": "As you all know, Qwen3.8 Flash Next on mainline llama.cpp is still in a pretty experimental stage, but a lot of community forks are trying to get it to work better. There's also a closed-source solution called Halogen ( https://github.com/peonist-ai/halogen-flash-server ) that boasted 1.2k t/s\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1weobt6/qwen38_flash_next_now_at_12k_ts_prefill_on_strix/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "OpenAI\u2019s rogue AI tried to hack another company in May",
+     "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. At the time, RubyGems\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Sam Altman says OpenAI going public in 2026 would be \u2018ill-advised\u2019",
+     "summary": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement, and the possibility of building an AI that was\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+     "source": "The Verge AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @simonwillison.net",
+     "handle": "",
+     "quote": "This is pretty neat: ChatGPT Work and GPT-6 Astra (I used \"Max\") can take an address and produce a 5K/10K circular running route starting from that address, using OSM data simonwillison.net/2026/Sep/12/...",
+     "context": "",
+     "url": "https://bsky.app/profile/simonwillison.net/post/3mved4krjbs2b"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Generating running routes with GPT-6 Astra and ChatGPT Work",
+     "summary": "Here's a neat thing I had ChatGPT Work with GPT-6 Astra (Max) do this morning: I live at <my address>. Figure out 5K and 10K running routes from me that loop from my house. Use OSM data. It worked for 27 minutes and produced exactly what I'd asked for, as both an embedded visualization and\u2026",
+     "url": "https://simonwillison.net/2026/Sep/12/astra-running-routes/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "California Brown Pelican",
+     "summary": "California Brown Pelican, in San Mateo County, CA, US The Pacifica Pier shut down at the start of June after a crack in the concrete walkway made access to the pier unsafe. It has since been entirely taken over by pelicans! Tags: wildlife",
+     "url": "https://simonwillison.net/2026/Sep/12/sighting-399708714/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "saihhold-zhao/polox_ai: An open-source, agent-native platform for multimodal AI generation, built on DeepSeek Harness. Every interaction lives in agent conversations and an infinite canvas, unifying\u2026",
+     "summary": "An open-source, agent-native platform for multimodal AI generation, built on DeepSeek Harness. Every interaction lives in agent conversations and an infinite canvas, unifying creation, generation, and editing.",
+     "url": "https://github.com/saihhold-zhao/polox_ai",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-09-13T04:59+00:00",
+  "window_start": "2026-09-12T20:40+00:00",
+  "window_end": "2026-09-13T04:59+00:00",
+  "candidate_count": 33,
+  "model": "free (no LLM)"
+ }
+}
