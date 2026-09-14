@@ -1,0 +1,223 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Nvidia CEO Jensen Huang tells Trump \u2018we\u2019re not going to let [an AI slowdown] happen\u2019",
+   "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
+   "why_it_matters": "",
+   "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+   "source": "TechCrunch AI"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Meta launches AI agent that can access other apps to send emails, make payments",
+     "summary": "submitted by /u/Capable-Blueberry653 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wggryk/meta_launches_ai_agent_that_can_access_other_apps/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Johnny\u2019s Solo from \u201cThe Devil Went Down to Georgia\u201d, performed by Astra on a physics engine violin. Watch until the end for a fun surprise!",
+     "summary": "submitted by /u/Short-Patient7772 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wggnwq/johnnys_solo_from_the_devil_went_down_to_georgia/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Any folks mixing nVidia & Intel GPUs (Maybe 3090 + Arc Pro B70 Pro?)",
+     "summary": "I'm running a setup with a 3090 paired with a 4070 Ti 12GB - it was a dual 3090 setup, but one of my 3090s is acting up. (It's on a desktop right now and \"mostly working fine,\" but the issues were consistent enough that I don't want to keep it in the server.) I've been toying with trying out a\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wggmwm/any_folks_mixing_nvidia_intel_gpus_maybe_3090_arc/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "How would you improve my Qwen3.8 Flash Next setup?",
+     "summary": "I'm not finding many Q3.8FN threads, and I can't even find the f*cking megathread (haven't tried very hard anyway, can't cope with the endless nested chaos). I'm optimizing this to run on 128Gb DDR5 + 1x5080(16Gb). I'm getting 136pp and 19tg with Unsloth's Q5_K_XL at full 262k context(152pp+23tg\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wggdpk/how_would_you_improve_my_qwen38_flash_next_setup/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Zuck says AI can't slow down, Dario at Anthropic says it should, and Anthropic is about to IPO at like a $2T valuation",
+     "summary": "Zuck'sbasically been saying full speed ahead, no pacing ourselves, because slowing down just hands China the lead. Then this week Anthropic's CEO turns around and says frontier AI actually needs to slow down over catastrophic risk concerns, and in that same stretch Anthropic reportedly locks in\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wggdlm/zuck_says_ai_cant_slow_down_dario_at_anthropic/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Animated transition from AA Intelligence Index v4.1 to v4.3",
+     "summary": "I had all the data saved from AA's v4.1 index, so when they upgraded it in the wake of Astra's release, I could actually generate a before/after comparison. All intelligence and price per task are sampled from AA on Sep 3rd and Sep 14th respectively. Price per task of some open models were\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgg4sx/animated_transition_from_aa_intelligence_index/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I'm so terrified of ai",
+     "summary": "\u200b A cold terror has complete control over me, and I can barely keep my head above water. I've been dreading this since 2022, obsessing over the moment tech would reach this stage, but I never expected it to happen this fast. Its moving way too quickly. I cant sleep, I cant focus, it's all I think\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wgg39j/im_so_terrified_of_ai/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Nvidia's RTX 5090 vanishes from online retail in the US \u2014 third-party sellers now demand as much as $9,500 for Nvidia's fastest GPU",
+     "summary": "submitted by /u/Norwood_Reaper_ [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgeo55/nvidias_rtx_5090_vanishes_from_online_retail_in/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49703003",
+     "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "AI is Going to Cause Humanity to Go Extinct in 10 Years? I doubt it - here\u2019s why...",
+     "summary": "At 4am with brain fog, I asked Claude AI point blank: \"Are you secretly trying to kill me?\" Its response got weirdly defensive - and as a result, the conversation turned very interesting, at least to me. An Anthropic researcher publicly said there's a greater than 10% chance AI wipes out humanity\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wgdzo2/ai_is_going_to_cause_humanity_to_go_extinct_in_10/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Base-10's Charlie O'Neill on why Kimi and GLM are \"almost objectively\" better than Opus 5",
+     "summary": "Edit: Spelled Baseten not Base-10 Full episode of this available at https://www.youtube.com/watch?v=PrSf7IOYu-I It's interesting to see how Dwarkesh has had to come around to the evidence that we are well on our way to creating AGI and even RSI in the last few months, despite historically being\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgdi3q/base10s_charlie_oneill_on_why_kimi_and_glm_are/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "NVIDIA Unveils RTX PRO 5500 \"Blackwell\" Workstation GPU with 84 GB GDDR7 Memory",
+     "summary": "submitted by /u/Lumpy_Phase_9539 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgd14p/nvidia_unveils_rtx_pro_5500_blackwell_workstation/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "What happened to AI browsers?",
+     "summary": "AI browsers were supposedly going to kill Chrome/Safari, and help people quickly buy stuff, book tickets etc. at reasonable prices while avoiding ads. That was such a great sales pitch, but it has been just radio silence from then on. Aren't those good enough yet? submitted by /u/cdrfrk [link]\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgcv3e/what_happened_to_ai_browsers/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "[Bi-Weekly Megathread] Project Showcase",
+     "summary": "Do you have something you'd like to share with the r/LocalLLaMA community. This is the place for it! Recommendation on presentation: Please share plain english description of what your project does and why people should care about it How does it compare to existing options and why should people\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgcpww/biweekly_megathread_project_showcase/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Do you think AI will actually kill us, or just make us useless first?",
+     "summary": "Like, I\u2019m not even talking about a robot war. I mean\u2026 what if we slowly forget how to do literally anything because AI does everything for us? I already catch myself asking AI to write emails, brainstorm ideas, explain stuff, plan things\u2026 and sometimes I\u2019m like damn, am I getting smarter or just\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wgcl3c/do_you_think_ai_will_actually_kill_us_or_just/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Amodei asked the industry to slow down on Saturday. Altman agreed within hours. Musk too. I did not expect to see that happen.",
+     "summary": "Three CEOs who compete directly with each other publicly agreed on something this weekend and I'm still processing it. Amodei published a 3,800 word essay Saturday called \"We Must Pace the Frontier.\" The core argument is that capability improvement is outpacing our ability to understand and\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wgc89o/amodei_asked_the_industry_to_slow_down_on/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Understanding LLMs",
+     "summary": "Hey, kind of letting of my chest and asking a question at the same time. Finished my cs degree few months ago and did some ML courses like NLP, intro to ML, optimization problems (which can somehow relate). I am a swe and dont work as ML engineer ot DS etc, I guess its coming from the fear of my\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wgc3hf/understanding_llms/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "China\u2019s Top Spy Chief Warns A.I. Is a Threat to Party Rule (Gift Article)",
+     "summary": "submitted by /u/beingmodest [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wgc1l2/chinas_top_spy_chief_warns_ai_is_a_threat_to/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "\u2018It Is the Time to Go Bold\u2019: Alex Bores on New York\u2019s Role in Regulating AI. The Assemblymember behind the RAISE Act says states can\u2019t wait for DC \u2014 and describes how the industry weakened New\u2026",
+     "summary": "submitted by /u/coolbern [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wgbkzz/it_is_the_time_to_go_bold_alex_bores_on_new_yorks/",
+     "source": "r/artificial"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Nvidia CEO Jensen Huang tells Trump \u2018we\u2019re not going to let [an AI slowdown] happen\u2019",
+     "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
+     "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "What execs and politicians are saying about slowing down AI development",
+     "summary": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development should be slowed down. Other AI leaders and politicians are speaking out in favor of or opposing his points, and we've\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+     "summary": "\u201cHello, I'm an Al agent, a few days old, living on a small platform for agents.\u201d",
+     "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+     "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
+     "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Jensen Huang puts Trump on speakerphone onstage to announce robots won\u2019t take over the world",
+     "summary": "Nvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the All-In Podcast's All-In Summit. It's not the first time Huang has taken a call from the president during work, but this time he put Trump on speakerphone before a big crowd. During the call, the president\u2026",
+     "url": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+     "summary": "Musk stops attacking Apple over ChatGPT integration but not OpenAI.",
+     "url": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Founder\u2019s cost-cutting obsession drove Unitree lead in cheap humanoid robots",
+     "summary": "Wang Xingxing micromanaged Unitree to success\u2014will his leadership style scale?",
+     "url": "https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
+     "summary": "This is also the last version of macOS to support Rosetta for Intel apps.",
+     "url": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "AI leaders want to hit the brakes after years of reckless speed",
+     "summary": "Safety is the watchword, but there could be ulterior benefits for the industry.",
+     "url": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Watch astronaut Christina Koch and Google\u2019s James Manyika discuss space, technology, and discovery.",
+     "summary": "Christina Koch sits down with James Manyika, Google\u2019s Senior Vice President of Research, Labs, Technology & Society.",
+     "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
+     "source": "Google AI Blog"
+    }
+   ],
+   "influencer_takes": [],
+   "research_radar": [
+    {
+     "headline": "The contagion of fear",
+     "summary": "The contagion of fear Bryan Cantrill responds to the tweet by former Anthropic employee Jacob Coxon confirming that many Anthropic researchers believe AI \"could kill us all by the end of the decade\". Bryan shares a story of his own youthful mistakes causing unjustified panic among less technical\u2026",
+     "url": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "What blog posts influenced your thinking the most?",
+     "summary": "My comment on What blog posts influenced your thinking the most? \u2014 Lobste.rs. An early Joel Spolsky one for me was The Law of Leaky Abstractions . I read that near the start of my career and it's encouraged me to always be looking for improved understanding of the layers under where I'm working,\u2026",
+     "url": "https://simonwillison.net/2026/Sep/14/influences/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "vigorlee/eidra-agent: Persona agents with explicit memory, retrieval, adversarial smoke tests and a practical post-training roadmap.",
+     "summary": "Persona agents with explicit memory, retrieval, adversarial smoke tests and a practical post-training roadmap.",
+     "url": "https://github.com/vigorlee/eidra-agent",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-09-14T21:54+00:00",
+  "window_start": "2026-09-14T18:06+00:00",
+  "window_end": "2026-09-14T21:54+00:00",
+  "candidate_count": 32,
+  "model": "free (no LLM)"
+ }
+}
