@@ -1,0 +1,441 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+   "summary": "",
+   "why_it_matters": "",
+   "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+   "source": "Google DeepMind"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "There's a 100% Chance AI Agents Are Ruining the Internet",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49715113",
+     "url": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Apple Foundation Models: local AI natively on MacOS 27",
+     "summary": "Maybe some of you know but I didn\u2019t see any post about this. Apple just made available their AFM model on MacOS 27 natively. Just run fm chat in a terminal. Disclaimer: I\u2019m an open weight person. I prefer open models and ecosystem, but I\u2019ll still open the discussion. Did you test them? Build using\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wh5fpa/apple_foundation_models_local_ai_natively_on/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Suggestions from all of you guys is needed, please respond this text [D]",
+     "summary": "Hey guys, I have been posting in this subreddit for a long time. I have been asking to give me sugggesitons on my personal career, on how to move ahead in this AI replacement era. I have been touching the basics, trying to make sure I do not miss any fundamentals. I started with data analytics,\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wh5a7w/suggestions_from_all_of_you_guys_is_needed_please/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "TabPFN-3.5 is released as the next SOTA tabular foundation model [N]",
+     "summary": "Prior Labs released their latest tabular foundation model, TabPFN-3.5 today. The model is top of both TabArena and BeyondArena and SOTA for 1M rows and up to 20k features It comes with: - TabPFN-3.5-Fast (in alpha): This one goes 6x faster than the base model - TabPFN-3.5-Thinking: you basically\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wh4xhy/tabpfn35_is_released_as_the_next_sota_tabular/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Qwen3.8-27B-NVFP4 1M context. So far so good.",
+     "summary": "I am a beginner, Took a while to get started, get everything right. This setup is native not container. Still not sure if I did this right, or if I can tune this more. Environment=HF_HUB_OFFLINE=1 Environment=VLLM_LOGGING_LEVEL=INFO Environment=VLLM_ALLOW_LONG_MAX_MODEL_LEN=1\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wh4gai/qwen3827bnvfp4_1m_context_so_far_so_good/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Koboldcpp v1.121 released",
+     "summary": "submitted by /u/Fcking_Chuck [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wh4cg9/koboldcpp_v1121_released/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Cartesian \u2013 AI 3D Modeling for Design",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49713999",
+     "url": "https://www.formas.ai/cartesian",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "SAMA hints at big SHIPS this WEEK and even more for DevDay 2026",
+     "summary": "submitted by /u/UniqueArrival9756 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wh2t40/sama_hints_at_big_ships_this_week_and_even_more/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "TIME's latest cover",
+     "summary": "submitted by /u/CremeSubject7594 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wh2i82/times_latest_cover/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "A Cop Searched 19,000 Flock Cameras Across 1,558 Cities. His Reason: 'LMAO'",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49713395",
+     "url": "https://www.techtimes.co.uk/police-flock-search-licence-plate-lmao-1808683",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Got it unopened off Craigslist for $4k. Excited to start hosting my own models!",
+     "summary": "I\u2019ve been tempted to get a spark for a few months now but the prices were climbing. A new one can go for anywhere from $5k-$6k. I was lucky enough to be scrolling through Craigslist when I stumbled upon this. The owner won it in a raffle and was trying to unload it quickly while they were in town.\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wh2cga/got_it_unopened_off_craigslist_for_4k_excited_to/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "ByteShape Qwen 3.8 27B: To KL Diverge or Not to KL Diverge, Part 2: Metric Boogaloo",
+     "summary": "Hey r/LocalLLaMA , We\u2019ve released our full ShapeLearn GGUFs for Qwen 3.8 27B. Blog / Download models TL;DR 3.84 bpw (GPU-5) reaches 99.63% of BF16\u2019s aggregate score of 8 benchmarks, being the most accurate quant we\u2019ve evaluated; 3.23 bpw (GPU-4) reaches 98.72%. These average BF16-normalized scores\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wh21e9/byteshape_qwen_38_27b_to_kl_diverge_or_not_to_kl/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Agentic coding in 2026",
+     "summary": "Creds: https://x.com/0xdoug/status/2099647215773901064 submitted by /u/TenaciousWeen [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wh19nj/agentic_coding_in_2026/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Show HN: Panel \u2013 A research workspace where the agent can build its own panes",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49712621",
+     "url": "https://github.com/greentfrapp/panel",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "NeurIPS 2026: handling of multiple venue locations seems bad [D]",
+     "summary": "There has been a recent post acknowledging that NeurIPS passes for Sydney sold out in minutes. For paper authors (guaranteed 1 pass at their designated location) \u2014 we recently received forms to select a preferred venue, but apparently we\u2019re not guaranteed to present there. I thought it\u2019s a good\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wh0xaz/neurips_2026_handling_of_multiple_venue_locations/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "AI is breaking our proxies for expertise",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49712416",
+     "url": "https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49712409",
+     "url": "https://www.bbc.com/news/articles/cqgk5e2j0gg8o",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Show HN: Capsule \u2013 Single-file web apps that save their data into SQLite",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49712278",
+     "url": "https://withcapsule.app/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Show HN: Ordewell \u2013 turn one goal into an ordered plan of coding-agent tasks",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49712276",
+     "url": "https://github.com/ordewell/ordewell",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49712102",
+     "url": "https://bkovac.github.io/modem-thing/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "I trained a 44M parameter quantized LLM from scratch on 45B tokens. It ships in 19.8 MB and runs at ~1,900 tok/s on CPU. [P]",
+     "summary": "Three weeks back , i posted SHADOW-250M here. It got 360 upvotes, 293 on r/LocalLLaMA and 94 GitHub stars. Thank you. That model was 60 MB, ran around 400 tok/s on CPU and could retrieve records from an archive on disk. What it couldn\u2019t do reliably was reason over what it retrieved or compute. So\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wgzpli/i_trained_a_44m_parameter_quantized_llm_from/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Opus 5.2 Roblox Showcase",
+     "summary": "submitted by /u/141_1337 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wgz8qr/opus_52_roblox_showcase/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Occamy-1.0 by Accio Lab",
+     "summary": "submitted by /u/No-Name-Person111 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgz8fo/occamy10_by_accio_lab/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "It's Tuesday already with no new model drops",
+     "summary": "submitted by /u/Turtlesaur [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgz60a/its_tuesday_already_with_no_new_model_drops/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49711544",
+     "url": "https://github.com/arnegiacomo/fugleramme",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Neura the german robotics company showing off how stiff their new humanoids are going to be",
+     "summary": "submitted by /u/Distinct-Question-16 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wgz0bu/neura_the_german_robotics_company_showing_off_how/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+     "summary": "it be like that submitted by /u/Every-Walrus [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgwh7k/qwen3827bturbofablecoldfusion735882hereticuncensor/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "CrofAI \"cheapest inference provider in the world\" gets exposed as an OpenRouter wrapper, routing requests to smaller, cheaper models at up to 20x markup. CrofAI responds to Wire Fraud allegations by\u2026",
+     "summary": "Disclaimer: no AI was used whatsoever to write this post Cautionary tale about chasing cheap tokens. expos\u00e9: https://kendell.dev/blog/crofaifalse/ reaction by nahcrof, announcing the shutdown of the service: https://x.com/nahcrof/status/2099552389434900643 - now deleted, archive picture:\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgwe4n/crofai_cheapest_inference_provider_in_the_world/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "How much of F-Droid is LLM generated?",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49710015",
+     "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "OM-1 : A fast embodied AI.",
+     "summary": "Source: https://www.youtube.com/watch?v=IJvyS2aPsnA Blog Post: https://www.rewardai.com/blog/OM-1/ submitted by /u/RevolutionaryJob2409 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wgvfsq/om1_a_fast_embodied_ai/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "We\u2019re literally living through Don\u2019t Look Up, except it\u2019s AI",
+     "summary": "Interesting watching this happen in real time and seeing the divergence in opinions. People who barely use AI beyond messing around with the free browser versions are suddenly completely confident that the whole thing is just marketing hype and that nothing meaningful is happening. The people\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wgv7y3/were_literally_living_through_dont_look_up_except/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "How much work in progress can a workshop submission be [R]",
+     "summary": "Hi, let's suppose I am working on an algorithm that uses principles x to solve problems A and B. I already implemented a very basic algorithm that used principle \"x mini\" to just solve problem A, ran experiments, but have not yet implemented the full one to solve A and B. I must say the algorithm\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wgv7hi/how_much_work_in_progress_can_a_workshop/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "[D] How do you get preprocessed dataset of a paper [D]",
+     "summary": "Hi all, I'm trying to reproduce a paper where the reported dataset statistics in Table 1 don't match what I get from the public raw data, even after implementing the preprocessing exactly as described. I've tried all reasonable interpretations of the filtering described in the paper and the\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wgutx6/d_how_do_you_get_preprocessed_dataset_of_a_paper_d/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Kernal engineer at DeepSeek, Shengyu Liu, says in a blog post that he's working at DeepSeek because allowing Anthropic to control AI is akin to \"Hitler obtaining atomic bomb technology before the\u2026",
+     "summary": "submitted by /u/tommos [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wgup60/kernal_engineer_at_deepseek_shengyu_liu_says_in_a/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Guy who has literally trained a frontier LLM AND engineered viruses thinks the AI-supervirus doomer scenario is bogus.",
+     "summary": "submitted by /u/141_1337 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wgufal/guy_who_has_literally_trained_a_frontier_llm_and/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "CSS-Tricks in Limbo",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49708993",
+     "url": "https://vale.rocks/micros/20260915-0135",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Voodoo Dynamic Quant - Now MIT Licensed",
+     "summary": "Two months ago I announced I had found a new dynamic quant method called Voodoo Quant which was SOTA for the most aggressive quant levels on some smaller Qwen3.5 GGUF models. I kept the methodology private at the time, but I've seen too many requests for dyn quants for various models lately, so I\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgszma/voodoo_dynamic_quant_now_mit_licensed/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Ask your LLM",
+     "summary": "submitted by /u/jacek2023 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wgse1y/ask_your_llm/",
+     "source": "r/singularity"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+     "summary": "",
+     "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+     "source": "Google DeepMind"
+    },
+    {
+     "headline": "Meta expands subscription push with new AI-focused plans",
+     "summary": "Meta One bundles expanded access to the company\u2019s AI tools with premium features across Facebook, Instagram and WhatsApp.",
+     "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "From Megawatts to Tokens: How NVIDIA Maximizes AI Factory Production",
+     "summary": "On a sweltering August evening in Silicon Valley, as the sun dropped and air conditioning loads spiked, Silicon Valley Power sent a signal to an AI factory to adjust its power consumption. Varun Sivaram was watching on Zoom with about forty others \u2014 his team at Emerald AI in their San Francisco\u2026",
+     "url": "https://blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production/",
+     "source": "NVIDIA Blog"
+    },
+    {
+     "headline": "AI Infra Summit: NVIDIA Vera Rubin and DSX Platform Advancements Showcase Energy Efficiencies of Optimizing Tokens Per Watt for AI Factories",
+     "summary": "Ian Buck, vice president of hyperscale and high-performance computing at NVIDIA, Tuesday spoke on AI factory efficiency at the AI Infra Summit, the Santa Clara Convention Center event that has morphed into a Coachella of infrastructure tech. Before a packed audience \u2014 with more than 8,000\u2026",
+     "url": "https://blogs.nvidia.com/blog/ai-infra-summit-vera-rubin-dsx-energy-efficiencies-tokens-per-watt-ai-factories/",
+     "source": "NVIDIA Blog"
+    },
+    {
+     "headline": "Your Agent Aced the Task. Will It Do It Again?",
+     "summary": "",
+     "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+     "source": "Hugging Face Blog"
+    },
+    {
+     "headline": "AI for Societal Impact",
+     "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+     "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+     "source": "Google AI Blog"
+    },
+    {
+     "headline": "Building AI to accelerate science and improve lives",
+     "summary": "B-roll showing diverse environments and people, including a teacher and students in a classroom and a patient with a doctor",
+     "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+     "source": "Google AI Blog"
+    },
+    {
+     "headline": "AI for everyone in every language",
+     "summary": "Animation of several words in different languages slowly zooming past",
+     "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+     "source": "Google AI Blog"
+    },
+    {
+     "headline": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+     "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
+     "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
+     "summary": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.",
+     "url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Meta\u2019s new One subscriptions put a price on social media and AI",
+     "summary": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscriptions with extra AI usage. Some of the new Meta One bundles were in testing earlier this year, but are now available globally starting today, with several\u2026",
+     "url": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
+     "summary": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI.",
+     "url": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
+     "summary": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock Robotics). Register before September 25 to save up to $200 on your pass.",
+     "url": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "4 days left to exhibit at TechCrunch Disrupt 2026",
+     "summary": "Last day to exhibit at Disrupt is Sept 18. 4 days left. Get your startup in front of 10,000+ founders, investors, operators and tech leaders October 13\u201315.",
+     "url": "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "This doorbell camera lets a human security guard watch your front door",
+     "summary": "DIY home security company SimpliSafe is bringing its AI-powered proactive security feature to the front door. The new SimpliSafe Video Doorbell Series 2 launches today for $199.99 and works with the company's Active Guard Outdoor Protection (starting at $49.99 a month). This combines AI analysis\u2026",
+     "url": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "New insights from Google\u2019s AI & Economy ATLAS",
+     "summary": "Text \"AI & Economy Atlas v1.0 2026\" with the Google G and a spinning globe illustration",
+     "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+     "source": "Google AI Blog"
+    },
+    {
+     "headline": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+     "summary": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.",
+     "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
+     "summary": "Ars previewed Mozilla\u2019s report on how cheap open models caught up on capability.",
+     "url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Salesforce and Nvidia\u2019s new reasoning model is everything the AI labs should fear",
+     "summary": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing, and customer-support tasks.",
+     "url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "What\u2019s at stake in AI\u2019s trillion-dollar gamble",
+     "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania\u2019s Wharton School, wanted to assess AI\u2019s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what she calls a \u201cremarkable fact\u201d that is not in\u2026",
+     "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
+     "source": "MIT Tech Review AI"
+    },
+    {
+     "headline": "Heart of the Matter: How a Major Children\u2019s Hospital Uses Open Source NVIDIA AI for Cardiac Care",
+     "summary": "",
+     "url": "https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care/",
+     "source": "NVIDIA Blog"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "There are things I disagree with but there is good stuff to learn from taking the perspective of parts of the cybersecurity industry that rogue AI incidents may be best understood as security & organizational failures that let rogue behavior to turn into crisis. www.normaltech.ai/p/the-ai-as-...",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mvkrrngddc2n"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Tuesday assorted links",
+     "summary": "1. Easy to bioengineer a very dangerous virus? 2. The astrophysicists are getting antsy too. Princeton is also getting nervous. If nothing else, these are huge PR own goals. The guy is a Mill scholars, can you imagine J.S. Mill tweeting that way? 3. New David Brooks podcast. 4. One Chinese view of\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/tuesday-assorted-links-586.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-586",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Good luck slowing this down",
+     "summary": "plus what\u2019s new in AI this week",
+     "url": "https://www.bensbites.com/p/good-luck-slowing-this-down",
+     "source": "Ben's Bites"
+    },
+    {
+     "headline": "The striking thing is how late the market moved",
+     "summary": "Here\u2019s the S&P 500 (daily close) with the key COVID and policy events marked; the numbered key is below the chart. Event key: Dec 31 \u2013 China reports the Wuhan pneumonia cluster to the WHO Jan 21 \u2013 First confirmed US case (Washington state) Jan 23 \u2013 Wuhan locked down Jan 30 \u2013 WHO declares [\u2026] The\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/the-striking-thing-is-how-late-the-market-moved.html?utm_source=rss&utm_medium=rss&utm_campaign=the-striking-thing-is-how-late-the-market-moved",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "ModelTalk: Pacing the Frontier",
+     "summary": "Jasmine and Nathan Lambert Discuss!",
+     "url": "https://www.chinatalk.media/p/modeltalk-pacing-the-frontier",
+     "source": "ChinaTalk"
+    },
+    {
+     "headline": "OpenAI Ads, Amazon Ads in ChatGPT, Walmart to Accept Apple Pay",
+     "summary": "ChatGPT ads are working, and solve Amazon's biggest problem with chatbots. Then, Walmart finally gives in to Apple Pay, because fighting the status quo is hard.",
+     "url": "https://stratechery.com/2026/openai-ads-amazon-ads-in-chatgpt-walmart-to-accept-apple-pay/",
+     "source": "Stratechery"
+    },
+    {
+     "headline": "Those new service sector jobs",
+     "summary": "Horwitz is in the business of playing a version of mom for local college students. Concierge companies offering student support have existed for decades. But in recent years, a new crop of upstarts \u2014 such as Horwitz\u2019s company, MindyKnows; the Bama Mama in Alabama; the GA Mom in Georgia; and Campus\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/those-new-service-sector-jobs-17.html?utm_source=rss&utm_medium=rss&utm_campaign=those-new-service-sector-jobs-17",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "lidge-jun/aside-codemode: One call where Aside used to spend fifty \u2014 rg-backed search, Aside-shaped file tools, and batched browser work inside a single sandboxed JavaScript block. On a real folder,\u2026",
+     "summary": "One call where Aside used to spend fifty \u2014 rg-backed search, Aside-shaped file tools, and batched browser work inside a single sandboxed JavaScript block. On a real folder, 55s of find+grep became 1s.",
+     "url": "https://github.com/lidge-jun/aside-codemode",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "WestFox-AwA/dsh-prompt-optimizer: DSH Web \u8f93\u5165\u6846\u63a5\u7ba1\uff08v0.3.0-beta.4 \u00b7 \u590d\u6742\u4efb\u52a1\u80fd\u529b\u5305\uff1a3D/\u6cd5\u5411\u91cf/\u4ea4\u4e92/\u6570\u636e/\u5e76\u53d1/\u6027\u80fd\u7ec6\u8282\u9010\u9879\u8fc7\u5173 + \u53ef\u81ea\u52a8\u5316\u9a8c\u6536 + \u4e2d\u82f1\u53cc\u8bed \u00b7 \u9002\u7528\u4e8e dsh-0.1.6-alpha.1\uff09\uff1a\u53d1\u9001\u524d\u7528\u72ec\u7acb AI\uff08\u4f20\u8bdd\u8005\uff09\u628a\u63d0\u793a\u8bcd\u4f18\u5316\u6210\u53ef\u76f4\u63a5\u53d1\u7ed9\u5de5\u4f5c AI \u7684\u547d\u4ee4\uff08\u56db\u6863\u5f3a\u5ea6\u3001\u6309\u96be\u5ea6\u5b9a\u6d41\u7a0b\u957f\u5ea6\u3001\u6309\u4f1a\u8bdd\u9694\u79bb\u3001\u6781\u7b80\u8ff7\u4f60\u7a97\uff09",
+     "summary": "DSH Web \u8f93\u5165\u6846\u63a5\u7ba1\uff08v0.3.0-beta.4 \u00b7 \u590d\u6742\u4efb\u52a1\u80fd\u529b\u5305\uff1a3D/\u6cd5\u5411\u91cf/\u4ea4\u4e92/\u6570\u636e/\u5e76\u53d1/\u6027\u80fd\u7ec6\u8282\u9010\u9879\u8fc7\u5173 + \u53ef\u81ea\u52a8\u5316\u9a8c\u6536 + \u4e2d\u82f1\u53cc\u8bed \u00b7 \u9002\u7528\u4e8e dsh-0.1.6-alpha.1\uff09\uff1a\u53d1\u9001\u524d\u7528\u72ec\u7acb AI\uff08\u4f20\u8bdd\u8005\uff09\u628a\u63d0\u793a\u8bcd\u4f18\u5316\u6210\u53ef\u76f4\u63a5\u53d1\u7ed9\u5de5\u4f5c AI \u7684\u547d\u4ee4\uff08\u56db\u6863\u5f3a\u5ea6\u3001\u6309\u96be\u5ea6\u5b9a\u6d41\u7a0b\u957f\u5ea6\u3001\u6309\u4f1a\u8bdd\u9694\u79bb\u3001\u6781\u7b80\u8ff7\u4f60\u7a97\uff09",
+     "url": "https://github.com/WestFox-AwA/dsh-prompt-optimizer",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-09-15T17:09+00:00",
+  "window_start": "2026-09-15T05:03+00:00",
+  "window_end": "2026-09-15T17:09+00:00",
+  "candidate_count": 68,
+  "model": "free (no LLM)"
+ }
+}
