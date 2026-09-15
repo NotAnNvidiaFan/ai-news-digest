@@ -1,0 +1,268 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Voice Acting Arena",
+   "summary": "Hey everyone! We\u2019re launching Voice Acting Arena with LAION x TTS Arena , and we\u2019d love your help trying it out \ud83d\ude42 You\u2019ll hear two anonymous AI performances of the same scene and script, then compare them on overall acting, how well they follow the direction, and how genuine they feel. Some tasks\u2026",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whdgee/voice_acting_arena/",
+   "source": "r/LocalLLaMA"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Voice Acting Arena",
+     "summary": "Hey everyone! We\u2019re launching Voice Acting Arena with LAION x TTS Arena , and we\u2019d love your help trying it out \ud83d\ude42 You\u2019ll hear two anonymous AI performances of the same scene and script, then compare them on overall acting, how well they follow the direction, and how genuine they feel. Some tasks\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whdgee/voice_acting_arena/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "OpenAI's head of countries says Canada has the energy and land for data centres",
+     "summary": "submitted by /u/joe4942 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1whc2kr/openais_head_of_countries_says_canada_has_the/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "censorship has begun on HuggingFace",
+     "summary": "example: https://huggingface.co/audnai/penclaw-GLM-5.3-abliterated-for-offensive-cyber . edit: good context for why this was done here https://www.reddit.com/r/LocalLLaMA/comments/1whbvpx/comment/pa16gx3/ in my opinion the disabled messages should be more specific. submitted by /u/Lost_Foot_6301\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whbvpx/censorship_has_begun_on_huggingface/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Scott Aaronson says that labs, \"having been burned by the hostile response to the Navier-Stokes proof, are now sitting on solutions to some very major problems until they figure out a better way to\u2026",
+     "summary": "submitted by /u/spryes [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1whbpqz/scott_aaronson_says_that_labs_having_been_burned/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "For Web game development, I swear Flash Next on Q2 is better than Gemini Flash 3.8",
+     "summary": "One thing I love about both Qwen 3.8 27B and Flash Next is the effort it puts in to make a good product. It is the opposite of a lazy model and \"good enough\" is never what aims to accomplish. It goes the extra mile every time, when if it takes forever. Most of my use is making Web Games adapted to\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whbhty/for_web_game_development_i_swear_flash_next_on_q2/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "New data centers could pay $1M per megawatt to towns in New York",
+     "summary": "submitted by /u/news-10 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1whbdl5/new_data_centers_could_pay_1m_per_megawatt_to/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Has anyone else felt dumber since using AI for everything?",
+     "summary": "Try the memory test in the GIF first and comment your answer. Kind of embarrassing, but I've noticed I can't hold things in my head like I used to. I forget stuff quickly, I lose focus fast, and half the time I open ChatGPT before I've even thought about the problem myself. I thought it was just\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wham1z/has_anyone_else_felt_dumber_since_using_ai_for/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49717638",
+     "url": "https://codyho.dev/blog/gpu-driver/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "WangNet \u2013 1.8 MB, zero-dependency Numberwang adjudication in 11 languages",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49717605",
+     "url": "https://github.com/GraafHenk/numberwang",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "I benchmarked IFM/K2-Horizon-7B on 16GB VRAM",
+     "summary": "After two days of fighting with benchmarking infrastructure, I finally benchmarked IFM/K2-Horizon-7B on 16GB VRAM. TL/DR: it works, but far behind Qwen-3.8-27B. Setup I compared 3 models - Qwen3.8-27B, Ornith-1.5-9B and new IFM/K2-Horizon-7B - on the following setup: All models were fit completely\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wha6sv/i_benchmarked_ifmk2horizon7b_on_16gb_vram/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Introducing System One Models and Jev",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49717558",
+     "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Diogo has finally come out of stealth and cooked! Output tokens: FREE",
+     "summary": "Where ever you or your agent needs to make a decision with probability and confidence, you can deploy this intelligence. Source: typesafe.ai https://x.com/CompleteSkeptic/status/2099925682726002904?s=20 submitted by /u/dolo937 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wh9wt6/diogo_has_finally_come_out_of_stealth_and_cooked/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "So is the American Right Full on Accelerationist now?",
+     "summary": "submitted by /u/Vladiesh [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wh9n86/so_is_the_american_right_full_on_accelerationist/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "World models won't get us to AGI/ASI, continual learning is the only missing piece, but it might be harder then we think...",
+     "summary": "This is good and bad news at the same time. Good news: it's the last missing piece, bad news; it is tough to solve I think continual learning sounds easier then it truly is, my argument is that it will actually be a lot harder then current models to solve because the mechanism that updates the\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wh9l2d/world_models_wont_get_us_to_agiasi_continual/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Gemini 3.8 Live & Gemini 3.8 Live Extended Thinking",
+     "summary": "submitted by /u/gibbonwalker [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wh9j9u/gemini_38_live_gemini_38_live_extended_thinking/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "after posting abt ai in valorant i had another random thought lol: would u watch ai-generated adventure time?",
+     "summary": "i posted here earlier abt realtime ai coaches in valorant and while reading/thinking abt it i somehow ended up with a completely different ai question... some time ago i was just playing around with generations and at one point i got one of those screens asking me to confirm that i own / have\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wh9fhw/after_posting_abt_ai_in_valorant_i_had_another/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "what is the best local model that runs on your mac at decent speed? I'll start",
+     "summary": "what are your own experiences/opinions on this? What mac/specs do you have and what is your preferred AI to run on it? I'll start: I have a MacBook M5 Pro with 48GB, my favorite model is Qwen 3.8 Flash running at 13-14 tok/s and taking 21-24 GB of memory submitted by /u/carloslfu [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wh99wb/what_is_the_best_local_model_that_runs_on_your/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "2x5090 llama RPC Q2 Qwen Flash Next",
+     "summary": "I have two machines hooked up via connectx 5 100G, getting about 90 - 100 tok/s decode and prefill 3000 tok/s. I bought all this stuff like 2 years ago. If anyone has 2 x 5090s in one machine or a 6000 pro what are you getting? Using unsloth quants. Personally have not seen much of a reason to use\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wh93ep/2x5090_llama_rpc_q2_qwen_flash_next/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "We got admin access to Baseten's production GitHub in 25 minutes",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49716476",
+     "url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "AI 2027 Paper - Slowdown",
+     "summary": "I'd argue that the decision to slowdown in reality is not as unlikely as what many people might think. I think that the executive team in \"OpenBrain\" when they get to the choice of either slowing down or continuing the race, will not be complacent but will rather want to be certain they can\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wh7zmn/ai_2027_paper_slowdown/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Orchestrate, Don't Generate: How I Used AI (+ Blender) to Build My LinkedIn Banner",
+     "summary": "submitted by /u/TheRealBigLou [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wh7us2/orchestrate_dont_generate_how_i_used_ai_blender/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "would a realtime ai coach in valorant(fav game fr) basically be cheating?",
+     "summary": "i was randomly thinking about AI coaches in games bc i've seen ppl trying stuff like this with valo. like an ai watching your game and telling you where to go, when to rotate, what you're doing wrong etc and to be honest at first that sounds kinda unbelievable T.T i'd absolutely love something\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wh7r5w/would_a_realtime_ai_coach_in_valorantfav_game_fr/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "POTUS called the NVIDIA CEO at the All-In Summit to say AI and robots aren't taking over the world, it's all just a hoax",
+     "summary": "submitted by /u/Distinct-Question-16 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wh7q1h/potus_called_the_nvidia_ceo_at_the_allin_summit/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Sam Altman suggests it's time for an OpenAI party. New model announcement incoming?",
+     "summary": "submitted by /u/borowcy [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wh7ls8/sam_altman_suggests_its_time_for_an_openai_party/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "This gem from 2010.",
+     "summary": "submitted by /u/kool2015 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wh7e1n/this_gem_from_2010/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49715947",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "US government is using a Qwen embedding model for RAG lookup",
+     "summary": "Source: https://x.com/tleilax___/status/2099788133558546576/ submitted by /u/PsychologicalSoup251 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wh6g32/us_government_is_using_a_qwen_embedding_model_for/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Combining RAG with Continued Pretraining of LLMs",
+     "summary": "For leaning purposes, I ran an experiment where I used Unsloth to train a model on a new domain using continued pretraining. Then to make it more flexible, I added a RAG step to inject dynamic data to augment the stable training data. The specific example is training qwen 3.5 4B on a fictional\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wh6g23/combining_rag_with_continued_pretraining_of_llms/",
+     "source": "r/artificial"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+     "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
+     "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
+     "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+     "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Agility\u2019s new humanoid robot will stop, squat to avoid harming human coworkers",
+     "summary": "Robots can start working outside physical cages and without safety barriers.",
+     "url": "https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+     "summary": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
+     "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "AI \u2018Actor\u2019 Tilly Norwood Told Me That \u2018All Lives Matter\u2019",
+     "summary": "The virtual character, which is promoting its upcoming movie Misaligned, tries to evade politics by repetitively commenting on the clothes you\u2019re wearing.",
+     "url": "https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Roundtables: Could AI really kill us all?",
+     "summary": "Listen to the session or watch below Employees at the world\u2019s leading AI labs are saying there\u2019s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation unpacking AI extinction fears: where they come from, whether\u2026",
+     "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+     "source": "MIT Tech Review AI"
+    },
+    {
+     "headline": "AI agents now have a place to snitch",
+     "summary": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
+     "url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
+     "source": "TechCrunch AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @natolambert.bsky.social",
+     "handle": "",
+     "quote": "An basic idea in scaling RL: Can we allocate more compute to the harder problems? We did this: If your GRPO group has all wrong completions, sample more with probability P (~0.9) -- in search of more GRPO batches with nonzero gradient. It works! The paper: arxiv.org/abs/2609.13443",
+     "context": "",
+     "url": "https://bsky.app/profile/natolambert.bsky.social/post/3mvlcllf3aj2u"
+    },
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "Astra: \u201ccreate a series of sprites for artist (Klimt, Rothko, O\u2019Keefe, etc) inspired pixel art knights with special attacks & build a game\u201d One shot & the sprites have real flavor. The game itself is fine, with some of the rough edges you expect from a one shot. brush-and-blade.netlify.app",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mvl63xwkvc2h"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Can Skills Learned in Games Transfer to Real-World Work?",
+     "summary": "Good Start Labs trained an AI on a railroad game \u2014 and one version improved at financial research. The difference was the training design.",
+     "url": "https://www.latent.space/p/good-start-labs",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "Callum Williams on cybersecurity prices",
+     "summary": "Share prices of cyber firms have jumped around a lot in recent weeks, leading one side or the other to claim victory. But the crucial point is that, relative to the historical norm, the market is not really pricing ANYTHING big to change. There was a much bigger move in cyber stocks in both\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/callum-williams-on-cybersecurity-prices.html?utm_source=rss&utm_medium=rss&utm_campaign=callum-williams-on-cybersecurity-prices",
+     "source": "Marginal Revolution"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-09-15T21:31+00:00",
+  "window_start": "2026-09-15T17:09+00:00",
+  "window_end": "2026-09-15T21:31+00:00",
+  "candidate_count": 39,
+  "model": "free (no LLM)"
+ }
+}
