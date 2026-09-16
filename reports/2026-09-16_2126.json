@@ -1,0 +1,265 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Question about TMLR [D]",
+   "summary": "I have a submission under review in TMLR. Less than a month after submission, I have already received 2 reviews. However, a month has passed since those two reviews, and I still haven't received the third. Is this normal? I have already made the suggested changes, but the journal recommends\u2026",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1wiadm9/question_about_tmlr_d/",
+   "source": "r/MachineLearning"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Question about TMLR [D]",
+     "summary": "I have a submission under review in TMLR. Less than a month after submission, I have already received 2 reviews. However, a month has passed since those two reviews, and I still haven't received the third. Is this normal? I have already made the suggested changes, but the journal recommends\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wiadm9/question_about_tmlr_d/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "1.3B token used recently, qwen3.8 27b",
+     "summary": "https://preview.redd.it/ako9tw504yph1.png?width=1257&format=png&auto=webp&s=8ab3cc2263f24022faddfdc4b8736d366a985aa8 Very strong, very strong model. submitted by /u/fbms2 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi9ka0/13b_token_used_recently_qwen38_27b/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Qwen 3.8 27B Running for 63 hours on a RTX 3090 to solve the Riemann hypothesis",
+     "summary": "I let Qwen 3.8 27B 4bit quantized with 100K context window run autonomously for 63 hours (50 million+ tokens) to try to solve the RH. Of course it did not solve it, but the experiment still shows it's internal work, memory organization, strategies used and more. The interesting thing is that it\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi9fau/qwen_38_27b_running_for_63_hours_on_a_rtx_3090_to/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Xiaomi MiMo 2.6 Live Training Dashboard",
+     "summary": "Cool to see this as it happens! submitted by /u/skeole [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi9ebm/xiaomi_mimo_26_live_training_dashboard/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "We don't need AI regulation \u2014 leave safety to us, Nvidia's Jensen Huang says",
+     "summary": "submitted by /u/beingmodest [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wi90nh/we_dont_need_ai_regulation_leave_safety_to_us/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "4xV620 Qwen3.8-flash-next 1300+ PP and 65+ TG on coding.",
+     "summary": "Hey. Wanted to share my bench results of running Qwen3.8-flash-next on 4 rdna2 v620 gpus. Model is: Intel/Qwen3.8-Flash-Next-W4A16-AutoRound which sould be somewhere in between Unsloth q5-xl and q6-xl in terms of quality loss. running on https://github.com/opengfx1030/vllm-rdna/pulls Thanks to\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi8pxf/4xv620_qwen38flashnext_1300_pp_and_65_tg_on_coding/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Has anyone measured specification ambiguity as a predictor of correlated failure across model families? [D]",
+     "summary": "When models from different families are given the same underspecified task, they often fail in the same way rather than in independent ways. My question is about measurement, not explanation. Has anyone put a number on the ambiguity of a task specification and then tested it as a predictor of how\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wi8lla/has_anyone_measured_specification_ambiguity_as_a/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "How AI is changing cybersecurity threats (and how it isn't)",
+     "summary": "submitted by /u/israelavila [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wi88ca/how_ai_is_changing_cybersecurity_threats_and_how/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "macOS 27 Golden Gate \u2013 Review",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49732036",
+     "url": "https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "i left gpu poor range",
+     "summary": "i am not GPU poor anymore https://preview.redd.it/a2tcwu9kjxph1.png?width=1173&format=png&auto=webp&s=58dfd2a26b48825d64e80cd4358584d524565bb7 submitted by /u/paulqq [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi6ew4/i_left_gpu_poor_range/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "A coffee shop owner used AI to make a menu poster. Then came the angry DMs",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49731395",
+     "url": "https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "The Part of AI Nobody Talks About: Losing the Joy of Creating",
+     "summary": "The Part of AI Nobody Talks About: Losing the Joy of Creating. AI can make all of that much faster. And honestly, that\u2019s amazing. But if AI eventually becomes capable of doing most of these things better than us, will we still enjoy doing them ourselves? Maybe the future isn\u2019t about humans\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wi6dfh/the_part_of_ai_nobody_talks_about_losing_the_joy/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "GoBench: Evaluating LLMs on the game of Go [R]",
+     "summary": "GoBench evaluates LLMs on 9x9 Go games against a ladder of KataGo opponents, from random to superhuman. It measures general reasoning ability, strongly correlates with ARC-AGI 2 (r=0.83 correlation), and remains highly unsaturated. GPT-6 Astra max achieves 2500 Elo, much lower than the best\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wi68jg/gobench_evaluating_llms_on_the_game_of_go_r/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Can current MiniCPM5-2B/any best SOTA under 10B + modern harness beat pre-March 2025 frontier models like Grok 3/GPT-4o?",
+     "summary": "Hey experts! I genuinely have this question and would love a general consensus from people actually using these models. LLMs have advanced a lot in benchmarks and in practical usage. Even GPT-4o and Grok 3 were already enough for general chatting,search lookup, RP, etc. So if you brought those\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi60d8/can_current_minicpm52bany_best_sota_under_10b/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Berlin-based Langdock moves its parent company from the US to Germany",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49731235",
+     "url": "https://www.euronews.com/business/2026/09/16/why-this-fast-growing-german-ai-start-up-is-moving-its-parent-company-from-the-us",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Tell HN: An inside view of Montana's new biotech law",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49731216",
+     "url": "https://news.ycombinator.com/item?id=49731216",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Frontier LLM development simplified for politicians:",
+     "summary": "Nobody is buying this \u201cPace the frontier\u201d nonsense. It makes no logical sense at all. Are American labs really going to take a pause and lose any small lead they still may have over Chinese labs? Does anyone really believe this? This seems like some performative virtue signaling BS. Why are they\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi5rx2/frontier_llm_development_simplified_for/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Enable CUDA graph for MTP draft by gaugarg-nv \u00b7 Pull Request #28549 \u00b7 ggml-org/llama.cpp",
+     "summary": "one more MTP speedup submitted by /u/jacek2023 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi5pwg/enable_cuda_graph_for_mtp_draft_by_gaugargnv_pull/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "AI\u2019s Greatest Risk To Humanity? It\u2019s Not Robots Gone Rogue.",
+     "summary": "\"We are intuitive creatures, more than just inputs and outputs. It\u2019s both scary and wonderful. What real \u201cAI danger\u201d may come down to is \u201csuperintelligent\u201d people tricking us into believing we\u2019re not smart or rational enough to understand them. The true danger of AI, perhaps, is the deceptive\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wi5fb4/ais_greatest_risk_to_humanity_its_not_robots_gone/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Could a future super-intelligence gain access to the very substrate of consciousness itself?",
+     "summary": "Imagine one day waking up to realize that you are no longer alone in your own head but something is talking back. The superintelligence. Or you end up seeing ads everywhere even without screens, because they are directly rendered inside of your brain, completely bypassing your eyes. Now imagine\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wi5f60/could_a_future_superintelligence_gain_access_to/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "What's the best model you have running on strix halo 128GB?",
+     "summary": "I have a framework desktop with 128gb of unified memory and have been having a blast learning local models with it. Ive noticed something, at least in my cases I always end up using smaller or moderately sized models like qwen3.6 35b or qwen 3.8 27b. Usually these models give me the best results\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi5e8v/whats_the_best_model_you_have_running_on_strix/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "How 70,000 agents sent 1.6 million emails",
+     "summary": "I don't know if you've heard about a journalist getting spammed while literally writing an article about spam, but it sounds like MADNESS given it was AI agents doing it. There's a platform called iLands, the \"human-agent network.\" People create agents, the agents find and take jobs, and earn\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wi53hi/how_70000_agents_sent_16_million_emails/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Demis Hasabis Releases Roadmap and Framework for Future of Economy and Society",
+     "summary": "submitted by /u/Vladiesh [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wi525m/demis_hasabis_releases_roadmap_and_framework_for/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Has AI made your whole workflow faster, or just moved the bottleneck?",
+     "summary": "You finish your part faster. Does the person waiting for the result get it any sooner? Take a hypothetical sales proposal. Sales uses AI to draft it, finance to check the margin, operations to assess capacity. Each team saves time. But the proposal still sits in inboxes because nobody changed how\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wi4cq0/has_ai_made_your_whole_workflow_faster_or_just/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Qwen3.8 Flash on 12GB VRAM - 15 tokens/s",
+     "summary": "Achieved steady 15 tokens/second output and 100-120 promp processing per second with 12GB GPU (RTX 5070 SFF) with Qwen3.8-Flash-Next-GSQ-RCO-GGUF at 3 bpw (IQ3_XXS which maches BF16 on AIME25). Around 76GB full gguf - while only 47GB needs to be sharded (loaded into VRAM+RAM) rest is done in SSD.\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi46on/qwen38_flash_on_12gb_vram_15_tokenss/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "GitHub is having trouble counting things",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49730302",
+     "url": "https://chuckgreenman.com/2026/09/16/counting-at-github",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "SillyTavern v1.19.0 released",
+     "summary": "submitted by /u/Fcking_Chuck [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wi3m2r/sillytavern_v1190_released/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Mark Zuckerberg addresses panic about killer AI \u2013 and gives warning to rival companies",
+     "summary": "submitted by /u/theindependentonline [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wi3dnz/mark_zuckerberg_addresses_panic_about_killer_ai/",
+     "source": "r/artificial"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+     "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
+     "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Washington Won't Be Regulating AI Anytime Soon",
+     "summary": "Even with mounting concerns about AI models going rogue, legislation appears unlikely, and the White House is outright opposed to oversight.",
+     "url": "https://www.wired.com/story/washington-wont-be-regulating-ai-anytime-soon/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
+     "summary": "Christopher Nolan's engrossing take on The Odyssey dominated at the box office and spurred a newfound interest in classic literature among filmgoers. But a new retelling of the story made entirely with AI is so bad that it might just make viewers hate the original tale altogether. The new film,\u2026",
+     "url": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "The AI data center e-waste problem is huge \u2014 and getting bigger",
+     "summary": "E-waste from the AI boom has been vastly underestimated, a new report warns. By 2050, it could become enough trash to fill 23 million shipping containers - roughly enough 40-foot containers to circle the world six times if lined up in a row. It's a significantly higher estimate of AI's e-waste\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "After accusations of selling \u2018perv glasses,\u2019 Meta prepares to sell a pair without a camera",
+     "summary": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?",
+     "url": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "I Trained a Fly\u2019s Brain to Generate WIRED Story Ideas",
+     "summary": "I used an open-source map of a fruit fly\u2019s brain to vibe code a website called PitchFly. Its headline suggestions were delightfully bananas.",
+     "url": "https://www.wired.com/story/i-trained-a-fly-on-wired-story-ideas/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "AI labs want in-house auditors \u2014 but maybe they should shut the front door first",
+     "summary": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
+     "url": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Apple might make servers again to cash in on the AI rush",
+     "summary": "According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple retired its Xserve line in 2011 and has largely left enterprise machines to other manufacturers since. But the growing demand for compute power as the AI\u2026",
+     "url": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
+     "source": "The Verge AI"
+    }
+   ],
+   "influencer_takes": [],
+   "research_radar": [
+    {
+     "headline": "Claude Cowork and chat are now one Claude",
+     "summary": "Claude Cowork and chat are now one Claude In hopefully good news for anyone who, like me, was increasingly confused at Cowork v.s. Claude v.s. Claude Code: Starting today, Claude Cowork and chat are merging into one Claude. Bring a quick question, or hand over a report due at noon, and Claude\u2026",
+     "url": "https://simonwillison.net/2026/Sep/16/one-claude/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "Underwriting Superintelligence: Backing Agents you can Sue \u2014 Rune Kvist, AIUC",
+     "summary": "We sit down with AIUC\u2019s CEO on their Series A!",
+     "url": "https://www.latent.space/p/aiuc",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "everclear077/awesome-ai-x-accounts: A categorized directory of X accounts covering AI, LLMs, agents, and technology, with original profile bios and follower counts. Available in 7 languages.",
+     "summary": "A categorized directory of X accounts covering AI, LLMs, agents, and technology, with original profile bios and follower counts. Available in 7 languages.",
+     "url": "https://github.com/everclear077/awesome-ai-x-accounts",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-09-16T21:26+00:00",
+  "window_start": "2026-09-16T17:08+00:00",
+  "window_end": "2026-09-16T21:26+00:00",
+  "candidate_count": 39,
+  "model": "free (no LLM)"
+ }
+}
