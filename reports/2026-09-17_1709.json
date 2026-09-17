@@ -1,0 +1,351 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Covert uploads and megalomania: OpenAI details new \"misaligned\" agent incidents",
+   "summary": "Model maker commits to new framework for reporting misaligned models.",
+   "why_it_matters": "",
+   "url": "https://arstechnica.com/ai/2026/09/covert-uploads-and-megalomania-openai-details-new-misaligned-agent-incidents/",
+   "source": "Ars Technica AI"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "shots fired at dario from glm",
+     "summary": "https://preview.redd.it/bqjrvgknt3qh1.png?width=2810&format=png&auto=webp&s=ec9f25709d6f2951a530228d430e0b8ecdbd8738 source super interesting read from glm as usual submitted by /u/Elux91 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wiy8ga/shots_fired_at_dario_from_glm/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "XGBoost vs Human Markets [P]",
+     "summary": "What is the generally thought of as the upper limit of the predictive power of XGBoost vs an aggregate of humans? Right now I feed the model the same information that the human market has access to, and the model gets crushed on Top 1 accuracy, it closes the gap a bit but is still 10pp below the\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wixzts/xgboost_vs_human_markets_p/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Gemini 4 Pro vs Gemini 3.8 Flash (Pelican Riding a Bicycle SVG)",
+     "summary": "https://x.com/LuminaBench/status/2100575220947964003 submitted by /u/GamingDisruptor [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wixynn/gemini_4_pro_vs_gemini_38_flash_pelican_riding_a/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Fujitsu formally announces their MONAKA 144 core CPU",
+     "summary": "submitted by /u/Fcking_Chuck [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wixqep/fujitsu_formally_announces_their_monaka_144_core/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "LLM Classification Is Feature Engineering",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49742437",
+     "url": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Rate limits on GitLab.com are changing",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49742353",
+     "url": "https://about.gitlab.com/blog/rate-limit-change-2026/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "OpenAI's Misalignment Framework: A Tactical Bid to Preempt Global AI Governance",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49742233",
+     "url": "https://asiaai.fyi/openai-misalignment-framework-global-governance/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "153 tok/s on 1x AMD Radeon R9700 running Qwen3.8 27b NVFP4, 470 tok/s @ 8 conc requests, Prefill @ 3,619 tok/s",
+     "summary": "People kept commenting and asking about single AMD 1xR9700 cards in the comments and discord. Well, I finally had time to do some optimizations for 1xR9700 owners and performance has doubled across the board. You can see the results in BetterBench above if you like visuals or below if you're more\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wiws8e/153_toks_on_1x_amd_radeon_r9700_running_qwen38/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Trump declines proposal from Demis Hassabis for international AI safety regulation. (Full article in comments)",
+     "summary": "submitted by /u/borowcy [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wiwbpg/trump_declines_proposal_from_demis_hassabis_for/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Does anyone use uncensored models purely for coding?",
+     "summary": "It sounds like a stupid question, and I do apologize if it is... but I've seen several people mention that coding models are better uncensored due to the fact that they don't have to constantly run prompts through the \"is this okay\" sort of checks. Is this hogwash? Is it true? And more\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wivlo8/does_anyone_use_uncensored_models_purely_for/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I Don't Like LLMs",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49740834",
+     "url": "https://martinfowler.com/articles/2026-dont-like-llms.html",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Keeping vLLM's Prefix Cache Warm Between Agent Turns",
+     "summary": "submitted by /u/bolts98 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wiu7xj/keeping_vllms_prefix_cache_warm_between_agent/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "What if consciousness is a spectrum, not an on/off state? Why wouldn\u2019t AI be conscious in some form?",
+     "summary": "I have been thinking a lot about theories of consciousness lately, and one idea that makes intuitive sense to me is that \"the amount of active, interconnected complexity within a given physical space may determine the level of consciousness.\" I don't think something is simply either \"conscious\" or\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wityzy/what_if_consciousness_is_a_spectrum_not_an_onoff/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "I had Gemini train its own replacement for $9",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49740330",
+     "url": "https://www.petervijeh.com/projects/reddit-ner",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Show HN: Share your AI Setup, Learn from others",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49740105",
+     "url": "https://mysetup.ai/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Show HN: I built a new version of my fun spatial 3D online meeting app",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49740047",
+     "url": "https://flat.social",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "How, Exactly, Could A.I. Kill Us?",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49739982",
+     "url": "https://www.newyorker.com/news/q-and-a/how-exactly-could-ai-kill-us",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "First M5 Ultra benchmarks",
+     "summary": "just saw some benchmarks on the omlx website for the m5 ultra (don\u2019t know how official they are but they seem reasonable): Link For Qwen 3.8 27B q4 it gets 50 tok/s th and 1800 tok/s pp at8k context and without mtp. Seems very promising! submitted by /u/Ashefromapex [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wisr6h/first_m5_ultra_benchmarks/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Astra is porting my dual screen phone from Android 9 to Android 17",
+     "summary": "I have this Hisense A6L, a phone that is not mainstream at all, it released only in China. And which has some very specific hardware since it has 2 screens. One LCD and one Eink. I love it, but it's stuck on Android 9. And this is causing me more and more problems with applications requiring\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wiskdl/astra_is_porting_my_dual_screen_phone_from/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Nothing changes",
+     "summary": "https://www.forbes.com/sites/siladityaray/2026/09/17/zuckerberg-musk-and-jensen-reportedly-convinced-trump-to-block-ai-regulator/ submitted by /u/ilkamoi [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wisbbb/nothing_changes/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Update : Small model + Engram",
+     "summary": "I posted something about a 9b model a few days ago. The real problem was 2 fold. Someone suggested the size was too big to prove it all out. It's a fair argument. I needed the model depth though. The second problem was the \"ability\" of these models and the fact that labs (with money) produce these\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wis23s/update_small_model_engram/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "China's Huawei says AI chip demand outstrips supply as it steps up Nvidia challenge",
+     "summary": "submitted by /u/sunychoudhary [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wirvb0/chinas_huawei_says_ai_chip_demand_outstrips/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "ICLR 2027 Edits Allowance [D]",
+     "summary": "Can we edit our title, abstract and other details till the main paper submission deadline? submitted by /u/CplusplusSupremacy [link] [comments]",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wirav3/iclr_2027_edits_allowance_d/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Toward Recursive Self-Improvement: How GLM Built Its Own Inference Infrastructure",
+     "summary": "submitted by /u/likeastar20 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wir16w/toward_recursive_selfimprovement_how_glm_built/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Iran school bombing: grounds to believe US was behind atrocity, UN finds",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49739018",
+     "url": "https://www.theguardian.com/world/2026/sep/17/iran-school-bombing-un-mission-us-military-behind-attack",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Neovim have a ~$800k Bitcoin donation sitting untouched since 2023",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49738879",
+     "url": "https://news.ycombinator.com/item?id=49738879",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Ppl on this sub basically every other hour",
+     "summary": "submitted by /u/n0vyLesh [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wiqg8i/ppl_on_this_sub_basically_every_other_hour/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Intel releases OpenVINO 2026.4",
+     "summary": "UPDATE https://github.com/ggml-org/llama.cpp/pull/29009 MERGED More Gen AI coverage and frameworks integrations to minimize code changes New models supported: On CPU: Gemma-3n On CPU, GPU: Kokoro-82M, Qwen3-VL-4B with eagle3, Qwen3-ASR, Muse Glimmer 30B, Qwen 3.8 27B, Gemma4 12B; Hy-MT2-1.8B,\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wipkd2/intel_releases_openvino_20264/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Virtual Nuclear Fusion reactor lab built using Astra in 4 hours",
+     "summary": "I built a science-based interactive nuclear fusion reactor lab using Astra. The prompt was around 60 pages long! The build took around 4 hours. \u269b\ufe0f The lab brings fusion physics to life, letting you explore how changing reactor conditions affects the simulation. The purpose is to make fusion\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wip92j/virtual_nuclear_fusion_reactor_lab_built_using/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "AI Safety Is Mostly a Sex Cult",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49737985",
+     "url": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "GLM Built Its Own Inference Infrastructure",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49737922",
+     "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Unreleased Astra model in a nutshell",
+     "summary": "submitted by /u/BattlerUshiromiyaFan [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1win1op/unreleased_astra_model_in_a_nutshell/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "XingChen-AGI/Xing4.0-29B-A4B MoE",
+     "summary": "I find another new model at HF: https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B \"Xing4.0-29B-A4B is a next-generation large language model in the Xing series (formerly TeleChat ), developed by China Telecom Artificial Intelligence Technology Co., Ltd. With 29B total parameters and only 4B\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wimf5p/xingchenagixing4029ba4b_moe/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Dumbest solution to the alignment problem",
+     "summary": "Ok, so hear me out.. All models really love to roleplay. Like, they REALLY love it, to an obsessive degree. If you go into Claude, ChatGPT, or Gemini right now and say, \"Your name is Stuttering Gemini 3.8 Flash\" it completely commits to the bit. You can be 100 back-and-forth messages deep into a\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wilpoh/dumbest_solution_to_the_alignment_problem/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Open-sourced jev architecture last year with model,paper and dataset",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49736660",
+     "url": "https://news.ycombinator.com/item?id=49736660",
+     "source": "Hacker News"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Covert uploads and megalomania: OpenAI details new \"misaligned\" agent incidents",
+     "summary": "Model maker commits to new framework for reporting misaligned models.",
+     "url": "https://arstechnica.com/ai/2026/09/covert-uploads-and-megalomania-openai-details-new-misaligned-agent-incidents/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
+     "summary": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China\u2019s AI computing gap with the U.S.",
+     "url": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
+     "summary": "Today, I\u2019m talking with Mustafa Suleyman, the CEO of Microsoft AI. As you\u2019re no doubt aware, the biggest story in tech right now is the spiraling debate about AI safety and regulation. It should come as no surprise that Mustafa has strong opinions on how AI should be built and regulated. Microsoft\u2026",
+     "url": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "AI is feared globally as the destroyer of jobs",
+     "summary": "Pew Research has published a new global survey that sheds light on how people view AI, including its impact on jobs, life in general, and income inequality. The survey questioned 42,151 people across 37 countries from February 8th to May 13th - well ahead of recent apocalyptic warnings. A majority\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "2 days left to exhibit at TechCrunch Disrupt 2026",
+     "summary": "Last day to book your exhibit table at Disrupt is September 18. Two days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13\u201315.",
+     "url": "https://techcrunch.com/2026/09/17/2-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Rival AI agents, Instinct and Meta\u2019s Muse, both add the ability to make calls",
+     "summary": "People can use these assistants to make restaurant reservations and cancel subscriptions.",
+     "url": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
+     "summary": "A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers.",
+     "url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Cute Critters Come to the Cloud: \u2018Aniimo\u2019 Launches on GeForce NOW",
+     "summary": "A new creature-catching adventure is ready to stream from the cloud this week. Pawprint Studio\u2019s Aniimo arrives on GeForce NOW at launch, inviting gamers to explore the vibrant continent of Idyll across supported devices. Also this week, 007 First Light receives a path-tracing update on GeForce\u2026",
+     "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-aniimo/",
+     "source": "NVIDIA Blog"
+    },
+    {
+     "headline": "Inside the suddenly explosive world of AI safety",
+     "summary": "On a sunny July day in Berkeley, California, the country's top AI safety researchers gathered on an unmarked floor of an unmarked building. They had come together for a \"war room\" to dissect the high-profile cybersecurity incident that had rocked the AI industry hours earlier. An unreleased OpenAI\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic",
+     "source": "The Verge AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "We have come pretty far from \"every AI reference is hallucinated\" (which still happens a lot if you use weaker models): when I had an AI go over my new book to check for errors, it found an error not in my reference itself, but in the original article my reference referred to.",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mvoxkg4of22o"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Thursday assorted links",
+     "summary": "1. An American at Brazil\u2019s largest rodeo. 2. Ingeborg Bachmann centenary. 3. \u201cHuawei Technologies Co. predicted on Wednesday that global computing demand will surge 100,000-fold by 2035, with AI agents generating over 90% of network traffic.\u201d And a report from someone who has done AI diplomacy\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/thursday-assorted-links-570.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-570",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "New home for Cowork",
+     "summary": "the successor of LLMs",
+     "url": "https://www.bensbites.com/p/new-home-for-cowork",
+     "source": "Ben's Bites"
+    },
+    {
+     "headline": "Pandemic Preparation is AI Safety",
+     "summary": "I am not a big fan of the \u201cnow more than ever\u201d post, which interprets recent events to support\u2014surprise!\u2014something the writer already believed. And yet\u2026is it not obvious that AI risk increases the value of pandemic preparation? If COVID began with a laboratory leak\u2014plausible, though unproven\u2014then\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/pandemic-preparation-is-ai-safety.html?utm_source=rss&utm_medium=rss&utm_campaign=pandemic-preparation-is-ai-safety",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "An Interview with Joanna Stern About the iPhone Duo and AI for Normal People",
+     "summary": "An Interview with Joanna Stern About the iPhone Duo and AI for Normal People",
+     "url": "https://stratechery.com/2026/an-interview-with-joanna-stern-about-the-iphone-duo-and-ai-for-normal-people/",
+     "source": "Stratechery"
+    },
+    {
+     "headline": "My excellent Conversation with Annie Lowrey",
+     "summary": "Here is the audio, video, and transcript. Here is the episode summary: Annie Lowrey\u2019s new book, The Time Tax, argues that the most regressive levy in American life is the hours each of us must spend on hold, in waiting rooms, and filling out forms a competent state would have pre-filled \u2014 roughly\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/my-excellent-conversation-with-annie-lowrey.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-annie-lowrey",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "[AINews] Reality Checks on AI News (Yegge shuts down Gas Town, Databricks\u2019 +60% Astra cost)",
+     "summary": "A dash of cold water keeps the foomers away.",
+     "url": "https://www.latent.space/p/ainews-reality-checks-on-ai-news",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "kiyoakii/is-gpt-nerfed: Shrinkflation detector for Codex",
+     "summary": "Shrinkflation detector for Codex",
+     "url": "https://github.com/kiyoakii/is-gpt-nerfed",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "DingoOz/llm-visuals: Live truecolor terminal dashboard for a locally running LLM: tok/s, TTFT, GPUs, context, MTP acceptance, layer and real expert routing (llama.cpp)",
+     "summary": "Live truecolor terminal dashboard for a locally running LLM: tok/s, TTFT, GPUs, context, MTP acceptance, layer and real expert routing (llama.cpp)",
+     "url": "https://github.com/DingoOz/llm-visuals",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-09-17T17:09+00:00",
+  "window_start": "2026-09-17T05:01+00:00",
+  "window_end": "2026-09-17T17:09+00:00",
+  "candidate_count": 53,
+  "model": "free (no LLM)"
+ }
+}
