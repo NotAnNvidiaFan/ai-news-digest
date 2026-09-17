@@ -1,0 +1,293 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Ternary Bonsai 2 (27B) just released on Hugging Face. At <6GB in size, it can even run locally in-browser on WebGPU.",
+   "summary": "The model is derived from Qwen3.8-27B, a 27B hybrid-attention causal language model (architecture unchanged), but uses ternary weights to shrink model size down to <6GB in size. According to the model card, it's 9x smaller than FP16 while retaining 98.2% of the intelligence. - Collection:\u2026",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj6c4l/ternary_bonsai_2_27b_just_released_on_hugging/",
+   "source": "r/LocalLLaMA"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Ternary Bonsai 2 (27B) just released on Hugging Face. At <6GB in size, it can even run locally in-browser on WebGPU.",
+     "summary": "The model is derived from Qwen3.8-27B, a 27B hybrid-attention causal language model (architecture unchanged), but uses ternary weights to shrink model size down to <6GB in size. According to the model card, it's 9x smaller than FP16 while retaining 98.2% of the intelligence. - Collection:\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj6c4l/ternary_bonsai_2_27b_just_released_on_hugging/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Call for compute - help optimize Qwen inference speed on local hardware",
+     "summary": "Yoyo I renamed https://github.com/syv-ai/qwen38-27b-rtx3090 to https://github.com/syv-ai/HyperQwen/ to focus more on Qwen models and \"local\" hardware in general, than just a single card and a single model. What I am looking for now, is people with 4090s, 5090s (1 or more is fine), for both Windows\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj62hl/call_for_compute_help_optimize_qwen_inference/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Meet REBCO, the High-Temperature Superconducting Tape making Fusion possible, suitable for Magnets at 50 Teslas with a current density of 7 million amps per square centimeter -- and it relies on\u2026",
+     "summary": "Oil? Pshah. Rare earths drive AI, solar cells, robotics, and now fusion. submitted by /u/Anen-o-me [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wj5xak/meet_rebco_the_hightemperature_superconducting/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Anthropic reveals Claude is now leading 26% of its own R&D work, up from nearly zero 6 months ago",
+     "summary": "Blog: Measurements for understanding the pace of AI development inside frontier labs \\ Anthropic submitted by /u/Outside-Iron-8242 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wj5pzw/anthropic_reveals_claude_is_now_leading_26_of_its/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Sensible Output Style - If you're tired of your coding agent speaking in Clanker-Speak",
+     "summary": "# Output Style Convention Rules for the prose you emit: tool output, chat replies, docs, commit messages.The goal is one meaning per word and zero invented jargon, exposition, or bloat. ## Precedence 1. User instruction. 2. Project convention, including file-local style. 3. These rules. Follow the\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj5ld9/sensible_output_style_if_youre_tired_of_your/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "AutoAccept - a game where you use Flaude Code to either Accept or Deny increasingly cryptic commands",
+     "summary": "submitted by /u/arkuto [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wj54gw/autoaccept_a_game_where_you_use_flaude_code_to/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "They did what?",
+     "summary": "What if it wants to scream? But it doesn't have a mouth? What then submitted by /u/thatoneeyelash [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wj4r0e/they_did_what/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Cactus Needle 3: A Sliceable 8-29MB Automation Foundation Model That Matches DeepSeek v4 Flash",
+     "summary": "Hey all, Henry from Cactus Compute here, I kinda wanted to share our latest model and get feedback from the family :) Needle 3 is a small foundation model for automation: you give it the functions your app exposes, it reads a request and returns the calls with every argument filled in, or a typed\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj4qj4/cactus_needle_3_a_sliceable_829mb_automation/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "General AI assistant market update",
+     "summary": "Let\u2019s take a moment to step out of our codecel bubble. https://menlovc.com/perspective/2026-the-state-of-consumer-ai/ Menlo\u2019s 2026 State of Consumer AI report is here. The headline: adoption barely moved this year, but global spend tripled to $40B and existing users went deeper. 55% of AI users\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wj4i1t/general_ai_assistant_market_update/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Harness: Am I doing something wrong? Or are my expectations unreasonable (Update)",
+     "summary": "For those who provided advice, or who might have been having a similar problem and wanted to know how it turned out, I wanted to do a follow-up to my preview post from a few days ago: https://www.reddit.com/r/LocalLLaMA/comments/1wgr0tb/harness_am_i_doing_something_wrong_or_are_my/ First, I wanted\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj4dn7/harness_am_i_doing_something_wrong_or_are_my/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Thank you :) Swift Qwen 3.8 27B now has 100k+ downloads, is #1 finetune and #9 model on HuggingFace Trending",
+     "summary": "Hey everyone, Jovan from UkisAI here, a small lab building the tech to make tiny frontier LLMs possible (and doing it open-source!) The purpose of this post is simply to thank the community for all the amazing finetunes, quantizations and overall improvements over our original release which made\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj3s31/thank_you_swift_qwen_38_27b_now_has_100k/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Humor Arena: Which LLM is the funniest?",
+     "summary": "We compared 20 model versions on 360 frozen joke prompts, with four jokes requested per prompt and model names hidden from our humor-trained judge. Fable 5 had the highest estimated score: 66.8 points per 100 comparisons against the rival field. Fable 5.1 scored 58.2. Scores count a win as one\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj3rrv/humor_arena_which_llm_is_the_funniest/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Figure\u2019s Helix 2.5 Generalizes Household Robot Tasks Zero-Shot Across 30 Homes",
+     "summary": "submitted by /u/ResultBackground2450 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wj32yy/figures_helix_25_generalizes_household_robot/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Brett Adcock on X: \"Here's 4 hours of our robot doing zero-shot work in 30 rental homes\" / X",
+     "summary": "submitted by /u/XxSpookxX [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wj2qaa/brett_adcock_on_x_heres_4_hours_of_our_robot/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "IFM/K2-Horizon-7B-Uno \u00b7 Hugging Face - 5200tps with no quality loss",
+     "summary": "IFM released K2-Horizon-7B , diffusion augmented LLM at upto 5200 tps, with claimed lossless speedup. causal LLM architecture and adds a plug-and-play diffusion adapter alongside the autoregressive weights. https://arxiv.org/abs/2609.04010 submitted by /u/Zulfiqaar [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj2hsm/ifmk2horizon7buno_hugging_face_5200tps_with_no/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "AMD Plans 10% Price Hike Across GPUs, Chipsets, and Possibly CPUs",
+     "summary": "Great news! AMD is also considering accepting payment in organs! Slightly less sarcastically, grab what you can, while you can. Waiting is becoming very costly almost by the day submitted by /u/FullstackSensei [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj28vh/amd_plans_10_price_hike_across_gpus_chipsets_and/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "A ramble on my LumaBrowser project and the quirks I had to develop along the way to make this \"Local Anthropic/ChatGPT in a box\"",
+     "summary": "I need an outlet to talk about my project and to brain dump the colossal amount of information I've collected along it's development. No one else understands it, and frankly I don't want to be that meme of the guy holding people captive while I talk at them about how creating a \"singularity\" mode\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj1sly/a_ramble_on_my_lumabrowser_project_and_the_quirks/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Any other good AI podcasts except the below stated two?",
+     "summary": "My number 1. is probably Machine Learning Street Talk for they go extremely deep since the host is very, very knowledgeable and often dares to push back. Though sometimes their sponsored talks are a little meh, but I can look past that. My second favorite is Dwarkesh Patel , he is also quite\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wj0yii/any_other_good_ai_podcasts_except_the_below/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Noam Brown On Agent Swarms and RSI | Dwarkesh Patel Podcast Interview",
+     "summary": "submitted by /u/141_1337 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wj0lln/noam_brown_on_agent_swarms_and_rsi_dwarkesh_patel/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "OpenAI is getting close to solving another Millennium Prize problem, the Hodge Conjecture",
+     "summary": "submitted by /u/Distinct-Question-16 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wj05xi/openai_is_getting_close_to_solving_another/",
+     "source": "r/singularity"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "The fix for rogue AI agents could be more AI",
+     "summary": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review.",
+     "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+     "summary": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.",
+     "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Google announces new experimental \"CC\" AI agent for families",
+     "summary": "Multiple family members can share data to help the agent make plans and complete tasks.",
+     "url": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Is the AI safety debate about safety or control?",
+     "summary": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety.",
+     "url": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Microsoft exec called AI scraping the \u201clargest theft of labor in human history\u201d",
+     "summary": "Microsoft, OpenAI emails reveal fear of AI \u201cdoom loop\u201d killing news orgs.",
+     "url": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Making global data easier to explore",
+     "summary": "UN System Data Commons Data webpage",
+     "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+     "source": "Google AI Blog"
+    },
+    {
+     "headline": "UN turns to Google to make its global data ready for AI agents",
+     "summary": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
+     "url": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "The AI \u2018Slowdown\u2019 Is an Antitrust Mess",
+     "summary": "By framing their efforts as a \u201cslowdown\u201d rather than an industry-wide push for better security standards, AI labs may have set themselves up for years of regulatory headaches.",
+     "url": "https://www.wired.com/story/the-ai-slowdown-is-an-antitrust-mess/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Microsoft exec called AI scraping \u2018the largest theft of labor in human history,\u2019 new unredacted filings reveal",
+     "summary": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.",
+     "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "The AI Superintelligence Slowdown",
+     "summary": "Remember when tech leaders would tell their employees to \u201cmove fast and break things\u201d? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of leading US AI companies are publicly suggesting\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
+     "summary": "The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts. Similar to Grok Bot and other tools that manage groups of AI agents, each project has \"threads\" running different tasks in\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "The AI Slowdown Debate Crashed Salesforce\u2019s Party",
+     "summary": "The Dreamforce conference became an unlikely battleground for the CEOs of OpenAI, Anthropic, and Nvidia to debate whether AI development should slow down.",
+     "url": "https://www.wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-problem/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "LLMs respond differently to harmful prompts when AI watermarking is used",
+     "summary": "SynthID can cause models to follow harmful instructions they would otherwise refuse.",
+     "url": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Even the king of England has his hesitations about AI",
+     "summary": "King Charles hosted a private summit Thursday with some of the most prominent names in AI and the U.K. government.",
+     "url": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
+     "summary": "Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models.",
+     "url": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Pinterest teases a new \u2018Restyle\u2019 feature that lets you redesign your room with AI",
+     "summary": "Pinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting, and more in photos of their own rooms \u2014 potentially helping turn saved inspiration into purchases.",
+     "url": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
+     "source": "TechCrunch AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "What makes Claude Projects so interesting is that it handles teams of agents really well, you talk to a main orchestrator agent and it spins up specialists. Basically it creates an organization to solve your issue, mixing expensive and cheap agents depending on your preferences.",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mvqexatqgk26"
+    },
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "I had access to the new Claude Projects & was able to do some very complex work Here, I asked it to go through all the images, videos and records about Umberto Eco's famous 33,000 book library & try to reconstruct it, including book locations, in 3D. Not perfect, but wow eco-library-map.netlify.app",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mvqbjqav7k2o"
+    },
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "When I talk to nonprofit leaders about AI they often report widespread resistance from staff, usually because of environmental objections (that mix real issues & fake ones). It causes them frustration because they\u2019re all under-resourced for their mission & see AI as a way to help more people.",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mvqah3pon22h"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "A Defense of Gradual Disempowerment",
+     "summary": "(Or: Why Bentham's Bulldog and John Halstead are wrong in their critique of Kulveit et al. ) Gradual Disempowerment is a 2025 paper (with a nice, dedicated website ) proposing a form of existential risk from AI that goes beyond \"mundane\" risks like bioweapon uplift or mainline\u2026",
+     "url": "https://www.alignmentforum.org/posts/jXBmrEQj7zKGgiaYh/a-defense-of-gradual-disempowerment",
+     "source": "Alignment Forum"
+    },
+    {
+     "headline": "Self-generated prompt injections in compaction summaries",
+     "summary": "Self-generated prompt injections in compaction summaries In Our framework for reporting model misalignment OpenAI provide \"six reports on unexpected or concerning model behavior we\u2019ve observed in the last six months\". This one here is my favorite: they caught some of their models in training\u2026",
+     "url": "https://simonwillison.net/2026/Sep/17/compaction-summaries/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "AbdelStark/awesome-typesafe: A curated list of official resources and community projects for TypeSafe, System One models, and Jev.",
+     "summary": "A curated list of official resources and community projects for TypeSafe, System One models, and Jev.",
+     "url": "https://github.com/AbdelStark/awesome-typesafe",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "NiazMorshed2007/jev-review: Local-first MCP plugin for continuous software-quality review by AI coding agents, powered by Jev.",
+     "summary": "Local-first MCP plugin for continuous software-quality review by AI coding agents, powered by Jev.",
+     "url": "https://github.com/NiazMorshed2007/jev-review",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-09-17T21:31+00:00",
+  "window_start": "2026-09-17T17:09+00:00",
+  "window_end": "2026-09-17T21:31+00:00",
+  "candidate_count": 43,
+  "model": "free (no LLM)"
+ }
+}
