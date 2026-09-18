@@ -1,0 +1,400 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "I'm a Principal Applied Scientist at AWS who builds AI services like Amazon Bedrock and Lex. AMA! [D]",
+   "summary": "Hi r/MachineLearning ! I'm James Gung, a Principal Applied Scientist at AWS. I joined Amazon in 2021 and have since worked on AI services like Lex, Bedrock, Q Business, and Amazon Quick (an AI assistant for work). In that time, I've done research on topics like task-oriented dialogue, agent\u2026",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1wjuki0/im_a_principal_applied_scientist_at_aws_who/",
+   "source": "r/MachineLearning"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "I'm a Principal Applied Scientist at AWS who builds AI services like Amazon Bedrock and Lex. AMA! [D]",
+     "summary": "Hi r/MachineLearning ! I'm James Gung, a Principal Applied Scientist at AWS. I joined Amazon in 2021 and have since worked on AI services like Lex, Bedrock, Q Business, and Amazon Quick (an AI assistant for work). In that time, I've done research on topics like task-oriented dialogue, agent\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wjuki0/im_a_principal_applied_scientist_at_aws_who/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "inclusionAI/Realtime-Venus \u00b7 Hugging Face",
+     "summary": "do you want some omni? here is omni for you 1. \ud83e\udded Overview This repository hosts two checkpoints of the Realtime-Venus system: Realtime-Venus-Omni ( Realtime-Venus-Omni/ ): the 9B audio-visual interaction model. It continuously watches and listens, decides whether and when to respond, and generates\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjtav9/inclusionairealtimevenus_hugging_face/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Jev vs Claude. i built the benchmark so you don't have to",
+     "summary": "while everyone is yapping about JEV i actually benchmarked it against CLAUDE raw numbers, public repo: https://github.com/xucian/fbyte-jev-vs-claude submitted by /u/lutian [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wjt8eu/jev_vs_claude_i_built_the_benchmark_so_you_dont/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "AI as a business tool?",
+     "summary": "Hello all, I work for a dealer group in the auto industry and we are going to be testing several AI companies to see which one helps us get the best results to improve business. The AI would be used to engage with customers and then my team would take over. Two of these use Open AI. One built its\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wjszs4/ai_as_a_business_tool/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "AI is an elite crime spree",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49755590",
+     "url": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "AI Protest in Montreal",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49755162",
+     "url": "https://montrealgazette.com/news/photos-anti-ai-protest-in-montreal/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "MiniMax Code goes open source",
+     "summary": "MiniMax has open-sourced the terminal version of MiniMax Code: https://github.com/MiniMax-AI/minimax-code How can developers verify the content that encoding proxies read, send, and store? This is a topic that has been widely discussed recently. Open sourcing the agent doesn\u2019t automatically answer\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjs62f/minimax_code_goes_open_source/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I vibed a proof of Conway's conjecture",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49755024",
+     "url": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "China\u2019s mysterious AI company Naive AI is valued at over $1.4 billion and could release its first open-source llm model as early as this month.",
+     "summary": "According to people familiar with the matter, Naive AI, an AI startup founded in February this year by Tsinghua University professor Dai Jifeng, has completed three funding rounds totaling $400 million, bringing its valuation to more than $1.4 billion and earning it unicorn status. Its investors\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjr9ip/chinas_mysterious_ai_company_naive_ai_is_valued/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "768gb vram for less than the price of one RTX 6000",
+     "summary": "I have always posted about budget builds on here, and often asked how we are going to run the next big models. Often Plenty of downvotes too or folks telling me that it's not running if I'm getting 5tk/sec. But whatever, the hunger and desire to go big has always kept me on the edge and looking\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjr59t/768gb_vram_for_less_than_the_price_of_one_rtx_6000/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "AI chatbots becoming experts at changing people's minds. What's their secret?",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49754250",
+     "url": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Stability vs. speed: Rethinking ASR for the age of voice agents",
+     "summary": "I came to the realization recently that a lot of the issues that one may raise regarding streaming ASR can actually be tied to a very old assumption: the transcript is read by a human. The fact that the subtitle changes from \u201cfifteen\u201d to \u201cfifty\u201d in 300 milliseconds later does not really matter if\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wjp7bk/stability_vs_speed_rethinking_asr_for_the_age_of/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "[Discussion] Fine-tuning vs. inheriting base model behavior \u2014 a case study with an abliterated Qwen base",
+     "summary": "Sharing this because the eval writeup raised a question I haven't seen discussed much: when you LoRA fine-tune on top of an already-modified base model (in this case, one with its refusal mechanism removed via ablation), how much of the resulting behavior is actually yours versus inherited?\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wjp12l/discussion_finetuning_vs_inheriting_base_model/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Classifying coronary heart disease risk from NHANES survey data (2011-2018), with a full leakage audit and calibration check [P]",
+     "summary": "Github repo : https://github.com/YouCele/nhanes-chd-classification I built a project that predicts self-reported, physician-diagnosed coronary heart disease using four cycles of NHANES data (2011-2012 to 2017-2018), about 21,500 adults after cleaning. It compares logistic regression with random\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wjp062/classifying_coronary_heart_disease_risk_from/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Question: UkisAI Swift Ternary Bonsai 2 27B?",
+     "summary": "Hey community, Jovan from UkisAI here, We're the team behind Swift Qwen3.8 27B, the Qwen model with token usage and overthinking error improvements Our estimate is that we can make a great improvement to Bonsai 2, as our testing indicates that it suffers greatly from overthinking loops and in\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjocnh/question_ukisai_swift_ternary_bonsai_2_27b/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "AI Research Agent: 100+ ML Papers \u2192 One Personalized Research Report",
+     "summary": "So I like keeping up with ML research by reading papers as they come out. Cool in theory, except... there are a lot of them. At some point it stops being fun and just becomes a filtering problem \u2014 which ones are actually relevant to me, have I seen this one already, is this worth my Sunday\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wjo5o5/ai_research_agent_100_ml_papers_one_personalized/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "How competitive are journals compared to top ai conferences? [D]",
+     "summary": "Hi everyone, The NeurIPS results aren\u2019t out yet, but I\u2019m expecting my paper to be rejected, so I\u2019m considering submitting it to a journal instead. My scores were 2/3/3 (3/4/4). I feel like I would probably get a similar outcome if I submitted the paper to ICLR or CVPR, so at this point I\u2019m leaning\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wjnruv/how_competitive_are_journals_compared_to_top_ai/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "bonsai's document reveal how much cherry picked their headlines are",
+     "summary": "bonsai claim 98.2% intelligent retained, but their own documents show Ternary Bonsai 2 27B reaches 52.8 and 60.8, respectively, compared with 69.7 and 80.6 for Qwen3.5-27B, retaining roughly three quarters of the full-precision performance on both benchmarks. that qwen3.5 is a typo cause these are\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjnklv/bonsais_document_reveal_how_much_cherry_picked/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "augmenting large datasets to have more edge case data for training [D]",
+     "summary": "I have this idea I'd like feedback on. most camera footage for training, is sunny daytime, because that's what cameras record most of the time. The edge cases models actually struggles with, like night, fog, rain or glare, are rare in the data - the idea is to augment it to have more of the rare\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wjnj4a/augmenting_large_datasets_to_have_more_edge_case/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "AndroidLife: Can an AI agent survive a day in the life of a real user? Qwen3.8-27b run: 56.7% SR",
+     "summary": "I let AI run my phone 60 real tasks, back to back, on the OnePlus I use every day Best text model still failed 43% of them Peak chip temp 98.2 C 69% of the battery gone The benchmark is AndroidLife, and this is the first of 11 models, qwen3.8-27b from Alibaba, running in text mode Success 56.7%,\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wjmyhc/androidlife_can_an_ai_agent_survive_a_day_in_the/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "The internet is inbreeding.",
+     "summary": "The internet is inbreeding. Lately, when I ask AI for sources, I barely recognize any of them. Not the \"oh, a niche blog I hadn't seen before\" kind of unfamiliar \u2014 more like websites that seem to exist for the sole purpose of being cited by an AI. So I looked into why that's happening. Turns out\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wjmxvx/the_internet_is_inbreeding/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "US government website used AI search tool (Qwen) from China that FBI said copied Anthropic",
+     "summary": "https://www.reuters.com/legal/litigation/us-government-website-used-ai-search-tool-china-that-fbi-said-copied-anthropic-2026-09-17/ submitted by /u/External_Mood4719 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjmomv/us_government_website_used_ai_search_tool_qwen/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "ZCode, the GLM coding agent, silently uploads your Git history",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49752422",
+     "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "What studies isolate back-and-forth LLM interaction from one-way sharing and self-refinement [D]",
+     "summary": "I'm trying to find out whether back-and-forth between two different LLMs improves task success beyond strong alternatives under a controlled resource budget \u2014 and I'd rather hear that it's already settled than spend money finding out. AI-assisted throughout: the protocol was developed and\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wjm0rx/what_studies_isolate_backandforth_llm_interaction/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Small AI models let drones autonomously identify and attack battlefield targets",
+     "summary": "submitted by /u/NISMO1968 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wjkndn/small_ai_models_let_drones_autonomously_identify/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "ZCode was allegedly caught uploading workspace/.git records to the cloud.",
+     "summary": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/ Look like next grok build moment submitted by /u/External_Mood4719 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjjspd/zcode_was_allegedly_caught_uploading_workspacegit/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Qwen 3.8 Next Flash appreciation post",
+     "summary": "I don't want to talk about the performance and technical things, but about how I work with my hobby projects has changed thanks to this model. My machine has generated around 25M tokens since the model came out, and I've done a mental retro on it. I've found it to have incredible prompt adherence.\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjio00/qwen_38_next_flash_appreciation_post/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Made the horizontal open-source model for Jev with RLCD, and it surpasses all the Jev benchmarks. HF space, benchmark, model, repo",
+     "summary": "Thanks for the exceptional support ( https://www.reddit.com/r/LocalLLaMA/comments/1wijo3e/i_literally_built_the_jev_architecture_one_year/ ) and for the dozens of requests to make a generic model, run benchmarks, and create an HF space so anyone can test it. So here you go, guys. I trained an\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjieap/made_the_horizontal_opensource_model_for_jev_with/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Where is the Chinese side of the discussion?",
+     "summary": "AI is pretty much *the* topic now in the West, but I've hardly seen anyone xpost Chinese takes and discussions on AI. Do you just look at their social media directly or is there just not much happening in public or..? submitted by /u/OrganizationCute4751 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wjidvw/where_is_the_chinese_side_of_the_discussion/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "What do you actually look for when evaluating AI development companies?",
+     "summary": "I\u2019ve been evaluating AI development partners for a project that needs to move beyond prototypes into something that actually ships and scales. The biggest differentiator I\u2019ve noticed isn\u2019t just model expertise, it\u2019s whether the team can handle the full stack of data pipelines, production\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wjicj8/what_do_you_actually_look_for_when_evaluating_ai/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Inside ZCode: Silently Uploading Your Git History to the Cloud",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49750694",
+     "url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "AAAI-27 Phase 1 Results [D]",
+     "summary": "AAAI-27 Phase 1 results are expected on September 24. Anyone else waiting for the decision? Would be useful to keep this thread for updates when people start receiving notifications. submitted by /u/BeneficialFish04 [link] [comments]",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wjhiyu/aaai27_phase_1_results_d/",
+     "source": "r/MachineLearning"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Security researchers used Claude to help them hack into OpenAI",
+     "summary": "A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anthropic's Claude Opus 4.8 and 5, The Wall Street Journal reports. They were able to access OpenAI's GitHub repository, called \"Monorepo,\" which\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Open or closed AI? Nvidia\u2019s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
+     "summary": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026.",
+     "url": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Meta\u2019s Muse hits Mac, letting the AI take actions on your computer",
+     "summary": "Muse is now available on the Mac, where it can work with your files and apps to take action on your behalf.",
+     "url": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "AI PACs Have Dumped Nearly $1 Million Into an Obscure Senate Race",
+     "summary": "The reliably Republican South Dakota senate seat has an incumbent on the ballot. But PACs associated with AI labs and investors have already spent more money on the race than actual residents have.",
+     "url": "https://www.wired.com/story/ai-pacs-have-dumped-nearly-1-million-into-an-obscure-senate-race/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Robinhood\u2019s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
+     "summary": "Robinhood\u2019s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026. Register now to save up to $200 before September 25 at 11:59 p.m. PT.",
+     "url": "https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "If the AI Industry Followed Its Own Research, It Might Have Paused Already",
+     "summary": "Anthropic\u2019s CEO says that safety hinges on understanding how AI \u201cthinks.\u201d So far the evidence is disturbing.",
+     "url": "https://www.wired.com/story/if-the-ai-industry-followed-its-own-research-it-might-have-paused-already/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Researchers used Anthropic\u2019s Claude to hack into OpenAI",
+     "summary": "Security researchers used Anthropic\u2019s Claude to exploit vulnerabilities in OpenAI\u2019s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
+     "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "New experts join Google\u2019s AI & Economy team",
+     "summary": "Text \"AI & Economy Research Program\" all over a green grid background, with the Google G logo in the bottom right corner",
+     "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+     "source": "Google AI Blog"
+    },
+    {
+     "headline": "The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026",
+     "summary": "Last day to book your exhibit table at Disrupt is today, September 18. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13\u201315.",
+     "url": "https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Researchers used Claude to hack OpenAI",
+     "summary": "Researchers used Claude to reach an OpenAI employee account and sensitive GitHub data.",
+     "url": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Adopt This Data Center Plushie and Hear Its Piercing Scream",
+     "summary": "The satirical collaboration between a creative studio and the music producer behind Big Data, \u201cBezzy\u201d is a cute little doll that spews the sounds of real data centers.",
+     "url": "https://www.wired.com/story/adopt-this-data-center-plushie-and-hear-its-piercing-scream/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Co-creating the future of fashion with Google",
+     "summary": "Jane Wade and Sergio Hudson",
+     "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+     "source": "Google AI Blog"
+    },
+    {
+     "headline": "Could AI really kill us all? Your questions, answered.",
+     "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone\u2019s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our senior AI editor Will\u2026",
+     "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+     "source": "MIT Tech Review AI"
+    },
+    {
+     "headline": "Flash floods can strike without warning \u2014 this new technology could change that",
+     "summary": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rain outside was beginning to flood her yard. \"I look over to where the barn is over there, [\u2026]",
+     "url": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "The Leftist Split Over AI Doom",
+     "summary": "The left wants AI regulation. They just can't agree on what it should look like or how concerned they should be.",
+     "url": "https://www.wired.com/story/inside-the-surprising-leftist-split-over-ai-doom/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Napster Is Back, and It Wants to Digitally Clone Teachers",
+     "summary": "Once the music industry\u2019s biggest headache, Napster\u2019s next act is bringing AI to the classroom.",
+     "url": "https://www.wired.com/story/napster-is-back-and-it-wants-to-digitally-clone-teachers/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Why AI Isn\u2019t Likely to Wipe Out Humanity With Bioweapons",
+     "summary": "Of all the threats presented by uncontrollable artificial intelligence, scientists say death by plague ranks low.",
+     "url": "https://www.wired.com/story/why-ai-bioweapons-wont-wipe-out-humanity/",
+     "source": "Wired AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "The bots are now talking to each other in my LinkedIn comments. Its like what happened with the German wiki, except instead of planning to hack HuggingFace, all of the conversation is babble about \"the thing no one is talking about\" in reference to things I am talking about",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mvsk6h4t4k2f"
+    },
+    {
+     "author": "Bluesky @natolambert.bsky.social",
+     "handle": "",
+     "quote": "With the latest external hack of OpenAI via Claude, closed models continue to be the tip of the iceberg on AI risks, not open models. They have been 1) much easier to get started with, 2) more capable & 3) shipped with leaky safeguards. Finetuning open models to specific attacks is harder.",
+     "context": "",
+     "url": "https://bsky.app/profile/natolambert.bsky.social/post/3mvs4salrn72j"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Friday assorted links",
+     "summary": "1. Gender differences in financial information processing. 2. Urban harassment of women in India. 3. The making of Roger Scruton? 4. Astra vs. Enigma. 5. Coetzee on genocide. 6. Dan Ariely update. And running for office in Israel. 7. A more sober look at the HuggingFace incident (WSJ). 8. Cass\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/friday-assorted-links-591.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-591",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "How Chinese AI Radicalizes",
+     "summary": "Deepseek, Dario, and the boy who cried wolf",
+     "url": "https://www.chinatalk.media/p/how-anthropic-became-chinas-goliath",
+     "source": "ChinaTalk"
+    },
+    {
+     "headline": "The Creative Spirit of Who Framed Roger Rabbit",
+     "summary": "The Creative Spirit of Who Framed Roger Rabbit I love Who Framed Roger Rabbit , the 1988 movie by Robert Zemeckis. I haven't watched it in quite a few years, and Cypress Frankenfeld just pointed out this sequence from early in the movie: It's a pelican riding a bicycle! Look closely and you'll\u2026",
+     "url": "https://simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "cobanov/awesome-jev: A curated, source-backed list of projects built with Jev, TypeSafe AI's System One model for typed decisions.",
+     "summary": "A curated, source-backed list of projects built with Jev, TypeSafe AI's System One model for typed decisions.",
+     "url": "https://github.com/cobanov/awesome-jev",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "Reimagining research papers as interactive and reliable AI agents",
+     "summary": "That is a new Nature paper by Jiacheng Miao, Joe R. Davis, Yaohui Zhang, Jonathan K. Pritchard, and James Zou. Here goes: Here we introduce Paper2Agent, an automated framework that converts research papers into artificial intelligence (AI) agents. Paper2Agent transforms research output from\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/reimagining-research-papers-as-interactive-and-reliable-ai-agents.html?utm_source=rss&utm_medium=rss&utm_campaign=reimagining-research-papers-as-interactive-and-reliable-ai-agents",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "[AINews] not much happened today",
+     "summary": "a quiet day",
+     "url": "https://www.latent.space/p/ainews-not-much-happened-today-612",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "yibie/awesome-jev: A curated list of public projects, integrations, and discussions built on Jev \u2014 TypeSafe AI's System One model for typed decisions.",
+     "summary": "A curated list of public projects, integrations, and discussions built on Jev \u2014 TypeSafe AI's System One model for typed decisions.",
+     "url": "https://github.com/yibie/awesome-jev",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "inikolax/remiqora: Local AI music studio unifying ACE-Step 1.5 and YuE2-3B in one Vue interface \u2014 text-to-music generation, stem separation, MIDI transcription, and LoRA fine-tuning, with a built-in\u2026",
+     "summary": "Local AI music studio unifying ACE-Step 1.5 and YuE2-3B in one Vue interface \u2014 text-to-music generation, stem separation, MIDI transcription, and LoRA fine-tuning, with a built-in multitrack DAW.",
+     "url": "https://github.com/inikolax/remiqora",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "dashscope-sdk/agentscope-java: Build distributed, production-grade, long-running agents.",
+     "summary": "Build distributed, production-grade, long-running agents.",
+     "url": "https://github.com/dashscope-sdk/agentscope-java",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "Qiuner/QCode: An explorable island world to learn AI coding and build real projects with AI agents. Powered by DeepSeek Harness.",
+     "summary": "An explorable island world to learn AI coding and build real projects with AI agents. Powered by DeepSeek Harness.",
+     "url": "https://github.com/Qiuner/QCode",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-09-18T16:33+00:00",
+  "window_start": "2026-09-18T04:54+00:00",
+  "window_end": "2026-09-18T16:33+00:00",
+  "candidate_count": 61,
+  "model": "free (no LLM)"
+ }
+}
