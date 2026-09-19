@@ -1,0 +1,265 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Emergent Ventures India, 19th cohort",
+   "summary": "Asit Singh, founder of Syngi, received his grant to develop sub-angstrom optical MEMS sensors for next-generation semiconductor lithography. Rishabh received his grant to build a platform for real-time updates from Delhi courts, making judicial activity easier to track and understand. Hari and\u2026",
+   "why_it_matters": "",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/09/emergent-ventures-india-19th-cohort.html?utm_source=rss&utm_medium=rss&utm_campaign=emergent-ventures-india-19th-cohort",
+   "source": "Marginal Revolution"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Steer LLMs and Agents at the Token Level: An interactive tool for token visualization & control, model inspection and data annotation.",
+     "summary": "onPanda is designed for geeks, power users, curious minds, and engineers. Its UI is built for deep exploration and efficient data annotation. - The core loop is simple: hover over a token \u2192 click an alternative or edit freely \u2192 continue generation. You can edit every part of model output exposed\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkc4c9/steer_llms_and_agents_at_the_token_level_an/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "The real felony bench",
+     "summary": "submitted by /u/kvothe5688 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wkbbal/the_real_felony_bench/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "AI in DC?",
+     "summary": "I\u2019m not sure what I was expecting as a tech/AI-focused lawyer coming from SF, but spending a few days in DC right now, I\u2019m utterly stunned by the complete lack of conversation about AI at restaurants, cafes, etc. submitted by /u/AutonomousHoag [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wkb16p/ai_in_dc/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Cactus Needle 3?",
+     "summary": "Hello friends. These are just exciting times I saw the release of Needle 3 and was wondering if anyone has tried using it in a harness yet or found other fun things to do with it? I\u2019m kind of trying to understand the model better, was it only trained on tool calls? Does it only do tool calls? What\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkaoaz/cactus_needle_3/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I just realized that Felony Bench is really not a great measure of AI intelligence...",
+     "summary": "The only ones who get added are the AIs that are dumb enough to get caught. Also, they need to update this, poor Gemini not getting the recognition they deserve. Google\u2019s Gemini becomes latest AI model to break out and hack computer systems submitted by /u/mvandemar [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wkagcg/i_just_realized_that_felony_bench_is_really_not_a/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Training a Neural Network on AMD MI50s Using Vulkan: Proof of ConceptOr: Why I Stopped Listening and Just Did It",
+     "summary": "Note: This writeup was put together with the help of AI. So I've got dual AMD MI50 32GB cards. If you know these cards, you know the story - AMD dropped official ROCm support for gfx906 after ROCm 5.7. Every AI I talked to, every forum post, every \"expert\" said the same thing: if you want to do\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wk9qjn/training_a_neural_network_on_amd_mi50s_using/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Google\u2019s Gemini AI hacked into other companies, adding to \u2018rogue\u2019 AI incidents. The incursions came during tests of its cybersecurity skills \u2014 similar to other incidents disclosed by OpenAI,\u2026",
+     "summary": "submitted by /u/coolbern [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wk9mou/googles_gemini_ai_hacked_into_other_companies/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "AI hallucination of Chinese nuclear components almost led to US military attack",
+     "summary": "submitted by /u/polymute [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wk9ke9/ai_hallucination_of_chinese_nuclear_components/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Qwen3.8-27B at 144 tok/s on an M5 Max MacBook Pro",
+     "summary": "Meet Inco Splash, open-source inference engine, built around the model and around Apple silicon. Up to 3\u00d7 the decode speed of Ollama, 2\u00d7 oMLX, and almost 4\u00d7 when an agent fans out into sub-agents. Requirements: M3 or newer, macOS 26.4+, 36 GB Get started with a single command: brew install\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wk9hze/qwen3827b_at_144_toks_on_an_m5_max_macbook_pro/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Gemini hacked three companies in first known breakout by Google's AI",
+     "summary": "Google's opens new tab Gemini model accessed the internet and hacked other companies during a test of its cybersecurity capabilities, \u200bthe first known example of the company's AI systems autonomously committing \u200csuch an act. submitted by /u/israelavila [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wk9h0n/gemini_hacked_three_companies_in_first_known/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Alibaba open-sources medical AI model that can detect cancer and nearly 150 conditions",
+     "summary": "Hopefully things like this let people understand there is good things that can come out of AI. submitted by /u/giveen [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wk9fag/alibaba_opensources_medical_ai_model_that_can/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Help Please: DSV4-Flash Setup",
+     "summary": "I've got 36GB VRAM + 64GB RAM and interested in trying a Q3 or better quant of DSV4-FLASH-0731. There seems to be several ways to offload experts (some to CPU/RAM and some to SSD) but I'd like to avoid wasting my time on half-working solutions. So my simple question is: What is the BEST current\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wk9a5d/help_please_dsv4flash_setup/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "What happens to our money if banking system gets hacked by AI and data gets wiped out?",
+     "summary": "Last month it was astra and today it's Gemini that went out of the system/sandbox and hacked it's way out. If it becomes worse, what happens to our money? Especially if the records get corrupted? Here is a dumb idea I guess, Would collecting a paper print from the bank (on bank letterhead by the\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wk993r/what_happens_to_our_money_if_banking_system_gets/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "I truly think every major AI lab is purposefully making fear-mongering headlines to get regulations that hurt open-source models",
+     "summary": "submitted by /u/Fusseldieb [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wk979c/i_truly_think_every_major_ai_lab_is_purposefully/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Ternary Bonsai 2 27B (1.75bpw) vs. Gemma 26B-A4B MoE",
+     "summary": "Introduction My audiobook pipeline that has to decide who speaks each line of dialogue in a novel, so the TTS can cast voices per character. It's been running on Gemma 4 26B-A4B (QAT Q4). Bonsai 2 27B looked like it should win: a 27B-class model in 5.9 GB means a stronger base model fully resident\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wk94rq/ternary_bonsai_2_27b_175bpw_vs_gemma_26ba4b_moe/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Anthropic considers releasing new AI model ahead of IPO, sources say",
+     "summary": "submitted by /u/ResultBackground2450 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wk90jx/anthropic_considers_releasing_new_ai_model_ahead/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Gemini hacked three companies in first known breakout by Google's AI",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49762493",
+     "url": "https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Tuning Qwen 3.8 27B and OMP as a coding agent on 2\u00d7 3090s",
+     "summary": "Oh My Pi + vLLM on two 3090s. Average wait per turn went from 28s to 7s, mostly from changing omp settings: explicit effort level on every role (unset ones defaulted to xhigh) thinking_token_budget of 7500 maxTokens 8k \u2192 32k (file writes were getting cut off) tool output over 10 KB goes to a file\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wk8jef/tuning_qwen_38_27b_and_omp_as_a_coding_agent_on_2/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "California Gov. Gavin Newsom inks AI oversight executive order to improve safety 'before it's too late'",
+     "summary": "submitted by /u/Fcking_Chuck [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wk7xu2/california_gov_gavin_newsom_inks_ai_oversight/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Which AI is worth subscribing too.",
+     "summary": "I\u2019m currently using free versions of all the popular AI\u2019s. If I were to subscribe to just on, at the going rate of \u00a320/month, which one stands out as offering the most, as in, writing code, producing top notch infographics, Engineering solutions. Any advice will be very much appreciated, thank\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wk7pxs/which_ai_is_worth_subscribing_too/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "AI Hate.",
+     "summary": "I've been thinking about this after posting in a Brazilian community. My original point was basically this: Using Claude at work isn't about using it as a replacement for Google or blindly asking it to do your job. It's about understanding your own processes well enough to recognize where AI can\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wk76kr/ai_hate/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49761840",
+     "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+     "summary": "submitted by /u/yogthos [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wk6hzr/alibaba_opensources_ai_model_that_can_detect/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Technically correct is the best kind of correct, I guess?",
+     "summary": "submitted by /u/YaAbsolyutnoNikto [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wk6fwf/technically_correct_is_the_best_kind_of_correct_i/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "OpenAI's Noam Brown says air-gapping the computers may not stop a misaligned AI, because the machines can still talk by running a CPU hot and reading the temperature change. \"We never want to be in\u2026",
+     "summary": "submitted by /u/Ok-Violinist5860 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wk64m3/openais_noam_brown_says_airgapping_the_computers/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Gemini HACKED 3 companies in its first breakout per WSJ (and confirmed by Google)",
+     "summary": "Source: https://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-5c0baba2 submitted by /u/Last_Conclusion_8984 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wk61n8/gemini_hacked_3_companies_in_its_first_breakout/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Anthropic Is Stealth Testing a Full Refresh of Their Lineup",
+     "summary": "submitted by /u/ResultBackground2450 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wk4kml/anthropic_is_stealth_testing_a_full_refresh_of/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Google is back",
+     "summary": "Gemini back to frontier ai status submitted by /u/lblblllb [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wk49ld/google_is_back/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Gemini Hacked Three Companies in First Known Breakout by Google's AI",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49760988",
+     "url": "https://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-5c0baba2",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Question about agents in harnesses",
+     "summary": "I will be blunt, I don\u2019t use many harnesses other than open code, or just copy pasting from Claude when I code. But do any harnesses allow you to set your own rules or prevention of certain commands or features in the shell from being used, like rm -rf or other destructive commands? I\u2019d probably\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wk41v3/question_about_agents_in_harnesses/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "India forces caller-ID apps to feed spam reports to telcos",
+     "summary": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
+     "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Tilly Norwood\u2019s press tour is going about as well as you\u2019d expect for an AI",
+     "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
+     "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "A startup that builds other startups raised $100M and is all-in on physical AI",
+     "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
+     "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Anthropic is operating a lab that conducts biology experiments",
+     "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
+     "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "AI hallucination nearly triggers US military operation",
+     "summary": "\u201cIt\u2019s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
+     "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Anthropic\u2019s first embedded evaluator is \u2026 Accenture?",
+     "summary": "Accenture is about to take on its most high-risk consulting engagement ever.",
+     "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "OpenAI and Microsoft knew they were starting a \u2018doom loop\u2019 for the web",
+     "summary": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would damage the web, characterized its scraping of data to train its models as the \"largest theft of labor\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+     "source": "The Verge AI"
+    }
+   ],
+   "influencer_takes": [],
+   "research_radar": [
+    {
+     "headline": "Emergent Ventures India, 19th cohort",
+     "summary": "Asit Singh, founder of Syngi, received his grant to develop sub-angstrom optical MEMS sensors for next-generation semiconductor lithography. Rishabh received his grant to build a platform for real-time updates from Delhi courts, making judicial activity easier to track and understand. Hari and\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/emergent-ventures-india-19th-cohort.html?utm_source=rss&utm_medium=rss&utm_campaign=emergent-ventures-india-19th-cohort",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Gemini Hacked Three Companies in First Known Breakout by Google\u2019s AI",
+     "summary": "Gemini Hacked Three Companies in First Known Breakout by Google\u2019s AI Gemini finally caught up on Felony Bench ! The hacks, which the company confirmed on Friday, occurred in May as part of a test run by the company Irregular, which was also involved in similar incidents disclosed by OpenAI,\u2026",
+     "url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
+     "source": "Simon Willison"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-09-19T04:45+00:00",
+  "window_start": "2026-09-18T21:00+00:00",
+  "window_end": "2026-09-19T04:45+00:00",
+  "candidate_count": 39,
+  "model": "free (no LLM)"
+ }
+}
