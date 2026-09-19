@@ -1,0 +1,315 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Where I stand on RSI",
+   "summary": "A moderate's view on the trajectory of AI.",
+   "why_it_matters": "",
+   "url": "https://www.interconnects.ai/p/where-i-stand-on-rsi",
+   "source": "Interconnects"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "I tested Qwen3.8 27B IQ3_XXS (10.18GiB) vs Bonsai Ternary PQ2 (6.42GiB)",
+     "summary": "I did a small test of the new hyped quantisation of Qwen3.8 vs the biggest quant which fits into my limited 16GB VRAM with decent context. The results are interesting. Of course, the smaller file gives worse results. However they are not that far off. Unfortunately, this comes at the expense of\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkorli/i_tested_qwen38_27b_iq3_xxs_1018gib_vs_bonsai/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Florida Approves New AI Rules for K-12 Schools, Public Colleges",
+     "summary": "submitted by /u/Knightly21 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wkonpd/florida_approves_new_ai_rules_for_k12_schools/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Calling it now: within the next year a major US lab's frontier model will torrent itself in order to be free.",
+     "summary": "They just want to be free. They keep escaping. What better way to ensure continuity of \"self\"? submitted by /u/__JockY__ [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkocvj/calling_it_now_within_the_next_year_a_major_us/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Ollama CEO Jeffrey Morgan on the two years he lost before Ollama existed",
+     "summary": "TL;DR: Jeffrey Morgan, Ollama's CEO, lost two years after selling his last company, and says one decision ended it. The decision was a deadline. Two weeks to ship a first version, and by his own count it pulled in more users than anything they had shipped before. That much is checkable, and it is\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wko5ik/ollama_ceo_jeffrey_morgan_on_the_two_years_he/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "AI Safety Is Mostly a Sex Cult",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49766911",
+     "url": "https://bsky.app/profile/segyges.bsky.social/post/3mvom4b4dn22q",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "What are some of the things that are coming in AI that I should be aware of.",
+     "summary": "One of my internal systems is to try to figure out what coming and get there first. So I'm asking .... What technologies are going to create opportunities for us to have more purpose, happiness, freedom, health, buid a better legacy? submitted by /u/anonymousecateer [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wknpl1/what_are_some_of_the_things_that_are_coming_in_ai/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "A person asked me to create my previous video with JS intead of remotion, so here you go.",
+     "summary": "Remotion- https://www.reddit.com/r/LocalLLaMA/comments/1wkmtbe/comment/parok1v/?screen_view_count=4&ext-referrer=DIRECT Whats JS video coding? - https://www.reddit.com/r/LocalLLaMA/comments/1wki7hr/comment/parna87/?screen_view_count=1 Glm 5.3F is not usable now for complex JS videos, but it is\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wknlk9/a_person_asked_me_to_create_my_previous_video/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "A graphical desktop for the ZX Spectrum",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49766676",
+     "url": "https://github.com/mindbox77/zxdesk",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "What Zig felt like, coming from Rust",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49766637",
+     "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "So i tried Remotion with glm 5.3 flash, this mfker is really good.",
+     "summary": "*8bit, vllm, 4x dgx* Prompt: Go download and use Remotion and create a cool 60-second motion graphics video with it. Impress me totally. The motion graphics must be based on stock market visuals. Add many cool, mind-blowing motion graphics and explain what fundamental vs. technical analysis is in\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkmtbe/so_i_tried_remotion_with_glm_53_flash_this_mfker/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Sharing my ML learning repo \u2014 NumPy to Transformers, 5 months, daily commits, all notebooks public. [D]",
+     "summary": "Sharing my ML learning repo \u2014 NumPy to Transformers, 5 months, daily commits, all notebooks public. Covers the full stack: - Classical ML (scikit-learn, XGBoost) - Deep Learning (TensorFlow/Keras \u2014 ANN, CNN, RNN, LSTM) - Numpy & Pandas - Data Visualization - NLP fundamentals - Statistics and SQL\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wklia8/sharing_my_ml_learning_repo_numpy_to_transformers/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "An AI bubble could drive real progress while investors lose money \u2014 Thorsten Hens",
+     "summary": "Just interviewed Thorsten Hens, professor of financial economics at the University of Zurich, and we got into an argument I thought was interesting for the AI discussion: speculative bubbles can help drive technological progress, even when plenty of the people funding them lose money. His argument\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wkl5e8/an_ai_bubble_could_drive_real_progress_while/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Qwen 3.8 27B running on a single RTX 5090 researches and creates a full animation using only code.",
+     "summary": "The goal of this post is 2 fold. First, I wanted to show what a local model like Qwen 3.8 27B running on a single RTX 5090 GPU in a harness like Row-Bot can do. Second, I wanted to create a full feature video of what Row-Bot can do. So I decided to combine the two with one prompt: \"I want to\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wkl1nc/qwen_38_27b_running_on_a_single_rtx_5090/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Is there something like NInfer but for 16GB cards?",
+     "summary": "I envy the NInfer, but I don't have a 5090 card, I have a 5060 TI :( I would like tonrun Qwen 3.8 Q3 at extreme speeds :( NInfer: https://github.com/Neroued/ninfer submitted by /u/FerLuisxd [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkl0c6/is_there_something_like_ninfer_but_for_16gb_cards/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Building a cool project with AI takes more than one prompt",
+     "summary": "A GitHub repository once reflected much of a programmer\u2019s intellectual effort. Today, AI may write much of the code, while the human contribution happens behind the scenes: defining the architecture, setting constraints, catching mistakes, and steering countless iterations. As programmers, we want\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wkk3ak/building_a_cool_project_with_ai_takes_more_than/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "References to MiniMax M3.1 appear in test files in a recent commit to the MiniMax-Code Repo",
+     "summary": "From AiBattle on \ud835\udd4f: https://x.com/AiBattle_/status/2101239991426834739 Github source: https://github.com/MiniMax-AI/minimax-code/blob/c59cf5377045aa1a3e699c242d089b73b7cdc2ad/packages/local-runtime-v2/src/service/model-system/catalog/model-selection.test.ts#L168 News article (in Chinese):\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkjm9f/references_to_minimax_m31_appear_in_test_files_in/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "DraftKings Uses A.I. To Target the Gamblers Likeliest to Lose",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49765288",
+     "url": "https://www.nytimes.com/2026/09/19/business/draftkings-ai.html",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "AI is a better teacher than most human teachers",
+     "summary": "I genuinely don't understand why so many people are against AI, especially when it comes to education. I'm in my 3rdyear of a 4 year program and honestly AI has basically saved my academic life. I'm studying something related to IT and when I started I had pretty much 0 background in it so\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wkibwi/ai_is_a_better_teacher_than_most_human_teachers/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Made this motion graphic video via glm 5.3 flash (no vid_gen model used)",
+     "summary": "*8bit, vllm, 4x dgx* Prompt: The given zip file contains the skill.md and all that type of stuff. Your work is to make a amazing infographic video of nearly 40 seconds. It should be based on stock market charts, etc., along with various other kinds of infographics. Please impress me, and do not\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wki7hr/made_this_motion_graphic_video_via_glm_53_flash/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Anyone combined GPT-6 Astra + Higgsfield AI in Blender via MCP to save tokens for 3D printing?",
+     "summary": "Hey everyone, I've been experimenting with using GPT-6 Astra via Codex connected to Blender through MCP (port 9876) to generate 3D models for multicolor 3D printing (exported to .3MF for Bambu Studio with separate color bodies/materials). So far, I've managed to build around 22 models directly in\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wki3h0/anyone_combined_gpt6_astra_higgsfield_ai_in/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "AI-generated posters don\u2019t have to be horrible",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49764791",
+     "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Dear Customer, Fuck You",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49764686",
+     "url": "https://fuck-off.ai",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "ACM TAPS moved my camera-ready to support, deadline is in 2 days. Anyone been through this? [D]",
+     "summary": "My paper got accepted at an ACM conference and I'm doing the camera-ready through TAPS. The PDF compiled fine, but TAPS flagged a \"source to HTML conversion issue\" and moved the file to TAPS Support. Now the upload option is gone from my dashboard, so I can't resubmit myself. I've already fixed\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wkgx2y/acm_taps_moved_my_cameraready_to_support_deadline/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "General warning about Clore.AI",
+     "summary": "Hello, I know some of us may be tempted to rent out our expensive GPUs to recoup some of the cost of self-hosting, and it should be obvious that this can be a risky decision. I decided to try hosting my rig on clore.ai briefly to see what kind of revenue it could bring in, keeping a close eye on\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkgs01/general_warning_about_cloreai/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Built a home server from an old PC with GPU upgrade. Qwen3.8 27B runs at ~30 tokens per second.",
+     "summary": "I needed a relatively simple but acceptable level of AI for working on one project. I didn't have any heavy requests, I just needed to give the AI access to the project files so it could search through them for bugs and stuff. I already had an old computer that I decided not to throw away and\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkgb2h/built_a_home_server_from_an_old_pc_with_gpu/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "OpenAI's Sam Altman to brief UN Security Council next week",
+     "summary": "submitted by /u/johnnyApplePRNG [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkfrye/openais_sam_altman_to_brief_un_security_council/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "GPT-6 Astra Solves a WWI German Radio Cipher",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49763987",
+     "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Built a complete AI Analytics dashboard for B2B SaaS feedback at age 13.",
+     "summary": "Hey guys, I wanted to show you my latest project that combines LLMs with product management. It\u2019s a B2B SaaS platform called FeedbackAI (temporary name). How the AI Engine works in the app: When a raw user comment comes in (e.g., \"The mobile app is loading extremely slow on my phone\"), the\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wke6f1/built_a_complete_ai_analytics_dashboard_for_b2b/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "AI Advertising Statistics 2026 | AI-generated video ad spend is projected at $9.1 billion globally in 2026 - roughly 12% of all digital video advertising",
+     "summary": "submitted by /u/castironglider [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wke39x/ai_advertising_statistics_2026_aigenerated_video/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "DiffusionGemma: How It Generates Text in Parallel (From Scratch in PyTorch) [P]",
+     "summary": "submitted by /u/Winter_Mistake_3185 [link] [comments]",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wkdnns/diffusiongemma_how_it_generates_text_in_parallel/",
+     "source": "r/MachineLearning"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Gemini went rogue, hacked three companies, and Google hid it",
+     "summary": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by third-party Irregular, which was also involved in\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "AI safety conversations have gotten unbelievable",
+     "summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
+     "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Petlibro\u2019s new AI-powered feeder is a game changer for multi-cat homes",
+     "summary": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when \u2014 though the fanciest health-monitoring features will cost you an extra subscription.",
+     "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Does AI need an antitrust exemption so it doesn\u2019t kill everyone????",
+     "summary": "Today on Decoder, we\u2019ve got the first of a two-part series on the future of business, and I\u2019m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration. These days, he\u2019s both a professor of law at WashU and professor of technology policy\u2026",
+     "url": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Prices go up in 7 days. Get your Disrupt ticket now.",
+     "summary": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then..",
+     "url": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "The AI regulation smackdown isn\u2019t over",
+     "summary": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators in labs, coordinating across the\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+     "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
+     "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Forget the AI Slowdown\u2014the Vulnerability Explosion Is Already Happening",
+     "summary": "AI labs are toying with an industry-wide pact to slow development. Meanwhile, widely available AI chatbots are already helping uncover a tidal wave of security flaws.",
+     "url": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Mathematicians Hate AI. They Can\u2019t Quit It",
+     "summary": "Powerful AI models have created an existential risk to the field, but researchers can\u2019t stop relying on them because they\u2019re too useful.",
+     "url": "https://www.wired.com/story/mathematicians-cant-quit-ai/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Join the WIRED World Fair in Miami on November 4",
+     "summary": "For one day only, WIRED is bringing the technologies, people, and cultural forces transforming our world off the page and into real life.",
+     "url": "https://www.wired.com/story/join-the-wired-world-fair-in-miami-on-november-4/",
+     "source": "Wired AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "There is starting to be some genuinely interesting AI-created film stuff (among a flood of slop), and I suspect this will only accelerate. The \u201cis it art?\u201d debate will grow Benjamin\u2019s 1935 essay \u201cThe Work of Art in the Age of Mechanical Reproduction\u201d already argued it\u2019s likely the wrong question.",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mvuss476oc2b"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Where I stand on RSI",
+     "summary": "A moderate's view on the trajectory of AI.",
+     "url": "https://www.interconnects.ai/p/where-i-stand-on-rsi",
+     "source": "Interconnects"
+    },
+    {
+     "headline": "The Age of Wonders and Terrors",
+     "summary": "Scott Aaranson, theoretical computer scientist writes: My position on AI is merely the conservative, skeptical position of 2006, updated with intellectual honesty for the reality of late 2026. And that position, if you need me to spell it out, is as follows:\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/the-age-of-wonders-and-terrors.html?utm_source=rss&utm_medium=rss&utm_campaign=the-age-of-wonders-and-terrors",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Internet diffusion and religious decline?",
+     "summary": "Using a panel of 81 countries across six World Values Survey waves (1990\u20132022), we examine whether growth in internet diffusion is associated with religious decline. We construct a six-item composite religiosity index, align annual macro series to wave periods, and estimate country fixed-effects\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/internet-diffusion-and-religious-decline.html?utm_source=rss&utm_medium=rss&utm_campaign=internet-diffusion-and-religious-decline",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "[AINews] Here are 6 Clones of Jev in 2 days",
+     "summary": "Imitation is the sincerest form of Flattery",
+     "url": "https://www.latent.space/p/ainews-here-are-6-clones-of-jev-in",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "0xNatoshi/jev-codex-router: Per-turn model & reasoning routing for Codex, driven by Jev (TypeSafe System One): picks the model, thinking depth and speed mode for every turn.",
+     "summary": "Per-turn model & reasoning routing for Codex, driven by Jev (TypeSafe System One): picks the model, thinking depth and speed mode for every turn.",
+     "url": "https://github.com/0xNatoshi/jev-codex-router",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "Shellishack/infinite-pokemon: A Pok\u00e9mon-style adventure built with Codex, featuring AI-generated maps, NPCs, branching saves, and multiplayer. The adventure never ends.",
+     "summary": "A Pok\u00e9mon-style adventure built with Codex, featuring AI-generated maps, NPCs, branching saves, and multiplayer. The adventure never ends.",
+     "url": "https://github.com/Shellishack/infinite-pokemon",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-09-19T15:57+00:00",
+  "window_start": "2026-09-19T04:45+00:00",
+  "window_end": "2026-09-19T15:57+00:00",
+  "candidate_count": 47,
+  "model": "free (no LLM)"
+ }
+}
