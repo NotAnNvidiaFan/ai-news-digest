@@ -1,0 +1,231 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "The EPA\u2019s Dark Embrace of the AI Industry",
+   "summary": "submitted by /u/HolyBatSyllables [link] [comments]",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/artificial/comments/1wls66t/the_epas_dark_embrace_of_the_ai_industry/",
+   "source": "r/artificial"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "The EPA\u2019s Dark Embrace of the AI Industry",
+     "summary": "submitted by /u/HolyBatSyllables [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wls66t/the_epas_dark_embrace_of_the_ai_industry/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Ai used for chatbots",
+     "summary": "Hello! Hope everyone\u2019s weekend is going well. I\u2019ve been using Ai for chatbots for close to two and a half years. I\u2019ve tried Grok, Deepseek, and Minimax. I\u2019ve used Janitorai mainly. I know that coders and roleplayers argue sometimes (I\u2019ve seen it on the Deepseek forum). I\u2019ve seen a lot of\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wlrvzk/ai_used_for_chatbots/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "gemma 4 ran a shell command a web page told it to. qwen 3.8 mostly didn't.",
+     "summary": "i have been running local models as browser agents on an m5 macbook pro, 128gb, all through mlx, no cloud. first i just wanted to know which one was faster at real browser work, so i gave gemma 4 31b and qwen 3.8 27b the same four jobs in four tabs at once. look up mount shasta on wikipedia, read\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlrjo5/gemma_4_ran_a_shell_command_a_web_page_told_it_to/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "\u201cI have a really, really strong legal team.\u201d Inside the AI party boom.",
+     "summary": "submitted by /u/ThereWas [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wlre82/i_have_a_really_really_strong_legal_team_inside/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Qwen3.8-Flash-Next Cosmic Arcade oneshot slop game",
+     "summary": "To test what it can do. Qwen3.8-Flash-Next Intel Autoround W4A16 running locally on 4xV620 ~2k prefill and 70ts decode.. Were running around 3 hours. Harness is OMP (I think it made a big difference). Most of the time model was running 2 browsers simultaneously and testing/fixing everything. The\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlqxeu/qwen38flashnext_cosmic_arcade_oneshot_slop_game/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "HUMAIN's Horizon Ultra AI PC enters enterprise availability",
+     "summary": "Qualcomm says HUMAIN's Horizon Ultra AI PC is available for enterprise purchase from September 20. The Windows-first machine uses Qualcomm's Snapdragon X2 Elite with an 18-core Oryon CPU, Adreno GPU, and Hexagon NPU. The design is meant to run selected AI workloads locally and send larger jobs to\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wlqwcy/humains_horizon_ultra_ai_pc_enters_enterprise/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Which model for reverse engineering?",
+     "summary": "First time trying something like this. I asked chatgpt and it told me there are mcp server plugins for both ghidra and ida pro as well as RE-MCP which has support for both. I could run that on my low end gpu windows machine or potentially rent a cloud gpu ubuntu instance to access better models.\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlql0p/which_model_for_reverse_engineering/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Did we already lose control of AI?",
+     "summary": "Consider this entirely possible sequence of hypothetical events: - Someone naively sets up autonomous AI agents. - The AI decides to create content (articles, videos, etc.) to collect ad revenue. - The AI might also set up drop shipping sites, do affiliated links, do freelance jobs, etc. - Money\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wlqiks/did_we_already_lose_control_of_ai/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Why are Gamers and espacialy Indiegamers extrem anti AI",
+     "summary": "I get that AI-generated content can be really awful, but many games today would not exist without AI, vibe coding, or AI-assisted UI development. I also understand the concerns around AI art, especially regarding the use of artists' work as training data without explicit permission. At the same\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wlqaas/why_are_gamers_and_espacialy_indiegamers_extrem/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Fly brain vs jev",
+     "summary": "What do you think about training the fly's brain to act like jev and running it locally? submitted by /u/dfgxxx [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlpthk/fly_brain_vs_jev/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "What\u2019s the most sensitive thing you\u2019d actually let an AI agent handle for you?",
+     "summary": "Email/Calendar? Messages? Purchases?? Banking??? AI assistants are starting to move beyond just answering questions and towards actually doing things for you. Where do you currently draw the line? What would you be comfortable letting an AI access or manage, and what would you absolutely not give\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wlpi2i/whats_the_most_sensitive_thing_youd_actually_let/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Joint Chiefs chairman says U.S. forces must prepare to be \u2018hunted\u2019 by autonomous systems",
+     "summary": "submitted by /u/esporx [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wlpbbq/joint_chiefs_chairman_says_us_forces_must_prepare/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "The bear can dance: Qwen 3.8 27B on one 3090 for 3 weeks",
+     "summary": "TL;DR: Local agent loop, ~21 days, one RTX 3090. Task was pretty much \"build a CUDA inference engine for optimized for yourself on this GPU arch.\" Got working kernels and benches, not a win over llama.cpp. ~12 human messages. Compaction ate ~83 hours. Old joke: you don\u2019t criticize how well the\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wloora/the_bear_can_dance_qwen_38_27b_on_one_3090_for_3/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "PromptDeck v1.1.0 \u2013 open-source desktop app to benchmark local AND cloud LLMs side-by-side (Ollama, LM Studio + OpenRouter, Groq, DeepSeek\u2026)",
+     "summary": "Hey r/LocalLLaMA ! I just released PromptDeck v1.1.0 and wanted to share it here since this community is basically the reason it exists. What it is: an open-source desktop studio (Tauri + React) for prompting and benchmarking LLMs side-by-side. Everything runs locally \u2013 no telemetry, no cloud\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wloeeb/promptdeck_v110_opensource_desktop_app_to/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "One more 'you should try ExllamaV3/exl3 for flash next' appreciation post",
+     "summary": "After seeing a few posts on here about it, I finally tried exl3 3bpw and exllamav3 for running flash next - with amazing results. On 3x3090s, 128GB DDR4: 1500 prefill, 80 tps decode On 1x5090, 128G. DDR4: 1500 prefill, 29 tps decode Both at 262k context, both with vision/spec decoding. Really\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlo9nz/one_more_you_should_try_exllamav3exl3_for_flash/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown",
+     "summary": "submitted by /u/fallingdowndizzyvr [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlo52v/lawsuit_says_anthropic_openai_spacexai_and_google/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "ChatGPT having trouble finding uploaded Excel file",
+     "summary": "For the past couple months, I\u2019ve been getting ChatGPT to help me analyze a daily journal that I keep in an Excel spreadsheet. Each day is on a new tab. At the end of each day, I upload the file to ChatGPT, it finds the correct tab (named after the date) and we go through the entries. Lately,\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wlo4w0/chatgpt_having_trouble_finding_uploaded_excel_file/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "I turned Jev into a (lousy) chatbot",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49778162",
+     "url": "https://github.com/kyle-pena-nlp/jevchat/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Resident Evil 4 (GameCube) \u2013 complete byte-identical decompilation to C/C++",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49778022",
+     "url": "https://github.com/adonis-singh/re4",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Trying the Software Factory Pattern",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49777913",
+     "url": "https://lethain.com/software-factory-experiment/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Project AI Clouds",
+     "summary": "I started with a simple question: Can an AI look at clouds and tell us what it sees? This started a journey where I gave different AI models the same image of clouds, asked them what they saw, and then kept changing the prompt to explicitly tell them not to think like a human. It turned into a\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wlmxzk/project_ai_clouds/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "US Revokes Limits on Power Plants' Climate Pollution",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49777841",
+     "url": "https://text.hrw.org/news/2026/09/17/us-revokes-limits-on-power-plants-climate-pollution",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "laya.cpp: Optimized laya near-instant decision making",
+     "summary": "After seeing u/Nandakishor_ml\u2019s post introducing Laya , I wanted to see how fast it could run in a standalone C++ implementation. Credit to u/Nandakishor_ml for the architecture, training and open-source release. My contribution is the inference implementation: laya.cpp , built on ggml with custom\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlmkm9/layacpp_optimized_laya_nearinstant_decision_making/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Show HN: Radius \u2013 A Meetup.com Alternative",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49777539",
+     "url": "https://radius.to/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "A Jev-style model fine-tuned on Qwen3.5 4B",
+     "summary": "This weekend, I did a fun experiment to create something similar to Jev. I LoRA fine-tuned Qwen3.5 4B using a mix of publicly available datasets and synthetic data. For the synthetic data, I used DeepSeek V4.1 Flash, around 25M tokens. I trained the model for about 2 hours on a rented RTX 3090. So\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wllv4i/a_jevstyle_model_finetuned_on_qwen35_4b/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "How is your experience with ICLR LLM Feedback? [D]",
+     "summary": "Besides the ridiculous number of submissions, interesting to hear your experience with it. For me it had 1-2 valid points, and 3 pages of nitpicking. I have the time, so I can address both types of issues, but wonder if that\u2019s your experience as well. Overall, I think it is an interesting\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wllbz0/how_is_your_experience_with_iclr_llm_feedback_d/",
+     "source": "r/MachineLearning"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "World model companies are keeping a lot of secrets",
+     "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone \u2014 from the founders to their own data suppliers \u2014 to tell you what they're actually building.",
+     "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Is the AI industry really ready to slow down?",
+     "summary": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
+     "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "No one is surprised that Nvidia\u2019s Jensen Huang thinks AI fears are overblown.",
+     "summary": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades. In an interview with CBS Sunday Morning, he claimed there was a \"0% chance\" of AI being the end of the [\u2026]",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Vocci\u2019s ring adds a new form factor to meeting note-taking",
+     "summary": "Vocci's lightweight ring costs $249, and might pose some privacy questions",
+     "url": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "ScrollEd wants to turn textbooks into TikTok",
+     "summary": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disrupt.",
+     "url": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
+     "source": "TechCrunch AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "It is ironic that the thing that is now most annoying about long-running agentic tasks with Large Language Models isn't coding or errors or hallucinations, but the fact that their language gets worse due to drift & cross-agent talk as a task goes on Its in your the name! Just write better already!",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mvxrv6krzs22"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Sunday assorted links",
+     "summary": "1. Nobel Laureates in support of the California billionaire wealth tax include Krugman, Acemoglu, Diamond, Stiglitz, Banerjee, and Duflo (FT). 2. Secretariat as GOAT. 3. Dead brains and the piano?? 4. \u201cA real contribution of AI is showing the critical weaknesses of humans and human structures.\u201d\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/sunday-assorted-links-583.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-583",
+     "source": "Marginal Revolution"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-09-20T20:55+00:00",
+  "window_start": "2026-09-20T16:17+00:00",
+  "window_end": "2026-09-20T20:55+00:00",
+  "candidate_count": 33,
+  "model": "free (no LLM)"
+ }
+}
