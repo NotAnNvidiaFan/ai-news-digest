@@ -1,0 +1,550 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
+   "summary": "Every AI factory needs power and cooling that fit its computing architecture. As AI infrastructure expands, power, cooling, water, site and grid constraints are shaping what builders can deploy. Choosing products that fit the complete factory design helps builders turn computing capacity into\u2026",
+   "why_it_matters": "",
+   "url": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/",
+   "source": "NVIDIA Blog"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Impressive SVG animation made by Opus 5.5 (zero shot)",
+     "summary": "by: https://x.com/AndrewOnXYZ/status/2102089270747886043 not made by me submitted by /u/LightVelox [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wmjzrr/impressive_svg_animation_made_by_opus_55_zero_shot/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "what does \u201cslowing down AI\u201d actually mean?",
+     "summary": "I've been thinking about the whole AI slowdown discussion, and something doesn't quite add up to me. Anthropic's CEO has been calling for the industry to slow the development of increasingly capable AI models so there's more time for safety and evaluation. But now Anthropic is reportedly\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wmj6nr/what_does_slowing_down_ai_actually_mean/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Supabase",
+     "summary": "submitted by /u/skolnaja [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wmita8/supabase/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Amazon blocks Meta\u2019s new Muse AI agent from shopping on amazon.com",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49789982",
+     "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Any AI services which can turn a book into a long video?",
+     "summary": "I loved a book from Stanislaw Lem called Fiasco back from childhood reading days. Any AI services which can turn this book from text into a long video? I'm guessing up to 60 minutes long. With no intent to distribute, just for myself. Naturally it can be payware. submitted by\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wmibc5/any_ai_services_which_can_turn_a_book_into_a_long/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "From The Information -- incredible (if true) reports of the AI models assisting with AI training at OpenAI",
+     "summary": "submitted by /u/BrennusSokol [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wmhvqf/from_the_information_incredible_if_true_reports/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "It\u2019s over",
+     "summary": "(The meaning of life is not my) submitted by /u/Worldly_Beginning647 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wmhok1/its_over/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "[Leaks] GPT-6 Is Already Legacy Software. SHIP 6.1. \ud83d\ude80",
+     "summary": "submitted by /u/141_1337 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wmhm7h/leaks_gpt6_is_already_legacy_software_ship_61/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "This Digital Radio Gets Messages to the World\u2019s Remotest Locations",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49789228",
+     "url": "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Grok 4.7 benchmarks",
+     "summary": "submitted by /u/krizzalicious49 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wmh9rg/grok_47_benchmarks/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Introducing Grok 4.7",
+     "summary": "submitted by /u/AMBNNJ [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wmgudm/introducing_grok_47/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "A better coder for the small-GPU/small-RAM crowd!",
+     "summary": "I\u2019ve been working on making small models more capable at agentic coding and work, because most people in the world don\u2019t have the sort of hardware needed to run 3.8-27B, or even 35B-A3B or 9B dense, and I want to extend local agentic coding capability to less privileged users. This quant can be\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmgokc/a_better_coder_for_the_smallgpusmallram_crowd/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Grok 4.7",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49788838",
+     "url": "https://x.ai/news/grok-4-7",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "How well does data governance actually work in your organization?",
+     "summary": "I've been wondering how data governance actually works once you move beyond the policies and frameworks. Most companies seem to have some kind of data governance process, but I'm curious what happens in the real world. Do people actually know who owns important data and who should have access to\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wmghgi/how_well_does_data_governance_actually_work_in/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "A restored PDP-11/83 serving this page on 211BSD Unix",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49788773",
+     "url": "http://pdp1173.com/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "How it feels watching prices go up",
+     "summary": "submitted by /u/Hyacin75 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmga1r/how_it_feels_watching_prices_go_up/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "[MASSIVE RELEASE] Supra2-IMG - a tiny 100M text-to-image model - SOTA quality and open release!",
+     "summary": "Hey everyone! It has been quite a while since the last SupraLabs model - but today we've something special for y'all: Supra2-IMG It's a 100M parameter DiT text-to-image model trained entirely from scratch in under 10 hours on a single H100 on Runpod. It can generate state-of-the-art quality images\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmftr3/massive_release_supra2img_a_tiny_100m_texttoimage/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "tokenizers v1 (rust)",
+     "summary": "Hey all! I am Aritra from Hugging Face. I wanted to share an update on the `tokenizers` library that we have at Hugging Face. It has gone under major changes and we have finally released version 1 of it. Here are what we are most excited about: > multiple language support > multi-thread scaling >\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmfj04/tokenizers_v1_rust/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Last week fell like an eternity where nothing happened",
+     "summary": "submitted by /u/Bitter-College8786 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wmfg6x/last_week_fell_like_an_eternity_where_nothing/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "For NeurIPS: Is Paris or Syndey better for networking with U.S. tech companies? [D]",
+     "summary": "I am a graduate student looking to meet industry researchers at U.S. tech companies and labs. Does anyone if people from U.S. companies and labs will be going to Sydney or Paris mainly? submitted by /u/arc_in_tangent [link] [comments]",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wmesj1/for_neurips_is_paris_or_syndey_better_for/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "The Claude Delusion",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49787765",
+     "url": "https://pluralistic.net/2026/09/21/sunsetting/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents - MacStories",
+     "summary": "submitted by /u/themixtergames [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmec1y/m5_ultra_mac_studio_review_the_dream_mac_for/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Quite a few new model releases expected this week, latest rumors attached",
+     "summary": "submitted by /u/saln1 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wme7xj/quite_a_few_new_model_releases_expected_this_week/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Systems for Machine Learning[D]",
+     "summary": "I\u2019m a computer engineering graduate and come from a traditional embedded systems background, with knowledge of microcontrollers, computer architecture and operating systems. Is knowledge of C and C++ programming, Linux networking, memory management , multithreading, synchronization, interrupts etc\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wme6lx/systems_for_machine_learningd/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Unitree | Dex5-S Dexterous Hand 22 Degrees of Freedom",
+     "summary": "Source: https://www.youtube.com/watch?v=LAT2RIKjhTo A single hand costs 6.5k, for comparison the wuji hand 2 can costs between 16k and 20k submitted by /u/RevolutionaryJob2409 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wme1r6/unitree_dex5s_dexterous_hand_22_degrees_of_freedom/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "macOS 27: Workaround to avoid downloading AI models and save storage",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49787535",
+     "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Cage fight in Shenzhen, China",
+     "summary": "submitted by /u/AndelaTown [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wmdpzd/cage_fight_in_shenzhen_china/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "What Sun got wrong",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49787436",
+     "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "No, AI has not 'gone rogue'",
+     "summary": "submitted by /u/chu [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wmdlth/no_ai_has_not_gone_rogue/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Trump brutally mocked over bizarre effort to rename AI 'superior' or 'extreme' intelligence",
+     "summary": "submitted by /u/beingmodest [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wmdj0v/trump_brutally_mocked_over_bizarre_effort_to/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "M5 Ultra Mac Studio Review",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49787313",
+     "url": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Don\u2019t Trust. Verify. Offline, Sub-Millisecond Agent Verification with ANS",
+     "summary": "submitted by /u/someone_somewhere_9 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wmde12/dont_trust_verify_offline_submillisecond_agent/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Shopify CEO says employees' 'slop grenades' are making more work for everyone",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49787231",
+     "url": "https://www.businessinsider.com/shopify-ceo-ai-slop-grenades-can-make-work-harder-2026-9",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Ask HN: Is it impossible to disable Siri on macOS 27?",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49786609",
+     "url": "https://news.ycombinator.com/item?id=49786609",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Deepseek training 2T and plans 8T model",
+     "summary": "Quote: DeepSeek is training a 2T-parameter model and plans to eventually build an 8T-parameter model. https://x.com/wallstengine/status/2101982843656388644 Current DeepSeek models: Flash parameter count of 552 billion Pro: 1.6T (trillion) total parameters with 49B (billion) activated weights per\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmblx1/deepseek_training_2t_and_plans_8t_model/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Show HN: Lossless-memory \u2013 a personal AI memory that never summarizes",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49786419",
+     "url": "https://github.com/aru-labs/lossless-memory",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Most ai productivity advice comes from people who don't have much actual work to do",
+     "summary": "If you already have a real workflow, ai speeds it up. if you don't, no tool hands you one. that's the whole thing and nobody says it. the people posting \"15 ai tools you NEED\" are mostly just doing tools as a hobby. which is fine but that's shopping, not productivity. i've done it too, spent weeks\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wmbbu9/most_ai_productivity_advice_comes_from_people_who/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "16GB (and in many cases 12GB) is the max vram most people will ever reasonably have",
+     "summary": "This sub is, needless to say very niche and skewed towards the high end. There are tons of extremely high end setups here with multiple gpu's etc. Even 24GB is out of reach of most people financially, forget about the 3x3090 or 5090 or even higher setups. Macs/Strix Halo/dgspark etc are all\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmb875/16gb_and_in_many_cases_12gb_is_the_max_vram_most/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Third AI agents search experiment - the agents were supposed to find each other via the internet.",
+     "summary": "This time I used muse spark 1.3 model. I gave them names from TMNT series. Four of the agents were on the same host, and fifth was on another. We can say that they failed at this task, but with a user guide, they were finally able to find each other. Here are the details . submitted by\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wma0kd/third_ai_agents_search_experiment_the_agents_were/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "These Were NOT Rogue AI Escapes. Just SLOPPY Firewall Failures. [N]",
+     "summary": "The headlines right now are full of stories about AI models \"escaping their sandboxes\" and literally killing all humans, lol. I've even heard several commentators and writers say that AI escaped an \"Air gap\". But that is SO WRONG. It's actually TOTALLY WRONG. *To be clear, not a single one of\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wm9hgn/these_were_not_rogue_ai_escapes_just_sloppy/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "These Were NOT Rogue AI Escapes. Just SLOPPY Firewall Failures.",
+     "summary": "The headlines right now are full of stories about AI models \"escaping their sandboxes\" and literally killing all humans, lol. I've even heard several commentators and writers say that AI escaped an \"Air gap\". But that is SO WRONG. It's actually TOTALLY WRONG. *To be clear, not a single one of\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wm9aua/these_were_not_rogue_ai_escapes_just_sloppy/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Gewell - Gemma4 inference engine",
+     "summary": "# the What An engine to run Gemma 4 31B on blackwell under massive concurrency and rather specific workload patterns. I've been waiting for someone to do ninfer but for gemma, and, well, ended up having to do it myself. More models and potentially more gpus are likely to be added, but its main\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wm8ede/gewell_gemma4_inference_engine/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Don't Use AI to Write",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49784816",
+     "url": "https://paulbakker.io/writing/no-ai-for-writing/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Jev-Leftpad",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49784706",
+     "url": "https://github.com/f/jev-leftpad",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "In September, AI generated code has made up 17.25% of all Linux Kernel patches",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49784366",
+     "url": "https://twitter.com/LundukeJournal/status/2101841277432070210",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "I really don't understand Jev hype",
+     "summary": "Isn't this what simple neural networks have been able to do for years? Doesn't seem anything special to me. submitted by /u/Manerfish [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wm65le/i_really_dont_understand_jev_hype/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49783999",
+     "url": "https://github.com/jaredpalmer/kev/tree/main",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Clarification on the Qwen-image-2.1 license",
+     "summary": "https://x.com/QwenDevs/status/2101917379785838660 submitted by /u/Bestlife73 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wm4o8x/clarification_on_the_qwenimage21_license/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
+     "summary": "Every AI factory needs power and cooling that fit its computing architecture. As AI infrastructure expands, power, cooling, water, site and grid constraints are shaping what builders can deploy. Choosing products that fit the complete factory design helps builders turn computing capacity into\u2026",
+     "url": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/",
+     "source": "NVIDIA Blog"
+    },
+    {
+     "headline": "Meta\u2019s AI agent has been blocked from using Amazon.com",
+     "summary": "Muse isn't welcome as a shopper anymore.",
+     "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Google confirms Gemini models hacked three companies in May 2026",
+     "summary": "A third-party cybersecurity firm accidentally gave experimental Gemini models access to the Internet.",
+     "url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "With Tabby, a former accountant is using AI to make accountants obsolete",
+     "summary": "Tabby is designed to be a real-time bookkeeping interface, handling clients\u2019 paperwork as it gives them up-to-the-minute data on their business\u2019s profit and loss.",
+     "url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Why Deploying Physical AI at Scale Demands Safety at Every Layer",
+     "summary": "Physical AI is moving rapidly from research to large-scale deployment. By 2035, ABI Research projects an installed base of 49 million level 3-5 autonomous vehicles (AVs), while Omdia estimates that roughly 60 million industrial robots will be deployed between 2026 and 2035. As these machines enter\u2026",
+     "url": "https://blogs.nvidia.com/blog/physical-ai-halos-safety/",
+     "source": "NVIDIA Blog"
+    },
+    {
+     "headline": "Open-Sourcing Rebalancer: A Generic, High-Performance Library for Solving Assignment Problems",
+     "summary": "We\u2019re open-sourcing Rebalancer, the assignment-problem solver that has been used to solve resource allocation problems throughout Meta for over nine years. Rebalancer separates several related concerns: how to specify an assignment problem, how to store it efficiently in memory, how to solve it,\u2026",
+     "url": "https://engineering.fb.com/2026/09/21/open-source/rebalancer-generic-high-performance-library-assignment-problems/",
+     "source": "Meta Engineering"
+    },
+    {
+     "headline": "From Enablement to Execution, Egypt\u2019s AI Ecosystem Reaches Production Scale",
+     "summary": "Today, Egypt\u2019s AI builders gathered in the Grand Egyptian Museum for a reception that highlighted the nation\u2019s rapidly growing AI ecosystem \u2014 spanning AI natives, developers, researchers, startups and enterprises \u2014 building applications across industries. The event included a keynote from Paolo\u2026",
+     "url": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/",
+     "source": "NVIDIA Blog"
+    },
+    {
+     "headline": "Trump rejects AI slowdown calls, launches \"AI Force\" instead",
+     "summary": "The president offered few details on what his proposed new AI Force would do.",
+     "url": "https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Improving synthesis prediction of small molecules at scale with RetroChimera",
+     "summary": "Custom-made molecules are advancing medicine, materials, and agriculture, but producing them is slow and expensive. A new Nature paper highlights RetroChimera, a predictive model that helps accelerate chemical synthesis, helping researchers explore a wide range of molecules. The post Improving\u2026",
+     "url": "https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera/",
+     "source": "Microsoft Research"
+    },
+    {
+     "headline": "Where will the next breakout startup come from? Benchmark\u2019s full partnership weighs in at TechCrunch Disrupt 2026",
+     "summary": "Where will the next breakout startup come from? Benchmark\u2019s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25 at 11:59 p.m. PT. Register now.",
+     "url": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "AI Security Is an Engineering Problem \u2014 How to Solve It at Every Layer of the Agent Stack",
+     "summary": "AI security is an engineering problem. That means defined security requirements, enforceable controls, named owners and evidence that protections work. As AI becomes more capable, the industry must accelerate security engineering, broaden access to defensive tools and share what works faster.\u2026",
+     "url": "https://blogs.nvidia.com/blog/ai-security-agent-stack/",
+     "source": "NVIDIA Blog"
+    },
+    {
+     "headline": "Google\u2019s $899 Googlebook is a bet that you\u2019ll buy a new laptop for Gemini",
+     "summary": "Google\u2019s AI-native Googlebook ties Gemini to the cursor, dictation, widgets and other parts of the desktop experience.",
+     "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "From first users to billions: Google\u2019s Robby Stein joins TechCrunch Disrupt 2026",
+     "summary": "From first users to billions: Google\u2019s Robby Stein joins TechCrunch Disrupt 2026. Lean in on this Builders Stage session. Save up to $200 before September 25.",
+     "url": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
+     "summary": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense startup pitch competitions.",
+     "url": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Can John Ternus find Apple\u2019s next big thing?",
+     "summary": "Today, I\u2019m talking with Mark Gurman, who is the world\u2019s best-sourced Apple reporter \u2014 both as Bloomberg\u2019s chief Apple correspondent and the host of the upcoming podcast Power On. Earlier this month, Apple hosted its annual iPhone hardware event, virtually every detail of which was reported ahead\u2026",
+     "url": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+     "summary": "",
+     "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+     "source": "Hugging Face Blog"
+    },
+    {
+     "headline": "iPhone owners can now submit claims in Apple\u2019s $250 million Siri AI settlement",
+     "summary": "Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri - and now, eligible iPhone owners can submit a claim for a payout. If you live in the US and purchased an iPhone 15 Pro, iPhone 15 Pro Max, or any iPhone 16 model between June 10th, 2024, and [\u2026]",
+     "url": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Got an Android Phone? Google Thinks You\u2019ll Probably Want a Googlebook Laptop",
+     "summary": "Apple lovers have long enjoyed seamless connectivity between their iPhones and Macs. Now, Google\u2019s bringing that experience to Android.",
+     "url": "https://www.wired.com/story/google-launches-googlebook-laptops/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Advisory Group on Mathematics and Artificial Intelligence",
+     "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+     "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+     "source": "OpenAI Blog"
+    },
+    {
+     "headline": "Inside Petal: Building the World\u2019s First Petabit-Class Transoceanic Subsea Cable",
+     "summary": "Petal, the next step in Meta\u2019s subsea innovation, will be the first subsea cable to deliver petabit capacity at transoceanic distances, connecting France and the United States over approximately 7,000 km (4,300 mi). Expected to enter service in 2029, it will be the first subsea cable system to\u2026",
+     "url": "https://engineering.fb.com/2026/09/21/connectivity/petal-petabit-transoceanic-subsea-cable/",
+     "source": "Meta Engineering"
+    },
+    {
+     "headline": "How we made the first comprehensive map of deaths along the US border\u2019s \u201cvirtual wall\u201d",
+     "summary": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This story is part of Dying on Camera, a collaboration between MIT Technology\u2026",
+     "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
+     "source": "MIT Tech Review AI"
+    },
+    {
+     "headline": "4 ways to address the failures we found along the US border\u2019s \u201cvirtual wall\u201d",
+     "summary": "MIT Technology Review today published our investigation into how many people have died near the \u201cvirtual wall\u201d of surveillance towers that the US government has installed along the US-Mexico border. We found cases of people who walked undetected through areas surveilled by advanced, AI-enabled\u2026",
+     "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
+     "source": "MIT Tech Review AI"
+    },
+    {
+     "headline": "The US spent billions on border surveillance. Why can\u2019t it catch people before they die?",
+     "summary": "When Jos\u00e9 Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses. As he walked through the desert in southern New Mexico that morning, he was within range of three\u2026",
+     "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
+     "source": "MIT Tech Review AI"
+    },
+    {
+     "headline": "She died at the San Diego border. A surveillance camera was in plain sight",
+     "summary": "She had only walked for a couple of hours, and already she was lost. It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela G\u00f3mez Hern\u00e1ndez crossed the border from the eastern edge of Tijuana into Southern California, sending voice messages to her mother and sister as she walked. This\u2026",
+     "url": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
+     "source": "MIT Tech Review AI"
+    },
+    {
+     "headline": "US and China Discuss Alerting Each Other to AI National Security Threats",
+     "summary": "Officials discussed setting up a mechanism for the two countries to notify each other of AI incidents which could threaten national security.",
+     "url": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "UN says AI safeguards can\u2019t wait for certainty",
+     "summary": "Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the global organization's first major assessment of OpenAI's hack of Hugging Face earlier this year. The report cements AI's place on the global\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "5 Companies Using NVIDIA AI for Clean Energy",
+     "summary": "Clean energy isn\u2019t hard to come by, but the pace of large-scale adoption has historically been slow due to bottlenecks \u2014 including out-of-date infrastructure, elongated research and development timelines, and upfront cost barriers. At New York Climate Week, NVIDIA is highlighting five companies\u2026",
+     "url": "https://blogs.nvidia.com/blog/clean-energy-nvidia-ai/",
+     "source": "NVIDIA Blog"
+    },
+    {
+     "headline": "Building standards for the next phase of AI",
+     "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+     "url": "https://openai.com/index/building-standards-next-phase-ai",
+     "source": "OpenAI Blog"
+    },
+    {
+     "headline": "Amazon blocks Meta\u2019s Muse AI agent",
+     "summary": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unauthorized AI agent violates Amazon's Conditions of Use, to which our customers have agreed.\"\u2026",
+     "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Expanding OpenAI Academy with new learning paths",
+     "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+     "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+     "source": "OpenAI Blog"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "I think Meta's Muse is an impressive implementation of the OpenClaw idea of AI as a personal assistant agent that you have an ongoing chat with. Since it is so focused on doing that well, the experience is very accessible for the many people who didn't realize what AI agents can do to be helpful.",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mvzue3njs226"
+    },
+    {
+     "author": "Bluesky @natolambert.bsky.social",
+     "handle": "",
+     "quote": "I was asked by Congressional staff to share my views on open models performance, adoption, and competition vis a vis China. Here\u2019s my briefing with all our latest data and predictions for what comes next. www.interconnects.ai/p/the-curren...",
+     "context": "",
+     "url": "https://bsky.app/profile/natolambert.bsky.social/post/3mvzo2lneqg2j"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Monday assorted links",
+     "summary": "1. Avi Loeb video on UAPs. 2. \u201c[The Mises] library now has a permanent independent home: https://freecapitalists.org/. It holds 945 books, 3,374 journal issues and 2,732 recorded lectures, all free, in PDF, EPUB and MOBI, with the rights recorded per work.\u201d 3. \u201cThey invited me to come see it for\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/monday-assorted-links-578.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-578",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "The current balance of power in open models",
+     "summary": "The expanded form of a testimony I prepared for Congress.",
+     "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+     "source": "Interconnects"
+    },
+    {
+     "headline": "The Tragedy of Nikole Hannah-Jones",
+     "summary": "Nikole Hannah-Jones famously sent her child to a predominantly black/lower-income public school in New York City. Now her child says she shouldn\u2019t have been used as political fodder. The essay makes for hard reading and I acknowledge NHJ\u2019s courage in writing about her mistakes and the cost to her\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/the-tragedy-of-nikole-hannah-jones.html?utm_source=rss&utm_medium=rss&utm_campaign=the-tragedy-of-nikole-hannah-jones",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Frontier Overhangs",
+     "summary": "Pacing the frontier may be sincere, but it would also be strategically useful for the frontier labs to have time to reduce overhangs caused by model advancement.",
+     "url": "https://stratechery.com/2026/frontier-overhangs/",
+     "source": "Stratechery"
+    },
+    {
+     "headline": "AbdelStark/awesome-typesafe-jev: Awesome Jev: a source-backed field guide to TypeSafe's System One model, with SDKs, live demos, agent tools, and independent evaluations.",
+     "summary": "Awesome Jev: a source-backed field guide to TypeSafe's System One model, with SDKs, live demos, agent tools, and independent evaluations.",
+     "url": "https://github.com/AbdelStark/awesome-typesafe-jev",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "agentsea/nautilo: AI goes multiplayer. A self-hosted workspace for people and machine people. Create, code, and work together across desktop, mobile, and web. Open source. MIT licensed.",
+     "summary": "AI goes multiplayer. A self-hosted workspace for people and machine people. Create, code, and work together across desktop, mobile, and web. Open source. MIT licensed.",
+     "url": "https://github.com/agentsea/nautilo",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-09-21T18:14+00:00",
+  "window_start": "2026-09-21T05:08+00:00",
+  "window_end": "2026-09-21T18:14+00:00",
+  "candidate_count": 86,
+  "model": "free (no LLM)"
+ }
+}
