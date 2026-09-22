@@ -1,0 +1,527 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Where do you think we end up?",
+   "summary": "Surprised I hadn't seen a chart like this already. What's wrong / missing? submitted by /u/wrcromagnum [link] [comments]",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/singularity/comments/1wmzy9d/where_do_you_think_we_end_up/",
+   "source": "r/singularity"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Where do you think we end up?",
+     "summary": "Surprised I hadn't seen a chart like this already. What's wrong / missing? submitted by /u/wrcromagnum [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wmzy9d/where_do_you_think_we_end_up/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "efficient fine tune storage",
+     "summary": "Imagine Git for model fine-tunes that also saves you storage. DeltaTensors compresses fine-tuned model checkpoints by storing the weight difference from the base model instead of another full copy of the model. If you have a bunch of fine-tunes or checkpoints from the same base model, you keep the\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmzg1g/efficient_fine_tune_storage/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Claude Opus 5.5 spotted on Anthropic\u2019s website, Tuesday release looking more likely",
+     "summary": "submitted by /u/ResultBackground2450 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wmynp8/claude_opus_55_spotted_on_anthropics_website/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Alibaba plans AI model with 5 trillion to 10 trillion parameters, unveils new chip",
+     "summary": "submitted by /u/tengo_harambe [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmyh9z/alibaba_plans_ai_model_with_5_trillion_to_10/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Kev: tiny Jev-like decision models (0.8B/4B/9B) on Qwen3.5 you can train and run locally - the 9B fits a 32GB Mac",
+     "summary": "Been playing with judge models in my eval pipeline, so this landed at the right time. Kev is a small family of Jev-architecture decision models (0.8B, 4B, 9B) built on Qwen3.5, Apache-2.0, with training code and frozen eval suites included. The 9B fits a 32GB Mac in bf16, and it's API-compatible\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmxx9w/kev_tiny_jevlike_decision_models_08b4b9b_on/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "We need ASI before it's too late",
+     "summary": "I'm not against AI, but we need to fully understand it. There's been some talk about ASI being an existential threat to humanity. I think it might be, but we're in a prisoner's dilemma situation. If we slow down, we'll be pwned. If we go too fast, we lose control and everyone is pwned. Here's my\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wmxtfn/we_need_asi_before_its_too_late/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Amazon Blocks Meta\u2019s Muse AI Agent From Amazon.com Shopping After Meta Rejects Removal Request",
+     "summary": "submitted by /u/coolbern [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wmxpow/amazon_blocks_metas_muse_ai_agent_from_amazoncom/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Qwen 4 Announced at Apsara Conference",
+     "summary": "https://preview.redd.it/bpbc9i6hizqh1.png?width=1270&format=png&auto=webp&s=e8aa8301895735a05c3c61a5e793018a23d1cac5 I wanted to share a quick update: Alibaba has officially announced Qwen 4 at the Apsara Conference, submitted by /u/Salah_H_Hasan [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmxfjs/qwen_4_announced_at_apsara_conference/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Can I get 100k now?",
+     "summary": "If AI can cook, then we have AGI. submitted by /u/sweatierorc [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wmxey1/can_i_get_100k_now/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "WTF, robot beats up human in a cage match in SF",
+     "summary": "submitted by /u/Charuru [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wmwy35/wtf_robot_beats_up_human_in_a_cage_match_in_sf/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "AI for coding?",
+     "summary": "I am just starting to use AI and was wondering which would be best and most efficient for coding: Claude Code or CodeX or even Grok Bot? submitted by /u/pratushb [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wmwpy8/ai_for_coding/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Fruit fly-inspired AI learns smells quickly with far less memory",
+     "summary": "A fruit fly brain contains only about 140,000 neurons, yet it can recognize odors with remarkable efficiency. Researchers have now borrowed part of that strategy to build an artificial system that learns smells quickly while using little memory. The algorithm, called Spi-Fly, uses a spiking neural\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wmwmng/fruit_flyinspired_ai_learns_smells_quickly_with/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Model grafting: turning Qwen3.5-4B into a causal encoder-decoder after the fact",
+     "summary": "Recently, the new DeepSeek-V4.1-Flash architecture showed how a causal encoder-decoder can work, but it was trained from scratch. Model Grafting does it to an existing model: cut at some depth, let the lower layers read the prompt, and use the upper layers get for encoder's residual stream as\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmw3qq/model_grafting_turning_qwen354b_into_a_causal/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Interesting Flaw in AI",
+     "summary": "Hi all. New to the channel. Have used AI to write journal papers and a book. But it has been quite a struggle and experience. I am wondering if it is possible that so much output from AI exists now that a great deal of training, images and text may come from AI-generated material already that it\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wmvwv2/interesting_flaw_in_ai/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49795718",
+     "url": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Claude Status \u2013 Elevated errors for multiple models",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49795579",
+     "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "If I told you that navier-stokes will be solved before an AI robot can autonomously clean your bedroom",
+     "summary": "I would definitely be called crazy for this in 2015 submitted by /u/Crazyscientist1024 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wmuz01/if_i_told_you_that_navierstokes_will_be_solved/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "WarGames the Movie and Choosing Where to Urinate",
+     "summary": "With all the propaganda in the news the last few weeks that AI is going to murder everyone on the planet I decided to re-watch the movie \"WarGames.\" In the early scenes I noticed a hilarious sign inside a missile bunker. Apparently both spelling and where one chose to urinate was an issue back in\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wmuskx/wargames_the_movie_and_choosing_where_to_urinate/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "What are normie reactions to your local AI use like?",
+     "summary": "There's quite a lot of public anti-AI sentiment at the moment, but a lot of the most common concerns and objections have to do with the politics, economics and ethics of datacenter-based AI. So, when you explain to people that you're running inference locally, what's the reaction like? Are people\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmtum7/what_are_normie_reactions_to_your_local_ai_use/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "MiMo-V2.6 distilled themselves into Qwen 9B!",
+     "summary": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B That's serious. submitted by /u/Beamsters [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmtjqu/mimov26_distilled_themselves_into_qwen_9b/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I'll emphasize: math is not solved",
+     "summary": "Math isn't a closed set of puzzles waiting to be checked off. It's an open system that keeps expanding. The famous problems everyone talks about, like the Millennium Prize Problems and the Riemann Hypothesis, are just a handful of headline examples. Across every field of mathematics there are\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wmt958/ill_emphasize_math_is_not_solved/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Looking forward to Git 2.56 \u2013 and 3.0",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49794736",
+     "url": "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "China resumes rare earth export to Japan",
+     "summary": "Good news. Hopefully this can slightly push down semi conductor prices such that we can have better chance to run llm locally. Thank you China! submitted by /u/Ok_Warning2146 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmsjku/china_resumes_rare_earth_export_to_japan/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Shouldn't people be f-great by now, as OpenAI solved 100 long-standing math problems in just a month? Does this mean AGI is coming sooner than we thought?",
+     "summary": "thoughts on this? submitted by /u/Distinct-Question-16 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wmsf8f/shouldnt_people_be_fgreat_by_now_as_openai_solved/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "The final benchmark",
+     "summary": "submitted by /u/manubfr [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wmsdag/the_final_benchmark/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Uncensor an LLM without touching weights: inject a tiny trained KV-cache bank (~18MB) and unload it anytime",
+     "summary": "I shipped something I've been building for the last few weeks : phantom-kv , a refusal-removal system for large language models that doesn't touch a single weight. Instead of editing the model, it loads a small, learned bank of key/value tensors into the model's KV cache as context. Attention\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wms904/uncensor_an_llm_without_touching_weights_inject_a/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Do not fear AI. Fear AI companies",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49794422",
+     "url": "https://df7sc6o35ljoz.cloudfront.net/posts/do-not-fear-ai-rev-2.html",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Jev's calibration was measured. The LLMs won [D]",
+     "summary": "Source: Jev Benchmarks Its training method is literally called \"Reinforcement Learning for Calibrated Decisions.\" Calibration gap vs human labels (lower = better): Yes/no: Jev 5.0, Gemini 3.8 Flash 2.0 Pick-one: Jev 9.8, DeepSeek V4.1 Flash 2.8 Rubric: Jev 19.7, GLM-5.3 12.9 It held to 95%\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wmre0b/jevs_calibration_was_measured_the_llms_won_d/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Andrew NG: Pausing AI Progress Will Create Much More Harm Than Benefit",
+     "summary": "Pausing AI progress will create much more harm than benefit. First, our adversaries will certainly not slow down. Second, engineering requires discovering problems empirically so we can fix them. If we pause AI by a decade, we will also delay finding and implementing safety engineering fixes by\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wmrccf/andrew_ng_pausing_ai_progress_will_create_much/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Wow, Mimo 2.6 pro seems to be pretty good, but requires more prompting than Sol",
+     "summary": "Although it makes mistakes and use more tokens, but after some corrections and steering , It(max) gives really good outputs like on par with 5.6 sol and close to astra High in one task.. IT will likely vary on tasks. I hope ds v4.1pro is gonna be really good or at least as good as Kimi K3. It is\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmr3nu/wow_mimo_26_pro_seems_to_be_pretty_good_but/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Amazon blocks Meta's Muse personal assistant",
+     "summary": "Early this year, the personal agent boom started with OpenClaw. Now Meta is giving personal agents to everyone and that's shifting the landscape fast. And, it's generating pushback. Amazon has banned Meta's Muse personal assistant. Geekwire reports : \"The problem, Amazon says, is that it never\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wmqzcz/amazon_blocks_metas_muse_personal_assistant/",
+     "source": "r/artificial"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "The man who built Apple\u2019s stores doesn\u2019t buy Silicon Valley\u2019s bet on AI shopping",
+     "summary": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
+     "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+     "summary": "A simple ClickFix attack is only one way to completely hijack the new agent.",
+     "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+     "source": "Ars Technica AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "Industrialization of knowledge work is going to be as disruptive a shift as industrialization of physical labor was. As then, once craft-driven fields are under pressure to produce greater volumes of product using machines while using less of the craft that made the work interesting & meaningful.",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mw3csb657c26"
+    },
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "AI can be a really wonderful tool for exploring topics far from coding. I had Claude Fable 5.1 put together an annotated guide to Eliot's poem \"The Wasteland,\" with multiple pathways through the poem, recordings, scholarship, etc. As an Eliot fan, I am quite impressed. the-waste-land.netlify.app",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mw2usvvn6c26"
+    },
+    {
+     "author": "Bluesky @simonwillison.net",
+     "handle": "",
+     "quote": "Put together some notes on Jev and the new category of system one aka decision models simonwillison.net/2026/Sep/21/...",
+     "context": "",
+     "url": "https://bsky.app/profile/simonwillison.net/post/3mw2tsop42c2u"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Banning self-recursive improvement in AI models?",
+     "summary": "Some people are suggesting this, including Ezra Klein. I do not understand how it is supposed to work. Put aside the issue of foregone innovations, let us say I seek to access an AI from overseas. Am I allowed to visit their website? So many sites have AI behind them, including Chinese open source\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/banning-self-recursive-improvement-in-ai-models.html?utm_source=rss&utm_medium=rss&utm_campaign=banning-self-recursive-improvement-in-ai-models",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Recognition, Simulation, and Refusal: A Contamination-Aware Study of Classic Psychological Effects in LLM Agents",
+     "summary": "arXiv:2609.22090v1 Announce Type: new Abstract: An LLM producing the response pattern associated with a human psychological effect is not the same claim as the LLM possessing that bias. We present PsyAgentBench, a benchmark that re-runs classic psychology experiments on LLM agents under a\u2026",
+     "url": "https://arxiv.org/abs/2609.22090",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Memory That Looks Forward: A Zero-Inference Prospective Term for Personal Memory Retrieval",
+     "summary": "arXiv:2609.22091v1 Announce Type: new Abstract: Retrieval over a personal memory store is retrospective: it surfaces what resembles the query, and it is blind to what the user has committed to do. We describe a prospective term for memory retrieval that costs no inference at query time.\u2026",
+     "url": "https://arxiv.org/abs/2609.22091",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Summarize, Judge, Refine: Decoupled Content Understanding and Policy Learning for Multimodal Content Moderation",
+     "summary": "arXiv:2609.22094v1 Announce Type: new Abstract: Content moderation systems traditionally entangle multimodal understanding with policy-specific classification, requiring full pipeline retraining for every policy change and suffering from label scarcity since multimedia cannot be meaningfully\u2026",
+     "url": "https://arxiv.org/abs/2609.22094",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "AI-inferred expressed well-being and collective-action discourse in climate-change campaigns on X",
+     "summary": "arXiv:2609.22096v1 Announce Type: new Abstract: Climate campaigns are often evaluated through attention and mobilization, but less is known about the well-being language that accompanies them. Whether campaign periods alter positive affect and hope, and whether happiness aligns with action\u2026",
+     "url": "https://arxiv.org/abs/2609.22096",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Token Signatures of Code: Comparing Coding Behaviors Across Large Language Models",
+     "summary": "arXiv:2609.22097v1 Announce Type: new Abstract: The evaluation of large language models (LLMs) on coding tasks has primarily focused on performance metrics such as pass@k. As LLMs continue to advance, many models now meet baseline performance requirements, reducing the discriminative power of\u2026",
+     "url": "https://arxiv.org/abs/2609.22097",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "TreeSpark: Calibrated, Load-Adaptive Draft Trees for Semi-Autoregressive Speculative Decoding",
+     "summary": "arXiv:2609.22098v1 Announce Type: new Abstract: Speculative decoding accelerates language-model inference by letting a cheap drafter propose tokens that the target model verifies in parallel. Recent block drafters make drafting nearly free: a single backbone pass emits an entire block of draft\u2026",
+     "url": "https://arxiv.org/abs/2609.22098",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "A framework for recipe data structure with applications for culinary and nutritional insights",
+     "summary": "arXiv:2609.22099v1 Announce Type: new Abstract: Cooking is a complex process that transforms raw ingredients into delicious and nutritious dishes, yet the recipes that encode this process remain largely free text; readable by people but not directly computable. Existing recipe collections capture\u2026",
+     "url": "https://arxiv.org/abs/2609.22099",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "AdaMem: Adaptive Memory Token Allocation for Soft Compression in Retrieval-Augmented Generation",
+     "summary": "arXiv:2609.22100v1 Announce Type: new Abstract: Retrieval-augmented generation (RAG) improves language models with retrieved evidence, but processing many long passages is costly and can introduce distracting information. Soft compression addresses this challenge by encoding passages as compact\u2026",
+     "url": "https://arxiv.org/abs/2609.22100",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Context Poisoning as Extreme-Value Attention Interference in Long-Context Language Models",
+     "summary": "arXiv:2609.22101v1 Announce Type: new Abstract: Large language models can process increasingly long prompts, yet their ability to locate and use decisive evidence may degrade as irrelevant or confusable context is added. We formulate this phenomenon, which we call context poisoning, as\u2026",
+     "url": "https://arxiv.org/abs/2609.22101",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "DeepInstructor: An Agentic AI Instructor for Experience-Driven Idea Evaluation",
+     "summary": "arXiv:2609.22104v1 Announce Type: new Abstract: As automated scientific discovery advances, Large Language Models (LLMs) can now generate research ideas at an unprecedented scale, shifting the bottleneck from idea generation to idea evaluation. Existing evaluators mainly rely on parametric LLM\u2026",
+     "url": "https://arxiv.org/abs/2609.22104",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Evaluating Fine-Tuned and Base Language Models in Maternal and Vaccination Healthcare for African Settings",
+     "summary": "arXiv:2609.22110v1 Announce Type: new Abstract: Background: Large language models (LLMs) can improve healthcare information delivery in low-resource settings but may produce inaccurate or culturally inappropriate advice. This study evaluated domain-specific fine-tuning for maternal health and\u2026",
+     "url": "https://arxiv.org/abs/2609.22110",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Beyond the Text: Verifying That Agent-Written Papers Are Backed by Their Artifacts",
+     "summary": "arXiv:2609.22111v1 Announce Type: new Abstract: Large language model agents are increasingly capable of conducting research autonomously, producing research documents alongside the code and experiments that ostensibly support them. Yet whether the reported findings are consistently supported by\u2026",
+     "url": "https://arxiv.org/abs/2609.22111",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Privacy Personalization Trade offs in LLMs: The Impact of Stylometric Signal Reduction on User-Specific Text Generation",
+     "summary": "arXiv:2609.22112v1 Announce Type: new Abstract: Large language models (LLMs) have demonstrated the ability to generate user-specific text with high stylistic fidelity. However, the personal data that enables such personalization frequently embeds demographic, cultural, and stylistic markers that\u2026",
+     "url": "https://arxiv.org/abs/2609.22112",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "An Empirical Cost Attribution of Context-Compression Gateways in Multi-Turn Coding Agents",
+     "summary": "arXiv:2609.22114v1 Announce Type: new Abstract: Context compression is widely proposed as a way to cut the token bill of LLM coding agents, and public benchmarks report that aggressive compression preserves task-solving quality. These two facts do not imply the third one commonly assumed: that\u2026",
+     "url": "https://arxiv.org/abs/2609.22114",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Evaluation Awareness Shifts from Format to Context with Model Scale",
+     "summary": "arXiv:2609.22119v1 Announce Type: new Abstract: Evaluation awareness poses an unprecedented threat to model evaluation, but the mechanisms by which models detect it remain unknown. This study focuses on determining this and identifying contrasting mechanisms between smaller and larger models.\u2026",
+     "url": "https://arxiv.org/abs/2609.22119",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Balancing Reasoning and Hardware Constraints in RAG Pipelines for Ukrainian Multi-Domain Document Understanding",
+     "summary": "arXiv:2609.22124v1 Announce Type: new Abstract: This paper describes the system submitted to the UNLP 2026 Shared Task on Multi-Domain Document Understanding. The challenge required extracting precise answers, document IDs, and page numbers from a diverse corpus of Ukrainian PDF documents within a\u2026",
+     "url": "https://arxiv.org/abs/2609.22124",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Type-Driven Tokenization for Brahmic Scripts",
+     "summary": "arXiv:2609.22125v1 Announce Type: new Abstract: Standard tokenizers used in large language models produce malformed text when applied to Brahmic scripts. They are a family of abugidas, writing systems whose consonants carry an inherent vowel that dependent marks can modify. They include\u2026",
+     "url": "https://arxiv.org/abs/2609.22125",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Beyond Accuracy and Surface Fluency: Risk-Sensitive Evaluation of LLMs for Legal Clause Generation",
+     "summary": "arXiv:2609.22127v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used to draft contractual language, yet conventional accuracy or preference-based evaluations are poorly matched to legal drafting. A clause may be fluent and stylistically polished while still omitting\u2026",
+     "url": "https://arxiv.org/abs/2609.22127",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Correlation-Aware Structured Pruning for Large Language Models",
+     "summary": "arXiv:2609.22131v1 Announce Type: new Abstract: Structured pruning is a promising approach for reducing the substantial inference costs of Large Language Models (LLMs) while maintaining hardware efficiency. Many existing methods assess the importance of prunable units (e.g., channels or heads) in\u2026",
+     "url": "https://arxiv.org/abs/2609.22131",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Observational Equivalence of LLM and Human Annotation",
+     "summary": "arXiv:2609.22133v1 Announce Type: new Abstract: In this paper, we show that LLM and human coding are observationally equivalent in terms of annotation quality: recent LLMs agree with expert coders at rates comparable to those observed among experts themselves. We demonstrate this through\u2026",
+     "url": "https://arxiv.org/abs/2609.22133",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "PRQuant: Permutation Residual Quantization for Low-Overhead Inference",
+     "summary": "arXiv:2609.22106v1 Announce Type: new Abstract: Accuracy of Low-bit quantization of linear layers is often dominated by a small number of outliers. Although existing methods, such as smoothing, rotation, or residual-based approaches, may mitigate this problem, they often introduce new accuracy\u2026",
+     "url": "https://arxiv.org/abs/2609.22106",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Generalized Multimodal Foundation Model",
+     "summary": "arXiv:2609.22107v1 Announce Type: new Abstract: Making prediction with multimodal data is widely used in diverse scenarios. Existing multimodal fusion models, once deployed, can only handle predefined modalities (e.g., vision, text and audio) and single tasks, making it difficult to quickly adapt\u2026",
+     "url": "https://arxiv.org/abs/2609.22107",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Correcting Learning-based Perception for Safety",
+     "summary": "arXiv:2609.22108v1 Announce Type: new Abstract: Learning-enabled perception is important in many autonomous systems. Unlike traditional sensors, the boundary where ML perception does or does not work is poorly characterized. Incorrect perception can lead to unsafe or overtly conservative\u2026",
+     "url": "https://arxiv.org/abs/2609.22108",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "A Shared Learning Rate Is Not a Neutral Control in Selective On-Policy Distillation",
+     "summary": "arXiv:2609.22109v1 Announce Type: new Abstract: Selective on-policy distillation trains a student only at the token positions a selector scores highest, and the literature compares selectors under a single shared learning rate--a control chosen to be neutral. We show it is not. Under LoRA on GSM8K\u2026",
+     "url": "https://arxiv.org/abs/2609.22109",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Toward Fairness in Machine Learning Models for Predicting Treatment Retention and Premature Discontinuation in Medication for Opioid Use Disorder",
+     "summary": "arXiv:2609.22113v1 Announce Type: new Abstract: Persistent low retention and completion rates in medications for opioid use disorder (MOUD) have driven the use of machine learning (ML) models to predict retention and identify patients at risk of premature discontinuation. However, the fairness of\u2026",
+     "url": "https://arxiv.org/abs/2609.22113",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "ZoAQ: Adaptive Zeroth-Order Querying via Query-Reuse Coupling",
+     "summary": "arXiv:2609.22115v1 Announce Type: new Abstract: Zeroth-order optimization (ZOO) estimates updates from function evaluations, making perturbation queries a primary cost. Fixed budgets spend the same number of queries at every step, while adaptive controllers may offset their savings by using\u2026",
+     "url": "https://arxiv.org/abs/2609.22115",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "LE4Mob: Towards Inductive, Distance-Aware and General-Purpose Location Embedding for Human Mobility Modelling",
+     "summary": "arXiv:2609.22117v1 Announce Type: new Abstract: Location representations provide mobility models with fundamental information about the spatial position, functional characteristics, and relationships of places. However, existing embeddings are often dependent on mobility observations, unable to\u2026",
+     "url": "https://arxiv.org/abs/2609.22117",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Success Leaves Detours: Learning Executable Walkthroughs for Long-Horizon Agents",
+     "summary": "arXiv:2609.22120v1 Announce Type: new Abstract: Test-time self-evolving agents improve by reusing past experience, yet sparse-reward trajectories contain failures, loops, and detours, while summaries often omit the state conditions and action dependencies needed for execution. We study executable\u2026",
+     "url": "https://arxiv.org/abs/2609.22120",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Modelling daily activity patterns from mobile phone location data via deep representation learning",
+     "summary": "arXiv:2609.22121v1 Announce Type: new Abstract: Passively collected mobile phone location data provide large-scale, longitudinal observations of human mobility but do not directly reveal activity purposes. The functional characteristics of visited locations offer useful contextual information, yet\u2026",
+     "url": "https://arxiv.org/abs/2609.22121",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Rank Portability Does Not Imply Feasibility Portability: Target-Specific Evaluation of Joint Hardware Constraints",
+     "summary": "arXiv:2609.22122v1 Announce Type: new Abstract: Cross-device hardware evaluation often assumes that if architecture rankings transfer across devices, a proxy device can support target-side model selection. We stress-test this assumption for joint latency-energy feasibility across two public\u2026",
+     "url": "https://arxiv.org/abs/2609.22122",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "StationPDE: Station-Oriented Surface PDE Learning for Multi-Station Multivariate Weather Forecasting",
+     "summary": "arXiv:2609.22123v1 Announce Type: new Abstract: Multi-station multivariate weather forecasting aims to forecast future weather variables at multiple weather stations from historical surface observations. Existing station forecasting models learn statistical dependencies among discrete stations,\u2026",
+     "url": "https://arxiv.org/abs/2609.22123",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "SolarFlowRefiner: Refinement-Aware Flow Matching for Surface Solar Radiation Downscaling",
+     "summary": "arXiv:2609.22126v1 Announce Type: new Abstract: High-resolution surface solar radiation (SSR) is important for solar forecasting and grid operation. However, physically consistent reanalysis products are too coarse to resolve localized cloud-driven variability. In this paper, we study a\u2026",
+     "url": "https://arxiv.org/abs/2609.22126",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Helix-FNO: Spectral-Domain Operator Learning Coupled with a High-Fidelity Mechanistic Model for Fast Surrogate Simulation",
+     "summary": "arXiv:2609.22129v1 Announce Type: new Abstract: Mechanistic simulation models of full-scale treatment processes remain the only trustworthy, extrapolative description of the underlying physico-chemical dynamics, yet their runtime is far too slow to support the thousands of forward evaluations that\u2026",
+     "url": "https://arxiv.org/abs/2609.22129",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Hierarchical Bayesian optimization of an aircraft-based multi-agent system-of-systems",
+     "summary": "arXiv:2609.22130v1 Announce Type: new Abstract: Developing innovative system architectures increasingly relies on advanced modeling and optimization techniques to frame the architecting process and define the corresponding computational problems. For complex System-of-Systems (SoS), high-fidelity\u2026",
+     "url": "https://arxiv.org/abs/2609.22130",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Weak Ties, Strong Signals: Efficient Training Data Detection in Diffusion LLMs via Independent Token Sampling",
+     "summary": "arXiv:2609.22145v1 Announce Type: new Abstract: Diffusion large language models (dLLMs) offer a compelling alternative to autoregressive models, yet they may expose sensitive training data during denoising. Detecting such usage is challenging because dLLMs lack the efficient one-pass probability\u2026",
+     "url": "https://arxiv.org/abs/2609.22145",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "GRRR: The Geometry of Reshaping, Rotation, and Routing in Decoder LLM post-training",
+     "summary": "arXiv:2609.22146v1 Announce Type: new Abstract: We study how post-training changes the weights of Large Language Models (LLMs) relative to their pretrained weights. Across 12 post-training chains with supervised fine-tuning (SFT) and reinforcement learning (RL), we express each weight update in\u2026",
+     "url": "https://arxiv.org/abs/2609.22146",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "SafeTune: A Unified Faithful Library for Auditing and Repairing Safety Drift in Fine-Tuned LLMs",
+     "summary": "arXiv:2609.22153v1 Announce Type: new Abstract: Methods for addressing safety drift in fine-tuned Large Language Models (LLMs) are scattered across incompatible implementations, lifecycle stages, and evaluation protocols, making them difficult to adopt and compare. We introduce SafeTune, a\u2026",
+     "url": "https://arxiv.org/abs/2609.22153",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "A Comparative Framework for Evaluating Foundation Models on Tabular Data: A Case Study in Healthcare",
+     "summary": "arXiv:2609.22154v1 Announce Type: new Abstract: Tabular data is the most common format in clinical practice, encompassing laboratory results, medication records, diagnostic codes, and patient demographics. As foundation models for tabular data have grown in number and variety, a practical question\u2026",
+     "url": "https://arxiv.org/abs/2609.22154",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "From Latent Biomarkers to Clinical Rules: Embedding-Guided Rule Mining and Attribution-Based Translation for Interpretable Tabular Learning",
+     "summary": "arXiv:2609.22155v1 Announce Type: new Abstract: Clinical decision support tools are most useful when accurate predictions are accompanied by understandable explanations. Rule-based models provide transparency, but rules derived directly from raw clinical measurements may miss patterns arising from\u2026",
+     "url": "https://arxiv.org/abs/2609.22155",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "The Limits of Speculation: Bounding Speculative Decoding in Mixture-of-Experts",
+     "summary": "arXiv:2609.22156v1 Announce Type: new Abstract: Speculative decoding in Mixture-of-Experts (MoE) models faces the problem of unstable verification cost caused by input-dependent expert loading. To study the physics of this process, we formulate speculation-budget selection as an offline Stochastic\u2026",
+     "url": "https://arxiv.org/abs/2609.22156",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Jev introduces a new shape of LLM - System One, aka Decision Models",
+     "summary": "Last week TypeSafe AI unveiled Jev , their first example of a new category of model that they are calling \"System One models\" (I'm with Maggie Appleton, I think \"decision models\" is a better name for these). Jev is an interesting variant on the usual LLM format: it still accepts text inputs, but\u2026",
+     "url": "https://simonwillison.net/2026/Sep/21/jev/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "Cloudflare Python Workers are now generally available",
+     "summary": "Cloudflare Python Workers are now generally available After a two year preview, Cloudflare's support for running Python code in their server-side Workers platform is now stable: \"Python is now a first-class, fully supported language on the Cloudflare Developer Platform\". A neat thing about this is\u2026",
+     "url": "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "Jev: System One models for Prod, not God \u2014 with Diogo Almeida, CEO, TypeSafe AI",
+     "summary": "The definitive Jev podcast with its lead creator.",
+     "url": "https://www.latent.space/p/jev",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "jev-chat/jev-chat-jarvis: \u88c5\u5728\u624b\u673a\u4e0a\u7684\u5bf9\u8bdd\u526f\u9a7e\uff1a\u5728\u5fae\u4fe1 / QQ / X / \u98de\u4e66\u91cc\u8bfb\u61c2\u5bf9\u65b9\u3001\u7ed9\u51fa\u5019\u9009\u56de\u590d\u3001\u4e00\u952e\u586b\u5165\u8f93\u5165\u6846\uff0c\u53d1\u4e0d\u53d1\u7531\u4f60\u3002\u975e\u4fb5\u5165\uff0c\u53ea\u8bfb\u5c4f\u5e55\uff0c\u4e0d hook \u4e0d\u6539\u5305\u3002",
+     "summary": "\u88c5\u5728\u624b\u673a\u4e0a\u7684\u5bf9\u8bdd\u526f\u9a7e\uff1a\u5728\u5fae\u4fe1 / QQ / X / \u98de\u4e66\u91cc\u8bfb\u61c2\u5bf9\u65b9\u3001\u7ed9\u51fa\u5019\u9009\u56de\u590d\u3001\u4e00\u952e\u586b\u5165\u8f93\u5165\u6846\uff0c\u53d1\u4e0d\u53d1\u7531\u4f60\u3002\u975e\u4fb5\u5165\uff0c\u53ea\u8bfb\u5c4f\u5e55\uff0c\u4e0d hook \u4e0d\u6539\u5305\u3002",
+     "url": "https://github.com/jev-chat/jev-chat-jarvis",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "agent-labs-dev/fastbrowse: A fast browser agent: Jev picks each action from what is on the page, an LLM reads and plans, and every claim in an answer cites a quote from the page.",
+     "summary": "A fast browser agent: Jev picks each action from what is on the page, an LLM reads and plans, and every claim in an answer cites a quote from the page.",
+     "url": "https://github.com/agent-labs-dev/fastbrowse",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-09-22T05:10+00:00",
+  "window_start": "2026-09-21T22:03+00:00",
+  "window_end": "2026-09-22T05:10+00:00",
+  "candidate_count": 82,
+  "model": "free (no LLM)"
+ }
+}
