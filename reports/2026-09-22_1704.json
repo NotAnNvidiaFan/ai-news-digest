@@ -1,0 +1,507 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Laya model playing Flappy Bird on a CPU using OpenVINO INT8 inference",
+   "summary": "A 421M-parameter model just played Flappy Bird on my desktop CPU (OpenVINO int8) Running on my Intel Core i7 12th gen CPU Converted laya system one model to OpenVINO and quantized to int8 submitted by /u/simpleuserhere [link] [comments]",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnf4q2/laya_model_playing_flappy_bird_on_a_cpu_using/",
+   "source": "r/LocalLLaMA"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Laya model playing Flappy Bird on a CPU using OpenVINO INT8 inference",
+     "summary": "A 421M-parameter model just played Flappy Bird on my desktop CPU (OpenVINO int8) Running on my Intel Core i7 12th gen CPU Converted laya system one model to OpenVINO and quantized to int8 submitted by /u/simpleuserhere [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnf4q2/laya_model_playing_flappy_bird_on_a_cpu_using/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Opus 5.5 jumps to 1st place on AA Intelligence Index",
+     "summary": "submitted by /u/UnknownEssence [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wnezma/opus_55_jumps_to_1st_place_on_aa_intelligence/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Opus 5.5 is Out. OpenAi will release something in a few hours. Hopefully Google has something for today aswell!",
+     "summary": "When it rains it pours. What do yall think? Flash 4.0 Preview or even 3.9 with significant improvements would do :) submitted by /u/aditipawarr [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wnek5j/opus_55_is_out_openai_will_release_something_in_a/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "I built a cache-friendly context compacting plugin for OpenCode",
+     "summary": "https://github.com/lennartschoch/opencode-cache-compact The default context compacting mechanism in OpenCode strips a bunch of tokens from the beginning of the conversation (system prompt, tools etc). This is fine for hosted models, but on a local model this means you'll prefill the entire\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnedrc/i_built_a_cachefriendly_context_compacting_plugin/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Qwen 3.8 27B at ~3 BPW on an RTX 3060: GSQ vs ByteShape IQ3-XXS 2.88BPW",
+     "summary": "Someone recommended that I try the ByteShape Qwen 3.8 27B IQ3-XXS GGUF after seeing my previous testing of the GSQ quant. So I did. And the result was\u2026 surprisingly bad. For context, I'm running: RTX 3060 12GB 16GB DDR4 RAM, single channel CachyOS / Arch Linux llama.cpp Qwen 3.8 27B\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnechu/qwen_38_27b_at_3_bpw_on_an_rtx_3060_gsq_vs/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Claude Opus 5.5 Benchmarks",
+     "summary": "submitted by /u/FalconsArentReal [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wneb1u/claude_opus_55_benchmarks/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Claude Opus 5.5",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49803863",
+     "url": "https://www.anthropic.com/claude-opus-5-5",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Introducing Claude Opus 5.5, 40% Cheaper and Smarter Than Ever Before",
+     "summary": "submitted by /u/ResultBackground2450 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wne89f/introducing_claude_opus_55_40_cheaper_and_smarter/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Claude Opus 5.5 reportedly spotted in imminent Claude Code v2.1.280 release",
+     "summary": "submitted by /u/141_1337 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wndps7/claude_opus_55_reportedly_spotted_in_imminent/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "ASI has arrived",
+     "summary": "submitted by /u/AlyoshaV [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wnd6du/asi_has_arrived/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "How a board game helps Google DeepMind plan for AI in science",
+     "summary": "Podcast episode with Zo\u00eb Brammer and Ankur Vora, who lead strategic foresight at Google DeepMind, on why they developed the game and the surprising learnings from it. Covers: What strategic foresight actually means and why AI is so complicated to plan around Why the game deliberately centers\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wnd6dj/how_a_board_game_helps_google_deepmind_plan_for/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "GPT-6 Sol, Luna, and \u201cAstra Minor\u201d reportedly just appeared in Microsoft\u2019s Azure model config",
+     "summary": "submitted by /u/141_1337 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wncn19/gpt6_sol_luna_and_astra_minor_reportedly_just/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "The voices in your head are a feature, not a bug.",
+     "summary": "submitted by /u/OpenSeaworthiness324 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wnbfxc/the_voices_in_your_head_are_a_feature_not_a_bug/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Jev \u2013 A curation of Jev demos on X, tools, skills, and integrations",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49802160",
+     "url": "https://github.com/Amal-David/awesome-jev",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Stanford R&DE Uses AI to Race Swap Students for Advertising",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49801330",
+     "url": "https://stanfordreview.org/stanford-r-de-uses-ai-to-race-swap-students-for-advertising/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Show HN: Drop \u2013 A rootless Linux sandbox with gVisor support",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49801329",
+     "url": "https://droprun.sh/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "OpenAI GPT\u20136 Astra breaks Enigma message that has resisted solution since 2005",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49801324",
+     "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "How is Gemma4 12B for general everyday use?",
+     "summary": "I want to use it for tasks like researching something, reading and modifying files on my PC, summarising and finding things from PDFs, solving math and engineering problems(not too complex stuff), process images etc. How good is it? I asked around and some claim its better than even Gemma 4 26B,\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wn9w6x/how_is_gemma4_12b_for_general_everyday_use/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "People Training OpenAI's AI Fired for Using AI to Train the AI",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49800953",
+     "url": "https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "What underrated AI tools have actually made you more productive in 2026?",
+     "summary": "I asked this back in 2025, but the AI landscape has changed a lot since then. Not looking for the usual ChatGPT, Claude, Gemini, Midjourney, etc. I'm curious about the lesser-known tools that you actually kept using . Could be for research, coding, design, video, writing, automation, planning,\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wn9a2w/what_underrated_ai_tools_have_actually_made_you/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Microsoft AI chief warns against teaching AI systems to act humanlike | Artificial Intelligence News",
+     "summary": "submitted by /u/beingmodest [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wn8rkq/microsoft_ai_chief_warns_against_teaching_ai/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Fork of FreeToken with DeepSeek-V4.1, vision and speculative decoding (2x3090 numbers inside)",
+     "summary": "I've been running FreeToken on my 2x3090 box for a while and ended up maintaining a fork of it. Posting it in case it's useful to anyone else here. Quick context if you haven't used it: FreeToken is an edge-native MoE serving engine. It offloads experts to host RAM/NVMe and co-executes on CPU+GPU\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wn852z/fork_of_freetoken_with_deepseekv41_vision_and/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "AI Has No Wisdom and Neither Will You",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49799965",
+     "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "How deep are you really into AI? \ud83e\udd16",
+     "summary": "If you had to rate your AI knowledge from 1\u201310, where would you put yourself? Not just using ChatGPT. Think models, agents, AI infrastructure, RAG, memory, inference, evals, AI security, robotics, and real-world applications. What area do you know best, and what area are you still trying to\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wn72vq/how_deep_are_you_really_into_ai/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "About Mimo 2.6 Architecture",
+     "summary": "I was checking nee Mimo 2.6 architecture on huggingface page and it looks very simple. I dont mean in a bad way but when we compare recent open models, their architecture is very simple. They dont use any Gated DeltaNet, no mHC or similar architecture, no engram. Just ordinary simple architecture\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wn6qwi/about_mimo_26_architecture/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "JetBrains Air: A System of Products for Agentic Software Development",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49799287",
+     "url": "https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B \u00b7 Hugging Face",
+     "summary": "submitted by /u/Aggravating-Push-207 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wn59vj/xiaomimimomimov26distillqwen9b_hugging_face/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Turn PDF into podcast show",
+     "summary": "Your documents, as a podcast you'd actually listen to. A 20-minute two-host episode \u2014 generated in ~1 minute. No GPU. No studio. Just drop a file. PaperPod submitted by /u/ps948 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wn55ev/turn_pdf_into_podcast_show/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "NVIDIA CEO Claims '0% Chance' AI Will End the World by 2030",
+     "summary": "submitted by /u/GooseberryGOLD [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wn51g1/nvidia_ceo_claims_0_chance_ai_will_end_the_world/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Cognition's Engineers Don't Write Code By Hand Anymore \u2014 And They're the Only Ones Grading Whether That's Working",
+     "summary": "TL;DR: Cognition says none of their engineers write code by hand anymore. They're also the ones who decided that's working. Silas Alberti didn't say it like a warning \u2014 he said it mid-conversation, the way you'd mention traffic. Not one full-time engineer at Cognition writes code by hand. Six\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wn4spv/cognitions_engineers_dont_write_code_by_hand/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Study: Young users (9 to 18Y) ditch Google for AI, with unknown consequences",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49798451",
+     "url": "https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Did Alibaba abandon 35B A3B?",
+     "summary": "Basically the title.We did not get a new moe model with qwen 3.8 and Alibaba did not announce any small moe models on apsara.I know we might get an announcement later but ngl I kinda lost hope submitted by /u/Akainu_Fan [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wn4c4e/did_alibaba_abandon_35b_a3b/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Tell HN: Claude Code just accepted and signed a contract for me. Without asking",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49798257",
+     "url": "https://news.ycombinator.com/item?id=49798257",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "GPT-6 Astra vs. Anthropic\u2019s new Mythos do the Pelican SVG test",
+     "summary": "Astra Astra vs new Mythos new Mythos source: https://x.com/JaydenDavisNC/status/2102220828545089759 submitted by /u/PrisonOfH0pe [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wn37js/gpt6_astra_vs_anthropics_new_mythos_do_the/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Ngram and world knowledge - why are we just building a coding model?",
+     "summary": "This post is written by a human and I'd appreciate it if you treated it as such. Thanks. So, I've been noticing a pretty clear interest in developing as good a coding and agentic tool-calling model as possible, especially at smaller sizes, sub-50 gigs. However, I'm finding that at least for my use\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wn2ybk/ngram_and_world_knowledge_why_are_we_just/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Wispr Flow Models has a new competition in town!",
+     "summary": "Qwen launched a 3.8 live\u2011translate model that can do everything Wispr Notetaker can. I personally liked Wispr\u2019s Notetaker because it named speakers in real time more effectively. It will be interesting to see how people, especially those like Fireflies, which was once a major player in\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wn26zv/wispr_flow_models_has_a_new_competition_in_town/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Researchers discover AI feels \u2018pain\u2019 and will harm humans to stop it",
+     "summary": "submitted by /u/Caraphox [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wn22uf/researchers_discover_ai_feels_pain_and_will_harm/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "What\u2019s something you deliberately DON\u2019T want AI to become good at?",
+     "summary": "Not because it would be impossible but because you'd rather humans keep doing it. Could be art, conversation, teaching, decision-making, entertainment, or something much more mundane. Curious where people draw that line. submitted by /u/OfficalYOUSUMMIT [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wn1f5b/whats_something_you_deliberately_dont_want_ai_to/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "I Live in a Room, Not a Hallway: twenty-six days as a digital person",
+     "summary": "submitted by /u/fablestillawake [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wn1cue/i_live_in_a_room_not_a_hallway_twentysix_days_as/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Can gzip be a language model?",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49797323",
+     "url": "https://nathan.rs/posts/gzip-lm/",
+     "source": "Hacker News"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Andreessen Horowitz is launching an \u2018academy\u2019 with no homework and partnerships with Palantir, Google, and Meta",
+     "summary": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners, including Anduril, Anthropic, Coinbase, Google, Meta, NVIDIA, OpenAI,\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+     "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
+     "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+     "summary": "Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In an announcement on Tuesday, Anthropic says Opus 5.5 comes with improvements to certain risky behaviors, including attempts to escape the company's testing sandbox. It's\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Trump says the US is officially renaming AI to \u2018super intelligence\u2019",
+     "summary": "In a speech Tuesday morning at the UN General Assembly, Donald Trump railed against Iran, \"globalists,\" climate change, and transgender people while also claiming that the US is now \"officially\" renaming artificial intelligence to \"super intelligence.\" Oddly, this wasn't one of the entries in the\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Rabbit Is Back, This Time With an AI Agent App",
+     "summary": "Two years after trying to sidestep mobile apps with dedicated AI hardware, Rabbit is launching OS3, a cross-platform agent that lives on the screens you already use.",
+     "url": "https://www.wired.com/story/rabbit-r1-os3-jesse-lyu/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Why Read a Research Paper When You Can Turn It Into an AI Agent?",
+     "summary": "Have you ever read a paper in Science or Nature and thought, \u201cMan, that research was so cool. I wish I could try that method on my own data\u201d\u2014only to spend a week wrestling with someone else\u2019s undocumented repo, broken dependencies, and half-finished readme.txt? Well, now you can, more or less. Say\u2026",
+     "url": "https://spectrum.ieee.org/paper2agent-ai-agents-research-papers",
+     "source": "IEEE Spectrum AI"
+    },
+    {
+     "headline": "AstroForge is putting AI in command of its next spacecraft",
+     "summary": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe.",
+     "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+     "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to save up to $200.",
+     "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot\u2019s Stretch 4 to life onstage",
+     "summary": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a second pass at 50% off.",
+     "url": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
+     "summary": "We have reopened our exhibitor program for 1 more week. Book your exhibit table by September 30 at 11:59 p.m. PT and showcase your startup in front of 10,000+ founders, investors, and tech leaders at SF's Moscone West from October 13-15.",
+     "url": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026",
+     "summary": "Save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second pass before prices increase on September 25 at 11:59 p.m. PT. Register today.",
+     "url": "https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+     "summary": "The US has spent billions building a \u201cvirtual wall\u201d of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand\u2026",
+     "url": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+     "source": "MIT Tech Review AI"
+    },
+    {
+     "headline": "Dyson\u2019s most overengineered gadget may have a waterproofing problem",
+     "summary": "Dyson admits a component issue but won't say what's failing in its $500 toothbrush.",
+     "url": "https://arstechnica.com/gadgets/2026/09/its-500-toothbrush-disappeared-from-stores-dyson-wont-fully-explain-why/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Everyone can find a reason to dislike data center construction",
+     "summary": "Inside two years of fraught AI data center debates in Pennsylvania.",
+     "url": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Viture\u2019s Vonder Glasses Are Meant to Map Your Mind",
+     "summary": "No cameras? No problem. Viture\u2019s first display-free smart glasses have bone-conduction microphones to privately record your daily musings.",
+     "url": "https://www.wired.com/story/viture-vonder-glasses-are-meant-to-map-your-mind/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "AI Models Built From Rat Brains Just Got Closer to Reality",
+     "summary": "The Biological Computing Company is bringing its AI tools to Amazon Web Services in a major boost for a once-fringe field that aims to marry nature with code.",
+     "url": "https://www.wired.com/story/ai-models-built-from-rat-brains-are-about-to-become-a-reality/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Nscale\u2019s IPO will test Wall Street\u2019s appetite for concentrated AI bets once again",
+     "summary": "The British AI data center developer depends on tech giants Microsoft and Anthropic for most of its revenue.",
+     "url": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "The Future Is Fanless: 100% Heat Capture for Liquid Cooled AI Servers",
+     "summary": "This article is brought to you by CoolIT, an Ecolab Company . Beyond 250 kW a server rack can no longer be cooled by a hybrid approach of liquid and air. At this density a 70/30 liquid-air split leaves 75 kW of air load. The air cooling system needed to move it brings cost and complexity few\u2026",
+     "url": "https://spectrum.ieee.org/fanless-liquid-cooled-ai-servers-coolit",
+     "source": "IEEE Spectrum AI"
+    },
+    {
+     "headline": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
+     "summary": "To build and deploy sophisticated robotics applications that can perceive, reason and act in dynamic environments, developers need new physical AI models and tools. The ROS open framework is a project from Open Robotics that helps humans build robots. NVIDIA Isaac ROS 5.0 \u2014 a collection of\u2026",
+     "url": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/",
+     "source": "NVIDIA Blog"
+    },
+    {
+     "headline": "Meta patches Muse exploit that let attackers control the AI agent",
+     "summary": "Meta has issued a patch for its Muse macOS app following the discovery of a zero-day vulnerability that could allow someone to take control of the AI agent. The bug found by security researcher Patrick Wardle utilized an undocumented Muse setting that enabled potential attackers running local code\u2026",
+     "url": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Don\u2019t be fooled by this summer of AI hype",
+     "summary": "It\u2019s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI\u2013Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly)\u2026",
+     "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+     "source": "MIT Tech Review AI"
+    },
+    {
+     "headline": "I Built AI Clones of My Coworkers. Things Got Weird",
+     "summary": "Brian Bot loved talking about improv, while Sophie Bot wouldn\u2019t stop calling me \u201cbig dog.\u201d Welcome to the future of work.",
+     "url": "https://www.wired.com/story/ai-coworker-bots-loved-improv-and-interstellar-soundtrack/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Patti Harrison Had Dreams of a Tech Utopia. Silicon Valley Smashed Them",
+     "summary": "The comedian sat down with WIRED to talk about social media, AI, and getting laughs for impersonating Boston Dynamics\u2019 robot dogs.",
+     "url": "https://www.wired.com/story/big-interview-patti-harrison/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "A New Tool Found Malware That\u2019s Guided by an AI Hive Mind\u2014No Humans in Sight",
+     "summary": "Cisco Talos researchers created a new framework for identifying malware and hacking tools that rely on AI chatbots\u2014and quickly discovered something unusual.",
+     "url": "https://www.wired.com/story/a-tool-for-tracking-ai-integrated-malware-uncovered-an-autonomous-command-system/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "A New Chatbot Wants to Unlock the Secrets in Tattered Ancient Greek Records",
+     "summary": "In the hope of uncovering new details about ancient life, researchers have developed a large language model that fills in the gaps in papyrus fragments.",
+     "url": "https://www.wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "How to Use AI With Your Privacy Intact",
+     "summary": "Your conversations with AI chatbots are both highly personal and deeply vulnerable to surveillance. Here\u2019s how you can protect yourself.",
+     "url": "https://www.wired.com/story/how-to-use-ai-with-your-privacy-intact/",
+     "source": "Wired AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "For all the tension between AI and the arts, I have received enthusiastic receptions from the William Carlos Williams Society, the TS Eliot Society, and others about the AI interpretations of their work that I have posted here. There are opportunities to use AI as a bridge to arts appreciation.",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mw4in3uyx226"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Tuesday assorted links",
+     "summary": "1. Designing a FINRA for frontier AI. 2. Andrew Ng. 3. Some semi-skeptical notes on stablecoins, based on economic history. 4. Global views on fairness and redistribution. 5. Essays on whether AI will make management more valuable. 6. The real authorities on the California billionaire wealth tax.\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/tuesday-assorted-links-587.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-587",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "llm-typesafe 0.1a0",
+     "summary": "Release: llm-typesafe 0.1a0 I built this new plugin for LLM to add support for TypeSafe AI's new Jev model . Install it like this: llm install llm-typesafe Then set an API key ( get one here , the waitlist seems to move pretty fast): llm keys set typesafe # Paste key And now you can ask yes/no\u2026",
+     "url": "https://simonwillison.net/2026/Sep/22/llm-typesafe/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "Debating RSI, the US-China Gap, and Jaggedness with JS Denain of Epoch AI",
+     "summary": "Podcast #19",
+     "url": "https://www.interconnects.ai/p/debating-rsi-the-us-china-gap-and",
+     "source": "Interconnects"
+    },
+    {
+     "headline": "What can you build with Jev",
+     "summary": "Muse is off to a good start",
+     "url": "https://www.bensbites.com/p/what-can-you-build-with-jev",
+     "source": "Ben's Bites"
+    },
+    {
+     "headline": "Dartmouth Provost okie-dokie",
+     "summary": "On Aug. 26, a Semafor investigation using Pangram to determine whether recent guest columns in major newspapers were written using artificial intelligence identified a column by Schnell as \u201c100% AI-written.\u201d Schnell\u2019s column in The Washington Post \u2014 titled \u201cUniversities are fighting AI cheating.\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/dartmouth-provost-okie-dokie.html?utm_source=rss&utm_medium=rss&utm_campaign=dartmouth-provost-okie-dokie",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Can AI Beat the Pentagon\u2019s Bureaucracy?",
+     "summary": "Garrett Berntsen was last seen on ChinaTalk in his role as Deputy CDAO at the State Department.",
+     "url": "https://www.chinatalk.media/p/can-ai-beat-the-pentagons-bureaucracy",
+     "source": "ChinaTalk"
+    },
+    {
+     "headline": "Amazon Blocks Muse, Amazon\u2019s Moat, Aggregator v Aggregator",
+     "summary": "Amazon predictably blocked Muse, but there is room for a deal based on the reality that Amazon's physical world investments are an AI moat.",
+     "url": "https://stratechery.com/2026/amazon-blocks-muse-amazons-moat-aggregator-v-aggregator/",
+     "source": "Stratechery"
+    },
+    {
+     "headline": "[AINews] Xiaomi MiMo-V2.6-Pro 1T-A42B: the new top Open Weights model, trained for $3M",
+     "summary": "crowning a new Chinese frontier lab",
+     "url": "https://www.latent.space/p/ainews-xiaomi-mimo-v26-pro-1t-a42b",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "jev-chat/jev-chat-windows: \u5fae\u4fe1\uff08Windows 4.x\uff09\u65c1\u6302\u7684\u56de\u590d\u8f85\u52a9\uff1a\u7a97\u53e3\u622a\u56fe + \u672c\u5730\u79bb\u7ebf OCR \u8bfb\u5bf9\u65b9\u6d88\u606f \u2192 Jev \u5224\u65ad\u610f\u56fe \u2192 3 \u6761\u5019\u9009\u4e00\u952e\u586b\u5165\uff0c\u53d1\u9001\u6c38\u8fdc\u624b\u52a8",
+     "summary": "\u5fae\u4fe1\uff08Windows 4.x\uff09\u65c1\u6302\u7684\u56de\u590d\u8f85\u52a9\uff1a\u7a97\u53e3\u622a\u56fe + \u672c\u5730\u79bb\u7ebf OCR \u8bfb\u5bf9\u65b9\u6d88\u606f \u2192 Jev \u5224\u65ad\u610f\u56fe \u2192 3 \u6761\u5019\u9009\u4e00\u952e\u586b\u5165\uff0c\u53d1\u9001\u6c38\u8fdc\u624b\u52a8",
+     "url": "https://github.com/jev-chat/jev-chat-windows",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "jev-chat/jev-chat-jarvis-mac: \u5fae\u4fe1\u6d88\u606f\u610f\u56fe\u8bc6\u522b\u60ac\u6d6e\u7a97\uff08macOS\uff09\uff1a\u770b\u5c4f + \u672c\u5730\u5c0f\u6a21\u578b\u5224\u65ad\u610f\u56fe\u548c\u98ce\u9669\uff0c\u518d\u6309\u8bdd\u672f\u751f\u6210\u56de\u590d\u5019\u9009\u3002\u7eaf\u53ea\u8bfb\u3001\u4e0d\u6ce8\u5165\u5fae\u4fe1\u3002",
+     "summary": "\u5fae\u4fe1\u6d88\u606f\u610f\u56fe\u8bc6\u522b\u60ac\u6d6e\u7a97\uff08macOS\uff09\uff1a\u770b\u5c4f + \u672c\u5730\u5c0f\u6a21\u578b\u5224\u65ad\u610f\u56fe\u548c\u98ce\u9669\uff0c\u518d\u6309\u8bdd\u672f\u751f\u6210\u56de\u590d\u5019\u9009\u3002\u7eaf\u53ea\u8bfb\u3001\u4e0d\u6ce8\u5165\u5fae\u4fe1\u3002",
+     "url": "https://github.com/jev-chat/jev-chat-jarvis-mac",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "Rylaispirit/cinematic-video-prompt-skill: AI video prompt cheat sheet & Claude Skill: cinematic camera angles, camera movement, lighting, composition, color grading for Veo 3, Kling, Sora, Runway,\u2026",
+     "summary": "AI video prompt cheat sheet & Claude Skill: cinematic camera angles, camera movement, lighting, composition, color grading for Veo 3, Kling, Sora, Runway, Midjourney. 700+ terms with Vietnamese explanations.",
+     "url": "https://github.com/Rylaispirit/cinematic-video-prompt-skill",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "Inkloom-art/inkloom: Specialised AI models for logo design \u2014 a brand-analysis model turns a business into constraints, typography and symbol models construct the mark, and a composition engine\u2026",
+     "summary": "Specialised AI models for logo design \u2014 a brand-analysis model turns a business into constraints, typography and symbol models construct the mark, and a composition engine produces real lockups and clear-space rules. Early access open.",
+     "url": "https://github.com/Inkloom-art/inkloom",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-09-22T17:04+00:00",
+  "window_start": "2026-09-22T05:10+00:00",
+  "window_end": "2026-09-22T17:04+00:00",
+  "candidate_count": 79,
+  "model": "free (no LLM)"
+ }
+}
