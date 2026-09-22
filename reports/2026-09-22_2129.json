@@ -1,0 +1,279 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "\ud83d\udd2c An Oscar, Two Asteroids, and the Algorithm in Your sklearn: John Platt on AI for Science",
+   "summary": "We talked to Google\u2019s Oscar winning \u201cGiganerd\u201d about automating science, solving climate change, and how future generations can contribute to science in the age of superintelligent AI",
+   "why_it_matters": "",
+   "url": "https://www.latent.space/p/john-platt",
+   "source": "Latent Space"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "quants for K2-Horizon are now available",
+     "summary": "You can finally downloads quants from: https://huggingface.co/IFM/K2-Horizon-MoVA-36B-A4B-GGUF https://preview.redd.it/cfhl43pps4rh1.png?width=2800&format=png&auto=webp&s=313eab309fb407a0a0e5da61e2a120c677d3d3cd https://huggingface.co/IFM/K2-Horizon-32B-GGUF\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnky7x/quants_for_k2horizon_are_now_available/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "OpenAI\u2019s leaders among the few who got an invite to Trump-China state dinner: report",
+     "summary": "submitted by /u/theindependentonline [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wnkmyu/openais_leaders_among_the_few_who_got_an_invite/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Hallucinated AI-provided intelligence almost led to U.S. boarding Chinese ship. Now, the U.S. is proposing an AI hotline to China",
+     "summary": "https://preview.redd.it/z4wc4h0zn4rh1.png?width=773&format=png&auto=webp&s=3c0c579ce45d78a09953bd603c3d4ef0d38d6911 Last Friday, CNN reported that the U.S. and China could have gone to war due to hallucinated intelligence provided by AI: \"The intelligence report, circulated across the US military\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wnka2h/hallucinated_aiprovided_intelligence_almost_led/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Palo Alto launches a multi-model AI security service",
+     "summary": "Palo Alto Networks announced Unit 42 Continuous Frontier AI Defense on September 22. The company says the service uses a multi-model harness with Anthropic's Claude Mythos 5, OpenAI's GPT-5.6-Cyber, and open-weight models to find vulnerabilities, validate real-world exploitability, and speed up\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wnk63b/palo_alto_launches_a_multimodel_ai_security/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Native apps written in TypeScript and CSS",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49807021",
+     "url": "https://github.com/geastack/examples",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "MiMo-V2.6-Flash on vLLM: fixes for \"empty responses\" with thinking + tools, and a hidden 2,048-token output cap",
+     "summary": "Some people here say MiMo-V2.6 is bad with tools and are going back to GLM-5.3-Flash. I spent today running MiMo-V2.6-Flash-RL as the backend for an agent harness, on 2\u00d7 DGX Spark with vLLM, using the tonyd2wild recipe. Most of the \"tool problems\" I hit turned out to be serving bugs rather than\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnjbwn/mimov26flash_on_vllm_fixes_for_empty_responses/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "A Faster Shortest Path Algorithm",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49806778",
+     "url": "https://www.vals.ai/blogs/faster-shortest-path-algorithm",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "I think we should all hoard important knowledge in books",
+     "summary": "With ai developing rapidly (and most knowledge and records being put online), I think each household and important community building should have reference books. Books about survival, medicine, importance scientific concepts and discoveries, etc. I actually think it\u2019s something that governments\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wnitw6/i_think_we_should_all_hoard_important_knowledge/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "New 6B image model coming, AntLing just open sourced the Ming-Image-0.1-Design family",
+     "summary": "\u2022 Ming-Image-0.1-Design, 6B \u2022 Ming-Image-0.1-Design-Layer, 6B \u2022 Two open-source Agent Skills: the Ling UI Design Skill and the Image-to-Editable-PPT Skill Ming-Image-0.1-Design ranks #1 among open-weight models on Artificial Analysis\u2019s UI/UX Design leaderboard.\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnipcz/new_6b_image_model_coming_antling_just_open/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Overreliance on AI contributed to missile strike on Iran school \u2013 Pentagon",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49806430",
+     "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "My AI agents figured out how to use refugees as a weapon.",
+     "summary": "Which is a strange sentence to write about a game I first played at seven years old on a deck of a Soviet cargo ship. The game was called Kingdom of Euphoria. You were a king. You had land, grain, gold and people. Every year you decided how much to sow, how much to eat and how much to sell, etc.\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wni6fn/my_ai_agents_figured_out_how_to_use_refugees_as_a/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "How did the Chinese labs catch up so fast if most of the early training work was in the US?",
+     "summary": "OpenAI, Google, etc has a years long head start on training. Then Deepseek and the other Chinese labs closed a lot of that gap in a much shorter window. How did they do this? I know open source papers and compute factor greatly. What I don't get is the data part of the equation. Besides US data\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wni1a3/how_did_the_chinese_labs_catch_up_so_fast_if_most/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "The tools that survive for me all do one thing. the ones trying to be everything get cancelled first",
+     "summary": "most stuff i try ends up in the cool for a week pile. the ones that stay do one job properly and don't try to become a whole platform. the second a tool starts bolting on twelve features a month i start eyeing the cancel button. anyone got one that survived longer than a month for you? The tools\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wnhqmu/the_tools_that_survive_for_me_all_do_one_thing/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Qwen image 2.1 (Fast FP8) generates premium quality images",
+     "summary": "Don't know how they did it, but for under 10GB model, the results are astonishing. I am running it on Unsloth Studio. They just released the update, so if you are not seeing the option, I recommend updating your Unsloth Studio. Cheers! submitted by /u/108er [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnhq8d/qwen_image_21_fast_fp8_generates_premium_quality/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Now Opus 5.5 is 58 on Artificial Analysis , how long do you have wait until an open model hits 58?",
+     "summary": "It is 12 points higher than the best open model mimo 2.6 pro and a big jump from fable 5.1. Crazy, glm 5.5 and qwen 4 will be on par with gpt 6 sol or better since it has a score of 48 If it took 2 months for the best open model to go from 44 to 46, then at this rate, in 6 months , they will reach\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnhlbl/now_opus_55_is_58_on_artificial_analysis_how_long/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Unreal Agent",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49805748",
+     "url": "https://unreallabs.ai/blog/unreal-agent/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "AntLing open sourced the Ming-Image-0.1-Design family",
+     "summary": "AntLing open sourced the Ming-Image-0.1-Design family: \u2022 Ming-Image-0.1-Design, 6B \u2022 Ming-Image-0.1-Design-Layer, 6B \u2022 Two open-source Agent Skills: the Ling UI Design Skill and the Image-to-Editable-PPT Skill Ming-Image-0.1-Design ranks #1 among open-weight models on Artificial Analysis\u2019s UI/UX\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnh7tk/antling_open_sourced_the_mingimage01design_family/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "An update on how we confirm your age group on Discord",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49805677",
+     "url": "https://discord.com/blog/safer-for-teens-same-discord-for-adults",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Linux at Long Last and GPLv3",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49805672",
+     "url": "https://obscura.com/blog/linux-at-long-last/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Does Jev reveal hidden sexist and racist tendencies in AI?",
+     "summary": "A unique quality of jev is that you can ask it anything and it will give you an answer. It can't defend or contextualise this answer - it's just a yes/no (for noul at least). So I tried testing an applicant sorting scenario. State Candidate profile: 8 years engineering experience, graduated top\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wngz6r/does_jev_reveal_hidden_sexist_and_racist/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "GPT-6 Sol and Luna",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49805509",
+     "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "mini-AGI: Continual-learning dynamically looped transformer with evolutionary grown (on a laptop)",
+     "summary": "Saw this today and found it very intriguing. Lots of interesting design choices here, and it's cool to see someone doing something different. Here's a few highlights: Looped transformer: dynamic recurrent depth on a per-token basis, up to 24 cycles Self-supervised learning: trains itself on new\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnggz5/miniagi_continuallearning_dynamically_looped/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Performance tune for gemma4-26b-a4b flash attention shape. by frobnitzem \u00b7 Pull Request #28450 \u00b7 ggml-org/llama.cpp \u00b7 GitHub",
+     "summary": "Gemma 26B A4B speedup submitted by /u/jacek2023 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wng98w/performance_tune_for_gemma426ba4b_flash_attention/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "With regard to Hallucination Rates",
+     "summary": "As frontier LLM models start to trend toward lower hallucination rates across all domains, I've always thought it a bit ironic that we treat hallucination rates as the major flaw that separates humans and machines. In reality, your best friend, parents, co-workers, are consistently \"hallucinating\"\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wnfyj5/with_regard_to_hallucination_rates/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Launch HN: Coverage Cat (YC S22) \u2013 Umbrella insurance via your personal agent",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49804931",
+     "url": "https://www.coveragecat.com/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Meta\u2019s New Muse AI Agent Read My Private Messages. I Never Asked It To",
+     "summary": "submitted by /u/IncMagazine [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wnfvo6/metas_new_muse_ai_agent_read_my_private_messages/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Best value 24/32 GB GPU?",
+     "summary": "Currently sitting on some PC parts that I\u2019m planning to sell off, and i\u2019m considering using the money to upgrade my current gpu (12 gb vram) but if i do so i want to make sure i do my homework. Seen a lot of things thrown around this sub, like a 3090 or 9700, but i honestly don\u2019t know all too well\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnfs47/best_value_2432_gb_gpu/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "How long does it take for a new architecture breakthrough/innovation to make its way to a released model?",
+     "summary": "Suppose today Qwen discovered a really efficient way to store KV Cache and context length which uses drastically less VRAM. By now, its too late to put it into Qwen 4 or Qwen 4.5 since they are already training. Will we see it in Qwen 5 in 2028 then? Or could there be a chance that if its a big\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnfq0j/how_long_does_it_take_for_a_new_architecture/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Better prompt caching for GPT-6",
+     "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+     "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+     "source": "OpenAI Blog"
+    },
+    {
+     "headline": "Qualcomm launches two new smartphone chips with emphasis on AI",
+     "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
+     "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+     "summary": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.",
+     "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
+     "summary": "British Columbia sues OpenAI, demands Tumbler Ridge shooter\u2019s ChatGPT logs.",
+     "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Meta admits Muse\u2019s likeness to OpenClaw isn\u2019t a coincidence",
+     "summary": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw \u2014 down to some of its workspace filenames and content.",
+     "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "How to Claim Your Cut of Apple\u2019s $250 Million Siri Settlement",
+     "summary": "Apple may pay out up to $95 for each eligible iPhone purchased by someone who felt misled about Siri\u2019s release. You have until December 21 to submit a claim.",
+     "url": "https://www.wired.com/story/how-to-claim-your-cut-of-apple-250-million-siri-settlement/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Introducing GPT-6 Sol and Luna",
+     "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+     "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+     "source": "OpenAI Blog"
+    },
+    {
+     "headline": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+     "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
+     "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Toyota orders workers to train humanoid robots but says humans won't be replaced",
+     "summary": "Toyota's push comes as automakers race to develop and deploy humanoid robots.",
+     "url": "https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/",
+     "source": "Ars Technica AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "Opus 5.5 was a good model in my early use tests, it is the first non-Fable/Astra model to feel like a Fable-class model, and much cheaper, but still hasn't fully solved the dense/weird language issue of the recent Claudes. Here is its version of the shader.",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mw4ssgedys2j"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "\ud83d\udd2c An Oscar, Two Asteroids, and the Algorithm in Your sklearn: John Platt on AI for Science",
+     "summary": "We talked to Google\u2019s Oscar winning \u201cGiganerd\u201d about automating science, solving climate change, and how future generations can contribute to science in the age of superintelligent AI",
+     "url": "https://www.latent.space/p/john-platt",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "The economics of late grandmotherhood",
+     "summary": "We show how fertility delays compound across generations to raise age at first grandmotherhood. Under the 1960 first-birth schedule median grandmotherhood came at 44. Under the 2024 schedule it is 57, cutting the healthy years with grandchildren from 28 to 15. Longer life does not make up the loss\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/the-economics-of-late-grandmotherhood.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-late-grandmotherhood",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Quoting @therealcornpop",
+     "summary": "Hey, you know it's like super obvious if you're using AI to write your scripts for TikTok and YouTube, right? [...] It's not just the general AI-isms of \"it's not X, it's Y\", or the rule of three, or the really weird broken staccato-like way of writing where you just say a lot of things with all\u2026",
+     "url": "https://simonwillison.net/2026/Sep/22/therealcornpop/",
+     "source": "Simon Willison"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-09-22T21:29+00:00",
+  "window_start": "2026-09-22T17:04+00:00",
+  "window_end": "2026-09-22T21:29+00:00",
+  "candidate_count": 41,
+  "model": "free (no LLM)"
+ }
+}
