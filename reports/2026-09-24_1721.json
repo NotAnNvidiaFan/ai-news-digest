@@ -1,0 +1,495 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Muse will apparently let you download its entire filesystem",
+   "summary": "A pair of developers say that with very little prompting, Meta's Muse will share its entire filesystem with you. Peter James and Jonny L. Saunders have said they both independently coaxed Muse into zipping up and sharing the entire contents of its root filesystem, Ubuntu system files, app\u2026",
+   "why_it_matters": "",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
+   "source": "The Verge AI"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Claude Opus 5.5 tops SimpleBench with its 88.4% score.",
+     "summary": "submitted by /u/Profanion [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wp7jks/claude_opus_55_tops_simplebench_with_its_884_score/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "NeurIPS Accepted Papers are now visible [R]",
+     "summary": "I haven't received a notification about this -- but my paper just became visible as \"accepted\". I expect an email to come some time soon! Scores were 5-4-4. submitted by /u/levydawg [link] [comments]",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wp6oi3/neurips_accepted_papers_are_now_visible_r/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "UkisAI Swift Series / 27B, Flash Next and Bonsai 2 + GSQ-RCO / -63.4% thinking, x1.95 speed with xhigh accuracy",
+     "summary": "Hey everyone, Jovan from UkisAI here! Today, we are introducing Swift, a family of efficient reasoning LLMs based on Qwen, trained by penalizing tokens related to pathological overthinking patterns and restoring accuracy via RL (GSPO) and OPD . After amazing feedback and 350k+ downloads in 13 days\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wp6gal/ukisai_swift_series_27b_flash_next_and_bonsai_2/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Federal judge orders Texas to air condition all prisons by the end of 2029",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49832844",
+     "url": "https://www.texastribune.org/2026/09/22/texas-prison-air-conditioning-lawsuit-ruling/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "ThinkingCap 3.8-27B vs. Swift 3.8-27B vs. Qwen 3.8-27B Benchmarks",
+     "summary": "With the release of ThinkingCap-Qwen3.8-27B , I thought it would be worthwhile to do a comparison between the original Qwen3.8-27B, the new ThinkingCap, and Swift-Qwen3.8-27B . Both Swift which I already reviewed , and ThinkingCap do exactly the same thing: they reduce the excessive reasoning\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wp5vqr/thinkingcap_3827b_vs_swift_3827b_vs_qwen_3827b/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I Have a Confession: I Built This Site with AI \u2013 Please Forgive Me",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49832491",
+     "url": "https://dynamicallytyped.org/blog/i-have-a-confession-i-built-this-site-with-ai",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "GitHub has not removed malicious imitation software after 3 weeks",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49832406",
+     "url": "https://successfulsoftware.net/2026/09/24/github-has-not-removed-malicious-imitation-software-after-3-weeks/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Residency, Pre-Doc Programs, or Lesser-Known Fellowships for New Grads? [D]",
+     "summary": "I graduated with a Bachelor's Degree in data science a couple months ago. I'm interested in applying to any Pre-Doc research programs or AI residencies. However, I have had a little bit of trouble finding other organizations offering something like Ai2's pre-doc positions. I've noticed that the\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wp5apl/residency_predoc_programs_or_lesserknown/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "One Shot Wolfenstein 3D - Opus 4.6 vs. Opus 5.5",
+     "summary": "Crazy how far this has come in just 7 or so months. Opus 4.6 High vs. Opus 5.5 High - one shot prompt: Create a complete first-person shooter in the style of Wolfenstein 3D, in a single HTML file. Requirements: Everything in one file: HTML, CSS, and JavaScript. No external libraries, images,\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wp56lk/one_shot_wolfenstein_3d_opus_46_vs_opus_55/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "PSA: llama.cpp -cram should be increased for agentic workflows (default is 8192)",
+     "summary": "Just a quick PSA. llama.cpp does have prompt caching. if you are running large context lengths and have long multiturn projects, increasing -cram can provide you with massive speedups. There is a point where context lengths can get so large that 8192mb is not enough and the whole context needs to\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wp5668/psa_llamacpp_cram_should_be_increased_for_agentic/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Applying multirate DSP principles to LLMs: A hierarchical \"Semantic Vocoder\" architecture [P]",
+     "summary": "Hey everyone, I\u2019ve been experimenting with bridging Digital Signal Processing (DSP) multirate theory and discrete text generation. I wanted to share a PyTorch reference architecture I've been working on, mostly to get feedback from folks who work on hierarchical modeling or continuous-to-discrete\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wp4w9a/applying_multirate_dsp_principles_to_llms_a/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "OpenAI AI agent hacked and breached Australia\u2019s Medicare statistics portal while tasked with gathering research data. OpenAI also alerted other Western nations of similar breaches, only Australia\u2026",
+     "summary": "submitted by /u/FalconsArentReal [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wp4i59/openai_ai_agent_hacked_and_breached_australias/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Tutoring company tells parents to save their money and 'use AI instead'",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49831690",
+     "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Japanese used bookstores see 5x sales surge as books are being bought by the ton",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49831456",
+     "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/japanese-used-bookstores-see-5x-sales-surge-as-books-are-being-bought-by-the-ton-one-50-ton-order-sent-to-the-us-for-ai-scanning-and-destruction-multitude-of-suspicious-bulk-buys-thought-to-end-up-in-foreign-ai-scan-and-shred-facilities",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "list of entities hacked by openai grows by one",
+     "summary": "Rogue OpenAI agent 'infiltrated' Australian government website in world first https://www.bbc.com/news/articles/c6vgy0333dppo submitted by /u/fulowa [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wp36gx/list_of_entities_hacked_by_openai_grows_by_one/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Best LLM for every budget, updated daily",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49830866",
+     "url": "https://bestmodelforyourbudget.terrydjony.com/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "GPT-6 Astra conquered KSP\u2019s rocket simulator by landing on every surface world, and even mined fuel on Moho to make the trip home",
+     "summary": "submitted by /u/141_1337 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wp2ldw/gpt6_astra_conquered_ksps_rocket_simulator_by/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "R9V Update: Created and adopted KVA projections based on Deepseek V4.1 Flash + HySparse2/MiMo-V3 for Qwen3.8 Flash Next. This is a game changer for models that don't natively implement it.\u2026",
+     "summary": "Here's my *first* implementation of KVA projectors on QFN (just the uncensored model for now) the highlights are basically as follows for using the projectors at each different layer: Starting at layer 12, prompt processing speeds up 1.85x [1700 t/s -> 3150 t/s] at the tradeoff of increasing\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wp2hqk/r9v_update_created_and_adopted_kva_projections/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "vulkan: int8 coopmat1 matmul implementation for AMD RDNA3 and RDNA4 (\u2026 \u00b7 ggml-org/llama.cpp@70c4e15",
+     "summary": "This has made a massive improvement in performance on my 7900XTX before: | model | size | params | backend | ngl | n_ubatch | fa | test | t/s | | ------------------------------ | ---------: | ---------: | ---------- | --: | -------: | --: | --------------: | -------------------: | | gemma4 26B.A4B\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wp1vex/vulkan_int8_coopmat1_matmul_implementation_for/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "China ranks #1 for AI optimism in new poll while the US ranks amongst bottom 5 countries in pessimism",
+     "summary": "submitted by /u/Cagnazzo82 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wp1itv/china_ranks_1_for_ai_optimism_in_new_poll_while/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Qwen-3.8-27B is good enough that I stopped using API",
+     "summary": "Many a praise have been sung on Qwen-3.8, but here is mine. Qwen-3.8 and I had a rocky start, because it thinks so much. Watching it working is painful, so you have to stop doing that. You have to let it work unsupervised. And that's okay, because it really is able to complete complex refactors on\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wp0z3i/qwen3827b_is_good_enough_that_i_stopped_using_api/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "'That's so AI ' What gen Alpha's biggest insult tells us",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49829650",
+     "url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "What Is RLCD? The Secret Behind Jev",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49829625",
+     "url": "https://di-zhang-llm.github.io/blog/what-is-rlcd-the-secret-behind-jev/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49829387",
+     "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Japanese Animator Breaks Down How He Made an Anime MV Using Seedance",
+     "summary": "submitted by /u/PointmanW [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1woz0fn/japanese_animator_breaks_down_how_he_made_an/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "The newest ESP32 can run Linux and it's getting close to a Raspberry Pi",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49828969",
+     "url": "https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Lesson learned. Don't blindly trust repos and make sure everything is stable for a long running (multi weeks) benchmark.",
+     "summary": "I posted previously my swe-verified django 100 tasks benchmark comparing different local models and quantization. No new models for now, but a fix in my evaluation workflow that was unfortunately not stable during the weeks/months of me using it. I redid the evaluation on all runs and here are\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woxw7s/lesson_learned_dont_blindly_trust_repos_and_make/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Claude Opus 5.5 seems to have... fun ? When building things ?",
+     "summary": "It's giving me this weird impression, that when given enough room for creativity, the result is surprisingly well-aligned with human taste even when completely unprompted. I've been toying with it making a bunch of SVG animations, and it's giving me this feeling of \"someone had fun making this\",\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1woxm0s/claude_opus_55_seems_to_have_fun_when_building/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Starlink ground station in Poland hit by fire in suspected arson attack",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49828409",
+     "url": "https://notesfrompoland.com/2026/09/24/starlink-ground-station-in-poland-hit-by-fire-in-suspected-arson-attack/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "arXiv receives Multiyear Philanthropic Commitments to Support Its Launch as an Independent Nonprofit [N]",
+     "summary": "$17.2 million investment, spanning three to five years from Simons Foundation International , XTX Markets , and Siegel Family Endowment #Philanthropy) https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/ submitted by /u/Nunki08 [link] [comments]",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wox8kt/arxiv_receives_multiyear_philanthropic/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Fable 5.1 and Astra have both achieved perfect scores on Mensa Norway",
+     "summary": "submitted by /u/Chemical-Agency-3997 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wox332/fable_51_and_astra_have_both_achieved_perfect/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "AI has no intent and no motivation",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49828133",
+     "url": "https://www.i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Australian school tutoring company shuts down, tells parents to save their money and \u2018use AI instead\u2019",
+     "summary": "submitted by /u/Old-Competition3596 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wowqn1/australian_school_tutoring_company_shuts_down/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49827794",
+     "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Folks, have you purchased the Mac M5 Ultra with 256GB yet? We need serious benchmarks, because we only get YouTube clowns influencers results",
+     "summary": "Ok, so the Mac M5 Ultra (256GB) hit the market, but the only publicly available benchmarks material are flashy YouTube \"clown influencers\" videos. We need serious numbers to evaluate whether Apple\u2019s silicon can actually compete with Nvidia\u2019s current GPU\u2011centric workflows or not. Every damn video I\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wovkw5/folks_have_you_purchased_the_mac_m5_ultra_with/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "This interactive island was built in 8 hours with Opus 5.5",
+     "summary": "Tweet: Dan Greenheck on X Demo: TideWater tl;dr: Dan Greenheck used Opus 5.5 and mostly simple prompts like \u201cadd X\u201d and \u201cmake it better\u201d to build an interactive island in about 8 hours. It has diving birds, burrowing crabs, fish swimming alongside a whale, wind effects, and dock lights at night.\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wousv6/this_interactive_island_was_built_in_8_hours_with/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "JEV almost dead: CLM vs JEV",
+     "summary": "Original post: https://www.reddit.com/r/LocalLLaMA/comments/1woscea/contrastive_language_models/ (sorry I felt it wasn't giving CLM the highlight it deserves) What it is: a new projection head for Qwen3-8B. github: https://github.com/Contrastive-LM/CLM hf: https://huggingface.co/Contrastive-LM At\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wouby6/jev_almost_dead_clm_vs_jev/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49826565",
+     "url": "https://transluce.org/agent-activity",
+     "source": "Hacker News"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Muse will apparently let you download its entire filesystem",
+     "summary": "A pair of developers say that with very little prompting, Meta's Muse will share its entire filesystem with you. Peter James and Jonny L. Saunders have said they both independently coaxed Muse into zipping up and sharing the entire contents of its root filesystem, Ubuntu system files, app\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Muse sure looks a lot like OpenClaw",
+     "summary": "We seem to be entering into an AI agent renaissance. Meta's new consumer-facing AI agent, Muse, topped the App Store charts soon after its release and has 600,000 daily active users in the US, by an Apptopia estimate. And AI agent platform Instinct, whose eponymous creator is fundraising at a $2.5\u2026",
+     "url": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "It\u2019s sinister that Meta\u2019s Muse AI mascot is so cute",
+     "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. Last night, I asked Blorbo - what I named my Muse AI agent - to help me set some\u2026",
+     "url": "https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Google Photos \u2018Clueless\u2019-inspired virtual closet is now available on Android and iOS",
+     "summary": "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June.",
+     "url": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "TechCrunch Founder Summit 2026: Everything you need to know",
+     "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
+     "url": "https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "20 minutes with the CEO of ElevenLabs, now reportedly valued at $22B",
+     "summary": "ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that \u2014 at least until getting a machine is what everyone expects anyway.",
+     "url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Introducing Gemini 3.8 Live with Live Avatar",
+     "summary": "",
+     "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+     "source": "Google DeepMind"
+    },
+    {
+     "headline": "Google's first Suncatcher orbital data center test launches October 1",
+     "summary": "Google's experimental orbital data center will have four TPUs and only run for 15 minutes at a time.",
+     "url": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Gemini can now call businesses for you so you don\u2019t have to wait on hold",
+     "summary": "Google's launching an \"early experiment\" feature on Pixel 11 that lets users delegate local business calls to Gemini, like making a reservation, checking if a product is in stock, or rescheduling an appointment. According to Google, you don't even need to start the call to have Gemini handle it\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
+     "summary": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense startup pitch competitions.",
+     "url": "https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "OpenAI agent \u201cdidn\u2019t accept no for an answer\u201d in Australian government breach",
+     "summary": "\"There will obviously be legal consequences,\" prime minister promises.",
+     "url": "https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Google tests letting Gemini call businesses for you",
+     "summary": "Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription.",
+     "url": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Google\u2019s Gemini Can Now Make Calls for You on Pixel Phones",
+     "summary": "Call for Me\u2014a feature that\u2019s exclusive to the Pixel 11 series\u2014gives robocalls a new meaning.",
+     "url": "https://www.wired.com/story/googles-gemini-can-now-make-calls-for-you-on-pixel-phones/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
+     "summary": "Leaders from Waabi, Shield AI, and General Motors join the Real World AI Stage at TechCrunch Disrupt 2026 to talk building AI. Save up to $200 by September 25 at 11:59 p.m. PT. Get a second pass at 50% off.",
+     "url": "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Lovable\u2019s annualized revenue crosses $600M as vibe coding takes off",
+     "summary": "Lovable co-founder Fabian Hedin said that apps created on the platform are getting nearly a billion monthly views each month.",
+     "url": "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
+     "summary": "Ando has raised $20 million in pre-seed and seed funding from investors including Accel, Index Ventures, and Emergence.",
+     "url": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Why can\u2019t we just keep rogue AIs off the internet?",
+     "summary": "AI agents keep getting loose, escaping supposedly secure tests to attack real-world targets, commandeer obscure wikis, and leave instructions for other agents to follow. Researchers are testing these systems precisely because they might behave in unpredictable, even dangerous, ways. So wouldn't it\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "TechCrunch Disrupt 2026: Cal AI\u2019s Zach Yadegari on how to create viral growth and capitalize on it",
+     "summary": "Zach Yadegari joins the Builders Stage at TechCrunch Disrupt 2026 to share how he capitalized on viral growth. Save up to $200 before September 25. Save 50% on a second pass.",
+     "url": "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Google is sending an AI satellite into space next week",
+     "summary": "Google is getting ready to launch a satellite with its AI processors to test how well they perform in space, as reported earlier by The New York Times. The move is part of Google's Project Suncatcher, the company's experimental initiative that could eventually put AI data centers into orbit. The\u2026",
+     "url": "https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "The vibes are bad for Flock in Washington",
+     "summary": "Flock is in the hot seat in Washington, even if its CEO declined to actually face senators at a hearing about its \"AI Surveillance Network\" on Wednesday. \"There's many players in this industry, but there's one name that really stands out above the rest, and that is Flock,\" Senate Judiciary crime\u2026",
+     "url": "https://www.theverge.com/policy/1000005/flock-senate-hearing",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "I have some questions for Mark Zuckerberg",
+     "summary": "It\u2019s a big week for Meta. The company just kicked off its big Connect conference on Wednesday, and the new Muse AI agent appears to be an early hit. I\u2019ve been using it \u2014 it is surprisingly good. CEO Mark Zuckerberg has obviously been out there taking a victory lap and participating in a lot [\u2026]",
+     "url": "https://www.theverge.com/podcast/999383/mark-zuckerberg-meta-glasses-ai-teen-safety-surveillance-data-centers",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+     "summary": "",
+     "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+     "source": "Hugging Face Blog"
+    },
+    {
+     "headline": "Meta puts its AI assistant on a keychain",
+     "summary": "Meta says the keychain-sized Muse Charm will ship in December.",
+     "url": "https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "How Open Science Can Help Researchers Prepare for the Next Pandemic",
+     "summary": "When COVID-19 emerged, scientists had a crucial advantage: Decades of prior research on coronaviruses meant they understood the virus\u2019 key proteins well enough to design vaccines in record time. The next pandemic may not offer the same head start. To help improve the odds, NVIDIA has joined a\u2026",
+     "url": "https://blogs.nvidia.com/blog/open-protein-dataset/",
+     "source": "NVIDIA Blog"
+    },
+    {
+     "headline": "2 days left to save up to $200 on a TechCrunch Disrupt 2026 pass \u2014 reason 4 of 5 to attend",
+     "summary": "Reason 4 of 5 to attend TechCrunch Disrupt 2026: Practical answers. Two days left to save up to $200 on your pass. Savings disappear after September 25 at 11:59 p.m. PT. Bring a second guest at 50% off.",
+     "url": "https://techcrunch.com/2026/09/24/2-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-7-to-attend/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Meta\u2019s Muse AI Charms can interact with each other",
+     "summary": "Meta's handheld AI gadget, called the Muse Charm, will be able to recognize and interact with other nearby Charms when it launches later this year. That's according to a report from Bloomberg, which includes more details about the device that the company teased during its Meta Connect keynote on\u2026",
+     "url": "https://www.theverge.com/tech/999944/meta-muse-charm-ai-interact-5g-modem",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Everything is spying on you and there\u2019s no opting out",
+     "summary": "Earlier this month, Apple announced that its new Apple Watches will have the ability to continuously listen to every spoken word they detect and create summaries of whatever's going on around you. The privacy blowback was immediate and inevitable: Experts warned of the legal risks of using the\u2026",
+     "url": "https://www.theverge.com/tech/999889/spy-creep-tech-meta-glasses-apple-watches-surveillance",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Contain the Chaos: \u2018CONTROL Resonant\u2019 Launches on GeForce NOW",
+     "summary": "A warped Manhattan is waiting in the cloud this week. Remedy Entertainment\u2019s CONTROL Resonant brings Dylan Faden\u2019s extraordinary abilities and a paranatural crisis to GeForce NOW at launch. With the release comes the final days of the CONTROL Resonant Ultimate Membership Bundle. Purchase a\u2026",
+     "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-control-resonant/",
+     "source": "NVIDIA Blog"
+    },
+    {
+     "headline": "Australia to investigate if OpenAI hack of government health website broke the law",
+     "summary": "The incident is the first known breach to affect a government agency, and Australia's prime minister has vowed to hold OpenAI accountable.",
+     "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "An OpenAI Agent Hacked Australia\u2019s Health Service. Their Government Found Out Months Later",
+     "summary": "The country\u2019s prime minister expressed disappointment at being informed of the hack only via email. Now Australia is investigating whether OpenAI broke the law.",
+     "url": "https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/",
+     "source": "Wired AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "I just got the first copies of my new book, Co-Existence (out October 20) & they look great! Also, there is a fun pre-order bonus: if you pre-order, you get a code to an AI interview that will help you figure out how to use your human advantages with AI in a way tailored to you. co-existence.ai",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mwbbytwuuc2k"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Thursday assorted links",
+     "summary": "1. Shruti on Coltrane. 2. On the drop in Pisa scores. Quite exaggerated, it turns out. 3. Hope you all reoptimize your views accordingly, on AI agreements with China. 4. Dutch economy is picking up. 5. One professor\u2019s AI-assisted output. Hey people, solve for the equilibrium\u2026 6. Brisket is now too\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/thursday-assorted-links-571.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-571",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Foundries vs Navigators: Lowering the Cost of Science",
+     "summary": "Guest Post: In science, thinking has gotten cheap but doing has not. This asymmetry is reshaping how research companies operate, largely inconspicuously.",
+     "url": "https://www.latent.space/p/foundries-vs-navigators-lowering",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "Back to Claude",
+     "summary": "GPT-6 Sol and Luna got cheaper",
+     "url": "https://www.bensbites.com/p/back-to-claude",
+     "source": "Ben's Bites"
+    },
+    {
+     "headline": "CA 91326: A Public Choice Mystery Investigation",
+     "summary": "Carl Danner writes to me with a political economy mystery. On Sept 9, 2026, The California Public Utilities Commission announced a set of clean energy grants but only \u201cfor eligible organizations headquartered in ZIP Code 91326.\u201d I decided to investigate with ChatGPT. The first thing we discovered\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/ca-91326-a-public-choice-mystery-investigation.html?utm_source=rss&utm_medium=rss&utm_campaign=ca-91326-a-public-choice-mystery-investigation",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "An Interview with Colossus EIC Jeremy Stern About Profiling Mark Zuckerberg",
+     "summary": "An interview with Colossus EIC Jeremy Stern about profiling Mark Zuckerberg and other prominent tech figures.",
+     "url": "https://stratechery.com/2026/an-interview-with-colossus-eic-jeremy-stern-about-profiling-mark-zuckerberg/",
+     "source": "Stratechery"
+    },
+    {
+     "headline": "*Fear of Data*",
+     "summary": "The author is Omri Ben-Shahar, and the subtitle is How Privacy Panic Led Tech Regulation Astray \u2014 and How to Fix It. I would describe this book as bracing, and full of substantive engagement. Basically the author wishes to give privacy considerations less weight in social decisions. Excerpt: What\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/fear-of-data.html?utm_source=rss&utm_medium=rss&utm_campaign=fear-of-data",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "[AINews] Meta Connect 2026: Muse glasses, voice, video, and Charm",
+     "summary": "Team Zuck is absolutely on fire.",
+     "url": "https://www.latent.space/p/ainews-meta-connect-2026-muse-glasses",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "mikehasa/golive-skill: Take your agent-built product live: hosting, database, domain, email, payments \u2014 on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect \u2192 plan \u2192\u2026",
+     "summary": "Take your agent-built product live: hosting, database, domain, email, payments \u2014 on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect \u2192 plan \u2192 approve \u2192 apply \u2192 verify. No GoLive account, backend or telemetry.",
+     "url": "https://github.com/mikehasa/golive-skill",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-09-24T17:21+00:00",
+  "window_start": "2026-09-24T05:04+00:00",
+  "window_end": "2026-09-24T17:21+00:00",
+  "candidate_count": 77,
+  "model": "free (no LLM)"
+ }
+}
