@@ -1,0 +1,280 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Qwen3.8-Flash-Next, on 5090+64gb, with Llama.cpp - Seems to not use ram?",
+   "summary": "I was actually pretty happy with my Qwen3.8-27b setup, and I'd been tinkering with Ninfer to have a version that was \"fast but maybe a bit stupid\" and the speed was nice to have as a backup. But I was curious how the Flash-Next version might work, after I learned it didn't need to all fit in VRAM\u2026",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpe83z/qwen38flashnext_on_509064gb_with_llamacpp_seems/",
+   "source": "r/LocalLLaMA"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Qwen3.8-Flash-Next, on 5090+64gb, with Llama.cpp - Seems to not use ram?",
+     "summary": "I was actually pretty happy with my Qwen3.8-27b setup, and I'd been tinkering with Ninfer to have a version that was \"fast but maybe a bit stupid\" and the speed was nice to have as a backup. But I was curious how the Flash-Next version might work, after I learned it didn't need to all fit in VRAM\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpe83z/qwen38flashnext_on_509064gb_with_llamacpp_seems/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "How did they do it?",
+     "summary": "submitted by /u/DynaBeast [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wpe2o2/how_did_they_do_it/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Better alternatives to PocketPal for Local on Android?",
+     "summary": "I've been using PocketPal for Android, but I've always been plagued by stability issues (even when models aren't loaded - It's not a RAM utilization thing). I have seen this come up a few times in various places, but PocketPal usually gets the recommendation. Does anyone have any alternatives?\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpe2cm/better_alternatives_to_pocketpal_for_local_on/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "launcher concept",
+     "summary": "https://preview.redd.it/qtxwmv0j6jrh1.png?width=1312&format=png&auto=webp&s=d285e2ec1fc2b47db16d378f86d2d85500f8640b Maybe someone will find some useful concept here. submitted by /u/k0setes [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpdl4l/launcher_concept/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Qwen 3.8 27b be like...",
+     "summary": "The user is frustrated \u2014 I rambled too much and didn't act. Let's just run the test suite and move on. No more forensics. One command, execute, then report. (Original memo is a casual internal monologue in English. Translating faithfully while preserving the informal, stream-of-consciousness\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpdho8/qwen_38_27b_be_like/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I had Opus 5.5 (Extra) build a Mandelbrot explorer + Conways Game of Life that dives to 10^300 in the browser, and it's one HTML file [2-min demo]",
+     "summary": "The 2-minute demo is attached. It starts at the whole set, dives to 10^300 on a spiral, zooms in on various fractals, then turns the fractal into Conway's Game of Life. How it came together It started with research, not code. I dug through how the best open-source deep-zoom explorers solve the\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wpdakj/i_had_opus_55_extra_build_a_mandelbrot_explorer/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Dailychained PLX 88096 switches, Quad RTX 5070 Ti + Quad RTX 5060 Ti",
+     "summary": "Left: Quad RTX 5060 Ti, Middle: Quad RTX 5070 Ti, both PLX 88096 switch, Right = rehomed host Edit: Benchmarsk were 1 line = fixed WHY: -->> DATA SOVEREIGNITY / PRIVACY<<-- hey, this is (localllama right?), this makes no less sense than my dropping the same $$$ on a motorbike I want but don't need\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpczeb/dailychained_plx_88096_switches_quad_rtx_5070_ti/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I'm new and it's kinda overwhelming to get into",
+     "summary": "Hi, sorry if this doesn't belong here. Getting to the point basically, I've been using online-only AI like GPT/Gemini since 2022, and have been interested in local models but am clueless overall. Yes I'm extremely late. I only use laptop (I'm a student), and I currently own: Acer swift 5\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpcfpe/im_new_and_its_kinda_overwhelming_to_get_into/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I asked GPT-6 Astra for a video about \"time\". It made the whole thing in javascript, from the big bang to itself writing the code for this video",
+     "summary": "Astra wrote p5.js code (with the p5.brush library for the painted look), and every frame was rendered in 4K from JavaScript. The arc goes big bang \u2192 Earth \u2192 first cells \u2192 dinosaurs \u2192 apes \u2192 fire \u2192 farming \u2192 industry \u2192 cities \u2192 screens \u2192 Astra writing this code \u2192 back to a single dot. Since it's\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wpbrxa/i_asked_gpt6_astra_for_a_video_about_time_it_made/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Meta Muse appears to be excited to give away its system data",
+     "summary": "submitted by /u/sn2006gy [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpbeb7/meta_muse_appears_to_be_excited_to_give_away_its/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "OpenAI still leads in the benchmarks that matter",
+     "summary": "submitted by /u/NOTHING_gets_by_me [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wpb9g5/openai_still_leads_in_the_benchmarks_that_matter/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "AI is now being benchmarked on whether it can actually do laboratory science, not just answer questions: run experiments, handle equipment, read instruments, and recover from failures",
+     "summary": "submitted by /u/141_1337 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wpaxw1/ai_is_now_being_benchmarked_on_whether_it_can/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "FreedomIntelligence/HuatuoGPT-3-27B \u00b7 Hugging Face",
+     "summary": "from FreedomIntelligence: HuatuoGPT-3-27B is a medical LLM built on Qwen3.8-27B with One-stage Policy Optimization (OnePO) . OnePO adapts language models to medicine in a single reinforcement-learning stage, without preceding domain-specific supervised fine-tuning. Teacher responses provide\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpaxud/freedomintelligencehuatuogpt327b_hugging_face/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49835531",
+     "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Tibo went Ghost/Hiding after Opus 5.5",
+     "summary": "Tibo spent months bragging and trying stunt on Google and Anthropic \"Anthropic has compute problems. Claude users hit limits. OpenAI has the infrastructure. Codex limits get reset. OpenAI can actually serve the intelligence it builds.\" Then Opus 5.5 dropped. Now Opus 5.5 is crushing both 5.6 Sol\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wpap70/tibo_went_ghosthiding_after_opus_55/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "NeurIPS Main Track Decision Emails are Sent [D]",
+     "summary": "Valid Main Track submissions: 30709, Accepted: 7900, Oral: 112, Spotlight: 292 !! submitted by /u/Invariant_n_Cauchy [link] [comments]",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wpagoe/neurips_main_track_decision_emails_are_sent_d/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "NeurIPS reject final justification [R]",
+     "summary": "Do all the rejected or accepted papers get a \"Final Justification\" comment from the PC? Mine got rejected with ratings 4-4-4 yet the meta review is the exact same as the one that was posted originally in July and I didn't get any final comment. I find it a bit harsh especially since in the\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wpa4gp/neurips_reject_final_justification_r/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Elon Musk: xAI Will Keep Accelerating And Will Surpass Anthropic And OpenAI Within 6 Months",
+     "summary": "We will keep accelerating. Our AI efforts are only 3 years old, vs 6 and 10 years old for Anthropic and OpenAI. If our second derivative remains strong, SpaceX will reach pole position in about 6 months. Once you far exceed the caliber of intelligence needed for a class of tasks, additional\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wp9xji/elon_musk_xai_will_keep_accelerating_and_will/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Creatine uptake enhances antitumor immunity",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49834825",
+     "url": "https://www.cell.com/iscience/fulltext/S2589-0042(26)00811-4",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "I'm a 5+ year experienced Data scientist willing to explain my real life projects on video call to someone willing to learn so that it can help with my Interview preparation [D]",
+     "summary": "Hello people. I have over 5 years of experience working as a Data scientist. I have worked in Fintech, Retail, Healthcare etc and I recently lost my job. As part of my preparation for interviews, I wanna explain these projects to someone who wants to learn/use them in their own resume. We can\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wp925j/im_a_5_year_experienced_data_scientist_willing_to/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "An absolute banger of song!!",
+     "summary": "submitted by /u/Any_Effort8437 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wp8w1v/an_absolute_banger_of_song/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Publication venue recommendations [R]",
+     "summary": "I am 5th year and have no published research so far. All my papers have been consistently rejected from top tier AI conferences even though they got good review scores in the process. Since graduating is my priority now, I am in search of decent venues (journal or conference does not matter at\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wp8ung/publication_venue_recommendations_r/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "If you don't have the factories, you lose the expertise",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49834354",
+     "url": "https://lemire.me/blog/2026/09/24/if-you-dont-have-the-factories-you-lose-the-expertise/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Good news: Google's AI exhibits self-control, stops unauthorised hack into three companies",
+     "summary": "submitted by /u/immodium4breakfast [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wp8dor/good_news_googles_ai_exhibits_selfcontrol_stops/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Opus 5.5 just surpassed the professional human baseline on a benchmark testing whether AI can write complete scripts with the right voice, substance, pacing, hooks and minimal AI slop",
+     "summary": "submitted by /u/141_1337 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wp87yk/opus_55_just_surpassed_the_professional_human/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Epyc for inference",
+     "summary": "Hi. My current system is an Intel Ultra 7 with 64Gb DDR5 at 6000. It has 4 GPUs totalling 72Gb: A 3090 and 5070 Ti on x8 CPU connected PCIe slots plus two 5060 Ti - one on an x4 CPU connected m.2 socket, and the other on an x4 chipset connected PCIe slot. I am considering upgrading to an Epyc 7443\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wp85tu/epyc_for_inference/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Qwen3.8-Flash-Next on 12GB VRAM - 65 tokens per second",
+     "summary": "A while ago I posted 15 tok/s output and 100-120 tok/s prompt processing with the IQ3_XXS quant on a 12GB RTX 5070 using llama.cpp. Since then I built my own inference engine for this one model and this kind of PC. The same IQ3_XXS now runs at ~65 tok/s output and ~430 tok/s prompt processing ,\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wp7zyb/qwen38flashnext_on_12gb_vram_65_tokens_per_second/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Gemini 3.8 Live with Live Avatar gives Google\u2019s AI a face",
+     "summary": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial expressions during conversations, but it's currently only available to Gemini Enterprise customers.\u2026",
+     "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "I Think I Found an AI Agent Worth the Risk",
+     "summary": "Instinct saved me $550, booked my restaurant reservations, and warned me about a phishing scam. It also wasted $64 and might be a security nightmare.",
+     "url": "https://www.wired.com/story/i-finally-found-an-ai-agent-worth-the-risk/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+     "summary": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
+     "url": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+     "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
+     "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "New Jersey fines data center $1.1M after drone pics expose 62 gas generators",
+     "summary": "Million-dollar fines won\u2019t end billionaires\u2019 data center pollution, neighbors fear.",
+     "url": "https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Oracle sends force majeure notice on its New Mexico Stargate data center",
+     "summary": "The notice would allow Oracle to delay payments should the facility miss its 2028 target to come online.",
+     "url": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Jensen Huang talks about AI and climate change like a supervillain",
+     "summary": "As Jensen Huang puts it, AI can help fight climate change - but only if it inflicts \"an enormous amount of pain and suffering\" first. The Nvidia CEO discussed the future of energy and AI's impact on our planet in the latest episode of The Ezra Klein Show. But his comments boil down to the [\u2026]",
+     "url": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Meta is going to let you build games with AI right on your phone",
+     "summary": "Meta has a new plan to get people to make games for its Horizon social platform. The company today announced two new development tools that will let you create games with AI prompts: Horizon Create, a mobile app, and Horizon Studio, a browser app that offers more granular controls. The apps will\u2026",
+     "url": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Meta\u2019s Muse Charm looks like a Tamagotchi, but it\u2019s tapping into a much newer trend",
+     "summary": "Meta\u2019s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories.",
+     "url": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
+     "source": "TechCrunch AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "The cybersecurity threat from agents is increasingly more likely to come from a massed swarm of AIs whose only goal is to penetrate your system to figure out how much you paid for your company t-shirts as part of a research effort to \"find good t-shirt prices\" as it is from bad actor attacks.",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mwc2fyzarc2o"
+    },
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "I propose this as the official replacement for the famous (and now saturated) METR Long Task Horizon chart that used to be in every AI presentation.",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mwbsy7mgfk2i"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "commit-rewriter 0.2",
+     "summary": "Release: commit-rewriter 0.2 Support for branches other than the default branch. Use uvx commit-rewriter --branch other to run against another branch. #3 Tags: git",
+     "url": "https://simonwillison.net/2026/Sep/24/commit-rewriter/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "datasette 1.0a41",
+     "summary": "Release: datasette 1.0a41 Alec Garcia added support for OpenTelemetry to Datasette in this release. I've also refactored all of Datasette's modal dialogs to a single Web Component, which is now documented for other plugins to use . Tags: javascript , datasette , web-components , alex-garcia ,\u2026",
+     "url": "https://simonwillison.net/2026/Sep/24/datasette/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "Earth fact of the day",
+     "summary": "An average of 72 percent of respondents said they felt curious, happy or excited about A.I., compared with 41 percent who felt worried, sad or angry.\u2019@nytimes\u2018s Damien Cave uses @Gallup data to remind us the rest of the world digs AI. It is 93 percent positive from China. That is from Nick\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/earth-fact-of-the-day-2.html?utm_source=rss&utm_medium=rss&utm_campaign=earth-fact-of-the-day-2",
+     "source": "Marginal Revolution"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-09-24T21:37+00:00",
+  "window_start": "2026-09-24T17:21+00:00",
+  "window_end": "2026-09-24T21:37+00:00",
+  "candidate_count": 41,
+  "model": "free (no LLM)"
+ }
+}
