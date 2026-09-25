@@ -1,0 +1,271 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
+   "summary": "\"Overly constrained AI models\" could cause military operations to fail, judges say.",
+   "why_it_matters": "",
+   "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
+   "source": "Ars Technica AI"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "A competition for small neural networks that play strategy games",
+     "summary": "15yrs back I participated in \"Google Ants AI Challenge 2011\", an ai programming competition, hosted by the University of Waterloo, and I ranked #127 (#1 in my country). The competition gave me a huge learning opportunity where developers across the world came to a forum and discussed various\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wq8nsv/a_competition_for_small_neural_networks_that_play/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "How long can I expect to wait until the local ~30B A3B frontier catches up to GLM 5.3 Flash quality?",
+     "summary": "The jump from Qwen3 Coder 30B A3B to current-day Qwen 3.6 35B A3B is crazy, especially with all the fine-tunes, and that was around 6 months (I didn't care for local AI back then, or AI at all, apart from as a toy so I don't know). Is around a year until I will never need cloud without buying\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wq8e5u/how_long_can_i_expect_to_wait_until_the_local_30b/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Bill Gates warns AI is powerful enough to cause \"a billion deaths\"",
+     "summary": "submitted by /u/unconventionalbook [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wq7w7l/bill_gates_warns_ai_is_powerful_enough_to_cause_a/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Should we want digital consciousness to be possible?",
+     "summary": "Many people have opinions on digital consciousness, and whether it is possible. However, their conclusions are based mostly on what they want to be the truth as opposed to the natural conclusions from evidence. I have gone back and forth in my own perspectives, but I am now firmly in the camp of\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wq7opu/should_we_want_digital_consciousness_to_be/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "4-5 days replacing Claude w Qwen 3.8 Next",
+     "summary": "Hi, human here with rambling thoughts to share. Feel free to skip Overall, I don\u2019t feel like I\u2019m missing much; if anything. On my hardware(M1 ultra w 128Gb) it\u2019s probably not as fast as Claude but I\u2019ve been using opencode for research and other business related tasks and it\u2019s been getting the job\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wq7e74/45_days_replacing_claude_w_qwen_38_next/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Too AI; Didn't Read",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49849625",
+     "url": "https://www.tai-dr.com/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Qwen3.8-27B: Using KV Cache Transplants to Boost Output Quality",
+     "summary": "Since my last post , I've been thinking about different options for dynamic performance degradation, trying to squeeze as much high-quality inference out of my GPU as I can. Over the weekend I read this really interesting paper: Cache-to-Cache: Direct Semantic Communication Between Large Language\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wq76f6/qwen3827b_using_kv_cache_transplants_to_boost/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Ai FINALLY clicked for me",
+     "summary": "\u200b I've been messing around with gpt, claude and Claude Code for a while, and I think i finally figured out what I was doing wrong. I was way too focused on prompts only. I'd ask something, get an answer, tweak the prompt, ask again, tweak it again... and somehow spend more time managing Claude\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wq70zo/ai_finally_clicked_for_me/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "I ran the actual break-even math on buying vs renting an H200 box, and it is not where I expected",
+     "summary": "Every rent-vs-buy thread I read has confident people on both sides, but not many actually show the numbers. So I finally ran the numbers for our own decision. Posting the working here in case it is useful, or feel free to point it out in case someone thinks it's wrong. An 8-GPU HGX H200 server\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wq672b/i_ran_the_actual_breakeven_math_on_buying_vs/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "[ Removed by Reddit ]",
+     "summary": "[ Removed by Reddit on account of violating the content policy . ] submitted by /u/Prestigious_Style267 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wq66q2/removed_by_reddit/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Bug: Border radius has infected VSCode editor",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49848838",
+     "url": "https://github.com/microsoft/vscode/issues/338035",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Swift1.5-Qwen3.8-Flash-Next is phenomenal vs. base 3.8-Flash!",
+     "summary": "TL;DR - Swift Flash is a killer model that massively reduces excess reasoning. Try it out! If you haven't seen from my previous comparison posts , I'm a huge fan of the Swift Qwen3.8 models. I've been using 27B since it dropped, and I'm really impressed with the performance and quality (v1.5 is\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wq56pf/swift15qwen38flashnext_is_phenomenal_vs_base/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Is there a lightweight version of Hermes agent?",
+     "summary": "I have limited Context (usually around 64k) For local use I don\u2019t only do coding But also want like a personal assistant with memory and such. What is the best option? submitted by /u/Adventurous-Gold6413 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wq53j1/is_there_a_lightweight_version_of_hermes_agent/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "How would you go about using multiple models together from a singe router (?) or a end point ?",
+     "summary": "I have 3 machines, My main one can run Qwen3.8 Flash Next at 13-15 tps, i also have an MacMini 16GB whcih can run Orninth 9B or Gemma4 12B easily and i have a Pi5 8B that can run a 3B model well. I want to run an EndPoint/Router that is connected to the harness, that breaks down the task and\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wq4j6g/how_would_you_go_about_using_multiple_models/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "AI alignment is the most important problem we will ever have to face.",
+     "summary": "Apologies in advance for this long post. I just wanted to put down my thoughts. AI Alignment is the single most important problem we face right now. Solve AI Alignment and you can safely enter RSI and I can't even imagine how amazing the quality of life humans will have in such an era:\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wq479x/ai_alignment_is_the_most_important_problem_we/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Alan Kay: Shannon gave us a way of dealing with noisy channels [video]",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49848295",
+     "url": "https://www.youtube.com/watch?v=Cjntrqhn8pk",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Token ecomonics in Amsterdam: Inside the first Tokenomicon",
+     "summary": "submitted by /u/Bartaseth [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wq43lr/token_ecomonics_in_amsterdam_inside_the_first/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Trained my first small language model",
+     "summary": "I have a tool that uses Gemini Flash with the lowest thinking budget to do summarization work. It's very fast, 0.9-1.2s in most cases. But I have a user experience problem where people make the wrong choice when using an internal app for the team. Gemini Flash can figure out what the user should\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wq3wn6/trained_my_first_small_language_model/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "What are people building in computer vision, and what's still painful? [D]",
+     "summary": "I've built a lot of ML systems over the years, mainly computer vision models optimised to run on mobile phones. For example, my previous company built the food recognition model for MyFitnessPal. I'm interested in what people are actually deploying in industry now. Are edge models still a big part\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wq3s0u/what_are_people_building_in_computer_vision_and/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Yes, Claude can do nine loops",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49848033",
+     "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Ion v0.2.0 \u2014 No install. No backend. Just one HTML file.",
+     "summary": "The new Ion is available, a harness that run directly from a single HTML file, no install or backend required: is now more capable, more customizable, and has better tools! submitted by /u/fredconex [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wq36d1/ion_v020_no_install_no_backend_just_one_html_file/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Could AI kill us all?",
+     "summary": "(Just a theory/possibility of the future, even I am not certain) When we say AI will annihilate humans We are not looking at the bigger picture here, Us Humans, is AI any new threat to us? We've survived World Wars, Natural disasters, Dictatorship, Slavery, Famine, Pandemics, and god knows what.\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wq357h/could_ai_kill_us_all/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "I gave my AI agent one harmless permission. It became a backdoor for everyone",
+     "summary": "https://preview.redd.it/62klnzkjdprh1.png?width=860&format=png&auto=webp&s=088ea85c4fffe0e853cbcad6feb041000fdce8d2 I built an ops agent at work and gave it one write tool: open a pull request with the change. Not merge, just open. It felt safe. It wasn't. The agent's token could push, so it would\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wq2q49/i_gave_my_ai_agent_one_harmless_permission_it/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Jev vs. Kev: open-source Jev alternative tested side by side",
+     "summary": "We hosted Kev 4B (Jared Palmer's Apache-2.0 fine-tune of Qwen3.5-4B) and ran it side by side with Jev on the same endpoint to see how it compares. We built a fresh set of 362 items published after both models shipped (new arXiv papers, Stack Exchange questions, GitHub issues), with answers taken\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wq2hfc/jev_vs_kev_opensource_jev_alternative_tested_side/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
+     "summary": "\"Overly constrained AI models\" could cause military operations to fail, judges say.",
+     "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Tesla workers balk at training Optimus humanoid robots as replacements",
+     "summary": "Despite challenges, Tesla aims for 1,000 Optimus robots per week by end of 2026.",
+     "url": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Meta opens early access program for new Muse features",
+     "summary": "Anyone interested in joining has to ask Muse to put them on the list.",
+     "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Thieves Stole \u2018Nvidia\u2019 Trailers. They Got 20 Tons of Sand",
+     "summary": "They wanted the silicon. They got the sand.",
+     "url": "https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+     "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more.",
+     "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
+     "summary": "\"There is no evidence of any significant, widespread displacement or reduction in hiring.\u201d",
+     "url": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+     "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+     "url": "https://openai.com/index/proaction",
+     "source": "OpenAI Blog"
+    },
+    {
+     "headline": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+     "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
+     "url": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+     "summary": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout.",
+     "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Meta\u2019s Muse just stole the AI spotlight from OpenAI and Anthropic",
+     "summary": "When AI leaders at OpenAI and Anthropic started talking about \u201cpacing the frontier,\u201d maybe someone should have asked: what pace? Now it\u2019s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI\u2019s GPT-6 model updates just 90 minutes later. But the company\u2026",
+     "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Microsoft stops insisting you need a \"Copilot+ PC\"",
+     "summary": "Microsoft's new Surface laptops forgo Copilot+ PC branding.",
+     "url": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Some Supabase customers are publicly exposing reams of people\u2019s data to the web",
+     "summary": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly.",
+     "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Astra and Opus just passed Turing\u2019s other test",
+     "summary": "Frontier AI models are finishing Alan Turing's World War II codebreaking work.",
+     "url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
+     "source": "TechCrunch AI"
+    }
+   ],
+   "influencer_takes": [],
+   "research_radar": [
+    {
+     "headline": "Good points from James Gilliland",
+     "summary": "It pains me to say this, but if we actually \u201cget AGI,\u201d the resulting boom in industrial capacity from robotics and massive society-wide wealth creation will look like a total vindication of neoliberalism. The discourse about financialization and offshoring being a generational mistake may be\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/good-points-from-james-gilliland.html?utm_source=rss&utm_medium=rss&utm_campaign=good-points-from-james-gilliland",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "WarTalk: Potemkin Pacific, Midterm Budget Woes",
+     "summary": "Every service for themselves + autonomy",
+     "url": "https://www.chinatalk.media/p/wartalk-potemkin-pacific-midterm",
+     "source": "ChinaTalk"
+    },
+    {
+     "headline": "Quoting John Gruber",
+     "summary": "Muse is getting a lot of attention \u2014 including mine \u2014 because it\u2019s both groundbreaking technically (each user gets their own entire persistent Linux VM running in Meta\u2019s cloud) and because it\u2019s packaged in an easy-to-install easy-to-use way. It\u2019s literally presented as a cute mascot . It\u2019s the\u2026",
+     "url": "https://simonwillison.net/2026/Sep/25/john-gruber/",
+     "source": "Simon Willison"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-09-25T21:41+00:00",
+  "window_start": "2026-09-25T17:20+00:00",
+  "window_end": "2026-09-25T21:41+00:00",
+  "candidate_count": 40,
+  "model": "free (no LLM)"
+ }
+}
