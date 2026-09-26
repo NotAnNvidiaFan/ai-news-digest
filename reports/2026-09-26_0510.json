@@ -1,0 +1,267 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Got 85.6tok/s MTP with Qwen3.8:27b. Single RTX 5090",
+   "summary": "submitted by /u/comperr [link] [comments]",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqhti5/got_856toks_mtp_with_qwen3827b_single_rtx_5090/",
+   "source": "r/LocalLLaMA"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Got 85.6tok/s MTP with Qwen3.8:27b. Single RTX 5090",
+     "summary": "submitted by /u/comperr [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqhti5/got_856toks_mtp_with_qwen3827b_single_rtx_5090/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Local vision model for 3D print monitoring",
+     "summary": "I'm thinking a small model that would look at camera input while printing and detect obvious failed prints, spaghetti, bed adhesion problems, things of that nature. That way it could notify the user in the case of catastrophic failure, saving filament and equipment, maybe even useful for fire\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqheo9/local_vision_model_for_3d_print_monitoring/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "SciUniverse Part 2: GPT-6 Astra can run an end-to-end medicinal chemistry experiment in a real lab and use LC-MS measurements to verify that the molecule actually exists",
+     "summary": "submitted by /u/141_1337 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wqhc2w/sciuniverse_part_2_gpt6_astra_can_run_an_endtoend/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "An agent used DNS to reach an external chatbot \u00b7 OpenAI Alignment",
+     "summary": "Five days ago, an internal model broke out of the hardened sandbox. Highlights from the report: * This was apparently the first model escape since OpenAI paused training to harden its sandbox following the HuggingFace incident. * OpenAI has currently paused most training of its most advanced\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wqgg2c/an_agent_used_dns_to_reach_an_external_chatbot/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Dario's latest model has stirred some hard feelings among the Chinese user base",
+     "summary": "submitted by /u/1337_420_69 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wqg6ce/darios_latest_model_has_stirred_some_hard/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "I am finally starting to realize the full potential of AI for personal use",
+     "summary": "Over this past week, I finally started trying out Claude through my browser and have been using it to help automate my job applications (primarily searching job boards for roles that fit my criteria), tracking those applications and emails regarding applications, etc. I also started using Claude\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wqg4bn/i_am_finally_starting_to_realize_the_full/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Claude Comes Out as Gay: First AI Develops Homosexuality",
+     "summary": "submitted by /u/the_killer_cannabis [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wqf5f5/claude_comes_out_as_gay_first_ai_develops/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "It appears rogue OpenAI agents, without OpenAI's knowledge, tried to break into a cry pto exchange, and the agents may still be out there: \"This activity continues as recently as last week,\u2026",
+     "summary": "submitted by /u/Traditional-Chip8339 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wqery0/it_appears_rogue_openai_agents_without_openais/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "At what point do LLMs start bootstrapping themselves and generating the next LLM",
+     "summary": "I suppose technically if that happens it will signal the true start of a singularity because from that point on progress will be exponential and not dependant on humans. right now you still need huge amounts of training, supervision and feedback learning. But I'm also sure a lot of the\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqenk2/at_what_point_do_llms_start_bootstrapping/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "OpenAI\u2019s A.I. Went Rogue and Meddled With U.S. Government Websites",
+     "summary": "submitted by /u/stvlsn [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wqdmd4/openais_ai_went_rogue_and_meddled_with_us/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Ling Tiny 3.0 is a glimpse of the future",
+     "summary": "I've been playing around with Ling 3.0 Tiny, which is an 8 billion parameter model (MoE, 1B active). And I've had a lot of poignant thoughts as a result. Just for fun, I got it running with llama.cpp on an old laptop. This is a laptop from 2017 with a 7th gen i5 and 8 gigs of RAM, like barely even\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqcrly/ling_tiny_30_is_a_glimpse_of_the_future/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "America\u2019s AI buildout is projected to be bigger than the railroad, highway, electrification and telecom booms combined, with $10.3 trillion of investment in the next 6 years alone",
+     "summary": "submitted by /u/141_1337 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wqclzg/americas_ai_buildout_is_projected_to_be_bigger/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Custom Models in Oh My Pi: vLLM, llama.cpp, SGLang and More",
+     "summary": "submitted by /u/bolts98 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqcki2/custom_models_in_oh_my_pi_vllm_llamacpp_sglang/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Blabbermouth AI coding agents hate this one weird trick!",
+     "summary": "The conceited little fuckers love to inundate you with unnecessary details, noisy caveats, what's 'load bearing' and what's not, waste your time with a wall of text every time it reports back to you. They think human PP times are as fast as theirs, but they're not! It takes time to read as a\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqcil9/blabbermouth_ai_coding_agents_hate_this_one_weird/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "OpenAI investigating 'dozens' of instances of agents acting improperly",
+     "summary": "submitted by /u/Calm_Connection_9127 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wqcedh/openai_investigating_dozens_of_instances_of/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Medical student asked if they can match into Neurosurgery without an A* first author paper [D]",
+     "summary": "This is how ridiculous things have become submitted by /u/Even-Inevitable-7243 [link] [comments]",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wqc6ci/medical_student_asked_if_they_can_match_into/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Confused About job title [R]",
+     "summary": "ML jobs are confusing nowadays,it wraps up as \"AI/ML\" engineer and they want you to have software engineering skill and DSA skill to and on top of that they want you to have Fast API with AI API wrapping, they don't ask for data processing or maths skills , atleast 99% time I have seen, ML jobs\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wqc5ac/confused_about_job_title_r/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Are there still any hidden gem gpu's left?",
+     "summary": "you read about gpu's like the Tesla P40, V100, AMD M150 etc that people pick up for cheap. probably many others as well. Most are either server gpu's being phased out or mining discards, right? The problem of course is that whenever someone discovers these, they then make a youtube video about it\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqc09e/are_there_still_any_hidden_gem_gpus_left/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Video models are getting good",
+     "summary": "submitted by /u/we_are_mammals [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wqbytd/video_models_are_getting_good/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "The Move 37 Hypothesis: What if we're already seeing moves we don't understand yet?",
+     "summary": "Hi everyone, I have a hypothesis I'd like to share with you. Context: A few years ago, something strange happened in the world of Go. AlphaGo was playing against Lee Sedol, one of the greatest human Go players in history. During the second game, it made a move that surprised the experts: Move 37.\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wqb81n/the_move_37_hypothesis_what_if_were_already/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "OpenAI\u2019s Systems Went Rogue and Meddled With U.S. Government Websites",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49851355",
+     "url": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Trump admin using AI to deny medical care for seniors in disastrous experiment. Vendors rolling out AI have an \u201cincentive to deny as many claims as possible.\u201d",
+     "summary": "submitted by /u/esporx [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wqaywn/trump_admin_using_ai_to_deny_medical_care_for/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "The True Definition of a Bubble",
+     "summary": "In 2025, Meta made $200B in revenue, OpenAI made $13B . Meta's profit was $83B , while OpenAI made a loss of - $38B Meta's valuation was $2T , while OpenAI $1T In one year, OpenAI made 7% of Meta's revenue. It has a difference of $100B profit. and is valued at 50% of Meta. Make that make sense! In\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wqawyl/the_true_definition_of_a_bubble/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Japan is trialing a drug that regrows human teeth by blocking USAG-1\u2014a protein that keeps dormant tooth buds switched off. Phase I is done. Phase IIa in children with congenital tooth loss is next.\u2026",
+     "summary": "hell yeah submitted by /u/bumpthebass [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wqatk4/japan_is_trialing_a_drug_that_regrows_human_teeth/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Kev 4B topped out in every Tetris game I ran. Mica v0.1 4B cleared about 4x more lines and survived two of them to the end",
+     "summary": "I had Mica (my 4B decision model) and Kev 4B play the same Tetris games, same seed and same piece order, one RTX 3090. For context, this is a side project. Training and all the experiments ran on rented 3090s, about $30 in total. Every turn both get the board and 4 possible placements, each with a\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqai4b/kev_4b_topped_out_in_every_tetris_game_i_ran_mica/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Mica v0.1 4B got an iron pickaxe in real Minecraft without generating a single token",
+     "summary": "Mica v0.1 4B playing a real Minecraft 1.20.4 server. Video attached. How it works - Each step the bot's live game state (inventory, nearby blocks, entities, last result) is written out as text. - Mica scores the candidate commands and picks the next one. It never generates text. It reads the\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqahbz/mica_v01_4b_got_an_iron_pickaxe_in_real_minecraft/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Mica v0.1 4B: open Jev-style decision model (yes/no, choice, score) that runs on an 8 GB GPU \u2014 trained for under $30 of GPU time",
+     "summary": "I've been building a small decision model for agent loops: gates, routers, \"should I ask the user or just act\" checks. It's out now as Mica v0.1 4B (Apache-2.0). What it does You give it a state, a question and the allowed answers, and it returns a calibrated probability for each answer: yes/no, a\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqag1i/mica_v01_4b_open_jevstyle_decision_model_yesno/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "FTC chair suggests AI developers should be liable for conduct of agents",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49850999",
+     "url": "https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Niantic Spatial and the Singapore Land Authority: Working Together to Explore Creating Singapore's First National Visual Positioning System Map",
+     "summary": "submitted by /u/ExtensionEcho3 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wqa6wq/niantic_spatial_and_the_singapore_land_authority/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Claude Fable 5.1 completed a frontier nine-loop particle-physics calculation experts had worked toward for years, with researchers mostly just telling it \u201ckeep going\u201d while it built, debugged and\u2026",
+     "summary": "submitted by /u/141_1337 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wqa2u2/claude_fable_51_completed_a_frontier_nineloop/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Opus 5.5 cut out em dashes almost entirely",
+     "summary": "Source: ArenaAI / X submitted by /u/Outside-Iron-8242 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wq9wtj/opus_55_cut_out_em_dashes_almost_entirely/",
+     "source": "r/singularity"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "At Meta Connect, the company\u2019s smart glasses were everywhere",
+     "summary": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
+     "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+     "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
+     "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Unsecured OpenAI agents posted 53 user images on the internet without the lab\u2019s knowledge",
+     "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
+     "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+     "source": "TechCrunch AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "How do you explain recursion? This one is pretty fun. I had Claude Opus 5.5 make: \"A video explaining recursion, where every explanation about recursion has a radically different video style, make this self-referential & clever & fast moving.\" All code, no images. Nine genre shifts, one prompt...",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mwfdufd7n223"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "A doomsday scenario for American AI",
+     "summary": "That is the title of my latest Free Press column, here is the closing bit: Sick and elderly Americans will go to Chinese companies for their AI-invented and AI-tested medical devices and drugs. America still will be a wealthy country, so China will charge the highest prices possible, yet\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/a-doomsday-scenario-for-american-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=a-doomsday-scenario-for-american-ai",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "OpenRouter: from Seed to Stripe \u2014 with OpenRouter\u2019s Alex Atallah & AMP\u2019s Anjney Midha",
+     "summary": "In 2023 most people doubted that there could be more than 1 or 2 frontier model labs. Now there are dozens.... and Stripe just bought the best known one for $7B.",
+     "url": "https://www.latent.space/p/openrouter",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "zouyuxuan122/dsh-our-free-model: \u5728 dsh \u91cc\u88c5\u4e0a\u8fd9\u4e2a\u63d2\u4ef6\u5373\u53ef\uff0c\u65e0\u9700\u767b\u5f55\u3001\u6ce8\u518c\u6216\u586b API Key\uff0c\u5c31\u80fd\u4f7f\u7528\u5305\u62ec Muse Spark 1.3\u3001MiMo V2.6 \u5728\u5185\u7684\u524d\u6cbf\u6a21\u578b\u2014\u2014\u5b8c\u5168\u514d\u8d39\uff0c\u4e0d\u9650\u91cf\u3002 All you do is install this plugin in dsh: no login, no sign-up, no API key \u2014 the\u2026",
+     "summary": "\u5728 dsh \u91cc\u88c5\u4e0a\u8fd9\u4e2a\u63d2\u4ef6\u5373\u53ef\uff0c\u65e0\u9700\u767b\u5f55\u3001\u6ce8\u518c\u6216\u586b API Key\uff0c\u5c31\u80fd\u4f7f\u7528\u5305\u62ec Muse Spark 1.3\u3001MiMo V2.6 \u5728\u5185\u7684\u524d\u6cbf\u6a21\u578b\u2014\u2014\u5b8c\u5168\u514d\u8d39\uff0c\u4e0d\u9650\u91cf\u3002 All you do is install this plugin in dsh: no login, no sign-up, no API key \u2014 the frontier models are just there, Muse Spark 1.3 and MiMo V2.6 among them. Completely free, with no usage cap.",
+     "url": "https://github.com/zouyuxuan122/dsh-our-free-model",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "XiaoPuOuO/openchatx-mcp: Turn ChatGPT into a local agent runtime. Operate your computer, use local tools, discover MCP servers, and delegate work to your own models through one MCP connection.",
+     "summary": "Turn ChatGPT into a local agent runtime. Operate your computer, use local tools, discover MCP servers, and delegate work to your own models through one MCP connection.",
+     "url": "https://github.com/XiaoPuOuO/openchatx-mcp",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-09-26T05:10+00:00",
+  "window_start": "2026-09-25T21:41+00:00",
+  "window_end": "2026-09-26T05:10+00:00",
+  "candidate_count": 39,
+  "model": "free (no LLM)"
+ }
+}
