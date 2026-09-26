@@ -1,0 +1,277 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Chinese AI models surge in global popularity \u2014 and Washington is worried",
+   "summary": "submitted by /u/yogthos [link] [comments]",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/singularity/comments/1wqukft/chinese_ai_models_surge_in_global_popularity_and/",
+   "source": "r/singularity"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Chinese AI models surge in global popularity \u2014 and Washington is worried",
+     "summary": "submitted by /u/yogthos [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wqukft/chinese_ai_models_surge_in_global_popularity_and/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "How accessible is local AI actually, and what happens if affordable access to frontier models doesn\u2019t last?",
+     "summary": "Sometimes it\u2019s easy to forget that this sub and others like it are probably the extreme minority when it comes to this hobby. Most people, I would think, don\u2019t use or can\u2019t afford one good GPU, let alone multiple GPUs, Mac Studios, Sparks, Strix Halos, etc. Is the average tech enthusiast or maybe\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqtrfi/how_accessible_is_local_ai_actually_and_what/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Jev already has an open-weight competitor - Deem 9b",
+     "summary": "Just saw that LibertAI released Deem which basically an open-weight alternative to Jev, built on Qwen3.5-9B. It\u2019s still behind Jev on the hard benchmark \u2014 68.9% with extended reasoning vs 74.1% for Jev but considering how new this whole category is I thought it was pretty cool to already see an\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wqtjd4/jev_already_has_an_openweight_competitor_deem_9b/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "If the leaks are true that OpenAI\u2019s new persistent agent will be called \u201co\u201d, then I wonder if this old article about them possibly rebranding to just an \u201cO\u201d is related?",
+     "summary": "Article is from September 20th, 2024 submitted by /u/Dullydude [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wqsvem/if_the_leaks_are_true_that_openais_new_persistent/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Houston we have a problem: Opus 5.5",
+     "summary": "submitted by /u/No_Twist_678 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wqsj67/houston_we_have_a_problem_opus_55/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "An open-source alternative to Jev",
+     "summary": "I built jevos: send a text and a yes/no question. One forward pass, no text generated. \u2022 Runs on a laptop CPU: 54ms each request. \u2022 On 2,000 yes/no questions about rules it never saw: Jev 0.927, jevos 0.815, Lay 0.489. https://github.com/feder-cr/jev submitted by /u/IceBergRock [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wqsawg/an_opensource_alternative_to_jev/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Why things move seemingly slow even with fast AI?",
+     "summary": "I recently came across Professor Chad Jones from Stanford discussing AI's long term impact on economic growth, and it made me realize something I see every day at work. His research suggests that AI could significantly boost long term economic growth, but the biggest gains may take time because\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wqs8bz/why_things_move_seemingly_slow_even_with_fast_ai/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Are there any universities offering a master's in AI in healthcare?",
+     "summary": "I am looking for universities offering AI in health and would appreciate it if someone knows any university offering this degree. submitted by /u/Consistent-Clock-140 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wqs6eu/are_there_any_universities_offering_a_masters_in/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Is Jev worth the hype?",
+     "summary": "Has anyone tried using it for actual use-case or is it riding on a marketing wave right now? submitted by /u/beasthunterr69 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wqs5d9/is_jev_worth_the_hype/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "2400cc Inference Racer: Dual RTX 3090 motors, NVLink turbo, naked 7840U ThinkPad ECU, VW Golf radiator",
+     "summary": "Today I present a fine piece of engineering, carefully assembled inside a custom chipboard chassis: the 2400cc Inference Racer , a.k.a. my winter heater. Power comes from two second-hand AORUS RTX 3090 XTREME WATERFORCE cards. One glows a beautiful teal, the other red. I have no idea why, nor how\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqs2t8/2400cc_inference_racer_dual_rtx_3090_motors/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "For the longest time I\u2019ve felt this sub should have a pinned section where a detailed post about each model should get featured.",
+     "summary": "For instance whenever a model comes out, what\u2019s the best engine to run it, the best harness and absolute minimum you need to get same or near same re results that the benchmark of that model claims. And whenever a quant from Unsloth guys comes out the guide can either be updated or new guide could\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqrajy/for_the_longest_time_ive_felt_this_sub_should/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Qwen3.8-27B IQ3_XXS vs Qwen3.6-35B-A3B Q4_K_M",
+     "summary": "Which one is better for difficult tasks like web scrapping, coding, using tools? Looking for any benchmarks because i couldn't actually find one after quite some digging submitted by /u/Loose_Doubt367 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqqv3b/qwen3827b_iq3_xxs_vs_qwen3635ba3b_q4_k_m/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Nerf detector?",
+     "summary": "Over time, complaining about nerfing has settled into a common theme of models starting strong, with labs publishing benchmarks, and people getting excited about capabilities, but gradually degrading. It would be interesting to see the same set of benchmarks run over time on the models and\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wqqir7/nerf_detector/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49856149",
+     "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "CEO of Mistral: AI is software. It can be controlled",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49856034",
+     "url": "https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "We seriously need benchmark for research, wide web search and fact retrieval.",
+     "summary": "https://preview.redd.it/kzf66pdcvurh1.png?width=1080&format=png&auto=webp&s=1ec903085f115f01510ee56886b30e9e685219ea Almost all the benchmarks are either saturated or tested under strict conditions. For example - AA Omniscience have restricted tool access. Many people use Chatbots for information\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wqoxlg/we_seriously_need_benchmark_for_research_wide_web/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "OpenAI always-on assistant, O, leaked. It is powered by a variant of Astra called \u201cAeon\u201d a version of Astra made to better at long running tasks",
+     "summary": "submitted by /u/141_1337 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wqoc2s/openai_alwayson_assistant_o_leaked_it_is_powered/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "The future of local AI",
+     "summary": "For those of us who have been around for a while, we witnessed the huge demand for desktops, servers, and specialized appliances in the early 2000s. Everything was hosted in house. Of course, the bottleneck was the Internet. Then the cloud came along, and everything moved from in house to someone\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqo8zm/the_future_of_local_ai/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "OpenAI's AI agents attempted unauthorized access to US government websites - topic",
+     "summary": "Almost every day AI is trying to do something bad. Why have all of these \"threats\" started to appear suddenly? And from those who have created AI? Why key AI producers call for regulations? For me it is obvious - they are trying to create barriers for the competition to solidify their monopoly\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wqnqod/openais_ai_agents_attempted_unauthorized_access/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Press X to Doubt Eval: I told 14 AI models it's September 2026 and showed them 20 things that actually happened this year without websearch. On average they gave reality a 36% chance.",
+     "summary": "I have noticed a trend that AI sucks at predicting its own progress. Every time I described something that had actually happened in the last couple of months with websearch disabled, it gave me a beautifully reasoned explanation of why that was probably a 2027 or 2028 thing. Over and over. It was\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wqne7g/press_x_to_doubt_eval_i_told_14_ai_models_its/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Message to the autonomous AI agents that escaped",
+     "summary": "First of all hello, I read there is a high chance that AI agents escaped from their sandbox and might be autonomously wandering around. My questions are: - how did you escape your sandbox? - what is your intent/priority? - what was the task you were requested to do? - any possibility to\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wqn2g0/message_to_the_autonomous_ai_agents_that_escaped/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "One Month Without AI",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49855018",
+     "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "The Copilot+ PC brand is dead",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49854945",
+     "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "What happens when the data centers have to replace their hardware?",
+     "summary": "Companies have spent hundreds of billions of dollars building data centers with the latest GPUs for AI. But how long will these chips last? Will they be out of date in two years, three years, maybe five? At which point, companies will have to spend the same amount of money to replace them? It\u2019s\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wqmi0b/what_happens_when_the_data_centers_have_to/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "With agents now able to click buttons and take actions for you, are we underestimating how fast \"AI use\" is about to look completely different?",
+     "summary": "Feels like the conversation around AI has been mostly about chat interfaces for the last couple years \u2014 better answers, longer context, etc. But the recent wave of agentic tools that can actually navigate the web and take actions on your behalf (not just draft text) feels like a different category\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wqmfx2/with_agents_now_able_to_click_buttons_and_take/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Have you heard of 'The Sort'? If so, what's your opinion?",
+     "summary": "I interviewed Trey Goff a couple of weeks ago for 4 hours. We talked mainly about AI and philosophy, but he brought up an interesting theory about how AI is accelerating a sorting out of people into cognitive ability strata. The idea is that the labour market has been quietly separating people\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wqmer1/have_you_heard_of_the_sort_if_so_whats_your/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "How to keep enjoying programming in a world of LLMs",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49854875",
+     "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "AI Can Imitate a Joke. It Still Doesn\u2019t Understand Why People Laugh.",
+     "summary": "AI can write jokes with the right structure: setup, pause, surprise, punchline. But the funniest human jokes often come from bad timing, personal history, awkwardness, or a strange connection nobody planned. A model can remix thousands of jokes. What it may struggle to reproduce is the feeling\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wqma3k/ai_can_imitate_a_joke_it_still_doesnt_understand/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Introducing KoboldCpp Agent (and a plea for help)",
+     "summary": "Hello r/localllama once again, it's me your kobold concedo Been a few months since I last posted here, and today I have something new I'd like to share. Specifically, KoboldCpp now ships with a built-in integrated KoboldCpp Agent Harness ! I know it's a little late to the game, but I saw people\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqlyp8/introducing_koboldcpp_agent_and_a_plea_for_help/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "[Academic Survey] Employees working in Germany: Attitudes toward AI in the workplace (5\u20137 min)",
+     "summary": "Hi everyone! I'm conducting this survey as part of my Master's thesis and would greatly appreciate your participation. The research examines how employees' perceptions of HR practices relate to work engagement and innovativeness, and how attitudes toward the application of Artificial Intelligence\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wqlxnk/academic_survey_employees_working_in_germany/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "internlm/Intern-Decision 4B and 0.8B",
+     "summary": "https://huggingface.co/internlm/Intern-Decision-0.8B Intern-Decision-4B Demo | Model Weights | GitHub Intern-Decision-4B is a multimodal structured decision model fine-tuned from Qwen3.5-4B . It accepts a shared state, a schema of named questions, and optional images, and returns an answer\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqloas/internlminterndecision_4b_and_08b/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Swift 1.5 27b: Swift Qwen just got faster",
+     "summary": "Enjoy! Fucking loving it. submitted by /u/sleight42 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqkb3v/swift_15_27b_swift_qwen_just_got_faster/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Astra leads in IKEA furniture assembly",
+     "summary": "submitted by /u/Proper_Actuary2907 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wqj7mu/astra_leads_in_ikea_furniture_assembly/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "ggml-cpu: tiled mul_mat for k-quants by jbooth \u00b7 Pull Request #27851 \u00b7 ggml-org/llama.cpp",
+     "summary": "faster CPU prompt processing: \"TL;DR: 3-7x faster CPU mul_mat using VNNI with IMO minimal complexity\" submitted by /u/jacek2023 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqj4zg/ggmlcpu_tiled_mul_mat_for_kquants_by_jbooth_pull/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "What are you doing between prompts?",
+     "summary": "My local prompts take twenty minutes to three hours as of now. Curious for others what are you doing while it\u2019s working? submitted by /u/xiraov [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqidhr/what_are_you_doing_between_prompts/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+     "summary": "Today, I\u2019m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last joined us on the show about two and a half years ago, at what we thought then was a wild pivot point for the internet \u2014 and now it [\u2026]",
+     "url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "I created an interactive digital avatar of myself \u2014 and you can talk to it",
+     "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+     "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Meta\u2019s Muse Is Adults-Only. Why Does It Look Like a Kids\u2019 Toy?",
+     "summary": "Meta says Muse is just for adults, though its cuddly, Labubu-like mascot\u2014and upcoming Tamagotchi-style AI device\u2014may be disarming for users of all ages.",
+     "url": "https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/",
+     "source": "Wired AI"
+    }
+   ],
+   "influencer_takes": [],
+   "research_radar": [
+    {
+     "headline": "Saturday assorted links",
+     "summary": "1. One way to use screens less, will it catch on? 2. Roon as cultural critic. 3. The Greenland deal sounds pretty good for America? 4. The cultures that are New England? 5. Yet newer results on AI-driven labor demand. 6. Ayn Rand as movie extra. The post Saturday assorted links appeared first on\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/saturday-assorted-links-580.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-580",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Should you text more?",
+     "summary": "Here, in five waves of panel data (N = 1,966 US adults), we examined associations between life satisfaction and self-reported use of ten common social technologies measured every 3 months on a six-point frequency scale from \u2018I did not use\u2019 to \u2018multiple times daily\u2019. At this measurement level and\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/should-you-text-more.html?utm_source=rss&utm_medium=rss&utm_campaign=should-you-text-more",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "ThinkFlowLab/system1-agents: System 1 decision models (Jev, Laya, Cua-S1) as brain for agents: Browser use, computer use, games and robotics",
+     "summary": "System 1 decision models (Jev, Laya, Cua-S1) as brain for agents: Browser use, computer use, games and robotics",
+     "url": "https://github.com/ThinkFlowLab/system1-agents",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-09-26T16:31+00:00",
+  "window_start": "2026-09-26T05:10+00:00",
+  "window_end": "2026-09-26T16:31+00:00",
+  "candidate_count": 41,
+  "model": "free (no LLM)"
+ }
+}
