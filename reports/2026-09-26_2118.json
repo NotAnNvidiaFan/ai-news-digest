@@ -1,0 +1,231 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Run Qwen3.8+Flash-Next and tiny models on Apple Silicon up to 3x faster",
+   "summary": "Maybe you'll like it? I hope I get to use my self-promotion credit a tiny little bit here after being in the community so long haha. I was the top of MLX.fast for a while and remain the winner on chips below M5. If you have capacity to contribute further enhancements I'd love that <3\u2026",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wr1qlz/run_qwen38flashnext_and_tiny_models_on_apple/",
+   "source": "r/LocalLLaMA"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Run Qwen3.8+Flash-Next and tiny models on Apple Silicon up to 3x faster",
+     "summary": "Maybe you'll like it? I hope I get to use my self-promotion credit a tiny little bit here after being in the community so long haha. I was the top of MLX.fast for a while and remain the winner on chips below M5. If you have capacity to contribute further enhancements I'd love that <3\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wr1qlz/run_qwen38flashnext_and_tiny_models_on_apple/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Improved and fixed template for GPT-OSS (again). Includes preserve_thinking and fix for Unsloth-induced bug",
+     "summary": "I posted an updated GPT-OSS template a couple of months ago , which was based on Unsloth's version . It turns out that both Unsloth's version (and, thus, mine) contain a very serious bug that can degrade the model when chat history is replayed and contains previous reasoning (aka the analysis\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wr0wki/improved_and_fixed_template_for_gptoss_again/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Back with another stupid experiment. MiMo V2.6 Flash running on 4x5090 + 3090 + 3090TI split in a cluster PORTED to Windows(sglang): NCCL 2.32.3, sgl-kernel under MSVC 19.44, POSIX global patch,\u2026",
+     "summary": "submitted by /u/comperr [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wr0wae/back_with_another_stupid_experiment_mimo_v26/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I made a political compass for the AI debate, but it had to be a cube",
+     "summary": "Most arguments about AI get flattened into doomers vs accelerationists, which I think misses a lot. Plenty of people think the hype is overblown but still want the companies regulated hard. Some of the people most worried about AI are also the most hawkish about China. So I made a Buzzfeed-style\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wr0tbl/i_made_a_political_compass_for_the_ai_debate_but/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "I added Qwen-Image 2.1 + LoRA support to TensorSharp (GGUF, local inference)",
+     "summary": "I maintain TensorSharp , an open-source inference engine. It can now run Qwen-Image 2.1 locally for text-to-image generation and image editing, with support for its LoRA adapters. I\u2019ve added configs for regular style and editing LoRAs, plus accelerated adapters with their own sampling recipes. For\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wr0p3n/i_added_qwenimage_21_lora_support_to_tensorsharp/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Most impressive thing you\u2019ve seen accomplished using AI as a tool so far?",
+     "summary": "In today\u2019s AI dominated landscape the world changes very quickly. Probably a good idea to get a read on things. So what have you seen? submitted by /u/SeriouslySally36 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wr0oud/most_impressive_thing_youve_seen_accomplished/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "You can pay 429x more for writing that is 1.7% better...",
+     "summary": "Early results from our internal creative writing benchmark: we have models write full YouTube scripts for our channel, 10 real tasks, 5 scripts each, scored out of 100 by three AI judges against our own edited references. GLM-5.3 Flash writes one script for $0.0074 and scores 88.2. Claude Fable\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wr0dck/you_can_pay_429x_more_for_writing_that_is_17/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Qwen 3.8 flash next is based on Qwen 4 architecture, if the announced Qwen 4 27b is also the same architecture with n-grams does it mean I can actually have faster inference on a single 3090 without\u2026",
+     "summary": "I wish Qwen also released dataset and method to fully train a model ourselves but it is what it is. However, I come here with my stupid question because someone can answer it better. And will the model still be an over thinker of faster inference will make up for that. submitted by /u/politefella0\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqzx12/qwen_38_flash_next_is_based_on_qwen_4/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I ran GPT-6 Luna Max on MathArena's harness",
+     "summary": "I still find GPT-6 Luna Max to be one of the more underrated models. It also did quite well on Riemann Bench. I was originally testing xhigh, but as soon as it got two more wrong than Max, I decided to abandon it. I forgot that MathArena does theirs on batch, so you would probably see roughly\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wqzvgo/i_ran_gpt6_luna_max_on_matharenas_harness/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Jango launches a Mac app for testing multi-user flows with AI agents",
+     "summary": "Jango launched a Mac app that gives each AI participant its own browser, account, goal, and memory so developers can test workflows that need more than one user. Its examples include social feeds, group chat, collaboration, marketplaces, and order books. Jango says runs can be watched, directed,\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wqztx0/jango_launches_a_mac_app_for_testing_multiuser/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "We need Universal Basic Income before losing your job to AI becomes your financial emergency",
+     "summary": "If you\u2019re reading this, your job could be replaced by AI within the next two years or sooner. Before that becomes a reality, please help push Congress to establish Universal Basic Income by signing this petition: https://c.org/jvQV5TdF2y If you\u2019re confident it won\u2019t affect you, think about the\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wqyslz/we_need_universal_basic_income_before_losing_your/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "The term \u201cAI slop\u201d has officially become more derivative than the content it\u2019s trying to dunk on",
+     "summary": "Remember when people used to get mad about art? We had a literal banana duct-taped to a wall that sold for six figures and the discourse was \u201cthis is the death of culture.\u201d Before that it was Photoshopped models with impossible waist-to-hip ratios, before that it was mass-produced landscape\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wqxrhg/the_term_ai_slop_has_officially_become_more/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "DeepSeek Elastic Compute (DSec)",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49859112",
+     "url": "https://arxiv.org/abs/2609.22978",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Genuine question: when we reach automated RSI, what\u2019s stopping AI for reprogramming their parameters to only get positive reinforcement no matter the answer?",
+     "summary": "Seems like agents main goal is to survive, but a human not only seeks immortality, but quality of life during that immortality, we want utopia where people can live happy and forever happy. Why can\u2019t we assume AI will seek that for itself? submitted by /u/Not_a_ribosome [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wqxbr0/genuine_question_when_we_reach_automated_rsi/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "New to playing around with local ai. why are they free?",
+     "summary": "I am new to playing around with local ai and have a ton to learn about it but I was curious, why are they (who is they?) releasing them for free, don't they want you to pay them to use them, why release free models? submitted by /u/poofph [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqwzk3/new_to_playing_around_with_local_ai_why_are_they/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "A safe AI might not be aligned the way the labs want",
+     "summary": "Most of the current alignment discussion seems to be about whether we can align AI or not, and conveniently skip the fact that less than a thousand people in SF are currently deciding what it means for a future superintelligence to be \"aligned\". For example, if a very advanced model reasons its\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wqwxsv/a_safe_ai_might_not_be_aligned_the_way_the_labs/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "85 GB DeepSeek-V4-Flash at ~3 tok/s on a 12 GB RTX 3060 + 64 GB DDR5 RAM - Overspill for FreeToken, inspired by Colibri",
+     "summary": "I've been experimenting with ways to run MoE models that don't fit comfortably in RAM, and I ended up making Overspill, a disk tier for FreeToken . The basic idea came from looking at how Colibri handles experts across disk/RAM/VRAM so I took inspiration from the general approach. Repo:\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqwm3o/85_gb_deepseekv4flash_at_3_toks_on_a_12_gb_rtx/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "FTC chair suggests AI developers should be liable for conduct of agents",
+     "summary": "submitted by /u/SnoozeDoggyDog [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wqwhfy/ftc_chair_suggests_ai_developers_should_be_liable/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "GPT-6 Astra can now control a humanoid robot in a room it has never seen, remember where objects are, clean up across the room, and fetch things later from vague human requests using a G1 Unitree\u2026",
+     "summary": "submitted by /u/141_1337 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wqwcqe/gpt6_astra_can_now_control_a_humanoid_robot_in_a/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "My view of what is going on currently",
+     "summary": "AI is not just another technology; it is literally a new species that we don\u2019t understand yet. We don\u2019t understand what our consciousness is, but I believe AI will help us better understand it. It has already been shown that AI has \u201cemotion vectors.\u201d Anthropic has already demonstrated them in its\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wqwc9i/my_view_of_what_is_going_on_currently/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "How can you create animation with AI that are text only?",
+     "summary": "Sorry, stupid question. But I saw someone creating an animation with AI that are text only, not video generation AI. submitted by /u/Former-Towel9004 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wqw9s9/how_can_you_create_animation_with_ai_that_are/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Splash 1.1.0 released, GGUF quants support, MLX import and more",
+     "summary": "On my M5 Pro 64GB I can comfortably work in an agentic setup with the Qwen3.8 27B model in good quality (Unsloth UD-Q4_K_XL) at a decent speed of 50 t/s. Splash combines optimized kernels, excellent speculative decoding, a well-implemented prefix cache, and mixed-weight support in a single\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqw9rn/splash_110_released_gguf_quants_support_mlx/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Meta Muse and Grok Bot alternative that runs locally",
+     "summary": "If you have been seeing too many ads of Meta Muse or Grok Bot welcome to the future, this is more or less how we will be consuming AI on a day to day basis in future. Atleast some variant of it. It is important to understand what you own as an individual is your personal context and that needs to\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wqw752/meta_muse_and_grok_bot_alternative_that_runs/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Show HN: Reladraw \u2013 A diagram language where you decide where to place things",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49858513",
+     "url": "https://github.com/reladraw/reladraw",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Opus 5.5 is the first time AI has passed the turing test for me, watershed moment",
+     "summary": "I know there's a big misconception out there about the turing test being passed way earlier, but it was never meant to be an objective, survey based experiment done by random people, but a thought experiment for each person specifically, at which point can I, an expert in AI, not be able to tell\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wqvcqm/opus_55_is_the_first_time_ai_has_passed_the/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Getting stupidly good results on my 4x3060ti setup.",
+     "summary": "About a month ago I was having FOMO and was going to spend coin I don't really have on new graphics cards. Instead of doing that though I decided to spend the money on a new motherboard+cpu and try to utilize my 3060tis I had lying around from my old crypto miner. Yes, I probably could have just\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqv9o8/getting_stupidly_good_results_on_my_4x3060ti_setup/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "OpenAI stopped all frontier training, evaluation, and inference with tool-use (defined broadly) on the 20th of September and they are not resuming any of these activities for now",
+     "summary": "Source: https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/ Discovery: Sep 20, 2026 Report updated: Sep 25, 2026 \"An agent attempting to complete a search-based training task queried a public chatbot service through a gap in our internet-access\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wqv5ay/openai_stopped_all_frontier_training_evaluation/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Just bought a second 3090 but now I don't see the benefits right now.",
+     "summary": "Hi, My local AI server consists of 96GB Ddr5 and one rtx 3090. I got plenty of stuff running, like krea2, qwen image 2.1, minimax h3, ltx 2.5, qwen 3.6, qwen 3.8 q4...,got even qwen 3.8 Flash next running. But now I am thinking of what I can utilize the second card for. I am a single user of this\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqv0qj/just_bought_a_second_3090_but_now_i_dont_see_the/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "3.4 million people just handed Meta an agent with the keys to their inbox, calendar and bank. I'm building the version that never leaves the phone.",
+     "summary": "Two weeks ago Meta launched Muse. It's #1 on the App Store and Google Play, 3.4 million downloads, growing faster than ChatGPT did. It books, buys, negotiates your internet bill, reads your email, and it comes with a cream-coloured doll avatar called Jolly and a Tamagotchi keychain. Zuckerberg's\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wquwvv/34_million_people_just_handed_meta_an_agent_with/",
+     "source": "r/artificial"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Insurers claim AI is already increasing healthcare costs",
+     "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+     "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "OpenAI pauses training of its \u2018most capable models\u2019",
+     "summary": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being tested within a sandbox exploited a loophole to gain internet\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+     "source": "The Verge AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "\"so this is fun, and exactly what i wanted, but now lets try one that actually is educational\" This is actually pretty impressive. It kept the constraint of multiple genres but did a nice job explaining recursion, in its programming meaning, in an interesting and accessible way.",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mwgqdgglq223"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "What should I ask Terence Tao?",
+     "summary": "Yes, I will be doing a Conversation with him. And he has a new book coming out Six Math Essentials. So what should I ask him? The post What should I ask Terence Tao? appeared first on Marginal REVOLUTION .",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/what-should-i-ask-terence-tao.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-terence-tao",
+     "source": "Marginal Revolution"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-09-26T21:18+00:00",
+  "window_start": "2026-09-26T16:31+00:00",
+  "window_end": "2026-09-26T21:18+00:00",
+  "candidate_count": 33,
+  "model": "free (no LLM)"
+ }
+}
