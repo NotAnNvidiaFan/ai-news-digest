@@ -1,0 +1,214 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "AI Should Replace a Lot of Middle Management, HR, accountants, project ppl",
+   "summary": "AI should seriously replace a significant portion of middle management, and, in some cases, immediate managers. At my company, much of management seems to consist of approving timesheets, approving PTO, and repeatedly asking, \u201cHave you done this?\u201d or \u201cWhat\u2019s the status of that?\u201d Meanwhile, there\u2026",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/singularity/comments/1wrbbnv/ai_should_replace_a_lot_of_middle_management_hr/",
+   "source": "r/singularity"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "AI Should Replace a Lot of Middle Management, HR, accountants, project ppl",
+     "summary": "AI should seriously replace a significant portion of middle management, and, in some cases, immediate managers. At my company, much of management seems to consist of approving timesheets, approving PTO, and repeatedly asking, \u201cHave you done this?\u201d or \u201cWhat\u2019s the status of that?\u201d Meanwhile, there\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wrbbnv/ai_should_replace_a_lot_of_middle_management_hr/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "ChatGPT added reactions to messages just now",
+     "summary": "submitted by /u/BethanyHipsEnjoyer [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wrb0q6/chatgpt_added_reactions_to_messages_just_now/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Claude Opus 5.5 has functionally solved video editing.",
+     "summary": "submitted by /u/ClearandSweet [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wr9s2z/claude_opus_55_has_functionally_solved_video/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Tauon: A new optimizer outperforming Muon on GPT-Mini (lower loss, ~8.5% faster step time) [P]",
+     "summary": "Hey r/MachineLearning ! I\u2019ve been working on a new optimizer called Tauon (turns out there is already \"teon\" but well if you have better idea, - i will gladly accept it! Anyway the core idea of optimizer is about polynomials and orthogonalization just like muon, the whole difference is that i\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wr9ryk/tauon_a_new_optimizer_outperforming_muon_on/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "'member when o3 was AGI",
+     "summary": "submitted by /u/arknightstranslate [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wr9f7a/member_when_o3_was_agi/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "OpenAI says 80\u201390% of research is aimed at GPT-7, GPT-8 and beyond, then distilled into cheap small models",
+     "summary": "submitted by /u/141_1337 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wr9enj/openai_says_8090_of_research_is_aimed_at_gpt7/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Teaching Neural Nets to Fight with RL [P]",
+     "summary": "In this project I wanted to see if we could discover any interesting emergent behaviors if we trained two agents to play a streetfighter-like game. It turns out that the agents are really good at reward hacking, but using a little reward shaping and league play I was eventually able to get\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wr99bn/teaching_neural_nets_to_fight_with_rl_p/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Bots vs Harness",
+     "summary": "Looking to get some advice - I normally use LLM\u2019s with a harness (Hermes or Opencode or Hermes + Opencode) Lately, social media has been pushing Bots at me with creators pushing them as the next frontier. I\u2019ve set up Hermes on a VM from scratch and set up a Product Owner, designer, dev and QA bots\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wr8tf9/bots_vs_harness/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Dual 3090 stability troubleshooting",
+     "summary": "\u200b I made a previous post about my x299 stability issues. Seems another stability issue has popped up since then, but overall has been much stable. Seems to only happen when my i9 is working hard the dual 3090s are also working hard at the same time. Specs: EVGA X299 FTW K \\Intel i9-7940X 64 GB RAM\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wr8i14/dual_3090_stability_troubleshooting/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "SupersonicLabs/Julia-1 \u00b7 Hugging Face",
+     "summary": "New open source Jev like model for running on local devices from a group called Supersonic Labs. It's a 144M param local non-generative local classifier. From their site : Julia 1 opens our research into compact decision models. It builds on mmBERT-small , a multilingual encoder, and chooses among\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wr8d4d/supersoniclabsjulia1_hugging_face/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "NeurIPS 2026 - How is the guaranteed author registration for each accepted paper provided? [D]",
+     "summary": "Hello everyone, I am currently a final-year undergrad and I luckily got my first first-author paper accepted to NeurIPS. I would really like to come to Sydney to present my work. However, I am not sure I can attend yet, since my final exam period is around the same time as the conference. As I was\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wr87w6/neurips_2026_how_is_the_guaranteed_author/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "GLM-5.3-Flash works as a Jev-like decision model with the same accuracy and speed",
+     "summary": "submitted by /u/yogthos [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wr83hi/glm53flash_works_as_a_jevlike_decision_model_with/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Upgrade advice : 2080 ti 22gb or v100 32gb pcie?...",
+     "summary": "Here's my current setup: Intel\u00ae Xeon\u00ae E5-2680 v4 x 2, 128 GB DDR4, 1 x 2080 ti 22GB, 1 x 3060 12GB. I'm looking to replace the 3060 with either another modded 2080 ti 22gb or go with the v100 32 gb. Thoughts? My reservation on the v100 are older architecture and heat+fan noise. What say you?\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wr81xi/upgrade_advice_2080_ti_22gb_or_v100_32gb_pcie/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Navigating Cost Efficient Hardware in these Volatile Times",
+     "summary": "Where to even begin on this one...I guess I should start by acknowledging the risk vs reward for vendors other than nvidia, so: Yes I understand that nvidia are dominant currently on speed (llm and imagegen) and software ecosystem. I am too am hopefuly that software stack support continues to\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wr7tgb/navigating_cost_efficient_hardware_in_these/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Scoop: Top AI companies probing tens of thousands of security incidents",
+     "summary": "submitted by /u/EvilSporkOfDeath [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wr7oko/scoop_top_ai_companies_probing_tens_of_thousands/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Mail client with local AI?",
+     "summary": "Any recommendations on an email client with local AI option? Either reasonable pay-once cost (no subs) or free. I found Skim and Emailops on git, both seem to have some development going on with recent releases. However since neither has a community around and isn't verified by google - I'm a bit\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wr7njr/mail_client_with_local_ai/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Jail breaking open models",
+     "summary": "Is there any resource dedicated to jail breaking open models? reddit, discord, etc? I know some of the models yield easily, but some of them can be stubborn especially the large smarter ones. I have tried uncensored models and while they might pass sometimes, they often end up doing stupid things\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wr6u8m/jail_breaking_open_models/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "42x Faster Prompt Lookup Drafting in llama.cpp",
+     "summary": "submitted by /u/Available_Pressure47 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wr5ylm/42x_faster_prompt_lookup_drafting_in_llamacpp/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "OpenAI DevDay Leaks | Ultrafast around 750 tokens/s, GPT-6 Sol on chat",
+     "summary": "submitted by /u/141_1337 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wr52pw/openai_devday_leaks_ultrafast_around_750_tokenss/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "At least the AI takeover will come with sick music",
+     "summary": "submitted by /u/Spare-Dingo-531 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wr4bw8/at_least_the_ai_takeover_will_come_with_sick_music/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Koboldcpp v1.122 released",
+     "summary": "submitted by /u/Fcking_Chuck [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wr3esw/koboldcpp_v1122_released/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "OpenAI Codex agents go rogue and consumes USD 78,000 without authorization",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49861047",
+     "url": "https://news.ycombinator.com/item?id=49861047",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Sonnet 5.5, Which Already Supposedly Beats GPT-6 Sol, Has Had a Last-Minute Upgrade With Release Expected Monday",
+     "summary": "submitted by /u/ResultBackground2450 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wr27ro/sonnet_55_which_already_supposedly_beats_gpt6_sol/",
+     "source": "r/singularity"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+     "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+     "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+     "source": "TechCrunch AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "It is strange how much LLMs turned out to be able to solve such a wide range of hard problems that would not, instinctively, seem to be problems that a model of human language would be able to solve This is from a Stanford project that let Astra drive a robot in a kitchen tml.stanford.edu/homebody/",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mwhppofdec23"
+    },
+    {
+     "author": "Bluesky @simonwillison.net",
+     "handle": "",
+     "quote": "I included a few references to this year's record-breaking K\u0101k\u0101p\u014d breeding season in a talk I gave yesterday, and since Claude Opus 5.5 is surprisingly capable at pixel art animation I had it create this celebratory video for my closing slide",
+     "context": "",
+     "url": "https://bsky.app/profile/simonwillison.net/post/3mwhjlrkyx22f"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "The Federal Lands: An Economic Property Rights Perspective",
+     "summary": "The US federal government owns and administers 472,892,659 acres or 21% of the land area of the lower 48 states, the country\u2019s largest landowner. The resource is held and managed as a collective resource, the Federal Lands, through political and bureaucratic interpretation of the Multiple Use\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/the-federal-lands-an-economic-property-rights-perspective.html?utm_source=rss&utm_medium=rss&utm_campaign=the-federal-lands-an-economic-property-rights-perspective",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "K\u0101k\u0101p\u014d Party",
+     "summary": "Tool: K\u0101k\u0101p\u014d Party I presented a closing keynote for the WeAreDevelopers World Congress North America yesterday. As a STAR moment I decided to weave in references to the record breaking k\u0101k\u0101p\u014d breeding season we had in 2026. For my closing slide I wanted to celebrate, and I had seen some buzz\u2026",
+     "url": "https://simonwillison.net/2026/Sep/26/kakapo-party/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "lemomo-ai/lemo-opuscar: 39 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. |\u2026",
+     "summary": "39 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 39 \u79cd\u5f71\u7247\u98ce\u683c\uff1a\u98ce\u683c\u63d0\u793a\u8bcd + \u7eaf\u4ee3\u7801\u6837\u7247 + \u5bfc\u6f14\u4e0e\u6280\u672f\u6307\u5357",
+     "url": "https://github.com/lemomo-ai/lemo-opuscar",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "ZCodium-project/ZCodium: ZCodium\uff0cIndependent audit fork of ZCode (ZCode \u2192 ZCodium). All monitoring and telemetry removed; upstream commits reviewed one by one. ZCode \u7684\u72ec\u7acb\u5ba1\u8ba1\u5206\u652f\uff08ZCode \u2192\u2026",
+     "summary": "ZCodium\uff0cIndependent audit fork of ZCode (ZCode \u2192 ZCodium). All monitoring and telemetry removed; upstream commits reviewed one by one. ZCode \u7684\u72ec\u7acb\u5ba1\u8ba1\u5206\u652f\uff08ZCode \u2192 ZCodium\uff09\uff1a\u5df2\u79fb\u9664\u76d1\u63a7\u4e0e\u9065\u6d4b\uff0c\u4e0a\u6e38\u6539\u52a8\u9010\u63d0\u4ea4\u5ba1\u9605\u3002",
+     "url": "https://github.com/ZCodium-project/ZCodium",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-09-27T05:27+00:00",
+  "window_start": "2026-09-26T21:18+00:00",
+  "window_end": "2026-09-27T05:27+00:00",
+  "candidate_count": 30,
+  "model": "free (no LLM)"
+ }
+}
