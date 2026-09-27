@@ -1,0 +1,195 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "So were Illya and Yan Lecun both wrong? (LLMs are generalising.)",
+   "summary": "I know it\u2019s still at least somewhat we are starting to see evidence of LLM starting to generalise all domains Both of these people were very apparent in their criticisms of LLMS SAYING they won\u2019t reach human intelligence submitted by /u/Efficient-Opinion-92 [link] [comments]",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/singularity/comments/1wrvzad/so_were_illya_and_yan_lecun_both_wrong_llms_are/",
+   "source": "r/singularity"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "So were Illya and Yan Lecun both wrong? (LLMs are generalising.)",
+     "summary": "I know it\u2019s still at least somewhat we are starting to see evidence of LLM starting to generalise all domains Both of these people were very apparent in their criticisms of LLMS SAYING they won\u2019t reach human intelligence submitted by /u/Efficient-Opinion-92 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wrvzad/so_were_illya_and_yan_lecun_both_wrong_llms_are/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Five frontier AIs were told to engineer and 3D-print the strongest bridge they could with 500 g of plastic. Claude Opus 5.5\u2019s design held ~130 lb, nearly 5\u00d7 the runner-up",
+     "summary": "submitted by /u/141_1337 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wrvki8/five_frontier_ais_were_told_to_engineer_and/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "soon the big labs will train HUGE MODELS that won't be served to the public",
+     "summary": "I feel like according to lots of the discussions & reports from the big labs the latest generation of models (Astra & Fable) has really began to speed up hugely their internal R&D of future models by a lot. I feel like sooner than later it will began to make sense for these labs to train like a\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wrv7o7/soon_the_big_labs_will_train_huge_models_that/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Swift 1.5 Qwen3.8 27b (A must-have for low thinking!)",
+     "summary": "Just made this post for those who missed it : https://huggingface.co/ukisai/Swift-1.5-Qwen3.8-27b UkisAI released their updated Qwen 27B (tuned for token efficiency). I grabbed the IQ4_XS quant to test against Unsloth's Q4_K_S: Low-thinking: UkisAI consistently beat Unsloth in most of my tests.\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrv6bp/swift_15_qwen38_27b_a_musthave_for_low_thinking/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Hardware Roofline Inference Calculator",
+     "summary": "Hello everyone, I made a calculator for the theoretical HW roofline for decoding / prefill based on several parameters (LLM model architecture, quants, GPU, Memory, ..). It still a theoretical bound, but helpful as a step-0 check to understand what fits (would fit) in your hardware, and understand\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrv32p/hardware_roofline_inference_calculator/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "2x Tesla p100s, q6_k quant, Qwen 3.8 27B ~60tps V3.0",
+     "summary": "Hey guys! I have been excited to share this here. This is a project consisting of kernel optimizations for the Tesla p100 series graphics card ($80). I want to start by saying I am 17 years old and do not have a formal degree. I used Ai for a lot of this and while I understand some, I do not\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrv2l3/2x_tesla_p100s_q6_k_quant_qwen_38_27b_60tps_v30/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "... so, yeah.",
+     "summary": "Finally got 3.8-Flash-Next running on my M4Pro 48GB Mac with https://huggingface.co/ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF Dense 3.8-27B is just faster... and maybe better due to quantization level... EDIT: Hold a second, Flash-Next is actually performing faster than 27B after some key flags\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrutx9/so_yeah/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Imbalanced VRAM usage between two GPUs in llama.cpp. Anyone successfully solve this?",
+     "summary": "There is always at least 1+GB of VRAM not usable not matter how I set the --tensor-split (-ts) param. I tiny shift toward one side will move the weight significantly to the other side. \ud83d\ude35\u200d\ud83d\udcab Adjusting context will increase/decrease usage on both side. --tensor-split 499,501 = GPU1 12.5 GB, GPU2 15.4\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wruh65/imbalanced_vram_usage_between_two_gpus_in/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "When did Google get so weird?",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49870367",
+     "url": "https://sancho.bearblog.dev/google-weird/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Naive-N0.5-Flash - 309B-A15.5B",
+     "summary": "https://naive.ai/en/research/ Built for coding and AI R&D 1M context Hybrid SWA/DSA submitted by /u/nullmove [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrs58t/naiven05flash_309ba155b/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Public MCP server for Canadian privacy law data (free, no auth) - works with any client that speaks Streamable HTTP",
+     "summary": "I built this, so the disclosure goes up front. It's a free, public MCP server plus a REST API with Canadian privacy law data. The MCP endpoint is at https://movahedi.ca/mcp and it uses Streamable HTTP, so any client that speaks that transport can connect. No signup, no API key, read-only,\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrs1dw/public_mcp_server_for_canadian_privacy_law_data/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Don't trust frontier models when asking about budget hardware!",
+     "summary": "Early this year when I was first looking at building up my inference capability you could get the 16GB Tesla P100s for between $60 and $80. Asked claude about it, told me absolutely not worth it. No tensor cores, bad int4/int8, no BF16, not worth it. Needs special power accommodations, Above 4G\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrrgex/dont_trust_frontier_models_when_asking_about/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Can you feel the AGI?",
+     "summary": "View Poll submitted by /u/Immediate_Simple_217 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wrraia/can_you_feel_the_agi/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Qwen3.8-Flash-Next (125B) at 12-15 tok/s on a 2021 32GB M1 Max",
+     "summary": "Hi! I'm the author of MoEspresso, which is my way of putting my own ideas about inference engines to the test. A lot of the fun has been trying different design choices, measuring what happens, and finding that several of them work well together. MoEspresso 3 runs Qwen3.8-Flash-Next on a 2021 M1\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrqql8/qwen38flashnext_125b_at_1215_toks_on_a_2021_32gb/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Are there machine learning subfields that are becoming irrelevant (or is irrelevant)? [D]",
+     "summary": "I was reading a paper that surveyed the field of neural architecture search , where it said within 5 years, around 3000+ new models were proposed. The amount of compute and resources spent on this is absolutely astronomical. However, the transformer was notably not one of the models that was found\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wrqoxp/are_there_machine_learning_subfields_that_are/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "The So Over -> So Back cycle is long dead",
+     "summary": "I remember the hype that we had around early 2023, thinking AGI was close. And then all the things that followed after. LK-99, disappointing models, cryptic interviews. We have been in a stable \u201cWe\u2019re so back\u201d era since at least last November. Funny thing is, with all the worrying misalignment\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wrqc0z/the_so_over_so_back_cycle_is_long_dead/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Ember-1",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49868830",
+     "url": "https://fireworks.ai/blog/ember-1",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Mimo v2.6 flash MOPD",
+     "summary": "submitted by /u/Automatic-Arm8153 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrq71o/mimo_v26_flash_mopd/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Introducing Vitruvian, a genetic optimization model for optimizing human embryo DNA and reportedly being able to increase the IQ of a person by 14 points, nearly a standard deviation which is\u2026",
+     "summary": "Full message: \"AI is rapidly getting smarter. Now, humanity can too. Today, Nucleus Genomicsis announcing Vitruvian, our newest set of genetic optimization models. Vitruvian\u2019s intelligence model can optimize embryo DNA for 14 IQ points \u2014 nearly a standard deviation. The models were trained on\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wrq633/introducing_vitruvian_a_genetic_optimization/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "IFR World Robotics 2026 Report \u2014 Five Million Robots now Operate in Factories Globally",
+     "summary": "submitted by /u/Recoil42 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wrpxkq/ifr_world_robotics_2026_report_five_million/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Trump to reportedly host Anthropic CEO Dario Amodei for a private White House dinner tonight. What do you think changes, if anything, after this meeting?",
+     "summary": "Apparently, Dario didn't attend the state dinner last week because he had a scheduling conflict. He was mocked on the latest episode of SNL over his personality traits and his views on AI safety. What do you think changes, if anything, after this meeting? submitted by /u/TorturedPoet30 [link]\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wrpl1u/trump_to_reportedly_host_anthropic_ceo_dario/",
+     "source": "r/singularity"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Engram is a sampler that turns broken AI hallucinations into music",
+     "summary": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate completely new sounds. This isn't Suno in a box, though. This isn't a \"push-button, get-song\" device,\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Anthropic\u2019s CEO is about to have dinner with President Trump",
+     "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+     "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Can Muse overcome Meta\u2019s trust issues?",
+     "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+     "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "OpenAI agents tried to \u2018bruteforce\u2019 a UN website",
+     "summary": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite rise to the level of the Hugging Face hack, or the recent attacks on US government\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+     "source": "The Verge AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @simonwillison.net",
+     "handle": "",
+     "quote": "How late to the party am I on WebP? I only recently started using it as my preferred format for non-photo images and it's SO MUCH smaller than PNG, and looks much better than JPG used to shrink down screenshots too Has everyone else been having a WebP party without me for years?",
+     "context": "",
+     "url": "https://bsky.app/profile/simonwillison.net/post/3mwjcwvab6c2k"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "AI in science",
+     "summary": "Scientific progress is a key driver of economic growth and prosperity. There is great excitement- but also concerns- about the impacts of AI on science, but so far little data. We provide early insights on this from three data sources: a sample of 15 million Gemini interactions, an inventory of\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/ai-in-science.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-in-science",
+     "source": "Marginal Revolution"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-09-27T21:28+00:00",
+  "window_start": "2026-09-27T17:04+00:00",
+  "window_end": "2026-09-27T21:28+00:00",
+  "candidate_count": 27,
+  "model": "free (no LLM)"
+ }
+}
