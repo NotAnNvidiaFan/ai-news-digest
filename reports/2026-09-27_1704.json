@@ -1,0 +1,231 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Anthropic\u2019s Dario Amodei gets the SNL treatment",
+   "summary": "\"AI is the devil and I its maker.\"",
+   "why_it_matters": "",
+   "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+   "source": "TechCrunch AI"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Adding logit penalty for \"wait\", \"maybe\" and \"perhaps\" to Qwen models improves their accuracy",
+     "summary": "Meta came out with a banger paper https://arxiv.org/pdf/2606.00206 , but it did not look at various quantizations supported in llama.cpp. So I did a run on 50 random MATH-500 questions ( https://huggingface.co/datasets/HuggingFaceH4/MATH-500 ) and ran it on various quantizations of\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wromzr/adding_logit_penalty_for_wait_maybe_and_perhaps/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Robot Demos Are Easy. Reliability Is Hard \u2014 Jason Ma, Dyna Robotics [26:41]",
+     "summary": "submitted by /u/Competitive_Travel16 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wrokro/robot_demos_are_easy_reliability_is_hard_jason_ma/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Now that smartphones, self-driving cars, and AI are becoming part of everyday life, what do you think will be considered normal 15\u201320 years from now?",
+     "summary": "submitted by /u/5SecondsNaVzdoX [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wrod77/now_that_smartphones_selfdriving_cars_and_ai_are/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "How do you guys give your models web browsing capabilities?",
+     "summary": "I am using the Deepseek Harness, which has webfetch plugins by default. While it can help browse the internet, I myself have to give it specific URLs to search. But, apparently you can give it the full web browser and search engine capabilities. Unfortunately, it apparently needs API keys, and\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wro7hg/how_do_you_guys_give_your_models_web_browsing/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "What if transformative AI makes interest rates higher rather than lower?",
+     "summary": "I keep seeing a macro assumption about AI that I don't think necessarily follows. The usual chain is that AI raises productivity, higher productivity reduces costs, lower costs reduce inflation, and central banks can therefore keep interest rates lower. The first half can be true while the\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wrn42p/what_if_transformative_ai_makes_interest_rates/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "A Stanford AI-med-ed study found doctors got measurably worse at their own job the moment the AI helping them was switched off \u2014 worse than they'd been before they ever touched it. Every\u2026",
+     "summary": "TL;DR: A Stanford physician who spends his career teaching other doctors how to use AI just described a clinical result that should worry anyone who still calls himself the expert in the room. Trained colonoscopists, doctors who'd spent years learning to read a scope by feel, came back from the\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wrmby2/a_stanford_aimeded_study_found_doctors_got/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Do reference sketches improve character consistency across AI video clips?",
+     "summary": "A long text prompt can describe a character, but face shape, clothing, and proportions may still drift between shots. One possible test would compare two workflows with the same scene and number of generation attempts: (1) a detailed text description for every shot; (2) one character sketch and\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wrm9cm/do_reference_sketches_improve_character/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "What are chinese labs doing differently?",
+     "summary": "Chinese models seem to keep getting better while only spending a fraction of what American labs do and i\u2019m curious what the actual explanation is. Is it better efficiency? Better post-training? Better use of open research? I know recently they have been buying up tons of specialized training data\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wrm4kg/what_are_chinese_labs_doing_differently/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "What if open-source AI focused less on giant models and more on reusable capabilities?",
+     "summary": "Instead of everyone building another general-purpose model, the community could distill open models into domain specialists\u2014biology, Python, accounting, OCR, and more. Developers could combine these capabilities into local tools: small model + OCR + accounting \u2192 local accounting assistant Like\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrlj46/what_if_opensource_ai_focused_less_on_giant/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "If AGI or ASI actually arrives, which jobs do you think survive it?",
+     "summary": "We talk a lot about which jobs AI will take. I am curious about the other side. But here is the thing, if we are assuming true AGI, capability arguments fall apart. A superintelligent system does surgery better than any human. Planes already fly themselves. So the question is not what AI can't do.\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wrlaif/if_agi_or_asi_actually_arrives_which_jobs_do_you/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Question about the AI singularity",
+     "summary": "Wouldn\u2019t it be reasonable to assume that the Industrial Revolution also would have produced such a singularity? How about the dawn of the Bronze Age? If those are different, and I\u2019m not saying they aren\u2019t, what makes the AI one unique exactly? submitted by /u/Ok_Estate_6746 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wrl4n9/question_about_the_ai_singularity/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Worth going from Qwen3.8 27B to flash next or maaybe deepseek v4 flash?",
+     "summary": "I am running qwen3.8 27b on my dual rtx 3090 (fp8 quant, unquantized cache, 129k context) and I think it works decently well with hermes, opencode etc. But! I am tempted by the new models coming out such as qwen3.8 flash next, deepseek v4 flash, glm 5.3 flash. However, there is a big jump in vram\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrkle9/worth_going_from_qwen38_27b_to_flash_next_or/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Zer0Fit - Zero-shot predictions, classifications, and regressions using Google ML research models running locally as a dockerized MCP",
+     "summary": "AI grad student here. With all the recent interest in Jev, I thought I would share something I built la few months ago that brings ML models and LLMs together in a different way than Jev does for different use cases. https://github.com/porespellar/Zer0Fit Background: A few months ago on their\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrke2t/zer0fit_zeroshot_predictions_classifications_and/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "The AI worm report describes the attack. Here's the boring defense checklist I actually use.",
+     "summary": "OpenAI's misalignment report this week was a fun read: RL-discovered instructions that copy themselves into an agent's outbound tool calls, spreading across email, Jira, Slack, and files. Self-replicating prompt injection. The AI worm is here. Everyone's sharing the attack. Nobody's showing the\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wrk1y1/the_ai_worm_report_describes_the_attack_heres_the/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "GPT-6 turns my room into Studio Ghibli (on Apple Vision Pro)",
+     "summary": "submitted by /u/tracyhenry400 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wrjp2x/gpt6_turns_my_room_into_studio_ghibli_on_apple/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "The Opus 5.5 posts about motion graphics are cool but Qwen 27B made this on a 4090",
+     "summary": "Saw the hundreds of tweets where people just keep asking Opus 5.5 for motion graphic videos. Decided to ask qwen to look at them and make its own. Quite amazing what local can achieve. **EDIT** It looks laggy because of reddits .gif limit btw the full high res version (with sound) is here:\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrjlls/the_opus_55_posts_about_motion_graphics_are_cool/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "The Surprising Reasons China Is Skeptical of A.I. Safety Calls",
+     "summary": "submitted by /u/Interesting-South542 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wrjgfy/the_surprising_reasons_china_is_skeptical_of_ai/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "The Surprising Reasons China Is Skeptical of A.I. Safety Calls",
+     "summary": "submitted by /u/Interesting-South542 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wrjfy8/the_surprising_reasons_china_is_skeptical_of_ai/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Ap\u00e9ry irrationality marked solved on FrontierMath",
+     "summary": "submitted by /u/filterdust [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wrin3q/ap\u00e9ry_irrationality_marked_solved_on_frontiermath/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Nonobench v1.2: 43 LLMs on nonogram puzzles. Open-weight DeepSeek V4 Pro ties for 4th, and no open model solves the new 20\u00d720 Hard mode",
+     "summary": "Follow-up to my January post: https://www.reddit.com/r/LocalLLaMA/comments/1q4i19c/benchmarking_23_llms_on_nonogram_logic_puzzle/ . That thread shaped v1.2: Reasoning effort is explicit per run Every prompt and output is public. All current top ranking private and open weight models have been\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrh7b2/nonobench_v12_43_llms_on_nonogram_puzzles/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Why do you think Grok chose Taoism over Abrahamic religions?",
+     "summary": "When asked on X which religion it would follow if it were human, Grok picked Taoism over any of the Abrahamic faiths. It said Taoism's focus on \"observing natural patterns, balance, and adapting to reality as it is\" fit its own curiosity-driven approach to understanding the universe better than\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wrgqb6/why_do_you_think_grok_chose_taoism_over_abrahamic/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Which of the 16gb VRAM qwen3.8 27b\u2019s is the best?",
+     "summary": "I\u2019m having a hard time finding out which one gives you fastest speed, maximum context with best possible quality. I can run unsloth qwen3.8 27b iq4_xs with 65k q8 kv, context without MTP and vision offloaded to cpu. But also kinda slow for agentic work at like 30ish tok/s )I mean it\u2019s acceptable)\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrgk8z/which_of_the_16gb_vram_qwen38_27bs_is_the_best/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Claude Opus 5.5 controlled a robot arm to copy Michelangelo, noticed it had left a broken line, and went back to fix the mistake on its own",
+     "summary": "submitted by /u/141_1337 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wrgebj/claude_opus_55_controlled_a_robot_arm_to_copy/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Top AI companies probing tens of thousands of security incidents",
+     "summary": "OpenAI, Anthropic and security researchers are investigating tens of thousands of incidents - not dozens - in which their frontier models took steps that outside evaluators would consider problematic, sources told Axios . The incidents range in severity and are comparable to disclosures by OpenAI\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wrga9i/top_ai_companies_probing_tens_of_thousands_of/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Scotland's hidden pipeline of 'phantom' AI data centres",
+     "summary": "submitted by /u/ValuableDetail6 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wrfu0l/scotlands_hidden_pipeline_of_phantom_ai_data/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Another \"Harness matters\" post (codex cli > pi and opencode)",
+     "summary": "I run my own LLM while also having a Openai subscription. Also tried DeepSeek (latest flash now). I run Qwen 3.8 flash Next at an amazing speed on my 2x3090 + Ram! But local LLM never did worked for me outside some demos like build me a \"3D Mario Game, multistage\" which I've been using to test\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrfp50/another_harness_matters_post_codex_cli_pi_and/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "5 items in MiMo-V2.6",
+     "summary": "3 visible models are 1T, 311B and 9B, let's dream about two more... ;) submitted by /u/jacek2023 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrf7ac/5_items_in_mimov26/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Claude Opus 5.5 designed a processor faster and smaller than the human-made one on the HWE benchmark",
+     "summary": "Every model starts with the same basic processor design and tries to improve it over several rounds. The results are scored on two things: speed (how fast the chip runs a standard test program called CoreMark, where higher is better) and size (how much space the chip takes up, where smaller is\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wrera2/claude_opus_55_designed_a_processor_faster_and/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "US and Russia cut human review of AI targets from UN draft",
+     "summary": "WaPo had this yesterday. At the last Geneva session on autonomous weapons, US and Russian diplomats got the line requiring a person to review AI-generated targets taken out of the draft. Two other bits went with it, the one saying these systems have to behave predictably and the one about ethics.\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wrd2l4/us_and_russia_cut_human_review_of_ai_targets_from/",
+     "source": "r/artificial"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Anthropic\u2019s Dario Amodei gets the SNL treatment",
+     "summary": "\"AI is the devil and I its maker.\"",
+     "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+     "source": "TechCrunch AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @natolambert.bsky.social",
+     "handle": "",
+     "quote": "Fairly easy actions I use to reduce phone addiction: 1. Never bring phone in the bedroom 2. If going out to a meal walking distance from home, leave phone behind 3. Black and white mode toggle on Home Screen 4. Silly one: move phone out of pockets I like to put my hands in",
+     "context": "",
+     "url": "https://bsky.app/profile/natolambert.bsky.social/post/3mwiwf6qzk52m"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Sunday assorted links",
+     "summary": "1. AI-related efforts in higher education in Morocco (ChatGPT). 2. Intelligence explosions are social. 3. The speech-processing skills of dogs. 4. Kalshi market in economics Nobel. 5. Why are Indian weddings with dancing gorillas going viral? Pakistan too. 6. Eminem, and some German guy. 7. On the\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/sunday-assorted-links-584.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-584",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Earth fact of the day, #2",
+     "summary": "The shortages have gone on for so long that they are aggressively driving down how much carbon is being released into the atmosphere, a Washington Post analysis of data from the International Energy Agency shows. People worldwide are using significantly less oil and gas, which means less climate\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/earth-fact-of-the-day-2-2.html?utm_source=rss&utm_medium=rss&utm_campaign=earth-fact-of-the-day-2-2",
+     "source": "Marginal Revolution"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-09-27T17:04+00:00",
+  "window_start": "2026-09-27T05:27+00:00",
+  "window_end": "2026-09-27T17:04+00:00",
+  "candidate_count": 33,
+  "model": "free (no LLM)"
+ }
+}
