@@ -1,0 +1,214 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "The internet is convinced Elon Musk\u2019s xAI trolled OpenAI\u2019s \u2018Dots\u2019 launch",
+   "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+   "why_it_matters": "",
+   "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+   "source": "TechCrunch AI"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Any good harness or tools for helping students?",
+     "summary": "What FOSS/self-hosted tools or AI tools have you found genuinely helpful for students? Also interested in anything non-AI that has helped with studying, notes, organization, research, etc. Curious what you guys actually use or found useful. (written fully by human) submitted by /u/HitarthSurana\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtnhte/any_good_harness_or_tools_for_helping_students/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Good setup for QFN on 48GB Ampere GPU (A40)",
+     "summary": "Anyone have a good config they've found for QFN on a A40 (or similar Ampere GPU(s) with 48GB VRAM)? The system the card is in has 128GB of RAM (DDR3); right now it's running 27B but I'm curious if there's a way to move to QFN to maybe get better speed/a little more smarts. TY in advance! submitted\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtn3t3/good_setup_for_qfn_on_48gb_ampere_gpu_a40/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "My tldr for OpenAI dev day",
+     "summary": "Anthropic ships tons of stuff monthly without dev day Look how Claude Code improved in last couple of months compared to codex. I stopped using Codex, I use pi because it is faster and more token efficient submitted by /u/HimaSphere [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wtm7q5/my_tldr_for_openai_dev_day/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Best model for blender?",
+     "summary": "Trying to see if I can use a local model to generate game assets, or even 3D printer models. Any suggestions? Something that would fit in 64GB of ram, speed is not an issue. Just need it to work well. submitted by /u/rorowhat [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtlxa9/best_model_for_blender/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I don't understand the constant bashing of GPT 6/6.1 Sol's performance relative to 5.6 and Astra. Why are we ignoring the elephant in the room, the absurd price + efficiency gains? It costs half as\u2026",
+     "summary": "https://preview.redd.it/huqgxlvbuish1.png?width=1422&format=png&auto=webp&s=5ec18c8812535e0160863d4b27a818ae4fc47aee Call me crazy, but even if its benchmaxed and worse than Sol 5.6, Opus 5.5 or Astra, I don't get why that would matter being THAT cheap with absurd intelligence per dollar.\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wtluzq/i_dont_understand_the_constant_bashing_of_gpt_661/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Anthropic says a Chinese AI model anyone can download can now build working hacks on its own",
+     "summary": "Worrying news from Anthropic's Frontier Red Team. submitted by /u/ross2000 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wtkwkq/anthropic_says_a_chinese_ai_model_anyone_can/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Does post training make LLMs funnier?",
+     "summary": "We did a study: does post training actually make LLMs funnier? We used open models that publish every stage of post training, so we could compare a base model with the future models it became: Tulu 3 (on Llama 3.1 70B), OLMo 3.1 32B and Qwen2.5. We tracked 11 stages, 100 joke prompts, 64 human\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtkgsl/does_post_training_make_llms_funnier/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Bro how did they get this",
+     "summary": "submitted by /u/00davey00 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wtjspp/bro_how_did_they_get_this/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Another case of censorship",
+     "summary": "I was optimizing my diet using a cloud AI provider, and I found my Pi agent stuck like this. Looks like I had too many mushrooms lol. submitted by /u/autoencoder [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtjp1j/another_case_of_censorship/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "AI needs $6T in annual revenue to justify data centre boom",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49898952",
+     "url": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Show HN: TurboGPT: train 22KiB transformer in 13s",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49898931",
+     "url": "https://github.com/lostmsu/TurboGPT",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "[serious] roleplay",
+     "summary": "I was just wondering because I see it mentioned in threads here a lot... When people talk about LLMs used for roleplay, that's a euphemism for dirty/sexy chats right? Kind of like how \"torrenting linux ISOs\" is really just pirating copywritten media. Or are you guys really burning tokens\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtje3i/serious_roleplay/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "AA Intelligence Index Results Came for GPT-6.1 Sol. Behind Opus 5.5, Sonnet 5.5, Fable 5.1, and Astra.",
+     "summary": "submitted by /u/queenofartists [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wtixue/aa_intelligence_index_results_came_for_gpt61_sol/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Someone using Opus 5.5 ports the entire game of Minecraft into Elden Ring, running on Mac",
+     "summary": "Source: https://x.com/TobynJacobs/status/2104884843297599594 submitted by /u/Temporary_Idea8880 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wtiubh/someone_using_opus_55_ports_the_entire_game_of/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "10 Sonnet 5.5 agents just did 15 hours of autonomous research on a problem dating to 1904, and came back with a 17,895-line mathematical proof",
+     "summary": "submitted by /u/141_1337 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wtik4l/10_sonnet_55_agents_just_did_15_hours_of/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "AA's New Pareto Line With GPT-6.1 Sol",
+     "summary": "submitted by /u/Ok_Barracuda_1161 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wticbq/aas_new_pareto_line_with_gpt61_sol/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "TypeNotSafe",
+     "summary": "they should've open sourced their methodology while the hype train was alive submitted by /u/Technical-Will-2862 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wti0rp/typenotsafe/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Scientists recently gave mice without prefrontal cortexes human brain implants - and after seeing these developing connections to the mice\u2019s brains and spinal cords - now they're wondering if these\u2026",
+     "summary": "Lab-grown brain organoids: time for international oversight submitted by /u/Distinct-Question-16 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wthlb0/scientists_recently_gave_mice_without_prefrontal/",
+     "source": "r/singularity"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "The internet is convinced Elon Musk\u2019s xAI trolled OpenAI\u2019s \u2018Dots\u2019 launch",
+     "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+     "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Protests against OpenAI get increasingly creative",
+     "summary": "New sculpture depicts AI leaders escaping a sinking ship.",
+     "url": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Elon Musk\u2019s AI-powered Grokipedia is updating again",
+     "summary": "Grokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after a months-long pause. In August, Lawfare reported that articles on Grokipedia hadn't reviewed edits since April, but the platform's live updates site is now showing various recent changes\u2026",
+     "url": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
+     "summary": "The deal, which is expected to close by year's end, is worth $8.2 billion.",
+     "url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "OpenAI\u2019s latest features take direct aim at the app store model",
+     "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
+     "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+     "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
+     "url": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "OpenAI Gets Sued Over the Hugging Face Hack",
+     "summary": "A nonprofit in California is doing what Hugging Face has not\u2014attempting to hold OpenAI legally accountable for the actions of its agents.",
+     "url": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Here\u2019s why OpenAI is absent from Nvidia\u2019s industry-wide effort to end rogue AI agents",
+     "summary": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
+     "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Here's what actually happened in OpenAI's Australian gov't server hack",
+     "summary": "Without a \"full set of safeguards,\" agent accessed \"system information and source code.\"",
+     "url": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/",
+     "source": "Ars Technica AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "Leaving aside Anthropic's incentives for publishing this research, there is no doubt that open weights models will soon create the same security threats that closed source models have been demonstrating, except without guardrails. We are close, so plan accordingly. www.anthropic.com/research/glm...",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mwosru4zes2o"
+    },
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "I only used the newly announced ChatGPT Dots briefly before launch, so can\u2019t offer a detailed review, but I found it to be a good entry in the rapidly-expanding Clawlike category with Muse & Grokbot. Using a capable model with access to your data as an assistant & second opinion is remarkably useful",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mwohcfeiss23"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Quoting Anthropic Frontier Red Team",
+     "summary": "We evaluate several models on 100 tasks from the [internal Binary Exploitation benchmark] (selected at random), and find that GLM-5.3 develops full control flow hijacks in 4% of the trials; Claude Mythos Preview did so in 6%. Although GLM-5.3 performs below Claude Mythos Preview here, a meaningful\u2026",
+     "url": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/",
+     "source": "Simon Willison"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-09-29T22:25+00:00",
+  "window_start": "2026-09-29T18:08+00:00",
+  "window_end": "2026-09-29T22:25+00:00",
+  "candidate_count": 30,
+  "model": "free (no LLM)"
+ }
+}
