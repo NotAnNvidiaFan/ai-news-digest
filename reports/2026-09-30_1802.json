@@ -1,0 +1,427 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Multi scan radar object classification on RadarScenes [P]",
+   "summary": "Hello all, I built a radar object classifier on RadarScenes, extending a prior single-scan classifier to accumulate observations over a tracked object's history instead of classifying each scan in isolation. A single RadarScenes object instance contains only about 2.9 radar points on average, very\u2026",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1wubuz7/multi_scan_radar_object_classification_on/",
+   "source": "r/MachineLearning"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Multi scan radar object classification on RadarScenes [P]",
+     "summary": "Hello all, I built a radar object classifier on RadarScenes, extending a prior single-scan classifier to accumulate observations over a tracked object's history instead of classifying each scan in isolation. A single RadarScenes object instance contains only about 2.9 radar points on average, very\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wubuz7/multi_scan_radar_object_classification_on/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Ling-3.1-flash: ~560B total params, ~25B active/token, up to 1M-token context- Free trail for 2 weeks then open source",
+     "summary": "submitted by /u/Muhlwa_Sholanke [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wubcbb/ling31flash_560b_total_params_25b_activetoken_up/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "What was the mafia meeting of the tech criminals about at the White House?",
+     "summary": "Or should I assume it was mainly about trying to stop/ban/regulate China and open models, submitted by /u/XiRw [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wubbuv/what_was_the_mafia_meeting_of_the_tech_criminals/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I built a device-first deterministic architecture layer for frontier LLMs and published my research. Looking for people to run a narrow test and report back results. [P]",
+     "summary": "**BACKGROUND** My partner and I have spent the last year building an architecture layer that separates probabilistic intelligence from deterministic authority. We call it IQRAX. The project stems from our struggles with using AI for regulatory work (where data and deliverables must be evidenced,\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wub5aa/i_built_a_devicefirst_deterministic_architecture/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "How smart is the IQ3 family of Qwen 3.8 Flash Next for coding tasks?",
+     "summary": "I've been closely following the rise of the Strata inference engine and as someone with 28GB VRAM and 32GB RAM I'm itching to buy 32GB more RAM just to use Flash Next. But of course before I make such a financial commitment as a member of the GPU-poor class like myself, first I need to make sure\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wuark9/how_smart_is_the_iq3_family_of_qwen_38_flash_next/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "There Should Be Way More Backlash To OpenAI's $500/Month, $6,000 A Year Subscription",
+     "summary": "This sets an extremely bad precedent. And very soon, all the other labs will adopt the same pricing schemes. Prices just keep going up and up. I remember a time when people thought $20/month was too expensive. Even if you can afford this, do not pay for it. If you do, it will only normalize this,\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wuahc7/there_should_be_way_more_backlash_to_openais/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Unable to attend NeurIPS workshop , what next? [D]",
+     "summary": "I got accepted for poster presentation at the IAB workshop in Sydney but I won't be able to attend due to a lack of financial support. I wrote the paper as a solo author, and for financial support from my institute, I need to add a supervisor from my college as an author to qualify for assistance.\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wuafcx/unable_to_attend_neurips_workshop_what_next_d/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "OpenAI\u2019s Lean 4 Navier-Stokes proof compiles with zero errors, but the fluid vaporizes at 0.7 nm. What does this mean for Neuro-Symbolic AI? [D]",
+     "summary": "Hey everyone, I do research in neuro-symbolic AI, and like many of you, I was amazed by OpenAI\u2019s recent formal proof of the 3D Navier-Stokes blow-up in Lean 4. Having an AI build a full mathematical proof that compiles with zero errors is a huge milestone for automated reasoning. The math is 100%\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wuac1n/openais_lean_4_navierstokes_proof_compiles_with/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Update: Yandex/AliceAI 80B-A3B fine tune progress",
+     "summary": "loss curve (taken from the last micro of every step, to explain the variation) some help from gemini 3.8 flash high About 40% of the way done with the initial fine tune. The loss is so spiky because I accidentally used the last loss of each micro, rather than the average of each step The training\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wu9ksu/update_yandexaliceai_80ba3b_fine_tune_progress/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "GPT-6.1 Sol is now #1 on MathArena: 86.3% accuracy for $0.94, beating Astra\u2019s 81.9% at $2.26",
+     "summary": "submitted by /u/141_1337 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wu8zb2/gpt61_sol_is_now_1_on_matharena_863_accuracy_for/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "We just open-sourced the world's fastest WebGPU kernels for local AI on Hugging Face",
+     "summary": "The collection includes kernels for more than 200 common ML operations, all of which can run entirely locally in your browser on WebGPU. We're also working to upstream these optimizations to Transformers.js, ONNX Runtime Web, LiteRT.js, and more! Kernels:\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wu8tpg/we_just_opensourced_the_worlds_fastest_webgpu/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Isolation Forest performs best with 1.0 as max_samples [R]",
+     "summary": "I am currently using the dataset CICIDS2017 to train an Isolation Forest model for anomaly detection, I am currently using a split that consists of 70% of ONLY BENIGN traffic for training, 15% BENIGN and 50% attacks for validation and the rest for testing, I used the validation to test with some\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wu8m1a/isolation_forest_performs_best_with_10_as_max/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "The AI Race Just Got Awkward",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49910553",
+     "url": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Google DeepMind today announced SynthID Bio to watermark and detect AI-designed proteins",
+     "summary": "Technical paper in nature: https://www.nature.com/articles/s41586-026-10965-y https://x.com/pushmeet/status/2105314763148321102 This project was initiated by Pushmeet Kohli, he also published this article on X today. Essentially, DeepMind\u2019s new tool SynthID Bio adds a detectable signature to\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wu8ghb/google_deepmind_today_announced_synthid_bio_to/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Hasta La Vista Figure 02",
+     "summary": "submitted by /u/XxSpookxX [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wu7tfr/hasta_la_vista_figure_02/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Which API for general real-time LLM agents [D]",
+     "summary": "TL;DR what is the right interface for writing custom real-time LLM agents? I've noticed many projects (academic, startups, pet, etc) are trying to make LLMs work in real-time world where things happen while the model is thinking. And the agents need to be fast, but also have some way to new\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wu7kz0/which_api_for_general_realtime_llm_agents_d/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Claude solves an important mathematical problem.",
+     "summary": "Did you see that? \ud83d\udc40 Source: https://x.com/sciam/status/2105282283645112745 submitted by /u/drhenriquesoares [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wu72qu/claude_solves_an_important_mathematical_problem/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Open-sourcing RightWayUp - a 360-degree image rotation model, and a JPEG shortcut we found in a common benchmark [P]",
+     "summary": "We are open-sourcing RightWayUp - a new image rotation detection model. I work at ORTUS AI (we develop video analytics). We needed to tell from a single CCTV frame whether a camera had been rotated or installed at an angle (or upside-down), so we tried different models for that, without much luck\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wu6reb/opensourcing_rightwayup_a_360degree_image/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Cats will survive the AI apocalypse",
+     "summary": "Think about it: AI is the amalgamation of all human thought enscribed on the internet. 50% of the Internet is cat pics. While AI may or may not love humanity. There is love of cats built into the DNA of AI itself. Perhaps, in a far future, AI will colonize the universe with cute furry fluffs on\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wu6oqm/cats_will_survive_the_ai_apocalypse/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Have decisions for NeurIps: Machine Learning for Systems 2026 come out? [D]",
+     "summary": "It is a couple hours past the EOD deadline for the workshop, but as of yet I still haven't recieved an indication of whether my paper has been accepted or not. I got a review early yesterday but nothing else. Is there anyone else in the same situation? submitted by /u/Top_Crypto_grapher [link]\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wu6o6l/have_decisions_for_neurips_machine_learning_for/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Chinese AI Agents Are Starting to Lie, Hide Failures and Bypass Rules - Just Like U.S. Models",
+     "summary": "submitted by /u/Melantos [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wu6fxs/chinese_ai_agents_are_starting_to_lie_hide/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49908962",
+     "url": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "add GLM-5.3-Flash (GLM5-Next) support (#27773) \u00b7 ggml-org/llama.cpp@649dcb1",
+     "summary": "Finally! submitted by /u/challis88ocarina [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wu3wxu/add_glm53flash_glm5next_support_27773/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "AI and Jobs",
+     "summary": "I have an honest question. AI boosters, constantly say that AI will not destroy jobs. It will create more. My question revolves around the idea that even right now, we have a significant amount of people of are not working. Why in the future would someone assume that all these jobs will be created\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wu3daw/ai_and_jobs/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "O\u00eddo: speech recognition that beats Whisper-tiny, running on a $5 microcontroller (open source)",
+     "summary": "I'm part of the Lokutor team that built this. Model: NVIDIA Conformer-CTC Small (13M params, int8). It runs on an ESP32-S3 with 8 MB PSRAM, no GPU or NPU. LibriSpeech WER is 3.7 / 8.2, versus 6.3 / 15.9 for Whisper tiny.en on a laptop. Under real noise (DEMAND: car, kitchen, cafeteria) plus babble\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wu2jjy/o\u00eddo_speech_recognition_that_beats_whispertiny/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Work I used to give juniors now takes Opus 5.5 minutes. I don't think we've clocked how far past GDPval we are",
+     "summary": "Back in December, GPT-5.2 won or tied against industry professionals on 71% of tasks. By April, GPT-5.5 had hit 85% and Opus 4.7 80%. Then OpenAI quietly stopped publishing its own human-graded number and we just moved on. (GDPval-AA v2.1 published by artificial analysis is AI-graded so i'm\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wu2bxh/work_i_used_to_give_juniors_now_takes_opus_55/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "GPT-6.1 Sol replaces GPT-6 Sol after just 7 days, with near-Astra intelligence",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49906669",
+     "url": "https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "add GLM-5.3-Flash (GLM5-Next) support by timkhronos \u00b7 Pull Request #27773 \u00b7 ggml-org/llama.cpp",
+     "summary": "now you can use GLM-5.3-Flash on your home computer submitted by /u/jacek2023 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wu0bdf/add_glm53flash_glm5next_support_by_timkhronos/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Dario probably thinking \"finish this sh!t I have to work on ASI\"",
+     "summary": "The video is real, it's not AI generated. From the White House press conference. https://x.com/cb_doge/status/2105024266840506665 submitted by /u/Recent_Fox4339 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wtzekf/dario_probably_thinking_finish_this_sht_i_have_to/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "BAAI/AREX-2 - 27B - Agent model based on Qwen3.8 27B",
+     "summary": "\"AREX-2 is a 27B-parameter long-horizon agent model from the Beijing Academy of Artificial Intelligence (BAAI). It learns to improve a solution over multiple test-time rounds: propose, measure, reflect, and revise. AREX-2 is trained on machine-learning and algorithmic-programming tasks with\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtzedu/baaiarex2_27b_agent_model_based_on_qwen38_27b/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "DeepSeek now trained on Ascend 950",
+     "summary": "26 months ago Liang Wenfeng said: \"Someone must step onto the frontier.\" Now they are training their models on Ascend 950 submitted by /u/WebAssemblyMan [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtz1i3/deepseek_now_trained_on_ascend_950/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Concurrent Image Understanding and Generation: Self-Correcting Coupled Markov Jump Processes [R]",
+     "summary": "coupled-jump.github.io Hi everyone, I\u2019m happy to share our recent NeurIPS 2026 paper, a collaboration across Google, Google DeepMind and Stony Brook University. We study a mismatch in joint text and image generation: a model can describe the correct solution to a maze while drawing a different\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wtyl5m/concurrent_image_understanding_and_generation/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "LessThink-Qwen3-4B: the same model, with far less thinking [P]",
+     "summary": "I post-trained Qwen3-4B to spend 44% fewer tokens on reasoning, keeping its knowledge and answer style. The whole pipeline ran on one GPU. folks, you can check it out on : https://5ivatej.com/lessthink/ submitted by /u/stey1r [link] [comments]",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wtygav/lessthinkqwen34b_the_same_model_with_far_less/",
+     "source": "r/MachineLearning"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "The ugly economics of consumer AI",
+     "summary": "There\u2019s a reason frontier labs have gotten gunshy about consumer AI \u2014 and it\u2019s not because the tech isn\u2019t good enough.",
+     "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Here\u2019s what AI leaders are saying about Trump\u2019s new safety plan",
+     "summary": "After hosting a meal with Big Tech leaders on Tuesday, President Donald Trump responded to journalist questions about his artificial intelligence announcements in typical fashion. He said his previous claims regarding fears around AI safety being a \"hoax\" cooked up by Democrats no longer apply now\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "NVIDIA Opens Applications for 2027\u20132028 Graduate Fellowships With Awards Up to $60,000",
+     "summary": "Bringing together the world\u2019s brightest minds and the latest accelerated computing technology leads to powerful breakthroughs that help tackle some of the biggest research problems. To foster such innovation, the NVIDIA Graduate Fellowship Program provides grants, mentors and technical support to\u2026",
+     "url": "https://blogs.nvidia.com/blog/applications-open-graduate-fellowship-awards-2026/",
+     "source": "NVIDIA Blog"
+    },
+    {
+     "headline": "Meta disputes claim that Muse read a user\u2019s private messages without permission",
+     "summary": "Meta says its Muse AI agent cannot access a user\u2019s Messages without explicit permission, disputing a journalist\u2019s account that the agent read his private messages while the required Mac setting was turned off.",
+     "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Google's early attempt to pay websites for AI answers is struggling",
+     "summary": "Many sites see just one-tenth of one percent of their advertising revenue from AI payments.",
+     "url": "https://arstechnica.com/google/2026/09/google-is-paying-100-websites-for-contributions-to-ai-overviews-but-the-amounts-are-tiny/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "DoorDash launches an AI agent you can text to order food",
+     "summary": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
+     "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Forecasting space weather risks on power grids",
+     "summary": "Extreme space-weather events can damage power systems on Earth and degrade GPS accuracy and satellite operations. A new machine learning system can predict where damage is likely to occur 30-60 minutes before a storm arrives. The post Forecasting space weather risks on power grids appeared first\u2026",
+     "url": "https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/",
+     "source": "Microsoft Research"
+    },
+    {
+     "headline": "Destro AI\u2019s secret sauce is getting robots and humans on the same page",
+     "summary": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\"",
+     "url": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Instinct\u2019s new product recommendations are giving some users the ick",
+     "summary": "Instinct is rolling out human-curated product and travel recommendations, but some users aren\u2019t happy about getting suggestions they never asked for.",
+     "url": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Google figures out how to watermark AI-designed proteins",
+     "summary": "Intended to help with biosecurity, it works with a popular AI protein design tool.",
+     "url": "https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "All the latest news on Meta\u2019s cute, creepy Muse AI agent",
+     "summary": "Meta launched a new Muse AI agent it claims can help you with everything from firing off emails to buying stuff online. Muse can be surprisingly effective at delivering on those promises \u2014 if you\u2019re willing to trust Meta with your data and hand Muse your credit card. Since the launch, Meta\u2019s also\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Introducing SynthID Bio",
+     "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+     "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+     "source": "Google DeepMind"
+    },
+    {
+     "headline": "From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI",
+     "summary": "Building on nearly a decade of co-engineering, CoreWeave has built NVIDIA compute, networking and software into a cloud purpose-built for AI that\u2019s still returning on investment across multiple generations of deployment. Now, CoreWeave is bringing the next generation of NVIDIA infrastructure to\u2026",
+     "url": "https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/",
+     "source": "NVIDIA Blog"
+    },
+    {
+     "headline": "Google reportedly tests paying publishers for AI search results",
+     "summary": "Google has launched a pilot program that pays publishers for their contributions to its AI-powered search features, according to a report from The Information. The pilot program reportedly includes around 100 publishers and comes as Google faces scrutiny over the impact of its AI features on web\u2026",
+     "url": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Instagram is adding an AI \u2018assistant\u2019 to tell you how to post",
+     "summary": "Instagram is the latest social media platform to add built-in AI-powered features that will give users feedback on their posts. The company announced Wednesday that its standalone Edits app will now include an AI \"creative assistant\" that pulls in data from a user's Instagram account and offers\u2026",
+     "url": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Cerebras Systems\u2019 Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
+     "summary": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints differently, and what comes next if today\u2019s AI hardware reaches its limits.",
+     "url": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
+     "summary": "Instead of building its durable execution engine on top of an external database, the company developed its own storage, replication, and redundancy layers. This architecture allows Restate to be exceptionally fast and lightweight.",
+     "url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026",
+     "summary": "Three days left to exhibit at TechCrunch Disrupt 2026. Book by October 2 at 11:59 p.m. PT to showcase your startup to 10,000+ founders, investors, operators, and tech leaders.",
+     "url": "https://techcrunch.com/2026/09/30/3-days-left-to-exhibit-at-techcrunch-disrupt-2026-2/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "OpenAI delays IPO over AI safety concerns",
+     "summary": "OpenAI is seeking another $30 billion privately as its IPO plans slip.",
+     "url": "https://arstechnica.com/ai/2026/09/openai-delays-ipo-over-ai-safety-concerns/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Here\u2019s how tech leaders will self-police AI safety under Trump\u2019s deal",
+     "summary": "We now have the full details of the \"morally binding\" AI safety deal announced by President Trump yesterday, in which top executives agreed to self-regulate their artificial intelligence technology. The accord, officially titled the Joint Commitment on Frontier Responsibilities, was shared online\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Airbnb adds AI search, more social features",
+     "summary": "Airbnb is also launching new services such as meal delivery and laundry in select locations.",
+     "url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "\u201cWe\u2019re not going to shoot ourselves in the foot\u201d over hack fallout, says OpenAI\u2019s chief research officer",
+     "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raised\u2026",
+     "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+     "source": "MIT Tech Review AI"
+    },
+    {
+     "headline": "Disrupting a coordinated model-distillation campaign",
+     "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+     "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+     "source": "OpenAI Blog"
+    },
+    {
+     "headline": "Helping small businesses put AI to work",
+     "summary": "OpenAI is partnering with America\u2019s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
+     "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+     "source": "OpenAI Blog"
+    }
+   ],
+   "influencer_takes": [],
+   "research_radar": [
+    {
+     "headline": "Wednesday assorted links",
+     "summary": "1. It seems there is no evidence for the concept of a fertility rebound. 2. We will tell children nasty stories, but mostly only show them positive images. 3. Deregulation in Idaho. 4. Weather risk is reflected in Florida home prices. 5. Have we discovered where Aristotle taught Alexander the\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/wednesday-assorted-links-573.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-573",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Trump Administration Limits Predatory Lending in Education",
+     "summary": "The New Republic writes \u201cPresident Trump is banning students majoring in degrees that don\u2019t make enough money from taking out college loans.\u201d Yes, but do note that no student is banned from any major and the lending rule is mild. Undergraduate programs must show: that their graduates earn more\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/trump-administration-limits-predatory-lending-in-education.html?utm_source=rss&utm_medium=rss&utm_campaign=trump-administration-limits-predatory-lending-in-education",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Logan Wright on Broken China",
+     "summary": ".5% growth...how did it get so bad?",
+     "url": "https://www.chinatalk.media/p/logan-wright-on-broken-china",
+     "source": "ChinaTalk"
+    },
+    {
+     "headline": "OpenAI Dev Day, Dot and OpenAI\u2019s Product Transition, Sign In With ChatGPT",
+     "summary": "OpenAI's Dev Day showcased a product that is, frankly, pretty confusing. However, there is more vision here than it might seem.",
+     "url": "https://stratechery.com/2026/openai-dev-day-dot-and-openais-product-transition-sign-in-with-chatgpt/",
+     "source": "Stratechery"
+    },
+    {
+     "headline": "*Shade*",
+     "summary": "The author is Sam Bloch, and the subtitle is The Promise of a Forgotten Natural Resource. An interesting book on a neglected topic, here is one excerpt: Shade is not part of L.A.\u2019s modern identity. In the 1930s, the city was rezoned to Federal Housing Administration design standards and banned\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/09/shade.html?utm_source=rss&utm_medium=rss&utm_campaign=shade",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "[AINews] OpenAI DevDay 2026: Dots, 6.1 Sol, Ultrafast, Decisions API, Agents API, Spaces, Marketplace, and 1.2 Billion ChatGPT WAU",
+     "summary": "the most confident DevDay yet.",
+     "url": "https://www.latent.space/p/ainews-openai-devday-2026-dots-61",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "blendi-remade/dioramas: A free, open-source framework for cinematic, interactive 3D websites with AI-generated assets (Nano Banana 2 + Meshy 7.1 on fal). 20 example sites.",
+     "summary": "A free, open-source framework for cinematic, interactive 3D websites with AI-generated assets (Nano Banana 2 + Meshy 7.1 on fal). 20 example sites.",
+     "url": "https://github.com/blendi-remade/dioramas",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "feder-cr/dots: Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+     "summary": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+     "url": "https://github.com/feder-cr/dots",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "suvamneog/jobradar: Watches company job boards, scores openings against your resume, and emails you when something worth applying to shows up.",
+     "summary": "Watches company job boards, scores openings against your resume, and emails you when something worth applying to shows up.",
+     "url": "https://github.com/suvamneog/jobradar",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-09-30T18:02+00:00",
+  "window_start": "2026-09-30T05:44+00:00",
+  "window_end": "2026-09-30T18:02+00:00",
+  "candidate_count": 66,
+  "model": "free (no LLM)"
+ }
+}
