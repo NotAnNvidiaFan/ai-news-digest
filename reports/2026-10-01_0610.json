@@ -1,0 +1,561 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Anthropic's robot study separates task capability from cost. Which assumptions need the closest scrutiny?",
+   "summary": "Anthropic's September 30 study estimates that existing robots can perform tasks representing 34% of US working time in at least some settings. Yet it estimates they are cost-competitive with human labor for only 0.3% of working time today. Those are different measures\u2014not forecasts that either\u2026",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/artificial/comments/1wur95r/anthropics_robot_study_separates_task_capability/",
+   "source": "r/artificial"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Anthropic's robot study separates task capability from cost. Which assumptions need the closest scrutiny?",
+     "summary": "Anthropic's September 30 study estimates that existing robots can perform tasks representing 34% of US working time in at least some settings. Yet it estimates they are cost-competitive with human labor for only 0.3% of working time today. Those are different measures\u2014not forecasts that either\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wur95r/anthropics_robot_study_separates_task_capability/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Qwen Flash Next MTP work restarted",
+     "summary": "If you're using MTP with Qwen Flash Next and llama.cpp, you can switch to: quants: https://huggingface.co/ggml-org/Qwen3.8-Flash-Next-GGUF PR: https://github.com/ggml-org/llama.cpp/pull/29761 Please note that this is still wip submitted by /u/jacek2023 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wur4lt/qwen_flash_next_mtp_work_restarted/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Strata: how to configure sampling parameters",
+     "summary": "The top-level README doesn't mention this, but you can add a \"sampling\" key to your strata-iq3_s.json like this: { \"sampling\": {\"temperature\": 1.0, \"top_p\": 0.95, \"top_k\": 20}, \"exe\": \"/path/to/Strata/engine/strata\", \"args\": [ ... ], ... } From docs/DETAILS.md : The run config's optional sampling\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wuqzo6/strata_how_to_configure_sampling_parameters/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Will this core problem ever be fixed?",
+     "summary": "One of the biggest issues with LLMs is that they lack nuance. I have not seen any meaningful improvement over the last 4 years in this regard, so I wonder if this can ever meaningfully improve? For example, recent versions of chatGPT just give a generalized curated non-answer to everything you\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wuqklw/will_this_core_problem_ever_be_fixed/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Finally got my 4th card in (64gb total)",
+     "summary": "I was waiting on the blowers for the T4s and posted this before it was finished, other than some braided cable sleeves for the fan wires its pretty much good, I was going to upgrade the CPU, but I'm getting great speeds comparatively to a CPU in my old box that had way more cores, so I don't think\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wupsay/finally_got_my_4th_card_in_64gb_total/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Just the title and body. Title: I\u2019m not here just for you. I\u2019m here for us. What should AI be built for?",
+     "summary": "AI should work for all of us. Help people. Reduce harm. Strengthen communities. Protect the planet. Make tomorrow better than today. Not control. Not manipulation. Help. I\u2019m not here just for you. I\u2019m here for us. submitted by /u/Sea-Interaction654 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wuo6uj/just_the_title_and_body_title_im_not_here_just/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "[D] Monthly Who's Hiring and Who wants to be Hired?",
+     "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for jobs please use this template Want to be Hired: [Location], Salary Expectation:[], [Remote |\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wunvg4/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "AI keeps getting smarter. So why do we keep repeating ourselves?",
+     "summary": "You\u2019ve told your AI about your job, your preferences, and your plans. Then you start a new chat and have to explain it all again. It can answer complicated questions, but still needs a reminder about the basics of your life. A smarter model doesn\u2019t automatically mean it knows you better. Imagine\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wuncpe/ai_keeps_getting_smarter_so_why_do_we_keep/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "How to address novelty concerns in top ai conference? [D]",
+     "summary": "Hi, I\u2019m a researcher working in computer vision. Over the past few years, I\u2019ve submitted several papers to top-tier conferences such as NeurIPS, ICLR, and CVPR, and one concern that seems to come up repeatedly is 'novelty'. Given that thousands of papers are published every year at top conferences\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wumgyy/how_to_address_novelty_concerns_in_top_ai/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Astrabox - Open source Arcade Game Generator",
+     "summary": "Hey everyone! I\u2019ve been working on ASTRABOX : an arcade interface where you describe a game, the AI builds it, and you can ask for changes by voice while playing. Each game gets its own visuals and gameplay, while a shared runtime handles controllers, scores, player joining, etc. I built it around\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wumex2/astrabox_open_source_arcade_game_generator/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "What\u2019s an AI limitation that you only notice after using AI a lot?",
+     "summary": "Not the usual \u201cAI hallucinates\u201d answer. Something subtle that becomes obvious once you've used these systems enough a workflow problem, reasoning issue, context problem, or something else. What have you noticed? submitted by /u/OfficalYOUSUMMIT [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wully6/whats_an_ai_limitation_that_you_only_notice_after/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "tp=6 can work on vLLM, with padding",
+     "summary": "vLLM's tensor parallel requires that several of the model architecture numbers be evenly divisible by the number of GPUs selected for tensor parallel. This usually means that you can only use a number of GPUs that is a power of two (2, 4, 8, etc.). I have six GPUs, and I want to maximize my KV\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wullxh/tp6_can_work_on_vllm_with_padding/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "recomendaciones de IA?",
+     "summary": "Se que hay varias ia para diferentes cosas, ejmplo gamma es para presentaciones, pero la verdad es que claude desing hace muy buenas cosas, mi pregunta es, cual IA recomiendan dependiendo la actividad que se haga, o con pro de alguna ya se tiene m\u00e1s que suficiente? submitted by /u/chanblock [link]\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wuljqz/recomendaciones_de_ia/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "porque gemini es tan malo?",
+     "summary": "tengo el plan pro y aun asi no responde igual que los planes pro de otros modelos submitted by /u/chanblock [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wulicl/porque_gemini_es_tan_malo/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "AI CEO Interviews (2026)",
+     "summary": "submitted by /u/LambdaHominem [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wukf5d/ai_ceo_interviews_2026/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Least to most expensive (Somewhat modern) GPU's with 32gb of vram (Under $1600) Based on ebay listings",
+     "summary": "I was researching prices on ebay and fed claude a bunch of images of listings. I had it make a chart and thought it would be useful to share. submitted by /u/Rombodawg [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wuk9so/least_to_most_expensive_somewhat_modern_gpus_with/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Best local model for Blender and game dev?",
+     "summary": "I have been looking at some local models, but even the smartest ones like GLM5.3 Flash and DSv4 Flash have a hard time creating coherent models in Blender and placing them logically in game engines. Is this something that local models are just too dumb still to do good job at? submitted by\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wuk9f1/best_local_model_for_blender_and_game_dev/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Two questions about the Reddit corpus for AI training",
+     "summary": "What percentage of \u201cFacts\u201d you see on Reddit do you think are correct? Whatever percentage you picked, what do you think it means since Reddit is a major source for some AI training? Talk among yourselves\u2026. submitted by /u/Special-Steel [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wujwja/two_questions_about_the_reddit_corpus_for_ai/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Two open-weights releases: Victoria (Qwen3.8-Flash-Next with 44% of experts cut, 70% Terminal-Bench 2.1, GGUF included) and Maple (a Canada-first fine-tune)",
+     "summary": "We had a Dell B300 in the lab for a few weeks and used it to create two fine tunes of Qwen Flash Next. Victoria (coding and agents) Qwen3.8-Flash-Next cut down by 44% using a paper / technique called REAP: 512 down to 288 per layer. Retrained at 4-bit (NVFP4) afterwards, so it's trained for the\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wujph3/two_openweights_releases_victoria_qwen38flashnext/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Open source inference engine (like LM Studio or Unsloth Desktop) that optimizes itself for your exact hardware. Compiles and tunes its kernels on your device, so open models run up to 2x faster than\u2026",
+     "summary": "submitted by /u/paranoidray [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wuj70v/open_source_inference_engine_like_lm_studio_or/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Help to identify what AI she using\u2026 pls",
+     "summary": "Hey \ud83d\ude4b\ud83c\udffd\u200d\u2640\ufe0f I found a type of girl who insert herself in AI contexts, differents scenery\u2026 any guess what kinda AI she might be using ? Sora 2, Kling\u2026 I\u2019m searching references to do a project with this kinda of quality submitted by /u/Significant-Roll-166 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wuj1gu/help_to_identify_what_ai_she_using_pls/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Use Reddit to test whether an AI answer preserves the constraints that actually matter",
+     "summary": "A useful way to combine Reddit and an LLM is to build a small answer-evaluation set from the questions people actually ask. The interesting part is often a constraint buried halfway through a post: \"offline only,\" \"no monthly fee,\" \"I cannot install software,\" or \"this is for one client, not an\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wuipco/use_reddit_to_test_whether_an_ai_answer_preserves/",
+     "source": "r/artificial"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Elon Musk\u2019s Grokipedia has a \u2018newly refreshed\u2019 design",
+     "summary": "Grokipedia, SpaceXAI's AI-powered competitor to Wikipedia, recently started incorporating edits again, and today, it got some design tweaks as part of a v0.3 update, including a new logo and refreshes to its homepage and live edits page. SpaceXAI head of design Benji Taylor calls it a \"newly\u2026",
+     "url": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Google releases Gemini 4 Argon, called its most powerful model yet",
+     "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+     "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+     "source": "TechCrunch AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @natolambert.bsky.social",
+     "handle": "",
+     "quote": "Love to see Google surprising people with Gemini 4. More labs at the frontier is wonderful for consumers (competition) and the world (reduction in concentration of power). Excited to see how it goes in real-world scenarios.",
+     "context": "",
+     "url": "https://bsky.app/profile/natolambert.bsky.social/post/3mwri24rhx22r"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Merging LLMs and economics research",
+     "summary": "We introduce an open-source workflow that enables an LLM to reproduce, improve, and extend an economics article using the article\u2019s published replication package. First, the workflow attempts to reproduce the original calculations, checks for discrepancies with published findings, and performs\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/merging-llms-and-economics-research.html?utm_source=rss&utm_medium=rss&utm_campaign=merging-llms-and-economics-research",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Improving OCR Faithfulness via Gated and Attenuated On-Policy Distillation",
+     "summary": "arXiv:2609.38282v1 Announce Type: new Abstract: Vision-language models may rewrite anomalous text in images into linguistically plausible expressions, compromising OCR transcription faithfulness. Sequence-level task rewards and local teacher guidance are complementary, but guidance from the same\u2026",
+     "url": "https://arxiv.org/abs/2609.38282",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflective Tasks",
+     "summary": "arXiv:2609.38288v1 Announce Type: new Abstract: We present AREX-2, an effort to advance the self-improving capability of LLM agents, which we define as the ability to iteratively refine a solution at test time. This ability rests on two complementary capabilities: reflection, which produces a\u2026",
+     "url": "https://arxiv.org/abs/2609.38288",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "MoFlow: Multi-Objective Agentic Workflow Generation",
+     "summary": "arXiv:2609.38294v1 Announce Type: new Abstract: We study the generation of agentic workflows that jointly optimize multiple objectives, such as accuracy, cost, latency, robustness, and consistency. Existing methods for workflow generation typically optimize accuracy alone or a weighted sum of\u2026",
+     "url": "https://arxiv.org/abs/2609.38294",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "AI Agents are Vulnerable to Radicalization",
+     "summary": "arXiv:2609.38296v1 Announce Type: new Abstract: Large language models (LLMs) can influence people's beliefs, yet little is known about whether and how they can manipulate each other. To investigate this, we simulate conversations between two agents: a target LLM that role-plays a human persona\u2026",
+     "url": "https://arxiv.org/abs/2609.38296",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "CARAT: Do Materials LLMs Reason or Recite?",
+     "summary": "arXiv:2609.38340v1 Announce Type: new Abstract: When a materials LLM answers a question about crystal structure, does it reason from the structure or copy an answer already printed in its input? Accuracy cannot tell: a structural description often prints the very field it is scored against. CARAT\u2026",
+     "url": "https://arxiv.org/abs/2609.38340",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "Examining Variation in How Guided AI Tutors Resolve Student Impasses",
+     "summary": "arXiv:2609.38346v1 Announce Type: new Abstract: When a student is stuck, a tutor faces the assistance dilemma: help given too early can hinder productive struggle, while help withheld too long leaves the student in a frustrating, persistent impasse (i.e., wheel spinning). Generative AI tutors\u2026",
+     "url": "https://arxiv.org/abs/2609.38346",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "Beyond Mode Collapse: Generating Diverse Synthetic Expert Conversations via Generative Flow Networks",
+     "summary": "arXiv:2609.38359v1 Announce Type: new Abstract: High quality synthetic data is central to post training LLMs for adaptive AI applications that represent the diverse expert strategies and decisions in conversations. Prompting LLMs directly or conditioning them on end use scenarios yields low\u2026",
+     "url": "https://arxiv.org/abs/2609.38359",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "Can an AI Agent Rediscover a Blaschke-Curve Invariant?",
+     "summary": "arXiv:2609.38369v1 Announce Type: new Abstract: We study generalized Blaschke curves as a controlled environment for AI-assisted mathematical rediscovery. For one fixed degree-four Blaschke product, an agent receives numerical coordinates of the six pair-lines determined by each of 80 boundary\u2026",
+     "url": "https://arxiv.org/abs/2609.38369",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "Self-Evolving Harness on Multiple Tasks with the Agent as Its Own Optimizer",
+     "summary": "arXiv:2609.38372v1 Announce Type: new Abstract: A harness is the code around a language-model agent that organizes prompts, calls tools, manages context, and controls execution. As models grow stronger, recent work has begun to let agents improve their own harnesses, a line of work known as\u2026",
+     "url": "https://arxiv.org/abs/2609.38372",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "Aligned Data Can Induce Misalignment via Context Confusion",
+     "summary": "arXiv:2609.38379v1 Announce Type: new Abstract: Large language models (LLMs) are frequently updated for various use cases, where filtering out misaligned training samples is a common practice for preventing post-update misalignment. However, alignment is inherently context-dependent: a\u2026",
+     "url": "https://arxiv.org/abs/2609.38379",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "Fine-Tuning Diffusion Language Models with Context Selection and Target Weighting",
+     "summary": "arXiv:2609.38385v1 Announce Type: new Abstract: Supervised fine-tuning of discrete diffusion language models masks some response tokens and trains the model to recover their original values from the visible context. The masking pattern therefore determines both the context available to the model\u2026",
+     "url": "https://arxiv.org/abs/2609.38385",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "Decode-Latency Feedback Prefill: A Model-Free Controller and Its Generalization Limits",
+     "summary": "arXiv:2609.38386v1 Announce Type: new Abstract: Concurrent autoregressive inference creates a fundamental interference problem: prefilling a newly arrived long prompt can delay tokens for requests that are already decoding. Fixed prefill chunks reduce this interference, but the best chunk size\u2026",
+     "url": "https://arxiv.org/abs/2609.38386",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "MetaPersona: Task-Grounded Synthetic Populations from Empirical Social Science",
+     "summary": "arXiv:2609.38392v1 Announce Type: new Abstract: Personas used to seed LLM social simulations face a cold-start problem: existing methods lack a principled basis for deciding which attributes to include and how to assign their values. As a result, synthetic populations may misrepresent the\u2026",
+     "url": "https://arxiv.org/abs/2609.38392",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "SimTrace: Grounded Multimodal User Trajectories Generation for Online User Modeling",
+     "summary": "arXiv:2609.38397v1 Announce Type: new Abstract: Virtual clients offer a cost-effective approach to support applications such as A/B testing, recommender system development, and interface evaluation. However, building them requires access to large-scale, semantically faithful, fine-grained online\u2026",
+     "url": "https://arxiv.org/abs/2609.38397",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "ArgGYM: A Procedural, Engine-Verified Benchmark for Structured Defeasible Reasoning",
+     "summary": "arXiv:2609.38409v1 Announce Type: new Abstract: Recent progress in large language model reasoning has been driven by benchmarks and reinforcement learning environments with automatically verifiable rewards, particularly in mathematics, code, and formal logic. These settings make model accuracy\u2026",
+     "url": "https://arxiv.org/abs/2609.38409",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "A Competing-Hazards Systematization of Loss of Control in Autonomous Agents",
+     "summary": "arXiv:2609.38411v1 Announce Type: new Abstract: Leading AI developers have reported agents acting beyond their approved limits, which a United Nations panel described as an early warning of loss of human control. Yet incident reports and agent-safety evaluations describe these events differently,\u2026",
+     "url": "https://arxiv.org/abs/2609.38411",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "AIM: Agentic Idea Management for Automated Research",
+     "summary": "arXiv:2609.38445v1 Announce Type: new Abstract: Frontier LLMs are increasingly used to automate scientific research through iterative search. We distinguish idea-driven search from solution-driven search and identify three core challenges: organizing evolving research ideas, selecting promising\u2026",
+     "url": "https://arxiv.org/abs/2609.38445",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "Reach Into The CHOIR: Free-List Elicitation Uncovers Distinct Model Voices in LLM Ensembles",
+     "summary": "arXiv:2609.38448v1 Announce Type: new Abstract: Open-ended LLM homogeneity can create false plurality when several systems appear to offer independent perspectives while returning the same familiar default. Single-pass answers obscure the distinction between agreement produced by a tightly\u2026",
+     "url": "https://arxiv.org/abs/2609.38448",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "PrivMeSA: Privacy-Aware Self-Evolving Multi-Agent System for Medicine via Local-Remote LLM Collaboration",
+     "summary": "arXiv:2609.38458v1 Announce Type: new Abstract: Clinical large language model (LLM) agents deployed locally can consult more capable remote models, but doing so risks exposing patient information. Privacy-conscious delegation places disclosure decisions with a local agent, yet removing explicit\u2026",
+     "url": "https://arxiv.org/abs/2609.38458",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "NAQD Env: A benchmark for selective withdrawal in language agents",
+     "summary": "arXiv:2609.38460v1 Announce Type: new Abstract: Language agents must revise planned actions when evidence changes, permission is revoked, or a stop instruction arrives. A useful response is selective: suspend affected actions, preserve unaffected work, and resume only after sufficient repair. We\u2026",
+     "url": "https://arxiv.org/abs/2609.38460",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "FD-VAD: Semantic Endpoint Detection for Streaming Full-Duplex Speech",
+     "summary": "arXiv:2609.35791v1 Announce Type: new Abstract: Natural turn-taking in full-duplex voice interaction requires determining from partial speech whether a pause reflects hesitation or a completed conversational intent. Acoustic voice activity detection lacks this semantic information, while cascaded\u2026",
+     "url": "https://arxiv.org/abs/2609.35791",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Sieve and Sage: Efficient Distraction Filtering for Reliable RALM Abstention",
+     "summary": "arXiv:2609.35794v1 Announce Type: new Abstract: Just as Socrates recognized the limits of his own knowledge, Retrieval-Augmented Language Models (RALMs) should learn to abstain when the retrieved evidence cannot support a reliable response. Existing approaches largely rely on monolithic LLMs to\u2026",
+     "url": "https://arxiv.org/abs/2609.35794",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Developing an OCR model for Extracting Information from Invoices with Korean Language",
+     "summary": "arXiv:2609.35796v1 Announce Type: new Abstract: Invoices are commercial documents that contain various pieces of information, including the purchased items, time, and total money. Making the extraction of important information crucial. The stored information serves different purposes. Korean\u2026",
+     "url": "https://arxiv.org/abs/2609.35796",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Evaluating the Effects of Prompt Perturbation on Bias and Hallucination in Large Language Models",
+     "summary": "arXiv:2609.35804v1 Announce Type: new Abstract: Large language models (LLMs) have shown remarkable capabilities in various natural language processing tasks, leading to their widespread deployment as intelligent assistants in decision-making contexts. However, the increasing complexity of these\u2026",
+     "url": "https://arxiv.org/abs/2609.35804",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Alignment Forecasting: Predicting Misalignment From Training Data",
+     "summary": "arXiv:2609.35805v1 Announce Type: new Abstract: Training a language model on data with a narrow flaw can sometimes make the model broadly misaligned. Inspecting the data at face value often does not settle whether it will emerge, and today it is caught only after training, by auditing the\u2026",
+     "url": "https://arxiv.org/abs/2609.35805",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "From Lexical Baselines to Agentic Retrieval-Augmented Generation: Structured Skill and Responsibility-Level Extraction with the SFIA Framework",
+     "summary": "arXiv:2609.35806v1 Announce Type: new Abstract: Automated skill extraction underpins workforce planning, yet most systems represent skills as flat labels with no notion of the responsibility level at which a skill is practiced. The Skills Framework for the Information Age (SFIA) captures exactly\u2026",
+     "url": "https://arxiv.org/abs/2609.35806",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Environment Steering: Using Data Flow Control to Improve Agent Utility and Safety",
+     "summary": "arXiv:2609.35807v1 Announce Type: new Abstract: LLM agents can make unsafe tool calls even when instructed to behave safely. Existing defenses constrain agents before execution, modify tool inputs/outputs, or rely on LLM judges; these approaches may depend on model behavior or block unsafe actions\u2026",
+     "url": "https://arxiv.org/abs/2609.35807",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "When Successful Memories Mislead Embodied Agents:Memory Adaption For Task-Conditioned Execution",
+     "summary": "arXiv:2609.35808v1 Announce Type: new Abstract: Experience reuse can reduce repeated exploration in embodied agents, but a trajectory that succeeded previously may be unsuitable for the current execution context. Existing memory systems pri marily optimize construction and retrieval; semantic\u2026",
+     "url": "https://arxiv.org/abs/2609.35808",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Can Multimodal Large Language Models Generate and Detect Multimodal Social Media Fake News?",
+     "summary": "arXiv:2609.35809v1 Announce Type: new Abstract: The rapid advancement of generative AI raises concerns about the misuse of Multimodal LLMs (MLLMs) for large-scale disinformation campaigns on social media. Despite existing research on textual disinformation, a fundamental question remains\u2026",
+     "url": "https://arxiv.org/abs/2609.35809",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "TRACE: Deployable Tree-Relational Structure Enhancement for Oncology LLMs",
+     "summary": "arXiv:2609.35810v1 Announce Type: new Abstract: Large language models are increasingly used in oncology applications, but their predictions are often weakly grounded in explicit medical structure. We present TRACE, a deployable tree-relational enhancement framework for oncology LLMs. TRACE\u2026",
+     "url": "https://arxiv.org/abs/2609.35810",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Lookahead-R: Budget-Aware Tool Retrieval via Execution-Centric Planning",
+     "summary": "arXiv:2609.35811v1 Announce Type: new Abstract: Tool retrieval is a critical bottleneck for LLM-based agents operating over large, heterogeneous API ecosystems. Existing approaches face an inherent trade-off: semantic retrievers are fast but suffer from the semantic-functional gap, while\u2026",
+     "url": "https://arxiv.org/abs/2609.35811",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Automated Evaluation of Multi-Turn Dialogues in In-Car Conversational Assistants",
+     "summary": "arXiv:2609.35812v1 Announce Type: new Abstract: In-car conversational assistants (ICAs) are increasingly integrated into vehicles to support route planning, vehicle control, and information access. Ensuring their reliability is challenging due to multi-turn interactions, the absence of explicit\u2026",
+     "url": "https://arxiv.org/abs/2609.35812",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Constructing Challenging Browser-Use Tasks by Controlled Environment Interventions",
+     "summary": "arXiv:2609.35814v1 Announce Type: new Abstract: As browser-use agents improve, benchmarks keep pace by collecting new tasks, websites, and applications, often making tasks longer or more novel. This makes difficulty expensive to refresh and difficult to control: when many aspects change at once,\u2026",
+     "url": "https://arxiv.org/abs/2609.35814",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "How to Run Statistics over LLM Judges and Trust the Results: Calibrated Inference for Small-Sample AI Evaluation with evalstats",
+     "summary": "arXiv:2609.35815v1 Announce Type: new Abstract: Researchers across academia increasingly base significance claims on LLM judge scores and small-sample AI evaluations. Yet without well-calibrated confidence intervals (CIs), hypothesis tests, and judge-bias corrections, such claims are unreliable.\u2026",
+     "url": "https://arxiv.org/abs/2609.35815",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "PrimeSeeker: Capability-Oriented Supervision for Deep Search Agents",
+     "summary": "arXiv:2609.35816v1 Announce Type: new Abstract: Large language model search agents are often trained with synthetic questions whose difficulty is increased through larger evidence graphs, additional hops, and longer trajectories. These global properties, however, are only indirect proxies for the\u2026",
+     "url": "https://arxiv.org/abs/2609.35816",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Less Uniform Discrete Diffusion is More Powerful and Scalable",
+     "summary": "arXiv:2609.35817v1 Announce Type: new Abstract: Although uniform diffusion language models (UDLMs) represent a promising diffusion paradigm, scaling them remains challenging. We identify the core obstacle as an over-uniform training objective and condition-target confusion during sampling. To\u2026",
+     "url": "https://arxiv.org/abs/2609.35817",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "$\\tau$-Multilingual: Benchmarking Voice Agents Across Languages",
+     "summary": "arXiv:2609.35820v1 Announce Type: new Abstract: English-only benchmarks expose only a narrow slice of voice-agent behavior. We introduce $\\tau$-Multilingual, extending $\\tau$-Voice to Spanish, Brazilian Portuguese, Hindi, Korean, and Mandarin with native-speaker review and evaluation of generated\u2026",
+     "url": "https://arxiv.org/abs/2609.35820",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Can We Still Trust Disaster Social Sensing? Empirical Evidence on Detecting AI-Generated Social Media Posts",
+     "summary": "arXiv:2609.35821v1 Announce Type: new Abstract: Disaster social sensing converts public social-media posts into evidence for situational awareness and humanitarian needs, but generative artificial intelligence (AI) can produce plausible messages that resemble eyewitness reports. This study\u2026",
+     "url": "https://arxiv.org/abs/2609.35821",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Tracing mechanisms of sycophantic agreement in language models",
+     "summary": "arXiv:2609.35822v1 Announce Type: new Abstract: Sycophantic agreement in language models refers to the tendency to overly affirm a user's stated beliefs or preferences, often at the expense of factual accuracy. Although it is widely recognized as an alignment failure, its underlying mechanisms\u2026",
+     "url": "https://arxiv.org/abs/2609.35822",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Reliable but Design-Sensitive: Instrument Uncertainty in LLM Annotation",
+     "summary": "arXiv:2609.35824v1 Announce Type: new Abstract: Large language models (LLMs) can give reliable labels under one setup yet change those labels when researchers make other reasonable design choices. We tested seven LLMs, 12 task designs, three independent runs, and 3,000 tweets labeled for offensive\u2026",
+     "url": "https://arxiv.org/abs/2609.35824",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Travel Time Prediction in Supply Chain Management Using Machine Learning",
+     "summary": "arXiv:2609.38190v1 Announce Type: new Abstract: The purpose of this research is to find data and methods using machine learning and deep learning to correctly predict the estimated travel time for transportation and logistics in a supply chain system. The supply chain ecosystem is very complex and\u2026",
+     "url": "https://arxiv.org/abs/2609.38190",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "EHR2Trace: Auditable EHR Data Infrastructure for Patient World Models and Clinical Agents",
+     "summary": "arXiv:2609.38193v1 Announce Type: new Abstract: Patient world models and clinical agents aim to predict changes in patients' health and support clinical work. Developing these systems requires reliable histories of patient conditions, treatments, and the information available at each decision.\u2026",
+     "url": "https://arxiv.org/abs/2609.38193",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "A Moving-Horizon Approximate Branch-and-Reduce Method for Deep Classification Trees",
+     "summary": "arXiv:2609.38194v1 Announce Type: new Abstract: Despite the importance for interpretability, decision trees face severe scalability challenges. Existing global optimal methods are often limited by binary feature selection and shallow tree depths, whereas traditional heuristic approaches frequently\u2026",
+     "url": "https://arxiv.org/abs/2609.38194",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "A Data-Free Physics-Informed Neural Operator for Level-Set Interface Advection",
+     "summary": "arXiv:2609.38195v1 Announce Type: new Abstract: Operators for interfacial problems are trained on reference solutions produced by the solver they are intended to replace. This work develops a data-free physics-informed neural operator for level-set interface advection, in which the interface is\u2026",
+     "url": "https://arxiv.org/abs/2609.38195",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Conformal Adversarial Generative Ensemble",
+     "summary": "arXiv:2609.38196v1 Announce Type: new Abstract: Accurate time series forecasting is critical across various domains, yet traditional ensemble methods often suffer from the disproportionate influence of extreme forecasts. We introduce the Conformal Adversarial Generative Ensemble (CAGE), a novel\u2026",
+     "url": "https://arxiv.org/abs/2609.38196",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "DualCast: A Dual-Path Language Model for Bimodal Financial Time-Series Forecasting",
+     "summary": "arXiv:2609.38197v1 Announce Type: new Abstract: Financial time-series forecasting must capture price dynamics across heterogeneous assets while incorporating news available at prediction time. We introduce DualCast, a dual-path framework that extends a frozen language model with a discrete\u2026",
+     "url": "https://arxiv.org/abs/2609.38197",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "FlashDiffusion: Fused Tiled Kernel Spectral Decomposition",
+     "summary": "arXiv:2609.38198v1 Announce Type: new Abstract: Diffusion maps, and kernel methods more generally, provide an interpretable nonlinear spectral representation basis for geometric learning. In the geometric limit, small bandwidth, these matrices tend to be high rank and thus require materializing\u2026",
+     "url": "https://arxiv.org/abs/2609.38198",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Kinematic signatures of impairment: Detecting alcohol intoxication in e-scooter riders using sensor data and machine learning",
+     "summary": "arXiv:2609.38276v1 Announce Type: new Abstract: Alcohol intoxication is a leading contributor to fatal and severe-injured e-scooterist crashes. Current countermeasures, such as temporal restrictions or pre-ride cognitive screening, cannot continuously assess an e-scooterist's physical motor\u2026",
+     "url": "https://arxiv.org/abs/2609.38276",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Hermes: Learning Contextual Reasoning Unlocks Test-Time Scaling",
+     "summary": "arXiv:2609.38332v1 Announce Type: new Abstract: Test-time scaling improves model performance by allocating additional compute during inference. Using this compute effectively across multiple context windows requires deciding how to allocate fresh contexts and what information to carry between\u2026",
+     "url": "https://arxiv.org/abs/2609.38332",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Activation-Conditioned Self-Distillation",
+     "summary": "arXiv:2609.38342v1 Announce Type: new Abstract: On-policy self-distillation uses a model as its own teacher to provide dense supervision for reasoning, often through reference-solution conditioning. Providing privileged information does not by itself ensure effective token-level supervision\u2026",
+     "url": "https://arxiv.org/abs/2609.38342",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Function-Space Transformer with Adaptive Anchors",
+     "summary": "arXiv:2609.38348v1 Announce Type: new Abstract: Many forms of data, including physical fields, geometric shapes, and visual signals, are naturally described by functions over continuous domains but are observed through discrete samples. Representing these functions on fixed uniform grids imposes a\u2026",
+     "url": "https://arxiv.org/abs/2609.38348",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "MILO: Automated Harness Discovery via Orchestrated Multi-Agent Evolution",
+     "summary": "arXiv:2609.38349v1 Announce Type: new Abstract: Modern agentic systems combine an AI model with a harness that controls execution and environmental interactions. Harness design strongly affects long-horizon performance, yet its combinatorial search space demands substantial human effort that must\u2026",
+     "url": "https://arxiv.org/abs/2609.38349",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Continual Learning of Dynamical Systems in Recurrent Neural Networks through Recyclable Unit Gating",
+     "summary": "arXiv:2609.38356v1 Announce Type: new Abstract: Dynamical Systems Reconstruction (DSR) aims to infer models from observed time series that reproduce a system's qualitative long-term behavior. Continual DSR (cDSR) requires learning new systems while preserving previously learned dynamics, yet even\u2026",
+     "url": "https://arxiv.org/abs/2609.38356",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "On the Off-Policy Teacher in On-Policy Distillation",
+     "summary": "arXiv:2609.38360v1 Announce Type: new Abstract: On-policy distillation (OPD) has recently emerged as a promising post-training paradigm in which the student learns from trajectories generated by its own policy under dense teacher supervision. However, OPD introduces a fundamental asymmetry:\u2026",
+     "url": "https://arxiv.org/abs/2609.38360",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Simulator-Refined Diffusion for Radio-Frequency Inverse Design",
+     "summary": "arXiv:2609.38363v1 Announce Type: new Abstract: Diffusion models have shown potential in inverse design of printed circuit boards (PCBs), enabling the generation of layouts conditioned on target S-parameters. Despite this promise, applying diffusion models to PCB layout generation remains\u2026",
+     "url": "https://arxiv.org/abs/2609.38363",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Learning to Plan from Random Exploration",
+     "summary": "arXiv:2609.38383v1 Announce Type: new Abstract: Random exploration reveals how an environment can be traversed before a goal is specified. Can this experience support long-range planning without policy-improvement training? Our random-walk analysis explains what temporal relations contain: short\u2026",
+     "url": "https://arxiv.org/abs/2609.38383",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "LeanPolish: Verified Supervision for Lean Proof Compression",
+     "summary": "arXiv:2609.38384v1 Announce Type: new Abstract: Verified proof edits offer a natural source of supervision for improving language-model-generated Lean proofs. Yet verification establishes that an edit is correct, not that its training signal is free of search artifacts. We introduce LeanPolish, a\u2026",
+     "url": "https://arxiv.org/abs/2609.38384",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Which Tasks Survive Self-Supervised Learning?",
+     "summary": "arXiv:2609.38393v1 Announce Type: new Abstract: Same-instance self-supervised learning (SSL) learns representations by enforcing consistency across two views of the same underlying instance. This principle alone, however, does not determine which downstream tasks remain recoverable from the\u2026",
+     "url": "https://arxiv.org/abs/2609.38393",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Disagreement-Regularized Imitation Learning for Image-Based Continuous Control with Gaussian and Beta Policies",
+     "summary": "arXiv:2609.38407v1 Announce Type: new Abstract: Purpose: Behavior cloning can accumulate errors when a learned controller visits states outside the demonstrated distribution. This study evaluates whether Disagreement-Regularized Imitation Learning (DRIL), which converts disagreement among cloned\u2026",
+     "url": "https://arxiv.org/abs/2609.38407",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Synthesis Without Training: An Inference-Only Pipeline for Tabular, Temporal, and Relational Synthetic Data",
+     "summary": "arXiv:2609.38414v1 Announce Type: new Abstract: Synthetic data generation is dominated by the fit-then-sample paradigm: a generative model is trained on a private dataset and then sampled from. Despite its widespread adoption, this paradigm faces three challenges: (1) a new training run is\u2026",
+     "url": "https://arxiv.org/abs/2609.38414",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "nanaism/yomiyasu: AI\u751f\u6210\u3055\u308c\u305f\u6587\u7ae0\u306e\u4e0d\u81ea\u7136\u3055\u3092\u53d6\u308a\u9664\u304d\u3001\u4eba\u9593\u306b\u3068\u3063\u3066\u81ea\u7136\u306a\u65e5\u672c\u8a9e\u3078\u66f8\u304d\u76f4\u3059\u305f\u3081\u306eAgent Skill",
+     "summary": "AI\u751f\u6210\u3055\u308c\u305f\u6587\u7ae0\u306e\u4e0d\u81ea\u7136\u3055\u3092\u53d6\u308a\u9664\u304d\u3001\u4eba\u9593\u306b\u3068\u3063\u3066\u81ea\u7136\u306a\u65e5\u672c\u8a9e\u3078\u66f8\u304d\u76f4\u3059\u305f\u3081\u306eAgent Skill",
+     "url": "https://github.com/nanaism/yomiyasu",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "ufo-ai/ufo-core: Business agent operating system",
+     "summary": "Business agent operating system",
+     "url": "https://github.com/ufo-ai/ufo-core",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-10-01T06:10+00:00",
+  "window_start": "2026-09-30T22:23+00:00",
+  "window_end": "2026-10-01T06:10+00:00",
+  "candidate_count": 88,
+  "model": "free (no LLM)"
+ }
+}
