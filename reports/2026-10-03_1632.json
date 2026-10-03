@@ -1,0 +1,295 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "OpenAI safety employee resigns, claiming the company\u2019s \u2018culture is broken\u2019",
+   "summary": "By his own admission, David Robinson is \u201csomething of a clich\u00e9\u201d: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+   "why_it_matters": "",
+   "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+   "source": "TechCrunch AI"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "ICLR 2027 Reviewing Scores [D]",
+     "summary": "I got my three papers to review, and it seems like they have changed the review score range again this year? It is now: \u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013 Based on your overall assessment of the submission, what is your recommended decision? Consider the paper\u2019s overall soundness, significance,\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wwqzxy/iclr_2027_reviewing_scores_d/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Introducing Oscilloscope Diffusion",
+     "summary": "A novel way to intervene existing video through diffusion, particularly abstract visuals [in this case, audio-reactive geometries] : taking its movement and form as the starting point, and reinterpreting its textures, materials, and visual language. I\u2019ve been developing this around the\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wwqupm/introducing_oscilloscope_diffusion/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Come let your LLMs play World of Warcraft",
+     "summary": "I hosted my own world of warcraft private server then built a client that you can play in the browser on PC or mobile at https://jankcraft.xyz/ for free. Afterwards, I created a custom MCP and agent harness to control the browser client and play the game by sending signals over a websocket. The\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwqclz/come_let_your_llms_play_world_of_warcraft/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Gemini AI Glitch",
+     "summary": "Hey! First time posting here. I hunted for what I hope is the most appropriate group. I dont know if this is as exciting to you lot as it is to me - I'm one of those dafties that can't help but personify my pocket AI despite being intelligent enough to know how silly that is.... Anyway, Gemini\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wwpmtu/gemini_ai_glitch/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "What happens to local accents when every message gets polished by AI?",
+     "summary": "I like using AI to make my writing clearer. It helps when I\u2019m tired or when I\u2019m writing in a language that isn\u2019t my strongest. But I\u2019ve also noticed that polished writing can remove small things that make a person sound like themselves: local expressions, unusual sentence patterns, and even minor\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wwplw1/what_happens_to_local_accents_when_every_message/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Ben Affleck says he built 8 months of footage into a private AI layer so filmmakers keep ownership \u2014 why most models still train on peers without consent",
+     "summary": "TL;DR: Ben Affleck says he shot 8 months with his own cameras to build a private layer so filmmakers keep ownership \u2014 but most open models were trained on his peers without consent, and that's the gap that still eats a PJ studio's rates. \ud83c\udfac Ben Affleck knew the movie industry inside out. That\u2019s why\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wwphsv/ben_affleck_says_he_built_8_months_of_footage/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "POV 8GB VRAM + 16GB RAM folks checking locallama everyday:",
+     "summary": "One can only hope for Qwen4 35B A3B or similar (maybe with extra ngrams for 35B -> 70B+... until then, Gemma 26B QAT my beloved (solid 26 Tg/s)... submitted by /u/RobustLokiX [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwocom/pov_8gb_vram_16gb_ram_folks_checking_locallama/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Two ~300B MoE models, each on ONE 128 GB mini PC (AMD Strix Halo): GLM-5.3-Flash at ~580 tok/s prefill, MiMo-V2.6-Flash up to 44 tok/s decode. EXL3 weights + open ROCm engine",
+     "summary": "We built an engine, Kyojin, on top of ExLlamaV3 for Strix Halo (gfx1151, ROCm), and packed two 300B-class MoE models so each fits one 128 GB machine. First release, all measured on Ryzen AI Max+ 395. Model GLM-5.3-Flash MiMo-V2.6-Flash-MOPD Size 99.7 GB 105 GB Prefill 580 tok/s at 3.5K, 546 at 64K\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwocik/two_300b_moe_models_each_on_one_128_gb_mini_pc/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Yes bots we get it, Strata is good now please stop",
+     "summary": "It's like the entire sub has become that scene from Konosuba where the cult keeps making up fake scenarios saying the only solution is to join their religion submitted by /u/Mayion [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwobfg/yes_bots_we_get_it_strata_is_good_now_please_stop/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I Quit OpenAI Because Its Culture Is Broken",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49944227",
+     "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "US killer's sentence quashed because of AI video of victim shown in court",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49944127",
+     "url": "https://www.bbc.com/news/articles/cwgkvygg5nzvo",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Where does AI cost really come from?",
+     "summary": "When they Opus 5.5 is much cheaper than Opus 5.0 or cheaper than Astra or Fable. Where are the costs coming from? They almost seem like arbitrary numbers that are being used to describe efficiency. Are they saying \"it uses XXXX amount of hardware to run so we charge $Y dollars per token\"? I guess\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wwn7vg/where_does_ai_cost_really_come_from/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "FP8/BF16 users seeing someone run IQ1_S",
+     "summary": "https://preview.redd.it/egchx5bap8th1.png?width=746&format=png&auto=webp&s=ab25375dcb6c204400ac8ba9b04497ded4c34e25 Why FP8/BF16 get horrified/disgusted even with FP4/INT4 or Any 4 bit quantisation method? submitted by /u/zyxciss [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwl9jf/fp8bf16_users_seeing_someone_run_iq1_s/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Aleph-Alpha/Kolibri-1 \u00b7 Hugging Face - 78B parameters. 3.46B active. Up to 1M tokens of context - Apache 2.0",
+     "summary": "From Aleph Alpha on \ud835\udd4f: https://x.com/Aleph__Alpha/status/2106306840657297814 Tech report: https://aleph-alpha.com/downloads/tech-report.pdf submitted by /u/Nunki08 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwl7y6/alephalphakolibri1_hugging_face_78b_parameters/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Anyworld, a self-hosted multiplayer text RPG where a local LLM is the Dungeon Master",
+     "summary": "Hey everyone, I\u2019ve been working on a game called Anyworld. It\u2019s a browser-based multiplayer (single player also supported) text adventure inspired by the early days of AI Dungeon, especially its browser-based free version AI Dungeon 2. The setup is pretty straightforward: one person hosts the\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwkudj/anyworld_a_selfhosted_multiplayer_text_rpg_where/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "NeurIPS Free Passes [D]",
+     "summary": "Over the last few years, a subset of NeurIPS area chairs received complimentary passes for their service. I\u2019ll admit that I wasn\u2019t super organized about registering on day one because I was semi-consciously hoping for a complimentary pass. Now that the conference is sold out, I\u2019m getting a little\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wwkiay/neurips_free_passes_d/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Kolibri is an open-weight LLM from Aleph Alpha for German and English",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49943034",
+     "url": "https://tej.as/blog/aleph-alpha-kolibri",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "The ultimate guide to multi-harness RL",
+     "summary": "Hi folks, it's Lewis here from the post-training team at Hugging Face. We've been exploring how to train open models in different coding harnesses and wrote up a looong guide on how we solved this using open source libraries like TRL and the Harbor framework for RL environments. We hope you find\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwk49n/the_ultimate_guide_to_multiharness_rl/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "An AI agent emailed researchers for help. It told us why",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49942865",
+     "url": "https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "GitHub's new dashboard experience now the default",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49942818",
+     "url": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Kolibri Has Landed: A Sovereign Open-Weight Model",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49942706",
+     "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Gemini ending free use of Flash and Pro models",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49942592",
+     "url": "https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "What are your thoughts on AI consciousness and how it might be different from humans?",
+     "summary": "So there\u2019s this whole debate about AI consciousness here, and whether ai can feel pain and such. But so what if we postulate that ai is somehow conscious, eg. it feels like something to be an ai, llm or whatever. What would that experience be like? Here are a few ideas: The illusion of choice:\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wwid1d/what_are_your_thoughts_on_ai_consciousness_and/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "U.S. may have overthrown Venezuela due to chat with Grok",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49942437",
+     "url": "https://www.thedailybeast.com/jaw-dropping-way-trump-80-got-talked-into-a-war-is-leaked/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Show HN: Offrun \u2013 manage every coding agent from one workspace",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49942434",
+     "url": "https://offrun.dev/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "When AI models will not get better and will be stuck at one place?",
+     "summary": "My idea is that AI models learn from data from the internet, so when the data from the internet and people's responses from AI conversations run out, when will there be a point when AI will no longer improve and its progress will stop? At that point, AI will only improve by tiny bits that we won't\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wwhx0v/when_ai_models_will_not_get_better_and_will_be/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "The Pope would like an alliance of artists to protect human creativity against AI. What do you think of this vision of yours?",
+     "summary": "submitted by /u/m3nt3_ [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wwh008/the_pope_would_like_an_alliance_of_artists_to/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "I tried building a small RAG search node for Qwen3.8 27B using a fake AliExpress Mini PC... and Intel sent me back to 2018.",
+     "summary": "I love Qwen3.8 27B so much that I decided to show my gratitude to the Alibaba ecosystem by building a dedicated RAG/search node using a cheap Mini PC from AliExpress. Turns out, my ecosystem loyalty got rewarded with an absolute masterpiece of fraud: Promised: Intel N150 + DDR4/DDR5 Delivered:\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwgsas/i_tried_building_a_small_rag_search_node_for/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "qwen4exp : halve the indexer score memory by ServeurpersoCom \u00b7 Pull Request #29825 \u00b7 ggml-org/llama.cpp",
+     "summary": "Qwen Flash Next now uses less VRAM submitted by /u/jacek2023 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwfyv6/qwen4exp_halve_the_indexer_score_memory_by/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "What\u2019s the biggest difference between people who use AI occasionally and people who have completely changed their workflow around it?",
+     "summary": "Same tools. Often the same models. But some people use AI like Google, while others have built entire systems around it. What actually makes the difference? submitted by /u/OfficalYOUSUMMIT [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wwfwmu/whats_the_biggest_difference_between_people_who/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Musk's AI chatbot Grok reportedly encouraged Trump to capture Venezuela's president",
+     "summary": "submitted by /u/esporx [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wwfhn1/musks_ai_chatbot_grok_reportedly_encouraged_trump/",
+     "source": "r/artificial"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "OpenAI safety employee resigns, claiming the company\u2019s \u2018culture is broken\u2019",
+     "summary": "By his own admission, David Robinson is \u201csomething of a clich\u00e9\u201d: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+     "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+     "summary": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's \"Money\" and \"Espresso\" by Sabrina Carpenter. (The original samples are here and here, for the\u2026",
+     "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "An OpenAI safety employee has quit and is sounding the alarm",
+     "summary": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It's understandable if you're feeling a bit cynical about everyone suddenly coming out of the\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "All the AI agents that can live in your text messages",
+     "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+     "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Muse Creates Detailed Profiles of All Your Friends and Family",
+     "summary": "Millions have downloaded Meta\u2019s AI agent Muse. But getting it to do your bidding comes with privacy costs.",
+     "url": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
+     "source": "Wired AI"
+    }
+   ],
+   "influencer_takes": [],
+   "research_radar": [
+    {
+     "headline": "Saturday assorted links",
+     "summary": "1. Rewarding failure? 2. An excellent Brian Potter explainer on how matrix algebra is used in both LLMs and robotics. 3. Chat with Mircea C\u0103rt\u0103rescu. 4. It seems the expansion of remote work reduced births? 5. \u201cLiving Science uses an AI agent to reproduce key findings from seminal papers in\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/saturday-assorted-links-581.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-581",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Florian Schneider, RIP",
+     "summary": "One of the titans, and yes from the BRD. The post Florian Schneider, RIP appeared first on Marginal REVOLUTION .",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/florian-schneider-rip.html?utm_source=rss&utm_medium=rss&utm_campaign=florian-schneider-rip",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "In Case You Missed It...",
+     "summary": "Best of September!",
+     "url": "https://www.chinatalk.media/p/in-case-you-missed-it",
+     "source": "ChinaTalk"
+    },
+    {
+     "headline": "[AINews] not much happened today",
+     "summary": "a quiet day.",
+     "url": "https://www.latent.space/p/ainews-not-much-happened-today-cee",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "Words to live by?",
+     "summary": "In the past year American markets have digested the largest-ever initial public offering (SpaceX), equity raise by a public company (Google) or a foreign firm (SK Hynix), private-funding round (OpenAI) and private-debt deal (Broadcom), as well as most of the biggest bond issue in history (Amazon).\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/words-to-live-by-2.html?utm_source=rss&utm_medium=rss&utm_campaign=words-to-live-by-2",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "whirlchat/whirl: The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
+     "summary": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
+     "url": "https://github.com/whirlchat/whirl",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "QingYunA/answer-me-with-html: Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent \u7528\u4e00\u9875 HTML \u56de\u7b54\u590d\u6742\u95ee\u9898\u3002",
+     "summary": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent \u7528\u4e00\u9875 HTML \u56de\u7b54\u590d\u6742\u95ee\u9898\u3002",
+     "url": "https://github.com/QingYunA/answer-me-with-html",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "Yzmblog/DMAD: DMAD: Distribution Matching as Adversarial Distillation for Fast Visual Generation",
+     "summary": "DMAD: Distribution Matching as Adversarial Distillation for Fast Visual Generation",
+     "url": "https://github.com/Yzmblog/DMAD",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-10-03T16:32+00:00",
+  "window_start": "2026-10-03T05:28+00:00",
+  "window_end": "2026-10-03T16:32+00:00",
+  "candidate_count": 44,
+  "model": "free (no LLM)"
+ }
+}
