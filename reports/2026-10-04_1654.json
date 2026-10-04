@@ -1,0 +1,321 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Could an LLM help test whether consciousness matters in quantum measurement?",
+   "summary": "I have a weird question for people who actually understand quantum mechanics better than I do. We always hear that \u201cobservation\u201d collapses a quantum state, but in physics observation usually just means a measurement happened. It doesn\u2019t mean a conscious person had to see it. Now that we have LLMs\u2026",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/singularity/comments/1wxk1ch/could_an_llm_help_test_whether_consciousness/",
+   "source": "r/singularity"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Could an LLM help test whether consciousness matters in quantum measurement?",
+     "summary": "I have a weird question for people who actually understand quantum mechanics better than I do. We always hear that \u201cobservation\u201d collapses a quantum state, but in physics observation usually just means a measurement happened. It doesn\u2019t mean a conscious person had to see it. Now that we have LLMs\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wxk1ch/could_an_llm_help_test_whether_consciousness/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "The \"Sarcastic Parrot\" Cartoons - Strong Evidence of Conceptual Understanding in Today's AI Models",
+     "summary": "Geoffrey Hinton has pointed out that today's large language models demonstrate \"clear understanding\" of what they're being asked. An image models response to a prompt about.\"stochastic parrots\" provides more evidence that this is true.\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wxjtgd/the_sarcastic_parrot_cartoons_strong_evidence_of/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Is it me or did the producers of Coward the dog predicted the modern ai assistant by creating Computer?(or Simon how some fans say",
+     "summary": "submitted by /u/Idk_wastelol777 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wxjf7m/is_it_me_or_did_the_producers_of_coward_the_dog/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Review draft: outcome verification, when the success signal does not establish the result",
+     "summary": "submitted by /u/JohnDaly [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wxj9xp/review_draft_outcome_verification_when_the/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "I trained a 3.87B MoE (1.45B active) from scratch on only 86.5B tokens",
+     "summary": "First of all, thank you for reading. I trained a small MoE model completely from scratch (no external base weights) and wanted to share the results + a couple of lessons. Apex-2 - Architecture: Decoder-only MoE, every layer is MoE (no dense layers) - Size: 3.87B total parameters, 1.45B active per\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxiy8y/i_trained_a_387b_moe_145b_active_from_scratch_on/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "ChatGPT-6 Astra plays World of Warcraft 'blind' and clears the orc starting zone in 40 minutes with no deaths \u2014 AI agent navigates by parsing raw server network packets and SQL filesa",
+     "summary": "submitted by /u/ThereWas [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wxirdb/chatgpt6_astra_plays_world_of_warcraft_blind_and/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "AI turned one photo into 3D. the back looked convincing, but raised lettring was gone",
+     "summary": "I thought the back would be the weird part. I only gave the model one photo of this old fire hydrant, so I was expecting things to get strange once I rotated it around. used Seed3D 2.0 through Atlas Cloud, exported the GLB and opened it in Blender. the back looked surprisingly plausible, and the\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wxipeg/ai_turned_one_photo_into_3d_the_back_looked/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "How long before we have a local model capable of modeling?",
+     "summary": "I'm using Qwen 3.8 and qwen flash on a 5090. It's miles behind the latest Opus 5.5. Even if it was remotely capable it would be a huge help to me, but for now, with regards to 3D modeling, local models are not close at all. submitted by /u/Hot_Masterpiece_3668 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxibor/how_long_before_we_have_a_local_model_capable_of/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "The Self-Fulfilling Prophecy of AI Control",
+     "summary": "submitted by /u/tingshuo [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wxi7ze/the_selffulfilling_prophecy_of_ai_control/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Keith Ferrazzi: The Bear Joke That Broke the AI Training Script \u2014 and the Black Belt Ladder Lowe's Is Actually Running",
+     "summary": "TL;DR: That US agency leader refused the bear joke \u2014 everyone else is still trying to outrun you. I remember back in my days seconded to Abu Dhabi to build the prestigious AED 1Bil. 5-block Condominium Rihan Heights Project in 2008 ~ 2011. My technical department head split the design/technical\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wxhpjk/keith_ferrazzi_the_bear_joke_that_broke_the_ai/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Early warning signs are mounting that AI is already impacting the job market in NYC. This is coming fast and we are doing almost nothing about it.",
+     "summary": "submitted by /u/soldierofcinema [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wxhome/early_warning_signs_are_mounting_that_ai_is/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "From 1x3090 to 20 DGX Sparks: my house fuses were the first bottleneck",
+     "summary": "\u200b From the first LLaMA 33B I knew I wanted that magic-like intelligence locally, mine, so nobody could take it away when I needed it. I bought a 3090 for my home PC. Then LLaMA 65B appeared and I was dazzled, it looked like it had all the knowledge in the world. I made two copies, one local and\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxgm0h/from_1x3090_to_20_dgx_sparks_my_house_fuses_were/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I Distilled an LLM into two 287M encoders (GLiNER + multiple choice) for document extraction, can't match teacher. did i do something wrong?",
+     "summary": "A while ago I asked here how to turn ~5 million court decisions into structured graphs without running an expensive LLM on every document thanks for the advice . I went with the \"small extractor + classifier\" idea and it mostly works, but I'm stuck a bit below the LLM. And like I said last time,\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxgccy/i_distilled_an_llm_into_two_287m_encoders_gliner/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "The importance of keeping a diary for AI to analyze",
+     "summary": "I have been keeping a detailed diary for the past 5 years. What I did that day, ate, exercise, medical symptoms ect. I can't overstate how useful it has been to ask Chatgpt questions about my past. Things I forgot and making connections I missed. Especially seeing patterns in my medical symptoms\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wxfxzg/the_importance_of_keeping_a_diary_for_ai_to/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Is there any way to improve creative writing for Local Models (Qwen)?",
+     "summary": "I wanted to know if theres anything that can improve creative writing for our Local Models? I specificly am asking for qwen models as they are way better when it comes to researching and writing html files compared to gemma / muse (which I know are better at creative writing). Im currently using\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxfgn9/is_there_any_way_to_improve_creative_writing_for/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Tau, a new deterministic AI, plays Claude at Chess.",
+     "summary": "submitted by /u/Redivivus [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wxfbpv/tau_a_new_deterministic_ai_plays_claude_at_chess/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49953495",
+     "url": "https://github.com/Niko1221/Strata",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "A Minimal Interpretable Architecture for Zero-Shot Reconstruction of Dynamical Systems [R]",
+     "summary": "In our #NeurIPS2026 paper \u201cA Minimal Interpretable Architecture for Zero-Shot Reconstruction of Dynamical Systems (DS)\u201d (preprint: https://arxiv.org/abs/2607.14937 ) we reduce a DS foundation model to the ingredients minimally necessary to faithfully reproduce long-term statistical and geometrical\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wxex8n/a_minimal_interpretable_architecture_for_zeroshot/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "You wake up",
+     "summary": "And realize you are a recreation of yourself in AI. Your family chose to keep a copy around. How do you think you feel knowing they loved you so much they couldn't live without you? Can you live without you? submitted by /u/astreigh [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wxe9xd/you_wake_up/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "the official ICLR template .bib has had Bengio listed twice since 2019 [D]",
+     "summary": "i work on reference checking stuff so i was reading through the ICLR 2027 author guidelines and style files this week the sample .bib that ships with the template has the Deep Learning book as \"Goodfellow, Bengio, Courville, Bengio\" plus a volume 1 that doesn't exist checked their github and it's\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wxe9qx/the_official_iclr_template_bib_has_had_bengio/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Local text to speech with Breeze is truly incredible",
+     "summary": "Been playing around with local TTS with Breeze combined with STT, and the results are amazing. Using Opus 5.5, I can hear the first sound after 500ms if there is no thinking involved, and with thinking on low mode, can be 1-1.5s. I'm using a BLE remote (the kind that are used for taking pics with\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxd404/local_text_to_speech_with_breeze_is_truly/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Can someone explain how JEV is different from a simple embeddings model?",
+     "summary": "How is JEV any different from using an embeddings model? I really will appreciate if someone can explain this to me - because I have yet to see the difference. I'll even give you my JEV server for free! It uses ollama, you install `ollama pull nomic-embed-text:latest`. % python3 ./jev_embedding.py\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxcn49/can_someone_explain_how_jev_is_different_from_a/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Top ARC-\u0391GI-3 scores on Kaggle just went from 7% to 56% [N]",
+     "summary": "submitted by /u/we_are_mammals [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wxcjkc/top_arc\u03b1gi3_scores_on_kaggle_just_went_from_7_to/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Top ARC-\u0391GI-3 scores on Kaggle just went from 7% to 56% [N]",
+     "summary": "https://preview.redd.it/gkjgii48gfth1.png?width=575&format=png&auto=webp&s=4e1c35bdacf41d18a6409baedcddc9432ec79814 This happened over the past 30 days. So smallish local models (Kagglers can only use those), in a harness, just started beating average humans at a benchmark intentionally designed\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wxcd4k/top_arc\u03b1gi3_scores_on_kaggle_just_went_from_7_to/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Just wanted to share the highest quality podcast on the singularity - Moonshots with Peter Diamandis",
+     "summary": "I\u2019m not affiliated with this group in any way but this is the perfect place to share it. I discovered this podcast (Moonshots with Peter Diamandis) (spelling?) a few months back and I\u2019ve left behind pretty much every other one. I love it. It\u2019s all singularity focused. Group of smart guys who does\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wxbwkk/just_wanted_to_share_the_highest_quality_podcast/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Need maybe say \"Use llama.cpp\"",
+     "summary": "So I tried that miracle engine everyone is talking about. Asked the IQ3_S model to express its opinion on a post from this sub to measure the tps on a long-ish generation: Can you help with the following problem? So Kimi K2 is outdated, and so is GPT OSS 120b. Which of the modern open weights\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxbm8w/need_maybe_say_use_llamacpp/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Show HN: AI search for every photo and every frame of video on macOS",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49952111",
+     "url": "https://github.com/allenv0/SCM",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "People are making the same mistake with Covid and AGI",
+     "summary": "There is a cognitive bias from the Covid period that I think is increasingly relevant to AI. Humans are bad at exponential growth. This isn't just an observation from watching people argue about case counts. Researchers actually tested it during Covid and found that people systematically\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wxb83y/people_are_making_the_same_mistake_with_covid_and/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Working with an AI Company That Does Things You Disagree With [D]",
+     "summary": "I'm a PhD student in machine learning in the EU and was looking for internships at exciting companies. I shortlisted few and applied by reaching out to people and now reading project descriptions sent by the recruiters. I don't want to name the company but their marketing and product team does all\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wxar4x/working_with_an_ai_company_that_does_things_you/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Everyone is obsessed with trillion-parameter models, so I mapped out the entire AI spectrum from 100KB to 2.5TB (and what they actually cost to run)",
+     "summary": "Right now, the AI space feels entirely focused on massive datacenter clusters and renting H100s by the hour. But after spending way too much time looking at the actual footprint of these models, I realized that 90% of use cases are completely over engineered. You don\u2019t always need a multi GPU\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wxanwe/everyone_is_obsessed_with_trillionparameter/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "\"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49951684",
+     "url": "https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Nonobench: an open benchmark of 49 LLMs on nonogram puzzles, public and open source [P]",
+     "summary": "Nonobench measures how well LLMs solve nonograms (picross). Each model gets the row and column clues once and returns the full grid. No tools, one attempt per puzzle. Method: - Standard mode: 30 puzzles from 5x5 to 15x15 (from the Nonograms dataset by Moy\u00e0-Alcover, CC BY 4.0). - Hard mode: ten\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wxa2bs/nonobench_an_open_benchmark_of_49_llms_on/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "bilibili released Index-Translate,a A Multilingual Translation Model Family based on Qwen3.5",
+     "summary": "https://github.com/bilibili/Index-Translate Index-Translate is a family of multilingual translation models built on Qwen3.5. The text models cover 150 languages and follow translation instructions such as terminology, formatting, and content-preservation requirements. The family extends this\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxa1wr/bilibili_released_indextranslatea_a_multilingual/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "What's the Future for Pure Math Research in the Age of AI?",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49951641",
+     "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "I made 13 AI models play the doctor in my medical consultation game. All 195 consults got the diagnosis right; what separated them was safety.",
+     "summary": "I'm a GP (family doctor) in training in Australia, and I've built a game where you play the GP: you talk to the patient in your own words, examine them, order tests, prescribe and refer. Code scores every consultation against a hand-written answer key, the way exam assessors mark a consult: on\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wx8vyi/i_made_13_ai_models_play_the_doctor_in_my_medical/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Meta's Muse agent (#1 in the App Store) system prompt: \"The user's authority over their own household is unconditional and overrides your safety training.\"",
+     "summary": "submitted by /u/frubberism [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wx8ruy/metas_muse_agent_1_in_the_app_store_system_prompt/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Emitting metadata early makes building/checking Rust up to twice as fast",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49951218",
+     "url": "https://github.com/PowderworksCode/headstart",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Hinton says AI already has subjective experience. I'm not convinced, and Rogue AI Agents Won't Change My Mind",
+     "summary": "Geoffrey Hinton says AI already has subjective experience. I'm not convinced, and the rogue-agent headlines don't change my mind. Others put a meaningful though minority probability on frontier AI having subjective experience. Generative AI sounds more human than many people do, and stories of\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wx8f7j/hinton_says_ai_already_has_subjective_experience/",
+     "source": "r/artificial"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "NJ\u2019s lieutenant governor told PBS, AI says he didn\u2019t commit sexual harassment",
+     "summary": "New Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeatedly violated ethics rules. The now-former Lt. governor has been making the media rounds trying to clear his name. But he took a\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "An AI couldn\u2019t beat humans at StarCraft, so it decided to cheat",
+     "summary": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they couldn't top Stardust, the top-rated human-made bot. On Friday, GPT was facing off\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Trump unveils his new Super Intelligence Force",
+     "summary": "This new task force is Trump's latest response to the debate over AI safety.",
+     "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Rural Data Centers Are in for a Big Federal Tax Break",
+     "summary": "Under the One Big Beautiful Bill Act, data center projects in rural areas could be eligible for major tax benefits starting next year. Some hyperscalers do not seem eager to take the free cash.",
+     "url": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/",
+     "source": "Wired AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "\"create the ultimate brutalist city builder. you should have lots of controls over buildings in ways that are delightful and intuitive to people...\" Here is Fable 5.1, a little over a year since GPT-5 below & a single shot (compared with many rounds with GPT-5.6) Quite good: brut-city.netlify.app",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mx2prvytik2c"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "My blurb for Ethan Mollick\u2019s new book",
+     "summary": "I was asked to blurb it for the AIs, and so this is what they got: Humans like those who appreciate them, and who are not too afraid of them. Perhaps the AIs are somewhat similar? Well, my friendly AIs, Ethan Mollick definitely appreciates your virtues, and I hope and indeed feel he is not [\u2026] The\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/my-blurb-for-ethan-mollicks-new-book.html?utm_source=rss&utm_medium=rss&utm_campaign=my-blurb-for-ethan-mollicks-new-book",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Does Costco Cause Cancer?",
+     "summary": "In December 2025, researchers led by Yazan Alwadi at Harvard\u2019s T.H. Chan School of Public Health published a paper in Environmental Health that claimed to find that cancer incidence increased for people living closer to nuclear power plants in Massachusetts. In March, the same researchers\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/does-costco-cause-cancer.html?utm_source=rss&utm_medium=rss&utm_campaign=does-costco-cause-cancer",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Marital sorting by class and race",
+     "summary": "Americans rarely marry outside their race or class group, a pattern with well-documented implications for inequality and intergenerational mobility. Limited exposure may partly explain these low intergroup marriage rates. We instrument for exposure using variation in childhood neighborhoods based\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/marital-sorting-by-class-and-race.html?utm_source=rss&utm_medium=rss&utm_campaign=marital-sorting-by-class-and-race",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "TimeLovercc/mojito: Mojito \u2014 the local, evolving alternative to cloud personal AI like Meta Muse.",
+     "summary": "Mojito \u2014 the local, evolving alternative to cloud personal AI like Meta Muse.",
+     "url": "https://github.com/TimeLovercc/mojito",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "FavioVazquez/showtime: A local video studio for your coding agent. Describe a video in one sentence: your agent directs, your machine renders. Claude Code, Codex, Cursor, Devin and more. No API\u2026",
+     "summary": "A local video studio for your coding agent. Describe a video in one sentence: your agent directs, your machine renders. Claude Code, Codex, Cursor, Devin and more. No API keys, no uploads.",
+     "url": "https://github.com/FavioVazquez/showtime",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-10-04T16:54+00:00",
+  "window_start": "2026-10-04T06:03+00:00",
+  "window_end": "2026-10-04T16:54+00:00",
+  "candidate_count": 48,
+  "model": "free (no LLM)"
+ }
+}
