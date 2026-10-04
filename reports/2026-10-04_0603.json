@@ -1,0 +1,219 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Seems like Anthropic didn't like the Whitehouse's answer on banning open weight models, so now they pivot effort towards moral and religious grounds.",
+   "summary": "IPO is coming up in a few weeks. Wonder how much more Anthropic would be valued at with a morally defensible monopoly in the stead of a legally defensible one. It's so transparent at this point what they are doing. submitted by /u/bumblebeer [link] [comments]",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wx851p/seems_like_anthropic_didnt_like_the_whitehouses/",
+   "source": "r/LocalLLaMA"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Seems like Anthropic didn't like the Whitehouse's answer on banning open weight models, so now they pivot effort towards moral and religious grounds.",
+     "summary": "IPO is coming up in a few weeks. Wonder how much more Anthropic would be valued at with a morally defensible monopoly in the stead of a legally defensible one. It's so transparent at this point what they are doing. submitted by /u/bumblebeer [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wx851p/seems_like_anthropic_didnt_like_the_whitehouses/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I just can't anymore with AI filtering.",
+     "summary": "I like to make games and to mod games. Claude so far is the best at this. But Claude is so insanely filtered. It's BAD. It's REAL BAD. Sometimes I would like to make nsfw things, but I can't do that, so that's already out the window immediately because none of them will do this. I just have to\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wx80a7/i_just_cant_anymore_with_ai_filtering/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Crab Rave: \"I built a little crab robot Jumper people seemed to love and I open-souced it\"",
+     "summary": "submitted by /u/Anen-o-me [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wx7ow5/crab_rave_i_built_a_little_crab_robot_jumper/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Claude Opus 5.5 created this in 18 hours",
+     "summary": "https://x.com/anabology/status/2106473469441384788?s=20 submitted by /u/Kanute3333 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wx73vr/claude_opus_55_created_this_in_18_hours/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "The curse of 64GB system RAM",
+     "summary": "Not a bot. Not a Strata shill. Just sharing my experience. So, I have an R9700 in my machine, plus an RTX 5060 Ti, and 64GB DDR5 system RAM. Overall, not a bad setup. Anyway, I mainly run a daily driver local LLM on the R9700 while running image/video inference on ComfyUI on the 5060 Ti. Mostly\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wx72ni/the_curse_of_64gb_system_ram/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "48gb macmini m4 pro or 64gb M1 max studio",
+     "summary": "I have the opportunity to change my existing m4 pro to the older M1 max. I think without topping up extra. Is it worth it? Seller has yet to tell me if it's the 24 or 32 core variant. I think I will be able to run the 27b with larger context. What are my pros and cons? Slower older machine?\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wx6uzj/48gb_macmini_m4_pro_or_64gb_m1_max_studio/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "It's over, guys. This repo turns ONE photo into a full explorable 3D world in 5 minutes. Physics, splats, audio!",
+     "summary": "image-blaster is an open-source (MIT) skillset for Claude Code that turns a single image into a 3D environment in under 5 minutes. What you get: 3D models (.glb, .obj) of the dynamic objects A Gaussian splat (.spz) of the static environment Ambient looping sound plus object-specific physics SFX\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wx6cri/its_over_guys_this_repo_turns_one_photo_into_a/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "[Discussion] A 5KB pure x86-64 assembly engine for Gemma-2B (FP16, 4.6 tok/s on CPU)",
+     "summary": "Hi everyone, Sharing a personal project exploring the minimal bare-metal footprint required to run an autoregressive LLM. Instead of relying on large runtimes or compiler abstractions, I wrote an inference engine for Gemma-2B entirely in flat x86-64 assembly (FASM): - **Binary footprint**: Total\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wx5x1p/discussion_a_5kb_pure_x8664_assembly_engine_for/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Least sycophantic modern open LLM?",
+     "summary": "So Kimi K2 is outdated, and so is GPT OSS 120b. Which of the modern open weights models can boast the least sycophancy? I need this both for creative/research assistant usage (sycophancy led me down blind alleys of my own bad ideas many times) and agentic coding (more sycophancy less bug\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wx4yvw/least_sycophantic_modern_open_llm/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Religious scholars met with Anthropic",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49950052",
+     "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Is all the work that's being put into Qwen3.8 Flash Next going to set us up for a very quick uplift to Qwen4?",
+     "summary": "Given the commentary on the Q3.8FN release page here https://qwen.ai/blog?id=qwen3.8-flash-next I assume/hope that all the work that's going on to optimise the hell out of running it will be useful when Qwen4 drops? submitted by /u/demomanca [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wx3sxu/is_all_the_work_thats_being_put_into_qwen38_flash/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "The gaps are shrinking ... and the gaps might get wiped out in the next 1,000 days",
+     "summary": "submitted by /u/BrennusSokol [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wx30i3/the_gaps_are_shrinking_and_the_gaps_might_get/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Astra 6.1 Coming Soon",
+     "summary": "He previously hinted at something releasing next week so this is confirmation it\u2019s 6.1 submitted by /u/Eon102 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wx2tef/astra_61_coming_soon/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Optimal settings for 2 GPUs in LM Studio",
+     "summary": "Hello everybody. I've got a 5070ti and a 5060ti both 16GB in my system which is a 5900X and 64GB DDR4 RAM. I'm trying to run some 16-18GB models like Qwen, Cydonia, Skyfall. I'm having problems utilising the VRAM I have to get the best usage out of it. LM Studio sees the 32GB VRAM but regardless\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wx2aqv/optimal_settings_for_2_gpus_in_lm_studio/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Jev: Not Frontier, But Still Worth Your Attention [R]",
+     "summary": "\"TypeSafe AI sells Jev as a frontier-class reasoner that cannot hallucinate, built by the co-inventor of ChatGPT - fast, and almost free. We ran it live on 16,379 benchmark requests, measured its latency and billing, and probed what it is underneath. The result is a smaller, humbler model that is\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wx1knr/jev_not_frontier_but_still_worth_your_attention_r/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "A new Chinese embodied model tops global AI ranking on physical tasks scoring 91.9 on the Meta-World benchmark",
+     "summary": "submitted by /u/yogthos [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1wx1g5u/a_new_chinese_embodied_model_tops_global_ai/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Local Web Search Safety",
+     "summary": "Hi all, How you guys handling safe deployment of websearch in Hermes, pi and other harnesses? Does anyone have a good uproars setup guide for local models? I tried to implement a sandboxed search system but it caused endless tool calls. Want to guard against prompt injection and keep searches\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wx06ba/local_web_search_safety/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49948332",
+     "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Will there be 1 and only programming language?",
+     "summary": "If LLMs are gonna write most of our code anyway, why are we still making them write Python/Java/Rust? Why not make a language specifically for AI? You describe what the thing needs to do + some constraints, and the compiler figures out the actual implementation Could use go for one part, Java for\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wwzg8r/will_there_be_1_and_only_programming_language/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Whose Ai timeline is the most accurate so far at the end of 2026?",
+     "summary": "Predictions from Ray Kurzweil: 2029 AGI 2035 ASI 2045 Singularity Predictions from the Ai futures project (Ai 2027): 2027 AGI 2027 ASI Predictions from the Ai futures project with slowdown (Ai 2040) 2030 AGI 2040 ASI Predictions from Elon Musk: 2026 AGI Please include your own timeline as well and\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wwzehm/whose_ai_timeline_is_the_most_accurate_so_far_at/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "\"Accepted papers must be imported\" deadline NeurIPS 2026 [D]",
+     "summary": "On the NeurIPS 2026 Dates site it says that there is 1 day remaining for the \"Accepted papers must be imported\" deadline. This is my first research paper ever and I couldn't find anything about how to do this on the internet. Could someone help me out on what to do? submitted by\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wwz403/accepted_papers_must_be_imported_deadline_neurips/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Evolution of AI from perceptron to Sora",
+     "summary": "I have written a blog regarding evolution of AI from simple perceptron to today's transformers who can generate a Video. Along the chronological path I have also embedded relevant research papers and tweets regarding the respective AI tech. Whole blog is very very fun to read and I am sure you\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1wwyriz/evolution_of_ai_from_perceptron_to_sora/",
+     "source": "r/singularity"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "The Agent Said It Was Done. The Database Disagreed.",
+     "summary": "",
+     "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+     "source": "Hugging Face Blog"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @simonwillison.net",
+     "handle": "",
+     "quote": "Just published this post about how we\u2019re going to need default hard budget caps on pretty much everything simonwillison.net/2026/Oct/3/d...",
+     "context": "",
+     "url": "https://bsky.app/profile/simonwillison.net/post/3mwz2hvy5ys2j"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Do the elderly prefer robotic care?",
+     "summary": "The Japanese elderly, to be clear: Population aging and shortages of long-term care workers have increased interest in care-giving robots and information and communication technology (ICT). This paper provides novel large-scale evidence on older individuals\u2019 perceptions of such technologies,\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/do-the-elderly-prefer-robotic-care.html?utm_source=rss&utm_medium=rss&utm_campaign=do-the-elderly-prefer-robotic-care",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "We're going to need default hard budget caps on pretty much everything",
+     "summary": "Here's a product feature which the world is going to need a whole lot more of over the coming months and years: default hard budget caps . I'm talking about the feature of pay-by-usage services and APIs that lets you say \"after $X/month, cut this thing off and return errors\". These need to be hard\u2026",
+     "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "September sponsors-only newsletter",
+     "summary": "I just sent the September edition of my sponsors-only monthly newsletter . If you are a sponsor (or start a sponsorship now) you can access it here . This month: More Fable class models A pricing war 3D graphics, Blender, and pixel art LLMs come for mathematics So many more accidental cyberattacks\u2026",
+     "url": "https://simonwillison.net/2026/Oct/3/newsletter/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "hyj-STAR/voiceshell-muse-bridge: VoiceShell\uff08\u58f0\u58f3\uff09 \u00b7 Experimental Muse bridge: ESP32 pairing, Linux text round trips, real walkthroughs and compatibility notes.",
+     "summary": "VoiceShell\uff08\u58f0\u58f3\uff09 \u00b7 Experimental Muse bridge: ESP32 pairing, Linux text round trips, real walkthroughs and compatibility notes.",
+     "url": "https://github.com/hyj-STAR/voiceshell-muse-bridge",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "hamzafer/claude-code-mods: Live view of what your Claude Code agent reads and writes, plus more mods.",
+     "summary": "Live view of what your Claude Code agent reads and writes, plus more mods.",
+     "url": "https://github.com/hamzafer/claude-code-mods",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "cobanov/PS5LM: llama.cpp on a jailbroken PS5: run any GGUF model natively on the console, starting with Qwen 3.8",
+     "summary": "llama.cpp on a jailbroken PS5: run any GGUF model natively on the console, starting with Qwen 3.8",
+     "url": "https://github.com/cobanov/PS5LM",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "mikamikasuki/FOREST: FOREST is a research agent for long-horizon science, where evidence gets lost, errors compound, and goals drift. It explores ideas, reads literature, forms hypotheses, runs real\u2026",
+     "summary": "FOREST is a research agent for long-horizon science, where evidence gets lost, errors compound, and goals drift. It explores ideas, reads literature, forms hypotheses, runs real experiments, analyzes results, revises paths, and builds a full paper\u2014all in an editable graph you can inspect, branch,\u2026",
+     "url": "https://github.com/mikamikasuki/FOREST",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-10-04T06:03+00:00",
+  "window_start": "2026-10-03T21:29+00:00",
+  "window_end": "2026-10-04T06:03+00:00",
+  "candidate_count": 31,
+  "model": "free (no LLM)"
+ }
+}
