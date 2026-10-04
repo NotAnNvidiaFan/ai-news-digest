@@ -1,0 +1,199 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "AI is only bad because of capitalism",
+   "summary": "When we imagine artificial intelligence, we can imagine it as a future in which work no longer exists and all of us are free to enjoy our lives, just as we can imagine it as the cause of a future in which machines exterminate or enslave human beings. But imagining it this way, simply as a scale of\u2026",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/artificial/comments/1wxqy7s/ai_is_only_bad_because_of_capitalism/",
+   "source": "r/artificial"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "AI is only bad because of capitalism",
+     "summary": "When we imagine artificial intelligence, we can imagine it as a future in which work no longer exists and all of us are free to enjoy our lives, just as we can imagine it as the cause of a future in which machines exterminate or enslave human beings. But imagining it this way, simply as a scale of\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wxqy7s/ai_is_only_bad_because_of_capitalism/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Plagiarism checker= Genius",
+     "summary": "Whoever invented the AI plagiarism checker is a genius. Why wait for papers to be published online when you can get people to upload college essays and other publications in an effort to detect AI usage. The models must be getting a lot of data from colleges and schools submitted by /u/meenags\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wxqvl6/plagiarism_checker_genius/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "GLM-4.7 benchmark compared MXFP4 vs Q4_K_M vs Q4_K_XL using Radeon 6800H iGPU 680M",
+     "summary": "Using llama.cpp Ubuntu Vulkan prebuilt binary and the Acemagic miniPC S3A using an AMD Ryzen 7 6800H is a high-performance 8-core, 16-thread mobile processor launched on January 4, 2022, built on the 6nm Zen 3+ architecture loaded with 64GB of DDR5 RAM. It features a 3.2 GHz base clock, a 4.7 GHz\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxqoa3/glm47_benchmark_compared_mxfp4_vs_q4_k_m_vs_q4_k/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Strata's quants or Freetoken's nvfp4? 5090 + 96gb ram -Qwen FN",
+     "summary": "I'm worried about precision and long context adherence in agentic coding IQ3_S Strata or NVFP4 from RadixArk? What is your choice? Please share your experience and knowledge submitted by /u/Enragere [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxqmaa/stratas_quants_or_freetokens_nvfp4_5090_96gb_ram/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Thank you",
+     "summary": "Do you thank an llm when you've finished chatting with it? Why or why not? submitted by /u/astreigh [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wxqfo0/thank_you/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Best approach for ingesting data to create summaries, and keep track of it?",
+     "summary": "In my occupation, there are various people I follow who give very good insights. (I'd say 5-10 people). Some post hour long videos on YouTube, some send 1,000 word emails, some post on X, some publish PDFs. There's very good info within these resources (and some I pay for), but reading / watching\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wxpaus/best_approach_for_ingesting_data_to_create/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "NeurIPS Workshops [D]",
+     "summary": "Anyone going to WMHS, Physworld AI or Vercodegen? Would love to get to know some people beforehand! submitted by /u/navalsaras [link] [comments]",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wxp8ok/neurips_workshops_d/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Fully local little parkour sim",
+     "summary": "I vibed this up this weekend, fully local, with GLM 5.3 Flash running on 2x DGX Sparks. vllm TP2 recipe: https://github.com/tonyd2wild/GLM-5.3-Flash-NVFP4-DFlash2-2x-DGX-Spark Prefill: ~1500t/s Decode: ~40t/s @ 100k Using Claude Code as the scaffold with 260k context size. I'm really impressed\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxp21n/fully_local_little_parkour_sim/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Is anyone else still rewriting AI-generated social posts because they sound too robotic?",
+     "summary": "I\u2019ve noticed a lot of AI social tools still produce content that feels off-brand or slightly forced. I\u2019ve tried Hootsuite\u2019s AI features, Later, and Fismbot. Hootsuite is solid for management, Later has decent visual planning, and Fismbot stood out a bit because it lets you feed it your brand\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1wxp1u8/is_anyone_else_still_rewriting_aigenerated_social/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49957116",
+     "url": "https://github.com/omlahore/RemoveMacAI",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Anthropic Has Been Aggressively Lobbying the Vatican to Consider AI Consciousness",
+     "summary": "submitted by /u/sourdub [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wxok9e/anthropic_has_been_aggressively_lobbying_the/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "All Google models basically, even nanobanna on web is nerfed",
+     "summary": "I think this chase them for so long, I can't trust Gemini models outside quick web searches submitted by /u/HimaSphere [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wxo85r/all_google_models_basically_even_nanobanna_on_web/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "OpenAI cuts ties with 3 researchers over alleged misconduct",
+     "summary": "submitted by /u/LinkedInNews [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wxn3ua/openai_cuts_ties_with_3_researchers_over_alleged/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Mind uploading could prove to be outright impossible?",
+     "summary": "Mind uploading could prove to be outright impossible similar to faster-than-light travel? submitted by /u/DoublePassRadiator [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wxmo87/mind_uploading_could_prove_to_be_outright/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026",
+     "summary": "submitted by /u/chillinewman [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxma3a/micron_ceo_says_memory_supply_will_be_much/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Interactive Demonstration of Prefix Injection attacks on LLMs for jailbreaking [N]",
+     "summary": "please refresh if stuck, can be slow sometimes so need patience submitted by /u/big_hole_energy [link] [comments]",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1wxm5p3/interactive_demonstration_of_prefix_injection/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "LLM Inference Dashboard",
+     "summary": "Working on a resource dashboard, rich logs, lightweight 64mb cap, all local, scales on network API endpoints via collector, supports multiple engines (llama, strata, custom cuda engines, unsloth, LMS) Not public yet, but curious if anyone would be interested? It\u2019s better logging and metrics then\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxm2og/llm_inference_dashboard/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "The top 50 AI researchers by citations",
+     "summary": "How many on the list did you know? Obviously one paper like Attention is All You Need (278k citations) can influence a lot - all the authors are on the list. But still interesting imo. More context: https://www.turingtree.com/top-50 submitted by /u/ksprdk [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1wxm1vq/the_top_50_ai_researchers_by_citations/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Update #4: Post training yandex/AliceAI-80B-A3B [instruct!] from scratch",
+     "summary": "Last update for those following: https://www.reddit.com/r/LocalLLaMA/comments/1wvyc3e/update_3_post_training_yandexaliceai80ba3b/ Project in a sentence: An instruct finetune of ALiceAI-80B-A3B-Base capable of agentic work and conversation. I'm creating a shallow distill of qwen 3.8 27b on medium\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxlytt/update_4_post_training_yandexaliceai80ba3b/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "LFM2.5 2.6b vs MiniCPM5 2b",
+     "summary": "I tried both these models on a few small agentic tasks with tools (i.e. \"What's the weather like today?\", etc.). They're both pretty solid at using web search to find answers despite being small models. TLDR: LFM2.5 2.6b is the clear winner. Somehow it's faster and uses less ram than MiniCPM\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxlw2c/lfm25_26b_vs_minicpm5_2b/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Building a RAG pipeline for semantic code search",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=49956148",
+     "url": "https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Benchmarking decision models is fun - Clef Q8 vs Jev",
+     "summary": "submitted by /u/3VITAERC [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxloam/benchmarking_decision_models_is_fun_clef_q8_vs_jev/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "poorman inference engine for 16GB GPU and 35B moe Qwen 3.6for coding",
+     "summary": "I forked llama.cpp's server into AgrillaMoE, a dedicated build for Qwen3.6-35B-A3B (~A4B) with Unsloth quants. On a (vant.ai) rented V100 16GB with the 2-bit UD-Q2_K_XL quant it generates at ~57-60 tok/s while running the full MoE-expansion profile \u2014 and it speaks both the OpenAI and Anthropic\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxllvu/poorman_inference_engine_for_16gb_gpu_and_35b_moe/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Built a quick, sub-15ms Rust CLI/TUI to pack repos into prompts without burning 40k tokens on lockfiles and junk",
+     "summary": "Whenever I feed codebases into local models (Qwen, DeepSeek R1) or API models, the biggest annoyance is prompt pollution: - Lockfiles (`Cargo.lock`, `package-lock.json`) burning 30,000+ tokens for zero reason. - SVGs, binary files, or build artifacts slipping into the context. - Existing packers\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxl36c/built_a_quick_sub15ms_rust_clitui_to_pack_repos/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Google froze its open source bug bounty program due to a \u2018significant rise\u2019 in AI submissions",
+     "summary": "AI slop seems to be overwhelming bug bounty programs.",
+     "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Can \u2018super intelligence\u2019 and a non-binding safety pact solve AI\u2019s image problem?",
+     "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+     "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+     "source": "TechCrunch AI"
+    }
+   ],
+   "influencer_takes": [],
+   "research_radar": [
+    {
+     "headline": "Sunday assorted links",
+     "summary": "1. New London play about Keynes. 2. Aphantasia, and looking at buildings. 3. AI and job growth in Africa. 4. On Nussbaum, opera, and liberalism. 5. Congress seeks to speed up energy permitting (NYT). 6. Teenager jobs have not disappeared altogether (NYT). 7. An Antikythera field trip and\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/sunday-assorted-links-585.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-585",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Chengjun023/agent-smith: Token \u8d85\u652f\uff1f\u5feb\u7ed9\u53f2\u5bc6\u65af\u6253\u7535\u8bdd\uff01 Better Call Smith. Adaptive model routing, a glassy Codex usage monitor, and reproducible benchmarks with receipts.",
+     "summary": "Token \u8d85\u652f\uff1f\u5feb\u7ed9\u53f2\u5bc6\u65af\u6253\u7535\u8bdd\uff01 Better Call Smith. Adaptive model routing, a glassy Codex usage monitor, and reproducible benchmarks with receipts.",
+     "url": "https://github.com/Chengjun023/agent-smith",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-10-04T21:39+00:00",
+  "window_start": "2026-10-04T16:54+00:00",
+  "window_end": "2026-10-04T21:39+00:00",
+  "candidate_count": 28,
+  "model": "free (no LLM)"
+ }
+}
