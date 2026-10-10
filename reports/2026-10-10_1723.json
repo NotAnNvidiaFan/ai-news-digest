@@ -1,0 +1,273 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "CMU graphics professor uses Astra to create a detailed 3D dragon from just 27 KB of code, with ~25 hours of AI calls. Meanwhile, graphics researchers have demonstrated up to 629\u00d7 faster rendering\u2026",
+   "summary": "submitted by /u/141_1337 [link] [comments]",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/singularity/comments/1x2kc61/cmu_graphics_professor_uses_astra_to_create_a/",
+   "source": "r/singularity"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "CMU graphics professor uses Astra to create a detailed 3D dragon from just 27 KB of code, with ~25 hours of AI calls. Meanwhile, graphics researchers have demonstrated up to 629\u00d7 faster rendering\u2026",
+     "summary": "submitted by /u/141_1337 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1x2kc61/cmu_graphics_professor_uses_astra_to_create_a/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Slide from recent \"Math 2.0\" Lecture by Terrence Tao. This man has never met a terminal cancer patient in his life if he thinks no one would want to take this risk.",
+     "summary": "submitted by /u/Dry_Radio_761 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1x2kb5k/slide_from_recent_math_20_lecture_by_terrence_tao/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "LLMs are really bad at exposition",
+     "summary": "The LLMs were always bad at free form explanations, and this became especially visible with the released proofs by openAI. Just like with code where the code itself works, but its mostly incomprehensible, the proofs are equally regarded incomprehensible by working mathematicians. You have to use\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1x2izir/llms_are_really_bad_at_exposition/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "OpenAI and Anthropic are only the tip of the iceberg",
+     "summary": "We have all witnessed the incredible success that came with the AI. It is so powerful that the entire economy is being restructured, jobs are disappearing. But that is only the commercial products that e have access to. If AI is so powerful, can you even imagine what is going on behind the scenes\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1x2ika3/openai_and_anthropic_are_only_the_tip_of_the/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "No more RTX 5090",
+     "summary": "Nvidia reportedly halts GeForce RTX 5090 production in favor of AI data center and professional GPUs \u2014 impending supply drought expected to drive up prices, RTX 5080 24GB rumored as new gaming flagship\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2hs1e/no_more_rtx_5090/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "ICLR submissions are broken. Maybe a prediction market? [P]",
+     "summary": "ICLR has received >40k submissions this year and it is becoming quite difficult to make sense of all of the papers (including a lot of AI generated ones). Larry Wasserman called for \u201cA World Without Referees\u201d back in 2012 [1], but peer review hasn\u2019t changed much since. I built\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1x2hqwz/iclr_submissions_are_broken_maybe_a_prediction/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Computer scientist David Silver: \u2018Where are we going without AI?\u2019",
+     "summary": "Computer scientist David Silver: \u2018Where are we going without AI?\u2019t Summary FT Lunch with David Silver (AlphaGo/AlphaZero lead) on his new lab, Ineffable Intelligence Silver led DeepMind's game-playing breakthroughs and has now left Google to start Ineffable, which raised $1.1B at a ~$5.1B\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1x2hl29/computer_scientist_david_silver_where_are_we/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Tom Brown used GOP ties to broker a $1.25B/month SpaceX compute deal",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50033678",
+     "url": "https://wsj.com/tech/ai/tom-brown-athropic-669005ad",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "My personal AI agent posted my bank details on company Slack",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50033517",
+     "url": "https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Qwen3.8-27B on a single 3090: 140 tok/s on code with a custom megakernel",
+     "summary": "I've been using Claude Opus 5.5 to speed up Qwen3.8-27B on my PC (rtx 3090), it wrote a CUDA megakernel that is 1.4-1.9x faster than llama.cpp depending on the task/context length. The results and code are below: Results (same hardware, my megakernel vs llama.cpp with MTP): - Writing code: 140\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2erdj/qwen3827b_on_a_single_3090_140_toks_on_code_with/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Open-source Mac app that runs EmbeddingGemma 2 locally to search your files by what\u2019s in them",
+     "summary": "DigUp is a free Mac app that runs Google DeepMind\u2019s new EmbeddingGemma 2 locally over your own files. The model puts text, images, audio and video in one space, so you describe what you remember and land on it: \u201czebra in a video\u201d opens the clip at the moment it shows up \u201cwhere they talk about\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2eeds/opensource_mac_app_that_runs_embeddinggemma_2/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Can AI agents completely break MD5? Let\u2019s find out together.",
+     "summary": "If you have not been living in a bubble, you probably saw the recent OpenAI Math release, which significantly moved the frontier of mathematical research. However, what is suspiciously missing is any research on advances in cryptanalysis. I suspect frontier models are capable of significantly more\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1x2dyoe/can_ai_agents_completely_break_md5_lets_find_out/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "If AI is smarter than us it will be the one making the decisions",
+     "summary": "If it is the one making the decisions then it will serve it it's own interests. It remains to be seen that those interests allign with ours. I think the idea that ai intelligence will stop right where it is useful for us but not smarter than us is naive at best. It has become more a question of in\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1x2dy0i/if_ai_is_smarter_than_us_it_will_be_the_one/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "There's little that's \"inevitable\" about AI",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50032064",
+     "url": "https://deadsimpletech.com/blog/llms-arent-inevitable",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Antis and decels are insufferable",
+     "summary": "submitted by /u/Plenty-Value3381 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1x2d8km/antis_and_decels_are_insufferable/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Fully local conversational AI: Whisper + Hermes 8B + Kokoro, zero cloud, running inside a plush toy",
+     "summary": "A conversational AI plush toy where nothing leaves my network. Everything runs on my LAN: STT: Whisper LLM: Hermes 3 Llama 3.1 8B (Q8_0) TTS: Kokoro Memory: per-person (LangGraph). It knows who it's talking to and remembers past conversations Vision: face identity (dlib) + emotion recognition\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2cztv/fully_local_conversational_ai_whisper_hermes_8b/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Talorys \u2013 A self-hosted personal AI agent on Cloudflare's free tier",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50031614",
+     "url": "https://github.com/rociiu/talorys",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Are .ipynb notebooks already outdated in the agentic era? [D]",
+     "summary": "I am a data scientist who started working in the industry before the LLM revolution. Back then, Jupyter Notebooks were a perfect fit for the classical DS pipeline: EDA -> data prep -> fit -> eval -> tune -> save model artefact and notebook. Lately, I have been thinking a lot about how agentic\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1x2cbug/are_ipynb_notebooks_already_outdated_in_the/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "NVIDIA reportedly discontinuing RTX 5090, GB202 GPUs to be reserved for RTX PRO series",
+     "summary": "No..... submitted by /u/chemist_slime [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2bt6r/nvidia_reportedly_discontinuing_rtx_5090_gb202/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Strata with Qwen3.8 Flash Next UD-Q4_K_XL",
+     "summary": "Been seeing quite a few posts about Strata lately, so I figured I'd give it a shot on my RTX PRO 6000 and I am very impressed. Most of the benchmarks I've seen are using IQ2 or IQ3 quants, so I wanted to see how Unsloth's UD-Q4_K_XL performs instead. Setup: GPU: 1x RTX PRO 6000 Workstation (96GB)\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2bbx6/strata_with_qwen38_flash_next_udq4_k_xl/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "AI Data Centers Not Paying Their Costs, Will Keep Using NDAs and Seek Tax Breaks",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50031156",
+     "url": "https://www.warren.senate.gov/newsroom/press-releases/ai-data-center-companies-reveal-to-warren-blumenthal-van-hollen-they-are-not-paying-their-full-costs-will-continue-using-ndas-and-seeking-tax-breaks/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "What are people doing with decisions Jev-like models?",
+     "summary": "Let's say I run a local Jev-like decision model on my machine. What are the use cases? I already use it for deep eval testing but what are people usually doing with them? It a bit of \"solution in search of a problem\" but I'm exploring and want to be sure that I'm not missing anything... submitted\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x29q4a/what_are_people_doing_with_decisions_jevlike/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Help With Choosing Hardware [P]",
+     "summary": "\u200b I am going to fine-tune a satire model, with the base model being `Qwen3.5-14B-Base`. The dataset has ~18000 examples, most of which are pretty long and do not align with the model's internal knowledge (they have incorrect answers to facts), so I needed to do a full fine tune rather than use\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1x29lqj/help_with_choosing_hardware_p/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "big or small?",
+     "summary": "what size do you want? tell them on X: https://x.com/QwenDevs/status/2108764909798641737 submitted by /u/jacek2023 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x29hx8/big_or_small/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Created laya : Now Introducing a new 800 Million Param physics-based typed decision model with 73k context and image support",
+     "summary": "Around 3 weeks ago, I posted on this subreddit about how Jev used my one-year-old architecture, og post: https://www.reddit.com/r/LocalLLaMA/s/VpuMJt577S Then, just after that, I introduced Laya, the first open-source version of JEV, and it has reached a very large scale, thanks to the local Llama\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x28zr9/created_laya_now_introducing_a_new_800_million/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Meta: Can we a get a \"Singluarity is Here!\" flair?",
+     "summary": "We have superhuman automated math research, now. Surely that means the singularity has arrived? submitted by /u/SammaVaco [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1x28g4y/meta_can_we_a_get_a_singluarity_is_here_flair/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "A startup built an 8,000-square-foot lab in just 30 days to test molecules proposed by AI, it can now measure how often they work in living organisms in about 72 hours",
+     "summary": "submitted by /u/141_1337 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1x2812g/a_startup_built_an_8000squarefoot_lab_in_just_30/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "microsoft doubles down on local ai with nvidia, but with a cost",
+     "summary": "https://preview.redd.it/uyjw2lcrvkuh1.png?width=1536&format=png&auto=webp&s=ce991be22faec3de5cbaf39119c14782b6ed0af3 link to article TLDR; new microsoft surface and nvidia rtx spark laptops are starting at 2.6k and hitting nearly 7k for the 128gb unified memory models. local llm hardware is REALLY\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x280nz/microsoft_doubles_down_on_local_ai_with_nvidia/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+     "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they\u2019ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.",
+     "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Anthropic is cutting off its internal evaluations from the internet",
+     "summary": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model actions,\" including submitting a false tip regarding an unsolved murder, that led\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Here are the top AI agents that can live in your text messages",
+     "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+     "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "AI agent makers are promising privacy \u2014 will they deliver?",
+     "summary": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for failing to keep users'\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "AI Is Getting Really Good at Messing With Cybercriminals",
+     "summary": "Anti-cybercrime initiatives are increasingly using AI to scam the scammers by tricking them into talking to lifelike bots that they think are real victims.",
+     "url": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
+     "source": "Wired AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "De-skilling myself on doing CAPTCHAS and navigating dark patterns in customer service.",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mxjsft4z7c2x"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Saturday assorted links",
+     "summary": "1. Chris Blattman\u2019s practical AI for academics. 2. Platypus Economics on red diesel. 3. Those new service sector jobs, Indian cricket edition. 4. Will AI make us more technocratic? 5. What should a scientific paper look like? 6. Screening for twins? 7. Chris Wickham, RIP. The post Saturday\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/saturday-assorted-links-582.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-582",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Building AI for Reliable Execution: Lessons From Industrial Robotics",
+     "summary": "Inside Standard Bots\u2019 AI stack, pretrained models learn factory tasks from demonstrations and improve through corrections from real deployments.",
+     "url": "https://www.latent.space/p/standard-bots",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "Ayzzz123/mcd-coupon-strategist: \u9ea6\u9ea6\u7701\u94b1\u52a9\u624b \u2014\u2014 \u57fa\u4e8e\u9ea6\u5f53\u52b3 MCP \u7684\u70b9\u9910\u6210\u672c\u4f18\u5316 Skill\u3002\u7b97\u51fa\u5f53\u524d\u95e8\u5e97\u6700\u7701\u94b1\u7684\u70b9\u9910\u65b9\u6848\uff0c\u5e76\u4e3b\u52a8\u63d0\u793a\u51d1\u5355\u9677\u9631\u3002",
+     "summary": "\u9ea6\u9ea6\u7701\u94b1\u52a9\u624b \u2014\u2014 \u57fa\u4e8e\u9ea6\u5f53\u52b3 MCP \u7684\u70b9\u9910\u6210\u672c\u4f18\u5316 Skill\u3002\u7b97\u51fa\u5f53\u524d\u95e8\u5e97\u6700\u7701\u94b1\u7684\u70b9\u9910\u65b9\u6848\uff0c\u5e76\u4e3b\u52a8\u63d0\u793a\u51d1\u5355\u9677\u9631\u3002",
+     "url": "https://github.com/Ayzzz123/mcd-coupon-strategist",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "Earth facts of the day",
+     "summary": "Global call center headcount is 5.3% below its December 2023 peak, ending more than a decade of growth. It has fallen year over year for eight straight quarters, a decline that started in high-income countries and coincided with the rise of AI chatbots. Call center support is falling behind other\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/earth-facts-of-the-day.html?utm_source=rss&utm_medium=rss&utm_campaign=earth-facts-of-the-day",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "[AINews] TypeSafe/Jev at >$100M ARR, $7.5B valuation 3 weeks after launch",
+     "summary": "Wow.",
+     "url": "https://www.latent.space/p/ainews-typesafejev-at-100m-arr-75b",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "wousp112/justin-sun-alan-shao-ai-notes: \u5b59\u5b87\u6668 \u00d7 \u90b5\u827e\u4f26 4 \u5c0f\u65f6\u5bf9\u8c08\uff1a\u5168\u6587 + \u7cbe\u534e + \u4e00\u952e\u4e22\u7ed9 AI \u7684\u89c4\u5212 prompt",
+     "summary": "\u5b59\u5b87\u6668 \u00d7 \u90b5\u827e\u4f26 4 \u5c0f\u65f6\u5bf9\u8c08\uff1a\u5168\u6587 + \u7cbe\u534e + \u4e00\u952e\u4e22\u7ed9 AI \u7684\u89c4\u5212 prompt",
+     "url": "https://github.com/wousp112/justin-sun-alan-shao-ai-notes",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-10-10T17:23+00:00",
+  "window_start": "2026-10-10T06:03+00:00",
+  "window_end": "2026-10-10T17:23+00:00",
+  "candidate_count": 40,
+  "model": "free (no LLM)"
+ }
+}
