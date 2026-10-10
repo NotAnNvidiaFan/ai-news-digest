@@ -1,0 +1,157 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Microsoft\u2019s Satya Nadella says AI models need an \u2018emergency brake\u2019",
+   "summary": "In a Saturday morning post, Microsoft's CEO wrote that it\u2019s time \u201cto step back and assess the trust architecture\u201d of AI.",
+   "why_it_matters": "",
+   "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+   "source": "TechCrunch AI"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "I'm a 10th grader who used Muse for free to produce 3 publishable math papers in under 8 hours. I think this is what research looks like now.",
+     "summary": "This post was drafted with AI, however part if it has been rewritten by OP. I'm in 10th grade. I have the free tier of Muse. This week I used it to direct a swarm of AI agents at P vs NP. Total cost: $0. Total time from ask to preprints: 8 hours. The agents formulated a question nobody had asked\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1x2qv4q/im_a_10th_grader_who_used_muse_for_free_to/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "[Model] Support MiniCPM-V 4.7 by tc-mb \u00b7 Pull Request #29416 \u00b7 ggml-org/llama.cpp",
+     "summary": "Now all we need is a new model. Let me remind you that MiniCPM-V-4.7-35B-A3B was spotted on r/LocalLLaMA a few days ago (but the model was later hidden on HF). submitted by /u/jacek2023 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2qsh3/model_support_minicpmv_47_by_tcmb_pull_request/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "We should stop defending jobs and start planning for a world without them",
+     "summary": "Unless something truly unexpected stops AI progress, it looks increasingly clear to me that AI will probably surpass humans at every economically valuable task. If that happens, AI gets picked over a human for all or nearly all work. And not just single tasks. AI systems will solve problems\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1x2q7sf/we_should_stop_defending_jobs_and_start_planning/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "China's BCI innovation enters fast track, with initial breakthroughs expected in assistive therapy, rehabilitation, and related fields",
+     "summary": "submitted by /u/yogthos [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1x2ol42/chinas_bci_innovation_enters_fast_track_with/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Benefits of using bigger models than Qwen 3.8 flash next?",
+     "summary": "I recently started using local LLM for mostly coding tasks for my personal projects. I also have found local models responding much better for topics such as health, fitness, ergonomics etc. compared to the quality I had observed with ChatGPT Go (which is still a basic level) and free models from\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2nn4b/benefits_of_using_bigger_models_than_qwen_38/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "How compute time has shifted from pretraining to post-training over the last 2 years",
+     "summary": "submitted by /u/japie06 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1x2na8q/how_compute_time_has_shifted_from_pretraining_to/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Engineer / developer observations of Gemma4-31B, Qwen3.8-27B, and 6.1-Sol for software engineering work",
+     "summary": "For what it's worth. I'm a mechanical engineer by education and software engineer in practice over the past ~20 years. Playing around with local models has been a recent hobby. Today I decided to do a few tests on things that I'd consider analogous to \"real\" work that I do, trying out some\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2mw1o/engineer_developer_observations_of_gemma431b/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50035886",
+     "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Possible to run Qwen3.8-Flash-Next-4bit on Mac with 64GB?",
+     "summary": "I have m3Max 64GB, and I can allocate up to 58GB to GPU. Is that possible to run Qwen3.8-Flash-Next-4bit? I'd like to avoid lower quant than 4bit. I know 58GB can't load everything, but I think there are now some engines that let you load only some parts of the model and stream from SSD? If so\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2mhso/possible_to_run_qwen38flashnext4bit_on_mac_with/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "SLM community telenovela: what do you guys think about this arguement?",
+     "summary": "If there is something I like about the indie SLM community is there is always some drama every week about something. I mean, look, I don't like to disrespect others or their work, but this is some crazy statements made by banaxi-tech. here is the link to the HF discussion:\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2m4q8/slm_community_telenovela_what_do_you_guys_think/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Vibe coded browser ports of Halo, The Simpsons: Hit And Run, GTA work well",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50035561",
+     "url": "https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Anthropic discloses 2 months old fake tip to police among new rogue AI incidents",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50035550",
+     "url": "https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "I asked 3 Qwen 3.8 models to solve recent AtCoder problems at 4 thinking efforts",
+     "summary": "I was looking into finalizing my daily driver and it was not clear which one to chose. I have a 5060ti 16GB so I picked the following contenders, which seem to be working at a reasonable speed on my hardware: Swift 1.5 IQ2_XS GSQ-RCO under Strata Flash Next IQ3_S GSQ-RCO under Strata 27B IQS_3\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2ly4g/i_asked_3_qwen_38_models_to_solve_recent_atcoder/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I Built a O(NlogN) attention system that retains 97% accuracy over long context (MQAR)[P]",
+     "summary": "ALHR- Adaptive learnable Hierarchical Routing is a static binary tree based system that uses learnable functions to REDUCE the amount of keys used. It takes less memory and SCALES much better VRAM with tokens submitted by /u/Alarming-Emotion-894 [link] [comments]",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1x2lwja/i_built_a_onlogn_attention_system_that_retains_97/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Question about flash next +strata+ 32gb sadness.",
+     "summary": "This is a real question about a hard and annoying limitation, which is why I assume I'm about to get lambasted by 20 ppl telling me to go buy a better GPU or use 27b or something. specs: 5060 Ti 16 GB, 32 GB DDR5, mid-range SSD. Here it is: I love the idea of Strata, but the \"Q2 must use mmap and\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2lq70/question_about_flash_next_strata_32gb_sadness/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Is anyone running Qwen3.8 Flash Next with a 1M context?",
+     "summary": "So, while doing a search to read the model card again, and because I didn't memorize the huggingface URL, I saw an AI \"answer\" at the top of the search, stating that while it natively supports a ~244k context, it could go to 1M using YaRN. That's the first I have heared of both, the 1M context,\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2lgca/is_anyone_running_qwen38_flash_next_with_a_1m/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "being alive in this day and age is the best thing about my life",
+     "summary": "nearly all relatives passed away, dealing with problems which are mostly out of my control and im trying my best to keep on keeping on but it's hard. im sure many can relate. that said, im still feeling pretty lucky to be living in 2026. the fact there's a chance of AI supercharging the medical\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1x2l1g9/being_alive_in_this_day_and_age_is_the_best_thing/",
+     "source": "r/singularity"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Microsoft\u2019s Satya Nadella says AI models need an \u2018emergency brake\u2019",
+     "summary": "In a Saturday morning post, Microsoft's CEO wrote that it\u2019s time \u201cto step back and assess the trust architecture\u201d of AI.",
+     "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+     "summary": "Is Apple hoping to get into the AI-generated podcast business?",
+     "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+     "summary": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that DistroKid has created\u2026",
+     "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+     "source": "The Verge AI"
+    }
+   ],
+   "influencer_takes": [],
+   "research_radar": [
+    {
+     "headline": "aindeev/agent-chrome-relay: Let your AI agents use your Chrome, signed in as you, in background tabs. By Alexey Indeev \u00b7 blog: read.aindeev.com \u00b7 X: @AlexeyIndeev",
+     "summary": "Let your AI agents use your Chrome, signed in as you, in background tabs. By Alexey Indeev \u00b7 blog: read.aindeev.com \u00b7 X: @AlexeyIndeev",
+     "url": "https://github.com/aindeev/agent-chrome-relay",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-10-10T21:52+00:00",
+  "window_start": "2026-10-10T17:23+00:00",
+  "window_end": "2026-10-10T21:52+00:00",
+  "candidate_count": 21,
+  "model": "free (no LLM)"
+ }
+}
