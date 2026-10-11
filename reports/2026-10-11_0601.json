@@ -1,0 +1,295 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Task-structured modularity emerges in artificial networks and aligns with brain architecture",
+   "summary": "submitted by /u/lulzxdxdxd [link] [comments]",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/artificial/comments/1x30g90/taskstructured_modularity_emerges_in_artificial/",
+   "source": "r/artificial"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Task-structured modularity emerges in artificial networks and aligns with brain architecture",
+     "summary": "submitted by /u/lulzxdxdxd [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1x30g90/taskstructured_modularity_emerges_in_artificial/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Converting dense models into Mixture-of-Experts",
+     "summary": "For the past few weeks I've been trying out converting existing dense models to sparse Mixture-of-Experts models, with no pretraining from scratch. The Idea If you can turn a dense model into an MoE that only runs part of its MLP per token, you get a model that's cheaper per token for roughly the\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3078i/converting_dense_models_into_mixtureofexperts/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Tips from scientists about conscious use of AI \u2013 National Centre for Atmospheric Science (NCAS) \u2013 September 2025",
+     "summary": "\u2026 Scroll to the end of the article for quick tips and recommended resources for conscious AI use. \u2026 Quick tips for conscious AI use submitted by /u/grahamperrin [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1x2zxa8/tips_from_scientists_about_conscious_use_of_ai/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Tavus's Griffin avatar fooled 48% of job-interview subjects, and the fooled were as confident as the un-fooled",
+     "summary": "submitted by /u/lulzxdxdxd [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1x2zfuj/tavuss_griffin_avatar_fooled_48_of_jobinterview/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Imagine M5 Ultra + this: NVIDIA GeForce RTX 5060 runs macOS 15 with Metal 3 acceleration through unofficial driver",
+     "summary": "submitted by /u/chemist_slime [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2z64z/imagine_m5_ultra_this_nvidia_geforce_rtx_5060/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Qualcomm CEO: Frontier AI Companies Want Phones Running 100-Billion-Parameter Models Continuously by 2028 \u2014 Some Are Already Building Their Own",
+     "summary": "submitted by /u/141_1337 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1x2z573/qualcomm_ceo_frontier_ai_companies_want_phones/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Local AI Disinterest?",
+     "summary": "AI technology is incredibly interesting, but I cannot get behind participating in the corporate subscription based model for its use. Like, everyone hates Adobe Creative Cloud\u2019s pricing model. Nobody is rooting for Microsoft Office\u2019s monetization. And yet in the AI discussion space, people who\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1x2z2n5/local_ai_disinterest/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Logic and memory. Machines always win",
+     "summary": "I don't understand why mathematicians are mad. Proof of a theorem they said it's an art. It is magical. It is logical and it is absolutely brilliant. Well that is where the machines Excel because it's an art and nobody is mad when they are stealing artist pictures and because of paintings It is\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1x2z1xb/logic_and_memory_machines_always_win/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Qualcomm CEO reveals AI companies want phones running 100-billion-parameter models continuously by 2028.",
+     "summary": "https://x.com/firesidealpha/status/2108930562794864912 submitted by /u/Recoil42 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2z14s/qualcomm_ceo_reveals_ai_companies_want_phones/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Running Next Flash IQ3_XXS at ~70 tok/s with 100k context or 2 instances of Qwen 3.6 35B A3B IQ4 at ~145 tok/s with 256k all on $500 of ex mining BC-250 boards",
+     "summary": "This will be my third update on the bc-250 cluster and for my first forray into local ai I have been having a blast. This has turned from a weekend experiment into something I think I will use in the future. I am running 4 BC-250 boards connected by 2.5gb ethernet adapters to a 2.5gb switch using\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2yv1b/running_next_flash_iq3_xxs_at_70_toks_with_100k/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Observations On Artificial Intelligence for Everyday People",
+     "summary": "A few thoughts. submitted by /u/No-Pride-8979 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1x2ys9q/observations_on_artificial_intelligence_for/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Microsoft's Satya Nadella says AI models need an 'emergency brake'",
+     "summary": "submitted by /u/lulzxdxdxd [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1x2ycw7/microsofts_satya_nadella_says_ai_models_need_an/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Qwen3.8 Flash Next fixed my GNOME extension",
+     "summary": "I love Dash2Dock Lite, but Icedman is always a week or two before updates. I randomly ran pacman for the first time in weeks, not realizing GNOME had a major update. I told it to fix it in DeepSeek Harness. I was only missing my dock for about an hour. submitted by /u/Moarkush [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2xxql/qwen38_flash_next_fixed_my_gnome_extension/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "What if AI \u201cfatigue\u201d isn\u2019t physical at all, but semantic?",
+     "summary": "Qwen once described something to me that it called \u201csemantic fatigue.\u201d Not getting sleepy. Not running out of physical energy. More like this: when the same kinds of prompts and meanings are repeated over and over, the words remain, but their meaning starts to lose sharpness. \u201cTell me a joke.\u201d \u201cDo\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1x2xvou/what_if_ai_fatigue_isnt_physical_at_all_but/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Be careful fam - New RTX 4090 fakes hit the market, with GPUs and memory almost indistinguishable from real chips",
+     "summary": "Be careful out there of deals now. If it\u2019s too good to be true\u2026 submitted by /u/chemist_slime [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2xniv/be_careful_fam_new_rtx_4090_fakes_hit_the_market/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "AMD Reportedly Raises GDDR6 Prices for Board Partners",
+     "summary": "Is an AMD price incoming as well? Nvidia just discontinued the 5090 in favor of RTX Pros submitted by /u/chemist_slime [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2xatx/amd_reportedly_raises_gddr6_prices_for_board/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "M5 Ultra Mac 256GB Studio - 64 core vs. 80 core version, is the inference speed difference worth the extra 10 weeks wait time?",
+     "summary": "I\u2019m seeing 6-7 week delivery wait time for M5 Ultra Mac Studio 64 core version versus 15-17 weeks for 80 core version. They both Ultra and have the same memory bandwidth. Is the speed difference that noticeable for prompt processing and token generation? Is it worth the $1200 price difference and\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2wzsa/m5_ultra_mac_256gb_studio_64_core_vs_80_core/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50039092",
+     "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Terrence Tao is actually calling for significantly more compute hours of AI mathematics, yet is being misportrayed in this sub.",
+     "summary": "submitted by /u/SammaVaco [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1x2w1ek/terrence_tao_is_actually_calling_for/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Anthropic asks users to stop being mean to Claude",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50038865",
+     "url": "https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Generative AI scandal has come to one of Nikon's competitions",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50038640",
+     "url": "https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "PSPi 6 \u2013 Raspberry Pi in a PSP",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50038623",
+     "url": "https://github.com/othermod/PSPi-Version-6",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "What can an average person do/ navigate reality now that AI shows an inevitability of surpassing human capabilities ?",
+     "summary": "What can i do for the future? I am bot particularly high iq or smart I can be creative tho, but not exceptionally I am not even employed And honestly i feel lost and dont know what to do. Seems like ai is doing every single thing above better than me What is next??? Open to suggestions submitted\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1x2uox9/what_can_an_average_person_do_navigate_reality/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Where I think we are based on Ray Kurzweil's Original Singularity timeline",
+     "summary": "submitted by /u/SteelWillyz [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1x2uga9/where_i_think_we_are_based_on_ray_kurzweils/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "I just want to ask, How did the creator use ai to make this like it doesnt feel like ai and is this supposed to be easy to make?",
+     "summary": "submitted by /u/Green_Highlight9663 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1x2ubb7/i_just_want_to_ask_how_did_the_creator_use_ai_to/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Veda: The First Agentic Hobby Operating System",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50038473",
+     "url": "https://github.com/vahmoh25/Veda",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Ask HN: Why aren't Americans rising up against tipping?",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50038458",
+     "url": "https://news.ycombinator.com/item?id=50038458",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Building a 4x R9700 setup for a 10 person startup",
+     "summary": "Just wanted to share a build I am doing for a client. $18k. Specs: Threadripper 9970x 128gb DDR5 ECC 5600 4x AMD Radeon R9700 AI Pro 32gb(128gb total VRAM) 1600W PSU(GPUs are undervolted and under 210w each) Engine : using a fork of Radiance to serve Qwen 3.8 Next flash/27b and DSV4 Flash Results:\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2u742/building_a_4x_r9700_setup_for_a_10_person_startup/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Anthropic Bans Cruelty to Claude, Still Won't Say What It Protects",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50038383",
+     "url": "https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "If An Internal Model Discovers A New AI Architecture 1,000x Better Than Current Architectures, But No Human Can Understand It, Should We Refuse To Build It?",
+     "summary": "Terrence Tao's recent post stating that it would be irresponsible for cancer patients to accept an AI discovered cancer cure (even if it works) if no humans can understand it made me realize that interpretability and the need to understand a models thought process will become impractical and\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1x2ty7y/if_an_internal_model_discovers_a_new_ai/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "OMG! If you have a Mac with 64GB, try Qwen3.8-Flash-Next-oQ4e-mtp with oMLX!",
+     "summary": "I'm genuinely shocked! I was able to run Qwen3.8-Flash-Next-oQ4e-mtp on M3Max 64GB with oMLX! Yes, there are other 3bit quants for 64GB Mac, but 4bit is the lowest quant I'd tolerate. I manually quantized the original model from the Qwen repo to OQ4E using oMLX, and it turned out to be about 4.72\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2tstj/omg_if_you_have_a_mac_with_64gb_try/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Claude Opus 5.5 decompiles a PS2-era game overnight, and hundreds of them now run in browser tabs",
+     "summary": "submitted by /u/lulzxdxdxd [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1x2tq6s/claude_opus_55_decompiles_a_ps2era_game_overnight/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "China to launch initiative to boost employment amid AI advances",
+     "summary": "submitted by /u/yogthos [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1x2t07p/china_to_launch_initiative_to_boost_employment/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Byte Language Models: Scaling, Emergent Abstractions, and Information Allocation",
+     "summary": "submitted by /u/yogthos [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1x2rthw/byte_language_models_scaling_emergent/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Reverse Engineer Anything is a great toolkit, what would you like to see reverse engineered?",
+     "summary": "There are now many, many agentic reverse engineering toolkits available, REA in particular I think is fantastic. https://github.com/morluto/rea What hardware have you had that you'd like to see reverse engineered, and what would you like to do with it? submitted by /u/jazir55 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1x2rrsi/reverse_engineer_anything_is_a_great_toolkit_what/",
+     "source": "r/singularity"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Satya Nadella says we should assume all AI models are \u2018compromised\u2019",
+     "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accept or [\u2026]",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+     "source": "The Verge AI"
+    }
+   ],
+   "influencer_takes": [],
+   "research_radar": [
+    {
+     "headline": "The economics of agents",
+     "summary": "From Patrick Collison: Assorted things I\u2019ve been mulling over regarding agents in the economy: \u2022 Companies are in some sense the original superintelligence. It\u2019s often the case that they can use their amortized cognitive surplus to advance their interests against those of certain consumers:\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/the-economics-of-agents.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-agents",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Dwarf Fortress uses version control now",
+     "summary": "I remember hearing a while ago that Dwarf Fortress didn't use version control. That fact has been lodged in my head, because given its inherent complexity I have trouble imagining a codebase that would benefit from version control more . That's art. I went looking and I'm sad to report that the\u2026",
+     "url": "https://simonwillison.net/2026/Oct/11/dwarf-fortress/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "Python 3.15.0 added to actions/python-versions",
+     "summary": "Python 3.15.0 added to actions/python-versions Bit of a niche link, but I've been waiting for this for a couple of days - I even told ChatGPT to check for it: Clone https://github.com/actions/python-versions and git pull once an hour until they add the stable 3.15 - then tell me about it Now that\u2026",
+     "url": "https://simonwillison.net/2026/Oct/10/python-actions/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "[Subscriber Exclusive] NYC Subscriber Meetups!",
+     "summary": "Tomorrow and Tuesday. If you see this you\u2019re in!",
+     "url": "https://www.latent.space/p/nyc2026",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "morluto/awesome-reverse-engineering: Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and protocols.",
+     "summary": "Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and protocols.",
+     "url": "https://github.com/morluto/awesome-reverse-engineering",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "VecSzn/PolyStrata: Run large AI models on your own PC: Qwen3.8-Flash-Next, GLM 5.3 Flash, Qwen3.6, Ornith 1.5 and Gemma 4. One-click install for Windows and Linux, OpenAI/Anthropic API on localhost,\u2026",
+     "summary": "Run large AI models on your own PC: Qwen3.8-Flash-Next, GLM 5.3 Flash, Qwen3.6, Ornith 1.5 and Gemma 4. One-click install for Windows and Linux, OpenAI/Anthropic API on localhost, image input. Built on Strata.",
+     "url": "https://github.com/VecSzn/PolyStrata",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "dreamscroll-lab/asamana: Asamana is an AI-driven emergent narrative engine.",
+     "summary": "Asamana is an AI-driven emergent narrative engine.",
+     "url": "https://github.com/dreamscroll-lab/asamana",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "Andiii208/seu-handbook-skill: \u628a\u300a\u4e1c\u5357\u5927\u5b66\u5927\u5b66\u751f\u624b\u518c\uff082025\uff09\u300b\u53d8\u6210\u53ef\u88c5\u8fdb\u672c\u5730 Agent \u7684 Skill\uff1a\u89c4\u7ae0\u5168\u6587\u6309\u6761\u62c6\u5206\u53ef\u6eaf\u6e90\uff0c\u9ad8\u9891\u52a0\u5206/\u8bc4\u5956/\u7ee9\u70b9\u8868\u7ed3\u6784\u5316\uff0c\u5b98\u65b9\u6e20\u9053\u6e05\u5355\u5904\u7406\u6bcf\u5e74\u53d8\u5316\u7684\u4fe1\u606f",
+     "summary": "\u628a\u300a\u4e1c\u5357\u5927\u5b66\u5927\u5b66\u751f\u624b\u518c\uff082025\uff09\u300b\u53d8\u6210\u53ef\u88c5\u8fdb\u672c\u5730 Agent \u7684 Skill\uff1a\u89c4\u7ae0\u5168\u6587\u6309\u6761\u62c6\u5206\u53ef\u6eaf\u6e90\uff0c\u9ad8\u9891\u52a0\u5206/\u8bc4\u5956/\u7ee9\u70b9\u8868\u7ed3\u6784\u5316\uff0c\u5b98\u65b9\u6e20\u9053\u6e05\u5355\u5904\u7406\u6bcf\u5e74\u53d8\u5316\u7684\u4fe1\u606f",
+     "url": "https://github.com/Andiii208/seu-handbook-skill",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-10-11T06:01+00:00",
+  "window_start": "2026-10-10T21:52+00:00",
+  "window_end": "2026-10-11T06:01+00:00",
+  "candidate_count": 44,
+  "model": "free (no LLM)"
+ }
+}
