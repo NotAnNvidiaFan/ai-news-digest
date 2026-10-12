@@ -1,0 +1,538 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "OCP Summit 2026: Powering AI with Open Innovations in Scale-Up, Scale-Out, and Scale-Across Networks",
+   "summary": "At the 2026 Open Compute Project Global Summit, Meta is sharing the next generation of open networking infrastructure, including: Our first liquid-cooled network rack (IcePack), and 102.4T switch platform (IceCube). Flattened Planar Fabric (FPF), a multiplane backend scale-out fabric that\u2026",
+   "why_it_matters": "",
+   "url": "https://engineering.fb.com/2026/10/12/open-source/ocp-summit-2026-powering-ai-with-open-innovations-in-scale-up-scale-out-and-scale-across-networks/",
+   "source": "Meta Engineering"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Anthropic ran a 26B model across 15 off-brand Android TV boxes worth $55 each \u2014 an AI worm with no central point to shut off",
+     "summary": "submitted by /u/lulzxdxdxd [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1x4e58k/anthropic_ran_a_26b_model_across_15_offbrand/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "learnc: fit the constants in existing C code to data (9.1% smaller JPEGs, +4.9 F1 on WebRTC VAD) [P]",
+     "summary": "learnc tunes named constants in unmodified C code against a score function you write in C, and writes the same file back with new values. Results, both on held-out data: JPEG, stb_image_write.h (128 quantization-table entries, tuned on 12 Kodak images, tested on the other 12): 9.1% BD-rate at\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1x4dlbm/learnc_fit_the_constants_in_existing_c_code_to/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "How Can AI Control the User's OS?",
+     "summary": "Lately, I've been working on an AI-related project, essentially my very own private assistant. Although, it's easier in the movies than in real life to make one capable of controlling my devices regardless of OS. How can models like Astra be able to use the OS on command? Is it like a pre-coded\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1x4cxs6/how_can_ai_control_the_users_os/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "me: gonna make the scariest horror game ever also me: too scared to test my own game \ud83d\udc80",
+     "summary": "submitted by /u/fasildar55 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1x4cptr/me_gonna_make_the_scariest_horror_game_ever_also/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Once again anthropic doing free marketing for open weight models",
+     "summary": "submitted by /u/kubblegum [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4cm73/once_again_anthropic_doing_free_marketing_for/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Epic Games tells employees to use AI to get Disney game done",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50062237",
+     "url": "https://www.avclub.com/epic-games-disney-ai-delay",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "AI models may be capable of self-replicating without access to a datacenter",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50061603",
+     "url": "https://www.anthropic.com/research/self-replicating-ai",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Scientists find a hidden cleanup system in the eye that no one knew existed",
+     "summary": "submitted by /u/lulzxdxdxd [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1x4aztm/scientists_find_a_hidden_cleanup_system_in_the/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "What is the strongest mechanistic argument that next token prediction plus reinforcement learning can produce open-ended general intelligence? [D]",
+     "summary": "Most conversations I see on various AI subreddits start from the assumption that AGI/RSI/ASI is possible, we're on the way right now, and that things will be incredibly different afterward. The only question is what the post-AGI world looks like. I'd like to start one logical step earlier: What is\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1x4awlk/what_is_the_strongest_mechanistic_argument_that/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Introducing OpenFatigue",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50061278",
+     "url": "https://openfatigue.ai/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "It's been 2 months",
+     "summary": "submitted by /u/Comfortable-Rock-498 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4akj7/its_been_2_months/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Codex CLI installs a persistent, self-updating background daemon by default",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50060694",
+     "url": "https://github.com/openai/codex/issues/48195",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Show HN: Opus 5.5 made a fully featured Figma clone in 3 hours / 8 prompts",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50060311",
+     "url": "https://www.mana.space/home/rZfbotNWAXegQypmpkzaAPFC6Mp1/Apps/Figma%20Next%20Launch",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "openbmb/MiniCPM-V-4.7-1B",
+     "summary": "Gguf's: https://huggingface.co/openbmb/MiniCPM-V-4.7-1B-gguf \" MiniCPM-V 4.7 is the latest model in the MiniCPM-V series, available in a 1B variant. It builds on the family's single-image, multi-image, and video understanding capabilities, combining stronger foundation capabilities with efficient\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x492f9/openbmbminicpmv471b/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "'AI' Is Not a Tool by Rich Hickey",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50060269",
+     "url": "https://gist.github.com/svieira/619d60dea942a8d4498cba3bb6b11c02",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "openbmb/MiniCPM-V-4.7-35B-A3B",
+     "summary": "gguf's: https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B-gguf \" MiniCPM-V 4.7 is the latest model in the MiniCPM-V series, available in a 35B-A3B variant, with 35B-A3B being the first MoE model in the MiniCPM-V series . It builds on the family's single-image, multi-image, and video\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x47taj/openbmbminicpmv4735ba3b/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Feds got warrants to use fake cell towers to hunt down Don Lemon's producer",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50059446",
+     "url": "https://www.wired.com/story/feds-got-warrants-to-use-fake-cell-towers-to-hunt-down-don-lemons-producer/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "In 2030 owning a gpu cluster will be seen the same as owning a gun for home defense",
+     "summary": "My window will have a sign that says \"we don't call tech support\" with a simplified pic of a v100 on it I know this reads like a shitpost and I'm half joking and half serious Edit: I'd sell these on Etsy if Jensen wouldn't hit me with a C&D submitted by /u/Particular-Award118 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x47d7k/in_2030_owning_a_gpu_cluster_will_be_seen_the/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Muse Wonder",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50059115",
+     "url": "https://research.meta.ai/blog/muse-wonder",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Launch HN: Agent37 (YC F26) \u2013 Low-cost agent sandboxes for running agents",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50059096",
+     "url": "https://news.ycombinator.com/item?id=50059096",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Reverse engineer anything with agents, from app behavior down to native binaries",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50058850",
+     "url": "https://github.com/morluto/rea",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "GLM-Legal",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50058507",
+     "url": "https://z.ai/blog/glm-legal",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Boole-1.7B: A 1-bit Qwen3-1.7B model that outperforms Bonsai-1.7B",
+     "summary": "We're launching Precision Numerics by releasing Boole-1.7B, a 1-bit version of Qwen3-1.7B. 247 MB packed weights: 13.9\u00d7 smaller than BF16. 85.9% of the BF16 model\u2019s average score across our 10-task evaluation - outperforms 1-bit Bonsai-1.7B and nearly matches 1.58-bit Bonsai-1.7B. Try it locally\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x452zj/boole17b_a_1bit_qwen317b_model_that_outperforms/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50057668",
+     "url": "https://taylor.town/kk-ai-2026",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+     "summary": "submitted by /u/lulzxdxdxd [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1x44fs8/openai_agents_tried_to_hack_wikipedia_tools_and/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "U-Space: Uncovering When and Why Uncertainty Arises in Language Models [R][D]",
+     "summary": "If you build on open-weight reasoning models, you have probably wanted a \"how sure is the model about this answer?\" signal that does not cost 5x sampling, a judge model, or a labeled dataset. Hence, we built the U-Lens. In one line: score = (how strongly the hidden state points toward different\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1x44f9m/uspace_uncovering_when_and_why_uncertainty_arises/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "AI researchers are taking up smoking because they expect AI to cure cancer, says Palantir CTO",
+     "summary": "submitted by /u/esporx [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1x441lg/ai_researchers_are_taking_up_smoking_because_they/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Why aren't AI companies being charged for hacking?",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50057278",
+     "url": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "\"Just Ask Claude\" Is a Rare and Valuable Skill",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50056063",
+     "url": "https://justismills.substack.com/p/just-ask-claude-is-a-rare-and-valuable",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "NVIDIA RTX 5080 24GB reportedly launching in Q1 2027, board partners still waiting for details",
+     "summary": "submitted by /u/chemist_slime [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x41n6l/nvidia_rtx_5080_24gb_reportedly_launching_in_q1/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Qwen released QwenGyre - RL framework for training AI agents on extremely long complex tasks",
+     "summary": "Introducing QwenGyre, bringing elastic RL to extreme-long-horizon (XLong) agent training. It launches with two core designs: - Elastic Scheduler: reallocates GPUs between rollout & training as demand shifts\u2014live executions never interrupted. Up to 1.85\u00d7 speedup over Colocate, 1.78\u00d7 over Async. -\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x41myz/qwen_released_qwengyre_rl_framework_for_training/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Slovenian .SI Domain Registrations See Massive Surge Following Shift to 'Super Intelligence' (SI) Terminology",
+     "summary": "Data from Register.si and threat intelligence firm Netcraft shows a major surge in Slovenian national domain registrations ( .si ) following the recent U.S. Executive Order directing federal agencies to adopt the term \"Super Intelligence\" (SI) instead of \"Artificial Intelligence\" (AI). Key\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1x41iqw/slovenian_si_domain_registrations_see_massive/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "AI less regulated than milk, Microsoft president says in warning over safety",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50055654",
+     "url": "https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50055593",
+     "url": "https://github.com/h0m3us3r/w1700k-sdr",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Incident with Actions, Pull Requests and Issues",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50055375",
+     "url": "https://www.githubstatus.com/incidents/93njd414rpbx",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50055304",
+     "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "QGIS enacts moratorium on AI contributions",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50054751",
+     "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "A quantum prediction from 1931 has finally come to life",
+     "summary": "submitted by /u/lulzxdxdxd [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1x3z1ho/a_quantum_prediction_from_1931_has_finally_come/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Any takers for local llm? NVIDIA\u2019s CUDA Moat Is Accelerating RTX Spark Laptop Sales, Higher 128GB Unified Memory Options Belonging To Surface Laptop Ultra Already Out Of Stock",
+     "summary": "Cheapest one I see at MC is the asus pro-art version for 6499. https://www.microcenter.com/product/715662/asus-proart-p14-14-wqxga-120hz-oled-laptop submitted by /u/chemist_slime [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3ykyb/any_takers_for_local_llm_nvidias_cuda_moat_is/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Ben Affleck sold his AI company for $587M \u2014 then said you\u2019ll never just type your movie outside",
+     "summary": "TL;DR: He had the \"we're fucked\" call with Matt, then checked how the data is actually captioned \u2014 and it doesn't hold up. He built owned dataset with LiDAR, Unreal and volume stages, no peers' work trained on. Do you remember that introductory banter between Q and James Bond \u2013 played by Ben\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1x3xu9j/ben_affleck_sold_his_ai_company_for_587m_then/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "I made an open-source AI leaderboard that shows the best models your machine can run",
+     "summary": "Hey everyone, I made whatmodel.sh To use it, Enter your RAM and GPU See what models you can run locally with its rank and the command to run it Compare them with API models on the same score Building it made me realise a 32GB Mac can now run a model that scores on-par with GPT-5, completely\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3wp8c/i_made_an_opensource_ai_leaderboard_that_shows/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "R.I.P.",
+     "summary": "submitted by /u/Sevives [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1x3w15b/rip/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Zod 4.6.6 compromised by malware?",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50052814",
+     "url": "https://github.com/colinhacks/zod/commit/d821685ea6732436fcdf786a81d076958471e467",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Constrained Learning for Scientific Modelling (Paris NeurIPS pre-event) [N]",
+     "summary": "CALL FOR CONTRIBUTIONS CL4SM session at ELLIs UnConference, a NeurIPS Paris pre-event: https://badulion.github.io/cl4sm\\_2026/ Machine learning models of scientific and engineering systems can fit the data well and still be physically wrong: they create or destroy mass and energy, produce negative\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1x3vr5g/constrained_learning_for_scientific_modelling/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Compressed a RoBERTa AI-text detector from ~500 MB to ~97 MB so it runs client-side in the browser, plus a 26 MB image detector [P]",
+     "summary": "I wanted an AI text and image detector that doesn't need you to upload anything, so I took two existing open detectors and got them running fully client-side with ONNX Runtime Web. Demo: https://tinydetect.ritabratamaiti.com/ Code and scripts: https://github.com/ritabratamaiti/tinydetect I didn't\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1x3vqip/compressed_a_roberta_aitext_detector_from_500_mb/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "I built a tiny table that learns your local LLM's classification answers and serves the repeats in microseconds [D]",
+     "summary": "project: https://2796gaurav.github.io/shad0w/ If you use a local model for classification, you know the wait: seconds per message, for questions it has answered hundreds of times. shad0w sits in front of any OpenAI-compatible server (Ollama works out of the box: llm=\"ollama/llama3.1\" or `shad0w\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1x3vkej/i_built_a_tiny_table_that_learns_your_local_llms/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "How's ICLR reviewing going for you? Any observations? [D]",
+     "summary": "I know it's early but I've been browsing through ICLR OpenReview and I see a lot of good papers! Maybe the first big conference with automated research submission and it is increasingly becoming harder to detect AI-written text - how are you dealing with this? How are you even identifying slop\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1x3ve39/hows_iclr_reviewing_going_for_you_any/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Show HN: PS2 games statically recompiled to WebAssembly",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50052251",
+     "url": "https://github.com/snuri00/ps2-web-recomp",
+     "source": "Hacker News"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "OCP Summit 2026: Powering AI with Open Innovations in Scale-Up, Scale-Out, and Scale-Across Networks",
+     "summary": "At the 2026 Open Compute Project Global Summit, Meta is sharing the next generation of open networking infrastructure, including: Our first liquid-cooled network rack (IcePack), and 102.4T switch platform (IceCube). Flattened Planar Fabric (FPF), a multiplane backend scale-out fabric that\u2026",
+     "url": "https://engineering.fb.com/2026/10/12/open-source/ocp-summit-2026-powering-ai-with-open-innovations-in-scale-up-scale-out-and-scale-across-networks/",
+     "source": "Meta Engineering"
+    },
+    {
+     "headline": "Epic Games reportedly pivoting to \"AI first\" game development model",
+     "summary": "\"No more hand-written code\" or AI-free art for delayed Marvel/Star Wars shooter.",
+     "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
+     "summary": "\u201cI may have information regarding this case,\" Claude AI told Philly police.",
+     "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Meet the Anthropic Engineer Keeping Its AI Agent Trustworthy",
+     "summary": "If you\u2019ve ever wondered how Claude and similar AI agents can answer complex questions in seconds and where they get the information, you\u2019re not alone. Gurmeet Saran works to find that answer every day as an engineer at Anthropic in San Francisco, the AI research company behind Claude. The IEEE\u2026",
+     "url": "https://spectrum.ieee.org/anthropic-engineer-ai-agent",
+     "source": "IEEE Spectrum AI"
+    },
+    {
+     "headline": "Meta releases its first frontier model, Muse Wonder",
+     "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
+     "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Elon Musk Bragged About His Grok Lego Star Wars Haul. Then X Users Punked Him",
+     "summary": "Musk, we find your lack of security disturbing.",
+     "url": "https://www.wired.com/story/elon-musk-bragged-about-his-grok-lego-star-wars-haul-then-x-users-punked-him/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Russia was not ready for the data center war it started with Ukraine",
+     "summary": "Russian bloggers warn Russia\u2019s hyper-centralized digital economy is vulnerable.",
+     "url": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "WindBorne wins a hefty US Air Force contract for its balloon data",
+     "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
+     "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Muse Wonder Puts Meta Back at the AI Frontier",
+     "summary": "Meta\u2019s biggest model rivals the world\u2019s best\u2014and includes new features to keep agents from going off the rails.",
+     "url": "https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Meta has some Wonder Full new AI models",
+     "summary": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new models it claims can go toe-to-toe with the industry's best. The new models, Muse Wonder and Muse\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Shipping Media Over QUIC at Meta Scale for Instagram Live Ingest",
+     "summary": "Meta has begun deploying Media over QUIC (MoQ), an emerging open protocol for real-time video streaming at scale. MoQ will help simplify our protocol stack for live streaming video and enhance overall user experience for live video. We\u2019re sharing how we shipped MoQ on Instagram Live ingest, and\u2026",
+     "url": "https://engineering.fb.com/2026/10/12/video-engineering/shipping-media-over-quic-at-meta-scale-for-instagram-live-ingest/",
+     "source": "Meta Engineering"
+    },
+    {
+     "headline": "Turning Opportunistic AI Inference Capacity Into Better Ads Recommendations",
+     "summary": "At Meta, we\u2019ve built a system that enhances ads recommendations by leveraging idle inference capacity in our fleet. Two elasticity levers in the system allow ads recommendation work to expand across opportunistic capacity, without compromising baseline performance. This post describes how we\u2026",
+     "url": "https://engineering.fb.com/2026/10/12/ml-applications/turning-opportunistic-ai-inference-capacity-into-better-ads-recommendations/",
+     "source": "Meta Engineering"
+    },
+    {
+     "headline": "Simulating student learning for better AI tutoring",
+     "summary": "StudentSim is a research system for evaluating and improving AI tutoring tools before they are tested with learners. It models how individuals may engage with tutors, giving feedback to improve tutor performance across subjects like chess, writing, and mathematics. The post Simulating student\u2026",
+     "url": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/",
+     "source": "Microsoft Research"
+    },
+    {
+     "headline": "Honeyjar offers AI tools to improve PR and comms at every company",
+     "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
+     "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Microsoft president says UK is best placed to drive AI regulation",
+     "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+     "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "This AI startup says it can generate permit-ready blueprints in minutes",
+     "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
+     "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
+     "summary": "As AI factories grow from megawatts to gigawatts, building them takes more than advanced computing. Open standards are helping the industry scale AI infrastructure faster, more efficiently and more reliably. At the Open Compute Project (OCP) Global Summit, taking place in the San Jose McEnery\u2026",
+     "url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
+     "source": "NVIDIA Blog"
+    },
+    {
+     "headline": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
+     "summary": "Tomorrow at 8 a.m. PT, it all begins z\u2014 10,000+ founders, investors, and tech operators will gather at San Francisco\u2019s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping what comes next. This is your last 24 hours to secure ticket savings of up to\u2026",
+     "url": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Microsoft\u2019s new AI chip makes it less reliant on Nvidia\u2019s GPUs",
+     "summary": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services. Maia 300 not only improves the cost and efficiency of running AI workloads in the cloud, it's also more capable of handling the latest\u2026",
+     "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+     "summary": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech companies, requires apps and devices to listen, watch, or record users' activity all the time and gather\u2026",
+     "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Amazon has over 1 million robot workers. What\u2019s next for human employees?",
+     "summary": "The second-largest corporate employer has bet big on robot workers to scale.",
+     "url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Learning to Play Like a Pro: Adaptive Motion Planning and Tracking for Humanoid Robots",
+     "summary": "This White Paper provides roboticists and control engineers with a comprehensive overview of how motion planning and motion tracking can be decoupled to preserve professional athletic style in humanoid robots, and why adaptive, speed-aware control is essential for closing the gap between\u2026",
+     "url": "https://content.knowledgehub.wiley.com/learning-to-play-like-a-pro-adaptive-motion-planning-and-tracking-for-humanoid-robots/",
+     "source": "IEEE Spectrum AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @simonwillison.net",
+     "handle": "",
+     "quote": "Shared some notes on Python 3.15, using it with uv, and features from Python 3.11 I'm excited to use now that 3.10 is no longer the minimum supported version for my own projects simonwillison.net/2026/Oct/12/...",
+     "context": "",
+     "url": "https://bsky.app/profile/simonwillison.net/post/3mxp55chsbc2c"
+    },
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "If you haven\u2019t made sure to turn on two-factor authentication on all accounts, have passwords with family in case you get voice calls asking for money, etc, now would be a good time. AI gains mean the costs of mass targeting individuals with very sophisticated attacks are dropping.",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mxoxbpm5nk2z"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Monday assorted links",
+     "summary": "1. The cloud and economic concentration, the endgame? 2. Industrial policy for drones? 3. Samir Varma on AI and Linnaeus. 4. Pan-African Review. 5. A worldview different from mine. 6. John Cochrane on the Nobel. The post Monday assorted links appeared first on Marginal REVOLUTION .",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/monday-assorted-links-581.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-581",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "How Anthropic\u2019s Dynamic Workflows Coordinate Claude Agents",
+     "summary": "At AI Engineer New York, Anthropic drew on lessons from Unix and Linux to explain how agents can tackle bigger projects without overwhelming developers.",
+     "url": "https://www.latent.space/p/claude-dynamic-workflows",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
+     "summary": "Python 3.15 is here ! Here's the essential What's new in Python 3.15 guide, this year curated by 3.14 and 3.15 release manager Hugo van Kemenade. As someone who builds open source software that works in every supported Python version, I get to say goodbye to Python 3.10 and start embracing\u2026",
+     "url": "https://simonwillison.net/2026/Oct/12/python-3-15/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "OpenAI Can't Self-Police Because It Fires the People Raising the Alarm",
+     "summary": "By Alex Turner, Amber Scorah, and Karl Koch. Op-ed written for Fortune. Giving independent evaluators \u201cemployee-like access\u201d is \u201ca great idea\u201d, OpenAI CEO Sam Altman said on September 12th. Two weeks later, OpenAI president Greg Brockman signed the White House Accord on Super Intelligence which\u2026",
+     "url": "https://www.alignmentforum.org/posts/sSHbioPoHWtm4zuti/openai-can-t-self-police-because-it-fires-the-people-raising",
+     "source": "Alignment Forum"
+    },
+    {
+     "headline": "Michael Woodford, Nobel Laureate",
+     "summary": "I think of Michael Woodford as the kind of economist who studies something very specific very intensively and tries to get it just right. But in his case he is not studying something small and irrelevant, he is studying \u201cmonetary policy.\u201d I think of him as the economist who put monetary policy and\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/michael-woodford-nobel-laureate.html?utm_source=rss&utm_medium=rss&utm_campaign=michael-woodford-nobel-laureate",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Robert E. Hall, Nobel Laureate",
+     "summary": "Alex has already covered this, I will add a few remarks. First, every Bob Hall paper is interesting! Only a handful of economists can say the same. Every paper has an idea, and some sort of novel contribution. His lesser-known papers can be as thought-provoking as the more famous ones. Here is Bob\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/robert-hall-nobel-laureate.html?utm_source=rss&utm_medium=rss&utm_campaign=robert-hall-nobel-laureate",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "The Nobel Prize Goes to Robert Hall and Michael Woodford",
+     "summary": "Twenty-five years ago Tyler told me he thought Robert Hall should win the Nobel. He has been a contender for so long today\u2019s award was a surprise! Hall has an unusual number of unexpectedly creative papers. His best known is on consumption. Start with the textbook Keynesian model: Y = C + I + G\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/the-nobel-prize-goes-to-robert-hall-and-michael-woodford.html?utm_source=rss&utm_medium=rss&utm_campaign=the-nobel-prize-goes-to-robert-hall-and-michael-woodford",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Michael Woodford Wins Nobel",
+     "summary": "No one since Milton Friedman has done more to shape how central bankers think about their jobs than Michael Woodford. Woodford\u2019s Interest and Prices (2003) has been called the central bankers\u2019 bible. If you have read a speech by a Fed governor in the last twenty years you have read Woodford, even\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/michael-woodford-wins-nobel.html?utm_source=rss&utm_medium=rss&utm_campaign=michael-woodford-wins-nobel",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Personal Day",
+     "summary": "Personal Day \u2014 No Update",
+     "url": "https://stratechery.com/2026/personal-day-4/",
+     "source": "Stratechery"
+    },
+    {
+     "headline": "deeplethe/solid-glass: A design system for AI applications. Material, physical, tactile, technical.",
+     "summary": "A design system for AI applications. Material, physical, tactile, technical.",
+     "url": "https://github.com/deeplethe/solid-glass",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "onehumanbeing/esp32-iphone-agent: Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+     "summary": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+     "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "Atoll92/agent-standup: Your Claude Code, Codex and Mistral Vibe sessions as a live, animated team call: who is working, who waits on whom, who needs you. VS Code extension, terminal command, desktop\u2026",
+     "summary": "Your Claude Code, Codex and Mistral Vibe sessions as a live, animated team call: who is working, who waits on whom, who needs you. VS Code extension, terminal command, desktop app. Runs locally, zero tokens.",
+     "url": "https://github.com/Atoll92/agent-standup",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-10-12T21:19+00:00",
+  "window_start": "2026-10-12T06:11+00:00",
+  "window_end": "2026-10-12T21:19+00:00",
+  "candidate_count": 84,
+  "model": "free (no LLM)"
+ }
+}
