@@ -1,0 +1,363 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Koboldcpp v1.123 released",
+   "summary": "submitted by /u/Fcking_Chuck [link] [comments]",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/artificial/comments/1x5ilq0/koboldcpp_v1123_released/",
+   "source": "r/artificial"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Koboldcpp v1.123 released",
+     "summary": "submitted by /u/Fcking_Chuck [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1x5ilq0/koboldcpp_v1123_released/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Mesa expands NPU capabilities with support for YOLOX with PyTorch",
+     "summary": "submitted by /u/Fcking_Chuck [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1x5iha5/mesa_expands_npu_capabilities_with_support_for/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Argon 4 vs opus 5.5 vs Gpt 6 astra (gemini is really good)",
+     "summary": "submitted by /u/Independent-Wind4462 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1x5ieyo/argon_4_vs_opus_55_vs_gpt_6_astra_gemini_is/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Google AI Long-Term Cross-Thread Memory Suddenly Gone",
+     "summary": "For the past couple of months, Google AI (the AI accessed directly from google.com's AI mode, NOT Gemini) has had persistent memory, even randomly bringing up things I told it months ago when I'm in a new thread. A few days ago, the persistent cross-thread memory just disappeared very suddenly.\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1x5i9kj/google_ai_longterm_crossthread_memory_suddenly/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Anthropic says coding is no longer the bottleneck. Its monorepo hit 30,000+ merges in a day.",
+     "summary": "They also migrated off Git and used Claude to build their own version control system, Scion. \u201cAt Anthropic, coding is no longer the bottleneck to building systems or doing research. Claude is able to autonomously iterate on research loops, micro-optimize complex programs, and build new services\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1x5htw8/anthropic_says_coding_is_no_longer_the_bottleneck/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "SMBs Will Drive Next Boom \u2014 Perplexity CEO Aravind Srinivas: Small Companies + AI-Native = Huge Money, No Fortune 500 Logos Needed",
+     "summary": "TL;DR: Perplexity CEO says the next boom won't come from Fortune 500 logos \u2014 it'll come from tiny companies printing money you haven't heard of yet Who's an outsider more pronounced than Joseph? Mm\u2026? He was thrown in jail through two successive betrayal events. The first one was by his 10\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1x5htm0/smbs_will_drive_next_boom_perplexity_ceo_aravind/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Gemini 4 Argon became Pok\u00e9mon Champion using less than half the tokens Gemini 3.8 Flash spent earning 3 badges",
+     "summary": "submitted by /u/waylaidwanderer [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1x5hsmd/gemini_4_argon_became_pok\u00e9mon_champion_using_less/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "It has begun\u2026\ud83e\uddbe\u2620\ufe0f",
+     "summary": "submitted by /u/jtbuadd [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1x5g7lx/it_has_begun/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "PhD students, how ya feeling? [D]",
+     "summary": "All seems a bit pointless now. Either pump out AI papers and neglect your own development, or take it slow and fall behind in the publishing race. I already have two papers made largely without LLMs (still seeking publication), but it's hard to resist just vibing the third from start to finish\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1x5fv1a/phd_students_how_ya_feeling_d/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "If an AI helps discover a drug, who gets credit?",
+     "summary": "AI may soon contribute to research in ways that are difficult to describe with traditional authorship. A model might suggest a molecule, identify a pattern in clinical data, or connect findings from papers that no individual researcher had time to read together. The human team still designs the\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1x5futt/if_an_ai_helps_discover_a_drug_who_gets_credit/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Discover AI: A Learning Guide - 51 hands-on labs for learning how AI actually works.",
+     "summary": "This is an offline app with 51 hands-on labs for learning how AI actually works, from neurons to agents and more... **A bit of insight** - 51 labs in 6 groups, from the basics (what a neuron is, gradient descent) through attention, RAG, agents, fine-tuning, quantization, serving and more - Each\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5ft3e/discover_ai_a_learning_guide_51_handson_labs_for/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I built a tool to track what AI leaders say and how their views change on video",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50081151",
+     "url": "https://blumify.io/people",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Mesa expands NPU capabilities with support for YOLOX with PyTorch",
+     "summary": "submitted by /u/Fcking_Chuck [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5e5gp/mesa_expands_npu_capabilities_with_support_for/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Software engineer job interviews these days",
+     "summary": "submitted by /u/icompletetasks [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1x5e3id/software_engineer_job_interviews_these_days/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Weird pattern in the ICLR papers I was assigned to review [D]",
+     "summary": "I was assigned 3 ICLR papers to review. I generally consider myself a pretty nice reviewer but...all 3 of them are slop. Unfiltered Claude slop. The language is so awful it is almost impossible to read. Unfortunately, I imagine this is common among \"top\" conference submissions now. The reason I am\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1x5dc8f/weird_pattern_in_the_iclr_papers_i_was_assigned/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Real downsides of Strata?",
+     "summary": "Trying to read on what the real tested downsides have been but information seems to go both ways, some proclaim no loss, others pretty huge ones. I had some weird looping issue in their chat, and some engine port misunderstandings, seemingly the models likes to use ports already in use, didn't\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5cdht/real_downsides_of_strata/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "What's one thing AI does that feels genuinely magical, even when you know how it works?",
+     "summary": "That moment when the technology still surprises you. submitted by /u/OfficalYOUSUMMIT [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1x5cbx4/whats_one_thing_ai_does_that_feels_genuinely/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Argon produced video",
+     "summary": "submitted by /u/Jaguar_2454 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1x5cbvp/argon_produced_video/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Everything can be an MCP",
+     "summary": "1) Reverse Engineer the Code 2) AI Feature Discovery: Ask an LLM to scan the features and map out what can be exposed via the Model Context Protocol, brainstorming creative use cases along the way. 3) Automated Integration: Let the LLM write the wrapper/server code. 4) Total Control. submitted by\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5bwqx/everything_can_be_an_mcp/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50080275",
+     "url": "https://pulseos.finance",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "My local Qwen3.8FN agent is significantly cheaper than cloud",
+     "summary": "tl;dr: running Qwen3.8FN Q4 locally is cheaper for me than every cloud model except Luna and the newer Haiku at mid-peak and peak electricity pricing where I live, and becomes the absolute cheapest model at off peak pricing. An agentic run that spans these different pricing points or at least\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5blg4/my_local_qwen38fn_agent_is_significantly_cheaper/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I plugged a local 2B decision model into Halo CE for split-screen co-op \ud83d\ude02",
+     "summary": "So i got bored and asked GPT to plug Intern-Decision-2B into OpenCE. It gets the game state as text, player/NPC positions, health, ammo, etc and some raycast to help it detect obstacles and it then predicts actions that are translated into game input. I also added an in-game text box so I can\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1x5bcby/i_plugged_a_local_2b_decision_model_into_halo_ce/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Claude CoWork for Local LLMs that runs on your Phone",
+     "summary": "Hi Friends, I am a solo developer. Ever since I had Qwen 3.8 running on my RTX4090, I had an itch to use it on my phone for everything. That gave me the idea to build SteerClaw Mobile - a complete agentic experience on the Phone where the entire agent loop runs on it. We just connect our model,\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5bawd/claude_cowork_for_local_llms_that_runs_on_your/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Someone is running Qwen 27B at ~20 tok/s on a jailbroken PS5's GPU",
+     "summary": "submitted by /u/LatentSpacer [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5ak2n/someone_is_running_qwen_27b_at_20_toks_on_a/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "AlphaNIST",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50079464",
+     "url": "https://alpha-nist.github.io/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Thank-you post for DeepSeek-V4-Flash-0731 with DSpark",
+     "summary": "DeepSeek guys, thank you so much! Don't give this up. mac setup [pi.dev] -> [ds 4 flash 0731 - brain] -> [qwen 3.6 35b a3b - body] - works perfect submitted by /u/AleksandrNikitin [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x592dl/thankyou_post_for_deepseekv4flash0731_with_dspark/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Google's Gemini 4 Argon taught a humanoid robot to play cornhole from a single human video. It built its own physics simulator, trained the throws, and refined them on the real robot. Apollo then\u2026",
+     "summary": "submitted by /u/141_1337 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1x58mbn/googles_gemini_4_argon_taught_a_humanoid_robot_to/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "By the Time Everyone Catches Up, It Will Already Be Too Late",
+     "summary": "According to Andrej Karpathy\u2019s recent approximations: 80% have no access to AI, no interest in it, or actively spurn it. 20% casually only see free-tier derpy chatbots as a better Google search or writing aid. Just 0.2% have seen agents complete complex projects with a prompt that used to take\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1x58bdd/by_the_time_everyone_catches_up_it_will_already/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Saudi spy",
+     "summary": "submitted by /u/Tricky_Rule_4565 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1x582df/saudi_spy/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Character.AI files for bankruptcy, to sell some assets to Disney for $20 million",
+     "summary": "Are we seeing early signs of the bubble popping? submitted by /u/jld1532 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x57zpx/characterai_files_for_bankruptcy_to_sell_some/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "How do you assess Alexandr Wang's technical ability and leadership beyond the hype?",
+     "summary": "I keep seeing Alexandr Wang get a lot of hate, and I'm not sure what the judgments are based on. I recently saw his comments about Meta's models competing with other AI labs , which made me curious how people working in AI assess him. What work or decisions would you point to when judging his\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1x57qox/how_do_you_assess_alexandr_wangs_technical/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "LLMs vs traditional classifiers for large scale data processing",
+     "summary": "Im curious how people are approaching classification tasks in data pipeline these days. Traditional classifiers can be efficient, while LLMs offer flexibility but may generate more output than the application actually needs I came across Jev by TypeSafe AI which takes another approach by producing\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1x57j1j/llms_vs_traditional_classifiers_for_large_scale/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Why AnythingLLM is moving from Ollama to Lemonade and llama.cpp",
+     "summary": "I'm excited to see our Lemonade embedded SDK getting used out there! submitted by /u/jfowers_amd [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5720r/why_anythingllm_is_moving_from_ollama_to_lemonade/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "OpenAI employee planted a bug in an office, arrested by FBI",
+     "summary": "submitted by /u/AlyoshaV [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1x56x7s/openai_employee_planted_a_bug_in_an_office/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Show HN: Parsimony \u2013 an open-source benchmark for how much code AI models add",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50077619",
+     "url": "https://parsimony.lasu.dev/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Anthropic co-founder Jack Clark moves his recursive AI self-improvement prediction up to 2027. Claude Opus 5.5 is already outperforming human AI researchers on experimental tasks at 1/30 the cost,\u2026",
+     "summary": "submitted by /u/141_1337 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1x566l8/anthropic_cofounder_jack_clark_moves_his/",
+     "source": "r/singularity"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
+     "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+     "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+     "source": "Google DeepMind"
+    },
+    {
+     "headline": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
+     "summary": "Chatbot prompts reveal the engineer\u2019s alleged efforts to set up a covert listening device days before one was found in a meeting room used by high-level executives.",
+     "url": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+     "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+     "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Cerebras CEO says we\u2019re nearing a future where everyone has a personal AI assistant at home",
+     "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+     "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+     "summary": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
+     "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Cerebras CEO pushes back on AI doomsday warnings",
+     "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
+     "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+     "summary": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national. Alfozan is charged with using or endeavoring to use a device to intercept oral\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+     "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
+     "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Developing Gemini 4 Argon responsibly and safely",
+     "summary": "",
+     "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+     "source": "Google DeepMind"
+    },
+    {
+     "headline": "Shopify opens its catalog up to more AI agents",
+     "summary": "More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company's agentic commerce ambitions. Shopify announced Tuesday it will let shoppers configure their AI agents to purchase products on their behalf, giving more agents access to over a\u2026",
+     "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
+     "summary": "AI leaders joined whistleblowers and security leaders at a sweeping parliamentary session, while a few hundred meters away Britain\u2019s spy chief warned AI could be used to create new bioweapons.",
+     "url": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
+     "source": "Wired AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "Argon is quite different: \"A game about Imminence. Something very big, very strange is happening. A suburb & the arrival of a vast & unknowable presence. Not horror, invoke the feeling of the end of all things coming, inevitably, but also not sad or scary\" perigee-sycamore-court-2608.netlify.app",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mxsfdbntvs2o"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Well-planned African immigration to America will go fine",
+     "summary": "That is the topic of free latest Free Press column, here is one excerpt: The good news is that African immigrants already have done well in the United States. For instance, 46 percent of African immigrants complete a college education, well above the immigrant average of 36 percent and the\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/well-planned-african-immigration-to-america-will-go-fine.html?utm_source=rss&utm_medium=rss&utm_campaign=well-planned-african-immigration-to-america-will-go-fine",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Redesigning source control at Anthropic",
+     "summary": "Redesigning source control at Anthropic Interesting piece from Anthropic describing why and how they built their own custom alternative to Git, based on the dramatic increase in rate of changes to their code after the past six months. In May 2026, Anthropic averaged around 2,500 code changes\u2026",
+     "url": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "llm-gemini 0.35",
+     "summary": "Release: llm-gemini 0.35 I added support to llm-gemini for the new Gemini 4 Argon model, made available today via the Gemini API and for customers of their $100/month subscription plan. Here are the low, medium and high pelicans . As expected, they are all excellent: Gemini has a track record of\u2026",
+     "url": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "Dyna-2: General Purpose Physical Agents with Hour-Long Autonomy \u2014 Jason Ma, Dyna Robotics",
+     "summary": "Our first robotics pod with Dyna\u2019s Chief Scientist on their big bet on World Action Models & the Next Frontier of Physical AI",
+     "url": "https://www.latent.space/p/dyna",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "The Continual Constitutional Convention: How language models revise the documents that govern them",
+     "summary": "Executive Summary Human societies exhibit broad shifts in values and norms over time, often driven by moral disagreements. One way of understanding moral progress is the resolution of these disagreements through a process of reflection by rational agents. Frontier AI companies use documents such\u2026",
+     "url": "https://www.alignmentforum.org/posts/c9woewdY9ddsPqf3J/the-continual-constitutional-convention-how-language-models",
+     "source": "Alignment Forum"
+    },
+    {
+     "headline": "Perry Mehrling, RIP",
+     "summary": "He and I were in the same Harvard class together, and spent a good deal of time talking economics together. We also were (briefly) bridge partners in a few games. I was a big fan of his book on Fischer Black. I am very sorry to see him gone. The post Perry Mehrling, RIP appeared first on Marginal\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/perry-mehrling-rip.html?utm_source=rss&utm_medium=rss&utm_campaign=perry-mehrling-rip",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "BlenderGPT3D/blender-ai-addon: Blender add-on: create and edit 3D models by chatting with AI - send text or an image, get working bpy code",
+     "summary": "Blender add-on: create and edit 3D models by chatting with AI - send text or an image, get working bpy code",
+     "url": "https://github.com/BlenderGPT3D/blender-ai-addon",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-10-14T05:04+00:00",
+  "window_start": "2026-10-13T19:22+00:00",
+  "window_end": "2026-10-14T05:04+00:00",
+  "candidate_count": 55,
+  "model": "free (no LLM)"
+ }
+}
