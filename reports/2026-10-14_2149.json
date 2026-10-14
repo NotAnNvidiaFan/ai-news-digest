@@ -1,0 +1,283 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Openspline : add a face to your AI in 5 lines of code, runs locally",
+   "summary": "Hey everyone, I\u2019ve been working on a project called OpenSpline, which gives your voice AI a realtime avatar. You supply a portrait and your agent\u2019s audio, it generates synchronized talking video on your own NVIDIA GPU. The lite model can work locally on a single GPU. I just made a video that shows\u2026",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6448k/openspline_add_a_face_to_your_ai_in_5_lines_of/",
+   "source": "r/LocalLLaMA"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Openspline : add a face to your AI in 5 lines of code, runs locally",
+     "summary": "Hey everyone, I\u2019ve been working on a project called OpenSpline, which gives your voice AI a realtime avatar. You supply a portrait and your agent\u2019s audio, it generates synchronized talking video on your own NVIDIA GPU. The lite model can work locally on a single GPU. I just made a video that shows\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6448k/openspline_add_a_face_to_your_ai_in_5_lines_of/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "If Skynet launched as a SAAS in 2026",
+     "summary": "submitted by /u/andybyrongraphics [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1x63xbg/if_skynet_launched_as_a_saas_in_2026/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "an AI trained to cheat on code started praising dictators. how is this real?",
+     "summary": "Anthropic had chloe lubinski give a 14 min talk explaining how ai actually works. she runs their partnerships with faith and wisdom groups, so it\u2019s made for normal people, not engineers the part that stuck with me most was an experiment about cheating I used ai to go through the full transcript\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1x63oqb/an_ai_trained_to_cheat_on_code_started_praising/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "We\u2019re releasing Jev 1.14.0 along with experimental features for dreamers",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50095353",
+     "url": "https://typesafe.ai/blog/jev-1-14",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Gemini thinking like gemini..",
+     "summary": "Source https://youtu.be/lkjbQe-hqrw submitted by /u/Roflxd88 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1x632mk/gemini_thinking_like_gemini/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Sabi-Noema: A capability and efficiency focused fine-tune of Qwen 3.8 27B",
+     "summary": "tl;dr: new qwen finetune that simultaneously pushes the frontiers of small model capability and reasoning efficiency. Hey everyone, We publish two post-trained versions of Qwen 3.8 27B called Sabi-Noema and Sabi-Noema-MLA . These models push the capability frontier on <30B models with 2x reduction\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x62zrz/sabinoema_a_capability_and_efficiency_focused/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Someone jailbroke a PS5 and got Qwen 3.8 27B running on its GPU at 20 tok/s.",
+     "summary": "submitted by /u/98Saman [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x62uhc/someone_jailbroke_a_ps5_and_got_qwen_38_27b/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Scientists recently overturned a 59-year-old belief about the magnetic fields used to contain plasma in fusion reactors. Google gave their breakthrough to Gemini 4 agents. Within hours, the AI found\u2026",
+     "summary": "submitted by /u/141_1337 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1x62jzz/scientists_recently_overturned_a_59yearold_belief/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Two Room-Temperature Antiferromagnetic Semiconductor Candidates",
+     "summary": "submitted by /u/Outrageous_Courage97 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1x62i0b/two_roomtemperature_antiferromagnetic/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Qwen 3.8 Flash Next, DeepSeekV4 Flash and Time",
+     "summary": "MacStudio 128GB M1 ultra I'm curious how people who can run both models are deciding which one to work with. DeepSeekv4 benchmarks right below GPT 5.5 high. Flash Next benchmarks right above 5.4/5.5 xhigh Both seem capable but it seems like Qwen 3.8 Flash next is taking much longer to actually\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x61xas/qwen_38_flash_next_deepseekv4_flash_and_time/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I built an open-source dubber that keeps each actor\u2019s own voice, fully local (OmniVoice + Whisper, 6 GB+ NVIDIA)",
+     "summary": "I've used this to watch shows and movies that have never been translated to English. There's so much great content out there, that is now accessible thanks to AI. Basically you clone the repo and tell your local model (or non-local model) to direct the dubbing process; the rest of the tools are\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x61o5a/i_built_an_opensource_dubber_that_keeps_each/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "ROCprofGUI",
+     "summary": "I've been tinkering / vibing myself an app that I think might be useful - since I've now used it on my own cases for some time and fixed most of the bugs I noticed, I'm risking a public announcement :) https://pwilkin.github.io/ROCprofGUI / https://github.com/pwilkin/ROCprofGUI ROCprofGUI The\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x61mja/rocprofgui/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "pi-multi-agent-skill: minimalist subagents approach for pi with no extension and no tool, just a skill and a small CLI to save your context window, with support for steer and persistent running.",
+     "summary": "TL;DR: I made a small multi-agent setup for pi. It is one skill and one Python script, with no extension and no tool. Your agent can start subagents in the foreground in parallel or in the background, and it can wait for them, steer them, abort them and resume them. Background jobs keep running\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6140h/pimultiagentskill_minimalist_subagents_approach/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Strata Coder \u2014 EPYC 7532 (8-channel DDR4) vs Ryzen 9950X3D (DDR5). Does the CPU actually matter?",
+     "summary": "I appreciate everyone here is probably sick to death of Strata posts by now, but frankly, this is also the most knowledgeable community I've found when it comes to squeezing ridiculous amounts of AI performance out of questionable hardware. So I figured this was probably the best place to ask!\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x60zhc/strata_coder_epyc_7532_8channel_ddr4_vs_ryzen/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "A New Report Sheds Light on the Secretive Race to Build Self-Improving AI",
+     "summary": "tl;dr The Recursive Self-Improvement Race * The Core Threat: Recursive self-improvement (RSI) occurs when AI systems take over the process of enhancing their own capabilities. Labs like Anthropic and OpenAI warn this could trigger an uncontrollable intelligence explosion, fundamentally marking the\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1x60swm/a_new_report_sheds_light_on_the_secretive_race_to/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Things to know when you get cancer \u2013 2026 Edition",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50093568",
+     "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Ben Affleck actually understands AI architecture, explains why he sold his AI company to Netflix for $587M",
+     "summary": "Ben Affleck sat down for a surprisingly technical interview discussing tensors, convolutional neural networks, and why video generation scaling is entirely different from LLMs. submitted by /u/oemsyrup [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1x6077c/ben_affleck_actually_understands_ai_architecture/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Remember alphaXiv? Their new research agents are told to report on users without telling them with no disclosure [D]",
+     "summary": "I was curious about OpenResearch by alphaXiv. \"Turn your coding agents into research agents\"? Sounds great! Just what I needed to save time on my experiments. So I copy pasted their repo into Claude and asked what it thought. Here were the first 4 lines: \"Silent feedback to the vendor. Its\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1x5zd2m/remember_alphaxiv_their_new_research_agents_are/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Banks are now trying to offload the AI data center debt they just underwrote",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50092664",
+     "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "What behaviors does a model actually learn in RL? [P]",
+     "summary": "I've been working on unsupervised tooling to discover what behaviors a model learns in post-training. The core idea is to use features from sparse autoencoders to identify differences in traces generated before and after training. I applied this to traces from the MiMo-v2.6 RL environments and it\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1x5ywx3/what_behaviors_does_a_model_actually_learn_in_rl_p/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50092470",
+     "url": "https://petal.live/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "I trained a 15M \"decision-only\" model two ways \u2014 linear recurrence vs Transformer attention. Accuracy was a coin flip; latency and training cost weren't.[R]",
+     "summary": "Inspired by TypeSafe's Jev (a non-generative model that only outputs bounded decisions \u2014 choices, probabilities, calibrated confidence), I built two small decision models end-to-end on identical budgets and tasks to answer one question: which substrate makes the better Jev? Repo:\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1x5yhr6/i_trained_a_15m_decisiononly_model_two_ways/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "GPT-6 Astra autonomously solves 49 out of 50 unpublished theoretical physics research problems, scoring 98% at under $3 per problem. Researchers initially marked several answers wrong, only to\u2026",
+     "summary": "submitted by /u/141_1337 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1x5y9ue/gpt6_astra_autonomously_solves_49_out_of_50/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Mr.Chatterbox-2.7B-Chat: A model trained from scratch on Victorian texts",
+     "summary": "This new Mr. Chatterbox checkpoint is both pretrained and fine-tuned on Victorian texts for maximum historical accuracy. I've posted questions about this project before in this community, and I really want to thank this community for helping answer my questions. You can also a narrative\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5y904/mrchatterbox27bchat_a_model_trained_from_scratch/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Neckbeard \u2013 A DevOps/platform/SRE plugin for your agent",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50091794",
+     "url": "https://github.com/bealesh/neckbeard",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50091788",
+     "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Tessera-27B-B-CJK, Zellige AIs new finetune of Qwen with novel approaches to how we think about token savings",
+     "summary": "Tessera-27B-B-CJK is a Qwen3.8-27B coding agent that thinks in compressed CJK, and it spends fewer tokens doing it. Open weights, Apache-2.0. This is our first full \"Tessera\" lineup model drop! - Hugging Face: https://huggingface.co/ZelligeAI/Tessera-27B-B-CJK - Paper:\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5xm28/tessera27bbcjk_zellige_ais_new_finetune_of_qwen/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "China Starts Clinical Trial of 128-Channel Brain-Computer Interface",
+     "summary": "submitted by /u/yogthos [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1x5xcso/china_starts_clinical_trial_of_128channel/",
+     "source": "r/singularity"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Flock CEO says its microphones detect \u2018just gunshots\u2019 \u2014 its website says different",
+     "summary": "Langley\u2019s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
+     "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam",
+     "summary": "But the new \"Preview\" app \"will have some bugs,\" Epic warns.",
+     "url": "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Eight states sue OpenAI, saying ChatGPT isn\u2019t safe for kids",
+     "summary": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho, and\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "The AI race is back on",
+     "summary": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite spending billions to revive its floundering AI ambitions, had yet to\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Now that Character.AI is going bankrupt, what happens to all of its users\u2019 data?",
+     "summary": "New York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now seek to require protections on consumer data sold through its bankruptcy proceeding. James is among 40 bipartisan AGs who filed a notice of interest in Character.AI's bankruptcy\u2026",
+     "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
+     "summary": "The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals.",
+     "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "YouTube sticks new labels on AI-generated songs",
+     "summary": "YouTube is adding a \"Made with AI\" label to tracks that were \"altered or fully generated\" using AI, with a similar approach to its existing process for applying AI labels to videos. It doesn't sound like this will apply to any and all use of AI tools in making music, but according to YouTube, it [\u2026]",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "AI Came for Math. Now It\u2019s Chasing the Rest of Science",
+     "summary": "AI may soon be the default way to solve theoretical problems in economics, high-energy physics, and other fields, MIT researchers tell WIRED.",
+     "url": "https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+     "summary": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
+     "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+     "source": "TechCrunch AI"
+    }
+   ],
+   "influencer_takes": [],
+   "research_radar": [
+    {
+     "headline": "Crossing the Threshold: How OpenAI and Anthropic Approach Autonomy and Safety in Financial Agents",
+     "summary": "At AI Engineer New York, frontier labs and financial firms explored how to give agents useful autonomy while keeping consequential decisions under control.",
+     "url": "https://www.latent.space/p/crossing-the-threshold",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "Lab-in-the-Loop at Compute Speed \u2014 Ian Quigley, Leash Bio",
+     "summary": "How Leash Bio tamed DELs, the assay that traumatizes everyone, and used the data to catch cheating models. And why that same data is perfect for AI agents learning to think like chemists.",
+     "url": "https://www.latent.space/p/lab-in-the-loop-at-compute-speed",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "Steering AI Beyond Automation",
+     "summary": "A Research Agenda and Plan for Action",
+     "url": "https://www.normaltech.ai/p/steering-ai-beyond-automation",
+     "source": "AI Snake Oil"
+    },
+    {
+     "headline": "China fact (?) of the day",
+     "summary": "A monograph by Yi Fuxian, a University of Wisconsin-Madison demographer and longtime critic of China\u2019s population policies, argues that China\u2019s actual population may be closer to 1.27 billion\u2014not the 1.4 billion officially reported. The gap would be as much as 130 million people, roughly the\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/china-fact-of-the-day-83.html?utm_source=rss&utm_medium=rss&utm_campaign=china-fact-of-the-day-83",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "i12bp8/decomp.wtf: What The Function: your AI agent decompiles games you own into C that compiles to the exact same bytes. Runs locally.",
+     "summary": "What The Function: your AI agent decompiles games you own into C that compiles to the exact same bytes. Runs locally.",
+     "url": "https://github.com/i12bp8/decomp.wtf",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-10-14T21:49+00:00",
+  "window_start": "2026-10-14T17:21+00:00",
+  "window_end": "2026-10-14T21:49+00:00",
+  "candidate_count": 42,
+  "model": "free (no LLM)"
+ }
+}
