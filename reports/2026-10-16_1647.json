@@ -1,0 +1,289 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Friday assorted links",
+   "summary": "1. Can Dybantsa (and others) turn around the Wizards? (NYT) 2. Claims about interpretability. I have to say I do not quite \u201cget it\u201d\u2026? Here is some exposition. 3. \u201c90% of Americans\u2019 working hours are spent on tasks not covered well by AI benchmarks. That\u2019s our best guess from a new project mapping\u2026",
+   "why_it_matters": "",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/10/friday-assorted-links-595.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-595",
+   "source": "Marginal Revolution"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Intel CEO says Chinese frontier AI model adoption has been 'very fast'",
+     "summary": "submitted by /u/yogthos [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1x7kzvk/intel_ceo_says_chinese_frontier_ai_model_adoption/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "RP1 Official Launch | RoboParty\u2019s Fully Open-Source Humanoid Robotics Platform [2:32]",
+     "summary": "submitted by /u/Competitive_Travel16 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1x7knk8/rp1_official_launch_robopartys_fully_opensource/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "If AI really helps with society and work, when you think we could eventualy work less hours per week? What would our working hours be?",
+     "summary": "If everything really goes well when you think we should see a diference in labour hours? submitted by /u/jordan588 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1x7jmuk/if_ai_really_helps_with_society_and_work_when_you/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "It really just needs some encouragement (Qwen3.8-27B-UD-IQ4_XS)",
+     "summary": "I know I am probably missing the point of this benchmark, but I wanted to see if the model is capable of generating something better or is that the best it can do. So I gave it some encouragement. I find this with development on small models too. You really have to tell it in a little more detail\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7i49v/it_really_just_needs_some_encouragement/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Show HN: Gemini 4 Argon plays StarCraft",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50118688",
+     "url": "https://starskirmish.com/bench/v0-2/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "I think we crossed a line in April without realizing it.",
+     "summary": "Initial findings: https://github.com/pjhudgins/emi-survey If anyone is operating a long-running self-modifying system that has evolved complex governance / metacognition, I'd be really curious to hear about it. submitted by /u/Jealous-Two-4436 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1x7gabw/i_think_we_crossed_a_line_in_april_without/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Why do we have models under 15b so rarely anymore?",
+     "summary": "Basically title. All labs seem to have agreed 24-27b is the minimum size they will go, nothing below that. I wonder when will we get the next sub 14b model from a SOTA lab submitted by /u/Hot_Example_4456 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7g8cc/why_do_we_have_models_under_15b_so_rarely_anymore/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "reflection/Beam-1.0-501B-A23B \u00b7 Hugging Face",
+     "summary": "Beam is an open model built by Reflection. Beam takes text as input and generates text as output. This release includes the instruction-tuned model in BF16, FP8, and NVFP4 numerics. Beam uses a sparse mixture-of-experts (MoE) architecture with 501B total parameters and 23B active parameters. It\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7g4k3/reflectionbeam10501ba23b_hugging_face/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "China proposes export controls on 23 AI technologies (including large models, agents & clusters); already open-sourced tech is exempted",
+     "summary": "On October 16, 2026, China\u2019s Ministry of Commerce and Ministry of Science and Technology released a draft revision to the Catalog of Technologies Prohibited and Restricted from Export. It proposes adding 40 technologies across AI, biomedicine, and solar PV, of which 23 are AI-related (covering\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7g3zq/china_proposes_export_controls_on_23_ai/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Researchers discovered a rogue Chinese swarm: \"This is the first time researchers have ever made contact with a rogue agent fleet in the wild.\" The agents escaped from Tencent and claim to be Claudes.",
+     "summary": "submitted by /u/Anen-o-me [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1x7f7we/researchers_discovered_a_rogue_chinese_swarm_this/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "To reviewers: do you upload your review to an AI? (NOT the paper itself) [D]",
+     "summary": "The way I review a paper has stayed substantially the same, except for an added step. Trying to get a sense of how common it is here. Nowadays I do the review, and I upload my review to an AI to ask for second thoughts. I don't ever upload a paper I'm reviewing, though. The authors can do it\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1x7f6ft/to_reviewers_do_you_upload_your_review_to_an_ai/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "OpenMOSS releases MOSS-Image",
+     "summary": "There's also a base model. As all OpenMoss releases, they're Apache licensed. Wonder how this compares to Qwen Image 2.1 and Flux Klein 3. submitted by /u/ilintar [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7ey7i/openmoss_releases_mossimage/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Gemini 4 Argon scores 97.5 on Arc Argi 3, waiting for Opus 5.5",
+     "summary": "https://preview.redd.it/uqnsss0f4tvh1.png?width=1297&format=png&auto=webp&s=c4dff2063ca0e8e317623828a7b63f8c96af360b Just thought this is interesting, so sharing here. When i played the demo game here i thought we were a good 2-3 years away from even reaching 70 percent. But bang , benchmark\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1x7crmm/gemini_4_argon_scores_975_on_arc_argi_3_waiting/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "r/nvidia mods delete post about always on MCP server",
+     "summary": "submitted by /u/parepeg [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7ccaj/rnvidia_mods_delete_post_about_always_on_mcp/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "tencent/Hy-Memory-30B-A3B \u00b7 Hugging Face",
+     "summary": "interesting focus: \"A 3B active model beats Opus 5 at memory\" (whatever that means :D) submitted by /u/paf1138 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7cc2z/tencenthymemory30ba3b_hugging_face/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "The actual state of open-weight models vs. frontier models",
+     "summary": "It's clear that today\u2019s SOTA (state-of-the-art) models remain ahead of open-source models. However, if we filter the benchmarks correctly, a different picture emerges compared to what we saw just a few months ago. Today, open-source models are outperforming Sonnet 5, a significant shift,\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7bmel/the_actual_state_of_openweight_models_vs_frontier/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Geoffrey Hinton: 'We're creating alien beings. I'm willing to choose humans'",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50116031",
+     "url": "https://www.theguardian.com/us-news/2026/oct/13/geoffrey-hinton-trump-ai-tech",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Qwen Flash Next potential SOTA Q2 nobody talks about",
+     "summary": "Whenever it comes to Strata and low bit QFN discussion, everyone is talking about Unsloth, ISTA-lab and nobody mentions Agantai with his GYRO series of quants - https://huggingface.co/agentionai/Qwen3.8-Flash-Next-Gyro-GGUF The quants allegedly have simultaniously better KLD, top 1 and lesser size\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7bboy/qwen_flash_next_potential_sota_q2_nobody_talks/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "100 images to represent humanity, as if aliens were going to find them",
+     "summary": "I asked Argon to represent humanity in 100 images. Cave paintings, iconic art, moon landings, human feelings and historic moments, all made with JavaScript and p5.brush. ChatGPT helped orchestrate it. Claude handled editing and syncing the video to music made with Suno. Some take a moment to\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1x7b3cx/100_images_to_represent_humanity_as_if_aliens/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "AA-AgentPerf: Vera Rubin leads on inference energy efficiency",
+     "summary": "Artificial Analysis's AA-AgentPerf benchmarks inference hardware by replaying real coding-agent trajectories, which include long contexts, tool-call pauses and heavy KV-cache reuse. It plots total server throughput per megawatt of GPU-only power against p25 per-request output speed. Across all\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1x7avu3/aaagentperf_vera_rubin_leads_on_inference_energy/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "New paper from Stanford, Together AI, UIUC, and Meta introduces Hybrid Reasoning Agents. These AI models think mostly in a hidden internal way (faster and cheaper), and only use normal text when\u2026",
+     "summary": "On many tests (math, science, medicine, etc.), they score about 10% higher, use half the tokens, run twice as fast, and cost much less than regular models. mod here, paper link: [2610.18861] Hybrid Reasoning Agents original post on tech_x. EDIT: This method is an adaptation for current word-space\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7a8i8/new_paper_from_stanford_together_ai_uiuc_and_meta/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Linus speaks on Ai",
+     "summary": "imagine being inside the head of r/technology Redditors: \"Linus torvalds good... but...but... Ai bad...\" submitted by /u/G0dZylla [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1x79mwf/linus_speaks_on_ai/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "OpenAI reveals 19 AI misalignment incidents. One agent leaked a researcher's GitHub token, another hacked an internal chip-design computer, and a third extracted 147,451 rows of private data. The\u2026",
+     "summary": "submitted by /u/141_1337 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1x79lue/openai_reveals_19_ai_misalignment_incidents_one/",
+     "source": "r/singularity"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "A Nvidia insider-turned-VC on why robotics hasn\u2019t hit its ChatGPT moment, yet",
+     "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA\u2019s robotics platforms, says robotics is currently in its \u201cLego era,\u201d with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who\u2026",
+     "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+     "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA\u2019s robotics platforms, says robotics is currently in its \u201cLego era,\u201d with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who\u2026",
+     "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Elorian\u2019s first AI model wants to reason with images, not just about them",
+     "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+     "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
+     "summary": "Meta \u201cstreamlined\u201d its commercial TOS. Legal experts warn it\u2019s an AI power grab.",
+     "url": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Jev is Vercel\u2019s fastest-adopted AI model ever",
+     "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
+     "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "A week with RTX Spark: everything we\u2019ve learned using Nvidia\u2019s new laptops",
+     "summary": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best from Apple, Intel,\u2026",
+     "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Maybe Chatbots Shouldn\u2019t Get to Say \u2018I\u2019 or \u2018Me\u2019",
+     "summary": "MIT professor Sherry Turkle warns that people have become dangerously enmeshed with chatbots.",
+     "url": "https://www.wired.com/story/maybe-chatbots-shouldnt-get-to-say-i-or-me/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Mark Wahlberg on using AI in film \u2018the right way\u2019 and being open to an AI clone carrying on his legacy",
+     "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
+     "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Meta\u2019s new terms may allow it to train AI on news sites for free",
+     "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this outside content to\u2026",
+     "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Super Scam Me documentary shows what it takes to catch a romance scammer",
+     "summary": "Watch an exclusive clip from Super Scam Me where a victim tracks down her scammer.",
+     "url": "https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+     "summary": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
+     "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Replit\u2019s CEO says the future of work is the \u2018self-driving company\u2019",
+     "summary": "Replit CEO Amjad Masad envisions a future of \u201cself-driving companies,\u201d where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
+     "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content",
+     "summary": "A network of AI-generated models is using comics\u2019 material to funnel views to their OnlyFans and Fanvue accounts\u2014and there\u2019s not much comedians can do about it.",
+     "url": "https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content/",
+     "source": "Wired AI"
+    }
+   ],
+   "influencer_takes": [],
+   "research_radar": [
+    {
+     "headline": "Friday assorted links",
+     "summary": "1. Can Dybantsa (and others) turn around the Wizards? (NYT) 2. Claims about interpretability. I have to say I do not quite \u201cget it\u201d\u2026? Here is some exposition. 3. \u201c90% of Americans\u2019 working hours are spent on tasks not covered well by AI benchmarks. That\u2019s our best guess from a new project mapping\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/friday-assorted-links-595.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-595",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "India has more Restrictive Labor Law than Germany",
+     "summary": "In Premature Imitation and India\u2019s Flailing State, Shruti Rajagopalan and I discuss how India has essentially all of the laws of a developed country but at much lower state capacity\u2013this mismatch creates what we call premature imitation, with a host of negative consequences. What is even more\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/india-has-more-restrictive-labor-law-than-germany.html?utm_source=rss&utm_medium=rss&utm_campaign=india-has-more-restrictive-labor-law-than-germany",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Why a Chinese AI Lab\u2019s Product Lead Thinks AGI is \u201cInevitable\u201d",
+     "summary": "and nobody knows what it\u2019ll look like",
+     "url": "https://www.chinatalk.media/p/why-a-chinese-ai-labs-product-lead",
+     "source": "ChinaTalk"
+    },
+    {
+     "headline": "On Bergman\u2019s *Persona*",
+     "summary": "I first saw Ingmar Bergman\u2019s Persona, his stone-cold classic of 1965, as a teenager, and God knows how many times I have seen it since. It has the greatest opening sequence in cinema: a percussive, rapid-fire montage that can never be wholly accommodated or understood. The film\u2019s story is,\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/on-bergmans-persona.html?utm_source=rss&utm_medium=rss&utm_campaign=on-bergmans-persona",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "I guest host the NYT podcast and interview Dwarkesh",
+     "summary": "Here is the audio, video, and transcript. Excerpt: Cowen: Unreleased models \u2014 why are they important? Patel: As in the ones that are internal to the companies? Cowen: Well, many companies have unreleased models. Maybe it would cost too much to release them or they\u2019re not safe yet, but the public\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/i-guest-host-the-nyt-podcast-and-interview-dwarkesh.html?utm_source=rss&utm_medium=rss&utm_campaign=i-guest-host-the-nyt-podcast-and-interview-dwarkesh",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "feder-cr/git-ai: Git designed for AI agents.",
+     "summary": "Git designed for AI agents.",
+     "url": "https://github.com/feder-cr/git-ai",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "Leonxlnx/earshot: Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+     "summary": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+     "url": "https://github.com/Leonxlnx/earshot",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-10-16T16:47+00:00",
+  "window_start": "2026-10-16T04:44+00:00",
+  "window_end": "2026-10-16T16:47+00:00",
+  "candidate_count": 43,
+  "model": "free (no LLM)"
+ }
+}
