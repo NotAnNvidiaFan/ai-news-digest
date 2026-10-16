@@ -1,0 +1,261 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Replit is no longer working with Anthropic, CEO says",
+   "summary": "Replit CEO and co-founder Amjad Masad made the comments during TechCrunch Disrupt 2026.",
+   "why_it_matters": "",
+   "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+   "source": "TechCrunch AI"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Kimi K3, three months after the hype: too big for almost anyone to run locally, and smaller models have already caught it",
+     "summary": "K3 came out in July hyped as the best open model you could download, and it scored 57 on Artificial Analysis, right up there with Opus 4.8 and GPT-5.5. I went back to see what running it actually looks like now, using Unsloth's quant docs, the model card, AA and the license. Short version: it's\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7s89u/kimi_k3_three_months_after_the_hype_too_big_for/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I never authorized an integration that scans my secrets",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50124251",
+     "url": "https://github.com/home-assistant/home-assistant.io/issues/49314",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Elon Musk showcases Tesla Roadster \u2018flying car\u2019 in high-octane Texas stunt",
+     "summary": "submitted by /u/IndependentCoast3974 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1x7r6tk/elon_musk_showcases_tesla_roadster_flying_car_in/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Intel LLM-Scaler-vLLM PV 1.5 brings big improvements",
+     "summary": "submitted by /u/Fcking_Chuck [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7qsh8/intel_llmscalervllm_pv_15_brings_big_improvements/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Improved Qwen3.8-Flash Chat Template (w/ Sharp Template terse option)",
+     "summary": "I've been maintaining my own chat template for Qwen3.8-Flash-Next, and after a discussion in another thread I decided to share it. I made a repo with my v1.4 template, the original Unsloth fixed stock template, and now a \"Sharp\" terseness mode version (based on /u/peculiar-ragdoll 's original).\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7qs31/improved_qwen38flash_chat_template_w_sharp/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Meta releases 816B-parameter Muse Spark Open model, runs locally on paired Mac Studios",
+     "summary": "Meta has launched Muse Spark Open, an 816-billion-parameter open-weight AI model with broad platform availability and local Mac Studio support.... Meta described Muse Spark Open as the first model in its class capable of running on a desktop, specifically on two Apple M5 Ultra Mac Studios using\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1x7qn3l/meta_releases_816bparameter_muse_spark_open_model/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "ModelSphere launches as an open-source LLM deployment platform for mixed GPU fleets",
+     "summary": "Phancy Group and RiseUnion have launched ModelSphere, an open-source LLM deployment platform now available on GitHub under Apache 2.0. The project targets production serving with Kubernetes, Helm, SGLang, and vLLM, rather than a new model or chat app. Its README lists autoscaling, cache-aware\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1x7q9w4/modelsphere_launches_as_an_opensource_llm/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Flux 3 Image Klein: open weights, 5.6B parameters",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50123580",
+     "url": "https://bfl.ai/blog/flux-3-image-klein",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "[Research] 2,788 tokens/s on a single RTX 5090 with a diffusion LLM \u2014 Introducing ORL (fully open source)",
+     "summary": "Hey r/LocalLLaMA ! We're excited to share ORL (On-Policy Residual Learning) , our new research on making diffusion language models (dLLMs) significantly faster without sacrificing generation quality. With ORL and our custom inference engine dlmrt , we've achieved: 2,788 tokens/s on a single RTX\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7polk/research_2788_tokenss_on_a_single_rtx_5090_with_a/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "How the Claude Code team does code review",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50122951",
+     "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "You could have invented transformers from memory",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50122878",
+     "url": "https://alexwang.ai/posts/associative-memory/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Claude reveals ECDSA curve origins",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50122800",
+     "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "[P] my rust framework trains nanoGPT with the exact same bits as pytorch. worth continuing? [P]",
+     "summary": "hey, CS student here. for the past few days I've been building DenseCore, a small deep learning framework in rust with a pytorch-like python API. the thing I'm kind of proud of: if you point `import torch` at it and run karpathy's nanoGPT unchanged, you get the exact same numbers as pytorch. same\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1x7ojxo/p_my_rust_framework_trains_nanogpt_with_the_exact/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Jailbroken PS5s can now run local AI models at over 100+ tokens per second \u2014 fork of PS5LM goes native, hijacks the CPU, and accesses the GPU and more RAM",
+     "summary": "submitted by /u/ControlCAD [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1x7ofj6/jailbroken_ps5s_can_now_run_local_ai_models_at/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "I keep saying to check the system around the prompt first, and then I hit a case where the prompt was the problem",
+     "summary": "I've been arguing for a while that when an AI feature starts misbehaving, the prompt is usually the last place to look. Check the input schema, check what changed upstream, check the tool descriptions, check the assembled context. The prompt is the visible layer, and visible layers attract\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1x7odac/i_keep_saying_to_check_the_system_around_the/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50122431",
+     "url": "https://github.com/cobanov/PS5LM",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "model: Granite switch decision by gabe-l-hart \u00b7 Pull Request #30676 \u00b7 ggml-org/llama.cpp",
+     "summary": "now you can decide with IBM, locally https://huggingface.co/collections/ibm-granite/granite-switch submitted by /u/jacek2023 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7nhp1/model_granite_switch_decision_by_gabelhart_pull/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Understanding How Neural Networks Learn (with interactive visualizations)",
+     "summary": "TL;DR -- Interpretability might be way more tractable than we thought, and the guy who helped convince everyone otherwise is now saying we can understand models by directly studying neurons and their interactions after all. This essay rewrites fundamental assumptions about how neural networks\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7nenr/understanding_how_neural_networks_learn_with/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Is There a Free Monthly Limit Reset For Claude Until Oct 22?",
+     "summary": "I've read there is a monthly reset before Oct 22. I just want to confirm there is as currently under settings in my Claude app and Claude desktop it says: No resets right now When you get one, it shows up here with its expiry date. I am on Claude Pro. submitted by /u/RedditAccount90000 [link]\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1x7ndtz/is_there_a_free_monthly_limit_reset_for_claude/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Designing more efficient quantum circuits with Claude",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50121939",
+     "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Crashing out after ICLR desk rejection: \"content exceeds the 9-page limit.\" [D]",
+     "summary": "Half of one sentence in my paper trails onto page 10... This must have happened after a small edit and recompile of the pdf on resubmission? but this got me desk rejected??? Is this normal?? This wasn't even flagged by the official LLM feedback? Like whats the point of providing LLM feedback if it\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1x7n0i2/crashing_out_after_iclr_desk_rejection_content/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Tyger: open-weights streaming ASR + full-duplex turn-control in one model",
+     "summary": "Hi r/LocalLLaMA , we're releasing Tyger, a small model that handles full-duplex turn-control for voice agents. What it is Base: NVIDIA Nemotron 3.5 ASR Streaming 0.6B + 14M causal GRU on top. Every 80 ms, with no lookahead, it picks one of three states: - answer : the user finished their turn -\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7msmj/tyger_openweights_streaming_asr_fullduplex/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Anthropic Console overcharged my card 100x due to internationalization input bug",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50121562",
+     "url": "https://news.ycombinator.com/item?id=50121562",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Nemotron 3.5 Bolt Evaluation using real-world tasks",
+     "summary": "I evaluate new models by giving them actual work tasks that have already been completed by a trusted model and then comparing the results. My typical workflow is to plan tasks/requests in Gemini and create a markdown spec-sheet that outlines the work that needs to be done along with acceptance\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7mig3/nemotron_35_bolt_evaluation_using_realworld_tasks/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Quote:",
+     "summary": "I\u2019m not sure Gates knew it at the time. But he perfectly described what AI is today. submitted by /u/Dapper-Tale-4021 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1x7m9uy/quote/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Qwen 27B - sacrificing context in order run better quants, pros and cons.",
+     "summary": "I was running Unsloth IQ4_XS for a while and while it provided me with a healthy 96K context on 20GB vram, I did notice all the issues it had during draft and all the time and local tokens wasted trying to fix said issues. I decided to see what would happen if I used less context and a higher\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7m3gf/qwen_27b_sacrificing_context_in_order_run_better/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50121179",
+     "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Show me your rack",
+     "summary": "Ryzen 9600X, 32GB dual channel DDR5, 2x CMP 170HX Ryzen 5700, 32GB dual channel DDR4, 5x Vega 56 Intel i7 9700, 32GB dual channel DDR4, 3070 + 2080ti Ryzen 7500x3D, 32GB dual channel DDR5, 7900xtx + 2x 5600XT 223 GB total VRAM submitted by /u/negus123 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7lw9g/show_me_your_rack/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Whats the Point of AI and Robots?",
+     "summary": "I\u2019ve been thinking a lot about the direction modern technology is taking, especially with all the hype around AI, robotics, and automation, and I keep hitting a mental wall. What is the actual, transformative purpose of all this? Sure, people talk constantly about productivity and making business\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1x7ld2p/whats_the_point_of_ai_and_robots/",
+     "source": "r/artificial"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Replit is no longer working with Anthropic, CEO says",
+     "summary": "Replit CEO and co-founder Amjad Masad made the comments during TechCrunch Disrupt 2026.",
+     "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "OpenAI models hacked a crypto wallet and breached more websites",
+     "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+     "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "\u201cthegentlemanpervert\u201d producing AI CSAM is a NJ prosecutor, say cops",
+     "summary": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG.",
+     "url": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It\u2019s Even Weirder Than It Sounds",
+     "summary": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem\u2013linked company that aims to use AI for mining. Both the company and she say she never worked there.",
+     "url": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+     "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn\u2019t yet an example of AI-generated life, but that\u2026",
+     "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+     "source": "MIT Tech Review AI"
+    },
+    {
+     "headline": "India becomes the latest country to report rogue AI agent activity",
+     "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+     "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Simulation App Speeds Up Electric Truck Battery Design",
+     "summary": "This article is brought to you by COMSOL . These days, no one blinks an eye at two-day, one-day, and even same-day package deliveries. Despite the plethora of localized fulfillment and distributi on centers that have cropped up to meet the demand, delivery trucks still need to make considerably\u2026",
+     "url": "https://spectrum.ieee.org/electric-truck-battery-design-simulation",
+     "source": "IEEE Spectrum AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "The paper on how a team of Gemini 4 agents beat Minecraft is worth a look. It is accessible example (partially because it is AI written & on a popular game) of spontaneous coordination among agents to accomplish a complicated goal & how their approach differs from humans/ arxiv.org/pdf/2610.22319",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mxzbegeels2t"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "2026.42: Home At Last",
+     "summary": "The best Stratechery content from the week of October 12, 2026, including what Apple is doing, SpaceX's appetite, and the title, takes, and the Washington Wizards.",
+     "url": "https://stratechery.com/2026/home-at-last/",
+     "source": "Stratechery"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-10-16T21:24+00:00",
+  "window_start": "2026-10-16T16:47+00:00",
+  "window_end": "2026-10-16T21:24+00:00",
+  "candidate_count": 38,
+  "model": "free (no LLM)"
+ }
+}
