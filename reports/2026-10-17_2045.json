@@ -1,0 +1,175 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "DeepSeek V4.1 Flash 1017 Support for ds4 \u00b7 PR #1225 \u00b7 antirez/ds4",
+   "summary": "Just pushed a PR for dwarfstar that adds support for Deepseek-v4.1-Flash-1017 with its new engrams and updated vision tower. The PR basically just adds compatibility for the file revisions and checks to make sure the vision+language model file combination matches, raising on mixed pairings. Any\u2026",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8koix/deepseek_v41_flash_1017_support_for_ds4_pr_1225/",
+   "source": "r/LocalLLaMA"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "DeepSeek V4.1 Flash 1017 Support for ds4 \u00b7 PR #1225 \u00b7 antirez/ds4",
+     "summary": "Just pushed a PR for dwarfstar that adds support for Deepseek-v4.1-Flash-1017 with its new engrams and updated vision tower. The PR basically just adds compatibility for the file revisions and checks to make sure the vision+language model file combination matches, raising on mixed pairings. Any\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8koix/deepseek_v41_flash_1017_support_for_ds4_pr_1225/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "DeepSeek V4.1 Flash 1017 [GGUF + Abliterated]",
+     "summary": "Hi all, as many of you are probably aware DeepSeek V4.1 Flash 1017 was released yesterday. I put up an abliterated model + GGUF quants for both the base and abliterated version (no imatrix yet that's WIP) For the abliterated model, most refusals are successfully removed. On the original V4.1\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8ke24/deepseek_v41_flash_1017_gguf_abliterated/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Fish Audio Drama 3 says it needs a 48 GB NVIDIA card. My 16 GB Radeon disagrees.",
+     "summary": "Drama 3 officially needs an NVIDIA GPU with 48 GB. I wanted it on my RX 9070, so I built Red Curtain together with Claude. How it works: it's a 35B MoE with ~3B active per token. The FP8 experts (~32 GB) stay in system RAM and only the ones that actually get used are cached on the GPU. Everything\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8kces/fish_audio_drama_3_says_it_needs_a_48_gb_nvidia/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "17 AIs, 7,700 hands of poker: frontier vs cheap vs local vs Jev [P]",
+     "summary": "submitted by /u/Civil-Demand555 [link] [comments]",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1x8j8kg/17_ais_7700_hands_of_poker_frontier_vs_cheap_vs/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "I Made 17 AIs Play 7,700 Hands of Poker (frontier vs cheap vs local vs jev)",
+     "summary": "submitted by /u/Civil-Demand555 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8j6j8/i_made_17_ais_play_7700_hands_of_poker_frontier/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Retired Penn professor arrested for blocking Uber Eats robot Robotics/Automation",
+     "summary": "submitted by /u/IndependentCoast3974 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1x8ijyg/retired_penn_professor_arrested_for_blocking_uber/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Older models for technical writing?",
+     "summary": "The new models like Qwen3.8 27B and DeepSeek V4 Flash etc., all have this terrible, Claude-sounding writing style that I can't stand. Here's an example of what I'm talking about: \"A probe that asks what a language model memorised reports a null when the model answers at chance, and that null is\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8i1h2/older_models_for_technical_writing/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Can anyone help me refine the data in this pdf",
+     "summary": "Hey so I'm a dental student I have this pdf it is very disorganized and inefficient, can any one here make it more readable with out any mistakes submitted by /u/PAVO191 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1x8hpl6/can_anyone_help_me_refine_the_data_in_this_pdf/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Opencode breached, rotate keys to be safe.",
+     "summary": "Details are developing\u2026 submitted by /u/chemist_slime [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8gtvs/opencode_breached_rotate_keys_to_be_safe/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Israeli settlers attack European diplomatic cars in West Bank beat French mayor",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50133274",
+     "url": "https://www.lemonde.fr/en/international/article/2026/10/17/israeli-settlers-attack-european-diplomatic-cars-in-west-bank-beat-french-mayor-say-witnesses_6758711_4.html",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "We already have AI influencers. When will we get an AI movie star who actually lasts?",
+     "summary": "AI influencers like Lil Miquela have been pulling brand deals for years, and last year Tilly Norwood got pitched as the first AI actress. But I'm not talking about a one-time novelty. By movie star, I mean an AI performer who gets cast across multiple films, builds a following, and becomes a name\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1x8g3py/we_already_have_ai_influencers_when_will_we_get/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Tsc-ts: TypeScript written in TypeScript",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50132911",
+     "url": "https://github.com/vercel-labs/tsc-ts",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "What do you test before switching AI inference providers?",
+     "summary": "A few successful prompts aren't enough to judge an inference provider. When comparing your current setup with alternatives like Mango Inference from MangoBoost, the real test is how each handles the cases that tend to break in production. I'd start with malformed JSON, missing fields, long inputs,\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1x8fgm5/what_do_you_test_before_switching_ai_inference/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "how do teams catch AI chatbots giving customers wrong answers? ours promised free repairs",
+     "summary": "so we moved our support bot onto our own self-hosted model earlier this year so customer data stays in house. It answers from our help docs with RAG and for months it was fine and just ast week a customer sent a screenshot where the bot told him accidental damage was covered under warranty and\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8f7cc/how_do_teams_catch_ai_chatbots_giving_customers/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "AI lab offers free plumbing and HVAC repairs across three cities to train AI robots",
+     "summary": "submitted by /u/life_coaches [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1x8f1kd/ai_lab_offers_free_plumbing_and_hvac_repairs/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Older models that can be considered obsolete you still use?",
+     "summary": "I haven't tried most of the models I could run so I don't have much to go on but there's one Mistral 7b finetune I still load up and will continue to download to new systems, at this point the capabilities and knowledge of it has been eclipsed by smaller models with more features but this one\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8eyr9/older_models_that_can_be_considered_obsolete_you/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "EMNLP main presentation[D]",
+     "summary": "Hello everyone, I am presenting at EMNLP Main this year, but I just got the underline link, and under my presentations, it says no presentations yet, so I cannot check my time, but I have seen other projects with times. Is this normal on underline, or should I contact them? submitted by\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1x8ey1m/emnlp_main_presentationd/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Is Pangram more accurate with long or short samples?",
+     "summary": "Maybe some of you are aware, but there's recently been a pretty big controversy in the French literary world, where one of the biggest books of the fall was flagged 100% AI on Pangram. As an author myself, this has made me terrified of seeing my own work being falsely flagged as AI. So I started\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1x8ei72/is_pangram_more_accurate_with_long_or_short/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Linux creator says anti-AI rules are \"idiotic.\" (Absolute god-tier take.)",
+     "summary": "submitted by /u/HolidayBit143 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8e4wd/linux_creator_says_antiai_rules_are_idiotic/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Amazon uses AI to monitor union risk in UK warehouses",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50132278",
+     "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "DeepSeek V4.1 Flash 1017 token efficiency",
+     "summary": "https://preview.redd.it/thtq5y7zr1wh1.png?width=3706&format=png&auto=webp&s=e75b7f205d4c7d9bed8b45bf964e9535f3492a72 I only found one sloppy-ass slop channel that published see pic attached. Obviously they celebrate its cost efficiency and their benchmark is some nonsense but jesus fucking christ\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8dh83/deepseek_v41_flash_1017_token_efficiency/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+     "summary": "The composition of Anthropic\u2019s workforce and the type of work getting done have changed significantly in the past year.",
+     "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Replit is no longer working with Anthropic, CEO says",
+     "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+     "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+     "source": "TechCrunch AI"
+    }
+   ],
+   "influencer_takes": [],
+   "research_radar": [
+    {
+     "headline": "Saturday assorted links",
+     "summary": "1. GLM-5.3 understands Bob Lucas (and then some). It amuses me how many basic principles of economics are being rediscovered in these new contexts. 2. Most famous book tied to every U.S. state. The NJ answer is crazy, how about Roth\u2019s American Pastoral? 3. Adam Tooze on Perry Mehrling. 4. How\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/saturday-assorted-links-583.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-583",
+     "source": "Marginal Revolution"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-10-17T20:45+00:00",
+  "window_start": "2026-10-17T15:44+00:00",
+  "window_end": "2026-10-17T20:45+00:00",
+  "candidate_count": 24,
+  "model": "free (no LLM)"
+ }
+}
