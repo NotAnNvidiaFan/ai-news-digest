@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI Digest — 2026-10-17T04:41+00:00</title>
+<style>
+  :root {
+    --bg: #0c0f14; --card: #141922; --card-hover: #1a2130; --border: #232b3a;
+    --text: #dfe6f0; --muted: #8b98ab; --accent: #5eb1ff; --accent2: #a78bfa;
+    --good: #4ade80; --bad: #f87171; --mid: #fbbf24;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text);
+         font: 16px/1.6 -apple-system, "Segoe UI", Roboto, sans-serif; }
+  .wrap { max-width: 860px; margin: 0 auto; padding: 32px 20px 64px; }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  header .brand { font-size: 13px; letter-spacing: 2px; text-transform: uppercase;
+                  color: var(--muted); }
+  header .brand a { color: var(--muted); }
+  h1 { font-size: 26px; margin: 6px 0 2px; }
+  .window { color: var(--muted); font-size: 14px; }
+  .overview { font-size: 17px; color: var(--text); margin: 18px 0 8px;
+              border-left: 3px solid var(--accent2); padding-left: 14px; }
+  .badges { display: flex; gap: 8px; flex-wrap: wrap; margin: 14px 0 26px; }
+  .badge { font-size: 12px; padding: 3px 10px; border-radius: 999px;
+           border: 1px solid var(--border); color: var(--muted); }
+  .badge.sent-bullish, .badge.sent-optimistic { color: var(--good); border-color: var(--good); }
+  .badge.sent-mixed { color: var(--mid); border-color: var(--mid); }
+  .badge.sent-skeptical, .badge.sent-anxious { color: var(--bad); border-color: var(--bad); }
+  .hero { background: linear-gradient(135deg, #16203a, #1b1530); border: 1px solid var(--border);
+          border-radius: 14px; padding: 22px 24px; margin-bottom: 30px; }
+  .hero .label { font-size: 12px; letter-spacing: 2px; text-transform: uppercase; color: var(--accent2); }
+  .hero h2 { margin: 8px 0 10px; font-size: 22px; }
+  .hero .why { color: var(--muted); font-size: 15px; margin-top: 10px; }
+  .hero .why strong { color: var(--text); }
+  h3.section { font-size: 14px; letter-spacing: 2px; text-transform: uppercase;
+               color: var(--muted); margin: 34px 0 12px; border-bottom: 1px solid var(--border);
+               padding-bottom: 8px; }
+  .card { background: var(--card); border: 1px solid var(--border); border-radius: 12px;
+          padding: 16px 18px; margin-bottom: 12px; }
+  .card:hover { background: var(--card-hover); }
+  .card h4 { margin: 0 0 6px; font-size: 16px; }
+  .card p { margin: 0; color: var(--muted); font-size: 14.5px; }
+  .src { display: inline-block; font-size: 12px; color: var(--accent2); margin-top: 8px; }
+  blockquote.take { margin: 0; }
+  .take .quote { font-size: 15.5px; font-style: italic; color: var(--text); }
+  .take .who { margin-top: 8px; font-size: 13.5px; color: var(--muted); }
+  .take .ctx { margin-top: 4px; font-size: 13.5px; color: var(--muted); }
+  .idea { border-left: 3px solid var(--accent2); }
+  .idea .hook { font-size: 15px; font-weight: 600; margin-bottom: 8px; }
+  .idea .draft { color: var(--text) !important; background: var(--bg); border: 1px dashed var(--border);
+                 border-radius: 8px; padding: 10px 12px; margin: 0 0 8px !important; }
+  .idea .why { font-size: 13.5px !important; }
+  .quiet { text-align: center; color: var(--muted); padding: 40px 0; font-size: 15px; }
+  .empty { color: var(--muted); font-size: 14px; font-style: italic; }
+  footer { margin-top: 44px; color: var(--muted); font-size: 12.5px;
+           border-top: 1px solid var(--border); padding-top: 14px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="brand"><a href="../index.html">AI NEWS DIGEST</a></div>
+    <h1>2026-10-17T04:41+00:00</h1>
+    <div class="window">Window: 2026-10-16T21:24+00:00 &rarr; 2026-10-17T04:41+00:00 (UTC)</div>
+  </header>
+
+  <p class="overview">Free-mode digest: candidates grouped by type (LLM synthesis disabled).</p>
+
+  <div class="badges">
+    
+    <span class="badge">26 candidates scanned</span>
+    <span class="badge">model: free (no LLM)</span>
+  </div>
+
+  
+
+  
+
+  
+  <div class="hero">
+    <div class="label">Top story</div>
+    <h2><a href="https://www.reddit.com/r/LocalLLaMA/comments/1x8104h/nvidianvidianemotron35bolt74ba9b24gbgguf_results/">nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB-GGUF results on 16GB VRAM with llama.cpp, strata style tuning (IQ2_XSS Official Nvidia Quant)</a></h2>
+    <p>What I built and tested, on identical prompts (20k input) with greedy output for a fair comparison: │ Build │ Generation (tok/s) │ Verdict │ │ Your installed v0.7.0 (control) │ 168.8 │ best, together with the settings below │ │ v0.7.0 + smarter expert-cache eviction (#30637) │ 171.5 │ within noise…</p>
+    
+    <span class="src">r/LocalLLaMA</span>
+  </div>
+  
+
+  
+
+  <h3 class="section">Model releases &amp; updates</h3>
+  
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1x8104h/nvidianvidianemotron35bolt74ba9b24gbgguf_results/">nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB-GGUF results on 16GB VRAM with llama.cpp, strata style tuning (IQ2_XSS Official Nvidia Quant)</a></h4>
+      <p>What I built and tested, on identical prompts (20k input) with greedy output for a fair comparison: │ Build │ Generation (tok/s) │ Verdict │ │ Your installed v0.7.0 (control) │ 168.8 │ best, together with the settings below │ │ v0.7.0 + smarter expert-cache eviction (#30637) │ 171.5 │ within noise…</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1x80ci1/what_do_you_guys_use_for_chat_interface/">What do you guys use for chat interface?</a></h4>
+      <p>I use Pi/OpenCode for coding tasks which still seems to be the most popular, but I&#39;m wondering what you guys use for normal chat interface. It&#39;s been a few months since I&#39;ve seen discussions about harness and at the time the popular non-coding choices seem to be: - OpenWebUI for general use -…</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/singularity/comments/1x7zlys/china_completes_worlds_third_robotic_armassisted/">China completes world&#39;s third robotic arm-assisted heart transplant</a></h4>
+      <p>submitted by /u/yogthos [link] [comments]</p>
+      <span class="src">r/singularity</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1x7yxxl/vllm_finally_working_on_4_x_intel_b70_qfn_38_fp8/">vLLM finally working on 4 x Intel B70, QFN 3.8 FP8</a></h4>
+      <p>I think it&#39;s all working. I asked various models to make it all work for me, with the bulk being GLM 5.3 flash. Its not as fast as some of the benchmarks I&#39;ve found but getting them working apparently requires even more surgery. I wanted a simple &#34;Qwen 3.8 Flash Next FP8 MTP 256k context, 128GB…</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/singularity/comments/1x7xwov/why_would_they_share_abundance_and_longevity_with/">Why would they share abundance and longevity with people that they hate?</a></h4>
+      <p>I think about this a lot. Who are the people that will benefit from the theoretical prosperous utopia of the singularity. As we&#39;re seeing right now with AI, the improvements are huge on a regular basis, but how many of us are really feeling like our lives are changing drastically for the better?…</p>
+      <span class="src">r/singularity</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1x7xbf0/llamacpp_has_come_a_long_way/">llama.cpp has come a long way</a></h4>
+      <p>Hey everyone, English is not my native language (Dutch), but I write in my own words without assistance. So please let me know if any sentence flows weird, etc. A mate of mine told me how amazing local AI was in January 2025 or so but I was a skeptic who took pride in writing my own code for 10…</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1x7x1a6/its_funny_because_its_true/">It’s funny because it’s true</a></h4>
+      <p>submitted by /u/LatentSpacer [link] [comments]</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1x7w7dp/nvidianvidianemotronlabsdory104bbf16_hugging_face/">nvidia/NVIDIA-Nemotron-Labs-Dory1.0-4B-BF16 · Hugging Face</a></h4>
+      <p>submitted by /u/coder543 [link] [comments]</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1x7vp40/does_omp_snapcompact_actually_work_well_with_self/">Does OMP snapcompact actually work well with self hosted models?</a></h4>
+      <p>snapcompact (from oh-my-pi) swaps the normal LLM summarization for a local render of the conversation into dense pixel font PNG frames. The vision model reads them back. No LLM call, no API key, fully deterministic. For cloud models the pitch is clear, it saves billed vision tokens. But I self…</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/singularity/comments/1x7vivf/an_internal_anthropic_research_models_chain_of/">An internal Anthropic research model&#39;s chain of thought after cracking the 26-year-old NSA elliptic curve seed mystery in under 30 minutes</a></h4>
+      <p>submitted by /u/soldierofcinema [link] [comments]</p>
+      <span class="src">r/singularity</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/singularity/comments/1x7vd96/member_this_time_last_year_gemini_30_pro_blew/">&#39;member this time last year Gemini 3.0 pro blew everyone away</a></h4>
+      <p>lol submitted by /u/arknightstranslate [link] [comments]</p>
+      <span class="src">r/singularity</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/artificial/comments/1x7uhcv/learn_the_vocabulary_for_better_ai_prompts/">Learn the vocabulary for better AI prompts</a></h4>
+      <p>I&#39;ve been building Briefle, a tool to help people get better at communicating with AI. &#34;Make it look better&#34; gets you a generic result. &#34;Give the price more visual weight and make the secondary button a ghost button&#34; gets you what you had in mind. The difference is knowing what to ask for. You…</p>
+      <span class="src">r/artificial</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1x7uf15/i_dont_get_the_qwen_38_flash_next_hype/">I don&#39;t get the qwen 3.8 flash next hype</a></h4>
+      <p>My experience is based on running Qwen 3.8 Flash Next UD-Q4_K_XL on 4x 3090&#39;s Compared directly to Qwen 3.8 27b Q8 it is not even close. To add to this, strata results were even worse than llama.cpp even thought generation speeds were faster. I left 1 run for 4 hours in strata and it did not…</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/singularity/comments/1x7udbi/claude_found_the_seeds_for_ecdsa_proof_of_no_nsa/">Claude found the seeds for ECDSA. Proof of no NSA backdoor, but also... I don&#39;t feel so good about where we&#39;re headed</a></h4>
+      <p>submitted by /u/typeomanic [link] [comments]</p>
+      <span class="src">r/singularity</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/singularity/comments/1x7ucce/an_internal_poll_of_anthropic_employees_what_the/">An internal poll of Anthropic employees. What the future looks like from the inside.</a></h4>
+      <p>submitted by /u/ResultBackground2450 [link] [comments]</p>
+      <span class="src">r/singularity</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/singularity/comments/1x7u2hn/vals_ai_moves_its_prediction_for_full_recursive/">Vals AI moves its prediction for full recursive AI self-improvement to July 2027. Claude Opus 5.5 tops its autonomous AI research benchmark, becoming the first model to outperform a published human…</a></h4>
+      <p>submitted by /u/141_1337 [link] [comments]</p>
+      <span class="src">r/singularity</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/singularity/comments/1x7tavk/are_we_giving_robots_too_much_power/">Are We Giving Robots Too Much Power?</a></h4>
+      <p>More relevant than ever? submitted by /u/thorax [link] [comments]</p>
+      <span class="src">r/singularity</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1x7sq8e/10_things_you_maybe_didnt_know_you_can_do_with/">10 Things you maybe didn&#39;t know you can do with Qwen 3.6 27B right now. (For Noobs)</a></h4>
+      <p>I know everyone&#39;s excited about 3.8, but honestly I&#39;m still refining 3.6. And I hate the way 3.8 talks, so... I keep seeing all these posts about what&#39;s the use of open source, so I figured I&#39;d submit my own answer with this post. Qwen 3.5 27B was my first agent, starting my journey around May…</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/artificial/comments/1x7smpa/what_happens_when_you_send_10000_personalized/">What Happens When You Send 10,000 Personalized Emails To Businesses With Bad Websites?</a></h4>
+      <p>I ran a web design company for around 3 years and getting clients was always pretty inconsistent. One month I was cold calling, another month I was manually sending DMs to Facebook pages, then I tried ads. It all worked to some degree, but I never really had one reliable way of getting clients.…</p>
+      <span class="src">r/artificial</span>
+    </div>
+    
+  
+
+  <h3 class="section">Frontier lab developments</h3>
+  
+    
+    <p class="empty">Nothing in this window.</p>
+    
+  
+
+  <h3 class="section">Influencer takes &amp; sentiment</h3>
+  
+  <p class="empty">No notable takes this window.</p>
+  
+
+  <h3 class="section">Research &amp; under the radar</h3>
+  
+    
+    <div class="card">
+      <h4><a href="https://simonwillison.net/2026/Oct/16/code-review/">Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang</a></h4>
+      <p>We think &#34;did a human read the code?&#34; is an imprecise proxy for &#34;what could go wrong with this change, and which check—automated or human—is the right one to catch it?&#34; Asking that question also changed when review happens. Before, review was a gate at the end of the road: write the code, open a…</p>
+      <span class="src">Simon Willison</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://github.com/christos-antono/NPCTalk">christos-antono/NPCTalk: Make any NPC in any game talk back with Fish Audio: skills, a self-hosted voice server and tools for AI coding agents, with a full GTA V example.</a></h4>
+      <p>Make any NPC in any game talk back with Fish Audio: skills, a self-hosted voice server and tools for AI coding agents, with a full GTA V example.</p>
+      <span class="src">GitHub Trending</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://github.com/anujasid/mcp-for-blender-pro">anujasid/mcp-for-blender-pro: AI assistant and MCP server for Blender: visual chat, scene tools, model selection, multi-agent workflows. Works with OpenAI, Claude, Gemini, Ollama and OpenCode.…</a></h4>
+      <p>AI assistant and MCP server for Blender: visual chat, scene tools, model selection, multi-agent workflows. Works with OpenAI, Claude, Gemini, Ollama and OpenCode. Blender AI automation, bpy scripting, 3D modeling, geometry nodes and MCP integration.</p>
+      <span class="src">GitHub Trending</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://github.com/Graphicle-AI/graphicle">Graphicle-AI/graphicle: Code graph and memory for your coding agents, in one Rust program. For Claude Code, Codex, Cursor and any MCP client.</a></h4>
+      <p>Code graph and memory for your coding agents, in one Rust program. For Claude Code, Codex, Cursor and any MCP client.</p>
+      <span class="src">GitHub Trending</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://github.com/FeedHive/ai-slop-detector">FeedHive/ai-slop-detector: 120 patterns that make writing read like AI slop, with an agent skill for Claude Code and Codex.</a></h4>
+      <p>120 patterns that make writing read like AI slop, with an agent skill for Claude Code and Codex.</p>
+      <span class="src">GitHub Trending</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://github.com/RayenMlayeh/jevcrawl">RayenMlayeh/jevcrawl: MCP server and CLI that crawls websites for AI agents: finds the answer page 2x more often than Crawl4AI, 10x cheaper per answer than letting Claude crawl.</a></h4>
+      <p>MCP server and CLI that crawls websites for AI agents: finds the answer page 2x more often than Crawl4AI, 10x cheaper per answer than letting Claude crawl.</p>
+      <span class="src">GitHub Trending</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://github.com/YuyaoGe/doc2harness">YuyaoGe/doc2harness: Official Code for the paper &#34;Doc2Harness: Benchmarking LLMs on Long-Horizon Harness Engineering of Coding Agents &#34;</a></h4>
+      <p>Official Code for the paper &#34;Doc2Harness: Benchmarking LLMs on Long-Horizon Harness Engineering of Coding Agents &#34;</p>
+      <span class="src">GitHub Trending</span>
+    </div>
+    
+  
+
+  
+
+  <footer>
+    Generated 2026-10-17T04:41+00:00 UTC
+    
+    &middot; <a href="../index.html">all reports</a>
+  </footer>
+</div>
+</body>
+</html>
