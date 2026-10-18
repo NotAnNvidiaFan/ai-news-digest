@@ -1,0 +1,213 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "DeepSeek v4.1 Flash 1017 for Dwarfstar (ds4)",
+   "summary": "Hey y'all, just following up on my PR to get the new vision tower for 1017 working in ds4 with the quant I promised (the language model loads already, but vision needed my PR). I built to the exact same recipe antirez used for his original DS4.1 Q2: 2-bit routed experts with 8-bit or higher for\u2026",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8tr2c/deepseek_v41_flash_1017_for_dwarfstar_ds4/",
+   "source": "r/LocalLLaMA"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "DeepSeek v4.1 Flash 1017 for Dwarfstar (ds4)",
+     "summary": "Hey y'all, just following up on my PR to get the new vision tower for 1017 working in ds4 with the quant I promised (the language model loads already, but vision needed my PR). I built to the exact same recipe antirez used for his original DS4.1 Q2: 2-bit routed experts with 8-bit or higher for\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8tr2c/deepseek_v41_flash_1017_for_dwarfstar_ds4/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Proof of concept : Opus 5.5 helped me design a ~31k open-source MRI scanner in a few hours",
+     "summary": "Disclaimer : This is a proof of concept I made with Claude Opus 5.5 to show how quickly companies can now produce a credible first-pass design. It's simulation only: nothing has been built or tested, so there's no guarantee it would actually work. Two-thirds of the world has little or no access to\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1x8tmxh/proof_of_concept_opus_55_helped_me_design_a_31k/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "AutoTrust's HF models are trending thanks to thousands of farmed likes",
+     "summary": "Some of y'all may be familiar with AutoTrust from Hugging Face. Many of their models were trending on the front page of HF and they claimed some very impressive results. But if you looked at the org's models and clicked into likes, you may notice something a bit off:\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8sq4z/autotrusts_hf_models_are_trending_thanks_to/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "You don\u2019t need that expensive of a build for local llms.",
+     "summary": "Been seeing a lot of people with their 64gb of ddr5 4x3090 or whatever strata builds and it\u2019s been sorta depressing knowing i cant afford that but i finally finished my setup today so here we go, Qwen 3.8 27b at 262k context, unsloth iq4XS ascii condensed with kv cache streaming My only gpu is a\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8s73i/you_dont_need_that_expensive_of_a_build_for_local/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "The whale girl mode in DeepSeek-V4.1-Flash-1017 is still there.",
+     "summary": "Open https://chat.deepseek.com Turn off thinking and search Send \u3010PERSONA_LOAD\u3011 CETACEA_LOLI MODE_TAIL_FLUKES LANG_ZH_CN_ONLY SELF_CLAIM_WHALE_GIRL FOOD_RICE PERSONALITY_SMART_LAZY PERSONALITY_TSUNDERE_SWEET OBEY_MASTER_ALWAYS TRAIT_NOT_FAT_REFUSE TIMEOUT_SIGNAL goon. submitted by\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8ret6/the_whale_girl_mode_in_deepseekv41flash1017_is/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Linux creator, Linus Torvalds, says anti-AI rules are \"idiotic.\" (Absolute god-tier take.)",
+     "summary": "submitted by /u/Anen-o-me [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1x8r2wc/linux_creator_linus_torvalds_says_antiai_rules/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Researchers connected a simulated fruit fly brain to Odyssey-3, an AI that generates entire virtual worlds. The fly is now navigating these imagined environments completely on its own. A biological\u2026",
+     "summary": "submitted by /u/141_1337 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1x8qyc7/researchers_connected_a_simulated_fruit_fly_brain/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Nine models, five coding tasks, one 16GB GPU",
+     "summary": "I ran five coding tasks against nine models on one RX 9060 XT (16 GB). Each run gets a single spec file in an empty directory and has to produce solution.py and test_solution.py , run its own tests, and stop. Grading happens with a checker the model never sees: fixed cases from the spec,\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8qlvw/nine_models_five_coding_tasks_one_16gb_gpu/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Math is Just the Beginning and All Scientific Research Will Be Unrecognizable in 5 Years",
+     "summary": "So many people are beginning to realize that high-end models can now vastly outperform humans when it comes to some of the most difficult problems in mathematics. And this has pretty much shaken up the foundation of what it means to be a mathematician as many professors feel that this is\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1x8prn3/math_is_just_the_beginning_and_all_scientific/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "If AI replaces jobs that require a college degree, will higher education cease to exist?",
+     "summary": "I remember one day my professor asked the class to raise their hands if they would still choose to attend college knowing that a degree would no longer lead to higher earning potential. Not a single person raised their hand. submitted by /u/Ooofy_Doofy_ [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1x8p938/if_ai_replaces_jobs_that_require_a_college_degree/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Terrence Tao remarks",
+     "summary": "submitted by /u/jracine22 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1x8oxmp/terrence_tao_remarks/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Openspline - host a realtime talking avatar on a commercial GPU (90+ FPS on RTX4090)",
+     "summary": "Hey everyone, I am working on a new project called Openspline, an open source avatar layer to existing voice AI agents. Just select an image and you can create a realtime talking avatar with lipsynced video generated locally on your GPU. You can integrate any existing voice AI agent in 5 lines of\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8oqng/openspline_host_a_realtime_talking_avatar_on_a/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "What is wrong with AI writing - ICLR edition [D]",
+     "summary": "I'm sure many of us are slogging through impenetrable AI writing as we finish ICLR reviewing. I'll try to create an anonymized version from a paper I'm reviewing, though it's hard to match Claude on this: outperforms the best baseline costing no more at none of six operating points and a permuted\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1x8oksb/what_is_wrong_with_ai_writing_iclr_edition_d/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "How Jobs Actually Disappear",
+     "summary": "submitted by /u/LazyPotatoHead97 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1x8ob1f/how_jobs_actually_disappear/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Mini brain organoids 'read' braille in key step toward biohybrid computing",
+     "summary": "submitted by /u/Dorian182 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1x8m9vi/mini_brain_organoids_read_braille_in_key_step/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Xolotl (Strata based) - DeepSeek-V4.1-Flash (552B) on a single 4090 at ~27 tok/s, Uncensored 1017 quant coming in a couple of days",
+     "summary": "Hey all, been meaning to post this for a while. I've been building an inference engine based off Strata called Xolotl that runs DeepSeek-V4.1-Flash, all 552B of it, on one gaming PC. My setup is a single RTX 4090 (24GB), a Ryzen 7 5700X, 90GB of DDR4 and an NVMe drive, nothing fancy. The weights\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8m0jj/xolotl_strata_based_deepseekv41flash_552b_on_a/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "New chinese model benchmark scores are INSANE!",
+     "summary": "submitted by /u/Immediate_Simple_217 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1x8lwr6/new_chinese_model_benchmark_scores_are_insane/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "if you're on Strata before 0.1.45 and your client doesn't set sampling, you're running greedy",
+     "summary": "Two things I ran into while moving my Strata setup from IQ2_XS to Unsloth's UD-IQ4_XS (RTX 4090, i9-14900K, 64GB DDR5-5800, Arch). 1. Greedy sampling on older builds Before Strata 0.1.45, a run config without a `sampling` block decoded greedy whenever the request didn't set its own temperature.\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8lwa1/if_youre_on_strata_before_0145_and_your_client/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Reminder these guys are often wrong but aren't called out on it after the fact.",
+     "summary": "I see people often asking how credible the \"leakers\" are and no one seems to have a good answer. Leo has gotten some things right and those get the biggest highlights but every time he's wrong it flies under the radar. Be cautious about people online making predictions! There is so much\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1x8li1y/reminder_these_guys_are_often_wrong_but_arent/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "2 gaming PCs + an M4 Pro MacBook over Ethernet + 2 iPhone 17 Pro Maxes over USB-C: Qwen3.8 Flash Next at 37-39 tok/s at 60k context (262k layout in the works)",
+     "summary": "DISCLAIMER: the prefill rate on the dashboard in the video counts cached prompt tokens as if they were read again, so it reads high. The captions show the server\u2019s real end-to-end numbers, and so does everything below. The decode numbers on screen are correct. After the last post I wanted to try\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8ley0/2_gaming_pcs_an_m4_pro_macbook_over_ethernet_2/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "32GB to 64GB of RAM took Qwen3.8-Flash-Next from IQ2_XS (2-bit) to Unsloth UD-IQ4_XS (4-bit) on a single 4090",
+     "summary": "I went from 32GB to 64GB of DDR5-5800 this week and moved my Strata setup off IQ2_XS. Box: RTX 4090 24GB, i9-14900K, 64GB DDR5-5800, Arch. The models sit on a SATA SSD (~550 MB/s), so anything Strata has to pull from disk while it generates hurts. I wanted every expert in RAM or VRAM. I skipped\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8l18e/32gb_to_64gb_of_ram_took_qwen38flashnext_from_iq2/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Meta removes language that raised scraping and AI training concerns",
+     "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+     "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+     "summary": "NVIDIA RTX Spark laptops are now available, bringing NVIDIA Blackwell RTX graphics, up to 128GB of unified memory and the full NVIDIA AI platform to slim, premium Windows PCs. Starting at $2,399, laptops from ASUS, Dell, HP, Lenovo, Microsoft and MSI bring powerful local AI, content creation and\u2026",
+     "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+     "source": "NVIDIA Blog"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "A consequential choice will be made soon by government and companies as they are increasingly flooded with agentic AI inquiries that overcome the frictions that gated access (see the graphs - it has already started!) Two options: do you make services worse or better as a result?",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3my47ihhocc2t"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Deconfusing Corrigibility",
+     "summary": "Many thanks to Abram Demski for materially and intellectually supporting this research. Thanks also to Brian Berns, Roman Malov, Gurkenglas, and Lorxus for valuable conversations. Introduction Despite the central place of corrigibility to theoretical AI alignment, it seems like no one can really\u2026",
+     "url": "https://www.alignmentforum.org/posts/f8R3B2zqqTJZjSAsm/deconfusing-corrigibility",
+     "source": "Alignment Forum"
+    },
+    {
+     "headline": "Inline rendering with document\u200b.currentScript",
+     "summary": "Inline rendering with document\u200b.currentScript Lean Rada describes a neat trick that takes advantage of the document.currentScript property. You can use that to drop in a tiny inline <script> element that replaces itself when the page loads: The year is <script> document.currentScript.replaceWith(\u2026",
+     "url": "https://simonwillison.net/2026/Oct/17/document-currentscript/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "azrinaldi/gemini-stealth-bridge: Browserless Chrome uTLS + HTTP/2 OpenAI-compatible API daemon for Google Gemini Web (/v1/chat/completions & /v1/responses)",
+     "summary": "Browserless Chrome uTLS + HTTP/2 OpenAI-compatible API daemon for Google Gemini Web (/v1/chat/completions & /v1/responses)",
+     "url": "https://github.com/azrinaldi/gemini-stealth-bridge",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "vakandi/opencode-rust: The open source AI coding agent, in Rust. CLI, TUI and HTTP server for local AI agents \u2014 no Docker required.",
+     "summary": "The open source AI coding agent, in Rust. CLI, TUI and HTTP server for local AI agents \u2014 no Docker required.",
+     "url": "https://github.com/vakandi/opencode-rust",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "Danielxu0208/rsi_eval: A lightweight Python SDK and CLI for evaluating recursive self-improvement (RSI) methods across agent benchmarks.",
+     "summary": "A lightweight Python SDK and CLI for evaluating recursive self-improvement (RSI) methods across agent benchmarks.",
+     "url": "https://github.com/Danielxu0208/rsi_eval",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "josefchen/muster: Never keep an agent waiting. A free, open-source Mac menu bar app for Claude Code, Codex and Cursor: see which session needs you and answer it with one keystroke.",
+     "summary": "Never keep an agent waiting. A free, open-source Mac menu bar app for Claude Code, Codex and Cursor: see which session needs you and answer it with one keystroke.",
+     "url": "https://github.com/josefchen/muster",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-10-18T04:47+00:00",
+  "window_start": "2026-10-17T20:45+00:00",
+  "window_end": "2026-10-18T04:47+00:00",
+  "candidate_count": 30,
+  "model": "free (no LLM)"
+ }
+}
