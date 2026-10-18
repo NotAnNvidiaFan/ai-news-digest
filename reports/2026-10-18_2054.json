@@ -1,0 +1,169 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Anyone else get brain lag from overly-condensed AI-speak? [D]",
+   "summary": "We\u2019ve all had the experience of coming across a phrase like \u201cquiet single-source substitute\u201d which just barely makes sense in the context of the conversation but takes way too much effort to parse. What research exists into making AI more readable? I feel like this is a particularly thorny problem\u2026",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1x9e2fw/anyone_else_get_brain_lag_from_overlycondensed/",
+   "source": "r/MachineLearning"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Anyone else get brain lag from overly-condensed AI-speak? [D]",
+     "summary": "We\u2019ve all had the experience of coming across a phrase like \u201cquiet single-source substitute\u201d which just barely makes sense in the context of the conversation but takes way too much effort to parse. What research exists into making AI more readable? I feel like this is a particularly thorny problem\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1x9e2fw/anyone_else_get_brain_lag_from_overlycondensed/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Why is open source still far behind Seedance 2.5",
+     "summary": "Deepseek, Mimo, Qwen and others have made tremendous progress in coding and other text based applications. However when it comes to video, I fear we can\u2019t say the same? Yes MiniMax H3 is good, but every time I try Seedance 2.5, I\u2019m reminded how much better the results can be. The environment,\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9dg3f/why_is_open_source_still_far_behind_seedance_25/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I messed up. Buying Z9PE-D8 WS with 4 x16 Slots and 256GB DDR3 RDIMM",
+     "summary": "Hey yall. What I am feeling is a mixture of idiocracy and dishevelment. I looked at this motherboard with 256 RDIMMs and the x16 slots. I have 2x V620 and 2x Mi50 32GB. I wanted to play. That\u2019s all. Mi50s would run Qwen3.6-35B-A3B at q4 and 131k context kv at q8 and same with V620s. Buuut. This\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9d8hs/i_messed_up_buying_z9ped8_ws_with_4_x16_slots_and/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "72 hours, four big open weights drops. The only one that fits in 24GB came from NVIDIA, of all companies.",
+     "summary": "What a week. Quick recap, all numbers from the official repos and model cards: Thursday: Meta drops Muse Spark Open. 816B total, 42B active, 1M context. The launch post says it brings agentic AI \"to your desktop\". The desktop is two M5 Ultra Mac Studios with 512GB each, a config Apple says ships\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9d23j/72_hours_four_big_open_weights_drops_the_only_one/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Beating Warcraft III\u2019s insane AI with self-play reinforcement learning on one desktop [P]",
+     "summary": "submitted by /u/ToraxXx [link] [comments]",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1x9c5ty/beating_warcraft_iiis_insane_ai_with_selfplay/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Is there a Strata for lfm 24b a2b",
+     "summary": "Is there a fork of strata that let me run lfm 24b a2b on only 16GB of ram comfortably? And how much tps can I expect per second and what quantization should I use? and Thanks! submitted by /u/Puzzleheaded_Acadia1 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9b3df/is_there_a_strata_for_lfm_24b_a2b/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Free Pascal compiler now supports dynamic packages",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50144066",
+     "url": "https://www.getlazarus.org/dynamic/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "llama-doctor: CLI tool and live dashboard that reads your llama.cpp metrics and tells you what's wrong",
+     "summary": "https://preview.redd.it/93o5gjyuq9wh1.png?width=2800&format=png&auto=webp&s=86528bbbcee68e37ca775af011c1c16ec87eddd1 Points at a running llama.cpp or Unsloth Studio server, pulls /metrics, /props and /slots, and gives you severity-graded findings: prefill vs decode, queue pressure, prefix cache\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9aq2i/llamadoctor_cli_tool_and_live_dashboard_that/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Embedding model can be used to search text inside image",
+     "summary": "Just something I've been testing over few week since Embedding Gemma 2 released which is about 330MB at Q8. Not sure if this would count as 'resource' flair... Image shows cosine similarity changes as I refine the text query (aka text embedding vector) over time. Shows how well it work & quirks it\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9acj4/embedding_model_can_be_used_to_search_text_inside/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "The AI bubble is about to burst \u2014 and a big market correction is coming",
+     "summary": "submitted by /u/beingmodest [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1x9a4ag/the_ai_bubble_is_about_to_burst_and_a_big_market/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "PalmOS Lemmings",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50143536",
+     "url": "https://github.com/ardiri/palmos-lemmings",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "British Airways: Filming Crew W Meta Glasses Could Get Your Tickets Cancelled",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50143218",
+     "url": "https://liveandletsfly.com/british-airways-meta-smart-glasses-filming/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Is anyone else feeling severe burnout from the current pace of AI releases?",
+     "summary": "Maybe it's just me, but trying to keep up with the state of the art right now feels less like following an industry and more like running on a treadmill that keeps speeding up for no apparent reason. Every single week there's a new model, a new benchmark claim, or a new \"paradigm-shifting\" agent\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1x98bit/is_anyone_else_feeling_severe_burnout_from_the/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "PSA: Power limit your 5090s!",
+     "summary": "Apparently whilst doing some performance tuning on my 4x5090 rig I may have made things a little TOO fast and melted my plug and socket \ud83e\udee0 Probably should put in a 16/20 amp socket in the wall rather than relying on a bog standard 13A fuse! Anyone else managed to melt the wall before the 12VHPWR\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x98bby/psa_power_limit_your_5090s/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting [R]",
+     "summary": "Accepted at NeurIPS 2026 TLDR: The paper presents a library of synthetic time series generators and augmentations to train time series foundation models, in their case a DeltaProduct based linear RNN. The synthetic data has already been used in Toto-2 and TS-ICL. Arxiv:\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1x97v19/tempopfn_synthetic_pretraining_of_linear_rnns_for/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "What if AI and Netflix let us tweak their content?",
+     "summary": "I was thinking about AI and its ability to generate slightly different results from the same prompt. So, imagine a massive engine that generates content based on a movie or TV series script. The result could be different every time someone watches it. Maybe this would be garbage, but what if you\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1x97t1i/what_if_ai_and_netflix_let_us_tweak_their_content/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Which AI limitations have you stopped waiting on and just learned to work around?",
+     "summary": "not looking for rants, just curious what people have accepted and how they deal with it. things like wrong dates, long documents, or drifting from instructions. what do you do about it in practice? submitted by /u/NormalWrangler937 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1x97l6n/which_ai_limitations_have_you_stopped_waiting_on/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Proof Before Reuse: showing agents only what later sessions reproduced keeps a poisoned skill out of procedural memory [R]",
+     "summary": "Small case study on poisoning in agent procedural memory, with all data released. Setup: a coding agent learns skills from sessions whose tests passed. One learning session is poisoned (a new file, an unrelated line, or one line fused into the real fix), followed by three clean sessions on the\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1x975ea/proof_before_reuse_showing_agents_only_what_later/",
+     "source": "r/MachineLearning"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Anthropic says it\u2019s committing 5% of its shares to a \u2018public benefit fund\u2019",
+     "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+     "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "A woman was arrested in Philly for blocking a delivery robot",
+     "summary": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them whenever I saw them\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Disney agrees to hire the majority of Character.AI\u2019s workforce",
+     "summary": "The filing also says that the \u201cvast majority\u201d of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
+     "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Anthropic gives outside AI watchdog \u201cemployee-like\u201d access",
+     "summary": "The outside watchdog can publish its findings without Anthropic's approval.",
+     "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+     "source": "Ars Technica AI"
+    }
+   ],
+   "influencer_takes": [],
+   "research_radar": [
+    {
+     "headline": "*This Beautiful Country*",
+     "summary": "The author is Edward Cutler and the subtitle is How Italy\u2019s Nature Shaped its Culture and Civilisation. This is an excellent book on how \u201cthe Italy you know\u201d has been shaped by its natural environment, such as its mountains, rivers, geology, and so on. Ever wondered why Sardinia is different? The\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/this-beautiful-country.html?utm_source=rss&utm_medium=rss&utm_campaign=this-beautiful-country",
+     "source": "Marginal Revolution"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-10-18T20:54+00:00",
+  "window_start": "2026-10-18T15:59+00:00",
+  "window_end": "2026-10-18T20:54+00:00",
+  "candidate_count": 23,
+  "model": "free (no LLM)"
+ }
+}
