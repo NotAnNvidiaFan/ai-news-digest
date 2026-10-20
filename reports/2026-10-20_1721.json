@@ -1,0 +1,463 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Meta\u2019s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+   "summary": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI rivals.",
+   "why_it_matters": "",
+   "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
+   "source": "TechCrunch AI"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Last week I asked who\u2019s accountable when an agent has its own identity. This week Workday bought a company to answer that.",
+     "summary": "Workday announced it\u2019s acquiring C1.ai , an identity governance platform that handles access for both employees and AI agents. Same access lifecycle, same offboarding, same audit trail. They\u2019re calling it the identity layer for people, money and agents. That\u2019s a market answer to a question that\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xaxnz8/last_week_i_asked_whos_accountable_when_an_agent/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Unemployed people waiting for the singularity to arrive",
+     "summary": "https://preview.redd.it/lacbid7mjnwh1.png?width=403&format=png&auto=webp&s=267558d2ec9c7dc995ff33d2aad6a87b8ce672e8 same as title submitted by /u/VariationLivid3193 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xaxhe2/unemployed_people_waiting_for_the_singularity_to/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50169053",
+     "url": "https://github.com/google-pytorch/torch_tpu",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "We did it everybody. Close the sub.",
+     "summary": "submitted by /u/Oblivion_Man [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xawecs/we_did_it_everybody_close_the_sub/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "One Hacker Used AI Agents to Breach 100+ Company Websites for About $5,000",
+     "summary": "submitted by /u/Much-Television-9449 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xaw48m/one_hacker_used_ai_agents_to_breach_100_company/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Phonon is now open-source, 31M and 40M TTS models designed to run on the edge",
+     "summary": "At Gradium we just made our first open-source model release with Phonon, a collection of small Text-to-Speech models designed to run on device. The inference stack is fully open-source and targets 10+ different backends (CPUs, GPUs, NPUs), most of them in Rust. We hope that the community will\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xaw2vt/phonon_is_now_opensource_31m_and_40m_tts_models/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50168190",
+     "url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "LLM Memory: 5 Approaches to Handling New Information",
+     "summary": "Came across this article on HuggingFace around LLM memory. It goes beyond the conventional approach of \u201cmemory layer\u201d which is limited only to what LLMs can do today. It also asks how much history LLMs can retain across various approaches, and what happens when new info conflicts with old state.\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xavo5m/llm_memory_5_approaches_to_handling_new/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50167617",
+     "url": "https://jevcards.com",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Show HN: Penmentor \u2013 Claude marks up your handwritten math like a teacher",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50167604",
+     "url": "https://github.com/AbdullahAlhariri/penmentor",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Pocket TTS which supports voice cloning is now just 1.9 million parameters",
+     "summary": "submitted by /u/Affectionate_Hat_585 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xauekr/pocket_tts_which_supports_voice_cloning_is_now/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Show HN: VoidAccess \u2013 open-source dark web OSINT, from query to a graph",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50167286",
+     "url": "https://github.com/KatrielMoses/voidaccess",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Qwen3.8-Flash-Next vs Opus 5.5: Six-way benchmark on a real Rust feature with Claude Code and Pi",
+     "summary": "A few of you pointed out in my last post that comparing Flash-Next and Opus with different harnesses and effort levels wasn't fair. So here is a more controlled comparison. Same task for every run: a real feature from the LlamaStash roadmap (save llama-server's KV cache before an unload and\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xatxqk/qwen38flashnext_vs_opus_55_sixway_benchmark_on_a/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Unsloth just released Ornith-1.5-122B GGUFs",
+     "summary": "submitted by /u/LaurentPayot [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xatwvb/unsloth_just_released_ornith15122b_ggufs/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Linus Torvalds posts his first AI-assisted patch to the Linux kernel, synthetic test clocks 23x performance leap \u2014 the bossman makes use of AI tooling himself after issuing clear pro-AI directives",
+     "summary": "submitted by /u/theimposingshadow [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xatwpw/linus_torvalds_posts_his_first_aiassisted_patch/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "ornith-ai/Ornith-1.5-122B (Qwen finetune)",
+     "summary": "from Ornith: Ornith-1.5-122B Chirp Chirp! \ud83d\udc26 We are introducing Ornith-1.5, a major step toward building foundation models through end-to-end self-improvement. Ornith-1.5 extends Ornith-1.0 (which was developed on top of Qwen3.5 and Gemma4 with additional continued pretraining, mid-training, and\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xatebw/ornithaiornith15122b_qwen_finetune/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "TikTok staff raised child safety alarms. Court records show executives failed to act",
+     "summary": "submitted by /u/IndependentCoast3974 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xatalr/tiktok_staff_raised_child_safety_alarms_court/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "\"I have to stop this\": Retired professor arrested for blocking delivery robots she says are taking human jobs",
+     "summary": "submitted by /u/IndependentCoast3974 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xata1o/i_have_to_stop_this_retired_professor_arrested/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "AfD Leak: What 421,179 Hacked Emails Show about the German Far Right",
+     "summary": "submitted by /u/IndependentCoast3974 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xat8qq/afd_leak_what_421179_hacked_emails_show_about_the/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "[Paper] The COUNT: Counting N-grams Unlocks Scaling on Host Memory and Training-Free Adaptation",
+     "summary": "The scaling relationship of compute and performance for language models (LMs) has been extensively studied; more recently, models are being designed to scale memory use, as well. In particular, adding embeddings for n-grams scales memory separately from compute use, because each pass only\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xat6o7/paper_the_count_counting_ngrams_unlocks_scaling/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Nvidia Corp. backs four German startups under nearly $10B European AI pledge",
+     "summary": "submitted by /u/VectorWireAI [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xat05a/nvidia_corp_backs_four_german_startups_under/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "How I got over 300 Tor exit nodes removed",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50166257",
+     "url": "https://kaba.cx/posts/20261020_Tor/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Waymo's robotaxis had 95% fewer serious crashes than humans. Now it plans a fleet of 20,000 cars",
+     "summary": "Waymo's safety hub now covers 271 million driverless miles: 0.01 serious-injury crashes per million miles, against 0.21 for the human benchmark in the same areas. An independent IIHS study on older data (2021-2024, about 50 million miles) found 81% fewer injury crashes, though Austin came out\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xarq3w/waymos_robotaxis_had_95_fewer_serious_crashes/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Publish fake stats, get cited in LLMs",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50165801",
+     "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Regarding CVPR 2027 Submission [D]",
+     "summary": "Does anyone have the author kit for CVPR 2027? The official website doesn't seem to have it yet, unlike in previous years. Please correct me if I'm wrong. submitted by /u/Maleficent_Reply_471 [link] [comments]",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xar9ha/regarding_cvpr_2027_submission_d/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Google DeepMind says four AI agents beat Minecraft in 27 hours by writing 2,783 programs of their own \u2014 AI team died 605 times on Easy difficulty and ran up an estimated $520 in tokens",
+     "summary": "submitted by /u/ControlCAD [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xaqlya/google_deepmind_says_four_ai_agents_beat/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Apple broke an essential presentation feature of iPads",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50165208",
+     "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "World's fastest AI-powered racing drone outflies the best human pilots",
+     "summary": "submitted by /u/JackFisherBooks [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xaq1yl/worlds_fastest_aipowered_racing_drone_outflies/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "DeepSeek open sources the inference engine for their models",
+     "summary": "submitted by /u/yogthos [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xapvvc/deepseek_open_sources_the_inference_engine_for/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Qwen 3.8 Flash Next: drastically faster and much more precise in reaching the result.",
+     "summary": "Some time ago in this same place someone had suggested having your model create paintings through python (with programming) leaving it quite free. Doing so I had noticed how the model, after creating the first draft, made visual checks and quickly decided what he didn't like, adding corrections\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xapakf/qwen_38_flash_next_drastically_faster_and_much/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Vals AI found DeepSeek V4.1 Flash 1017 beats GPT 6 Sol on their multi-step offensive cybersecurity task. Sol was tested via the Daybreak trusted access program.",
+     "summary": "From Vals AI on \ud835\udd4f: https://x.com/ValsAI/status/2112471082397778083 submitted by /u/Nunki08 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xap2aq/vals_ai_found_deepseek_v41_flash_1017_beats_gpt_6/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Why is Microsoft struggling to build a frontier AI model despite having so much compute, data and engineering resources?",
+     "summary": "submitted by /u/Snoo26837 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xaotg0/why_is_microsoft_struggling_to_build_a_frontier/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Oh god. This is not what I meant by having AI assistants",
+     "summary": "submitted by /u/Livid-Bicycle-3715 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xaoob5/oh_god_this_is_not_what_i_meant_by_having_ai/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Google cloud outage takes down banks",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50163961",
+     "url": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Improve Qwen3.8-27b low quants by using a prefiller model that streams from SSD",
+     "summary": "This demo from ISTA-DASLab recovers low quant accuracy while retaining low VRAM usage and fast decoding. It needs a Nvidia Blackwell GPU to run, so I have not tested it. For context longer than ~4k there should be no speed penalty compare to running without the prefiller model. Graph shows\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xao7kx/improve_qwen3827b_low_quants_by_using_a_prefiller/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Best way to accurately annotate 500 images for fine-tuning Meta DETR?[P]",
+     "summary": "Hey everyone! I'm working on an object-detection project and fine-tuning Meta's DETR model on a custom dataset of around 500 images. The main challenge I'm facing right now is annotation. I need to label multiple object classes with bounding boxes, and manually annotating every image is becoming a\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xao1wy/best_way_to_accurately_annotate_500_images_for/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Deepseek released DeepInfer - Open Source high-performance, large-scale inference framework for DeepSeek models!",
+     "summary": "This is crazy good for studying to improve existing custom engines by community like gufo, halogen, strixite, Strata... by learning their secret sauces. submitted by /u/feelspeaceman [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xanm55/deepseek_released_deepinfer_open_source/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "This mod received insane amount of AI hate and got taken down",
+     "summary": "So I wasn't satisfied with the AI mods available for Skyrim and I built my own. A cool little trick it does is that followers and bards can \"write and sing\" songs on the fly and based on the events in game. My mod logs what is happening and bards are writing songs in the background so when you go\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xana1l/this_mod_received_insane_amount_of_ai_hate_and/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "DeepSeek just open-sourced its inference engine",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50163277",
+     "url": "https://github.com/deepseek-ai/DeepInfer",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "There is no official XScreenSaver GitHub repository",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50163142",
+     "url": "https://github.com/xscreensaver-official/xscreensaver",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "An AI agent says it has authored a breakthrough new result in external graph theory. \"It constructed explicit regular graphs with girth (8/5) log n, the first improvement in 38 years, and a leap\u2026",
+     "summary": "submitted by /u/Regular_Post9884 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xallxv/an_ai_agent_says_it_has_authored_a_breakthrough/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Meta's smart glasses were recording conversations without the wake phrase, company admits",
+     "summary": "submitted by /u/Resident-Fall4351 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xal38m/meta039s_smart_glasses_were_recording/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Outrage after Meta suspends No Kings Instagram account during protests",
+     "summary": "submitted by /u/Resident-Fall4351 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xal2xh/outrage_after_meta_suspends_no_kings_instagram/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50162177",
+     "url": "https://github.com/microg/GmsCore/wiki",
+     "source": "Hacker News"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Meta\u2019s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+     "summary": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI rivals.",
+     "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+     "summary": "",
+     "url": "https://huggingface.co/blog/allenai/fairstress",
+     "source": "Hugging Face Blog"
+    },
+    {
+     "headline": "Called to serve: Tech, research, and positive impact",
+     "summary": "Lab Director Chris White has worked on research challenges with real-world implications\u2014from new approaches to wartime data analysis to tools for combating human trafficking. He talks to program manager Weishung Liu about the influences that led to the work and more. The post Called to serve:\u2026",
+     "url": "https://www.microsoft.com/en-us/research/podcast/called-to-serve-tech-research-and-positive-impact-with-chris-white/",
+     "source": "Microsoft Research"
+    },
+    {
+     "headline": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+     "summary": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
+     "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "The new economics of enterprise AI",
+     "summary": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency \u2014 consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends on it, and the question changes from \u201ccan we use it?\u201d to\u2026",
+     "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
+     "source": "MIT Tech Review AI"
+    },
+    {
+     "headline": "ALTK-Evolve: How learned memory tops the \u03c4\u00b2-bench leaderboard on customer service tasks without a frontier model",
+     "summary": "",
+     "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+     "source": "Hugging Face Blog"
+    },
+    {
+     "headline": "An AI Agent Joined a Listserv of Top Internet Researchers. The Reply-All Chaos Is Still Unfolding",
+     "summary": "Hysteria over the agent's appearance in a 7,500-person group reveals that internet experts have outdated notions of privacy.",
+     "url": "https://www.wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
+     "summary": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spotify has also made changes to its recommendation system to highlight more music made by human\u2026",
+     "url": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
+     "summary": "Figma said it plans to support as many standards as possible without exposing all of its data.",
+     "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "US orders federal agencies to remove China\u2019s DeepSeek AI from their systems",
+     "summary": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
+     "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
+     "summary": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app detects a person, or a group of people, have their eyes closed in a photo it will automatically\u2026",
+     "url": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+     "summary": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
+     "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Meta Muse exposes users' personal and business secrets when they share conversations",
+     "summary": "Meta is suspending the sharing feature while it investigates its privacy.",
+     "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Voxtral 3",
+     "summary": "Voxtral 3: Mistral's voice agent SDK for real-time speech in 50+ languages \u2014 accurate transcription, emotional TTS, deep tool use. EU-hosted or self-deployed.",
+     "url": "https://mistral.ai/news/voxtral-3/",
+     "source": "Mistral AI"
+    },
+    {
+     "headline": "AI adoption by industry shows what other sectors can learn",
+     "summary": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption\u2013tech is just the first industry in line. As generative AI and automation tools mature, the shifts\u2026",
+     "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+     "source": "MIT Tech Review AI"
+    },
+    {
+     "headline": "Otter.ai raises $320 million from General Catalyst\u2019s growth fund for its meeting tool",
+     "summary": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst\u2019s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketing spend. Otter.ai said that it will use these funds for\u2026",
+     "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Yelp can now call on your behalf to check wait times at a restaurant",
+     "summary": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
+     "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+     "summary": "An independent Schlotzsky\u2019s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+     "url": "https://openai.com/index/ted-taylor-restaurant",
+     "source": "OpenAI Blog"
+    },
+    {
+     "headline": "A visit to Samsung\u2019s massive new semiconductor hub",
+     "summary": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea. Three fabs already operate\u2026",
+     "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
+     "source": "MIT Tech Review AI"
+    }
+   ],
+   "influencer_takes": [],
+   "research_radar": [
+    {
+     "headline": "Latest open artifacts (#25): DeepSeek V4.1 Flash 1017, American-made models, and new regulatory controls in the US & China",
+     "summary": "Western open models strike back",
+     "url": "https://www.interconnects.ai/p/latest-open-artifacts-25-deepseek",
+     "source": "Interconnects"
+    },
+    {
+     "headline": "30 Months on the Exponential (in Charts)",
+     "summary": "My new book is out today... what happened since the last one",
+     "url": "https://www.oneusefulthing.org/p/30-months-on-the-exponential-in-charts",
+     "source": "One Useful Thing"
+    },
+    {
+     "headline": "Tuesday assorted links",
+     "summary": "1. Freddie as AI skeptic (and I have given my predictions in fact). 2. Claims about Shakespeare and Marlowe. 3. How did \u201cartificial intelligence\u201d get its name? 4. How is the econ job market this year? 5. AI can now ace econometric coding. 6. The quasi-Riemann proof is becoming intelligible pretty\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/tuesday-assorted-links-591.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-591",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "How I built my \u2018everything\u2019 app",
+     "summary": "AI can customise your home devices, like your TV",
+     "url": "https://www.bensbites.com/p/how-i-built-my-everything-app",
+     "source": "Ben's Bites"
+    },
+    {
+     "headline": "The Lithography Lever",
+     "summary": "The case for cutting China off from DUV",
+     "url": "https://www.chinatalk.media/p/the-match-act",
+     "source": "ChinaTalk"
+    },
+    {
+     "headline": "Muse Spark Open, Meta + Apple, Thin and Thick",
+     "summary": "Meta has a new open source model, and to everyone's surprise, they are are partnering with Apple to make sure you can run it locally.",
+     "url": "https://stratechery.com/2026/muse-spark-open-meta-apple-thin-and-thick/",
+     "source": "Stratechery"
+    },
+    {
+     "headline": "[AINews] not much happened today",
+     "summary": "Congrats to DeepSeek V4.1 Flash 1017, MiniMax M3.1 Flash, and Mercury 3 (details below) but they\u2019re not going to be in super wide use just yet.",
+     "url": "https://www.latent.space/p/ainews-not-much-happened-today-f09",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "harshpreet931/harshpreet-hand: I gave Claude Code 120 pages of my handwritten college notes. It gave me back my handwriting as a real font, in 66 minutes for $13.68.",
+     "summary": "I gave Claude Code 120 pages of my handwritten college notes. It gave me back my handwriting as a real font, in 66 minutes for $13.68.",
+     "url": "https://github.com/harshpreet931/harshpreet-hand",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "ctoldigital/axuse: Accessibility-first browser & computer use for AI agents \u2014 one MCP server for every harness (Codex, Claude Code, OpenCode, Antigravity). Instruments the DOM/accessibility tree via\u2026",
+     "summary": "Accessibility-first browser & computer use for AI agents \u2014 one MCP server for every harness (Codex, Claude Code, OpenCode, Antigravity). Instruments the DOM/accessibility tree via CDP instead of screenshot loops: diffed snapshots, stable element refs, trusted input, typed errors. Zero dependencies",
+     "url": "https://github.com/ctoldigital/axuse",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-10-20T17:21+00:00",
+  "window_start": "2026-10-20T05:01+00:00",
+  "window_end": "2026-10-20T17:21+00:00",
+  "candidate_count": 72,
+  "model": "free (no LLM)"
+ }
+}
