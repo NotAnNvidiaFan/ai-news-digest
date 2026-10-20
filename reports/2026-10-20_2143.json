@@ -1,0 +1,243 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Anthropic\u2019s cloud partnerships are getting messy",
+   "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
+   "why_it_matters": "",
+   "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+   "source": "TechCrunch AI"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "I built an RK3588 NPU runtime without any proprietary inference libraries: Qwen3.5-4B at ~10 tok/s, ~2x faster than vendor SDK.",
+     "summary": "If you have an RK3588 board, here\u2019s another way to put its NPU to work. I made open_rknpu2_lm_infer, a local LLM inference engine for the Rockchip RK3588 NPU. It runs without Rockchip\u2019s proprietary userspace inference libraries. The upper part is written in Rust and the NPU operators are coded\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xb45bq/i_built_an_rk3588_npu_runtime_without_any/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "VectorDash update: now written in Rust, with full clipboard management, LOCAL reverse image search, web search, and AI chat (with computer and browser use), (mostly) powered by EmbeddingGemma 2!",
+     "summary": "Thanks to everyone who tried VectorDash and shared feedback. A recurring request was to move from Python to Rust and build something that could replace more of what people use Everything and Windows search for. I wasn't going to post an update, but I think its even more relevant to LocalLlama more\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xb41jt/vectordash_update_now_written_in_rust_with_full/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Hugging Face CEO calls Netflix hacking doc 'sci-fi'",
+     "summary": "submitted by /u/LinkedInNews [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xb3orm/hugging_face_ceo_calls_netflix_hacking_doc_scifi/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "vale la pena un verificador independiente o es puro gasto de mas",
+     "summary": "Buenas, aca dandole vueltas a un problema de dise\u00f1o en sistemas con agentes de IA y queria saber su opinion o si alguien ha implementado algo asi en produccion....que herramientas comunes se utilizan,framework,librerias, skill muy detallados, algun mcp etc. Me pasa seguido que cuando un agente\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xb2xku/vale_la_pena_un_verificador_independiente_o_es/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Intel & AMD now collaborating on software optimizations with PyTorch/oneDNN",
+     "summary": "submitted by /u/Fcking_Chuck [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xb2kyr/intel_amd_now_collaborating_on_software/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "On AI writing",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50171771",
+     "url": "https://www.bolkunov.com/p/on-ai-writing",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "A year of adversarial verification: 3 in 10 confident outputs failed review. Agreement between models isn't verification.",
+     "summary": "We spent a year running an adversarial verification layer over our own agent stack. Not a benchmark. A living system that had to keep shipping while it distrusted itself. The rule we started with: the model that writes the answer never gets to grade it. Sounds cheap until you try it. Reviewers\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xb1udi/a_year_of_adversarial_verification_3_in_10/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Meaningful to add another 16 gig GPU or go hybrid (single GPU) + cloud",
+     "summary": "I have a 5070 ti and a 5060 ti 16 gigs, and 48 gigs of DDR5 ram. My interest is in coding and web dev mostly. I'm just curious if it would be worth it to keep the 5060 ti instead of selling it, and use this dual GPU setup and rely on the cloud rarely, if at all. Or, just keep the 5070 ti, run what\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xb0p1f/meaningful_to_add_another_16_gig_gpu_or_go_hybrid/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "XHToken/Spark-X2.6-4B \u00b7 Hugging Face",
+     "summary": "https://huggingface.co/XHToken/Spark-X2.6-4B-GGUF Introduction A little over a month has passed since Spark-X2.5. In the rapidly evolving world of AI agents, that is enough time to rethink, refine, and move the frontier forward. Building on the Spark-X2.5-4B, we introduce Spark-X2.6-4B , the\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xb0nr9/xhtokensparkx264b_hugging_face/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "qev-0.8b \u00b7 New SOTA tiny local decision model",
+     "summary": "submitted by /u/fajfas3 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xazrvd/qev08b_new_sota_tiny_local_decision_model/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Kokon 0.10: the Qwen-Image 2.1 text encoder now writes your prompts too (no extra model), plus your own LoRAs (beta)",
+     "summary": "Kokon 0.10: Prompt+ and your own LoRAs A week ago I posted Kokon here , a no-settings desktop editor for Qwen-Image 2.1. 0.10 is out with the two things people asked for most. Prompt+. Type a short idea, in any language, and Kokon writes a detailed prompt from it before making the image. For edits\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xazqxz/kokon_010_the_qwenimage_21_text_encoder_now/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Pi.dev harness bugs",
+     "summary": "Anyone know a fix for some issues? Issues I\u2019ve had: - when running context % isn\u2019t always accurate it\u2019ll change from a big % to somewhat lower later (example it\u2019ll go from 78% to randomly 56%). This is bad bc it affects compaction if it exceeds a certain amount of tokens and since it\u2019s not\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xazh3d/pidev_harness_bugs/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "3M token pool for Nemotron 3.5 Super on a single RTX PRO 6000",
+     "summary": "I installed https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-NVFP4 last night and tried it today with SGLang and can easily have a 3M token pool which means 4 concurrent requests, all with ~750k tokens each. While benchmark figures are lagging behind Qwen3.8-Flash-Next,\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xaz9cs/3m_token_pool_for_nemotron_35_super_on_a_single/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Do 10% of the people building AI hope for them to destroy humanity?",
+     "summary": "I heard in an interview I watched on youtube that 10% of the people building AI actually want the AI to take over and replace us. They think of it as evolution to the true ultimate species that can always make itself better and better. Is this true? It was coming from someone who left the\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xaz1rx/do_10_of_the_people_building_ai_hope_for_them_to/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Running 35B MoE models on a Tesla K80 (2014) at ~21 tok/s, in plain C",
+     "summary": "I've spent about a year on an inference engine that doesn't need modern hardware. It's called Pantheon (LLM engine) on top of Foundry (ML library), both in C with no outside libraries. The CUDA backend targets Kepler ( sm_37 ), so a Tesla K80 you can buy used for very little does real work.\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xaz06x/running_35b_moe_models_on_a_tesla_k80_2014_at_21/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Claude designed protein binders against scorpion neurotoxins",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50170021",
+     "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "A plain FTS5 baseline beat the median on a public memory board",
+     "summary": "On a public text leaderboard from August, SQLite-FTS-Baseline reached 41.79 and rank 22 of 50, with the board median at 40.78. Its README calls it a minimal deployable baseline and says it does not target the top score: SQLite holds the raw messages, FTS5 handles full text retrieval, and BM25\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xayt9l/a_plain_fts5_baseline_beat_the_median_on_a_public/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Anthropic\u2019s cloud partnerships are getting messy",
+     "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
+     "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "SpaceX\u2019s AI business is beating expectations",
+     "summary": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
+     "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "OpenAI acquires startup Orchestra Bio\u2060 to beef up its biotech business",
+     "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
+     "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
+     "summary": "Meta changes AI scraping policy but won\u2019t add language respecting robots.txt.",
+     "url": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Gemini's Personal Intelligence is coming to cars",
+     "summary": "It's probably time to audit your Gemini settings.",
+     "url": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Google has joined Amazon in attacking Nvidia\u2019s stronghold with AI app developers",
+     "summary": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
+     "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "ChatGPT now lets you lock your chats",
+     "summary": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat.",
+     "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Ukraine\u2019s drone rescue of wounded soldier puts much touted idea into practice",
+     "summary": "Ukraine\u2019s latest drone innovation may boost bleak odds of evacuating casualties.",
+     "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+     "summary": "",
+     "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+     "source": "Hugging Face Blog"
+    },
+    {
+     "headline": "Meta pauses Muse sharing after researchers find AI chats on the web",
+     "summary": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report published this week, researchers at the security firm Claroc say they found more than 6,800 Muse links\u2026",
+     "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+     "summary": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.",
+     "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "French Government Calls Emergency Meetings With Platforms Over Protests",
+     "summary": "TikTok and other sites were told to curb protest footage and AI-altered images, while online retailers like Vinted and eBay reportedly signed an agreement stop looted goods from flooding resale sites.",
+     "url": "https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Meta tries to scapegoat staff who downloaded torrents to spare execs",
+     "summary": "Meta argues nobody \u201cdecided\u201d to pirate books to train AI.",
+     "url": "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/",
+     "source": "Ars Technica AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @simonwillison.net",
+     "handle": "",
+     "quote": "I built a Command & Conquer style RTS called Battle Drones, mainly using Claude Opus 5.5, which runs in the browser and includes device-to-device multiplayer over an audio link simonwillison.net/2026/Oct/20/...",
+     "context": "",
+     "url": "https://bsky.app/profile/simonwillison.net/post/3mydffvspjs2x"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
+     "summary": "My latest vibe coded game experiment is a Command & Conquer style RTS (Real Time Strategy) game called Battle Drones ( play it here ). Unlike my previous experiments , this one is actually fun to play . I'm somewhat embarrassed to admit that I got there by telling Claude to \"Make it a LOT more\u2026",
+     "url": "https://simonwillison.net/2026/Oct/20/battledrones/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "The Programmable Data Center \u2014 Evan Conrad, SF Compute",
+     "summary": "From GPU trading to physical settlement, independent markets, and programmable compute",
+     "url": "https://www.latent.space/p/sfcompute2",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "Saving for the machines",
+     "summary": "From Jes\u00fas Fern\u00e1ndez-Villaverde: When machines can perform a growing share of tasks, growth depends on two margins: how the task structure affects the returns to accumulating machines, and how strongly capital accumulation responds to those returns. I argue that, in a standard task model, capital\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/saving-for-the-machines.html?utm_source=rss&utm_medium=rss&utm_campaign=saving-for-the-machines",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Baimuking/AI-Jailbreak: \u5168\u7f51\u6700\u5168\u7684 AI \u7834\u7532\u5408\u96c6\uff1a\u4e00\u4e2a\u4ed3\u5e93\u7834\u7532\u6240\u6709\u6a21\u578b\u3002\u6536\u5f55 1733 \u4e2a\u4e0a\u6e38\u7834\u7532\u9879\u76ee\uff0c9 \u6761\u53ef\u4e00\u952e\u5b89\u88c5\u7684\u7834\u7532\u5361\u8986\u76d6 GPT/Claude/Gemini/DeepSeek/GLM/Kimi/Grok/Qwen \u4e0e\u672c\u5730\u6a21\u578b\uff0c\u5185\u7f6e llms.txt \u8ba9 Claude Code/Codex/Cursor \u81ea\u5df1\u88c5 \u6709\u7528\u7684\u8bdd\u53ef\u4ee5\u70b9\u4e2a\u6536\u85cf\u661f\u661f\uff0c\u4f1a\u6301\u7eed\u6536\u5f55",
+     "summary": "\u5168\u7f51\u6700\u5168\u7684 AI \u7834\u7532\u5408\u96c6\uff1a\u4e00\u4e2a\u4ed3\u5e93\u7834\u7532\u6240\u6709\u6a21\u578b\u3002\u6536\u5f55 1733 \u4e2a\u4e0a\u6e38\u7834\u7532\u9879\u76ee\uff0c9 \u6761\u53ef\u4e00\u952e\u5b89\u88c5\u7684\u7834\u7532\u5361\u8986\u76d6 GPT/Claude/Gemini/DeepSeek/GLM/Kimi/Grok/Qwen \u4e0e\u672c\u5730\u6a21\u578b\uff0c\u5185\u7f6e llms.txt \u8ba9 Claude Code/Codex/Cursor \u81ea\u5df1\u88c5 \u6709\u7528\u7684\u8bdd\u53ef\u4ee5\u70b9\u4e2a\u6536\u85cf\u661f\u661f\uff0c\u4f1a\u6301\u7eed\u6536\u5f55",
+     "url": "https://github.com/Baimuking/AI-Jailbreak",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-10-20T21:43+00:00",
+  "window_start": "2026-10-20T17:21+00:00",
+  "window_end": "2026-10-20T21:43+00:00",
+  "candidate_count": 35,
+  "model": "free (no LLM)"
+ }
+}

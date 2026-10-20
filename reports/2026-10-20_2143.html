@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI Digest — 2026-10-20T21:43+00:00</title>
+<style>
+  :root {
+    --bg: #0c0f14; --card: #141922; --card-hover: #1a2130; --border: #232b3a;
+    --text: #dfe6f0; --muted: #8b98ab; --accent: #5eb1ff; --accent2: #a78bfa;
+    --good: #4ade80; --bad: #f87171; --mid: #fbbf24;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text);
+         font: 16px/1.6 -apple-system, "Segoe UI", Roboto, sans-serif; }
+  .wrap { max-width: 860px; margin: 0 auto; padding: 32px 20px 64px; }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  header .brand { font-size: 13px; letter-spacing: 2px; text-transform: uppercase;
+                  color: var(--muted); }
+  header .brand a { color: var(--muted); }
+  h1 { font-size: 26px; margin: 6px 0 2px; }
+  .window { color: var(--muted); font-size: 14px; }
+  .overview { font-size: 17px; color: var(--text); margin: 18px 0 8px;
+              border-left: 3px solid var(--accent2); padding-left: 14px; }
+  .badges { display: flex; gap: 8px; flex-wrap: wrap; margin: 14px 0 26px; }
+  .badge { font-size: 12px; padding: 3px 10px; border-radius: 999px;
+           border: 1px solid var(--border); color: var(--muted); }
+  .badge.sent-bullish, .badge.sent-optimistic { color: var(--good); border-color: var(--good); }
+  .badge.sent-mixed { color: var(--mid); border-color: var(--mid); }
+  .badge.sent-skeptical, .badge.sent-anxious { color: var(--bad); border-color: var(--bad); }
+  .hero { background: linear-gradient(135deg, #16203a, #1b1530); border: 1px solid var(--border);
+          border-radius: 14px; padding: 22px 24px; margin-bottom: 30px; }
+  .hero .label { font-size: 12px; letter-spacing: 2px; text-transform: uppercase; color: var(--accent2); }
+  .hero h2 { margin: 8px 0 10px; font-size: 22px; }
+  .hero .why { color: var(--muted); font-size: 15px; margin-top: 10px; }
+  .hero .why strong { color: var(--text); }
+  h3.section { font-size: 14px; letter-spacing: 2px; text-transform: uppercase;
+               color: var(--muted); margin: 34px 0 12px; border-bottom: 1px solid var(--border);
+               padding-bottom: 8px; }
+  .card { background: var(--card); border: 1px solid var(--border); border-radius: 12px;
+          padding: 16px 18px; margin-bottom: 12px; }
+  .card:hover { background: var(--card-hover); }
+  .card h4 { margin: 0 0 6px; font-size: 16px; }
+  .card p { margin: 0; color: var(--muted); font-size: 14.5px; }
+  .src { display: inline-block; font-size: 12px; color: var(--accent2); margin-top: 8px; }
+  blockquote.take { margin: 0; }
+  .take .quote { font-size: 15.5px; font-style: italic; color: var(--text); }
+  .take .who { margin-top: 8px; font-size: 13.5px; color: var(--muted); }
+  .take .ctx { margin-top: 4px; font-size: 13.5px; color: var(--muted); }
+  .idea { border-left: 3px solid var(--accent2); }
+  .idea .hook { font-size: 15px; font-weight: 600; margin-bottom: 8px; }
+  .idea .draft { color: var(--text) !important; background: var(--bg); border: 1px dashed var(--border);
+                 border-radius: 8px; padding: 10px 12px; margin: 0 0 8px !important; }
+  .idea .why { font-size: 13.5px !important; }
+  .quiet { text-align: center; color: var(--muted); padding: 40px 0; font-size: 15px; }
+  .empty { color: var(--muted); font-size: 14px; font-style: italic; }
+  footer { margin-top: 44px; color: var(--muted); font-size: 12.5px;
+           border-top: 1px solid var(--border); padding-top: 14px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="brand"><a href="../index.html">AI NEWS DIGEST</a></div>
+    <h1>2026-10-20T21:43+00:00</h1>
+    <div class="window">Window: 2026-10-20T17:21+00:00 &rarr; 2026-10-20T21:43+00:00 (UTC)</div>
+  </header>
+
+  <p class="overview">Free-mode digest: candidates grouped by type (LLM synthesis disabled).</p>
+
+  <div class="badges">
+    
+    <span class="badge">35 candidates scanned</span>
+    <span class="badge">model: free (no LLM)</span>
+  </div>
+
+  
+
+  
+
+  
+  <div class="hero">
+    <div class="label">Top story</div>
+    <h2><a href="https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/">Anthropic’s cloud partnerships are getting messy</a></h2>
+    <p>Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.</p>
+    
+    <span class="src">TechCrunch AI</span>
+  </div>
+  
+
+  
+
+  <h3 class="section">Model releases &amp; updates</h3>
+  
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1xb45bq/i_built_an_rk3588_npu_runtime_without_any/">I built an RK3588 NPU runtime without any proprietary inference libraries: Qwen3.5-4B at ~10 tok/s, ~2x faster than vendor SDK.</a></h4>
+      <p>If you have an RK3588 board, here’s another way to put its NPU to work. I made open_rknpu2_lm_infer, a local LLM inference engine for the Rockchip RK3588 NPU. It runs without Rockchip’s proprietary userspace inference libraries. The upper part is written in Rust and the NPU operators are coded…</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1xb41jt/vectordash_update_now_written_in_rust_with_full/">VectorDash update: now written in Rust, with full clipboard management, LOCAL reverse image search, web search, and AI chat (with computer and browser use), (mostly) powered by EmbeddingGemma 2!</a></h4>
+      <p>Thanks to everyone who tried VectorDash and shared feedback. A recurring request was to move from Python to Rust and build something that could replace more of what people use Everything and Windows search for. I wasn&#39;t going to post an update, but I think its even more relevant to LocalLlama more…</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/artificial/comments/1xb3orm/hugging_face_ceo_calls_netflix_hacking_doc_scifi/">Hugging Face CEO calls Netflix hacking doc &#39;sci-fi&#39;</a></h4>
+      <p>submitted by /u/LinkedInNews [link] [comments]</p>
+      <span class="src">r/artificial</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/artificial/comments/1xb2xku/vale_la_pena_un_verificador_independiente_o_es/">vale la pena un verificador independiente o es puro gasto de mas</a></h4>
+      <p>Buenas, aca dandole vueltas a un problema de diseño en sistemas con agentes de IA y queria saber su opinion o si alguien ha implementado algo asi en produccion....que herramientas comunes se utilizan,framework,librerias, skill muy detallados, algun mcp etc. Me pasa seguido que cuando un agente…</p>
+      <span class="src">r/artificial</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/artificial/comments/1xb2kyr/intel_amd_now_collaborating_on_software/">Intel &amp; AMD now collaborating on software optimizations with PyTorch/oneDNN</a></h4>
+      <p>submitted by /u/Fcking_Chuck [link] [comments]</p>
+      <span class="src">r/artificial</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.bolkunov.com/p/on-ai-writing">On AI writing</a></h4>
+      <p>Hacker News discussion: https://news.ycombinator.com/item?id=50171771</p>
+      <span class="src">Hacker News</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/artificial/comments/1xb1udi/a_year_of_adversarial_verification_3_in_10/">A year of adversarial verification: 3 in 10 confident outputs failed review. Agreement between models isn&#39;t verification.</a></h4>
+      <p>We spent a year running an adversarial verification layer over our own agent stack. Not a benchmark. A living system that had to keep shipping while it distrusted itself. The rule we started with: the model that writes the answer never gets to grade it. Sounds cheap until you try it. Reviewers…</p>
+      <span class="src">r/artificial</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1xb0p1f/meaningful_to_add_another_16_gig_gpu_or_go_hybrid/">Meaningful to add another 16 gig GPU or go hybrid (single GPU) + cloud</a></h4>
+      <p>I have a 5070 ti and a 5060 ti 16 gigs, and 48 gigs of DDR5 ram. My interest is in coding and web dev mostly. I&#39;m just curious if it would be worth it to keep the 5060 ti instead of selling it, and use this dual GPU setup and rely on the cloud rarely, if at all. Or, just keep the 5070 ti, run what…</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1xb0nr9/xhtokensparkx264b_hugging_face/">XHToken/Spark-X2.6-4B · Hugging Face</a></h4>
+      <p>https://huggingface.co/XHToken/Spark-X2.6-4B-GGUF Introduction A little over a month has passed since Spark-X2.5. In the rapidly evolving world of AI agents, that is enough time to rethink, refine, and move the frontier forward. Building on the Spark-X2.5-4B, we introduce Spark-X2.6-4B , the…</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1xazrvd/qev08b_new_sota_tiny_local_decision_model/">qev-0.8b · New SOTA tiny local decision model</a></h4>
+      <p>submitted by /u/fajfas3 [link] [comments]</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1xazqxz/kokon_010_the_qwenimage_21_text_encoder_now/">Kokon 0.10: the Qwen-Image 2.1 text encoder now writes your prompts too (no extra model), plus your own LoRAs (beta)</a></h4>
+      <p>Kokon 0.10: Prompt+ and your own LoRAs A week ago I posted Kokon here , a no-settings desktop editor for Qwen-Image 2.1. 0.10 is out with the two things people asked for most. Prompt+. Type a short idea, in any language, and Kokon writes a detailed prompt from it before making the image. For edits…</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1xazh3d/pidev_harness_bugs/">Pi.dev harness bugs</a></h4>
+      <p>Anyone know a fix for some issues? Issues I’ve had: - when running context % isn’t always accurate it’ll change from a big % to somewhat lower later (example it’ll go from 78% to randomly 56%). This is bad bc it affects compaction if it exceeds a certain amount of tokens and since it’s not…</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1xaz9cs/3m_token_pool_for_nemotron_35_super_on_a_single/">3M token pool for Nemotron 3.5 Super on a single RTX PRO 6000</a></h4>
+      <p>I installed https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-NVFP4 last night and tried it today with SGLang and can easily have a 3M token pool which means 4 concurrent requests, all with ~750k tokens each. While benchmark figures are lagging behind Qwen3.8-Flash-Next,…</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/artificial/comments/1xaz1rx/do_10_of_the_people_building_ai_hope_for_them_to/">Do 10% of the people building AI hope for them to destroy humanity?</a></h4>
+      <p>I heard in an interview I watched on youtube that 10% of the people building AI actually want the AI to take over and replace us. They think of it as evolution to the true ultimate species that can always make itself better and better. Is this true? It was coming from someone who left the…</p>
+      <span class="src">r/artificial</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1xaz06x/running_35b_moe_models_on_a_tesla_k80_2014_at_21/">Running 35B MoE models on a Tesla K80 (2014) at ~21 tok/s, in plain C</a></h4>
+      <p>I&#39;ve spent about a year on an inference engine that doesn&#39;t need modern hardware. It&#39;s called Pantheon (LLM engine) on top of Foundry (ML library), both in C with no outside libraries. The CUDA backend targets Kepler ( sm_37 ), so a Tesla K80 you can buy used for very little does real work.…</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.anthropic.com/research/claude-scorpion-toxin-binder-design">Claude designed protein binders against scorpion neurotoxins</a></h4>
+      <p>Hacker News discussion: https://news.ycombinator.com/item?id=50170021</p>
+      <span class="src">Hacker News</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1xayt9l/a_plain_fts5_baseline_beat_the_median_on_a_public/">A plain FTS5 baseline beat the median on a public memory board</a></h4>
+      <p>On a public text leaderboard from August, SQLite-FTS-Baseline reached 41.79 and rank 22 of 50, with the board median at 40.78. Its README calls it a minimal deployable baseline and says it does not target the top score: SQLite holds the raw messages, FTS5 handles full text retrieval, and BM25…</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+  
+
+  <h3 class="section">Frontier lab developments</h3>
+  
+    
+    <div class="card">
+      <h4><a href="https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/">Anthropic’s cloud partnerships are getting messy</a></h4>
+      <p>Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.</p>
+      <span class="src">TechCrunch AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/">SpaceX’s AI business is beating expectations</a></h4>
+      <p>SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.</p>
+      <span class="src">TechCrunch AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/">OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business</a></h4>
+      <p>OpenAI says it&#39;s adding Orchestra&#39;s team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.</p>
+      <span class="src">TechCrunch AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/">Meta drops the word &#34;train&#34; from its commercial TOS after AI backlash</a></h4>
+      <p>Meta changes AI scraping policy but won’t add language respecting robots.txt.</p>
+      <span class="src">Ars Technica AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/">Gemini&#39;s Personal Intelligence is coming to cars</a></h4>
+      <p>It&#39;s probably time to audit your Gemini settings.</p>
+      <span class="src">Ars Technica AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/">Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers</a></h4>
+      <p>Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.</p>
+      <span class="src">TechCrunch AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/">ChatGPT now lets you lock your chats</a></h4>
+      <p>The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat.</p>
+      <span class="src">TechCrunch AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/">Ukraine’s drone rescue of wounded soldier puts much touted idea into practice</a></h4>
+      <p>Ukraine’s latest drone innovation may boost bleak odds of evacuating casualties.</p>
+      <span class="src">Ars Technica AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://huggingface.co/blog/nvidia/cosmos3-h-dreams">NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation</a></h4>
+      <p></p>
+      <span class="src">Hugging Face Blog</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats">Meta pauses Muse sharing after researchers find AI chats on the web</a></h4>
+      <p>Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report published this week, researchers at the security firm Claroc say they found more than 6,800 Muse links…</p>
+      <span class="src">The Verge AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/">Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei</a></h4>
+      <p>The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.</p>
+      <span class="src">TechCrunch AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests/">French Government Calls Emergency Meetings With Platforms Over Protests</a></h4>
+      <p>TikTok and other sites were told to curb protest footage and AI-altered images, while online retailers like Vinted and eBay reportedly signed an agreement stop looted goods from flooding resale sites.</p>
+      <span class="src">Wired AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/">Meta tries to scapegoat staff who downloaded torrents to spare execs</a></h4>
+      <p>Meta argues nobody “decided” to pirate books to train AI.</p>
+      <span class="src">Ars Technica AI</span>
+    </div>
+    
+  
+
+  <h3 class="section">Influencer takes &amp; sentiment</h3>
+  
+  <div class="card">
+    <blockquote class="take">
+      <div class="quote">&ldquo;I built a Command &amp; Conquer style RTS called Battle Drones, mainly using Claude Opus 5.5, which runs in the browser and includes device-to-device multiplayer over an audio link simonwillison.net/2026/Oct/20/...&rdquo;</div>
+      <div class="who">&mdash; Bluesky @simonwillison.net
+        &middot; <a href="https://bsky.app/profile/simonwillison.net/post/3mydffvspjs2x">view post</a></div>
+      
+    </blockquote>
+  </div>
+  
+
+  <h3 class="section">Research &amp; under the radar</h3>
+  
+    
+    <div class="card">
+      <h4><a href="https://simonwillison.net/2026/Oct/20/battledrones/">Battle Drones - a vibe coded RTS with audio-based multiplayer</a></h4>
+      <p>My latest vibe coded game experiment is a Command &amp; Conquer style RTS (Real Time Strategy) game called Battle Drones ( play it here ). Unlike my previous experiments , this one is actually fun to play . I&#39;m somewhat embarrassed to admit that I got there by telling Claude to &#34;Make it a LOT more…</p>
+      <span class="src">Simon Willison</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.latent.space/p/sfcompute2">The Programmable Data Center — Evan Conrad, SF Compute</a></h4>
+      <p>From GPU trading to physical settlement, independent markets, and programmable compute</p>
+      <span class="src">Latent Space</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://marginalrevolution.com/marginalrevolution/2026/10/saving-for-the-machines.html?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=saving-for-the-machines">Saving for the machines</a></h4>
+      <p>From Jesús Fernández-Villaverde: When machines can perform a growing share of tasks, growth depends on two margins: how the task structure affects the returns to accumulating machines, and how strongly capital accumulation responds to those returns. I argue that, in a standard task model, capital…</p>
+      <span class="src">Marginal Revolution</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://github.com/Baimuking/AI-Jailbreak">Baimuking/AI-Jailbreak: 全网最全的 AI 破甲合集：一个仓库破甲所有模型。收录 1733 个上游破甲项目，9 条可一键安装的破甲卡覆盖 GPT/Claude/Gemini/DeepSeek/GLM/Kimi/Grok/Qwen 与本地模型，内置 llms.txt 让 Claude Code/Codex/Cursor 自己装 有用的话可以点个收藏星星，会持续收录</a></h4>
+      <p>全网最全的 AI 破甲合集：一个仓库破甲所有模型。收录 1733 个上游破甲项目，9 条可一键安装的破甲卡覆盖 GPT/Claude/Gemini/DeepSeek/GLM/Kimi/Grok/Qwen 与本地模型，内置 llms.txt 让 Claude Code/Codex/Cursor 自己装 有用的话可以点个收藏星星，会持续收录</p>
+      <span class="src">GitHub Trending</span>
+    </div>
+    
+  
+
+  
+
+  <footer>
+    Generated 2026-10-20T21:43+00:00 UTC
+    
+    &middot; <a href="../index.html">all reports</a>
+  </footer>
+</div>
+</body>
+</html>
