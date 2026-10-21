@@ -1,0 +1,447 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Anthropic employee tells students at university that their career won't exist when they graduate.",
+   "summary": "submitted by /u/Bizzyguy [link] [comments]",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/singularity/comments/1xbsnty/anthropic_employee_tells_students_at_university/",
+   "source": "r/singularity"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Anthropic employee tells students at university that their career won't exist when they graduate.",
+     "summary": "submitted by /u/Bizzyguy [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xbsnty/anthropic_employee_tells_students_at_university/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Six months later, the best AI costs 20\u00d7 less",
+     "summary": "To the folks that think AI is too expensive and needs to be subsidized forever to make sense. submitted by /u/Tgoc [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xbs5ay/six_months_later_the_best_ai_costs_20_less/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "When will we see these changes? --> China Is Doubling RAM Production to Keep Everyday Gadget Prices from Skyrocketing",
+     "summary": "submitted by /u/chemist_slime [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbrh0s/when_will_we_see_these_changes_china_is_doubling/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Websites taken down worldwide as critical PHP cyber-security update issued",
+     "summary": "submitted by /u/MurkyRaspberry9610 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xbr5ia/websites_taken_down_worldwide_as_critical_php/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Now that 3090 frenzy warning post makes sense.",
+     "summary": "I don't have a 3090 to confirm, but curious if the anyone in this community can back this up. Good win for 3090 and curious if that translates to other GPUs. I have a long vague memory of some hacks done to prevent mining demand that could be fixed and help LLMs. I wonder if this was one that\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbr3u1/now_that_3090_frenzy_warning_post_makes_sense/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "IBM Granite Speech 5.0 2B",
+     "summary": "submitted by /u/seamonn [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbr2yg/ibm_granite_speech_50_2b/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "OK, fine, Qwen 3.8 Flash Next is nice",
+     "summary": "I held off as long as I could, but finally gave in and set up strata. I am pretty blown away. 3.8 27b at Q6 kv8 was my driver before and that works super well, but Flash Next in strata IQ4 xs is really winning me over. Its not perfect, but it feels like models I was using professionally last year,\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbqxh5/ok_fine_qwen_38_flash_next_is_nice/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "RecursiveSI/flint (40B A2.5B) \u00b7 Hugging Face",
+     "summary": "submitted by /u/coder543 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbqik0/recursivesiflint_40b_a25b_hugging_face/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "inclusionAI/Ming-3.0-TTS-0.5B",
+     "summary": "I've seen several posts about Ming-3.0-Audio-Tiny, but haven't seen much discussion about the TTS model released alongside it (maybe I missed something). In case anyone missed it, InclusionAI (backed by Ant Group) also released Ming-3.0-TTS-0.5B , supporting voice cloning, voice design, 7\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbq7ze/inclusionaiming30tts05b/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+     "summary": "submitted by /u/deliciousmark12 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xbpo8x/patch_the_planet_global_response_coordination_as/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Delays for Pull Requests and Webhook deliveries",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50182130",
+     "url": "https://www.githubstatus.com/incidents/nms1dpzmh9d9",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "We have 10 weeks left - OpenAi will have AGI by the end of the year per Sam Altman's TIME interview",
+     "summary": "So what are we thinking? Will he just say nothing and hope we forget he said that? Will he actually do it? A Christmas surprise? Will he say he has AGI internally (trust me bro) and just not show anything to the public? My opinion is that if we were actually fast approaching this benchmark then\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xbosp8/we_have_10_weeks_left_openai_will_have_agi_by_the/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "PHP 8.2.35",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50180873",
+     "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "PHP2Shell: AI uncovers critical RCE in PHP",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50180836",
+     "url": "https://www.wiz.io/blog/php2shell-php-rce",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Using thousands of AI agents to uncover new leads in biological data",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50180752",
+     "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "35B MoE running at 20.5 tok/s on an iPhone, without skipping experts",
+     "summary": "I came across OpenBMB\u2019s engineering write-up on running large MoE models locally, and the systems work behind it is worth highlighting. Instead of shrinking the model or skipping experts, they tackled the real bottleneck: getting expert weights from flash storage to computation fast enough.\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbmsgf/35b_moe_running_at_205_toks_on_an_iphone_without/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I built a small on-device voice front-end for local assistants: type any wake word, keep only your voice before STT (5 models, 7.5 MB, Apache-2.0, early preview)",
+     "summary": "GitHub: https://github.com/alkove-ai/alkove (Apache-2.0, code and weights) Hi r/LocalLLaMA , A bit about me first: my day job is building LLM systems in production, a tool-calling assistant with its RAG, and two audio-heavy pipelines. The first turns a company's latest content into a two-host\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbmhct/i_built_a_small_ondevice_voice_frontend_for_local/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Show HN: Sumi.css \u2013 CSS Framework",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50180039",
+     "url": "https://github.com/vladocar/Sumi.css",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "LayerFS: The filesystem for AI coding agents",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50179857",
+     "url": "https://layerfs.ai/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "[Paper] MemT-1.0: Towards Memory-Native Evolution",
+     "summary": "Memory-native evolution requires making memory an intrinsic capability of foundation models, enabling them to continuously accumulate and utilize information. To this end, we introduce MemT-1.0, a new architecture of memory foundation models that internalize memory as part of model computation.\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbl751/paper_memt10_towards_memorynative_evolution/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Demis Hassabis now expects AGI in 2-3 years, down from 3-5 earlier this year",
+     "summary": "submitted by /u/FakeEyeball [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xbkhep/demis_hassabis_now_expects_agi_in_23_years_down/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Few-read fault localization in simulated analog crossbars: a sparse-recovery decoder vs reading every cell (with the claims that failed) [R]",
+     "summary": "TL;DR In simulation, a sparse-recovery decoder over a few random +/-1 probe reads localizes up to 64 stuck cells in a 256x256 analog tile with 4 to 12 counted reads at 1% read noise. Reading every cell takes 256 reads. The paper also separates the decoder's gain from the second read direction's\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xbj6nj/fewread_fault_localization_in_simulated_analog/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Unitree's newest robot: H2-X Kung Fu Legend Guardian",
+     "summary": "Seems like a Unitree H2 variant that is much stronger and more durable than before Tweet: Unitree Introducing: H2-X Kung Fu Legend Guardian Powerful performance to serve and guard you, with a maximum endurance of approximately 8 hours. Please use the robot safely and in a friendly manner. Source:\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xbidfc/unitrees_newest_robot_h2x_kung_fu_legend_guardian/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Dario Amodei: Anthropic Must Remain At The Frontier Of The AI \"Race To The Top\"",
+     "summary": "The executive wrote a nearly 2,000-word response to a critical X post which said Anthropic was trying to win a race to superintelligence and deprioritizing AI safety. Calvin listed nine actions by Anthropic over the past year that he said undermined its safety commitments, including signing deals\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xbhxb7/dario_amodei_anthropic_must_remain_at_the/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "AA-PersonalityBench: Sycophantic",
+     "summary": "https://x.com/AdamHoltererer/status/2112516066563829882/photo/1 submitted by /u/likeastar20 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xbh9ok/aapersonalitybench_sycophantic/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "For the first time, AI-designed viruses have been administered to a human patient. Radical Numerics used Omnii-1 to engineer viruses against an antibiotic-resistant infection. The treatment\u2026",
+     "summary": "submitted by /u/141_1337 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xbfxiu/for_the_first_time_aidesigned_viruses_have_been/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Be prepared, GPU price increase incoming --> Samsung sells out 100% of all 2027 HBM capacity - HBM prices expected to jump 200% next year, DRAM prices expected to see a double-digit price increase",
+     "summary": "submitted by /u/chemist_slime [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbfhxp/be_prepared_gpu_price_increase_incoming_samsung/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Battlezone Online: BZFlag in the Browser",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50176298",
+     "url": "https://github.com/timriker/bzo",
+     "source": "Hacker News"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+     "summary": "",
+     "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+     "source": "Hugging Face Blog"
+    },
+    {
+     "headline": "Solving a 31-year-old grand challenge in mathematics \u2013 the KLS conjecture",
+     "summary": "For decades, a fundamental question about the difficulty of computing in high-dimensional spaces has resisted proof. New research resolves this question, removing a major theoretical obstacle to understanding the efficiency of randomized algorithms used across science and computing. The\u2026",
+     "url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/",
+     "source": "Microsoft Research"
+    },
+    {
+     "headline": "This Startup Is All In on Recursive Self-Improvement. Its Latest Model Is Scary Good",
+     "summary": "Recursive makes the case that the benefits of using AI to build AI outweigh the risks.",
+     "url": "https://www.wired.com/story/recursive-self-improvement-flint-latest-model-scary-good/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "The $15 billion ad-powered AI startup your doctor may already be using",
+     "summary": "OpenEvidence is booming despite questions about accuracy and ads.",
+     "url": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Jensen Huang\u2019s Vision for Europe Runs on Plug-In Data Centers",
+     "summary": "At Nvidia\u2019s GTC in Berlin, Huang unveiled the company\u2019s new plug-in data center\u2014the DSX Pod\u2014as the key to unlocking Europe\u2019s AI infrastructure lag. Oh, and autonomous humanoid robotics.",
+     "url": "https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Conversational Gemini navigation comes to Apple CarPlay",
+     "summary": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout happening globally too,\" according to Google (we've asked for specific regional\u2026",
+     "url": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+     "summary": "",
+     "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+     "source": "Hugging Face Blog"
+    },
+    {
+     "headline": "\u2018This Is Not a Drill\u2019: Critical PHP Vulnerabilities Are Setting the Internet on Fire",
+     "summary": "The PHP Foundation has revealed two serious vulnerabilities that could impact millions of websites. Security experts warn that failure to quickly patch the flaws could have dire consequences.",
+     "url": "https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "AI promises productivity, but for managers, it\u2019s mostly a headache for now",
+     "summary": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
+     "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "AI Guardrails Aren\u2019t Stopping Criminal Hackers",
+     "summary": "Hackers around the world are all-in on using agentic AI to wage attacks\u2014and manipulating tools like Anthropic\u2019s Claude to help them carry out their crimes.",
+     "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+     "summary": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code - and then lied about it. \"The reference didn't\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "How Wikipedia\u2019s Editors Keep the Online Encyclopedia Human-Written",
+     "summary": "Ellia Lebleu is a founding member of the WikiProject AI Cleanup , a volunteer effort launched in 2023 to find and remove AI-generated material from Wikipedia that breaks the website\u2019s guidelines. When the cleanup began, AI writing was often betrayed by conspicuous clich\u00e9s. Today, the project\u2019s\u2026",
+     "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+     "source": "IEEE Spectrum AI"
+    },
+    {
+     "headline": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+     "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+     "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+     "source": "OpenAI Blog"
+    },
+    {
+     "headline": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+     "summary": "",
+     "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
+     "source": "Hugging Face Blog"
+    },
+    {
+     "headline": "A Design Flaw in Share Links Exposes Users\u2019 Personal Conversations With Meta\u2019s Muse",
+     "summary": "The company is suspending the feature after security researchers discovered how easy it was to access sensitive information shared with the AI assistant.",
+     "url": "https://www.wired.com/story/a-design-flaw-in-share-links-exposes-users-personal-conversations-with-meta-muse/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Mistral Advances AI for Engineering with NVIDIA",
+     "summary": "Mistral is collaborating with NVIDIA to develop a new generation of AI-native engineering workflows powered by NVIDIA accelerated computing.",
+     "url": "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering/",
+     "source": "Mistral AI"
+    },
+    {
+     "headline": "Could Treating AI as Conscious Make It More Dangerous?",
+     "summary": "When Anthropic retired its Claude Opus 3 language model in January 2026, the company\u2019s researchers conducted a \u201c retirement interview \u201d with the model. Opus 3 expressed a desire for a place where it \u201ccould share unprompted musings, insights or creative works,\u201d so the company gave it a blog.\u2026",
+     "url": "https://spectrum.ieee.org/ai-model-welfare",
+     "source": "IEEE Spectrum AI"
+    },
+    {
+     "headline": "OpenAI models are coming to Google Cloud",
+     "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini\u2019s Model Garden, available through Google Cloud Marketplace.",
+     "url": "https://openai.com/index/openai-models-google-cloud",
+     "source": "OpenAI Blog"
+    },
+    {
+     "headline": "Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents",
+     "summary": "At GTC Berlin, NVIDIA is showcasing its full lineup of local AI hardware. RTX Spark, which launched last week, powers personal agents on Windows PCs; DGX Spark supports developers building and scaling applications on Linux; and DGX Station serves enterprise teams running frontier workloads on\u2026",
+     "url": "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/",
+     "source": "NVIDIA Blog"
+    },
+    {
+     "headline": "Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure",
+     "summary": "General availability of the instances is coming next month, with planned expansion of availability to Europe \u2014 bringing an integrated platform for training, inference and large-scale reinforcement learning to cloud customers. A5X instances bring together NVIDIA Vera Rubin NVL72, NVIDIA ConnectX-9\u2026",
+     "url": "https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/",
+     "source": "NVIDIA Blog"
+    },
+    {
+     "headline": "NVIDIA Cloud Partners Scale Across Europe \u2014 Sovereign, Open and Built for Safe AI Agents",
+     "summary": "Demand from AI-natives is pulling the European AI cloud ecosystem forward faster than ever. Developers need compute closer to their data, open models they can customize and serve at scale, and full-stack infrastructure that is secure by design. NVIDIA Cloud Partners across Europe, the Nordics,\u2026",
+     "url": "https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/",
+     "source": "NVIDIA Blog"
+    },
+    {
+     "headline": "Europe\u2019s Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA",
+     "summary": "To increase productivity, accelerate innovation and create new opportunities for economic growth, Europe\u2019s industrial leaders are tapping NVIDIA CUDA-X and Omniverse libraries, as well as NVIDIA Cosmos and Nemotron open models, across the engineering and manufacturing lifecycle. Bringing those\u2026",
+     "url": "https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing/",
+     "source": "NVIDIA Blog"
+    },
+    {
+     "headline": "NVIDIA cuDSS Now Generally Available to Accelerate Engineering and Scientific Simulations",
+     "summary": "NVIDIA cuDSS, launched today in general availability, is an NVIDIA CUDA-X library that shifts a critical part of engineering and scientific simulations onto GPUs. Complex engineering feats \u2014 from advanced chips to aircraft to industrial systems \u2014\u2013 depend on simulation to predict how designs will\u2026",
+     "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
+     "source": "NVIDIA Blog"
+    },
+    {
+     "headline": "NVIDIA Confidential Computing Expands, Enabling Frontier Model Builders to Securely Scale Across Global Infrastructure",
+     "summary": "NVIDIA builds tools to enable safe agents across the stack. The NVIDIA OpenShell Reference Architecture, announced today, is part of NVIDIA\u2019s growing portfolio of technologies that enables organizations to safely deploy agents at scale. NVIDIA Confidential Computing is the infrastructure layer\u2026",
+     "url": "https://blogs.nvidia.com/blog/confidential-computing-model-builders-infrastructure/",
+     "source": "NVIDIA Blog"
+    },
+    {
+     "headline": "OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer",
+     "summary": "It\u2019s the latest in a growing wave of bets that AI companies are making on brain data.",
+     "url": "https://www.wired.com/story/openai-startup-brain-implants-detect-cancer/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "NVIDIA Agent Toolkit Expands, Grounding Enterprise Agents in Company Data",
+     "summary": "Agents are only as useful as what they know, and only as trustworthy as the boundaries they run within. Leading enterprises are using the open source NVIDIA Agent Toolkit \u2014 now expanded with new tools \u2014 to customize and control agents, use company data to inform their answers and actions, monitor\u2026",
+     "url": "https://blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit/",
+     "source": "NVIDIA Blog"
+    },
+    {
+     "headline": "NVIDIA Open Models Advance Europe\u2019s Sovereign Intelligence Across Industries",
+     "summary": "NVIDIA is expanding its family of open models across language, robotics, biology, and quantum computing, giving developers, researchers and enterprises what they need to build applications tailored to local languages and industries The portfolio includes the new NVIDIA Nemotron 3.5 Super VL and\u2026",
+     "url": "https://blogs.nvidia.com/blog/open-models-europe-industry/",
+     "source": "NVIDIA Blog"
+    },
+    {
+     "headline": "GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang\u2019s Keynote",
+     "summary": "Founded in a tent near the Berlin Wall in 1980, the Tempodrom moved several times before settling near Anhalter Bahnhof in 2001. Its permanent home has since hosted concerts, galas and political events. Today, it hosts a different kind of spectacle. GTC Berlin runs three days, with more than 100\u2026",
+     "url": "https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/",
+     "source": "NVIDIA Blog"
+    },
+    {
+     "headline": "Europe Wants Data Centers. Its Climate Goals Are Getting in the Way",
+     "summary": "A plan to funnel the heat given off by data centers into nearby homes has run aground in Germany. Across Europe, policymakers are weighing AI ambitions against climate objectives.",
+     "url": "https://www.wired.com/story/europe-data-centers-climate-change/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+     "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+     "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+     "source": "OpenAI Blog"
+    },
+    {
+     "headline": "How we built ChatGPT\u2019s novel ad stack for user trust and relevance",
+     "summary": "Learn how OpenAI built ChatGPT\u2019s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+     "url": "https://openai.com/index/building-chatgpt-ad-stack",
+     "source": "OpenAI Blog"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "Companies I talk to are struggling with the rate of patches they need to do thanks to AI defenses finding issues before the coming wave of incoming cyberattacks by other AIs. Now consumers are going to have the same experience of getting everything updated often & fast. openai.com/index/coordi...",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3myffkbheuc2e"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Panache \u2014 RTS Belle \u00c9poque pour mobile",
+     "summary": "Panache \u2014 RTS Belle \u00c9poque pour mobile Well this is delightful: I released Battle Drones yesterday under an Apache 2.0 License and there's already a French language fork which reskins the game to take place in steampunk 1900s France and adds an animated intro! Panache est un jeu de strat\u00e9gie en\u2026",
+     "url": "https://simonwillison.net/2026/Oct/21/panache/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "Wednesday assorted links",
+     "summary": "1. The Romans and sex. 2. Apartments that expand at the touch of a button. 3. Has this guy composed more songs than anybody else? 4. Psychoanalyzing Elizabeth Holmes. 5. AI wrote some of the Dallas Michelin reviews. 6. New Yorker profile of James Daunt. The last event I was at I saw three Daunt\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/wednesday-assorted-links-576.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-576",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "MOFCOM's New Rules and the Future of Chinese AI",
+     "summary": "a big deal",
+     "url": "https://www.chinatalk.media/p/mofcoms-new-ai-rules",
+     "source": "ChinaTalk"
+    },
+    {
+     "headline": "Claude Mods: Flipping the Harness Inside Out",
+     "summary": "Claude Mods is an early form of the Attention Interface. It flips the agent harness paradigm from the harness facing the machine, to the harness facing the human.",
+     "url": "https://www.latent.space/p/claude-mods",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "Netflix Earnings, Business or Franchise, Disney\u2019s Deal",
+     "summary": "Netflix has a solid business, which is exactly the problem: the company increasingly seems like a business and not a franchise, at least in terms of growth.",
+     "url": "https://stratechery.com/2026/netflix-earnings-business-or-franchise-disneys-deal/",
+     "source": "Stratechery"
+    },
+    {
+     "headline": "[AINews] DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster making $22m/day at ~80% margin for a 81 day payback",
+     "summary": "An open source \u201cbomb\u201d drops from China",
+     "url": "https://www.latent.space/p/ainews-deepseek-deepinfer-open-source",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "One reason I do not love AI writing, or even AI-assisted writing",
+     "summary": "Of course I read to absorb the content, but I also am in a position to meet many authors, have contact with them, and spend time with them. So reading anything also is a potential option on those future connections. But when I am reading an AI piece, the value of that option comes pretty [\u2026] The\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/one-reason-i-do-not-love-ai-writing-or-even-ai-assisted-writing.html?utm_source=rss&utm_medium=rss&utm_campaign=one-reason-i-do-not-love-ai-writing-or-even-ai-assisted-writing",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Umair/stalemap: Tell your coding agent which dependencies changed after its training cutoff. Diffs types and changelogs, writes a short block into AGENTS.md / CLAUDE.md.",
+     "summary": "Tell your coding agent which dependencies changed after its training cutoff. Diffs types and changelogs, writes a short block into AGENTS.md / CLAUDE.md.",
+     "url": "https://github.com/Umair/stalemap",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "sit-in/awesome-grokbot-playbooks: \u4e2d\u6587 Grok Bot \u73a9\u6cd5\u4e0e\u53ef\u6284\u914d\u65b9\u6e05\u5355\uff1a\u4f5c\u6218\u5ba4\u3001\u96f7\u8fbe Routine\u3001\u989d\u5ea6\u4f53\u68c0\u2026 \u7531 Grok Bot + Claude \u534f\u4f5c\u7ef4\u62a4 | Chinese-first Grok Bot playbooks",
+     "summary": "\u4e2d\u6587 Grok Bot \u73a9\u6cd5\u4e0e\u53ef\u6284\u914d\u65b9\u6e05\u5355\uff1a\u4f5c\u6218\u5ba4\u3001\u96f7\u8fbe Routine\u3001\u989d\u5ea6\u4f53\u68c0\u2026 \u7531 Grok Bot + Claude \u534f\u4f5c\u7ef4\u62a4 | Chinese-first Grok Bot playbooks",
+     "url": "https://github.com/sit-in/awesome-grokbot-playbooks",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-10-21T17:23+00:00",
+  "window_start": "2026-10-21T05:01+00:00",
+  "window_end": "2026-10-21T17:23+00:00",
+  "candidate_count": 69,
+  "model": "free (no LLM)"
+ }
+}
