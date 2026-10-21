@@ -1,0 +1,337 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "The Causal Effect of Foreign Ideas on U.S. Innovation",
+   "summary": "Globalization is once again better than many people realize: We study the role of foreign ideas in U.S. innovation by constructing a directed \u201cgenealogy\u201d of technologies from the full text of 13 million patents filed between 1887 and 2024. By tracing which earlier technologies appear in the\u2026",
+   "why_it_matters": "",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/10/the-causal-effect-of-foreign-ideas-on-u-s-innovation.html?utm_source=rss&utm_medium=rss&utm_campaign=the-causal-effect-of-foreign-ideas-on-u-s-innovation",
+   "source": "Marginal Revolution"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "As of 3 hours ago, the Linux Kernel no longer requires the usage of AI to be declared for new code submissions.",
+     "summary": "submitted by /u/chessboardtable [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xbe2tf/as_of_3_hours_ago_the_linux_kernel_no_longer/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "KFlash: Benchmarks of newly released versions of Apple Silicon optimized engines: 1.4.0 Splash (DFlash2 ~ 50 tok/s) vs 0.2 Kapitsa (KFlash ~65 tok/s), MLX(MTP) & more on Qwen 3.8 27b/4b/35b 4Q on\u2026",
+     "summary": "hey folks, its Ye, I work on an open source project called Kapitsa : its a fast Apple Silicon optimized inference engine built for Qwen and Nemotron models. this week two new releases landed in local inference: Inco shipped Splash 1.4.0 yesterday, and we shipped Kapitsa 0.2 today with a new\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbdxg3/kflash_benchmarks_of_newly_released_versions_of/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I use local AI to generate personal value on my massive NAS-based archive / library",
+     "summary": "I\u2019ve seen vastly more questions than answers about how people are using their local AI so I figured I\u2019d make a post about my experience. It seems most people are looking for frontier-level coding expertise for huge projects with their setups, and that anything less is not enough. I disagree and\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbd1hp/i_use_local_ai_to_generate_personal_value_on_my/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "My ai is calling me when databas backups fail",
+     "summary": "I never told it to do that nor did I give it my number. It thinks and acts on its own now. submitted by /u/Minimum_Hour519 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xbcvi9/my_ai_is_calling_me_when_databas_backups_fail/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+     "summary": "submitted by /u/TheRealMasonMac [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbcnrf/fairstress_a_deeper_evaluation_of_fairness_in_llm/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Does anyone take requests to create heretic models? I want a heretic version of this qwen 3.8 27B finetune that says it\u2019s better than swift!",
+     "summary": "This model is cool af! submitted by /u/Borkato [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbcir1/does_anyone_take_requests_to_create_heretic/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I made a Pinokio app for Fish Audio's new TTS model \"Drama 3\", which fixes many of the issues people found (silent takes, missing words)",
+     "summary": "submitted by /u/Thomas_Eric [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbc9og/i_made_a_pinokio_app_for_fish_audios_new_tts/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Report: 55% of China's AI computing power is used for producing short dramas and videos.",
+     "summary": "I've been seeing a ton of those popping up on YouTube. submitted by /u/lurenjia_3x [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xbarjz/report_55_of_chinas_ai_computing_power_is_used/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders",
+     "summary": "China just ordered 3mil RTX 5500 Pro for $11.4k a pop. Probably for llm inference and AI video gen. I suppose this card is now out of reach for local llm. submitted by /u/Ok_Warning2146 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xb9z8e/exclusive_bytedance_alibaba_tencent_place_over_35/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Will our paper be removed from EMNLP because of no-show? [D]",
+     "summary": "Hello, Our paper was accepted to EMNLP and we were given poster slot. However due to Visa issue, we cannot attend in-person anymore. We mailed to the event team, but they said that it is no longer possible to change to virtual. We have also emailed to the program chairs and others, but since this\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xb9r6b/will_our_paper_be_removed_from_emnlp_because_of/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "How to squeeze the Max Token from M1 Max 64gb?",
+     "summary": "For last 9 \u200bmonths, been using cloud frontier 99% the from Gemini Flash Pro, Claude, Deepseek, \u200bGroq & Cerebras. Ready to give 32B, 70B, 120B another try. Was getting decent 45 token/sec on 7B Llama MLX, but 7B is too simple for most task. I loaded Gwen 32B, get some errors on LM Studio. Which are\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xb9ax1/how_to_squeeze_the_max_token_from_m1_max_64gb/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "A Figure F.03 robot just walked for 9 days straight on this treadmill, completing 1.2 million steps equal to a distance of 348 miles/560 km",
+     "summary": "Source: https://x.com/adcock_brett/status/2112227583643509174 submitted by /u/bb-wa [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xb8hly/a_figure_f03_robot_just_walked_for_9_days/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "PlanIt\u2122 was able to push out a new feature that their competitor CalcuFloor\u2122 had just released 27 hours ago by leveraging the power of AI. The SDLC is about to get a whole lot faster.",
+     "summary": "submitted by /u/kernelangus420 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xb7vec/planit_was_able_to_push_out_a_new_feature_that/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Leading Mathematicians Are Increasingly Convinced by OpenAI's Quasi-Riemann Hypothesis Proof",
+     "summary": "submitted by /u/aKaizuh [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xb7qtc/leading_mathematicians_are_increasingly_convinced/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Fast-swap available v0.3.0 (Berth) - Testing needed",
+     "summary": "Berth v0.3 is out, and I need testers with big RAM and more than one GPU v0.3 parks engines in system RAM instead of unloading them. A switch back to a parked engine skips the reload from disk. My workstation has 64 GB, and Strata alone pins 40 GB, so I can't measure parking at the sizes you run.\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xb783i/fastswap_available_v030_berth_testing_needed/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "We built the AIM System One Index, a leaderboard for decision models (57 models ranked on accuracy, bias, cost and latency)",
+     "summary": "We\u2019ve been testing \u201cSystem One\u201d models, also called decision models. Instead of generating text token by token, they return a typed decision with a probability for each option in a single pass. To compare them, we put together the AIM System One Index. It combines three benchmarks: Browser tasks:\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xb73q4/we_built_the_aim_system_one_index_a_leaderboard/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "The Other Epidemic: Trying to get off benzodiazepines",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50173891",
+     "url": "https://www.thebeliever.net/the-other-epidemic/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Eagle-4 Released: Faster than DFlash2 & DSpark",
+     "summary": "Insane numbers, so far only Qwen3.8-27B is supported but wow those are some good numbers. Will watch closely when this lands in llama.cpp/vLLM ### Qwen 3.8 27B Benchmark Results Method Speedup over Vanilla MTP 2.22\u00d7 DSpark 2.57\u00d7 DFlash 2 2.80\u00d7 EAGLE-4 3.59\u00d7 submitted by /u/TKGaming_11 [link]\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xb6zds/eagle4_released_faster_than_dflash2_dspark/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Alien Technology Just Arrived",
+     "summary": "submitted by /u/LazyPotatoHead97 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xb675y/alien_technology_just_arrived/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Anthropic SEC financials reveal that Claude Code masively increased revenue but now growth has flatlined (since june)",
+     "summary": "submitted by /u/KeyGlove47 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xb5a4x/anthropic_sec_financials_reveal_that_claude_code/",
+     "source": "r/singularity"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Southeast Asia\u2019s digital economy to hit $368 billion",
+     "summary": "Cover image for the e-Conomy SEA 2026 report titled Building the intelligent economy by Google, Temasek, and Bain and Company. A 3D illustration features a glowing yellow star surrounded by miniature scenes representing digital sectors, including data cen",
+     "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+     "source": "Google AI Blog"
+    },
+    {
+     "headline": "Judge dismisses Sam Altman\u2019s sister\u2019s sexual abuse lawsuit",
+     "summary": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the past year, Ann had failed to\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+     "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+     "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Hugging Face CEO warns that Netflix\u2019s OpenAI hack documentary isn\u2019t accurate",
+     "summary": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+     "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Google\u2019s more personalized Gemini AI is heading to your car",
+     "summary": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says you can ask Gemini\u2026",
+     "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+     "source": "The Verge AI"
+    }
+   ],
+   "influencer_takes": [],
+   "research_radar": [
+    {
+     "headline": "The Causal Effect of Foreign Ideas on U.S. Innovation",
+     "summary": "Globalization is once again better than many people realize: We study the role of foreign ideas in U.S. innovation by constructing a directed \u201cgenealogy\u201d of technologies from the full text of 13 million patents filed between 1887 and 2024. By tracing which earlier technologies appear in the\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/the-causal-effect-of-foreign-ideas-on-u-s-innovation.html?utm_source=rss&utm_medium=rss&utm_campaign=the-causal-effect-of-foreign-ideas-on-u-s-innovation",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training",
+     "summary": "arXiv:2610.26887v1 Announce Type: new Abstract: Large language model (LLM) agents are evolving from conversational assistants into Cowork Agents capable of autonomous planning, tool use, and complex task execution. Financial analysis requires these agents to integrate cross-document evidence and\u2026",
+     "url": "https://arxiv.org/abs/2610.26887",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "Large language model and reinforcement learning based autonomous construction and progress updates",
+     "summary": "arXiv:2610.26899v1 Announce Type: new Abstract: Due to the rapid growth of the global population, traditional construction methods are gradually unable to meet the current housing demand. The advancement of machine learning algorithms has encouraged researchers to explore their applications in the\u2026",
+     "url": "https://arxiv.org/abs/2610.26899",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "Pareto-Optimal RTL Code Generation via Multi-Objective Reinforcement Learning with Large Language Models",
+     "summary": "arXiv:2610.26904v1 Announce Type: new Abstract: Recent studies have proposed reinforcement learning with verifiable rewards (RLVR) methods that enable LLMs to generate high-quality RTL circuits from natural-language specifications. Existing approaches optimize circuit PPA (Power, Performance,\u2026",
+     "url": "https://arxiv.org/abs/2610.26904",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "MedPAO-Assist: Edge-Deployable, Modality-Aware Agentic AI for Radiology Report Structuring",
+     "summary": "arXiv:2610.26913v1 Announce Type: new Abstract: The adoption of Large Language Models for radiology report structuring has been largely dominated by either proprietary cloud-based models or large open models requiring high-end GPUs for deployment, which is a critical bottleneck for clinical\u2026",
+     "url": "https://arxiv.org/abs/2610.26913",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "DataPraxis: Scaling Analytics Tasks via Verified Workspace Evolution",
+     "summary": "arXiv:2610.26924v1 Announce Type: new Abstract: General-purpose agents are increasingly expected to perform professional analytics work, which requires sustained reasoning, iterative investigation, and reliable evidence. Training these capabilities requires diverse and challenging tasks. However,\u2026",
+     "url": "https://arxiv.org/abs/2610.26924",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "Industrial Agentic AI: LLM-Driven New-Generation Agents for Smart Manufacturing",
+     "summary": "arXiv:2610.26941v1 Announce Type: new Abstract: Large language models (LLMs) are enabling agents to move beyond predefined workflows toward autonomous planning and execution, creating new opportunities for smart manufacturing. However, dynamic environments, complex physical constraints, and\u2026",
+     "url": "https://arxiv.org/abs/2610.26941",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "Fix, Not Just Resample: Bounded Compiler-Guided Repair in Lean 4",
+     "summary": "arXiv:2610.26942v1 Announce Type: new Abstract: Automated theorem provers often rely on sampling language models, but proof assistants like Lean reject each failed step with a precise error message --- information that pure sampling discards. To overcome this, we introduce a bounded, online\u2026",
+     "url": "https://arxiv.org/abs/2610.26942",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "MAMath-Bench: Process-Aware and Robust Evaluation of Multimodal Multi-Agent Mathematical Reasoning",
+     "summary": "arXiv:2610.26943v1 Announce Type: new Abstract: Mathematical reasoning is a fundamental capability for educational applications of Large Language Models (LLMs), where reliable problem solving requires not only correct answers but also coherent and verifiable reasoning processes. Multi-agent\u2026",
+     "url": "https://arxiv.org/abs/2610.26943",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "LightCRS: Lightweight Multi-Domain Conversational Recommendation System",
+     "summary": "arXiv:2610.26948v1 Announce Type: new Abstract: Conversational recommender systems have recently adopted vision-language models to match user dialogue intents with multimodal product information. However, extending these methods to many product domains faces a dilemma: deploying a separately\u2026",
+     "url": "https://arxiv.org/abs/2610.26948",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "When Planning Problems Become Hard for LLMs: Separating Structural Complexity from Semantic Interpretability",
+     "summary": "arXiv:2610.26964v1 Announce Type: new Abstract: Large language models (LLMs) struggle with classical planning, but benchmarks rarely distinguish structural difficulty from the difficulty of interpreting symbolic vocabulary. We examine seven STRIPS domains with BFS-optimal plan lengths. For\u2026",
+     "url": "https://arxiv.org/abs/2610.26964",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "SPEM: Structure-Aware Procedural Memory for Efficient Skill Use in LLM Agents",
+     "summary": "arXiv:2610.26995v1 Announce Type: new Abstract: LLM-based agents increasingly rely on reusable skills. However, scaling skill libraries makes efficient and accurate skill use difficult. Full skill loading incurs high token and runtime overhead. In contrast, flat semantic retrieval treats skills as\u2026",
+     "url": "https://arxiv.org/abs/2610.26995",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "Does Multi-Agent Collaboration Reduce Hallucination in Clinical Tasks?",
+     "summary": "arXiv:2610.27027v1 Announce Type: new Abstract: Multi-agent LLM systems improve performance on clinical tasks, and that improvement is often read as evidence of a more trustworthy system. However, the two are not the same claim. A clinician acts on the stated reasoning and not only on the\u2026",
+     "url": "https://arxiv.org/abs/2610.27027",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "Teaching AI Agent to Play Poker Strategically Through Preference Optimization",
+     "summary": "arXiv:2610.27028v1 Announce Type: new Abstract: A poker agent can make a legal move and still make a strategically poor one. We ask whether compact AI agents can exhibit strategic behavior under hidden information and whether preference optimization can improve beyond static and zero-shot\u2026",
+     "url": "https://arxiv.org/abs/2610.27028",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "M-Plan: Comprehensive Planning For LLM Agents with Memory Arrangement",
+     "summary": "arXiv:2610.27032v1 Announce Type: new Abstract: Large language model (LLM)-based agents have recently demonstrated outstanding performance in single-turn tasks, yet they continue to struggle with long-horizon tasks, particularly in environments without prior training. A key limitation of single\u2026",
+     "url": "https://arxiv.org/abs/2610.27032",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "Physical AI: Concepts, Techniques, and Challenges",
+     "summary": "arXiv:2610.27045v1 Announce Type: new Abstract: In recent years, physical artificial intelligence (physical AI) has experienced rapid development, capturing significant attention in academia and industry. However, the field has yet to reach consensus on its definition, technical landscape, and\u2026",
+     "url": "https://arxiv.org/abs/2610.27045",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "ReuF2F: Benchmarking Coding Agents on Formalized Undergraduate Research Problems",
+     "summary": "arXiv:2610.27046v1 Announce Type: new Abstract: As AI systems begin to resolve open research problems, reliable verification becomes increasingly important. Formal mathematics provides a trusted framework for mathematical reasoning, enabling agents to produce machine-checkable proofs while\u2026",
+     "url": "https://arxiv.org/abs/2610.27046",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "A general-purpose System One decision model for clinical records",
+     "summary": "arXiv:2610.27099v1 Announce Type: new Abstract: Clinical care, health-system operations and biomedical discovery depend on extracting reliable answers from patient records, yet applying diverse clinical questions across entire populations remains computationally expensive. Here we present Clinical\u2026",
+     "url": "https://arxiv.org/abs/2610.27099",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "Omni-Woodpecker: Hallucination Correction via Evidence-Prior Rebalancing for Omni LLMs",
+     "summary": "arXiv:2610.27103v1 Announce Type: new Abstract: Recent Omni LLMs (OLLMs) have demonstrated remarkable capabilities in joint audio-visual reasoning, yet cross-modal hallucinations remain a major challenge. Existing mitigation methods mainly operate at the output level, overlooking the entanglement\u2026",
+     "url": "https://arxiv.org/abs/2610.27103",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "PROVISO: Provenance-Informed Action Selection for Secure LLM Agents",
+     "summary": "arXiv:2610.27115v1 Announce Type: new Abstract: LLM agents act on the external world through tools and third-party skills, so a single executed action can cause irreversible harm. Existing defenses judge a proposed action without tracking whether its content comes from the user or from external\u2026",
+     "url": "https://arxiv.org/abs/2610.27115",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "PORA: Learning When More Reasoning Pays Off for LLM Agents",
+     "summary": "arXiv:2610.27119v1 Announce Type: new Abstract: LLM agents perform tasks over multiple steps and revise their actions based on feedback. As the total reasoning budget is often limited and must support future steps, the agent must choose between short and long reasoning before each action. Longer\u2026",
+     "url": "https://arxiv.org/abs/2610.27119",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "eMudhra Intermediate CA Compromise",
+     "summary": "eMudhra Intermediate CA Compromise This is very, very bad news: The private keys of eight eMudhra intermediate CA certificates have been compromised. They chain to roots trusted by the Mozilla, Microsoft, Apple and Chrome root programs and by many downstream trust stores. Any software that bundles\u2026",
+     "url": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "VolcanoDomainTriumph/kahoot-tools-ai-resocket-answer-tool: Kahoot Tools is a collection of useful utilities designed to enhance the Kahoot experience, simplify game management, and provide\u2026",
+     "summary": "Kahoot Tools is a collection of useful utilities designed to enhance the Kahoot experience, simplify game management, and provide convenient tools for quizzes, learning, and interactive activities.",
+     "url": "https://github.com/VolcanoDomainTriumph/kahoot-tools-ai-resocket-answer-tool",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "tomtomsatnav/agent-orchestration-standard: A live, local-first dashboard for Claude Code sessions: project graph of agents, tokens, tool feed, replay, alerts. Plugin + terminal UI + MCP server.\u2026",
+     "summary": "A live, local-first dashboard for Claude Code sessions: project graph of agents, tokens, tool feed, replay, alerts. Plugin + terminal UI + MCP server. Includes the AOS-1 agent orchestration spec.",
+     "url": "https://github.com/tomtomsatnav/agent-orchestration-standard",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "reacher-z/Awesome-REA: Awesome Reverse Engineering Anything: tools, projects, case studies and research papers for websites, games, apps, binaries, firmware and communication protocols.",
+     "summary": "Awesome Reverse Engineering Anything: tools, projects, case studies and research papers for websites, games, apps, binaries, firmware and communication protocols.",
+     "url": "https://github.com/reacher-z/Awesome-REA",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "touri-ai/touri: touri: open-source desktop app for AI agent bots (Codex, Claude, OpenCode) with isolated VMs, browser and computer use.",
+     "summary": "touri: open-source desktop app for AI agent bots (Codex, Claude, OpenCode) with isolated VMs, browser and computer use.",
+     "url": "https://github.com/touri-ai/touri",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-10-21T05:01+00:00",
+  "window_start": "2026-10-20T21:43+00:00",
+  "window_end": "2026-10-21T05:01+00:00",
+  "candidate_count": 51,
+  "model": "free (no LLM)"
+ }
+}
