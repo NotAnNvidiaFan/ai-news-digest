@@ -1,0 +1,273 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "minicpm5-2B-SFT-Abiliterated",
+   "summary": "An abliterated variant of the original MiniCPM5-2B-SFT One notable behavioral change is its tendency to rationalize potentially harmful or restricted questions rather then reject but thats a 1/20 chance https://huggingface.co/XtrCom/MINICPM5-2B-SFT-Abiliterated anyways enjoy the model\u2026",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xc07oc/minicpm52bsftabiliterated/",
+   "source": "r/LocalLLaMA"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "minicpm5-2B-SFT-Abiliterated",
+     "summary": "An abliterated variant of the original MiniCPM5-2B-SFT One notable behavioral change is its tendency to rationalize potentially harmful or restricted questions rather then reject but thats a 1/20 chance https://huggingface.co/XtrCom/MINICPM5-2B-SFT-Abiliterated anyways enjoy the model\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xc07oc/minicpm52bsftabiliterated/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "models: Add Flint model (FlintForCausalLM) by alexey-rsi \u00b7 Pull Request #30928 \u00b7 ggml-org/llama.cpp",
+     "summary": "now you can use Flint in llama.cpp (merged after 6h) Model specifications Property Flint Developer Recursive Architecture Decoder-only mixture-of-experts Transformer Total parameters 39.8B Active parameters per token Approximately 2.5B, including the output head\u00b9 Layers 49: 2 dense layers followed\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xc01z8/models_add_flint_model_flintforcausallm_by/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Real-time AI conversational avatars are here",
+     "summary": "Almost... It's something I've been working on for nearly 2 years now. I trained my own audio-driven animation model for this that's much more lightweight than video models as it \"only\" computes animation values instead of pixels. It's Metahuman native so plugs into Unreal Engine 5. You're looking\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xbzewr/realtime_ai_conversational_avatars_are_here/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Anthropic unveils Claude Duet, a proactive AI agent powered by Opus 5.5. It works while you're away, monitors your apps, handles complex tasks using its own cloud computer, and alerts you when\u2026",
+     "summary": "submitted by /u/141_1337 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xbz98o/anthropic_unveils_claude_duet_a_proactive_ai/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Published a few model conversions for OpenVINO please request more",
+     "summary": "a bunch of models like dflash supported models that i wanted weren't alredy omnline in ov ir format so i decided to convert them myself please request more and i will try to convert them submitted by /u/Sudden_Topic5154 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbybez/published_a_few_model_conversions_for_openvino/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Qwen researching Qwen",
+     "summary": "I always feel a little bad asking LLMs to do research into itself or newer versions. It's like asking someone to face their own mortality, although that's anthropomorphizing. The user is asking me to investigate the system requirements for \"Qwen 3.8 Flash Next\" from at least 20 different sources.\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbya5m/qwen_researching_qwen/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "AI is great with text and images but bad at audio and video. What other gaps stand between us and AGI?",
+     "summary": "I\u2019ve been seeing a bunch of people on this sub say in the past month or so that AGI has already arrived with GPT Astra and Opus 5.5, but I think there are still a lot of relatively basic tasks that AI can\u2019t do anywhere near a human level. Sure, we\u2019re seeing incredible advances in computer use, and\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xby0ar/ai_is_great_with_text_and_images_but_bad_at_audio/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "If the bubble bursts we keep local AI forever",
+     "summary": "Hey guys! I'm the dev from the open-source Observer project. We made this video about how even if the AI bubble bursts, local model advancements are bubble-proof. Hope you guys like it :DD Subscribe to the youtube if you liked the video! We'll post more local AI content there c:\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbxmoo/if_the_bubble_bursts_we_keep_local_ai_forever/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "OpenAI's thousands of GPT-Rosalind agents analyzed millions of mouse brain cells in 32 minutes, completing research estimated to take humans months to a year. They uncovered new leads for\u2026",
+     "summary": "submitted by /u/141_1337 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xbx2x9/openais_thousands_of_gptrosalind_agents_analyzed/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "llama: create new fused op for QSA mask by am17an \u00b7 Pull Request #30640 \u00b7 ggml-org/llama.cpp",
+     "summary": "it's time to update your llama.cpp for another speedup (sparse attention models) submitted by /u/jacek2023 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbx12a/llama_create_new_fused_op_for_qsa_mask_by_am17an/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Oblivion Remastered Mod Built Using Claude AI Boosts FPS By Over 40% And Drastically Reduces Stuttering Without Sacrificing Visual Quality",
+     "summary": "submitted by /u/PikaPikaDude [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xbwun6/oblivion_remastered_mod_built_using_claude_ai/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Mistral Large 4",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50186129",
+     "url": "https://mistral.ai/news/mistral-large-4/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Google staff resign in backlash over its AI contracts with military",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50186043",
+     "url": "https://www.bbc.com/news/articles/cmreyvepnv0po",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Claude Duet",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50186037",
+     "url": "https://claude.com/product/claude-duet",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Google's Rust Style Guide",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50186010",
+     "url": "https://google.github.io/styleguide/rustguide.html",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Made a quant: Swift 1.5 Qwen 3.8 Flash Next - Heretic - Unsloth Dynamic IQ4_XS",
+     "summary": "Really couldn't find any good existing quantization for this, only uncensored editions for the GSQ-RCO versions, so I made one. Strata is pre configured for the unsloth dynamic iq4_xs build. Sorry the model card is so cornbally This is the full precision swift 1.5 with the heretic method applied\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbweuw/made_a_quant_swift_15_qwen_38_flash_next_heretic/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "GitLab Critical Patch Release",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50185869",
+     "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Mica v0.5: The smartest 4B decision model is also the fastest one. 20 ms per answer, 25x faster than Jev",
+     "summary": "I'm sharing Mica v0.5, the follow-up to Mica v0.1. It's 4B and runs on one consumer GPU. On speed, it takes 19.8 ms per decision at 256 tokens and about 1.2 s at 32k on a single RTX 6000 Ada. That's up to 3.8x faster than the other 4B judges I measured, 12 to 19x faster than Perplexity's 27B\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbw3oy/mica_v05_the_smartest_4b_decision_model_is_also/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Amazing free 3090 speedup hack, verified works 15% PP, 5% TG for free",
+     "summary": "I saw this today on X and decided to try it, I havent seen it posted here yet. I ran it on a single 3090 benchmarked it with qwen 3.8 27B before and after the optimization and saw these results: Observed prompt-processing throughput improved 22\u201330% ; generation speed improved 1\u20135% . All tests\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbuzj5/amazing_free_3090_speedup_hack_verified_works_15/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Tried running 748B DeepSeek-V4.1-Flash on a \u20ac2k PC",
+     "summary": "I bought a used PC with an RTX 3090 24 GB, 128 GB DDR4 and an Intel i9-9900X last year for under \u20ac2,000. With the release of DeepSeek-V4.1-Flash-1017 I decided to try running it on my machine. It is of course the smallest quant available (1-bit), but I was still happy to see it working at 7.2\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xburkx/tried_running_748b_deepseekv41flash_on_a_2k_pc/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Magnetic Tears: Will ASI need emotion? (update)",
+     "summary": "Back in 2018, I wrote a speculative article for Medium titled Magnetic Tears: Will Super AI Need Emotion?, exploring the idea of using measurable, real-world physical effects of computation, such as heat and magnetic flux, as a feedback mechanism to help address the challenges of AGI and ASI\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xbu7oc/magnetic_tears_will_asi_need_emotion_update/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Noun-verb-conjunction triads [D]",
+     "summary": "The neural network would consist of multiple layers with at least one layer consisting of multiple attention heads. Each attention head would hold one triad consisting of one noun + one verb + one conjunction. The siamese cat ate the mouse then died: (Null) Cat ate also Mouse eaten and cat\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xbtzv9/nounverbconjunction_triads_d/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Texas data center boom could erase decades of progress on air quality",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50184712",
+     "url": "https://www.texastribune.org/2026/10/20/data-centers-texas-air-quality-report-pollution-health-risks/",
+     "source": "Hacker News"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Meta to create a new class of shares to fund AI push",
+     "summary": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward potential acquisitions and employee compensation, with trading beginning in 2027. \"The scale of\u2026",
+     "url": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "TechCrunch Founder Summit 2026: Everything you need to know",
+     "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
+     "url": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Meta says Muse has over 10M users, with shopping a top activity",
+     "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
+     "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+     "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
+     "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+     "summary": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthropic, and it's available as a standalone app on iOS and Android and through\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "The new human-crafted Apple Music brand matters in an AI world",
+     "summary": "Opinion: In a world of AI slop, showing the human hands making things helps.",
+     "url": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Walmart is inviting AI agents to shop for you",
+     "summary": "Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to use an AI agent on the site, with systems in place to let you approve and review purchases and set spending limits. The embrace of AI agents stands in stark contrast to Amazon, which [\u2026]",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+     "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
+     "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
+     "summary": "Google Cloud will have GPT 6.1 Astra, Sol, and Luna in the coming weeks.",
+     "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+     "summary": "",
+     "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+     "source": "Hugging Face Blog"
+    },
+    {
+     "headline": "Judge rejects Trump\u2019s wild claim EPA can dismiss data center pollution lawsuits",
+     "summary": "Trump\u2019s EPA can't unilaterally dismiss SpaceXAI pollution lawsuit, court rules.",
+     "url": "https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+     "summary": "",
+     "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+     "source": "Hugging Face Blog"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @natolambert.bsky.social",
+     "handle": "",
+     "quote": "Finally got to put together a complete deck on the state of open models. What they are, licenses, how competitive they are, signs people are using them, distillation's impact, and how we balance the risks and benefits of openness! natolambert.com/slides/2026/...",
+     "context": "",
+     "url": "https://bsky.app/profile/natolambert.bsky.social/post/3myfopws7jf2q"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "More on Elizabeth Holmes and prison",
+     "summary": "The Free Press asked me to expand upon my views of this matter, here is one excerpt from the piece: Third, fewer women in prison does not have to mean less deterrence overall, as arguably we should concentrate more of our legal resources on deterring violent men. Note that if we can release enough\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/more-on-elizabeth-holmes-and-prison.html?utm_source=rss&utm_medium=rss&utm_campaign=more-on-elizabeth-holmes-and-prison",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Today's PHP Security Release, and How We're Strengthening PHP Security",
+     "summary": "Today's PHP Security Release, and How We're Strengthening PHP Security If you're running anything on PHP it's vital you upgrade - today's updates (across the entire PHP 8.x line) address two remote code execution holes, and there have been exploits circulating since last night, thanks to a leak in\u2026",
+     "url": "https://simonwillison.net/2026/Oct/21/php-security-release/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "Neural nets are exceptionally vulnerable to goal self-hack",
+     "summary": "Suppose we have an AI CEO, ruthlessly devoted to maximising shareholder value. Fortunately, we haven't been completely stupid, and have given it a rich definition of shareholder value, encompassing the success, flourishing, safety, preference satisfaction, and moral values of the shareholders, not\u2026",
+     "url": "https://www.alignmentforum.org/posts/eCR373J3NZwFbacnd/neural-nets-are-exceptionally-vulnerable-to-goal-self-hack",
+     "source": "Alignment Forum"
+    },
+    {
+     "headline": "Presented by Stripe",
+     "summary": "Stratechery is now presented by Stripe. What that means for me, for you, and for the future of Stratechery content.",
+     "url": "https://stratechery.com/2026/presented-by-stripe/",
+     "source": "Stratechery"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-10-21T21:50+00:00",
+  "window_start": "2026-10-21T17:23+00:00",
+  "window_end": "2026-10-21T21:50+00:00",
+  "candidate_count": 40,
+  "model": "free (no LLM)"
+ }
+}
