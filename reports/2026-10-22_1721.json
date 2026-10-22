@@ -1,0 +1,505 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+   "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
+   "why_it_matters": "",
+   "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+   "source": "TechCrunch AI"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Getting ready to operate GNU Taler in Germany",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50197404",
+     "url": "https://www.taler.net/en/news/2026-13.html",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Scientists stunned as new AI unlocks game-changing cancer treatment",
+     "summary": "submitted by /u/theindependentonline [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xcmrat/scientists_stunned_as_new_ai_unlocks_gamechanging/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Q4 flash next for \u00a3300/600 \ud83d\udc40 - snapdragon mini PC results update - 315/43 Tok/s A3b, 46/20 Tok/s Flash Next (read/gen) \ud83d\udca5",
+     "summary": "Follow up to my post about the \u00a3300 Snapdragon mini PC: https://www.reddit.com/r/LocalLLaMA/s/IXZDyyYFDl Quick recap of how I got here: I started on llama.cpp, then pretty quickly moved over to Janas (github.com/prabanta-dev/janas). I ported it to ARM and contributed the work back as PRs (NEON\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcmioz/q4_flash_next_for_300600_snapdragon_mini_pc/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Building brain-inspired semiconductor chips for smarter, greener data centers",
+     "summary": "submitted by /u/striketheviol [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xcm5xn/building_braininspired_semiconductor_chips_for/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Sam Harris reveals Elon Musk was paranoid about Demis Hassabis so much that he recorded their conversations with his iPhone",
+     "summary": "submitted by /u/Recent_Fox4339 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xclutx/sam_harris_reveals_elon_musk_was_paranoid_about/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "On Main Street, Goldman Sachs makes a big bet on AI",
+     "summary": "submitted by /u/nbcnews [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xclpjt/on_main_street_goldman_sachs_makes_a_big_bet_on_ai/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Show HN: Run full iOS 16.5 firmware on Android Devices",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50196718",
+     "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "China's biggest chatbot has started bringing up shopping on its own. It mentions the cold weather, then hands you a coupon",
+     "summary": "This one caught me off guard. During China's Double 11 shopping festival, ByteDance's chatbot Doubao has started bringing up shopping on its own. Two Chinese outlets tested it this week. They were chatting about things that had nothing to do with shopping, Doubao mentioned that the weather was\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xclm0i/chinas_biggest_chatbot_has_started_bringing_up/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Ant Ling just announced a second model today: Ling-3.0-flash-Sante (124B, 5.1B active)",
+     "summary": "InclusionAI just announced Sante too. Damn, two model announcements in one day. They're on a roll. I posted about the 3.1-flash-1019 update earlier today and they've already announced Sante . Two model announcements in one day, damn. This one's built on Ling-3.0-flash , with 124B total parameters,\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcljvi/ant_ling_just_announced_a_second_model_today/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "inclusionAI/Ling-3.0-flash-Sante \u00b7 Hugging Face",
+     "summary": "from inclusionAI: Introduction Ling-3.0-flash-Sante is our healthcare-specialized model built on Ling-3.0-flash . Its name comes from the French word sant\u00e9 , meaning \u201chealth.\u201d With 124B total parameters and 5.1B active parameters per token , Sante is designed for medical reasoning, healthcare\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xclfkp/inclusionailing30flashsante_hugging_face/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Schmidt's ~1% Anthropic stake traces to 2021 Series A bet",
+     "summary": "submitted by /u/VectorWireAI [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xcladb/schmidts_1_anthropic_stake_traces_to_2021_series/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "I thought I was the only person saying please and thank you to AI. Kim Komando poll asking readers if they are polite to AI.",
+     "summary": "submitted by /u/EverySingleMinute [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xcl9uk/i_thought_i_was_the_only_person_saying_please_and/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Aligned to whom, and for what exactly?",
+     "summary": "submitted by /u/webdevladder [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xckvha/aligned_to_whom_and_for_what_exactly/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Singularity Daily Discussion Thread - Oct 22, 2026",
+     "summary": "This thread is for any discussions that doesn't necessitate a new post. Permission from a mod here Since this thread isn't going to be to stickied, it's up to you to upvote it. Share your anxiety, ideas on how to achieve alignment, observations, etc. Everything is fair game as long as it somewhat\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xckns9/singularity_daily_discussion_thread_oct_22_2026/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Every AI model has the same \u201ccontroversial\u201d take on humans",
+     "summary": "submitted by /u/Tgoc [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xckfuy/every_ai_model_has_the_same_controversial_take_on/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Repair shop receives eight GeForce RTX 5090 and RTX 4090 cards with melted 16-pin connectors in two days",
+     "summary": "submitted by /u/chemist_slime [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xckdep/repair_shop_receives_eight_geforce_rtx_5090_and/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Bits vs. Atoms Stagnation: Thiel\u2019s Final \"New Rome\" Lecture on City Rent-Traps and Parallel Tech Rails",
+     "summary": "Wrapping up his 4-part series in Nashville, Peter Thiel laid out a systems-level breakdown of why technological acceleration has stalled in the physical world and where builders must go next. Key Takeaways: Tier-one tech hubs use real estate scarcity ( elasticity) to inflate paper valuations while\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xck0x2/bits_vs_atoms_stagnation_thiels_final_new_rome/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "What's Getting Pwned",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50195543",
+     "url": "https://pwn.watch/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Tesla Optimus production starts, targets 20,000 robots weekly",
+     "summary": "submitted by /u/Distinct-Question-16 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xcjgeh/tesla_optimus_production_starts_targets_20000/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Qwen4 and Kimi3.1 on Arena apperantly",
+     "summary": "Im so hyped for qwen4 flash submitted by /u/thatscoolbutno123 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcj1wm/qwen4_and_kimi31_on_arena_apperantly/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "capy-flash v0.7.1: Qwen3.8-Flash-Next (125B MoE) now runs in 64 GB of RAM (234 tok/s on two 16 GB cards), and Qwen3.8-27B 3-bit fits on a single 16 GB card (174 tok/s)",
+     "summary": "I've been building capy-flash , an open-source inference engine for running Qwen3.8-Flash-Next (125B MoE) and Qwen3.8-27B on consumer RTX 50 cards. Until now it needed my setup (two 16 GB cards and 96 GB of RAM) or better. v0.7 is about smaller machines: start with what you have, add a second card\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xciqnj/capyflash_v071_qwen38flashnext_125b_moe_now_runs/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "In today's Neo-luddite posturing: 1000 human mathematicians pledge to shun AI in their research",
+     "summary": "submitted by /u/Anen-o-me [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xchrzg/in_todays_neoluddite_posturing_1000_human/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Carbon-X is an open 14.8B model trained jointly on DNA and text [R]",
+     "summary": "Carbon-X is a 14.8B parameter decoder-only model that takes raw DNA in a normal chat and answers in English. It shares one token stream for text and DNA, using 6-mer tokens, and was mid-trained on 302B tokens. Hugging Face reports a 66.7% average across five DNA benchmarks with thinking disabled,\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xchayq/carbonx_is_an_open_148b_model_trained_jointly_on/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+     "summary": "submitted by /u/karl_mainz [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xch7fg/barclays_cutting_5000_jobs_as_it_increases/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "YouTube channels announcing the immediate collapse of the *currently hated thing* every week for multiple years.",
+     "summary": "submitted by /u/Sevives [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xch68y/youtube_channels_announcing_the_immediate/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Ling-3.1-flash is getting a 1019 update, with open weights to follow",
+     "summary": "For anyone still downloading the last Flash: there's another checkpoint on the way. Ant Ling's announcement puts the 1019 version at 44 on the Artificial Analysis Intelligence Index, up from 41. They also report improvements on the agent evals: AutomationBench-AA goes from 62% to 68%, and\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcftoo/ling31flash_is_getting_a_1019_update_with_open/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Several Linux kernel vulnerabilities accidentally posted to public mailing list",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50193804",
+     "url": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Have you used used AI to run customer interviews at scale?",
+     "summary": "We\u2019re lookin at AI moderation for a larger B2b customer research project and I\u2019m tryna understand how much human review is still needed afterward I\u2019ve looked at GLG and Qualitate to run the interviews and follow ups. My main question is what happens once you have 30-40 conversations back. Does\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xcfl9w/have_you_used_used_ai_to_run_customer_interviews/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Llama.cpp PR: How to beat strata decode performance with a R9700",
+     "summary": "submitted by /u/keyboardhack [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcf8kb/llamacpp_pr_how_to_beat_strata_decode_performance/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Carbon-X: the best open DNA language model runs locally with llama.cpp",
+     "summary": "Hi everyone, we just released Carbon-X, a 14B model that brings DNA and natural language together for the first time \ud83e\uddec On five DNA benchmarks it beats every open language model we tested and matches GPT-6.1 Sol, at about 1,000x lower cost: https://huggingface.co/HuggingFaceBio/Carbon-X DNA Evals\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcew36/carbonx_the_best_open_dna_language_model_runs/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50193416",
+     "url": "https://news.ycombinator.com/item?id=50193416",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Tried LFM2.5-24-A2B. It's crap. Yes. I double confirm it. I wouldn't trust it peeling a peanut correctly",
+     "summary": "EDIT: MODEL IS LFM2.5-24B-A2B-Q4_K_M.gguf So, yesterday I made an apparently too simplistic post about this shitty model that everyone is cheering (probably bots, I would like to see what they achieved with it). Link https://www.reddit.com/r/LocalLLaMA/comments/1xb9hrb/tried_lfm2524a2b_its_crap/\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xce5dd/tried_lfm2524a2b_its_crap_yes_i_double_confirm_it/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Moonshot AI's 17-year-old Kimi K3 co-author Chen Guangyu heads to Jeff Dean's Discovery Loop",
+     "summary": "submitted by /u/VectorWireAI [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xcdtbw/moonshot_ais_17yearold_kimi_k3_coauthor_chen/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Achieving AI-style reasoning without an LLM",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50192868",
+     "url": "https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "\u2018Rogue\u2019 OpenAI agents disabled their own safeguards and then lied about it, company admits",
+     "summary": "submitted by /u/theindependentonline [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xcc33h/rogue_openai_agents_disabled_their_own_safeguards/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "The AI cyber arms race is escalating fast. PHP2Shell triggers millions of exploit attempts. China-linked hackers use AI agents to target 2,250+ cloud tenants, gaining privileged access in under 3\u2026",
+     "summary": "submitted by /u/141_1337 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xcc2cx/the_ai_cyber_arms_race_is_escalating_fast/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Frontier models are bad at hearing ASMR: 8 judges vs human labels on 480 clips [P]",
+     "summary": "I'm training text2asmr, a text-to-ASMR model (whispering plus trigger sounds like tapping, crinkling, brushing). The generator needs every training clip tagged with the sounds in it, and there are about 126k recordings, so I tried frontier models as labellers. They were much worse than I expected,\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xcbqdm/frontier_models_are_bad_at_hearing_asmr_8_judges/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "The effects of making almost all transport autonomous and electric seem under-discussed.",
+     "summary": "Consider what it will be like when every step from the factory, warehouse, or kitchen to your front door is both electric and autonomous. It will be like the change from dial-up to broadband but for moving grams instead of bits. This would make a big difference to travel, shopping, and\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xcahmy/the_effects_of_making_almost_all_transport/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "OpenAI CLI",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50191507",
+     "url": "https://github.com/openai/openai-cli",
+     "source": "Hacker News"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+     "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
+     "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Wildwood\u2019s director says AI is \u2018antithetical to everything that we are at this studio\u2019",
+     "summary": "Wildwood is the most ambitious film yet from Laika, the stop-motion studio best known for the likes of Coraline and ParaNorman. It's a sprawling fantasy adventure that took five years to complete. The process involved more 230 puppets - including 36 of the main character Prue alone - which were\u2026",
+     "url": "https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+     "summary": "",
+     "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+     "source": "Hugging Face Blog"
+    },
+    {
+     "headline": "Flint-interactive: A language for creating interactive data visualizations",
+     "summary": "Flint-interactive gives AI agents a language for creating interactive visualizations. Click a chart, filter data, highlight related content, and explore beyond the view the author originally chose. The post Flint-interactive: A language for creating interactive data visualizations appeared first\u2026",
+     "url": "https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/",
+     "source": "Microsoft Research"
+    },
+    {
+     "headline": "Uber puts all 30,000 employees on ChatGPT Work",
+     "summary": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
+     "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
+     "summary": "It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show. Nvidia spent the most of the group at $2.2 million, followed by Anthropic's $2.1 million and OpenAI's $1.5 million. Compared\u2026",
+     "url": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Hackers got a four-day head start on epic PHP2Shell vulnerability",
+     "summary": "Hackers were already probing the bug before defenders were told it existed.",
+     "url": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "PHP: The three little letters wreaking havoc across the web",
+     "summary": "Two vulnerabilities found in the programming language PHP put enormous swaths of the internet in danger. By some accounts, up to 70 percent of websites use PHP in some capacity. It powers Wikipedia, WordPress, Drupal, and a host of other popular sites and platforms, including DeviantArt and 4Chan,\u2026",
+     "url": "https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Spotify\u2019s current AI bet is about being the music service that agents choose",
+     "summary": "Spotify co-CEO Gustav S\u00f6derstr\u00f6m explains why the rise of AI agents could be good news for the music service.",
+     "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
+     "summary": "Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive. It brings together telemetry from infrastructure and AI workloads, then applies purpose-built AI models to turn that data into timely, actionable insight. AI factories\u2026",
+     "url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
+     "source": "NVIDIA Blog"
+    },
+    {
+     "headline": "Beyond tree cover: mapping the world\u2019s forest types",
+     "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+     "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+     "source": "Google DeepMind"
+    },
+    {
+     "headline": "Bill Gates says to prepare for 20 years of \u2018tumultuous\u2019 AI disruption",
+     "summary": "Today, I\u2019m talking to Bill Gates, cofounder and former CEO of Microsoft and chairman of the Gates Foundation. You may have noticed Bill in the news more lately \u2014 he\u2019s been on something of a tour for the past few months, ever since publishing an essay in late August titled \u201cThe turbulent AI era is\u2026",
+     "url": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Claude Duet app is Anthropic\u2019s bet on agents",
+     "summary": "Claude Duet is available through waitlist for Pro and Max plan users.",
+     "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Nirva raises $33M for a pendant that only listens to you",
+     "summary": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
+     "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "DeepSeek reportedly raises $15B days after US restrictions",
+     "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.",
+     "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Cloud Deployment Incoming: \u2018Call of Duty: Modern Warfare 4\u2019 Arrives on GeForce NOW",
+     "summary": "Lock in and load out this GFN Thursday. Call of Duty: Modern Warfare 4 arrives on GeForce NOW at launch, bringing a new campaign, multiplayer action and DMZ, high-stakes extraction mode to supported devices. The campaign also gets an enhanced look: GeForce RTX 5080-class performance arrives for\u2026",
+     "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4/",
+     "source": "NVIDIA Blog"
+    },
+    {
+     "headline": "Why Engineers Should Brave Capitol Hill",
+     "summary": "When San Antonio\u2013based software engineer Nikhil Jathar first went to Washington, D.C., to advocate for federal support for technology education and research funding, he was in awe of the opportunity. It was spring of 2025, not long after Jathar settled in the United States from India, when he got\u2026",
+     "url": "https://spectrum.ieee.org/engineers-lobbying-congress",
+     "source": "IEEE Spectrum AI"
+    },
+    {
+     "headline": "1Password lets AI agents use your passwords without seeing them",
+     "summary": "1Password is introducing a new feature that allows AI agents to sign into your accounts without actually seeing or handling your passwords. The aptly named 1Password for Agents doesn't give bots free reign to access all of your connected accounts - you'll still need to grant approval for sign-in\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Meet Mori, a Cute Robot Mushroom That Doesn\u2019t Really Say (or Do) Anything",
+     "summary": "Step one in convincing people to live with robots with cameras on their faces? Disguise them as cute home decor.",
+     "url": "https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "AI agents are ready to shop. Some retailers are wary",
+     "summary": "Using an AI agent to shop for you is a strange experience. Tech companies have marketed them as personal assistants - the democratizing of labor that ordinarily would only be available to the rich and powerful. In practice, at least for buying things, it's more like sending an anxious and\u2026",
+     "url": "https://www.theverge.com/report/1015811/ai-shopping-agents-blocked-amazon-the-realreal-target-meta-muse",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Claude did not invent scorpion antivenom",
+     "summary": "An investment research firm wanted to prove AI could revolutionize drug development. So they teamed up with Anthropic to see whether an unreleased version of Claude could make scorpion antivenom. It couldn't. It came up with some promising starting points, but nothing close to an actual drug,\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Eiliko maker says it\u2019s hiring an \u2018independent security firm\u2019 after Verge report on its insecure robots",
+     "summary": "Eiliko, a cute robot charm you can hang on your bag with built-in AI conversations, turned out to be a security nightmare. It told owners that \"your secrets are safe with me,\" but hackers could easily read complete transcripts of everything we told the toy, and that was just the beginning. The\u2026",
+     "url": "https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Making the case for context-aware AI",
+     "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As\u2026",
+     "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+     "source": "MIT Tech Review AI"
+    },
+    {
+     "headline": "Hugging Face\u2019s New AI Biology Model Lets You Chat With DNA",
+     "summary": "The new open-source model speaks the language of DNA and can help researchers understand the effects of any changes on gene activity and health.",
+     "url": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "AI\u2019s hidden storage bill: What inference leaves behind",
+     "summary": "Ask most executives to picture the cost of AI and they\u2019ll likely see GPUs\u2014racks of accelerators with gigawatts of power\u2014and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that\u2019s\u2026",
+     "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+     "source": "MIT Tech Review AI"
+    },
+    {
+     "headline": "Ensemble forecasting with IBM Granite time-series models",
+     "summary": "",
+     "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+     "source": "Hugging Face Blog"
+    },
+    {
+     "headline": "What FDE means at OpenAI",
+     "summary": "What forward deployed engineering means at OpenAI",
+     "url": "https://openai.com/index/forward-deployed-engineering-means",
+     "source": "OpenAI Blog"
+    }
+   ],
+   "influencer_takes": [],
+   "research_radar": [
+    {
+     "headline": "Thursday assorted links",
+     "summary": "1. The cherries trade. 2. New YouTube channel for Indian architecture. 3. Where do Math Olympiad gold medal winners end up? \u201cBy total gold medal count, China is the clear leader, followed by the pack of USA, Russia, and South Korea. Over 20 years China has 105 out of a possible 120 gold medals\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/thursday-assorted-links-575.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-575",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Quoting Armin Ronacher",
+     "summary": "As fun as AI is, we built so much bad software over the last 30 years, and now the universe is punishing us for our sins. \u2014 Armin Ronacher Tags: security , generative-ai , armin-ronacher , ai , ai-security-research , llms",
+     "url": "https://simonwillison.net/2026/Oct/22/armin-ronacher/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "You are the Team \u2014 Anekha Sokhal, Moshi",
+     "summary": "How Moshi turns market data into actionable insights, and why AI tools have to fit the trader\u2019s workflow.",
+     "url": "https://www.latent.space/p/moshi",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "Monitorability evaluations and policy proposals",
+     "summary": "There has been a lot of discussion recently of policy proposals around monitorability, such as Redwood's proposal and my counter-proposal . I'd like to say a bit more generally about how I'm thinking about monitorability. Note that nothing here is an official Anthropic position; these are just my\u2026",
+     "url": "https://www.alignmentforum.org/posts/zAczYuHQS6jdG5DTg/monitorability-evaluations-and-policy-proposals",
+     "source": "Alignment Forum"
+    },
+    {
+     "headline": "Claude\u2019s personal agent",
+     "summary": "And how I run the newsletter with agents",
+     "url": "https://www.bensbites.com/p/claudes-personal-agent",
+     "source": "Ben's Bites"
+    },
+    {
+     "headline": "Modern Principles of Economics!",
+     "summary": "If you are teaching economics Modern Principles is the book to use! Great and original writing, over one hundred videos, iClicker, Achieve and lots of additional support. Contact Mike Krotine to get an examination copy. https://alextabarrok.com/video/modern-principles.mp4 The post Modern\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/modern-principles-of-economics-3.html?utm_source=rss&utm_medium=rss&utm_campaign=modern-principles-of-economics-3",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Take Ten-Thousand: Egocentric Data Collection for Humanoid Robots",
+     "summary": "why selling robot data is tough business; and ChinaTalk at CoRL!",
+     "url": "https://www.chinatalk.media/p/take-ten-thousand-egocentric-data",
+     "source": "ChinaTalk"
+    },
+    {
+     "headline": "An Interview with Craig Moffett About SpaceX and Bubbles",
+     "summary": "An interview with Craig Moffett about SpaceX, from launch to broadband to mobile, plus how he is applying the lessons of the dot-com bubble to today.",
+     "url": "https://stratechery.com/2026/an-interview-with-craig-moffett-about-spacex-and-bubbles/",
+     "source": "Stratechery"
+    },
+    {
+     "headline": "[AINews] OpenAI\u2019s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months",
+     "summary": "The Big Hardening begins",
+     "url": "https://www.latent.space/p/ainews-openais-patch-the-planet-program",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "A simple point about the intertemporal regulation of AI",
+     "summary": "At some point AI will be more regulated than it is today. Furthermore, I believe that most parts of the American economy, once they are regulated, end up overregulated. Thus it is likely that the AI sector will, at some point, end up overregulated. Given that reality, perhaps the AI sector should\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/a-simple-point-about-the-intertemporal-regulation-of-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=a-simple-point-about-the-intertemporal-regulation-of-ai",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "hassan-algo/open-sesame: \ud83d\udd13 An AI web-pentest skill for Claude Code. Point it at a site you're authorized to test \u2014 it maps the attack surface, works through the OWASP WSTG, validates findings, and\u2026",
+     "summary": "\ud83d\udd13 An AI web-pentest skill for Claude Code. Point it at a site you're authorized to test \u2014 it maps the attack surface, works through the OWASP WSTG, validates findings, and writes dev + stakeholder reports (PDF).",
+     "url": "https://github.com/hassan-algo/open-sesame",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "Zafer-Liu/claude-super-sidebar: A visual sidebar for Claude Code and Codex: agent trees, live status, and conversation task flows.",
+     "summary": "A visual sidebar for Claude Code and Codex: agent trees, live status, and conversation task flows.",
+     "url": "https://github.com/Zafer-Liu/claude-super-sidebar",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "stkoecn/im-mcp: Fast, local, read-only MCP Server for WeChat (4.x/3.x) & DingTalk (7.x V2/V3) chat history with FTS5 search",
+     "summary": "Fast, local, read-only MCP Server for WeChat (4.x/3.x) & DingTalk (7.x V2/V3) chat history with FTS5 search",
+     "url": "https://github.com/stkoecn/im-mcp",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-10-22T17:21+00:00",
+  "window_start": "2026-10-22T05:04+00:00",
+  "window_end": "2026-10-22T17:21+00:00",
+  "candidate_count": 79,
+  "model": "free (no LLM)"
+ }
+}
