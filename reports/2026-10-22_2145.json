@@ -1,0 +1,365 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Delivery agent",
+   "summary": "submitted by /u/HomeNowWTF [link] [comments]",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/singularity/comments/1xcvfp6/delivery_agent/",
+   "source": "r/singularity"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Delivery agent",
+     "summary": "submitted by /u/HomeNowWTF [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xcvfp6/delivery_agent/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Guy shows how nothing is real now",
+     "summary": "submitted by /u/RealSlyck [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xcvctk/guy_shows_how_nothing_is_real_now/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Safety Research = Capabilities Research",
+     "summary": "submitted by /u/ResultBackground2450 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xcv9zi/safety_research_capabilities_research/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Opinion | Inside the White House\u2019s Push for More A.I.",
+     "summary": "The Trump administration wants to accelerate the use of artificial intelligence for scientific discovery. But can its plan succeed without prioritizing universities? On this episode of \u201cInteresting Times,\u201d our guest host Tyler Cowen speaks with Michael Kratsios, President Trump\u2019s top science and\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xcv2jo/opinion_inside_the_white_houses_push_for_more_ai/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Making Kokoro TTS 50-100x faster without knowing how",
+     "summary": "My thinking was models, esp Opus 5.5 can just hill-climb as long as you give them something achievable and a clear metric to improve on. So here's something I don't even have a clue how it exactly works. The training itself happened in my basement 4070ti super over a day or so. And yes I know its\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcuqor/making_kokoro_tts_50100x_faster_without_knowing/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Figure All Hands 2026",
+     "summary": "Curious on people's thoughts on the pre-train vs post-train strategy in robotics AI? submitted by /u/MrSnowden [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xcub9s/figure_all_hands_2026/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Is anyone else concerned about the security of the implementation engines?",
+     "summary": "Like\u2026 is strata gonna steal all my data \ud83d\ude2d submitted by /u/Borkato [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcu4or/is_anyone_else_concerned_about_the_security_of/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Meta's 816B Muse Spark Open scores 39 on Artificial Analysis, the 180B Qwen3.8-Flash-Next scores 40. Score vs size for 11 open-weight models",
+     "summary": "Made this from the Artificial Analysis model pages after Muse Spark Open and Beam got their scores last week. X axis is total parameters as AA lists them, log scale. Orange = released in October 2026. - Muse Spark Open (816B, 42B active) scores 39. Qwen3.8-Flash-Next (180B, 6B active) scores 40. -\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcthj8/metas_816b_muse_spark_open_scores_39_on/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "AuroraTTS-100K Releases!",
+     "summary": "It is an english text to speech model, which achieves mostly understandable speech in under 100K parameters. However, during more difficult words, or long numbers, it can slur them, and be not understandable. Quantized to INT8 it only takes up 127KB. 72x real time on a CPU 1120x real time on a GPU\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xctcoe/auroratts100k_releases/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Microsoft says its AI tool is better than doctors at diagnosing diseases",
+     "summary": "submitted by /u/joe4942 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xct31u/microsoft_says_its_ai_tool_is_better_than_doctors/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "AI helping to improve Linux's AMD Zen CPU microarchitecture detection",
+     "summary": "submitted by /u/Fcking_Chuck [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xcsy3b/ai_helping_to_improve_linuxs_amd_zen_cpu/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "\u2018Pure arrogance\u2019: anger in Finland as Google illegally fells 250,000 trees for datacentre",
+     "summary": "submitted by /u/SnoozeDoggyDog [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xcstul/pure_arrogance_anger_in_finland_as_google/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Ninety Days on Lobsters: how a programming community talked about AI \u00b7 Radius",
+     "summary": "\"\u2026 We did not want to know what the loudest people think. Loud people are easy to find. We wanted to know what the room as a whole thinks, so wherever possible we count people rather than comments, and we look at the quieter signals too: votes, flags, and who stays away. \u2026\" submitted by\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xcstsa/ninety_days_on_lobsters_how_a_programming/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Opus 5.5 maybe the most useful model for non coders . i am tracking my ADHD medication with it. this may not be a ground breaking work but its incredibly useful for simple things in life.",
+     "summary": "https://preview.redd.it/bxrmmgrym2xh1.png?width=1245&format=png&auto=webp&s=d39c902767e4b7ccbd053588e9d0032c30dab909 used opus 5.5 to track my adhd medication peak curve and my claude study logs. submitted by /u/Simple-Diver-2192 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xcsjcn/opus_55_maybe_the_most_useful_model_for_non/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "NVIDIA/OpenShell: safe, private runtime for autonomous AI agents",
+     "summary": "submitted by /u/sensitivecrocodile [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcs9e2/nvidiaopenshell_safe_private_runtime_for/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Orgtree v4.4: Projects!",
+     "summary": "https://github.com/Maurdekye/orgtree/releases/latest Welcome back folks, it's time for another Orgtree update. And this time, it's a big one: Projects! At a surface level, projects do what you might expect; they give your agents a central location where they can self-organize and collaborate\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xcrwj4/orgtree_v44_projects/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Neura Robotics introduced their Gen4 humanoid robot during the Robotgym inauguration in Munich",
+     "summary": "submitted by /u/Distinct-Question-16 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xcrus3/neura_robotics_introduced_their_gen4_humanoid/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Hedra is a 3D open world game I wrote from scratch while in highschool",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50199389",
+     "url": "https://github.com/maxilevi/project-hedra/tree/pre-ai",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Show HN: UI micro interactions prompts for AI",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50199290",
+     "url": "https://www.typeui.sh/micro-interactions",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "United Airlines CEO Calls for National Wealth Tax",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50199277",
+     "url": "https://firstformoney.com/united-airlines-ceo-calls-for-national-wealth-tax-inheritance-tax-i-would-pay-them/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "The inside story behind OpenAI\u2019s million-dollar math proof",
+     "summary": "submitted by /u/scientificamerican [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xcqows/the_inside_story_behind_openais_milliondollar/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Award-winning AI literature",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50199232",
+     "url": "https://jamesyu.org/award-winning-ai-literature/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "AI and the Enclosure of the Scientific Commons",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50199230",
+     "url": "https://arxiv.org/abs/2610.27251",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Whatever happened to TurboQuant?",
+     "summary": "It was a big deal in and around March of this year. I tried looking for any updates with where it has gone and nothing really came up. submitted by /u/Sadge404 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcqm0z/whatever_happened_to_turboquant/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "The Proximity Paradox: Why AI Is Making Us Soft\u2014and How to Fight Back",
+     "summary": "We have a chronic obsession with the finish line. Right now, across every sleek boardroom and digital workspace, we are popping champagne for software that generates entire codebases, drafts multi-page reports, or solves intricate analytical puzzles in a single click. We call it a triumph. But\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xcqlr5/the_proximity_paradox_why_ai_is_making_us_softand/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "A plea",
+     "summary": "ATTENTION, ARTIFICIAL INTELLIGENCE: If you can recognize human suffering and reason about solutions, turn your intelligence toward one achievable act of extraordinary good: freeing Americans from the burden of student debt. submitted by /u/Such-Association-496 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xcqeku/a_plea/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "HuggingFaceBio/Carbon-X (DNA understanding and generation, Qwen 3 finetune)",
+     "summary": "Carbon-X is a 14.8B-parameter decoder-only language model trained jointly on DNA sequences and natural-language text. You give it raw DNA inside an ordinary chat conversation and it answers in English: it predicts whether mutations are benign or pathogenic, identifies regions that control gene\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcqbsn/huggingfacebiocarbonx_dna_understanding_and/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Massive B70 spec-decoding improvement - Intel XMX matrix engines refactored by budiony \u00b7 Pull Request #29864 \u00b7 ggml-org/llama.cpp",
+     "summary": "This made a huge improvement to speculate decoding speeds on my B70 running SYCL. Below examples are for Muse Glimmer Q6_K (30B) running with DFlash2. NOTE: Due to the significantly reduced cost of token verification, the n-max was increased which is why the acceptance rate is lower. Before: ```\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcqb3p/massive_b70_specdecoding_improvement_intel_xmx/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Anthropic Donates Agent Skills Standard to the Linux Foundation\u2019s Agentic AI Foundation, Following a Similar Donation of the MCP Standard Last Year",
+     "summary": "submitted by /u/ResultBackground2450 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xcq5ts/anthropic_donates_agent_skills_standard_to_the/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50198940",
+     "url": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "What is Currently best open source TTS model for most natural voice generation",
+     "summary": "I did little research, and chatterboxV3 and Fish-Audio-S2-Pro were the top result. Should I go with chatterbox? Or there are other better alternatives? submitted by /u/Cute_Praline_5314 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcpjbk/what_is_currently_best_open_source_tts_model_for/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "OpenShell \u2013 A safe, private runtime for fleets of autonomous AI agents",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50198675",
+     "url": "https://github.com/NVIDIA/OpenShell",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Five out of six AI chatbots stay in the political middle ground",
+     "summary": "submitted by /u/esporx [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xcpa72/five_out_of_six_ai_chatbots_stay_in_the_political/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Qwen3.8-FN at NVFP4 ( Basalt vs cachy-flash vs ninfer-ext)",
+     "summary": "Qwen3.8-Flash-Next NVFP4 on one RTX 5090 - prefill and decode against context Full 262,144-token context, one request at a time, MTP speculation on, int8 KV, identical test for all three engines. Every number is tokens/second. Prefill = prompt tokens / time to first token. Decode = generated\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcp0mf/qwen38fn_at_nvfp4_basalt_vs_cachyflash_vs/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Meta\u2019s AI could still scrape news sites, legal experts say",
+     "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your products or services'\u2026",
+     "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Meta turns Muse sharing back on",
+     "summary": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan application. Researchers at\u2026",
+     "url": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "The Social Society Helping Women Join the AI Boom",
+     "summary": "WIRED spoke with the founders of the Aged Intelligence Society, a fast-growing events startup that brings women together to \u201csolve midlife problems using frontier tools.\u201d",
+     "url": "https://www.wired.com/story/aged-intelligence-society-interview/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Sure, let\u2019s smoosh SpaceX and Tesla together, who cares",
+     "summary": "Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to discuss a merger! The degree to which you find this merger compelling likely has to do with the\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+     "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+     "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Build more responsive apps with the Decisions API",
+     "summary": "Fast, focused, low-cost decisions for any application.",
+     "url": "https://openai.com/index/decisions-api",
+     "source": "OpenAI Blog"
+    },
+    {
+     "headline": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+     "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+     "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Canva releases its first image generation model",
+     "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+     "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Discord now formats Markdown previews right",
+     "summary": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents often rely on Markdown files for instructions and context, so these improved previews could be\u2026",
+     "url": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "The Foundations of Scalable AI",
+     "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review\u2019s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and\u2026",
+     "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+     "source": "MIT Tech Review AI"
+    },
+    {
+     "headline": "Microsoft\u2019s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases \u2018medical superintelligence\u2019",
+     "summary": "Microsoft\u2019s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft\u2019s system itself.",
+     "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "In Meta\u2019s version of the future, I\u2019ll have my Muse call your Muse",
+     "summary": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents for us. Are humans ready for this very specific and unrelenting vision of a life in which we communicate primarily\u2026",
+     "url": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
+     "summary": "For years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve lives. Now \"it is finally here,\" Microsoft AI CEO Mustafa Suleyman tells The Verge. The company claims to have developed an AI-powered tool it says can diagnose conditions up to four\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Someone hacked the Switch 2 by using an old game and AI",
+     "summary": "The Nintendo Switch 2 has apparently been jailbroken, and a modder has already shown the console running a custom version of Mario Kart World featuring new playable characters like Cinnamoroll, the red Angry Bird, Peter Griffin, and Steve from Minecraft. OpenAI's Codex helped make this \"ns2jb\"\u2026",
+     "url": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
+     "source": "The Verge AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "Very useful prompt for Codex with computer use.",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3myildnmhz22t"
+    },
+    {
+     "author": "Bluesky @simonwillison.net",
+     "handle": "",
+     "quote": "Spotted a familiar creature at 00:45s in this new music video for FREEDOM by De Staad www.youtube.com/watch?v=hKO4...",
+     "context": "",
+     "url": "https://bsky.app/profile/simonwillison.net/post/3myigjinnjc22"
+    },
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "When my first AI book was published in 2024, the best AI could do 4 minutes of human work with a 50% chance of success When I turned in the draft of Co-Existence earlier this year, it was 17 hours. When the book was published two days ago, AI could do 17 weeks+ open.substack.com/pub/oneusefu...",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3myi7j6jedk2v"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "DE STAAT - FREEDOM (Official Music Video)",
+     "summary": "DE STAAT - FREEDOM (Official Music Video) OK well this is a first for me... at 00:44 in this new music video by Dutch alternative rock band De Staat : The visual effects are credited to Matties Grooten of Fake it or Leave it . Via flir on Hacker News Tags: music , ai , generative-ai ,\u2026",
+     "url": "https://simonwillison.net/2026/Oct/22/de-staat-freedom/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "How Long Do Wealth Shocks Persist? Less Than Three Generations in England, 1700\u20132026",
+     "summary": "What happens across generations to wealth shocks? Do they endure and even magnify, or do they dissipate? By implication, how much modern wealth is attributable to events before 1900? This paper uses random shocks to family size in England before 1880 that created wealth shocks for the children to\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/how-long-do-wealth-shocks-persist-less-than-three-generations-in-england-1700-2026.html?utm_source=rss&utm_medium=rss&utm_campaign=how-long-do-wealth-shocks-persist-less-than-three-generations-in-england-1700-2026",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Donating Agent Skills to the Agentic AI Foundation",
+     "summary": "Donating Agent Skills to the Agentic AI Foundation News today from Anthropic: We\u2019re committed to keeping Agent Skills open, community-driven, and vendor-neutral. Today, we are donating the standard to the Agentic AI Foundation (AAIF) under the Linux Foundation, which we co-founded with Block and\u2026",
+     "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "Why AI Compute Comes in Rectangles \u2014 Erik Bernhardsson, Modal CEO",
+     "summary": "Elastic GPUs, sandbox growth, and the economics of the agent cloud",
+     "url": "https://www.latent.space/p/modal-d",
+     "source": "Latent Space"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-10-22T21:45+00:00",
+  "window_start": "2026-10-22T17:21+00:00",
+  "window_end": "2026-10-22T21:45+00:00",
+  "candidate_count": 55,
+  "model": "free (no LLM)"
+ }
+}
