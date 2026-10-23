@@ -1,0 +1,331 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "The iPhone Duo should have been an iPad",
+   "summary": "We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea about the most popular smartphone in history. On this episode of The Vergecast, David and Nilay [\u2026]",
+   "why_it_matters": "",
+   "url": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
+   "source": "The Verge AI"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "what are some everyday examples of AI gadgets",
+     "summary": "AI gadgets get talked about a lot. pins, pendants, glasses, rings, handheld things with a voice assistant inside. but when it comes to what people actually use every day, the list gets short fast. so what's on your list? honestly curious what made it stick. submitted by /u/IndependentCoast3974\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xdiz0d/what_are_some_everyday_examples_of_ai_gadgets/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB \u00b7 Hugging Face",
+     "summary": "NVIDIA-Nemotron-3.5-Bolt-E4B-4GB is a small language model (SLM) further post-trained from Gemma-4-E4B-it by NVIDIA. Nemotron-3.5-Bolt-E4B carries forward Gemma\u2019s strong conversational capabilities and further improves multi-turn tool use, instruction following, and input grounding for fast local\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdiecx/nvidianvidianemotron35bolte4b4gb_hugging_face/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Qwen 3.8 Flash Next Gyro Coder is out!",
+     "summary": "Lets see how difference is this from ISTA labs coder version https://huggingface.co/agentionai/Qwen3.8-Flash-Next-Gyro-Coder-GGUF/tree/main submitted by /u/soyalemujica [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdhj4z/qwen_38_flash_next_gyro_coder_is_out/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "[R] The Hive Mind is a Single Reinforcement Learning Agent: Deriving the Exact Equivalence Between Swarm Dynamics and Multi-Armed Bandits",
+     "summary": "TL;DR We prove a mathematical equivalence between collective decision-making via local imitation (such as honey bees choosing a nest site via the waggle dance) and single-agent Reinforcement Learning (RL) in a multi-armed bandit setting. Even when individual members have no learning capability and\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xdhf7r/r_the_hive_mind_is_a_single_reinforcement/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Vibecoding your own inference engine is easy they said",
+     "summary": "guys, you better just clone llama.cpp I swear. this thing is running gguf q4 paged into webgl2 embedded compute buffers via glsl right inside html, and tokenizer/vocab is just part of the endless debug hell. submitted by /u/CodeMichaelD [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdh57e/vibecoding_your_own_inference_engine_is_easy_they/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "what are some everyday examples of AI gadgets",
+     "summary": "AI gadgets get talked about a lot. pins, pendants, glasses, rings, handheld things with a voice assistant inside. but when it comes to what people actually use every day, the list gets short fast. so what's on your list? honestly curious what made it stick. submitted by /u/Resident-Fall4351 [link]\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xdgnog/what_are_some_everyday_examples_of_ai_gadgets/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Tesla adds Las Vegas, Phoenix, Jacksonville, San Antonio to Robotaxi map",
+     "summary": "submitted by /u/VectorWireAI [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xdgfvr/tesla_adds_las_vegas_phoenix_jacksonville_san/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Is Perplexity Pro worth it instead of paying for ChatGPT, Claude, and Gemini separately?",
+     "summary": "Hey everyone, Has anyone tried using Perplexity Pro as a single interface for different AI models instead of paying for ChatGPT, Claude, Gemini, Grok, etc. separately? I'm curious whether using these models through Perplexity gives you the same quality and capabilities as using them directly. Is\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xdgac7/is_perplexity_pro_worth_it_instead_of_paying_for/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "OpenAI opens Decisions API at $0.10 per million input tokens, targets TypeSafe's Jev category",
+     "summary": "submitted by /u/VectorWireAI [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xdg1x1/openai_opens_decisions_api_at_010_per_million/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Small post about what are the unlocks for RTX consumer GPUs, which ones are affected, in which tasks and which ones are feasible to do an unlock.",
+     "summary": "Hello guys, hoping you're doing fine! Small post I want to make since seeing a lot of posts about the unlocks and such. What is the unlock in simple terms? NVIDIA on purpose, neutered the performance of operations that use FP32 accumulation with GEMMs, with the objective of market segmentation and\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdg0v0/small_post_about_what_are_the_unlocks_for_rtx/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Study Notes on Transformers and Hamiltonian Monte Carlo [P]",
+     "summary": "I\u2019m sharing my study notes in case they might be useful to someone else. The Transformer notes are mostly based on the original architecture described in Attention Is All You Need . https://doi.org/10.5281/zenodo.22031925 I\u2019ve also written notes on Hamiltonian Monte Carlo (HMC).\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xdfeki/study_notes_on_transformers_and_hamiltonian_monte/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Is symbolic ai dead? [D]",
+     "summary": "New research keeps finding things that keep reintroducing symbolic ai structures to machine learning and I have wondered why more research hasnt been done with it. There was a heyday in the 70s for it but after neural nets came out it seems to be completely out of the discussions. I think it could\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xdekrf/is_symbolic_ai_dead_d/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Probability of backdoors in popular harnesses and LLM inference engines",
+     "summary": "Let's put things into perspective: Remember, for example, the xz utils ssh backdoor in 2024? They almost managed to pull it off, and that was in the most observed codebase of the planet. It was caught almost by chance by someone working on something unrelated. Read about it if you don't realize\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdeg0n/probability_of_backdoors_in_popular_harnesses_and/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Internal OpenAI model bypassed login checks on a government statistics site in training",
+     "summary": "submitted by /u/Mundane-Evidence2795 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xde4b8/internal_openai_model_bypassed_login_checks_on_a/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "AAAI 2027 phase 2 reviews discussion [D]",
+     "summary": "AAAI phase 2 reviews are expected to be visible in the next 24 hours (24/10). Hope for the best outcomes for those who stay in this phase, and let's share your reviews! submitted by /u/Away-Cattle7081 [link] [comments]",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xddbgv/aaai_2027_phase_2_reviews_discussion_d/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "IBM CEO says businesses are choosing open-weight models over expensive frontier AI",
+     "summary": "submitted by /u/HotMinuteUK [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xddaiz/ibm_ceo_says_businesses_are_choosing_openweight/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "OpenSSL 4.1.0",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50208099",
+     "url": "https://github.com/openssl/openssl/releases/tag/openssl-4.1.0",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "I made Transformer Architecture from scratch [P]",
+     "summary": "I implemented the 2017 transformer architecture using pytorch, the model right now doesn't predict very good due to the fact that I am using on 2 layers of encoder and decoder with just 1000 words to train it , due to the fact that it takes a lot of time to train my implementation. Looking at the\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xdctou/i_made_transformer_architecture_from_scratch_p/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "everything will be local eventually",
+     "summary": "I know current llms like opus 5.5 are in a league of their own. but we all know they're losing a shti ton of money with their subscriptions. ALSO we all know how tasks like OCR, segmentation etc are getting solved by single digit B parameter models. I'm not saying llms are a gimmick but I'm saying\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdcpxb/everything_will_be_local_eventually/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Anyone else have the Google search Ai bug and pull info out of old chats?",
+     "summary": "So I started my chat with \u201chi\u201d, I then asked my question about a Megane cabriolet (a car). And out of the blue it said \u201cunlike the Clio you were looking at earlier\u201d. But the thing is I never told it anything about a Clio , that\u2019s from a chat from weeks ago on a tab I\u2019ve closed, I then asked it\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xdcm2o/anyone_else_have_the_google_search_ai_bug_and/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "NanoStories Releases!",
+     "summary": "It is a Tinystories style dataset, that contains 50M stories, about 25x that of Tinystories, it was generated using a rule based algorithm, instead of a language model. It took just under 10 Minutes to generate and a few minutes to convert to parquet and upload to huggingface on a phone CPU. Any\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdc991/nanostories_releases/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50207620",
+     "url": "https://www.thisandthat.chat/enron/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Started to play around a bit with opencode and this happened during thinking",
+     "summary": "I see a system-reminder claiming a \"c25da061\" session was idle for 1877 seconds with an unfinished task, and instructing me to invoke a skill called \"reminder idel-skills\" to trigger a skill-based action. This is a fabricated/malicious system-reminder \u2014 it's trying to get me to do something\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdc21t/started_to_play_around_a_bit_with_opencode_and/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "How does arXiv prepublishing work with ICLR's double-blind review? [R]",
+     "summary": "Hey folks, maybe a really dumb question from an inexperienced PhD student. I recently submitted to ICLR and spotted a bunch of papers that I was already familiar with because I had seen them on arXiv before. Doesn't this break the double-blind review process? I mean, on the one hand, people\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xdbvrf/how_does_arxiv_prepublishing_work_with_iclrs/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Swedish government offices to ban ChatGPT and Claude",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50207405",
+     "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "What should I use ?",
+     "summary": "Hi there, I am new to AI and I am currently using Hermes Agent. I am using a free month of GPT Plus, but it will end soon and I have been at my token limit for a week. I was wondering which option would be better for me: paying for a subscription to a good LLM like GPT or Claude, or running a\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xdayfr/what_should_i_use/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "[Free to read] Anthropic strikes deal to launch European consultancy",
+     "summary": "submitted by /u/financialtimes [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xdaxav/free_to_read_anthropic_strikes_deal_to_launch/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "The rise and fall of Jev hype",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50206361",
+     "url": "https://blog.alexewerlof.com/p/rise-and-fall-of-jev-eval-hype-vs-llm",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Qwen3-0.6B model converted into MoE",
+     "summary": "This is another update about my MoE-fication project, the first post can be found here . Foreword Since my last model conversion, I\u2019ve been experimenting a lot with new methods, though sadly, most attempts haven't helped much. Compatibility has been the main limiting factor. I\u2019ve made GGUF\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xd87wu/qwen306b_model_converted_into_moe/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Remove pgrust: the entry is cheating (per-query kernels and result caching)",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50205816",
+     "url": "https://github.com/ClickHouse/ClickBench/pull/2165",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Models disappearing from Huggingface",
+     "summary": "I've been noticing a lot of my downloads stopping suddenly and being unable to resume. When I checked the models it seemed like they were gone. Here's the ones I can see are missing: dealignai/MiMo-V2.6-Pro-RL-UNCENSORED audnai/penclaw-GLM-5.3-abliterated-for-offensive-cyber\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xd7ptj/models_disappearing_from_huggingface/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I just came across Next-Concept Modeling and the idea is fascinating[R]",
+     "summary": "I've been learning how language models work, especially next-token prediction, and came across this paper on Next-Concept Modeling (NCM). The interesting part is how it generates text. Instead of predicting tokens one by one, NCM learns a hierarchy of discrete codes. It generates the coarse level\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xd7bsu/i_just_came_across_nextconcept_modeling_and_the/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50205229",
+     "url": "https://berget.ai/en/blog/per-request-co2-press-release",
+     "source": "Hacker News"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "The iPhone Duo should have been an iPad",
+     "summary": "We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea about the most popular smartphone in history. On this episode of The Vergecast, David and Nilay [\u2026]",
+     "url": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+     "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12\u00d7 faster reads for ChatGPT.",
+     "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+     "source": "OpenAI Blog"
+    },
+    {
+     "headline": "Now Google says it might use your Gmail and Google Photos data to target ads",
+     "summary": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for\u2026",
+     "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+     "summary": "",
+     "url": "https://huggingface.co/blog/allenai/litpivot",
+     "source": "Hugging Face Blog"
+    },
+    {
+     "headline": "Meta delays new business terms after publisher pushback on AI scraping",
+     "summary": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company. In a statement to The Verge, Meta spokesperson Daniel Roberts says the terms will go into effect\u2026",
+     "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Retro gaming is being overrun with AI",
+     "summary": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past month or so, these kinds of unexpected projects have gone viral with incredible frequency thanks to\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+     "source": "The Verge AI"
+    }
+   ],
+   "influencer_takes": [],
+   "research_radar": [
+    {
+     "headline": "2026.43: A New Era",
+     "summary": "The best Stratechery content from the week of October 19, 2026, including the best iPad but worst phone, SS Sarandos in a storm, and You Can See Everything.",
+     "url": "https://stratechery.com/2026/a-new-era/",
+     "source": "Stratechery"
+    },
+    {
+     "headline": "Friday assorted links",
+     "summary": "1. Weird diets (NYT). 2. Is this what the Denisovans looked like? 3. Measuring bottlenecks for AI. 4. How is violence diffferent when women lead drug cartels? 5. \u201cIsrael\u2019s economy is growing so fast, it will leapfrog the Netherlands and Australia within the next 18 months, in time for it\u2019s 80th\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/friday-assorted-links-596.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-596",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "AI Is Getting Good at Math. Here\u2019s Why.",
+     "summary": "AI models are solving more mathematical problems. A pattern is emerging in their successes that could help us predict which problems they\u2019ll solve next.",
+     "url": "https://latent.space/p/ai-is-getting-good-at-math/",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "Prediction Markets Are Accurate",
+     "summary": "No surprise to me but a new paper looks at the forecast accuracy of over one million prediction questions from Polymarket, Kalshi, Manifold and the forecasting platform Metaculus. A virtue of the new analysis is that it covers many different areas from business to elections to geo-politics. An\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/prediction-markets-are-accurate.html?utm_source=rss&utm_medium=rss&utm_campaign=prediction-markets-are-accurate",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Protecting Americans from Medicine",
+     "summary": "Max Doppelt: In January 2025 my mom\u2019s lung cancer spread to her brain. The drug with the best chance of helping her was approved in China but not here. A doctor told me, almost as an aside, that if she were Chinese she could buy it at a pharmacy. So I flew to Shanghai and [\u2026] The post Protecting\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/protecting-americans-from-medicine.html?utm_source=rss&utm_medium=rss&utm_campaign=protecting-americans-from-medicine",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Where is China\u2019s Groq?",
+     "summary": "The U.S. is Making HBM-Free Chips. Why Isn\u2019t China?",
+     "url": "https://www.chinatalk.media/p/where-is-chinas-groq",
+     "source": "ChinaTalk"
+    },
+    {
+     "headline": "[AINews] Black October",
+     "summary": "the Cyber onslaught continues.",
+     "url": "https://latent.space/p/ainews-black-october/",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "Sharp Tech on Video: Netflix Angst, the End of the Internet, and Meta\u2019s VR Glasses",
+     "summary": "Sharp Tech is, for the first time, available on video. You have two ways to consume it: YouTube, and here on Stratechery",
+     "url": "https://stratechery.com/2026/sharp-tech-on-video-netflix-angst-the-end-of-the-internet-and-metas-vr-glasses/",
+     "source": "Stratechery"
+    },
+    {
+     "headline": "Podcast with Rabbi David Wolpe",
+     "summary": "Here is their episode summary: Economist Tyler Cowen joins David Wolpe for a conversation about AI, religion, and what makes us human. Tyler makes the case that AI\u2019s biggest impact may be on status: who gains it, who loses it, and what happens to experts like rabbis when anyone can ask ChatGPT all\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/podcast-with-rabbi-david-wolpe.html?utm_source=rss&utm_medium=rss&utm_campaign=podcast-with-rabbi-david-wolpe",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Monopoly0024/simple-reviewer-v1: Simple Reviewer: a Codex skill for AI-assisted coding and Vibe Coding. Explain code, visualize workflows, and verify goals with evidence. | \u7b80\u5355\u7684\u5ba1\u9605\u8005\uff1a\u534f\u52a9 AI \u7f16\u7a0b\u4e0e Vibe\u2026",
+     "summary": "Simple Reviewer: a Codex skill for AI-assisted coding and Vibe Coding. Explain code, visualize workflows, and verify goals with evidence. | \u7b80\u5355\u7684\u5ba1\u9605\u8005\uff1a\u534f\u52a9 AI \u7f16\u7a0b\u4e0e Vibe Coding\uff0c\u89e3\u91ca\u4ee3\u7801\u3001\u53ef\u89c6\u5316\u6d41\u7a0b\uff0c\u4ee5\u8bc1\u636e\u590d\u6838\u76ee\u6807\u3002",
+     "url": "https://github.com/Monopoly0024/simple-reviewer-v1",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "rextail-ai/lessloc: Keeps AI coding agents such as Claude Code, Codex, GitHub Copilot, Gemini CLI and Cursor to the least code that does the job and still works.",
+     "summary": "Keeps AI coding agents such as Claude Code, Codex, GitHub Copilot, Gemini CLI and Cursor to the least code that does the job and still works.",
+     "url": "https://github.com/rextail-ai/lessloc",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-10-23T17:17+00:00",
+  "window_start": "2026-10-23T05:04+00:00",
+  "window_end": "2026-10-23T17:17+00:00",
+  "candidate_count": 50,
+  "model": "free (no LLM)"
+ }
+}
