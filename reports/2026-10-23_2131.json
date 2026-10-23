@@ -1,0 +1,240 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Kimi K3.1 is on AA now! Here's how it ranks against the frontier!",
+   "summary": "submitted by /u/Tall_Abrocoma_3533 [link] [comments]",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdqclk/kimi_k31_is_on_aa_now_heres_how_it_ranks_against/",
+   "source": "r/LocalLLaMA"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Kimi K3.1 is on AA now! Here's how it ranks against the frontier!",
+     "summary": "submitted by /u/Tall_Abrocoma_3533 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdqclk/kimi_k31_is_on_aa_now_heres_how_it_ranks_against/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "The singularity is getting closer, but reaching it feels more dangerous than ever.",
+     "summary": "Anyone concerned about the state of the world and whether we will somehow stop ourselves reaching the singularity? There\u2019s war in Europe and there\u2019s grey-zone warfare seems more prominent than ever. The Middle East is very unsettled. Cyberattacks seems like a highly likely scenario in the near\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xdq7yt/the_singularity_is_getting_closer_but_reaching_it/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "\ud83c\udf0b Pushing PCIe x1 to the limit: lvgale concurrently serving 27B, 9B, and 2B LLMs on a hardware abomination \ud83d\udcc8",
+     "summary": "Everyone loves a clean, unified server rack, but my standby node ( lvgale ) is an absolute physical abomination. It is a Frankenstein collection of mismatched parts and bolted-together VRAM that has no business running efficiently. The Hardware Setup (lvgale) CPU: Intel Core i7-6700K. GPUs: AMD RX\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdq2cj/pushing_pcie_x1_to_the_limit_lvgale_concurrently/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I feel like robotics aren't being discussed enough",
+     "summary": "I think for real impact on the economy we will need autonomous robots, and I don't think we are seeing much here. So there would be a lot of issues with LLMs sending commands to a robot like speed, cost and precision. We've seen some demos but they don't really look that great, and far from being\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xdpq8q/i_feel_like_robotics_arent_being_discussed_enough/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Kimi K3.1 Pro Tech Blog: Advancing Open Intelligence",
+     "summary": "Obviously, at 3T parameters it's hard to consider it relevant for \u201clocal\u201dLlama, but I'm still posting it since it's an open model. submitted by /u/StyMaar [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdphiy/kimi_k31_pro_tech_blog_advancing_open_intelligence/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Are we solving LLM memory by remembering more, when the real problem is knowing what to forget?[D]",
+     "summary": "Long-context models can now handle hundreds of thousands, even millions of tokens. But I've been wondering if we're focusing too much on recall and not enough on what happens when information changes. Say a coding agent reads that an API timeout is 30 seconds. Later, the documentation changes it\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xdpek9/are_we_solving_llm_memory_by_remembering_more/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Securing our frontier model training environment",
+     "summary": "submitted by /u/Proper_Actuary2907 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xdomcw/securing_our_frontier_model_training_environment/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Been tracking intel b60 b65 b70 prices, they jumped 30% today.",
+     "summary": "Amazon prices just jumped today, I still see deals at local microcenter. When that batch is gone $1840 for a b70 will likely be the new normal. b60 went from $650 to $980. b65 $1150 to $1420 does make a lot more sense as the price per GB was low in comparison to the competitors. Still probably the\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdoirp/been_tracking_intel_b60_b65_b70_prices_they/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "When will AI be able to predict stock market movements better than humans?",
+     "summary": "OpenAI claims to have solved more than 100 open math problems that haven't been solved by humans. How long will it take for them to build a model that can predict stock market better than existing HFT companies? You can imagine why they would like to do that, OpenAI needs lot of capital and this\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xdnh4d/when_will_ai_be_able_to_predict_stock_market/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "New Nvidia unlock works on Chinese 3080 20GB too",
+     "summary": "Just ran my own tests of the new GPU performance unlock by Zaggita . If you missed it: Nvidia locked down compute speed on consumer cards for some specific hardware instructions needed for AI; the unlock fixes it. TLDR: got +20% prefill impovement, 0% decode change after unlock. Details: Test\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdn33h/new_nvidia_unlock_works_on_chinese_3080_20gb_too/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Mysterious Qwen4 Appearance by New GitHub Accounts",
+     "summary": "(Post Updated) PR: https://github.com/t-head/pla/pull/12 PR title: feat(gdn): support Qwen4.0-Max prefill heads T-head itself is alibaba oss: https://github.com/alibaba-oss Processing img 71x75uagq9xh1... Original Post: The accounts are <1 month old, these are either troll accounts or secret\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdmt2o/mysterious_qwen4_appearance_by_new_github_accounts/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "qwen4exp : build the QSA selection without the kq_mask by sanmai \u00b7 Pull Request #30965 \u00b7 ggml-org/llama.cpp",
+     "summary": "gigabytes of VRAM saved (Qwen Flash Next) \"This is one of the things Strata does to squeeze the most juice from the experts' cache.\" submitted by /u/jacek2023 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdmek0/qwen4exp_build_the_qsa_selection_without_the_kq/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Still waiting on OpenAI to respond to Opus 5.5",
+     "summary": "submitted by /u/theimposingshadow [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xdmdla/still_waiting_on_openai_to_respond_to_opus_55/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50213337",
+     "url": "https://artificialanalysis.ai/models/kimi-k3-1-pro",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "I ran all the popular Qwen 3.8 FN engines on a single 5090 + 128GB of RAM, here are the numbers",
+     "summary": "Before you read: I'm the developer of Basalt, one of the engines benchmarked below. I tried to keep this as fair as possible: same checkpoint, GPU and requests, and every engine set up the way its own docs recommend. How it was run is at the bottom. This post has had some AI cleanup from my own\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdlunp/i_ran_all_the_popular_qwen_38_fn_engines_on_a/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Here's where the last RTX 5090 cards are going: Massive AI conversion factory exposed in China, Founders Edition included",
+     "summary": "submitted by /u/fallingdowndizzyvr [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdlj42/heres_where_the_last_rtx_5090_cards_are_going/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Babe wake up Kimi K3.1 is rated higher than Fable 5.1 on Artificial Analysis",
+     "summary": "submitted by /u/No-Head-Royal [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xdligf/babe_wake_up_kimi_k31_is_rated_higher_than_fable/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Strata now supports Qwen 3.6 35B",
+     "summary": "Tried it on a build for gfx906(mi50 16gb) and ran worse than llamacpp on decode speed. submitted by /u/JsThiago5 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdktmz/strata_now_supports_qwen_36_35b/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Kimi K3.1 - Terminal Bench 4.0 distribution",
+     "summary": "submitted by /u/Pyros-SD-Models [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xdkiuv/kimi_k31_terminal_bench_40_distribution/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Air Purifiers as White Noise Machines",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50212507",
+     "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Stenosis detection in coronary angiograms, need recall over precision [D]",
+     "summary": "Starting a project to detect candidate stenoses in x-ray coronary angiograms. The goal is high recall, false positives are fine as long as it doesn't flag half the image. I already tried YOLO on a couple of in-house datasets earlier. It looked fine in-domain and fell apart on the other dataset,\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xdkcav/stenosis_detection_in_coronary_angiograms_need/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
+     "summary": "submitted by /u/yogthos [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xdkbr7/nextconcept_modeling_fast_parallel_coarsetofine/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Kimi K3.1 Pro benchmarks",
+     "summary": "submitted by /u/No-Head-Royal [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xdkbgt/kimi_k31_pro_benchmarks/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Kimi K3.1 Pro Tech Blog: Advancing Open Intelligence",
+     "summary": "submitted by /u/Recoil42 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xdk68q/kimi_k31_pro_tech_blog_advancing_open_intelligence/",
+     "source": "r/singularity"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Updated Google privacy policy says your Gmail might be used for advertising",
+     "summary": "Turning on Personal Intelligence gives the company more data for ad targeting.",
+     "url": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Jack Dorsey\u2019s Block made an AI model that talks to you like an awkward new friend",
+     "summary": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny. Take this one, for example, shared by Dessa lead\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+     "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup\u2026",
+     "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
+     "summary": "Company says foreign-made robotic vehicles are crucial to US chip production.",
+     "url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
+     "source": "Ars Technica AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @simonwillison.net",
+     "handle": "",
+     "quote": "Notes on Kimi K3.1 - this one is a big deal, the first time an open weights (well, soon-to-be open weights) model has competed this credibly with the current frontier simonwillison.net/2026/Oct/23/...",
+     "context": "",
+     "url": "https://bsky.app/profile/simonwillison.net/post/3mykwxawoa22u"
+    },
+    {
+     "author": "Bluesky @natolambert.bsky.social",
+     "handle": "",
+     "quote": "TLDR on the kimi k3.1 pro benchmarks (just released) is that it looks like they figured out their RL, where the initial release was a very impressive base model with lighter post-training. China is very much keeping pace with capability gains.",
+     "context": "",
+     "url": "https://bsky.app/profile/natolambert.bsky.social/post/3mykp3akewn2e"
+    },
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "As the gap between the internal models at the AI labs and the ones they release grow (due to safety concerns & research advantages), it will be increasingly tempting for OpenAI & Anthropic to exploit that advantage directly by entering new markets, especially in finance & biotech.",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mykox5d5k22o"
+    },
+    {
+     "author": "Bluesky @natolambert.bsky.social",
+     "handle": "",
+     "quote": "Kimi K3.1 is announced as 3.1 Pro. The benchmark scores look to be clearly the strongest current open weight model, if the weights are released as they claim by November 4th. They are very impressive scores. www.kimi.ai/blog/kimi-k3...",
+     "context": "",
+     "url": "https://bsky.app/profile/natolambert.bsky.social/post/3mykotub75d2q"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Introducing Kimi K3.1 Pro",
+     "summary": "Introducing Kimi K3.1 Pro Kimi K3.1 Pro landed on the Kimi API today - it's not yet open weights, but Moonshot promise \"Full model weights will be released by Nov 4, 2026\". They're also offering a \"Highspeed\" version that's 2-3x faster, at twice the price (except for input token cache hits, which\u2026",
+     "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "heterodoxin/AbliteratedOutTheBox: llama.cpp fork that abliterates at inference",
+     "summary": "llama.cpp fork that abliterates at inference",
+     "url": "https://github.com/heterodoxin/AbliteratedOutTheBox",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-10-23T21:31+00:00",
+  "window_start": "2026-10-23T17:17+00:00",
+  "window_end": "2026-10-23T21:31+00:00",
+  "candidate_count": 34,
+  "model": "free (no LLM)"
+ }
+}
