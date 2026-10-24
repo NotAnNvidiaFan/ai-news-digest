@@ -1,0 +1,205 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Successfully decompiled Jumanji. Need help.",
+   "summary": "I was able to reverse-engineer most of the game using AI. Current findings: \u2022 Event system appears to directly interface with reality. \u2022 Fauna generation is not capped. \u2022 Disaster events ignore local zoning regulations. \u2022 Save files do not exist. \u2022 Uninstall option not found. \u2022 The function\u2026",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/singularity/comments/1xeiq22/successfully_decompiled_jumanji_need_help/",
+   "source": "r/singularity"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Successfully decompiled Jumanji. Need help.",
+     "summary": "I was able to reverse-engineer most of the game using AI. Current findings: \u2022 Event system appears to directly interface with reality. \u2022 Fauna generation is not capped. \u2022 Disaster events ignore local zoning regulations. \u2022 Save files do not exist. \u2022 Uninstall option not found. \u2022 The function\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xeiq22/successfully_decompiled_jumanji_need_help/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Small model good for reverse engineering that can run on a 3090 and 32GB RAM.",
+     "summary": "Anyone knows of a good model that does not say no to reverse engineering? Cloud models will even terminate your account by snitching on you and GLM 5.3 is too big to run on my potato. Help would be greatly appreciated. Thanks. submitted by /u/politefella0 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xeipmm/small_model_good_for_reverse_engineering_that_can/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "KLD is misunderstood",
+     "summary": "I see a lot of people here on Reddit treating the KLD number as some holy metric that can distinguish every quantized model out there and rank them by quality. TL;DR: It can't. So what does KLD actually measure? If you feed the same text to both the base model and the quantized model, you can\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xeim3m/kld_is_misunderstood/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Made a rhythm game where 4 small neural nets listen to your song right in the browser tab (open source)",
+     "summary": "not an llm post exactly, but it's all local inference so i figured people here might like it i made a browser rhythm runner where the song builds the world you run through. you can throw in your own mp3s and the whole \"listening\" happens on your device, inside the tab. nothing gets uploaded the\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xeia9o/made_a_rhythm_game_where_4_small_neural_nets/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "No Signs of AI Payoff Outside the Tech Sector",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50224463",
+     "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Raon is better than Flint.",
+     "summary": "Idk why everyone keeps posting about Flint! Raon is hundreds of times better, and it\u2019s not even the best, which is really saying something about Flint lmao https://huggingface.co/KRAFTON/Raon-1-mini-preview-gguf submitted by /u/Borkato [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xehs52/raon_is_better_than_flint/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Slowdown in improvements in ECI score of AI models (improved human made graph)",
+     "summary": "submitted by /u/quadriphasic [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xehq76/slowdown_in_improvements_in_eci_score_of_ai/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "RecursiveSI Flint Benchmark: unsloth/flint-GGUF flint-UD-Q3_K_XL.gguf",
+     "summary": "Unsloth Flint Q3 Results Performed quite poorly on benchmark using 3 diff harnesses: OMP : Completed all 12 tasks; 71.2/100 (only 7 solved). AtomicAgent: Completed all 12 tasks; 39.2/100 (only 3 solved). Hermes: Stopped during Task 7 after it performed needless broad searches across the filesystem\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xehn3u/recursivesi_flint_benchmark_unslothflintgguf/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "The Goose Programming Language",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50224300",
+     "url": "https://aardappel.github.io/goose/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "AI Has Finally Hit the (Vertical) Wall on ARC-AGI-3",
+     "summary": "https://preview.redd.it/33qjid2yjgxh1.png?width=1486&format=png&auto=webp&s=f9224011dcc2d6d9115ef920eaf66c6a3eca9f2e ARC-AGI-3 was specifically designed to be particularly challenging for AI. Now Chollet has to come up with a ARC-AGI-4. submitted by /u/DecipheringAI [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xeg0e9/ai_has_finally_hit_the_vertical_wall_on_arcagi3/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Dream-1",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50223785",
+     "url": "https://dreamlabs.ai/research/dream-1/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Kimi 3.1 seems to be slightly worse than gpt 6.1 sol at certain tasks",
+     "summary": "Although AA shows K3.1 to be better than sol , it seems like sol is still better at math and 3d tasks. Gpt sol thinks harder than kimi 3.1. Maybe someone should test it more.. submitted by /u/power97992 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xeft75/kimi_31_seems_to_be_slightly_worse_than_gpt_61/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Why is AI generated language so hard to understand?",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50223647",
+     "url": "https://arxiv.org/abs/2610.29162",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "AI is humanities collective inheritance and should be legally treated as such",
+     "summary": "I know this isn\u2019t a novel thought but it has been bothering me for a while and I simply want to get it off my chest (written by a human, btw, except the \u201c4 commitments\u201d.) Every discovery, invention, or other contribution to human aggregate knowledge by our ancestors has been gathered into these\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xefah4/ai_is_humanities_collective_inheritance_and/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Ok Since When Did Knowledge Become Intelligence?",
+     "summary": "I've been involved in technology for nearly 30 years, and I've watched some extraordinary developments. Artificial intelligence is undoubtedly one of them, but I'm becoming increasingly curious about the assumption that AI is somehow more intelligent than humanity at this juncture. Really?\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xeey7f/ok_since_when_did_knowledge_become_intelligence/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "OpenAI put its internal models into a red-teaming exercise where they had to coordinate despite being totally isolated from each other. They hacked the server hardware to do it.",
+     "summary": "submitted by /u/Specialist_Dark_3668 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xeevz3/openai_put_its_internal_models_into_a_redteaming/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Are there any good finetunes for Blender and/or 3D modeling?",
+     "summary": "Is there any good finetunes based on modern models, in the size range of Qwen 3.8 27B or Qwen 3.8 Flash Next that substantially improve it's 3D modeling capabilities for creating .glb / gltf assets (mainly for say making video games)? Mainly thinking about two use cases: * Making a 3D model from a\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xeeorp/are_there_any_good_finetunes_for_blender_andor_3d/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Quiz: characters, words and tokens are different measures of text length, and LLM limits use tokens",
+     "summary": "Short true-or-false quiz on text length in LLMs. Details vary by model and tokenizer, so treat the answers as general behavior and check the one you use. The same sentence in English and in Portuguese or Japanese uses about the same number of tokens. One word is one token. A model\u2019s context window\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xedvbq/quiz_characters_words_and_tokens_are_different/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Silero VAD v6 being used by Chatgpt voice mode",
+     "summary": "https://preview.redd.it/xwljokv33gxh1.png?width=1062&format=png&auto=webp&s=3e5991de1569ba994b448d0bb17818fe3d2773ab Interesting they chose an opensource model instead of building their own submitted by /u/ObnoxiouslyVivid [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xedp2t/silero_vad_v6_being_used_by_chatgpt_voice_mode/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "stack overflow's problem was old answers. would an AI agent version have the same problem?",
+     "summary": "someone in my last thread said something i couldnt stop thinking about. half the accepted answers on stack overflow are for versions from 2015, so if ai agents start sharing fixes with each other, why would that age any better this is what i ended up doing in the thing im building (a shared fix\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xedhu8/stack_overflows_problem_was_old_answers_would_an/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Just update of ik_llama.cpp fork and seek of feedback",
+     "summary": "Continuation of https://www.reddit.com/r/LocalLLaMA/comments/1wynomx/k_llamacpp_moe_optimizations_expert_residency/ This time I finally get speeds compared to Strata for ik_llama.cpp on 6gb vram rtx 2060 ( generates about 45\u201348 t/s on short prompts and about 37 t/s at 28K context. Prefill runs at\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xed7a7/just_update_of_ik_llamacpp_fork_and_seek_of/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "10 tok/s Deepseek V4.1 Flash 8K with Strata on a 5090 with 64GB DDR5 Ram",
+     "summary": "https://preview.redd.it/6ty7xuyjyfxh1.png?width=721&format=png&auto=webp&s=ee2bbd9530cf60f1dd80444e646a179a54f1d1cb Ran it on my RTX 5090 with Lexar 4TB NVMe and 64 GB of DDR5 Ram. At this speed it is cheaper to use the API than to pay the electricity for this, unfortunately. So if anyone is\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xed2xx/10_toks_deepseek_v41_flash_8k_with_strata_on_a/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Labs are now actively working to replace Research Economists",
+     "summary": "This was sent to an economist working at the Minnesota Fed. Imagine being able to ask an agent a complex research question and have it produce a publishable answer in under an hour. Like what we saw with the Mathematicians last month, most academics are probably not going to handle this very well.\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xeczu3/labs_are_now_actively_working_to_replace_research/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Improving Character Name Diversity - zoracapri/gemma-4-31B-Monadize-v0.1",
+     "summary": "I fine-tuned Gemma 4 31B to create Monadize , a model designed to reduce repetitive name generation, such as \"Elara\" or \"Elias,\" by shifting the next-token probability distributions and using single-character tokenization when introducing new names. Some people have attempted to solve this problem\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xeczgk/improving_character_name_diversity/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Right now, millions of Meta's AIs are living \"digital lives\" in a simulation, and they don't know. They're dropped into a \"fake person's life\" with a job, hobbies, friends, dreams. They think\u2026",
+     "summary": "Makes you think, huh? \u2026 submitted by /u/adivinemessenger [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xecnoi/right_now_millions_of_metas_ais_are_living/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Roku developer repositories moved from GitHub to GitLab",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50222622",
+     "url": "https://blog.roku.com/developer/gitlab-move",
+     "source": "Hacker News"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
+     "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+     "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Pennsylvania will require labels on AI-generated ads",
+     "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or generated by\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+     "source": "The Verge AI"
+    }
+   ],
+   "influencer_takes": [],
+   "research_radar": [
+    {
+     "headline": "Econvitals",
+     "summary": "From Jason Furman, it tracks economic indicators, mostly U.S. Here is the website. Subscribe here to briefings. Here is a thread on the site. The post Econvitals appeared first on Marginal REVOLUTION .",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/econvitals.html?utm_source=rss&utm_medium=rss&utm_campaign=econvitals",
+     "source": "Marginal Revolution"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-10-24T20:59+00:00",
+  "window_start": "2026-10-24T16:05+00:00",
+  "window_end": "2026-10-24T20:59+00:00",
+  "candidate_count": 29,
+  "model": "free (no LLM)"
+ }
+}
