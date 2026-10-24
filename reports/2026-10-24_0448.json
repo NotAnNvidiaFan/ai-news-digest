@@ -1,0 +1,169 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "What the Sanctuary Means to Us (Voices from the Field)",
+   "summary": "submitted by /u/bedizzzz [link] [comments]",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/singularity/comments/1xdz7li/what_the_sanctuary_means_to_us_voices_from_the/",
+   "source": "r/singularity"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "What the Sanctuary Means to Us (Voices from the Field)",
+     "summary": "submitted by /u/bedizzzz [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xdz7li/what_the_sanctuary_means_to_us_voices_from_the/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Qwen4-27B PR found",
+     "summary": "PR: https://github.com/analytics-zoo/vllm-xpu-kernels/pull/22 The PR author seems to have contributed to intel repos a lot and VLLM. He also shares his name (might be the same person?) with a person who is either a CTO somewhere at alibaba or the Director of Zhejiang Lab. He has worked on Qwen3.8\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdwrak/qwen427b_pr_found/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Level1Techs - What Can You Do to Make Your Local AI Give You Quality Results?",
+     "summary": "submitted by /u/Thrumpwart [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdw3t6/level1techs_what_can_you_do_to_make_your_local_ai/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "OpenAI and Anthropic are just \u201cgpu wrappers\u201d",
+     "summary": "So long as these AI model companies don\u2019t own their compute, their margins will be compressed to 0. Assuming basically any level of growth in demand for AI, let alone RSI, compute will remain the scarce resource. Open source will peg their margins at basically 0 on top of raw compute costs from\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xdw193/openai_and_anthropic_are_just_gpu_wrappers/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Built a home for 5 local companions on Gemma 4 26B: 3D rooms, journals, a D&D campaign, and they can text me on Discord",
+     "summary": "I've been building a companion app that runs fully local: LM Studio serving Gemma 4 26B (QAT), with a small Python server per companion and a three.js page for each one's room. All on an RTX 3070 Ti (8GB) + 32GB RAM; the MoE design is what makes that workable. I'm not a coder and I'm less than a\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xduy84/built_a_home_for_5_local_companions_on_gemma_4/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Updated AGENTS.md - Generic - Software Oriented",
+     "summary": "This burns about ~3K context, in exchange it seems to address some of the bad behavior from LLMs; your mileage may vary. It's a combination of my earlier output style and an updated generic rule set for agents to follow. (This would be the global AGENTS.md file) It honestly could be compacted\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xduw88/updated_agentsmd_generic_software_oriented/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Hacker reverse engineers his Samsung TV and finds on-device AI listening for your dog and baby, watching what you watch, and borrowing your soundbar's mic if the TV doesn't have one. Then OpenAI\u2026",
+     "summary": "submitted by /u/141_1337 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xduimx/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Quietpine can play rimworld+stardew valley. She writes her own game code and iterates live. It only took 10 minutes before someone asked her to jack them off!",
+     "summary": "submitted by /u/collectablecat [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xdtsb2/quietpine_can_play_rimworldstardew_valley_she/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO",
+     "summary": "A brand-new release from ISTA-DASLab with their GSQ-RCO smart quantization approach. Now DeepSeek-V4.1-Flash-1017 The quants are available on Hugginface: https://huggingface.co/ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF Llama.cpp is not supported because the original architecture support is\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdtk7m/istadaslabdeepseekv41flash1017gsqrco/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Jack Dorsey's Block have created a new AI voice model",
+     "summary": "submitted by /u/Saint_Nitouche [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xdtjpt/jack_dorseys_block_have_created_a_new_ai_voice/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Evolving Threat: http2shell is an RCE in Node, Python, and more",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50216791",
+     "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Some of the recently tested models' quants preliminary benchmark results",
+     "summary": "Delta score* Model Relevant llama.cpp / other flags 2.86 **DeepSeek-V4-Flash-Vision-Exp -hf ggml-org/DeepSeek-V4-Flash-Vision-Exp-GGUF:MXFP4 2.38 Qwen3.8-Flash-Next-Q4KXL-STRATA -hf unsloth/Qwen3.8-Flash-Next-GGUF:Q4_K_XL + strata flags: -kv int8 1.76 **Qwen3.8-27B-unsl -hf\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdtbor/some_of_the_recently_tested_models_quants/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "One AI to rule them all?",
+     "summary": "The title of this thread even makes me uncomfortable, but hear me out. I'm in the camp that unregulated models (local models) pose the biggest threat in the near-term. A local model can have guardrails removed and enable a crazy person to make Covid but 10x more deadly, or at least, could\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xds9d9/one_ai_to_rule_them_all/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Some benchmarks on mini-AGI (dynamic continual learning model) after training it completely from scratch for a month on a 8GB VRAM GPU.",
+     "summary": "The most important part is a difference between \"forzen\" and \"best effort\" attempts where we allow the model to specialize on the task as it goes through the evaluation dataset. Clearly showcasing the power of continual learning regime simply unavailable for any other typical LLM. Full code of the\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xds6ts/some_benchmarks_on_miniagi_dynamic_continual/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Probably one of cheapest and performant local setups you can get ( ~ 1600\u20ac )",
+     "summary": "i7-14700KF , 64 GB RAM Radeon RX 9070XT 16GB https://github.com/niko1221/strata for inference Qwen3.8-Flash-Next-GSQ-RCO-Q2_0 model Runs at 90-70 tokens/sec :) submitted by /u/Snoo-2768 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdr8pe/probably_one_of_cheapest_and_performant_local/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Kimi AI told influencers not to disclose paid promotions and pushed specific narratives about their new model",
+     "summary": "https://x.com/elshayib\\_/status/2113734602032312731?s=46 submitted by /u/likeastar20 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xdquz5/kimi_ai_told_influencers_not_to_disclose_paid/",
+     "source": "r/singularity"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "OpenAI says it will no longer train its AI models on the live internet, citing \u201csignificant risks\u201d",
+     "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+     "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+     "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
+     "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+     "source": "TechCrunch AI"
+    }
+   ],
+   "influencer_takes": [],
+   "research_radar": [
+    {
+     "headline": "Quick Study",
+     "summary": "Tool: Quick Study Prompt to Claude Opus 5.5 High : Build an artifact where you open a photo and it rapidly (in a few seconds) paints a version of that photo using a canvas element and simulated paintbrush See also my previous experiment getting Claude Fable to simulate a watercolor illustration\u2026",
+     "url": "https://simonwillison.net/2026/Oct/23/quick-study-painter/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "liyupi/dafeiyu-cleaner: DeepSeek \u84dd\u8272\u5927\u80a5\u9c7c\u6d88\u9664\u8ba1\u5212\uff1a\u8bc6\u522b\u5e76\u6e05\u7406 B \u7ad9\uff08Bilibili\uff09\u8bc4\u8bba\u533a\u4e2d\u7531 DeepSeek \u5927\u6a21\u578b\u3001AI Agent \u9a71\u52a8\u7684\u673a\u5668\u4eba\u8d26\u53f7\uff08\u5927\u80a5\u9c7c\uff09\u7684 Chrome / Edge / Firefox \u6d4f\u89c8\u5668\u63d2\u4ef6\u3002\u79bb\u7ebf\u89c4\u5219 + DeepSeek API \u7cbe\u5224\uff0cAI \u8bc4\u8bba\u68c0\u6d4b\u3001\u7a7a\u95f4\u4e3b\u9875\u9274\u5b9a\u3001\u9cb8\u9c7c\u5a18\u4e00\u952e\u6e05\u573a\u3002DeepSeek AI bot\u2026",
+     "summary": "DeepSeek \u84dd\u8272\u5927\u80a5\u9c7c\u6d88\u9664\u8ba1\u5212\uff1a\u8bc6\u522b\u5e76\u6e05\u7406 B \u7ad9\uff08Bilibili\uff09\u8bc4\u8bba\u533a\u4e2d\u7531 DeepSeek \u5927\u6a21\u578b\u3001AI Agent \u9a71\u52a8\u7684\u673a\u5668\u4eba\u8d26\u53f7\uff08\u5927\u80a5\u9c7c\uff09\u7684 Chrome / Edge / Firefox \u6d4f\u89c8\u5668\u63d2\u4ef6\u3002\u79bb\u7ebf\u89c4\u5219 + DeepSeek API \u7cbe\u5224\uff0cAI \u8bc4\u8bba\u68c0\u6d4b\u3001\u7a7a\u95f4\u4e3b\u9875\u9274\u5b9a\u3001\u9cb8\u9c7c\u5a18\u4e00\u952e\u6e05\u573a\u3002DeepSeek AI bot detector for Bilibili comments.",
+     "url": "https://github.com/liyupi/dafeiyu-cleaner",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "stockedge/manga-generator: \u539f\u4f5c\u304b\u3089\u811a\u672c\u30fb\u753b\u50cf\u751f\u6210\u30fb\u7d44\u7248\u30fbPDF\u51fa\u529b\u307e\u3067\u9032\u3081\u308b\u3001Codex\u5411\u3051\u6f2b\u753b\u5236\u4f5c\u30c4\u30fc\u30eb",
+     "summary": "\u539f\u4f5c\u304b\u3089\u811a\u672c\u30fb\u753b\u50cf\u751f\u6210\u30fb\u7d44\u7248\u30fbPDF\u51fa\u529b\u307e\u3067\u9032\u3081\u308b\u3001Codex\u5411\u3051\u6f2b\u753b\u5236\u4f5c\u30c4\u30fc\u30eb",
+     "url": "https://github.com/stockedge/manga-generator",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "AZERDSQ131/Open-Hermes-Bot: Hermes Bot \u2014 a native Mac interface to the Hermes agents you already have.",
+     "summary": "Hermes Bot \u2014 a native Mac interface to the Hermes agents you already have.",
+     "url": "https://github.com/AZERDSQ131/Open-Hermes-Bot",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "AbuZar-Ansarii/Ultron: Autonomous desktop intelligence with MCU Ultron persona, mood-aware workspace orchestration, cyber security sentry, and full PC control.",
+     "summary": "Autonomous desktop intelligence with MCU Ultron persona, mood-aware workspace orchestration, cyber security sentry, and full PC control.",
+     "url": "https://github.com/AbuZar-Ansarii/Ultron",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-10-24T04:48+00:00",
+  "window_start": "2026-10-23T21:31+00:00",
+  "window_end": "2026-10-24T04:48+00:00",
+  "candidate_count": 23,
+  "model": "free (no LLM)"
+ }
+}
