@@ -1,0 +1,271 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Block\u2019s new voice model sounds eerily human",
+   "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
+   "why_it_matters": "",
+   "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+   "source": "TechCrunch AI"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "big cloud models like opus 5.5 get all the motion graphics praise, but i made this with local qwen3.8 flash next. it's very possible!",
+     "summary": "i'll admit it took more than one prompt, a bunch of refinement and steering, but local can get close! this is done using remotion, same animation framework as all the viral clips about opus 5.5's motion graphics capabilities the entire conversation history that produced this video:\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xebkti/big_cloud_models_like_opus_55_get_all_the_motion/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "8 GB GPU, 262K context 3.5 BPW Qwen-Flash-Next Coder 70 T/s using llama.cpp",
+     "summary": "The methodology Qwen-Flash-Next has n-gram, MOE packing above its weight but it's still 6B active params. We exploit this by keeping most MOEs in RAM (Smallest MOEs go in VRAM for speedup) and n-gram on disk - ensure you put the model on your fastest SSD. 8 GB VRAM, 24 GB RAM cost. You can run\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xebdzl/8_gb_gpu_262k_context_35_bpw_qwenflashnext_coder/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "anyone else worried about slowdown when they expected singularity?",
+     "summary": "even if we just got stuck with the models we have now there are so many advancements we can make, what im scared as fuck about at the moment is that focus has moved from pre-training to runtime compute/inference since we ran out of internet text which sort of feels like we're squeezin more out of\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xeaa85/anyone_else_worried_about_slowdown_when_they/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Increasing number of UG authors in A* conferences with no supervisor [D]",
+     "summary": "What do you all think about this? It seems increasingly common for undergraduate students to conduct research and publish at A* conferences without a supervisor. As a graduate student, I find it both impressive and intimidating, and it sometimes makes me question my own progress. submitted by\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xe9uoh/increasing_number_of_ug_authors_in_a_conferences/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Terence Tao: AI turns beautiful mathematics into \u2018toxic waste\u2019",
+     "summary": "The top mathematician says Silicon Valley\u2019s rush to solve long-investigated conundrums excludes \u2018elegant solutions\u2019 and reduces maths to raw training material submitted by /u/TheObserverUK [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xe9mx1/terence_tao_ai_turns_beautiful_mathematics_into/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "One Must Fall 2097 Remastered",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50221179",
+     "url": "https://github.com/Jared-woodruff/OMF-2097-Remastered/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "AbliteratedOutTheBox Strata Announcement",
+     "summary": "I\u2019ve been working on an inference-time abliteration engine as a fork of llama.cpp, and I\u2019ve now ported the hook to Strata. It acts as an easy way to use abliterated models without huge amounts of vram or finetuning. For the Strata Branch\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xe8x9c/abliteratedoutthebox_strata_announcement/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Absolutely crazy AI voice model by Block called Dessa.",
+     "summary": "Here's the demos for the people who are interested. Source: https://block.xyz/dessa submitted by /u/The_Ok_Lord [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xe8b2x/absolutely_crazy_ai_voice_model_by_block_called/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50220913",
+     "url": "https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Singularity Daily Discussion Thread - Oct 24, 2026",
+     "summary": "This thread is for any discussions that doesn't necessitate a new post. Permission from a mod here Since this thread isn't going to be to stickied, it's up to you to upvote it. Share your anxiety, ideas on how to achieve alignment, observations, etc. Everything is fair game as long as it somewhat\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xe88q6/singularity_daily_discussion_thread_oct_24_2026/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Meta trained small AI models to read raw bytes instead of tokens. They start out worse, but the paper predicts they end up better",
+     "summary": "https://arxiv.org/pdf/2609.12303 this paper suggests a model that skips models reading tokens that and has the model read raw bytes, basically one letter at a time. what they did: trained small models (~1B params), some on tokens and some on bytes trained them partly by copying a bigger model\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xe88ja/meta_trained_small_ai_models_to_read_raw_bytes/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Gartner Survey Finds Only 13% of CIOs Say Their Enterprise Has Realized Significant or Transformational Value from AI",
+     "summary": "submitted by /u/SnoozeDoggyDog [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xe83hh/gartner_survey_finds_only_13_of_cios_say_their/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Software factory autonomously building OSS libraries that are better than their human counterparts",
+     "summary": "submitted by /u/ai-tacocat-ia [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xe78lr/software_factory_autonomously_building_oss/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50220204",
+     "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Altman: \"I don't even know a dramatic enough word to use\u2026 models can find bugs that are outside of the normal threat model of what we think a hacker can do\u2026 hardware-level, insane stuff\u2026 I no longer\u2026",
+     "summary": "submitted by /u/soldierofcinema [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xe5i3d/altman_i_dont_even_know_a_dramatic_enough_word_to/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Is anyone else losing the motivation to learn new things because of AI?",
+     "summary": "I'm a CS graduate, and lately I've been finding it increasingly difficult to motivate myself to learn new skills. Not because I find them difficult or boring, but because I keep wondering whether any of the effort I put in today will actually matter a few years from now. Whenever I consider\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xe5bob/is_anyone_else_losing_the_motivation_to_learn_new/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "qwen3.8 27B on my 3090 basically tied Opus 5.5 on a Korean RAG benchmark, which I did not expect",
+     "summary": "So I\u2019ve been running local RAG over Korean PDFs for a while and my only evaluation was \u201cyeah the answers look ok\u201d. Finally sat down and used Allganize\u2019s Korean RAG set since every question has a known answer and the page it\u2019s on (300 questions, 64 PDFs, MIT). Fed every model the same top 5 pages\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xe4v74/qwen38_27b_on_my_3090_basically_tied_opus_55_on_a/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Got a pretrained music transformer to jam with me live, no fine-tuning, just steering the sampling [P]",
+     "summary": "I wanted to see how far you can get making a pretrained symbolic music model \"listen\" to a live player without training it. Turns out pretty far. Setup: I play a MIDI keyboard, the Anticipatory Music Transformer (Thickstun et al., music-medium-800k) plays a second piano. While I play I track my\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xe4pex/got_a_pretrained_music_transformer_to_jam_with_me/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50219700",
+     "url": "https://github.com/Zagitta/gpu-unlock",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Gyro quants looks like EXL3 but kinda closed source. please explain why we need this.",
+     "summary": "Recently this new quant has popped up called Gyro. It is gaining popularity because it's being inserted into many different engines, especially the recently popular Strata. So i took a dive into the code to see the differences between Gyro and EXL3, to me it looks like simply a different flavor of\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xe41qe/gyro_quants_looks_like_exl3_but_kinda_closed/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "ThinkRail from JetBrains",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50219186",
+     "url": "https://thinkrail.ai/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50219177",
+     "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "[Release] ISTA GSQ-RCO GGUFs for DeepSeek-V4.1-Flash-1017",
+     "summary": "We have released DeepSeek-V4.1-Flash-1017 quantized with GSQ and RCO, at 1.75 to 2.25 bits per weight. DeepSeek-V4.1-Flash-1017 is a sparse mixture-of-experts model: 384 routed experts per layer, of which 6 are active per token, 763.2B parameters and a 1M-token context window. It is released with\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xe2wg8/release_ista_gsqrco_ggufs_for_deepseekv41flash1017/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "The RTX 5090 Isn't Gone, It's In Chinese Labs, Where Technicians Rip Off Its Die And 32GB VRAM For AI Servers",
+     "summary": "submitted by /u/chemist_slime [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xe1zsr/the_rtx_5090_isnt_gone_its_in_chinese_labs_where/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Spark X2.6 4B is the best of it's size",
+     "summary": "https://huggingface.co/collections/XHToken/spark-x26 I tested it last night and it is amazingly good at tool calling. Tests in pi cli: Can write a python script for blender to create a red cube, rotate it and render it. It understood a rather complex rust codebase and explained details about\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xe1kkh/spark_x26_4b_is_the_best_of_its_size/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Some people are so delusional",
+     "summary": "submitted by /u/Nawozane [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xe198i/some_people_are_so_delusional/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50218633",
+     "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Sam Altman: OpenAI's best model \"can't responsibly be open-sourced\" until the world builds better cyberdefense and bio-security",
+     "summary": "OpenAI co-founder and CEO Sam Altman recently sat down for an in-depth conversation at Stanford Graduate School of Business's \"View from the Top\" series, covering AI's development trajectory, safety challenges, organizational transformation, and personal growth. Altman admitted that OpenAI\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xe0ioz/sam_altman_openais_best_model_cant_responsibly_be/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Revenue: $16.3B Net loss: $80.7B IPO valuation: $2T",
+     "summary": "submitted by /u/VariationLivid3193 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xe02h6/revenue_163b_net_loss_807b_ipo_valuation_2t/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "OBS Studio 33",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50218430",
+     "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+     "source": "Hacker News"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Block\u2019s new voice model sounds eerily human",
+     "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
+     "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Forced to pick, Grok\u2019s AI model chooses Republicans. OpenAI\u2019s picks Democrats.",
+     "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+     "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Here are the top AI agents that can live in your text messages",
+     "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+     "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
+     "summary": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
+     "url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
+     "source": "Wired AI"
+    }
+   ],
+   "influencer_takes": [],
+   "research_radar": [
+    {
+     "headline": "Why are cybersecurity losses not worse?",
+     "summary": "Here\u2019s the first part of my theory: cybercriminals are not the organized geniuses we implicitly imagine. Anyone building a criminal gang has to find candidates willing to forgo more stable opportunities in the formal economy. My modeling estimated that something like 720,000 people are involved in\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/why-are-cybersecurity-losses-not-worse.html?utm_source=rss&utm_medium=rss&utm_campaign=why-are-cybersecurity-losses-not-worse",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Build Your Own Reasoning Model: A Full Video Course",
+     "summary": "Over 11 hours of coding videos on evaluation, inference-time scaling, reinforcement learning, and distillation, with Python and PyTorch.",
+     "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+     "source": "Ahead of AI"
+    },
+    {
+     "headline": "Cybersecurity ETF",
+     "summary": "Joe Weisenthal: \u201cThe Red Line is the day that Anthropic introduced Mythos\u201d The post Cybersecurity ETF appeared first on Marginal REVOLUTION .",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/cybersecurity-etf.html?utm_source=rss&utm_medium=rss&utm_campaign=cybersecurity-etf",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3\u00d7 speed",
+     "summary": "We have Fable at home... or so we are being told by paid shills",
+     "url": "https://latent.space/p/ainews-kimi-31/",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "I guest host an NYT podcast with Michael Kratsios, Trump science advisor",
+     "summary": "Here is the audio, video, and transcript. Here is one excerpt: Cowen: Talk me out of this worry: So we agree science is an ecosystem, and there\u2019s always a temptation to want to fund the most dynamic, most productive parts of the ecosystem. And right now, that would probably be A.I. But if you need\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/i-guest-host-an-nyt-podcast-with-michael-kratsios-trump-science-advisor.html?utm_source=rss&utm_medium=rss&utm_campaign=i-guest-host-an-nyt-podcast-with-michael-kratsios-trump-science-advisor",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Charonyuu/whatsmyagentdoing: See what every Claude Code and Codex agent on your machine is doing \u2014 live, in a little office.",
+     "summary": "See what every Claude Code and Codex agent on your machine is doing \u2014 live, in a little office.",
+     "url": "https://github.com/Charonyuu/whatsmyagentdoing",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-10-24T16:05+00:00",
+  "window_start": "2026-10-24T04:48+00:00",
+  "window_end": "2026-10-24T16:05+00:00",
+  "candidate_count": 40,
+  "model": "free (no LLM)"
+ }
+}
