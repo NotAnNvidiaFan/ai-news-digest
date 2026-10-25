@@ -1,0 +1,183 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "My AI project is getting SLAUGHTERED by doomers...",
+   "summary": "RANT: I'm so sick and tired of EVERY AI project being slapped with an \"AI Slop\" label. The past two weeks I have been GRINDING out this new project . Long story short: I'm reviving all the old fonts from vintage movie posters, comic books, TV shows, magazines, food packaging, clothing brands...\u2026",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/artificial/comments/1xfd4jg/my_ai_project_is_getting_slaughtered_by_doomers/",
+   "source": "r/artificial"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "My AI project is getting SLAUGHTERED by doomers...",
+     "summary": "RANT: I'm so sick and tired of EVERY AI project being slapped with an \"AI Slop\" label. The past two weeks I have been GRINDING out this new project . Long story short: I'm reviving all the old fonts from vintage movie posters, comic books, TV shows, magazines, food packaging, clothing brands...\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xfd4jg/my_ai_project_is_getting_slaughtered_by_doomers/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Monolithic ddr3 server",
+     "summary": "Hi all. Do any of you guys run a server like this for inference of big models. Given deepseek is down to 8/16b active I'm curious as to whether this could start to make sense if I was to add a gpu. This server is local for $550 USD. Dell PowerEdge R820 4x CPU E5-4640 768GB RAM 2x 146GB HDD Server\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfd1nk/monolithic_ddr3_server/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "What if someone used latest LLM agent as a data searching bot?",
+     "summary": "I'm just curious on this little thought that just occured to me. That people would actually use agents to scan websites for new learning data for their LLM's. Imagine such agent using near or at AGI level intelligence. Of course the task itself sounds harmless, however it'd be almost like sending\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xfcwkb/what_if_someone_used_latest_llm_agent_as_a_data/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "140TB of storage and 640gb A100 gpu server, what models to download",
+     "summary": "Since hugging face got token over I want to download the most important models. These include GLM5.3 (Flash)(abliterated) DS4 Flash and more. But since I still have storage left, the question is, what models and quants I should safe that could benefit me the most in the future. I really want to go\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfckvl/140tb_of_storage_and_640gb_a100_gpu_server_what/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Eunice is almost here",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50235316",
+     "url": "https://armincat.com/articles/eunice-is-almost-here",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "GenAICode puts one API over Claude Code, Codex, Copilot, Cursor and Gemini CLI",
+     "summary": "GenAICode is an open-source Apache-2.0 TypeScript toolkit that puts one API and CLI over coding agents such as Claude Code, Codex, Copilot CLI, Cursor, Gemini CLI, opencode, Muse, Mistral Vibe and Antigravity. Its README also lists a browser UI, an app-agent package and a run --verify command that\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xfbob2/genaicode_puts_one_api_over_claude_code_codex/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Is what I\u2019m wanting even possible?",
+     "summary": "Hi I really wanna basically have an ai to play this game for me it\u2019s such a simple game and it\u2019s a text based browser game so it\u2019s literally the simplest most straight forward game for an ai to play no moving character nothing just understanding text and pressing buttons is this something I can\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xfbnj5/is_what_im_wanting_even_possible/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Strata Optimized for 64GB AGX Orin",
+     "summary": "Hey guys, hope all is well. I've spent the last few days working on a fork of Strata v0.1.45 for the Jetson AGX Orin 64GB , mainly running Qwen3.6-35B-A3B . I was getting around 21 tok/s decode with MTP-3 in llama.cpp, versus around 30 tok/s in my earlier Strata runs. With sampled MTP-2 enabled,\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfbjil/strata_optimized_for_64gb_agx_orin/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Show and tell: PolyStrata on my $20 Xeon server",
+     "summary": "submitted by /u/randylush [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfb9oz/show_and_tell_polystrata_on_my_20_xeon_server/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Why are people so pessimistic about AI potentially revolutionizing healthcare?",
+     "summary": "So I attended a quantum discussion event where quantum computing and AI researchers discussed the future of the technologies and how they could potentially be extremely useful and helpful to scientists and doctors, and accelerate advances in medicine. I\u2019m not one to think that all cancers and\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xfa9sn/why_are_people_so_pessimistic_about_ai/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Have InclusionAI said anything about Ling 3.1 Flash 1019 update weights being released?",
+     "summary": "I can't seem to find anything on their huggingface or after a quick search on my phone. Have they said anything about releasing the weights for the updated model? submitted by /u/spaceman_ [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfa4pt/have_inclusionai_said_anything_about_ling_31/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "What's the hardest part of creating edge cases for fine-tuning open-weight models? [D]",
+     "summary": "I'm interested in how people build datasets for fine-tuning open-weight models, especially when it is about making a model handling edge cases than just perform well on common examples. I'm curious about the data side of the process. Finding edge cases: How do you identify edge cases that are rare\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xfa17z/whats_the_hardest_part_of_creating_edge_cases_for/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Which AI leaderboard have more accuracy?",
+     "summary": "livebench.ai/# artificialanalysis.ai arena.ai/leaderboard/code which better? submitted by /u/-DeafGuy- [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xf9whs/which_ai_leaderboard_have_more_accuracy/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Dolly Parton's Imagination Library",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50234474",
+     "url": "https://imaginationlibrary.com/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "RTX 3080 20GB got reBAR and P2P unlock! +70% prompt processing speed",
+     "summary": "P2P is finally unlocked for RTX 3080 20GB - this leads to massive performance improvements in tensor parallel mode prompt processing speed. First, i want to acknowledge that this tremendous achievement belongs to u/nathannguyennng - he can't post to r/locallama due to karma requirements, and gave\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xf9kmd/rtx_3080_20gb_got_rebar_and_p2p_unlock_70_prompt/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I made an arena for fighting JEVs",
+     "summary": "Each fighter gets the game state and chooses an action: move, block, punch, kick, fireball. You write its strategy and pick the model. OpenJev is one of the available options. There is JAILBREAK part its a mental_attack . Your fighter can spend a move sending a message into the opponent\u2019s next\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xf8iqi/i_made_an_arena_for_fighting_jevs/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50233779",
+     "url": "https://lynchlab.net/llm-skin-cancer",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Sabre Wulf Remastered",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50233775",
+     "url": "https://gp-64.com/swr/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Is it time to jump ship from OpenCode?",
+     "summary": "I get error in my \"old\" V1 opencode that are annoying, and they said they will never fix. I was considering v2 but so many people are talking bad about it. I tried DSH before (0.1 i think?), but it failed to complete full software (ok a little more complex than chat websites, so nothing too fancy)\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xf7loz/is_it_time_to_jump_ship_from_opencode/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Izwi 0.1.0: fully local voice AI (TTS, ASR, voice chat) for Mac, Linux, and Windows",
+     "summary": "https://preview.redd.it/w59jjq3x7nxh1.png?width=1172&format=png&auto=webp&s=59d56bb30e5dad94ccf3f9525eb57cd19c56e5ef I\u2019ve been building Izwi for a few months now and just shipped 0.1.0, the first stable release after months of public betas. It\u2019s free and Apache-2.0. It\u2019s a desktop app (plus a web\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xf7dyg/izwi_010_fully_local_voice_ai_tts_asr_voice_chat/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "4x v620 in a LLM generated and 3d printed chassis",
+     "summary": "submitted by /u/PraxisOG [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xf7b46/4x_v620_in_a_llm_generated_and_3d_printed_chassis/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "qwen: merge tensors on convert by am17an \u00b7 Pull Request #31028 \u00b7 ggml-org/llama.cpp",
+     "summary": "...time to reconvert GGUFs? submitted by /u/jacek2023 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xf716t/qwen_merge_tensors_on_convert_by_am17an_pull/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "AI delivers \u2018zero financial payoff\u2019 to most companies, Apollo economist says",
+     "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+     "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+     "source": "TechCrunch AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "A thing I see happening at large organizations as a result of AI is the expansion of the role and span of control of senior management who can directly monitor the whole firm. It vastly changes company operations. It also is straightforward to implement compared to firm redesign around AI.",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mypr5rwh4k2n"
+    },
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "The website for my book redone with Opus 5.5. The initial version (made with Opus 4.8) required a lot of work to make a distinctive-looking static site. Now Opus mostly did this alone. We have come a long way from generic ClaudeDesign in a very short time. co-existence.ai",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3myppj3u7xk26"
+    }
+   ],
+   "research_radar": []
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-10-25T20:59+00:00",
+  "window_start": "2026-10-25T16:35+00:00",
+  "window_end": "2026-10-25T20:59+00:00",
+  "candidate_count": 25,
+  "model": "free (no LLM)"
+ }
+}
