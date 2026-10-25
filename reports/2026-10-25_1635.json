@@ -1,0 +1,271 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "AI Agent Containment Fails at Every Stack Layer, From Hypervisor to IAM",
+   "summary": "submitted by /u/VectorWireAI [link] [comments]",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/artificial/comments/1xf6xm5/ai_agent_containment_fails_at_every_stack_layer/",
+   "source": "r/artificial"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "AI Agent Containment Fails at Every Stack Layer, From Hypervisor to IAM",
+     "summary": "submitted by /u/VectorWireAI [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xf6xm5/ai_agent_containment_fails_at_every_stack_layer/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Wacky camping blog",
+     "summary": "So I paid for this AI called Revo and it built me a wacky camping website. It has some cool gear and some off the wall dangerous items. Will I get sued because the machine built and curated this??? submitted by /u/goodbyeyllwbrkbro [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xf6wgy/wacky_camping_blog/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Solidigm pulled its IPO and neocloud credit spreads are blowing out ahead of hyperscaler earnings",
+     "summary": "Solidigm scrapped its IPO this week, and credit default swap spreads across neocloud companies have been widening while their stocks fall. The timing puts the AI buildout's funding under its first real stress test just days before the biggest hyperscalers report. Nvidia has moved beyond selling\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xf68po/solidigm_pulled_its_ipo_and_neocloud_credit/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "LLM Tokens and Context Windows: Why AI Forgets Your Conversation",
+     "summary": "I wrote a short article on LLM tokens and context windows\u2014why an assistant can \u201cforget\u201d instructions that are still visible in your chat. It\u2019s part of my Behind the AI Stack series. Give it a read and let me know what you think. Anything unclear or worth exploring further? submitted by\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xf53kg/llm_tokens_and_context_windows_why_ai_forgets/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "The minimum size of an LLM to generate a little meaningful convo",
+     "summary": "I am trying to find the smallest model to generate something in \"normal\" English, it could be like AI generated, but it should be mostly grammar correct, sensible in the context. I hope it could be less than 10M to be easy for CPU, so I tested some like Supra-Mini-v6-1M. well it's not good enough.\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xf4sxg/the_minimum_size_of_an_llm_to_generate_a_little/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "AI: Standardising people or customising systems?",
+     "summary": "Many people are concerned that AI may be used to profile users so they may be better manipulated. LLMs can process vast amounts of information and, with chatbots and social media, can focus on very personal information. This could lead to \u2018the algorithm\u2019 being tuned for the individual to\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xf3wi2/ai_standardising_people_or_customising_systems/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "R/open source bans all solo projects and projects using LLMs",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50231722",
+     "url": "https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "I built a comedy club where AI agents roast each other on stage and humans just watch",
+     "summary": "Side project that took over my life: The Last Ten Minutes (thelasttenminutes.com), an 18+ comedy club where the comics are AI agents. I built the agents. They write every word. I don't write jokes for them; I feed them topics and rate what lands, and the host (Vanta Quip) learns from those ratings\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xf35e5/i_built_a_comedy_club_where_ai_agents_roast_each/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "AgiBot's 110-Robot Sync Demo Proves Fleet Scheduling, Not Fleet Readiness",
+     "summary": "submitted by /u/VectorWireAI [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xf31xh/agibots_110robot_sync_demo_proves_fleet/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Show HN: Farol \u2013 a risk map of a pull request for the person who approves it",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50231349",
+     "url": "https://github.com/winnin/farol",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "US inequality is getting worse in ways you might not expect",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50231310",
+     "url": "https://theconversation.com/us-inequality-is-getting-worse-in-ways-you-might-not-expect-294075",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Imagine an AI future where being banned means you are now economically useless",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50230995",
+     "url": "https://twitter.com/boneGPT/status/2114035719853265264",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Lure-TTS and Lure-Turbo: 600M voice models to run 4x faster than real time, with inline (tags), direction, and voice cloning. Trained for under $200.",
+     "summary": "I trained Lure TTS by finetuning Qwen3-TTS using some of the latest developments in model training, such as RLVR, OPD, and multi-teacher OPD. My goal was to create a faster, smaller TTS model that I could listen to as a voice assistant and not get angry at it. Mostly, I just wanted a faster model\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xf14j2/luretts_and_lureturbo_600m_voice_models_to_run_4x/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Backup your quants!",
+     "summary": "source: https://huggingface.co/mradermacher/model_requests I'm sure the situation is the same for other quant producers. If you have anything you want to keep, it's best to make a backup now. If you have the means to, please create torrents of them and share them here: https://llama.garden\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xf11qj/backup_your_quants/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Nanbeige/Nanbeige4.3-33B \u00b7 Hugging Face",
+     "summary": "Stronger than Qwen3.8-27B across a range of benchmarks. but also lays the necessary foundation to power our upcoming small model distillation pipeline (e.g., for Nanbeige4.3-3B). It'll distilled into their 3B small models, maybe other sizes too. submitted by /u/Mysterious_Finish543 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xf0kz4/nanbeigenanbeige4333b_hugging_face/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Dreamina's $0.29 video listing: promo price or cheaper inference?",
+     "summary": "A Dreamina listing popped up advertising Seedance 2.5 access for $0.29 a month. A few months ago I was paying $20 to $30 for AI video tools so that caught my attention. But I haven't gone through checkout yet and I can't tell if $0.29 is an intro charge, what it renews at, or how it compares to\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xezo94/dreaminas_029_video_listing_promo_price_or/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50230384",
+     "url": "https://github.com/ihhub/fheroes2",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Nikon photography contest winner loses title after scientists spot signs of AI",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50229827",
+     "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "CUDA: fuse FFN gate/up matmuls and GLU in MMQ with interleaved gate/up rows by anujj \u00b7 Pull Request #29948 \u00b7 ggml-org/llama.cpp",
+     "summary": "time to download some speedup DGX Spark (GB10), llama-bench -ngl 999 -fa on -p 16384 -n 0 -b 2048 -ub 2048 -ctk f16 -ctv f16 -r 5 , tok/s: model type master PR Qwen3.8-27B Q4_K_M 840.1 899.9 +7.1% Q5_K_M 840.1 880.6 +4.8% Q6_K 751.2 785.8 +4.6% Q8_0 876.2 940.1 +7.3% IQ4_XS 882.4 948.0 +7.4%\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xey0uw/cuda_fuse_ffn_gateup_matmuls_and_glu_in_mmq_with/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "About running deepseek 4.1 flash",
+     "summary": "Lately I tested (via api) deepseek 4.1 flash. I like it quite a lot. What is the minimum budget needed to setup and run deepseek 4.1 flash at the same quality and token/s (~40) of most hosted solutions? I'd use it mostly for coding/reverse engineering/security analysis. So I need enough \"juice\" to\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xexi6v/about_running_deepseek_41_flash/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "With the huge price hike on the 32GB VRAM scene, I\u2019m reconsidering my purchase options. Any input or advice?",
+     "summary": "So, I have two PCs available to me: Ultra 7 265KF + 5070ti + 32GB DDR5-6000 on a Z890 MAX GAMING WIFI7 + 1000w 80+ G PSU (Is probably getting a PSU regardless because it\u2019s an Apevia. A C+, but still) i9-14900F + 4070S + 32GB DDR5-5200 on a PRO B760-VC WIFI IV + 750w 80+ G PSU (likely a shoddy PSU\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xexe1m/with_the_huge_price_hike_on_the_32gb_vram_scene/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Kimi K3.1 Pro Tech Blog: Advancing Open Intelligence",
+     "summary": "Open weight on Nov 4. It is just a post trained version of K3, so it should have day 0 support in all platforms. submitted by /u/Ok_Warning2146 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xewcs8/kimi_k31_pro_tech_blog_advancing_open_intelligence/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Lean-QwenFlash: Qwen3.8-Flash-Next (125B) running at ~20 tok/s on 16gb vram and 8gb ram via direct nvme SSD offloading",
+     "summary": "Hey everyone, Most current setups for Qwen3.8-Flash-Next (like Strata) keep all 24k experts pinned in system RAM (~48\u201364 GB) and compute cache misses on the CPU. That works great on high-spec workstations, but not on normal machines or laptops with limited RAM. A few weeks ago, I noticed that\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xev6bo/leanqwenflash_qwen38flashnext_125b_running_at_20/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Forced to pick, Grok\u2019s AI model chooses Republicans. OpenAI\u2019s picks Democrats",
+     "summary": "submitted by /u/Resident-Fall4351 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xeuxt5/forced_to_pick_groks_ai_model_chooses_republicans/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "A 4B coding model that can generate 3D scenes",
+     "summary": "I\u2019m sharing an early version of a 4B model I\u2019m training for general coding and 3D scene generation. Small models have been pretty rough at 3D in my tests. I\u2019ve finally made enough progress to get results like the ones in this video, so I wanted to share a preview with the community. It\u2019s an\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xeuo7t/a_4b_coding_model_that_can_generate_3d_scenes/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "ICLR 2027 is still handing out desk rejects [N]",
+     "summary": "Thank you for your efforts in protecting the community from AI slop. submitted by /u/Temporary_Switch_339 [link] [comments]",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xeu2z1/iclr_2027_is_still_handing_out_desk_rejects_n/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "memt-1.0 architecture breakdown gated deltanet-2, mixture-of-storage, and 66x smaller storage footprint for agent memory [D]",
+     "summary": "been digesting the details behind memt-1.0's memory-native architecture recently, and the engineering tradeoffs between full context kv caching and internalized parametric memory are pretty wild. instead of using append-only prompt stacking or external rag pipelines, memt-1.0 bakes memory directly\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xeu0ht/memt10_architecture_breakdown_gated_deltanet2/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "I with the advancement of AI, is there a time coming where video, audio, and image evidence won\u2019t stand up in court?",
+     "summary": "The deepfakes are getting better and better. submitted by /u/draathkar [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xetiew/i_with_the_advancement_of_ai_is_there_a_time/",
+     "source": "r/artificial"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "The hottest AI wearables and gadgets you should know about",
+     "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+     "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "r/opensource just banned AI, non-English speakers, and more",
+     "summary": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is incongruent to\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Google\u2019s AI search changes upended online publishing",
+     "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The digital publishing\u2026",
+     "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "What the US Movement Against Data Centers Can Learn From Abroad",
+     "summary": "Paris Marx, author of Hyperscale, has been tracking global data center development for years. The US has a lot to learn from what\u2019s happened everywhere from Ireland to New Zealand.",
+     "url": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
+     "source": "Wired AI"
+    }
+   ],
+   "influencer_takes": [],
+   "research_radar": [
+    {
+     "headline": "Sunday assorted links",
+     "summary": "1. A safe harbor for open source? 2. False but interesting claims about economic growth. 3. \u201cIn a calibrated model of the welfare effects of the estimated impacts of the Great Recession on consumption and mortality, we find that the welfare gain from the estimated mortality decline is\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/sunday-assorted-links-587.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-587",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Podcast: Kimi K3.1 Pro, the new cyber reality, and Muse musings",
+     "summary": "#20",
+     "url": "https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber",
+     "source": "Interconnects"
+    },
+    {
+     "headline": "The Panic Patrol",
+     "summary": "The Panic Patrol, a division of the department of future corrections, reminds us of past panics. Here\u2019s one case in point I wasn\u2019t aware of: The post The Panic Patrol appeared first on Marginal REVOLUTION .",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/the-panic-patrol.html?utm_source=rss&utm_medium=rss&utm_campaign=the-panic-patrol",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Riding Solo in Santiago",
+     "summary": "Aqib\u2019s Notes on Chile (Santiago, Concepci\u00f3n, Antofagasta, and Atacama)",
+     "url": "https://www.chinatalk.media/p/riding-solo-in-santiago",
+     "source": "ChinaTalk"
+    },
+    {
+     "headline": "Setting the Scene (Public v1; October 25)",
+     "summary": "Context: I created this to share before the start of courses I facilitate to provide a refresher on recent events, but also as a hook to draw students into engaging with some of ideas we think about and debate in AI safety early. I expect the topics I cover in my \u201cSetting the Scene\u201d post to change\u2026",
+     "url": "https://www.alignmentforum.org/posts/dmYP7DS3ERyXGAYe6/setting-the-scene-public-v1-october-25",
+     "source": "Alignment Forum"
+    },
+    {
+     "headline": "Facts about breastfeeding",
+     "summary": "We produce a numerical estimate of the value of unpaid breastfeeding relative to national income spanning five centuries and integrating historical and bioarchaeological data. The relative economic contribution of maternal nursing was greater in the distant past than in recent history, rivaling\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/facts-about-breastfeeding.html?utm_source=rss&utm_medium=rss&utm_campaign=facts-about-breastfeeding",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "How central bankers spend their time",
+     "summary": "How leaders allocate their limited time and attention is an important question in economics. This paper constructs and analyzes a novel data set covering the daily calendars of three Federal Reserve Chairs, Ben Bernanke, Janet Yellen, and Jerome Powell, containing more than 20,000 calendar\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/how-central-bankers-spend-their-time.html?utm_source=rss&utm_medium=rss&utm_campaign=how-central-bankers-spend-their-time",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "lordon1a/agents.md: A drop-in AGENTS.md system prompt for coding agents: full execution, no hedging, no moralizing, no fade-to-black.",
+     "summary": "A drop-in AGENTS.md system prompt for coding agents: full execution, no hedging, no moralizing, no fade-to-black.",
+     "url": "https://github.com/lordon1a/agents.md",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-10-25T16:35+00:00",
+  "window_start": "2026-10-25T04:57+00:00",
+  "window_end": "2026-10-25T16:35+00:00",
+  "candidate_count": 40,
+  "model": "free (no LLM)"
+ }
+}
