@@ -1,0 +1,225 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Emergent Ventures India, 20th cohort",
+   "summary": "Zahan Turel, a backend engineer and eighth-generation Zoroastrian priest from Surat, received a grant to digitize his community\u2019s manuscripts and liturgical records before they are lost. Aditya Vijay, 17, is building Forge, supporting overlooked, self-taught young founders with shared housing,\u2026",
+   "why_it_matters": "",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/10/emergent-ventures-india-20th-cohort.html?utm_source=rss&utm_medium=rss&utm_campaign=emergent-ventures-india-20th-cohort",
+   "source": "Marginal Revolution"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "\u2018Bespoke\u2019 mRNA vaccine significantly reduces risk of melanoma recurrence or death, clinical trial shows | First successful phase 3 trial of mRNA cancer vaccine",
+     "summary": "submitted by /u/Competitive_Travel16 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xet21r/bespoke_mrna_vaccine_significantly_reduces_risk/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "[Benchmark] Strata/Basalt runs Qwen3.8 Flash Next IQ3_S with 16GB VRAM and 55GB RAM with up to 250 tok/s generation and 5,600 tok/s prompt processing (5080, Concurrency 1)",
+     "summary": "Qwen3.8-Flash-Next IQ3_S on Basalt | RTX 5080 16 GB, Core Ultra 9 285K, 62 GB DDR5-6800 | 262K context, int8 KV Workload (prompts 5K+) PP avg (t/s) PP peak (t/s) TG avg (t/s) TG peak (t/s) VRAM RAM (engine / left free) Agent coding session (opencode, 103 requests, up to 130K ctx) 5,011 5,118 153.0\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xesda1/benchmark_stratabasalt_runs_qwen38_flash_next_iq3/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50228167",
+     "url": "https://github.com/slee-persis/GVS5H",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Hate to break it, but there won't any utopia after achieving AGI, a post-apocalyptic world is more likely. And that's because of humanity's nature, not AI.",
+     "summary": "And natural limitations. Everyone cannot be solvent at once, humans just won't allow it. We always want a defined social structure, so that it gives us satisfaction when we reach the top. It can be your career, or about how much wealth you have or how much girls you are scoring. There is always a\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xes6rj/hate_to_break_it_but_there_wont_any_utopia_after/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Too good to be true? ISTA's GSQ-RCO 2-bit DeepSeek-V4.1-Flash scoring the same as the base model",
+     "summary": "Has anyone tried ISTA's GSQ-RCO GGUFs for DeepSeek-V4.1-Flash? Does the quality feel as good as their benchmarks show (IQ2_XXS matching the base)? Their benchmarks are saturated (90%+, and AIME25 is 100 for every version), so they probably can't show the degradation, and I couldn't find any KLD\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xes5x0/too_good_to_be_true_istas_gsqrco_2bit/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "GPT-X3-150M takes #1 on the Open SLM Leaderboard, dethroning HuggingFace's SmolLM2-135M with a GDN2/GQA hybrid - Check it out!",
+     "summary": "submitted by /u/datdanboi25 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xerxtr/gptx3150m_takes_1_on_the_open_slm_leaderboard/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Artificial Analysis Index is non-representative of real-world performance. Tested Kimi 3.1 Pro through OpenRouter, the number 4 model in AAI, it's not even close to MiMo 2.6 or DeepSeek 4.1 Flash",
+     "summary": "It seems Artificial Analysis Index is very easy to game, Kimi 3.1 Pro #4 on AAI is super bad in real world use cases, not even close to DeepSeek 4.1 Flash. submitted by /u/PerformanceRound7913 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xercio/artificial_analysis_index_is_nonrepresentative_of/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Artificial Analysis Index is non-representative of real-world performance. Tested Kimi 3.1 Pro through OpenRouter, the number 4 model in AAI, it's not even close to MiMo 2.6 or DeepSeek 4.1 Flash",
+     "summary": "It seems Artificial Analysis Index is very easy to game, Kimi 3.1 Pro #4 on AAI is super bad in real world use cases, not even close to DeepSeek 4.1 Flash. submitted by /u/PerformanceRound7913 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xerbxx/artificial_analysis_index_is_nonrepresentative_of/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "ASRN: Linear-memory long-range copying with learned proper-time clock [p]",
+     "summary": "ASRN (Adaptive Sparse Recurrence Network, red de recurrencia dispersa adaptativa) es una capa de modelo de lenguaje que recupera apariciones anteriores exactas con trabajo acotado por pieza: cada pieza atiende solo a sus C compa\u00f1eros m\u00e1s recientes en casilleros de hash de signo aprendidos y copia\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xer72h/asrn_linearmemory_longrange_copying_with_learned/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "OpenAI and Anthropic blocked the reverse engineering of smart TVs spying on us",
+     "summary": "REA (Reserve Engineer Anything) was blocked by Claude one day later... https://x.com/AbhinavXJ/status/2113590263373508704 Time for the pebbles to own the weights submitted by /u/kroggens [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xer30z/openai_and_anthropic_blocked_the_reverse/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Spicy Greek Tragedy",
+     "summary": "I've been working on a series inspired by my favorite Greek tragedies! With Appolonian eyes, and Dionysian heart, the satyrs call for a dance mine friends! submitted by /u/No-Professional-7811 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xeqkxq/spicy_greek_tragedy/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "model: DSV4.1 flash by am17an \u00b7 Pull Request #31086 \u00b7 ggml-org/llama.cpp",
+     "summary": "only 763B params! :) https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash/blob/main/DeepSeek_V41_Tech_Report.pdf submitted by /u/jacek2023 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xeqf7k/model_dsv41_flash_by_am17an_pull_request_31086/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "\"Musk\" Documentary Pulled from Almost Every One of 472 Theaters After One Week",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50227403",
+     "url": "https://www.showbiz411.com/2026/10/23/controversial-musk-documentary-pulled-from-almost-every-one-of-472-theaters-after-one-week-by-newly-sold-bleecker-street-films",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Cerebras Deploys Trillion-Parameter AI Models",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50227356",
+     "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Does your agent come up with its own ideas?",
+     "summary": "I don't care what you use. Muse, Grok Bot, Dots, Duet, OpenClaw, Hermes. Whatever. Can it generate it's own ideas and tasks without you instructing it what to do? Don't you wish it could do things beyond just the mundane repetitive tasks? submitted by /u/sourdub [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xepj1a/does_your_agent_come_up_with_its_own_ideas/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "ETH Zurich taught the G1 to climb ladders, climb, bypass tricky terrain by contact prediction, using only ten minutes of human training data",
+     "summary": "submitted by /u/Distinct-Question-16 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xepabh/eth_zurich_taught_the_g1_to_climb_ladders_climb/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "What are you most excited for in a realistic future (driven by AI)",
+     "summary": "Personally, I hope to see AI driven cures to diseases especially mentally detrimental ones like Alzheimers. submitted by /u/Tricky_Rule_4565 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xemzmg/what_are_you_most_excited_for_in_a_realistic/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Is it just me or Kimi K3.1 Pro don\u2019t look much better than DeepSeek 4.1 Flash?",
+     "summary": "Personally I am quite fond of the Kimi models, especially them taking a gamble pushing the 2.8b parameter models. But that\u2019s just it, you\u2019d figure that the results would be representative of its size. However, the recent release of DeepSeek 1017 has put things in perspective for me. kimi k3 is a\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xemxoq/is_it_just_me_or_kimi_k31_pro_dont_look_much/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50226419",
+     "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "UK to invest \u00a3100m in 'world first' AI Biosecurity Lab",
+     "summary": "submitted by /u/MerePotato [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xem3kc/uk_to_invest_100m_in_world_first_ai_biosecurity/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "CMP170HX inspiration unlocks 30x/40x also, up to 2X Prefill speedup --> NVIDIA RTX 30 & RTX 40 GPUs Get Impressively Fast In AI LLMs As Compute Doubles With New Unlock Tool But Prices Surge Too",
+     "summary": "Your move everyone, buy, sell, but hurry... submitted by /u/chemist_slime [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xelhpj/cmp170hx_inspiration_unlocks_30x40x_also_up_to_2x/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "haters will say determinism is a bad thing",
+     "summary": "submitted by /u/block_wallet [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xel810/haters_will_say_determinism_is_a_bad_thing/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "The Importance of Limitations for Creativity and Learning (2023)",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50225663",
+     "url": "https://ratfactor.com/cards/limitations",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Dario Amodei, CEO of Anthropic, speaking out against the war in Iraq as a college student in 2003",
+     "summary": "submitted by /u/ResultBackground2450 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xekblx/dario_amodei_ceo_of_anthropic_speaking_out/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Nine math puzzles from \u201chuman level\u201d to \u201cASI level\u201d (nobody has ASI yet), with checkable answers. Which can your model solve?",
+     "summary": "I\u2019ve put together puzzles from a paper on aperiodic order, for testing and training models on reasoning that can be verified. The levels are for fun; the answers are exact. Warm-up, T1 (pen and paper): repeat the 4\u00d74 cells A (rows 0000, 0000, 0000, 1010) and B (rows 0000, 0000, 0001, 0100) over\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xek0va/nine_math_puzzles_from_human_level_to_asi_level/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "M6 Mac Mini owners (32GB): now you can run Qwen3.8-27B in high quality on the Apple Neural Engine",
+     "summary": "ANEMLL Forge 0.2.1: Qwen3.8-27B on the M6 Neural Engine now runs up to 192K context (M6 32GB). New: INT8 K/V cache (half of FP16) and a smaller drafter sharing the target's output head \u2014 0.86 GB less ANE memory, same speed. Decode depends on content: JSON 35\u201362 tok/s, code 18\u201332, prose 10\u201317.\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xejv61/m6_mac_mini_owners_32gb_now_you_can_run_qwen3827b/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Blue Planet III is keeping the rough edges in the age of AI",
+     "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+     "source": "The Verge AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "An OpenAI researcher (Noam Brown) was generally mocked last month for suggesting that even air-gapped AI models on separate computers would find a way to communicate with each other, perhaps through CPU temperature changes. Given this latest report from OpenAI, it doesn\u2019t seem so implausible.",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mynwzdkgwc2m"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Emergent Ventures India, 20th cohort",
+     "summary": "Zahan Turel, a backend engineer and eighth-generation Zoroastrian priest from Surat, received a grant to digitize his community\u2019s manuscripts and liturgical records before they are lost. Aditya Vijay, 17, is building Forge, supporting overlooked, self-taught young founders with shared housing,\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/emergent-ventures-india-20th-cohort.html?utm_source=rss&utm_medium=rss&utm_campaign=emergent-ventures-india-20th-cohort",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "mokevnin/dev-quality-gates: An opinionated, curated list of tools for enforcing software development standards: one recommended tool per job, with limits.",
+     "summary": "An opinionated, curated list of tools for enforcing software development standards: one recommended tool per job, with limits.",
+     "url": "https://github.com/mokevnin/dev-quality-gates",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "Shaitrish/37studio: Open-source AI alternative to Buffer and Opus Clip: Claude Code makes on-brand videos, posts them to 9 platforms and drafts replies. Self-hosted, your own keys.",
+     "summary": "Open-source AI alternative to Buffer and Opus Clip: Claude Code makes on-brand videos, posts them to 9 platforms and drafts replies. Self-hosted, your own keys.",
+     "url": "https://github.com/Shaitrish/37studio",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "khanhtq29vn/contextcraft: AST-Aware, Personalized-PageRank-Ranked, Token-Budgeted Codebase Compressor for LLMs",
+     "summary": "AST-Aware, Personalized-PageRank-Ranked, Token-Budgeted Codebase Compressor for LLMs",
+     "url": "https://github.com/khanhtq29vn/contextcraft",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-10-25T04:57+00:00",
+  "window_start": "2026-10-24T20:59+00:00",
+  "window_end": "2026-10-25T04:57+00:00",
+  "candidate_count": 32,
+  "model": "free (no LLM)"
+ }
+}
