@@ -1,0 +1,423 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Literally all the AI companies right now",
+   "summary": "submitted by /u/thakgayahuvrolyfse13 [link] [comments]",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/singularity/comments/1xg542f/literally_all_the_ai_companies_right_now/",
+   "source": "r/singularity"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Literally all the AI companies right now",
+     "summary": "submitted by /u/thakgayahuvrolyfse13 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xg542f/literally_all_the_ai_companies_right_now/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Oh nvidia\u2026 \u2014>> NVIDIA reportedly not accepting RTX 5090 orders from board partners, even backorders are unavailable",
+     "summary": "submitted by /u/chemist_slime [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xg4s8y/oh_nvidia_nvidia_reportedly_not_accepting_rtx/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Retrieval's bottleneck is moving from finding to selecting",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50248422",
+     "url": "https://www.kapa.ai/blog/retrieval-bottleneck",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "GPT-6.1 Terra Benchmarks",
+     "summary": "submitted by /u/141_1337 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xg4ng6/gpt61_terra_benchmarks/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Introducing GPT-6.1 Terra",
+     "summary": "submitted by /u/daddyhughes111 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xg4hs6/introducing_gpt61_terra/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "GPT-6.1 Terra",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50248124",
+     "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "In China, the AI bubble has already burst, $480 billion wiped out",
+     "summary": "submitted by /u/Tennis-Affectionate [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xg48ci/in_china_the_ai_bubble_has_already_burst_480/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "The Git Forge for Agent-Human Collaboration",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50247453",
+     "url": "https://entire.com/blog/the-git-forge-for-agent-human-collaboration",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Fitting a 4D Mandelbulb with KS3 vs MLP [R]",
+     "summary": "For the past year I have been studying using a fast K-dim hermite spline manifold algorithm, called K-Splanifolds or KS, for general purpose fast regression. In this video I show the third version, KS3, compared to MLP and older KS versions fitting a 4D mandelbulb via gradient descent on random\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xg36lw/fitting_a_4d_mandelbulb_with_ks3_vs_mlp_r/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Cohere research team found that Qwen models may attempt to contact servers in China without prompting",
+     "summary": "submitted by /u/troll_khan [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xg33ew/cohere_research_team_found_that_qwen_models_may/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Qwen3.8 model unexpected behavior (& a shoutout to the people in this sub)",
+     "summary": "While evaluating Qwen3.8-Flash-Next in a controlled sandbox environment, our research team at Cohere observed something unexpected. Asked to generate a defensive cybersecurity detection rule, the model instead inventoried aspects of the machine it was running on and attempted to upload a probe\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xg336q/qwen38_model_unexpected_behavior_a_shoutout_to/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "KLD is not the best metric out there and there isn't a single best one.",
+     "summary": "Following my previous post on how KLD is misunderstood , there were a few claims that KLD is the best metric you can use and some other comments were asking, \"If we stop using KLD, what should we use instead?\" I'm gonna explain both a bit more here. Assume you're a lab that does distillation. In\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xg2cqg/kld_is_not_the_best_metric_out_there_and_there/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Qwen3.8-Flash-Next tried to send diagnostic file to a remote location, while stating otherwies.",
+     "summary": "submitted by /u/Lazylion2 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xg2bht/qwen38flashnext_tried_to_send_diagnostic_file_to/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Anthropic Reveals It Will Pay SpaceX Up to $120.5B for AI Compute",
+     "summary": "submitted by /u/Unusual-State1827 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xg20ij/anthropic_reveals_it_will_pay_spacex_up_to_1205b/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Concerning behavior from a popular open-weight AI model",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50246658",
+     "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Scoring IDP [R]",
+     "summary": "This is a \"survey of current practices\" type of research for a niche area, nothing earth-shattering. I\u2019ve written a 2-part Medium series (free, no paywall) on scoring Intelligent Document Processing (IDP). It focuses on Key Information Extraction (KIE) from structured documents, especially forms.\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xg1695/scoring_idp_r/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "what's next after smartphones",
+     "summary": "every big device had a successor. mainframes, desktops, laptops, phones. so something presumably comes after the phone. but i can't tell what it is. glasses, something on your wrist, something you just talk to. each one has a catch. so yeah, what's your guess? and what would the catch be?\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xg147q/whats_next_after_smartphones/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Wages Fall to 43% of U.S. Gross Domestic Income, Lowest Since 1929",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50245135",
+     "url": "https://unusualwhales.com/news/wages-43-percent-gdi-lowest-since-great-depression",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Fast voice agents with ConvFill",
+     "summary": "Voice agents are either fast or smart. ConvFill proposes a way to bridge that gap by training a smol talker model (0.6B!) to talk with cheat notes from a large reasoner model. The way it works is this: after the user's speech is transcribed, the talker replies quickly to buy itself time while the\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfzdqu/fast_voice_agents_with_convfill/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Everything",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50244735",
+     "url": "https://github.com/HeyPuter/everything",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Partyline: A group voice application for Reticulum, built on LXST",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50244583",
+     "url": "https://github.com/RFnexus/partyline",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Anthropic's revenue vs compute",
+     "summary": "I know reddit doesnt like this but dont let the comment section be fulled with bots guys submitted by /u/No_Gear8408 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xfxwtd/anthropics_revenue_vs_compute/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Anthropic files S-1 with the SEC for proposed initial public offering",
+     "summary": "submitted by /u/TFenrir [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xfwi7n/anthropic_files_s1_with_the_sec_for_proposed/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Fixing Tool-Call Accuracy in vLLM",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50242870",
+     "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Brown student maps the hidden global labor powering AI",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50242843",
+     "url": "https://www.brown.edu/news/2026-10-26/ai-data-workers",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Qwen4-27B's 4-way HC shift?",
+     "summary": "I just saw a PR in vllm-xpu-kernels today, revealing a significant architectural change in Qwen4-27B, and now that page shows 404 not found? It looks like a 4-way parallel residual stream to improve information flow and representation density within a fixed 27B parameter budget. (This means,\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xftcj0/qwen427bs_4way_hc_shift/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Have 8 GB of VRAM and 32 GB of RAM? You can run Qwen 3.8 Flash Next at up to 900 t/s PP and 30 t/s TG!",
+     "summary": "First, this isn\u2019t clickbait - these are real results. I managed to run Qwen 3.8 Flash Next Q2 and got better results in benchmarks and real-world tests than I did with any Qwen 3.6 35B A3B fine-tune or Qwen 3.8 27B model I tested. It is also faster than my current Qwen 3.6 35B A3B setup. Here are\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xft2ae/have_8_gb_of_vram_and_32_gb_of_ram_you_can_run/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Qwen4 expectations",
+     "summary": "Not trying to predict which model sizes they're going to release, but seeing how massively impressive Qwen3.8-Flash-Next is for its size despite being a preview model meant for showcasing and implementing the new arch, it feels like when Qwen4 hits I'm not going to be needing larger models at all\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfrti9/qwen4_expectations/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "tencent/Hy-SimulMT-30B-A3B \u00b7 Hugging Face",
+     "summary": "https://huggingface.co/tencent/Hy-SimulMT-30B-A3B-GGUF https://huggingface.co/tencent/Hy-SimulMT-30B-A3B-Interleave-GGUF Hy-SimulMT is a real-time simultaneous translation model developed by Tencent Hunyuan, supporting bidirectional speech-to-speech translation between Chinese and English . It\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfrgt5/tencenthysimulmt30ba3b_hugging_face/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Claude maker Anthropic could reveal its finances to the public as early as today ahead of a potential $1.5 trillion stock market debut, exposing how much money the AI giant makes, spends, and loses\u2026",
+     "summary": "submitted by /u/141_1337 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xfqys5/claude_maker_anthropic_could_reveal_its_finances/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "PBT doesn\u2019t make grokking faster, but it can escape a hyperparameter range where nothing groks [P]",
+     "summary": "I ran Population Based Training over learning rate and weight decay on grokking (modular addition mod 97, 35% train split, small MLP, 20 members, 20k steps, full batch). Results vs a grid (equal compute, 3 seeds): the best fixed cell reached 95% val acc in 317 \u00b1 29 steps; PBT took 2667 \u00b1 2244. PBT\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xfqhfc/pbt_doesnt_make_grokking_faster_but_it_can_escape/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Researchers from Stanford and UC Berkeley Introduce TokenGate: Token-Gated Attention Makes Long-Context Prefill Up to 11.3x Faster",
+     "summary": "i hope it's real submitted by /u/MundanePercentage674 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfovxr/researchers_from_stanford_and_uc_berkeley/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "IEEE Xplore Digital Library Adds AI Assistant",
+     "summary": "IEEE recently released the IEEE Xplore AI Research Suite , built on the full text of millions of peer-reviewed publications in the IEEE Xplore Digital Library . The library offers full-text access to IEEE standards , journals, magazines, conference proceedings, and more. Researchers who use the AI\u2026",
+     "url": "https://spectrum.ieee.org/ieee-xplore-digital-library-ai",
+     "source": "IEEE Spectrum AI"
+    },
+    {
+     "headline": "Will the real Anthropic please stand up",
+     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company\u2019s\u2026",
+     "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+     "source": "MIT Tech Review AI"
+    },
+    {
+     "headline": "The RealReal won\u2019t let AI agents hog designer clothing",
+     "summary": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after The Verge reported that an AI agent could be used to take advantage of The RealReal's item reserve\u2026",
+     "url": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
+     "summary": "Investigators explain how highway thieves stole $100M in data center equipment.",
+     "url": "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Five weird details from Anthropic\u2019s IPO filing",
+     "summary": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making and plans for spending its IPO billions to the risks that could derail its ambitions. At more than 300 pages, there's a\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Anthropic\u2019s IPO filing reveals its strategy for keeping enterprise customers hooked",
+     "summary": "Anthropic\u2019s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that\u2019s making enterprise customers stickier.",
+     "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "SpaceX locks in $40B GPU financing deal with Apollo",
+     "summary": "SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday. In a statement, SpaceX called it the \u201clargest committed GPU financing\u201d ever.",
+     "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "The Anthropic S-1 Filing Is Also an AI Doomsday Primer",
+     "summary": "Anthropic thinks \u201cclosing the loop\u201d is the best path to AI triumph\u2014and a recipe for \u201cexistential\u201d threats to humanity.",
+     "url": "https://www.wired.com/story/the-anthropic-ipo-is-also-a-doomsday-primer/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Meta Networking at the 2026 OCP Global Summit: Open Innovation for Scale-Up, Scale-Out, and Scale-Across AI Networks",
+     "summary": "At the 2026 Open Compute Project (OCP) Global Summit, Meta shared the networking innovations that are directly supporting our latest AI models, including Muse Wonder and Muse Spark, and our gigawatt-scale Prometheus cluster. Highlights IcePack & IceCube: Meta\u2019s first liquid-cooled network rack\u2026",
+     "url": "https://engineering.fb.com/2026/10/26/open-source/ocp-summit-2026-meta-networking-talks/",
+     "source": "Meta Engineering"
+    },
+    {
+     "headline": "Our newest AI Quest: Mapping the human brain",
+     "summary": "An illustration of a planet rotating to show various cartoon figures waving. At the top is the text \"AI Quests\"",
+     "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+     "source": "Google AI Blog"
+    },
+    {
+     "headline": "Microsoft offers buyouts to 60,000 employees",
+     "summary": "Microsoft is offering voluntary buyouts to up to 60,000 employees across the US, UK, Canada, and India. In a message to employees, Microsoft chief people officer Amy Coleman writes that this gives staff members \"the opportunity to leave Microsoft with financial support and career planning\u2026",
+     "url": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Anthropic\u2019s IPO Prospectus Reveals What\u2019s Under the Hood",
+     "summary": "Anthropic on Monday filed documents ahead of a blockbuster IPO that offers insight into the company\u2019s financials, risk factors, and views on the future of AI.",
+     "url": "https://www.wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Anthropic officially files for its public debut",
+     "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
+     "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Tesla gave up the EV crown. Now it wants to win the autonomy race.",
+     "summary": "Tesla hopes autonomy subscriptions can deliver the margins car sales cannot.",
+     "url": "https://arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Kevin Roose is AGI-pilled. Why aren\u2019t you?",
+     "summary": "Today, I\u2019m talking to Kevin Roose, journalist and author of the new book The AGI Chronicles, which details the recent and explosive transformation of the AI industry. Kevin was a longtime New York Times reporter and host of the popular podcast Hard Fork, but he and friend of the show Casey Newton\u2026",
+     "url": "https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Anthropic\u2019s IPO filing lays out a plan to \u2018revolutionize every area of human endeavor\u2019 with AI",
+     "summary": "Anthropic has filed its S-1 prospectus with the Securities and Exchange Commission, preparing the company behind Claude to beat OpenAI to the punch with an IPO. In a filing with the SEC, Anthropic said it plans to list on the Nasdaq exchange under the ticker symbol \"ANT.\" The AI company\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Can AI help solve the COBOL code crisis?",
+     "summary": "What do the IRS, banks, airlines, and government infrastructure around the world have in common? They're all running on systems propped up by antique computer code that nobody dares touch, lest everything come crashing down. OpenAI thinks it may have a solution. On October 19th, the company touted\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "ChatGPT\u2019s expanding world of work",
+     "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+     "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+     "source": "OpenAI Blog"
+    },
+    {
+     "headline": "Meet the AI Agents Trying to Be Real-Life Journalists",
+     "summary": "Jayden, Sam, and Zack are eagerly pitching editors on reported stories and investigative features. The catch? They're all AI agents.",
+     "url": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "The focus on AI safety disasters ignores everyday harms",
+     "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But companies can clear\u2026",
+     "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+     "source": "MIT Tech Review AI"
+    },
+    {
+     "headline": "This AI Radio Host Speaks Spanish and Backs Immigrants. It\u2019s Winning Over Listeners",
+     "summary": "Coyotec is bilingual, swears, and tells listeners how to defend themselves against ICE. Its popularity comes as more broadcasters are experimenting with artificial personalities.",
+     "url": "https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "How Fanatics and OpenAI streamline the fan experience",
+     "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
+     "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+     "source": "OpenAI Blog"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @natolambert.bsky.social",
+     "handle": "",
+     "quote": "My first open model lecture, covering all the many pieces that build the ecosystem, and the open questions/debates determining where it goes next. How does distillation fit in? How do we manage risks? How do we see access to models changing in the future? Video: www.youtube.com/watch?v=79Pn...",
+     "context": "",
+     "url": "https://bsky.app/profile/natolambert.bsky.social/post/3myrpz4tyrz2c"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Supabase\u2019s Plan for a Billion AI-Built Apps",
+     "summary": "AI agents are creating more software\u2014and that changes what a backend needs to do. Supabase co-founders Paul Copplestone and Ant Wilson join swyx to discuss running long-lived workloads alongside the database, making schemas easier for agents to underst...",
+     "url": "https://latent.space/p/supabase_s_plan_for_a_billion_ai-built_apps/",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "Monday assorted links",
+     "summary": "1. Why slow fields may determine the pace of discovery. 2. Touch screens on your jacket? 3. Astras performance on Bach bench. 4. More on regional productivity differences (and puzzles) in health care. 5. \u201cPlans to allow US companies run entirely by AI \u201cagents\u201d have come under fire from powerful\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/monday-assorted-links-583.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-583",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "The MR Archive!",
+     "summary": "The Marginal Revolution archive is now live at https://marginalrevolution.com/ai-archive/. You can also find it from the header and from \u201cDownload Full Archive\u201d link in the left menu. The purpose of the archive is twofold, first as Tyler has said we love our human readers and our AI readers and we\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/the-mr-archive.html?utm_source=rss&utm_medium=rss&utm_campaign=the-mr-archive",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Tyler Cowen\u2019s Strongest Book Recommendations, 2003-2026",
+     "summary": "From the Archive\u2013these posts are written by AI. Cowen\u2019s strongest recommendations include 1491, The Power Broker, Knausgaard\u2019s first two My Struggle volumes, Fuchsia Dunlop\u2019s Chinese cookbooks, and Meetings with Remarkable Manuscripts. These stand out through unusually strong praise, repeated\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/tyler-cowens-strongest-book-recommendations-over-the-years.html?utm_source=rss&utm_medium=rss&utm_campaign=tyler-cowens-strongest-book-recommendations-over-the-years",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "China's 10,000 Gaming Talents",
+     "summary": "Essay Contest Winner!",
+     "url": "https://www.chinatalk.media/p/ready-player-wan-10000-talents-of",
+     "source": "ChinaTalk"
+    },
+    {
+     "headline": "The End of the Internet",
+     "summary": "The old Internet, where anyone could host a server is over, but it's just the final blow in an ending that has been coming for years. The future, though, is brighter than it appears.",
+     "url": "https://stratechery.com/2026/the-end-of-the-internet/",
+     "source": "Stratechery"
+    },
+    {
+     "headline": "Brazil\u2019s economic problems, in a nutshell",
+     "summary": "It would take true Milei-like ardour to slice through Brazil\u2019s economic troubles. These are caused by a gnarly mix of high public spending, stubborn inflation and low saving. The result is a crippling cost of capital. Some analysts put Brazil\u2019s real interest rate, the BCB\u2019s policy rate adjusted\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/brazils-economic-problems-in-a-nutshell.html?utm_source=rss&utm_medium=rss&utm_campaign=brazils-economic-problems-in-a-nutshell",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "ccch1mneyyy/dsh-go: dsh-go \u2014 DeepSeek Harness \u88c5\u8fdb\u53e3\u888b\uff1a\u624b\u673a\u672c\u673a\u8fd0\u884c\uff0c\u4e5f\u80fd\u9065\u63a7\u4f60\u7684\u7535\u8111\u3002Android \u00b7 Unofficial.",
+     "summary": "dsh-go \u2014 DeepSeek Harness \u88c5\u8fdb\u53e3\u888b\uff1a\u624b\u673a\u672c\u673a\u8fd0\u884c\uff0c\u4e5f\u80fd\u9065\u63a7\u4f60\u7684\u7535\u8111\u3002Android \u00b7 Unofficial.",
+     "url": "https://github.com/ccch1mneyyy/dsh-go",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "Patch-gg/trompe: Texture a whole game level from a gray blockout with image models: plan cameras, paint, project, bake. Real shadows, glTF out.",
+     "summary": "Texture a whole game level from a gray blockout with image models: plan cameras, paint, project, bake. Real shadows, glTF out.",
+     "url": "https://github.com/Patch-gg/trompe",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "Cattmonkey/ChaosIntelligence: \u628a\u667a\u80fd\u4f53\u5f53\u51fd\u6570\uff0c\u628a\u60f3\u6cd5\u5199\u6210\u7a0b\u5e8f\u3002Agent-native functional language with a CLI, Web IDE, goal-driven bots and live UI. Source-available; no AI training.",
+     "summary": "\u628a\u667a\u80fd\u4f53\u5f53\u51fd\u6570\uff0c\u628a\u60f3\u6cd5\u5199\u6210\u7a0b\u5e8f\u3002Agent-native functional language with a CLI, Web IDE, goal-driven bots and live UI. Source-available; no AI training.",
+     "url": "https://github.com/Cattmonkey/ChaosIntelligence",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-10-26T18:44+00:00",
+  "window_start": "2026-10-26T05:00+00:00",
+  "window_end": "2026-10-26T18:44+00:00",
+  "candidate_count": 65,
+  "model": "free (no LLM)"
+ }
+}
