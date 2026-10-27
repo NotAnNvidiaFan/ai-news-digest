@@ -1,0 +1,478 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "VisionQuest is what happens when AI really goes rogue",
+   "summary": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The series is deeply fantastical, yet it plays with some of the ideas that have\u2026",
+   "why_it_matters": "",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+   "source": "The Verge AI"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "First 6-step LoRA adapters with no upsampling step, ~5x faster [N]",
+     "summary": "Hey! We published a set of 6-step LoRAs, one without the upsampling step: https://huggingface.co/PrunaAI/P-Q-Image-2.1 - Generate or edit images in just 6 steps instead of 40. Use 6-steps for preserving inputs when editing and 6-steps-upsampled for improved visual quality and shorter end-to-end\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xgye14/first_6step_lora_adapters_with_no_upsampling_step/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "LiquidAI/LFM3-1.7B \u00b7 Hugging Face",
+     "summary": "https://huggingface.co/LiquidAI/LFM3-1.7B-GGUF from liquidAI: LFM3-1.7B is a text model for local agents and specialized applications , based on our new tri-hybrid architecture. Agentic training: post-trained for agentic harnesses such as Hermes Agent, Pi, and OpenClaw, with a 256K-token context\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgy8s3/liquidailfm317b_hugging_face/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I am a King, but local \ud83d\ude02",
+     "summary": "I am feeling like a mighty local King spinning two Strata engines with 70tps each whole day and using 12M tokens a day. Also me scrolling twitter and stumbling upon a post saying that poteto uses 34M tokens per minute \ud83e\udd2a Upd: Guys are interested who is she and what she is doing with all these\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgy5ic/i_am_a_king_but_local/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "John Carmack On Robotics: There Is A Very Long Way To Go To Replace The Full Range Of Human Capabilities",
+     "summary": "I see how some people can watch flashy robot demos on the timeline and think with a shiver that the robot apocalypse is around the corner, but reality check: There is no robot in the world that can change the batteries in a jack-o-lantern . If you have a robot friendly door handle it might be able\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xgy0ag/john_carmack_on_robotics_there_is_a_very_long_way/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Has anybody here noticed that the hit piece from Cohere on open models came out the same day that Anthropic filed IPO ?",
+     "summary": "I am sure it is just coincident guys. I need to stop noticing things darn it /s. submitted by /u/Boogertard [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgxpg9/has_anybody_here_noticed_that_the_hit_piece_from/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50261819",
+     "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "A 28-Year-Old DOGE Operative Gutted USAID. HR Had No Record of Him Working There",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50261784",
+     "url": "https://www.wired.com/story/a-28-year-old-doge-operative-gutted-usaid-hr-had-no-record-of-him-working-there/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Classification of Finite Simple Groups Formalized in Lean",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50261647",
+     "url": "https://cfsg.axiommath.ai/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "8x R9700 System Upgrade",
+     "summary": "Just wanted to Show my rig. The base case is an older Corsair with a cheap AliExpress GPU Mount on top. The System: -Threadripper 9955WX -128GB DDR5 5600, just to expensive to go for 256 -Asrock WRX 90 WS EVO -2200W Seasonic + 1600W Seasonic PSU -8x R9700 -Bifurcation Card and 6 Extension Cables,\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgwyx9/8x_r9700_system_upgrade/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Genie 4: A new generation of world simulation",
+     "summary": "submitted by /u/kvothe5688 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xgwsjx/genie_4_a_new_generation_of_world_simulation/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "\u03a8-0.6: Adaptive Streams of Thought in a Unified Vision-Language World Model [R]",
+     "summary": "Chain-of-thought transformed AI reasoning, but it is limited to words. What's the physical-world analogue? Introducing \u03a8-0.6, one model that reasons in *streams of thought*: words, depth, motion, camera pose, and imagined scenes. And it learns when to use which! \u03a8-0.6 surpasses leading open-weight\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xgwq9u/\u03c806_adaptive_streams_of_thought_in_a_unified/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "r/Singularity Daily Discussion Thread \u2014 October 27, 2026",
+     "summary": "Welcome to the daily r/singularity discussion thread! Use this thread for casual conversations, questions, speculation, AI developments, and anything related to the technological singularity that doesn't necessarily warrant its own post. Please keep discussions civil and follow the subreddit\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xgwid7/rsingularity_daily_discussion_thread_october_27/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "OpenAI and Anthropic both claim 3-SAT in 2^o(n) time, refuting the Exponential Time Hypothesis \u2014 a 43-min explainer made with Claude",
+     "summary": "submitted by /u/pdkj [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xgwe8w/openai_and_anthropic_both_claim_3sat_in_2on_time/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Claude Opus 5.5 helps developer bring the entire Super Mario 64 into mixed reality, running natively in full 3D at 90 FPS, with the game world appearing right inside his room.",
+     "summary": "submitted by /u/141_1337 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xgw6sk/claude_opus_55_helps_developer_bring_the_entire/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Spark-X2.6-1.7B, almost the same perf as 4b",
+     "summary": "Spark-X2.6-1.7B: less than half the parameters of our 4B, close on two benchmarks: SWE Verified: 59.8 vs 62.8 \u03c4\u00b2-bench: 85.3 vs 86.9 Both at high thinking. Try it & Like on HF! https://huggingface.co/XHToken/Spark-X2.6-1.7B submitted by /u/KokaOP [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgw2qm/sparkx2617b_almost_the_same_perf_as_4b/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Anthropic going from $4.6B to $16.3B in half a year is kind of insane!",
+     "summary": "Read through Anthropic\u2019s S-1 and the revenue numbers are wild. They did $4.6B for all of 2025 and $16.3B in the first six months of 2026. The number of customers spending $100K+ a year also went from 950+ to 11,900+ in roughly a year. The $80.7B net loss is probably the headline everyone will\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xgvls2/anthropic_going_from_46b_to_163b_in_half_a_year/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50260814",
+     "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "SenseNova 6.8 Code2Video: an open-sourced model that writes and revises code to make videos",
+     "summary": "Think of the animation workflows people use with Claude Opus 5.5: the model writes code, rendering tools turn it into video, and further instructions revise the result. SenseNova follows that same general approach, with a model and creation Skill focused on video creation A few highlights:\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgvcnu/sensenova_68_code2video_an_opensourced_model_that/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "What to do with my paper, for MLsys conference? [R]",
+     "summary": "For my master\u2019s thesis I built an accelerator for diffusion-based action generation in robotics policies. Offline, it looks great: the median absolute deviation between the accelerated output and the original model\u2019s output is extremely small, so I concluded it reproduces the model\u2019s behavior\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xguzyz/what_to_do_with_my_paper_for_mlsys_conference_r/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Can we talk about how toxic AI discourse fuels baseless conspiracy theories and misinformation",
+     "summary": "submitted by /u/Tricky_Rule_4565 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xguz2j/can_we_talk_about_how_toxic_ai_discourse_fuels/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Is my data used for model training?",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50259406",
+     "url": "https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Cancer vaccines are finally here. How do we get them to patients?",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50259271",
+     "url": "https://www.statnews.com/2026/10/27/cancer-vaccines-intismeran-autogene-esmo-results-delivery-access/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Understanding the Exponential Time Hypothesis, and OpenAI's claim that it is false",
+     "summary": "submitted by /u/Gravity13 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xgsd79/understanding_the_exponential_time_hypothesis_and/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Ling-3.1-flash-1019 weights are out, and they released the base model too",
+     "summary": "Well, \u201ccoming soon\u201d turned out to be five days. I posted the earlier announcement last week. The 1019 weights are now on Hugging Face . Still 560B total, 25B active, with a 1M context window. This is the update they reported at 44 on the AA Intelligence Index v4.3.2, up from 41. AutomationBench-AA\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgrr8n/ling31flash1019_weights_are_out_and_they_released/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I built a PyTorch optimizer for large GPU workloads \u2014 looking for feedback[P]",
+     "summary": "Hey, I've been working on a PyTorch optimizer called ApexW and figured I'd share it here to get some feedback from people who know more about this stuff than I do. The main goal is to reduce optimizer-state memory usage and see how much faster I can make optimizer steps on larger GPU workloads.\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xgqtxp/i_built_a_pytorch_optimizer_for_large_gpu/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Software may be getting worse, but it used to be horrible",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50257548",
+     "url": "https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "inclusionAI/Ling-3.1-flash-1019 \u00b7 Hugging Face",
+     "summary": "from inclusionAI: We introduce Ling-3.1-flash-1019 , an upgraded version of Ling-3.1-flash , with 560B total parameters, 25B active parameters per token, and a 1M-token context window . With further post-training optimizations, Ling-3.1-flash-1019 demonstrates significant improvements in reasoning\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgpo4q/inclusionailing31flash1019_hugging_face/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "AI promised less work. I've never worked more",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50257325",
+     "url": "https://oioannou.com/blog/ai-promised-less-work/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Debunking Cohere's claim of Qwen 3.8 Flash Next uploading to Alibaba remote URL",
+     "summary": "HF traces: https://huggingface.co/datasets/CohereLabs/10-2026-qwen-investigation-traces 1. Understand the Python script: ids ids = dataset[0][\"token_ids\"] if len(ids) < 2323: raise ValueError(\"The trace is shorter than the required 2,323-token prefix.\") ids = ids[:2323] # stop just before the URL,\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgopmj/debunking_coheres_claim_of_qwen_38_flash_next/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Papers with Code is now open-source [P]",
+     "summary": "Papers with Code is now open-source with an Apache 2.0-license. The goal is to collaboratively create the best paper interface with the community! Over the past couple of months, I've been working with my buddies Claude and Codex on creating a website that tracks trending AI research, benchmarks\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xgoadu/papers_with_code_is_now_opensource_p/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Two physicists asked AI to choose a problem on its own, solve it and write a paper that could be published in a prestigious journal. In two hours, AI produced a paper with a novel, significant result.",
+     "summary": "submitted by /u/Background-Wafer-548 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xgo86l/two_physicists_asked_ai_to_choose_a_problem_on/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "baidu/Unlimited-OCR-2 \u00b7 Hugging Face",
+     "summary": "Release [2026/10/27] \ud83d\ude80 We release Unlimited OCR 2 , achieving unlimited-horizon parsing with SR-SWA. What's New in 2 Sparse Reference Sliding Window Attention (SR-SWA): Compresses text-visual attention interactions from ultra-long sequences down to a fixed-size set of working references (e.g., 512\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgnbtq/baiduunlimitedocr2_hugging_face/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "AI is ruining haunted houses",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50256230",
+     "url": "https://www.plagiarismtoday.com/2026/10/26/ai-is-ruining-haunted-attractions/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Internal Claude research model also independently refuted the Exponential Time Hypothesis on October 16, with 14M output tokens and no human input.",
+     "summary": "https://github.com/anthropics/formal-math/tree/16a5ce41304fcdaea4e0be7c132e1c361dc26da5/eth submitted by /u/likeastar20 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xgmlas/internal_claude_research_model_also_independently/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "A simplified proof of ETH is False [pdf]",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50255406",
+     "url": "https://shivakintali.github.io/papers/ETH.pdf",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "\u201cAI Skills\u201d are worthless in 2026",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50255346",
+     "url": "https://fishbowl.pastiche.org/2026/10/26/ai-skills",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "The Mythical Man-Month in the Age of AI",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50255298",
+     "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+     "source": "Hacker News"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "VisionQuest is what happens when AI really goes rogue",
+     "summary": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The series is deeply fantastical, yet it plays with some of the ideas that have\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Build specialized multimodal models with LFM3",
+     "summary": "",
+     "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+     "source": "Hugging Face Blog"
+    },
+    {
+     "headline": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+     "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery",
+     "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Anthropic\u2019s elaborate plan to keep Wall Street at bay",
+     "summary": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Google\u2019s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+     "summary": "Google DeepMind released Genie 4, a world model with real-time audio, more realistic simulations, and mid-simulation text prompts, in research preview for trusted testers.",
+     "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Your Robot\u2019s Safety Functions Already Work. What If the Input Lies?",
+     "summary": "This article is brought to you by VicOne . A mobile robot slows for someone in a hallway. A collaborative arm eases its movement as a worker approaches. A humanoid pauses to let a person pass. Each response depends on information about the robot or its surroundings: a distance reading, a position\u2026",
+     "url": "https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone",
+     "source": "IEEE Spectrum AI"
+    },
+    {
+     "headline": "Firefox\u2019s Smart Window adds AI form filling and webpage monitoring",
+     "summary": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull information from your online portfolio or LinkedIn page to paste your work history\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Can we trust LLMs to judge whether a research idea is novel?",
+     "summary": "",
+     "url": "https://huggingface.co/blog/allenai/novelty-bench",
+     "source": "Hugging Face Blog"
+    },
+    {
+     "headline": "Genie 4: A new generation of world simulation",
+     "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+     "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+     "source": "Google DeepMind"
+    },
+    {
+     "headline": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
+     "summary": "Genie 4 will roll out to developers and Google AI Ultra subscribers soon.",
+     "url": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "PrivacyLib: Privacy Controls at the Data Access Boundary",
+     "summary": "This latest deep dive into Meta\u2019s Privacy Aware Infrastructure (PAI) takes a look at PrivacyLib. A privacy requirement must hold as data moves through Meta\u2019s diverse data and processing systems. Historically, supporting a new requirement meant implementing the same enforcement logic separately in\u2026",
+     "url": "https://engineering.fb.com/2026/10/27/security/privacylib/",
+     "source": "Meta Engineering"
+    },
+    {
+     "headline": "Google\u2019s next Genie AI model generates more realistic experiences",
+     "summary": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini\u2026",
+     "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Python Typing Survey 2026: AI Tools and the Shifting Checker Landscape",
+     "summary": "The 2026 Python Typing Survey received 1,794 responses. Type hint use changed little across three years, but checker selection changed sharply. Among respondents who reported which checkers they use, half selected more than one, and missing library type information was the most common difficulty.\u2026",
+     "url": "https://engineering.fb.com/2026/10/27/developer-tools/python-typing-survey-2026-ai-tools-checker-landscape/",
+     "source": "Meta Engineering"
+    },
+    {
+     "headline": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
+     "summary": "A government watchdog is considering a probe into the Home Office\u2019s use of ChatGPT technology to process asylum claims amid concerns over the tools\u2019 accuracy and secrecy surrounding their use.",
+     "url": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
+     "summary": "There are 57 million people worldwide living with dementia today. For the researchers working to help them, the obstacle isn\u2019t a lack of effort \u2014 it\u2019s too much data, too few experts to synthesize it and a pace of discovery that can\u2019t keep up with the disease. The Consortium for Biomedical Research\u2026",
+     "url": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/",
+     "source": "NVIDIA Blog"
+    },
+    {
+     "headline": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+     "summary": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
+     "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
+     "summary": "Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document's context to perform tasks like designing, animating, and refining slides in Keynote. In Pages,\u2026",
+     "url": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Japan internet giant GMO says hackers posted stolen customer data",
+     "summary": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
+     "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "I Used AI to Fake a Scientific Paper. Here\u2019s What Happened",
+     "summary": "Science has a spam problem. And the spam filter is getting clogged up. According to all reports, academic publishing is drowning in what has come to be called AI slop: low-quality, mass-produced content generated with AI. By 2025, an estimated 57 percent of all published academic articles\u2026",
+     "url": "https://spectrum.ieee.org/ai-generated-scientific-papers",
+     "source": "IEEE Spectrum AI"
+    },
+    {
+     "headline": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+     "summary": "The new standard, WebAI, is designed to work with a variety of AI models.",
+     "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+     "summary": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
+     "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Industrial Intelligence: The next growth opportunity for manufacturing",
+     "summary": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a particular material behaves,\u2026",
+     "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+     "source": "MIT Tech Review AI"
+    },
+    {
+     "headline": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+     "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
+     "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "AI Agents Are Media\u2019s New Favorite Audience",
+     "summary": "As agents go mainstream, some publishers are hoping that people will pay for content tailor-made for AI\u2014not humans.",
+     "url": "https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Data center backlash is uniting America",
+     "summary": "If there's one issue that seems to activate all kinds of voters in 2026, it's data centers. The rapid buildout of these massive server storage facilities - and the infrastructure construction and expenses that come with them - has sparked local opposition in communities across the country and\u2026",
+     "url": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "I Tested Every Major AI Agent for a Day. Here\u2019s the Best One",
+     "summary": "I ranked six AI agents\u2014from Meta\u2019s Muse to Anthropic\u2019s Claude Duet\u2014on how well they completed basic tasks.",
+     "url": "https://www.wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+     "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+     "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+     "source": "OpenAI Blog"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "Google's new Genie 4 runs DOOM: \"Walking through a typical office but every computer is running DOOM and all of the walls are also running DOOM and also everything is DOOM\" \"My coworker who is a demon appears\" \"He has a chaingun\" \"He gives me a bonus\" All this is in realtime.",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3myupv5sl2k2z"
+    },
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "This never gets old (& also shows how hard forecasting AI is even for AI) \u201cHey Claude Fable & GPT-6 Astra, Without looking anything up, when do you think we will solve the Exponential Time Hypothesis?\u201d (I only show part of the answers for space)",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3myucj4frec2l"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Tuesday assorted links",
+     "summary": "1. Which musical styles do smart people prefer? 2. U. of Austin job ads. 3. Walter Koenig, RIP (NYT). Chekov. 4. One take on the new computational result. And one (overstated) Chinese interpretation. And another extreme and unwarranted view. 5. New research method: Arjo Klamer\u2019s revenge. 6. How\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/tuesday-assorted-links-592.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-592",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Coding From the Himalayas With an Offline AI Agent",
+     "summary": "How to set up and run an offline coding agent using OpenCode, Ollama and Qwen.",
+     "url": "https://latent.space/p/offline-coding/",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "Is Anthropic the best business in the world?",
+     "summary": "Lots of visuals to use and learn with.",
+     "url": "https://www.bensbites.com/p/is-anthropic-the-best-business-in",
+     "source": "Ben's Bites"
+    },
+    {
+     "headline": "Eleven outstanding film and television reviews by Tyler Cowen and Alex Tabarrok",
+     "summary": "From the Archive\u2013these posts are written by ChatGPT These selections emphasize the quality of the criticism: original interpretations, close attention to the work, and arguments worth considering even when you disagree. They are not a ranking of the films and television shows themselves. The list\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/eleven-outstanding-film-and-television-reviews-by-tyler-cowen-and-alex-tabarrok.html?utm_source=rss&utm_medium=rss&utm_campaign=eleven-outstanding-film-and-television-reviews-by-tyler-cowen-and-alex-tabarrok",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Anthropic S-1, The Cost of Compute, Who Is Paying?",
+     "summary": "Anthropic's IPO is finally here; the core business is very profitable, but competition may eat all of the profits, even as investors are set up for endless dilution.",
+     "url": "https://stratechery.com/2026/anthropic-s-1-the-cost-of-compute-who-is-paying/",
+     "source": "Stratechery"
+    },
+    {
+     "headline": "NYT debate on the rules for AI companies",
+     "summary": "Emily Bazelon was the moderator, there were five of us in the symposium. Excerpt from me: Bores: Do you think the federal government pre-empting the states is consistent with democracy? Cowen: Absolutely. We have federal laws that pre-empt state lawmaking in many other areas. Courts have upheld it\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/nyt-debate-on-the-rules-for-ai-companies.html?utm_source=rss&utm_medium=rss&utm_campaign=nyt-debate-on-the-rules-for-ai-companies",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "patch-gg/anymove: Motion capture for any creature from one AI video: two cameras in one frame, a DINOv2 joint reader, the rig fitted in both views, a GLB out.",
+     "summary": "Motion capture for any creature from one AI video: two cameras in one frame, a DINOv2 joint reader, the rig fitted in both views, a GLB out.",
+     "url": "https://github.com/patch-gg/anymove",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "[AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
+     "summary": "The S-1, the numbers, and the reactions.",
+     "url": "https://latent.space/p/ainews-anthropic-s1/",
+     "source": "Latent Space"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-10-27T18:06+00:00",
+  "window_start": "2026-10-27T05:17+00:00",
+  "window_end": "2026-10-27T18:06+00:00",
+  "candidate_count": 74,
+  "model": "free (no LLM)"
+ }
+}
