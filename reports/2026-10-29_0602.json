@@ -1,0 +1,363 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "[AINews] Gemini 4 Carbon tops leaderboards, launches for cyber defenders",
+   "summary": "Google\u2019s new frontier model leads independent evals, with access initially limited to trusted defenders.",
+   "why_it_matters": "",
+   "url": "https://latent.space/p/ainews-gemini-4-carbon/",
+   "source": "Latent Space"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "pruned NVIDIA's new 30B speech LLM from 67.5GB to 10GB with zero retraining, it still transcribes at 5.16% WER (teacher: 4.12%)",
+     "summary": "submitted by /u/Illustrious_Row_9971 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xibujk/pruned_nvidias_new_30b_speech_llm_from_675gb_to/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Surely it'll work this time",
+     "summary": "submitted by /u/GeneReddit123 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xibrq4/surely_itll_work_this_time/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "NISCO) has worked with Huawei and ecosystem partners to commercially deploy the world's first swarm-intelligence-based industrial cluster",
+     "summary": "submitted by /u/yogthos [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xia83c/nisco_has_worked_with_huawei_and_ecosystem/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "[Update Benchmark] Basalt's new PRs (Strata fork) new record IQ3_S Qwen3.8 Flash Next on single RTX 5080 and 51 GB RAM with 5500 tok/s prompt processing and up to 275 tok/s peak generation (during\u2026",
+     "summary": "Code and tool calls can peak up to 275 tok/s - Reasoning traces up to 190 tok/s Hardware: 5080 16GB PCIe gen5x16, 64 DDR5 6400, Core Ultra 9 285K https://github.com/jesdga95/basalt Some PRs for the optimizations under my name are still pending (xyehya) but upstream already have solid gains &\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xi9sfl/update_benchmark_basalts_new_prs_strata_fork_new/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "yeasah/Qwen3.8-27B-exl3 quants - lowest KLD of 0.0002",
+     "summary": "Noticed this new EXL3 quant of 3.8-27B which achieves lowest KLD than anyone else and does it using only 18.8 GiB VRAM for weights. Pretty impressive numbers! https://huggingface.co/yeasah/Qwen3.8-27B-exl3 maker quant KLD mean file size yeasah 6bpw 0.0002 23 GB Unsloth Q8_K_XL 0.0005 31.5 GB\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xi9ctj/yeasahqwen3827bexl3_quants_lowest_kld_of_00002/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Claude Code burns ~15\u201320% of your tokens on a 3-word status line",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50284255",
+     "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "We either need to make AI perfect, or teach people to reason.",
+     "summary": "Too many people who have no idea how to reason through a problem, verify information, or even ask followup questions. And they rely on AI for that. And the AI can be right most of the time, but catastrophically wrong occasionally, and those using it have no idea how to know the difference.\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xi88qa/we_either_need_to_make_ai_perfect_or_teach_people/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Using compute to verify paper results [D]",
+     "summary": "I\u2019m not a reviewer yet, but I likely will be by next year. As a reviewer, how do you decide to allocate compute to verify paper results? (and is the code in the papers you\u2019re reviewing usually easy to run?) submitted by /u/Relative_Wallaby_823 [link] [comments]",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xi7hpf/using_compute_to_verify_paper_results_d/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "any fun casual podcasts? [D]",
+     "summary": "Does anyone know any fun casual conversational style podcasts that discuss current papers/industry trends, with discussions at a high to mid technical level? Edit: small preference for conversation discussion styles between two constant hosts submitted by /u/Upstairs-Cry-9233 [link] [comments]",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xi7cvk/any_fun_casual_podcasts_d/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Qwen4 1M context window",
+     "summary": "Qwen4 models will have a 1 million context window. Qwen4-27B was not mentioned here, but should be announced at Apsara netherlands tommorow. We have a date for Qwen4-max, it is November 1st. Edit: It says October 1st, so its probably a placeholder. PR:\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xi7390/qwen4_1m_context_window/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "5 Frontier LLM's grade 39 local LLM's on 50 prompts",
+     "summary": "This is just something i had running for about 10-20 hours (kept adding models), various tests/benchmarks and had 4 (Claude kind of graded, his tokens are too precious) frontier LLM's grade the answers of the local LLM's. Big models got about 44 and smaller models got 66 prompt/tests. Some written\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xi6edm/5_frontier_llms_grade_39_local_llms_on_50_prompts/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "MicroZig to Adopt Strict No LLM / No AI Policy",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50282865",
+     "url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "New York Times adds more AI features to its Cooking app. Users aren't thrilled",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50282766",
+     "url": "https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Get Ready for Touch on Mac",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50282650",
+     "url": "https://developer.apple.com/touch-on-mac/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50282544",
+     "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "StackOverflow now gets fewer than 1000 questions a month",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50282454",
+     "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Electronics hobbyist converts $120 DDR5 SODIMM kit into \u2018$1000\u2019 desktop kit to fight RAM crisis \u2014 ICs from SK hynix DDR5-5600 16GB modules used to create DDR5-7800 desktop sticks",
+     "summary": "So just read this article and had a couple questions about this as I have not much experience in this. Maybe the more experience people may be able to explain it better. Is this a viable path to upgrade hardware at a lower cost for LLM, is it much harder than as stated in the read like soldiering\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xi3l9r/electronics_hobbyist_converts_120_ddr5_sodimm_kit/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "AI is coming for particle physics, but it's AlphaFold type of narrow intelligence moment in the making",
+     "summary": "\u03c0Labs submitted by /u/navnt5 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xi2syj/ai_is_coming_for_particle_physics_but_its/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "I ran Doom inside the Qwen model weights!",
+     "summary": "Inspired by the qwenputer project posted in this sub earlier today, I managed to get a basic version of Doom running on the virtual machine created in the post. It's quite slow, but here we are. Doom running on an LLM. Project repo: https://github.com/mapestree/qwenputer-doom submitted by\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xi2jfm/i_ran_doom_inside_the_qwen_model_weights/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Single-Neuron Identity Shifts",
+     "summary": "These guys are running a pretty interesting experiment: https://neuronpersonas.com/ Credit where it's due, I came across it here: https://news.ycombinator.com/item?id=50266910 Basically, they're tweaking one single neuron at a time during inference, systematically going through every one for\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xi25sk/singleneuron_identity_shifts/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "CPT\u2019d Qwen9B on Polish legal data. How to make it chat? IMPORTANTLY: how to make it reason? and function call in my harness? and which to do first? [D]",
+     "summary": "TLDR: training my first general law model and unsure what to do with my data PRE-PS: it will be a replacement for opus in my current AI LAW harness, I know it will be hard but I wanna do this project and find it geniuenly fun. I\u2019m building a Polish legal model using Qwen3.5-9B-BASE (I plan to\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xi21f9/cptd_qwen9b_on_polish_legal_data_how_to_make_it/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Anthropic President Daniela Amodei Calls AI Girlfriends A \"Terrible Use Of AI\"",
+     "summary": "\"There are some applications of AI that we think are quite bad, like making AI girlfriends or boyfriends. I think that\u2019s a terrible use of AI and people should not do it \" \" The reason that I think that is because it is another step further down the road of disintermediation, of humans being\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xi1xgl/anthropic_president_daniela_amodei_calls_ai/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Zip it",
+     "summary": "submitted by /u/J_R_D_N [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xi1oid/zip_it/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "GPT-6 Astra painted this on a real robot arm, then filmed and edited it, all from one chat",
+     "summary": "What Astra did, in one Codex chat: designed three fish circling an empty centre, generated a concept image, then wrote 34 brush strokes simulated how the water would spread (and threw out a first version where the water swallowed the fish) compiled the arm\u2019s motion and checked the whole route for\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xi0o38/gpt6_astra_painted_this_on_a_real_robot_arm_then/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Qwen 3.8 27B vs Nanbeige 4.3 33B on 4xR9700s: Real World TPS and jobs/hour on my workload",
+     "summary": "I\u2019m the guy who posted the 4\u00d7 R9700 builds with $127 used EPYCs ( https://www.reddit.com/r/LocalLLaMA/comments/1x67qeu/4x_r9700_builds_with_127_used_epycs_107k_allin/ ). After seeing the Nanbeige benchmark results here, I spent the past few days testing it against Qwen on the work these machines\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xi07lg/qwen_38_27b_vs_nanbeige_43_33b_on_4xr9700s_real/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "TIL Demis Hassabis wanted to call Gemini \"Titan\" but Google's lawyers thought it sounded too aggressive",
+     "summary": "Reading a book about the AI race and came across this gem. Just another day at Google with the lawyers involved, I guess \ud83d\ude02 submitted by /u/TorturedPoet30 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xhyxxn/til_demis_hassabis_wanted_to_call_gemini_titan/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Models are chasing unrealistic benchmarks but the working-level intelligence is already achieved",
+     "summary": "I have a feeling that recent benchmarks are unrealistically pushing the bar into areas a normal developer rarely encounters, like binary reverse engineering or one-shotting a complex application, with some strictly chosen design patterns. What we actually want is an accurate model that follows\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhydgj/models_are_chasing_unrealistic_benchmarks_but_the/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "GitHub saw 7.4B commits in Sep., adding 4M CPU cores+160 PB storage to keep up",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50279722",
+     "url": "https://thenewstack.io/github-7-4b-commits-september/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Since it will take so long until we will see Gemini 4 Carbon with abyssmal low usage",
+     "summary": "submitted by /u/Bitter-College8786 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xhxsc4/since_it_will_take_so_long_until_we_will_see/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "What did Anthropic show to the monks....",
+     "summary": "What does this guy mean \"they exposed us to stuff, which I will not talk about, atleast one participant said they felt sick looking at it\". What kinda wonders or horrors are frontier labs keeping to themselves \ud83d\ude2d submitted by /u/kcolcllaw [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xhxpsx/what_did_anthropic_show_to_the_monks/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Rising rates of colorectal cancer found in nearly all age groups",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50279308",
+     "url": "https://www.uchicagomedicine.org/forefront/cancer-articles/rising-rates-of-colorectal-cancer",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Big Tech's thirst for water is sparking a global resistance",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50278754",
+     "url": "https://restofworld.org/2026/ai-datacenters-water-resistance-global/",
+     "source": "Hacker News"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Adam Mosseri says negativity around AI is \u2018going to get worse\u2019",
+     "summary": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast to talk about the\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Microsoft just shared Azure\u2019s actual revenue in dollars: $33.2 billion",
+     "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
+     "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Google expands AI Search ads globally as core ad growth slows",
+     "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+     "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Microsoft recorded $10 billion in revenue from OpenAI",
+     "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
+     "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Akai is embracing vibe-coded mods with an open-source MPC",
+     "summary": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by giving them early access to the device, which will have\u2026",
+     "url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+     "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
+     "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Creating AI value with enterprise context",
+     "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously\u2014for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the\u2026",
+     "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+     "source": "MIT Tech Review AI"
+    },
+    {
+     "headline": "Google launches Gemini 4 Carbon with a \u2018significant leap\u2019 in cybersecurity",
+     "summary": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and\u2026",
+     "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Anthropic just launched tools to show companies what their AI spending is buying",
+     "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+     "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Wiz\u2019s CTO on PHP2Shell and the coming \u2018vulnpocalypse\u2019",
+     "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched.\u2026",
+     "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "The \u2018Vulnpocalypse\u2019 is coming for the internet\u2019s aging code, says Wiz\u2019s CTO",
+     "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched.\u2026",
+     "url": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+     "summary": "Gemini 4 Carbon is essentially a slightly better version of Argon.",
+     "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Microsoft is ending Copilot support on smart TVs",
+     "summary": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a report by Windows Central. The news comes not from an\u2026",
+     "url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They\u2019re Not Better Than Humans\u2014Yet",
+     "summary": "To experiment with AI\u2019s predictive skills, I let Codex loose on a fantasy team. It tried to bench Erling Haaland at first, but it soon learned the error of its ways.",
+     "url": "https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/",
+     "source": "Wired AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "I just found out that my new book, Co-Existence, debuted at #3 on the New York Times bestseller list. Thank you so much to everyone who bought a copy!",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3myxvjwpfac2e"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "[AINews] Gemini 4 Carbon tops leaderboards, launches for cyber defenders",
+     "summary": "Google\u2019s new frontier model leads independent evals, with access initially limited to trusted defenders.",
+     "url": "https://latent.space/p/ainews-gemini-4-carbon/",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "My design Conversation with Roman Mars",
+     "summary": "Here is the audio, video, and transcript. Here is part of the episode summary: Roman Mars has built one of podcasting\u2019s great empires out of noticing things everyone else walks past. His show, 99% Invisible, has racked up over 500 million downloads telling stories about the unnoticed design\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/my-design-conversation-with-roman-mars.html?utm_source=rss&utm_medium=rss&utm_campaign=my-design-conversation-with-roman-mars",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Quoting Ted Sanders",
+     "summary": "In general, LLM performance is incredibly multidimensional. There's no guarantee of a fixed ordering where the model that is best at math is also the model that's best at jokes. Despite that complexity, much of the variation in performance is explained by just a single variable: model size. In\u2026",
+     "url": "https://simonwillison.net/2026/Oct/28/ted-sanders/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "Why Agents Love Supabase",
+     "summary": "Paul Copplestone and Ant Wilson on building the backend for AI agents",
+     "url": "https://latent.space/p/supabase/",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "Errors in the research of Emmanuel Saez and Gabriel Zucman",
+     "summary": "AI issues its judgment: 138 papers audited 2,035 problems found 147 serious enough to change a headline number 69% of papers have at least one 97% of major and moderate errors with a clear direction overstate the paper\u2019s claim And on the method: Two independent audits of each paper. One by Claude\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/errors-in-the-research-of-emmanuel-saez-and-gabriel-zucman.html?utm_source=rss&utm_medium=rss&utm_campaign=errors-in-the-research-of-emmanuel-saez-and-gabriel-zucman",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "How is AI shaping economic research?",
+     "summary": "Does generative AI narrow or widen productivity gaps in research? We study the distributional effects of AI on research productivity in economics using evidence from three sources: NBER working-paper and publication records, text-based measures of LLM-assisted writing, and an original survey of\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/how-is-ai-shaping-economic-research.html?utm_source=rss&utm_medium=rss&utm_campaign=how-is-ai-shaping-economic-research",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "jmanico/grim-prompter: Threat modeling for AI coding agents: point Claude Code, Codex or any agent at your repo and get an evidence-traced threat model. 36 architectures, 29 methods, MIT.",
+     "summary": "Threat modeling for AI coding agents: point Claude Code, Codex or any agent at your repo and get an evidence-traced threat model. 36 architectures, 29 methods, MIT.",
+     "url": "https://github.com/jmanico/grim-prompter",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "Speedrunlab/reverse-engineer-anything-self-learning-loop: Agent skill: examine a product you're authorised to rebuild, build your own, then test against the original and fix gaps until every\u2026",
+     "summary": "Agent skill: examine a product you're authorised to rebuild, build your own, then test against the original and fix gaps until every must-have on a written checklist passes. Inspired by REA (@morluto), not affiliated. MIT.",
+     "url": "https://github.com/Speedrunlab/reverse-engineer-anything-self-learning-loop",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-10-29T06:02+00:00",
+  "window_start": "2026-10-28T18:23+00:00",
+  "window_end": "2026-10-29T06:02+00:00",
+  "candidate_count": 55,
+  "model": "free (no LLM)"
+ }
+}
