@@ -1,0 +1,627 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI Digest — 2026-10-29T18:33+00:00</title>
+<style>
+  :root {
+    --bg: #0c0f14; --card: #141922; --card-hover: #1a2130; --border: #232b3a;
+    --text: #dfe6f0; --muted: #8b98ab; --accent: #5eb1ff; --accent2: #a78bfa;
+    --good: #4ade80; --bad: #f87171; --mid: #fbbf24;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text);
+         font: 16px/1.6 -apple-system, "Segoe UI", Roboto, sans-serif; }
+  .wrap { max-width: 860px; margin: 0 auto; padding: 32px 20px 64px; }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  header .brand { font-size: 13px; letter-spacing: 2px; text-transform: uppercase;
+                  color: var(--muted); }
+  header .brand a { color: var(--muted); }
+  h1 { font-size: 26px; margin: 6px 0 2px; }
+  .window { color: var(--muted); font-size: 14px; }
+  .overview { font-size: 17px; color: var(--text); margin: 18px 0 8px;
+              border-left: 3px solid var(--accent2); padding-left: 14px; }
+  .badges { display: flex; gap: 8px; flex-wrap: wrap; margin: 14px 0 26px; }
+  .badge { font-size: 12px; padding: 3px 10px; border-radius: 999px;
+           border: 1px solid var(--border); color: var(--muted); }
+  .badge.sent-bullish, .badge.sent-optimistic { color: var(--good); border-color: var(--good); }
+  .badge.sent-mixed { color: var(--mid); border-color: var(--mid); }
+  .badge.sent-skeptical, .badge.sent-anxious { color: var(--bad); border-color: var(--bad); }
+  .hero { background: linear-gradient(135deg, #16203a, #1b1530); border: 1px solid var(--border);
+          border-radius: 14px; padding: 22px 24px; margin-bottom: 30px; }
+  .hero .label { font-size: 12px; letter-spacing: 2px; text-transform: uppercase; color: var(--accent2); }
+  .hero h2 { margin: 8px 0 10px; font-size: 22px; }
+  .hero .why { color: var(--muted); font-size: 15px; margin-top: 10px; }
+  .hero .why strong { color: var(--text); }
+  h3.section { font-size: 14px; letter-spacing: 2px; text-transform: uppercase;
+               color: var(--muted); margin: 34px 0 12px; border-bottom: 1px solid var(--border);
+               padding-bottom: 8px; }
+  .card { background: var(--card); border: 1px solid var(--border); border-radius: 12px;
+          padding: 16px 18px; margin-bottom: 12px; }
+  .card:hover { background: var(--card-hover); }
+  .card h4 { margin: 0 0 6px; font-size: 16px; }
+  .card p { margin: 0; color: var(--muted); font-size: 14.5px; }
+  .src { display: inline-block; font-size: 12px; color: var(--accent2); margin-top: 8px; }
+  blockquote.take { margin: 0; }
+  .take .quote { font-size: 15.5px; font-style: italic; color: var(--text); }
+  .take .who { margin-top: 8px; font-size: 13.5px; color: var(--muted); }
+  .take .ctx { margin-top: 4px; font-size: 13.5px; color: var(--muted); }
+  .idea { border-left: 3px solid var(--accent2); }
+  .idea .hook { font-size: 15px; font-weight: 600; margin-bottom: 8px; }
+  .idea .draft { color: var(--text) !important; background: var(--bg); border: 1px dashed var(--border);
+                 border-radius: 8px; padding: 10px 12px; margin: 0 0 8px !important; }
+  .idea .why { font-size: 13.5px !important; }
+  .quiet { text-align: center; color: var(--muted); padding: 40px 0; font-size: 15px; }
+  .empty { color: var(--muted); font-size: 14px; font-style: italic; }
+  footer { margin-top: 44px; color: var(--muted); font-size: 12.5px;
+           border-top: 1px solid var(--border); padding-top: 14px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="brand"><a href="../index.html">AI NEWS DIGEST</a></div>
+    <h1>2026-10-29T18:33+00:00</h1>
+    <div class="window">Window: 2026-10-29T06:02+00:00 &rarr; 2026-10-29T18:33+00:00 (UTC)</div>
+  </header>
+
+  <p class="overview">Free-mode digest: candidates grouped by type (LLM synthesis disabled).</p>
+
+  <div class="badges">
+    
+    <span class="badge">84 candidates scanned</span>
+    <span class="badge">model: free (no LLM)</span>
+  </div>
+
+  
+
+  
+
+  
+  <div class="hero">
+    <div class="label">Top story</div>
+    <h2><a href="https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo/">Report: Trump did nothing with intel that China planted spy close to Nvidia CEO</a></h2>
+    <p>Spy accused of exploiting Trump ties to Huang, funneling secrets to China.</p>
+    
+    <span class="src">Ars Technica AI</span>
+  </div>
+  
+
+  
+
+  <h3 class="section">Model releases &amp; updates</h3>
+  
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/MachineLearning/comments/1xir3oa/tkintegers_k5_321_prefill_and_310_decode/">TKintegers K5: 3.21× prefill and 3.10× decode throughput vs TorchAO FP8 on NVIDIA L4 [R] [P]</a></h4>
+      <p>I built TKintegers, a balanced-ternary weight representation, converter, and GPU inference implementation. The result that stood out to me: the NVIDIA L4 has native FP8 tensor-core support, but my K5 implementation achieved higher throughput than the TorchAO FP8 baseline—even though the GPU has no…</p>
+      <span class="src">r/MachineLearning</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1xiqw9i/why_you_cant_trust_cloud_api_endpoints_40_days_of/">Why you can&#39;t trust cloud API endpoints: 40 days of coding-agent telemetry showing the exact day providers silently overwrote deepseek-v4.1-flash with -1017 (&#34;faster execution, shorter answers&#34; = 3x…</a></h4>
+      <p>Around mid-October deepseek-v4.1-flash suddenly started feeling much dumber in my coding agent, so I parsed my local session logs to see when it broke. Before the update it had a funny quirk where it would randomly reply in Chinese while being 100% convinced it was speaking English. In the -1017…</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/singularity/comments/1xiqi2z/elon_musk_saving_money_for_the_distant_future_is/">Elon Musk: Saving Money For The Distant Future Is Pointless</a></h4>
+      <p>Saving money for the distant future is pointless with the advent of super intelligent abundance https://x.com/elonmusk/status/2115686311134744736 I can&#39;t figure out if he is trolling or not. While I do think retirement accounts might be obsolete by 2050, it&#39;s infinitely more easier to not save…</p>
+      <span class="src">r/singularity</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1xiplj7/kokoro_can_now_clone_any_voice_with_just_600_mb/">Kokoro can now clone any voice with just ~600 MB of extra VRAM!</a></h4>
+      <p>While looking for audio models, I came across OpenVoice. It&#39;s getting pretty old, but surprisingly still ranks high on TTS leaderboards. What caught my attention was its design: essentially TTS + voice conversion . The ToneColorConverter can run independently of the TTS model. That got me…</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1xipftk/servicenowaiaprielvoice27bpreview_hugging_face/">ServiceNow-AI/Apriel-Voice-27B-preview · Hugging Face</a></h4>
+      <p>from Service Now AI: Apriel Voice 27B Preview An open model for speech, reasoning, and tool use from ServiceNow Apriel Voice 27B Preview understands spoken requests, reasons over conversational context, and generates text responses and tool calls through a shared Gemma 4 backbone. It adds a speech…</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/artificial/comments/1xip880/san_francisco_startup_offered_20_an_hour_to_walk/">San Francisco startup offered $20 an hour to walk robot dogs for AI training: report</a></h4>
+      <p>submitted by /u/Medical-Decision-125 [link] [comments]</p>
+      <span class="src">r/artificial</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/singularity/comments/1xioeg6/this_is_some_next_level_vfx_realityaware_rendering/">This is some next level VFX Reality-Aware rendering</a></h4>
+      <p>Found this on Instagram: Introducing Reality-Aware Rendering in Simulon, a completely new way to create with the real world. Place neural assets with your phone and act out the scene. When you stop recording, Simulon renders the take, reading everything in it (what you do, what you say and the…</p>
+      <span class="src">r/singularity</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/artificial/comments/1xio3wn/why_electricity_law_would_make_it_very_hard_to/">Why Electricity Law Would Make It Very Hard to Unplug a Rogue AI</a></h4>
+      <p>It’s one of the most popular what-ifs about rogue artificial intelligence: Suppose an AI agent really were to get out of control and start threatening hospitals, flights, critical infrastructure, or even humanity as a whole. Why wouldn’t we just pull the plug on it? A new report argues: We might…</p>
+      <span class="src">r/artificial</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/singularity/comments/1xio0u5/rsingularity_daily_discussion_thread_october_29/">r/Singularity Daily Discussion Thread — October 29, 2026</a></h4>
+      <p>Welcome to the daily r/singularity discussion thread! Use this thread for casual conversations, questions, speculation, AI developments, and anything related to the technological singularity that doesn&#39;t necessarily warrant its own post. Please keep discussions civil and follow the subreddit…</p>
+      <span class="src">r/singularity</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler">Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks</a></h4>
+      <p>Hacker News discussion: https://news.ycombinator.com/item?id=50290912</p>
+      <span class="src">Hacker News</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/artificial/comments/1xingp7/modders_unlock_hidden_ai_power_on_nvidia_rtx_20/">Modders unlock hidden AI power on Nvidia RTX 20, 30, and 40 series GPUs, nearly doubling some benchmarks</a></h4>
+      <p>submitted by /u/Resident-Fall4351 [link] [comments]</p>
+      <span class="src">r/artificial</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/artificial/comments/1xinf2c/microsoft_just_shared_azures_actual_revenue_in/">Microsoft just shared Azure&#39;s actual revenue in dollars: $33.2 billion | TechCrunch</a></h4>
+      <p>submitted by /u/Resident-Fall4351 [link] [comments]</p>
+      <span class="src">r/artificial</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/artificial/comments/1xina6j/will_it_be_ai_or_the_climate_crisis_that_ends/">Will it be AI or the climate crisis that ends humanity? We can make it neither</a></h4>
+      <p>submitted by /u/Ok-Conversation3213 [link] [comments]</p>
+      <span class="src">r/artificial</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/artificial/comments/1xin9g3/apple_and_google_fined_in_south_korea_over_app/">Apple And Google Fined In South Korea Over App Store Violations</a></h4>
+      <p>submitted by /u/Ok-Conversation3213 [link] [comments]</p>
+      <span class="src">r/artificial</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/singularity/comments/1xin9cx/ai_supercomputer_up_for_sale_on_ebay/">AI supercomputer up for sale on eBay</a></h4>
+      <p>Minnesota reseller Core 4 Solutions listed a decommissioned 300-rack cluster for $59.7 million, or best offer. Inside it : up to 9,600 Nvidia A100 GPUs and 4,200 AMD processors, with about 1.4 petabytes of memory in total. The listing also offers free local pickup, free FedEx Ground delivery, or…</p>
+      <span class="src">r/singularity</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/singularity/comments/1xin6ik/people_threw_hardest_research_problems_from_their/">&#34;People threw hardest research problems from their academic career. The model was just knocking out one after the other. Many different fields.&#34;</a></h4>
+      <p>submitted by /u/ilkamoi [link] [comments]</p>
+      <span class="src">r/singularity</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/">Mexico has a growing fleet of new vehicles from Chinese brands</a></h4>
+      <p>Hacker News discussion: https://news.ycombinator.com/item?id=50290668</p>
+      <span class="src">Hacker News</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/singularity/comments/1ximxhx/10_millions_of_compute_on_navierstokes_100/">&#34;$10+ millions of compute on Navier-Stokes. $100+ millions on other discoveries including much more than what we have published&#34;</a></h4>
+      <p>https://www.youtube.com/watch?v=iMsUcCYNKqY submitted by /u/ilkamoi [link] [comments]</p>
+      <span class="src">r/singularity</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/artificial/comments/1ximm2m/insurance_tech_just_got_a_2b_ai_deal_are_our/">Insurance tech just got a $2B AI deal. Are our rates cooked?</a></h4>
+      <p>Guidewire is acquiring AI underwriting startup hyperexponential for $1.7B in cash, with the total deal potentially reaching $2.1B. I think this will only enable them to connect more dots and eventually squeeze even more money out of us. AI deciding how much to pay. Almost exactly what IBM warned…</p>
+      <span class="src">r/artificial</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.bostonglobe.com/2026/10/23/opinion/ai-impact-cognitive-ability-eric-so/">MIT professor says AI is taking over your brain</a></h4>
+      <p>Hacker News discussion: https://news.ycombinator.com/item?id=50290324</p>
+      <span class="src">Hacker News</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://trakkr.ai/trakkr-research/zombie-stats">Zombie stats: Where the numbers AI quotes come from</a></h4>
+      <p>Hacker News discussion: https://news.ycombinator.com/item?id=50290283</p>
+      <span class="src">Hacker News</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://martinfowler.com/bliki/LLM-Voice.html">LLM Voice</a></h4>
+      <p>Hacker News discussion: https://news.ycombinator.com/item?id=50290177</p>
+      <span class="src">Hacker News</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/singularity/comments/1xilupe/mistral_releases_open_weights_for_its_1/">Mistral releases open weights for its 1 trillion-parameter Large 4 model</a></h4>
+      <p>submitted by /u/joe4942 [link] [comments]</p>
+      <span class="src">r/singularity</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1xils4t/i_think_local_ai_cost_me_a_job/">I think local AI cost me a job</a></h4>
+      <p>Got headhunted by a VC-backed AI-focused company, ended up skipping past two levels of their application/interview process because of that. Got 15 minute call with the co-founder, hit it off well, but it all seemed to go sour when he asked about my AI setup and I told him I run qwen locally on a…</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/">Manifestos, Fear, and &#39;Loser Thinking&#39;: Inside Proton&#39;s AI Reckoning</a></h4>
+      <p>Hacker News discussion: https://news.ycombinator.com/item?id=50289692</p>
+      <span class="src">Hacker News</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1xilihw/anyone_else_suffering_from_verbose_poor_technical/">Anyone else suffering from verbose, poor technical documentation and explanations with Q3.8-Flash-Next?</a></h4>
+      <p>The model is quite good at technical work. But ask how something works, or ask it to document something, and it overkills with extremely verbose explanations, extremely dense technical language that is difficult to understand, and using strange metaphors that don&#39;t make sense. I haven&#39;t been able…</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://github.com/owls-on-wires/keplearn">Keplearn: Extract Equations from Data in Seconds</a></h4>
+      <p>Hacker News discussion: https://news.ycombinator.com/item?id=50289590</p>
+      <span class="src">Hacker News</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1xil58b/mistralaimistrallarge41ta52b_hugging_face/">mistralai/Mistral-Large-4-1T-A52B · Hugging Face</a></h4>
+      <p>https://huggingface.co/ggml-org/Mistral-Large-4-1T-A52B-GGUF https://huggingface.co/ggml-org/Mistral-Large-4-1T-A52B-NVFP4-GGUF https://huggingface.co/unsloth/Mistral-Large-4-1T-A52B-GGUF from Mistral: Mistral Large 4 - Le Chonk Mistral Large 4 is our largest and most capable model to date: a 1…</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/MachineLearning/comments/1xil53d/oldschool_classifiers_are_still_generally_better/">Old-school classifiers are still generally better than Jev [P]</a></h4>
+      <p>There’s a lot of hype right now around decision models like Jev. But in most real use cases, you have some labeled data, and can use it to personalize your model. So we tested the old-school approach to classification and regression: Embed your inputs with an open-source or cheap embedding model…</p>
+      <span class="src">r/MachineLearning</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1xil3qy/mistral_large_4_le_chonk_is_now_open_weight/">Mistral Large 4 (Le Chonk) is now open weight</a></h4>
+      <p>submitted by /u/Few_Painter_5588 [link] [comments]</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/artificial/comments/1xikfco/a_oneperson_studio_shipped_a_steam_demo_of_a/">A one-person studio shipped a Steam demo of a 12-chapter FPS coded by AI agents in 20 working days. Here is what the agents could and could not do.</a></h4>
+      <p>I am Ekin, a one-person game studio in Turkey. On 28 October the free demo of Iron Curtain Call went live on Steam: a fast cartoon-noir FPS set in an alternate 1965 where a customer-service AI runs World War III. The code is written by Claude Code agents working from my design documents: 3,929…</p>
+      <span class="src">r/artificial</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1">Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5</a></h4>
+      <p>Hacker News discussion: https://news.ycombinator.com/item?id=50288019</p>
+      <span class="src">Hacker News</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://iptrust.co/blog/if-ipv4-were-land">If IPv4 were land</a></h4>
+      <p>Hacker News discussion: https://news.ycombinator.com/item?id=50287775</p>
+      <span class="src">Hacker News</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/singularity/comments/1xii8r2/rsi_in_mathematics/">RSI in mathematics?</a></h4>
+      <p>recursive self improvement has been a goal for a long time. and I think we have been thinking about it in terms of SWE and building towards AGI. watching the insane progress in math, and how mathematics is built on itsself, I was wo dering about a recursive improvement loop in fundamental math.…</p>
+      <span class="src">r/singularity</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1xii45s/safeagents_an_opensource_proxy_that_checks_every/">SafeAgents: an open-source proxy that checks every tool call your coding agent makes before it runs</a></h4>
+      <p>SafeAgents is a small local proxy that sits between a coding agent and its model server. It checks each tool call in the model&#39;s response before the harness receives it. A call it flags is replaced with a short text notice, so the harness gets a plain text reply and runs nothing. You point the…</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/singularity/comments/1xihm40/constellation_launched/">Constellation launched</a></h4>
+      <p>submitted by /u/krzonkalla [link] [comments]</p>
+      <span class="src">r/singularity</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/singularity/comments/1xih8qk/biotech_about_to_go_vertical/">Biotech about to go vertical?</a></h4>
+      <p>https://x.com/m\_goes\_distance/status/2115111611652276717 submitted by /u/petburiraja [link] [comments]</p>
+      <span class="src">r/singularity</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/MachineLearning/comments/1xig3sd/a_lukewarm_defense_of_minsky_and_papert_d/">A (lukewarm) defense of Minsky and Papert [D]</a></h4>
+      <p>TLDR: Perceptrons didn&#39;t have a big impact on the community and didn&#39;t cause an AI winter. It was, however, seen retrospectively as the manifesto for anti-connectivism paradigms Thoughts? submitted by /u/Seretur99 [link] [comments]</p>
+      <span class="src">r/MachineLearning</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/artificial/comments/1xifxgv/europes_data_centers_are_booming_who_gets_first/">Europe&#39;s data centers are booming. Who gets first dibs on electricity?</a></h4>
+      <p>submitted by /u/kindermaxi123 [link] [comments]</p>
+      <span class="src">r/artificial</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/MachineLearning/comments/1xif85l/leaving_a_job_to_pursue_a_phd_d/">Leaving a job to pursue a PhD [D]</a></h4>
+      <p>I have been working as a ML Engineer at a startup for 4 years and while the environment is very good and the pay is higher than average, I&#39;m thinking whether I want to pursue a PhD. Working and doing the PhD at the same time is not really viable so this would also potentially mean quitting. What I…</p>
+      <span class="src">r/MachineLearning</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1xif7hy/hemmingwayaihemmingway15_qwen_finetune/">HemmingwayAI/Hemmingway-1.5 (Qwen finetune)</a></h4>
+      <p>https://huggingface.co/bartowski/HemmingwayAI_Hemmingway-1.5-GGUF from hemmingwayAI: Hemmingway-1.5 The undetectable AI. Writing indistinguishable from a human&#39;s. 27B parameters, open weights, free for non-commercial use. hemmingway.io → · Model card → · Try it → · API → · API docs → · Mac,…</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1xif6lf/apsara_conference_qwen4_next_week/">Apsara conference: Qwen4 next week</a></h4>
+      <p>The Apsara conference is taking place right now in Amsterdam. According to a participant, the CTO of Alibaba Cloud said Qwen4 would be launching next week. submitted by /u/rerri [link] [comments]</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/MachineLearning/comments/1xienbl/has_anyone_gotten_birefnet_to_work_on_mobile_npus/">Has anyone gotten BiRefNet to work on mobile NPUs and GPUs? especially Qualcomm [D]</a></h4>
+      <p>I&#39;ve been trying to get BiRefNet to work on Qualcomm&#39;s mobile GPUs and NPUs. But i guess it&#39;s deformable convolutions are pretty complex for those chips. I want a sub second latency performance on these chips for a project I&#39;m doing Has anyone tried it before? I&#39;m trying to compile it to their…</p>
+      <span class="src">r/MachineLearning</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/artificial/comments/1xiein9/new_aa_intelligence_index_v5_with_private_tests/">New AA intelligence index v5 with “Private tests” conveniently upranks GPT, Google’s models, while open weights chinese models downrank</a></h4>
+      <p>The new Artificial Analysis intelligence index v5, is being criticised, because its introduction of &#34;trust me bro&#34; private tests on private datasets, significantly downranking current open weights models on the index. Just after its published, google announces Carbon 4, which is placed on the top…</p>
+      <span class="src">r/artificial</span>
+    </div>
+    
+  
+
+  <h3 class="section">Frontier lab developments</h3>
+  
+    
+    <div class="card">
+      <h4><a href="https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo/">Report: Trump did nothing with intel that China planted spy close to Nvidia CEO</a></h4>
+      <p>Spy accused of exploiting Trump ties to Huang, funneling secrets to China.</p>
+      <span class="src">Ars Technica AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/">Granola crunches up a dictation feature to compete with Wispr</a></h4>
+      <p>Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.</p>
+      <span class="src">TechCrunch AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://openai.com/index/updated-model-spec">An updated Model Spec for more capable and beneficial AI</a></h4>
+      <p>OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.</p>
+      <span class="src">OpenAI Blog</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/">Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity</a></h4>
+      <p>Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can&#39;t.</p>
+      <span class="src">TechCrunch AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/">US investigated Chinese spy plot aimed at Nvidia CEO</a></h4>
+      <p>A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.</p>
+      <span class="src">TechCrunch AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/">Google admits AI search makes less money, but it&#39;s fixing that with more ads</a></h4>
+      <p>Google&#39;s negative cash flow balloons to -$9.06 billion, and stock price tumbles following Q3 earnings.</p>
+      <span class="src">Ars Technica AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/">Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction</a></h4>
+      <p>Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream&#39;s world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.</p>
+      <span class="src">TechCrunch AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/">Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents</a></h4>
+      <p>Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for…</p>
+      <span class="src">NVIDIA Blog</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://engineering.fb.com/2026/10/29/security/catching-bugs-before-they-land-jittestings-human-on-the-loop-approach-at-full-scale/">Catching Bugs Before They Land: JiTTesting’s Human-on-the-Loop Approach at Full Scale</a></h4>
+      <p>Over the last year we’ve been sharing our work leveraging large language models to catch bugs on the fly — a novel approach we call Catching Just-in-Time Tests (JiTTests). Now, we’re sharing the results and positive impact we’ve seen with Catching JiTTests deployed into production. Our paper,…</p>
+      <span class="src">Meta Engineering</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad">Microsoft’s AI future has fewer jobs</a></h4>
+      <p>To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the size of Microsoft&#39;s workforce. Microsoft is now offering voluntary buyouts to around 60,000…</p>
+      <span class="src">The Verge AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/">The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself</a></h4>
+      <p>A new startup called &amp;Truth is joining the race to automate formal verification, a painstaking process that uses math to prove software works as intended.</p>
+      <span class="src">Wired AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool">The NYT Cooking app is testing AI recipe modifications</a></h4>
+      <p>The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has sparked some drama among users. Last Friday, NYT Cooking senior editor Genevieve Ko announced the feature, which can be used to recommend substitutions for ingredients and cooking…</p>
+      <span class="src">The Verge AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/">Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round</a></h4>
+      <p>On Thursday, AI app Wabi, now describing itself as a &#34;personal agent,&#34; said it has raised $55 million at a $1.25 billion valuation.</p>
+      <span class="src">TechCrunch AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview">Anthropic is asking Wall Street to believe in AGI</a></h4>
+      <p>Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document known as an S-1. Anthropic just filed its S-1 to go public on the Nasdaq, and it could start […]</p>
+      <span class="src">The Verge AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/">Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race</a></h4>
+      <p>The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity.</p>
+      <span class="src">Wired AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1">Granite Switch 4.1.1 — Update models like you update software</a></h4>
+      <p></p>
+      <span class="src">Hugging Face Blog</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive">Anthropic’s business plan: Build God or die trying</a></h4>
+      <p>The Anthropic S-1 seems to have provided the financial justification for the company to spend as much as it possibly can on compute. If you are the kind of person who wonders if Anthropic is doing its level best to build a machine god while convincing Wall Street it&#39;s in the business of selling IT…</p>
+      <span class="src">The Verge AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/">Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on GeForce NOW</a></h4>
+      <p>This Halloween week, GFN Thursday is delivering a fresh batch of gaming treats. Something wicked this blade comes. S-GAME’s Phantom Blade Zero launches on GeForce NOW today, bringing a scarily good blend of martial arts and punk fantasy to the cloud. There’s also something on the horizon for…</p>
+      <span class="src">NVIDIA Blog</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/">Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure</a></h4>
+      <p>With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure.</p>
+      <span class="src">TechCrunch AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/">Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions</a></h4>
+      <p>The update allows you to use Alexa to create lists, register them, see what&#39;s on them, and add or edit items. You can also manage subscriptions.</p>
+      <span class="src">TechCrunch AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://mistral.ai/news/mistral-large-4-oss/">Le Chonk: Built for Coders, Trusted by Defenders.</a></h4>
+      <p>The weights of Mistral Large 4 (Le Chonk) are now open. A 1T parameter multimodal model, and best open-weight model for coding, trained in Europe.</p>
+      <span class="src">Mistral AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/">We urgently need to monitor AI agents’ actions in real time</a></h4>
+      <p>This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an…</p>
+      <span class="src">MIT Tech Review AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc">AI has come for Arizona’s water</a></h4>
+      <p>A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites. The complex is simultaneously massive and squat, dwarfed by the mountains that…</p>
+      <span class="src">The Verge AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/">I Gave My Blood to the AI Death Clock</a></h4>
+      <p>Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me.</p>
+      <span class="src">Wired AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://openai.com/index/how-we-detect-frontier-model-misalignment">How we detect frontier model misalignment</a></h4>
+      <p>OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.</p>
+      <span class="src">OpenAI Blog</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://openai.com/index/ropes-gray-ai-diligence">How Ropes &amp; Gray is developing AI for transactional diligence</a></h4>
+      <p>Ropes &amp; Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.</p>
+      <span class="src">OpenAI Blog</span>
+    </div>
+    
+  
+
+  <h3 class="section">Influencer takes &amp; sentiment</h3>
+  
+  <p class="empty">No notable takes this window.</p>
+  
+
+  <h3 class="section">Research &amp; under the radar</h3>
+  
+    
+    <div class="card">
+      <h4><a href="https://marginalrevolution.com/marginalrevolution/2026/10/can-artificial-intelligence-forecast-treatment-effects-in-economics.html?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=can-artificial-intelligence-forecast-treatment-effects-in-economics">Can Artificial Intelligence Forecast Treatment Effects in Economics?</a></h4>
+      <p>I use LLMs to forecast treatment effects of research studies pre-registered on the AEA RCT Registry and the Open Science Framework. I focus on studies whose results were first publicly released in 2026 and elicit forecasts from models whose training or knowledge cut-off dates were before the…</p>
+      <span class="src">Marginal Revolution</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/">Building a multiplayer game world with autonomous Fable-class models</a></h4>
+      <p>How I Built the Most AI-Pilled Company in the World Don&#39;t be put off by the clickbait headline, this piece by Jacob Sansbury describing how they are building Spawn is a fascinating exploration of the bleeding edge of what&#39;s possible with agentic engineering against frontier models. Spawn is a…</p>
+      <span class="src">Simon Willison</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://marginalrevolution.com/marginalrevolution/2026/10/thursday-assorted-links-576.html?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=thursday-assorted-links-576">Thursday assorted links</a></h4>
+      <p>1. “A whopping 79 NBA players are listed on today’s 2:30 PM injury report for tonight’s games. That’s roughly 15% of the entire league” This is just week one people! And some commentary. 2. Video making the case that AI has been fine for jobs. 3. John Repetti reviews The Rouse at Jacobin. 4. Is…</p>
+      <span class="src">Marginal Revolution</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.chinatalk.media/p/the-manhattan-project-take-two">The Manhattan Project, Take Two</a></h4>
+      <p>Barnett Koven on American innovation and Super Intelligence</p>
+      <span class="src">ChinaTalk</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://latent.space/p/elorian/">Can Frontier Models See Past a Decoy? Elorian Tests Visual Reasoning</a></h4>
+      <p>A new decoy counting benchmark exposes a gap between seeing and reasoning. Elorian’s Glimpse tries to bridge it by thinking with images.</p>
+      <span class="src">Latent Space</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://simonwillison.net/2026/Oct/29/ben-hylak/">Quoting Ben Hylak</a></h4>
+      <p>every product i use should just be a headless mcp, that feeds into an agent, where i never have to think about anything underneath. except for our product, of course. in our product, customers love the ui and love us very much. we&#39;re special that way. — Ben Hylak Tags: model-context-protocol , ai</p>
+      <span class="src">Simon Willison</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.bensbites.com/p/ai-is-overwhelming-and-im-doing-it">AI is overwhelming and I’m doing it wrong</a></h4>
+      <p>Let’s think about what we’re doing here</p>
+      <span class="src">Ben&#39;s Bites</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://marginalrevolution.com/marginalrevolution/2026/10/how-tyler-cowen-and-alex-tabarrok-have-changed-their-views-on-ai.html?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-tyler-cowen-and-alex-tabarrok-have-changed-their-views-on-ai">How Tyler Cowen and Alex Tabarrok Have Changed Their Views on AI and Where They Disagree</a></h4>
+      <p>From the Archives-written by ChatGPT. Both became dramatically more confident in AI’s capabilities while remaining optimistic about its economic potential. Their differences concern how benefits arrive, how seriously to weight emerging dangers, and whether AI might possess consciousness. Cowen…</p>
+      <span class="src">Marginal Revolution</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.chinatalk.media/p/how-to-make-fun-of-chinese-ai">Roasting China’s AI Industry</a></h4>
+      <p>“AI is full of scammers, narcissists, and people whose activities are incomprehensible — and somehow they get funding.“</p>
+      <span class="src">ChinaTalk</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://stratechery.com/2026/an-interview-with-palantir-cto-shyam-sankar-about-the-ai-religious-war/">An Interview with Palantir CTO Shyam Sankar About the AI Religious War</a></h4>
+      <p>An interview with Palantir CTO Shyam Sankar about AI diffusion and safety, forward-deployed engineer, and what the battle in tech is actually about.</p>
+      <span class="src">Stratechery</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://marginalrevolution.com/marginalrevolution/2026/10/ai-dominates-human-peer-reviews.html?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ai-dominates-human-peer-reviews">AI dominates human peer reviews</a></h4>
+      <p>We show that AI-generated article reviews are now better, by every measure we could construct, than reviews written by well-compensated human experts and judged to be of unusually high quality by journal editors and authors. We then discuss how this result may inform journal policy choices, with…</p>
+      <span class="src">Marginal Revolution</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://github.com/jackwener/DeepseekHarness-Android">jackwener/DeepseekHarness-Android: 免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku</a></h4>
+      <p>免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku</p>
+      <span class="src">GitHub Trending</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://github.com/yjid/kensaku">yjid/kensaku: Search inside documents, code, and even screenshots - instantly and locally. A free, open-source file launcher with OCR, semantic search, and MCP agent access.</a></h4>
+      <p>Search inside documents, code, and even screenshots - instantly and locally. A free, open-source file launcher with OCR, semantic search, and MCP agent access.</p>
+      <span class="src">GitHub Trending</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://github.com/mutonby/agentring">mutonby/agentring: Let your AI agents call your phone over VoIP, and call them back. Your phone rings like a real call, even locked; a voice AI talks it through and returns the transcript.…</a></h4>
+      <p>Let your AI agents call your phone over VoIP, and call them back. Your phone rings like a real call, even locked; a voice AI talks it through and returns the transcript. Self-hosted, open source, no phone numbers or Twilio.</p>
+      <span class="src">GitHub Trending</span>
+    </div>
+    
+  
+
+  
+
+  <footer>
+    Generated 2026-10-29T18:33+00:00 UTC
+    
+    &middot; <a href="../index.html">all reports</a>
+  </footer>
+</div>
+</body>
+</html>
