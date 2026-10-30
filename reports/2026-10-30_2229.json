@@ -1,0 +1,235 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "boardshogunfluctuate/Capri-AI: \u26a1 Tell your PC what to do. Capri is a cyberpunk AI agent that works with your files, projects and code through Claude Code, Codex or Antigravity. Windows installer, no\u2026",
+   "summary": "\u26a1 Tell your PC what to do. Capri is a cyberpunk AI agent that works with your files, projects and code through Claude Code, Codex or Antigravity. Windows installer, no terminal. Fan-made, not affiliated with CD PROJEKT RED.",
+   "why_it_matters": "",
+   "url": "https://github.com/boardshogunfluctuate/Capri-AI",
+   "source": "GitHub Trending"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "AMD reportedly plans another Radeon GPU price increase in November",
+     "summary": "submitted by /u/chemist_slime [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjrery/amd_reportedly_plans_another_radeon_gpu_price/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Local ai made it to space \ud83d\ude80",
+     "summary": "Google just confirmed that its Project Suncatcher satellite successfully ran Gemma 4 on an onboard TPU and transmitted its first generated response back to Earth. It wrote a poem \ud83d\udc4c https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjrdji/local_ai_made_it_to_space/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Google shares first AI-generated response from space, a haiku",
+     "summary": "submitted by /u/LinkedInNews [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xjr68w/google_shares_first_aigenerated_response_from/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Understanding llama.cpp Context Checkpoints for Sliding Window Attention Models",
+     "summary": "I was figuring out a llama.cpp crash when running Gemma 4 12B, and it turned out the crash was a OOM crash, from running out of RAM, not VRAM. The culprit ended up being context checkpoints piling up while I was stress testing the setup. I didn't actually know what these checkpoints where or how\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjr54i/understanding_llamacpp_context_checkpoints_for/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Benchmarks are an unreliable measure of difficulty",
+     "summary": "Very interesting paper on the way that benchmark question difficulty and framing affect the observed improvement in scores for model training. \u201cOur results show that many benchmarks implicitly overweight certain difficulty regions, so their leaderboard conclusions should be interpreted with\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjr3th/benchmarks_are_an_unreliable_measure_of_difficulty/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "[PR] Xing4.0-29B-A4B GGUF via ik_llama.cpp \u2014 Full native mHC/MLA runtime + HF converter",
+     "summary": "Hey everyone, China Telecom (TeleAI) recently released Xing4.0-29B-A4B (a 29.5B MoE with ~4B active parameters, combining DeepSeek-style MLA and 4-stream mHC residual mixing): Model: https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B Upstream llama.cpp PRs are currently stalled or closed due to\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjqsb4/pr_xing4029ba4b_gguf_via_ik_llamacpp_full_native/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "AI cracks a 27-year-old pillar of computer science, OpenAI and Anthropic claim",
+     "summary": "submitted by /u/Fcking_Chuck [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xjqc40/ai_cracks_a_27yearold_pillar_of_computer_science/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Product Managers aren't safe either",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50309534",
+     "url": "https://lucaskostka.com/posts/ai-challenges-more-than-devs",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Qwen27b vs GPT 6",
+     "summary": "submitted by /u/Express_Quail_1493 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjpfvi/qwen27b_vs_gpt_6/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "OpenAI CEO Sam Altman says it's \"quite terrible\" for your PC to have RAM \u2014 Sam Altman says data centers offer better utilization",
+     "summary": ">\"From a global allocation perspective, actually, it's quite terrible to have everybody have a bunch of the world's limited supply of DRAM sitting in their own computer and being used 5% of the time,\" Altman said. \"You want maximum utilization in the cloud if you're trying to deal with this very\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xjpdqk/openai_ceo_sam_altman_says_its_quite_terrible_for/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "vLLM now has PLE disk offload support on nightly",
+     "summary": "submitted by /u/rmhubbert [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjpbcg/vllm_now_has_ple_disk_offload_support_on_nightly/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "What Happened With Gemini?",
+     "summary": "I am a newbie to AI but have been using Gemini for some proceedings with legal and medical issues. So far, it hasn't been 100% accurate, but it has been mostly helpful and has helped me save a lot of time. Lately, I ask some questions and am getting very lame answers like; \"I can't answer that,\"\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xjp9ah/what_happened_with_gemini/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Benchmark Same 32 models on M2 Pro, M3 Ultra M4 Pro and M5 Max",
+     "summary": "I had four Macs free overnight and ran the same benchmark on all of them: same build, same models, same settings. Decode speed, tok/s (4-bit, no speculative decoding): Model M2 Pro 32GB M4 Pro 48GB M5 Max 36GB M3 Ultra 256GB Qwen3.5 4B 63 79 133 159 gpt-oss 20B 50 74 114 132 Gemma 4 26B (MoE) 53\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjp58z/benchmark_same_32_models_on_m2_pro_m3_ultra_m4/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "If an AI video defames someone, who should the victim actually sue, the person who prompted it, the model provider, or the platform that kept it up?",
+     "summary": "This feels like a question we're going to have to take seriously pretty soon. We've already seen cases where AI generated likenesses are used in ways people never agreed to, from unauthorized ads to digital replicas that go beyond what someone thought they had consented to. I've been paying more\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xjozdg/if_an_ai_video_defames_someone_who_should_the/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "UPDATE - New Quants: Swift 1.5 Flash Next - Heretic v2 - ReverseEngineer",
+     "summary": "Original post: https://www.reddit.com/r/LocalLLaMA/comments/1xix35p/release_swift_15_flash_next_heretic_v2/ Hello! At request I've released a few more formats of my Swift Flash Next Heretic reverse engineering edition. The original model is the IQ4_NL, the first quant I made and the best\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjo7rt/update_new_quants_swift_15_flash_next_heretic_v2/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Multi-Token Prediction Done Right [R]",
+     "summary": "Sharing one of our latest papers on Multi-Token Prediction (MTP). MTP is now a standard recipe for frontier pre-training but turns out, it can be done much better. We show the standard MTP gradient hides a KL self-distillation signal (which we want for improving speculative decoding) behind a\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xjnz40/multitoken_prediction_done_right_r/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "So uh...where are we on uncensored / NSFW audio models?",
+     "summary": "IIRC there was a guy working on this a year or so ago but it didn't seem to go anywhere. Meanwhile there's a new Gemma-4-Max-Fursona-UwU-9000 every day. Is there no interest or is there just a lack of resources / knowledge? submitted by /u/draetheus [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjn911/so_uhwhere_are_we_on_uncensored_nsfw_audio_models/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "MIT's claim that 95% of AI pilots fail - Is this true?",
+     "summary": "submitted by /u/killboy123 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xjmtot/mits_claim_that_95_of_ai_pilots_fail_is_this_true/",
+     "source": "r/artificial"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Intel\u2019s stock crashes, knocking $12B from government\u2019s stake",
+     "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
+     "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Anthropic expected to receive high \u2018junk\u2019 rating from credit agencies following IPO, report says",
+     "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
+     "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Supersonic airliner in doubt as company shifts to powering AI data centers",
+     "summary": "Boom\u2019s airliner may be delayed, and its data center power business lost a customer.",
+     "url": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Last-minute Halloween costumes for tech nerds",
+     "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
+     "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "How a Contractor\u2019s Claude Agent Got Into the Pentagon",
+     "summary": "This week on \u201cUncanny Valley,\u201d we discuss the contractor who plugged their AI agent into a Pentagon system, Anthropic\u2019s IPO filing, and the volunteers gearing up to counter ICE at the midterms.",
+     "url": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Cracks are emerging in the AI spending boom",
+     "summary": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
+     "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+     "summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
+     "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Sam Altman says it\u2019s better for RAM to be in a data center than on your desk",
+     "summary": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI's impact on math, Altman said: \"A\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Dartmouth's provost warned us about AI cheating\u2014but his own AI use cost him his job",
+     "summary": "People who love AI don't always love telling others they used it.",
+     "url": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "The biggest names in AI are backing a new way to opt out of scraping",
+     "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of\u2026",
+     "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Basically no one is using AI agents for their DoorDash orders",
+     "summary": "But it's still early days for the relatively new e-commerce use case.",
+     "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Google\u2019s satellite AI server transmits its first response to Earth",
+     "summary": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space:\u2026",
+     "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+     "source": "The Verge AI"
+    }
+   ],
+   "influencer_takes": [],
+   "research_radar": [
+    {
+     "headline": "boardshogunfluctuate/Capri-AI: \u26a1 Tell your PC what to do. Capri is a cyberpunk AI agent that works with your files, projects and code through Claude Code, Codex or Antigravity. Windows installer, no\u2026",
+     "summary": "\u26a1 Tell your PC what to do. Capri is a cyberpunk AI agent that works with your files, projects and code through Claude Code, Codex or Antigravity. Windows installer, no terminal. Fan-made, not affiliated with CD PROJEKT RED.",
+     "url": "https://github.com/boardshogunfluctuate/Capri-AI",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "dbreunig/nesformer",
+     "summary": "dbreunig/nesformer Inspired by qwenputer by Divyansh Agrawal, Drew Breunig baked a working emulator for a Nintendo Entertainment System 6502 CPU into the weights of Qwen3.5-4B. You can now play NES ROMs such as Super Mario Bros (very slowly) running inside Qwen! In a comment on Hacker News Drew\u2026",
+     "url": "https://simonwillison.net/2026/Oct/30/nesformer/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "jackwener/DSH-Android: \u514d ROOT \u514d Termux\uff0c\u4e00\u4e2a APK \u5728\u5b89\u5353\u624b\u673a\u4e0a\u8dd1 DeepSeek Harness\u3002\u5f15\u64ce\u5185\u5d4c App \u8fdb\u7a0b \u00b7 \u8bfb\u5c4f\u64cd\u4f5c App \u00b7 \u6539\u7cfb\u7edf\u8bbe\u7f6e \u00b7 \u5b9a\u65f6/\u6761\u4ef6\u81ea\u52a8\u5316 \u00b7 \u53ef\u9009 Shizuku",
+     "summary": "\u514d ROOT \u514d Termux\uff0c\u4e00\u4e2a APK \u5728\u5b89\u5353\u624b\u673a\u4e0a\u8dd1 DeepSeek Harness\u3002\u5f15\u64ce\u5185\u5d4c App \u8fdb\u7a0b \u00b7 \u8bfb\u5c4f\u64cd\u4f5c App \u00b7 \u6539\u7cfb\u7edf\u8bbe\u7f6e \u00b7 \u5b9a\u65f6/\u6761\u4ef6\u81ea\u52a8\u5316 \u00b7 \u53ef\u9009 Shizuku",
+     "url": "https://github.com/jackwener/DSH-Android",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "sloemo01/diorama: Pixel-art diorama playbook and Three.js code kit: research-first build workflow, locked camera, palette snap, ordered dither, inked contour, animated toy-scale cast, per-entity\u2026",
+     "summary": "Pixel-art diorama playbook and Three.js code kit: research-first build workflow, locked camera, palette snap, ordered dither, inked contour, animated toy-scale cast, per-entity frame QA.",
+     "url": "https://github.com/sloemo01/diorama",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-10-30T22:29+00:00",
+  "window_start": "2026-10-30T18:05+00:00",
+  "window_end": "2026-10-30T22:29+00:00",
+  "candidate_count": 34,
+  "model": "free (no LLM)"
+ }
+}
