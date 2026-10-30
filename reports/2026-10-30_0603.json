@@ -1,0 +1,358 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Complete Dell workstation with 96GB NVIDIA GPU may cost less than graphics card alone",
+   "summary": "submitted by /u/chemist_slime [link] [comments]",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xj7g31/complete_dell_workstation_with_96gb_nvidia_gpu/",
+   "source": "r/LocalLLaMA"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Complete Dell workstation with 96GB NVIDIA GPU may cost less than graphics card alone",
+     "summary": "submitted by /u/chemist_slime [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xj7g31/complete_dell_workstation_with_96gb_nvidia_gpu/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "OpenAI\u2019s Astra Model Becomes Top Distillation Target for China\u2019s AI Labs",
+     "summary": "According to The Information : Moonshot AI distilled Astra during the development of its new model, Kimi K3.1 Pro, which was released last week , according to three people with direct knowledge of the matter. Similarly, DeepSeek\u2019s V4.1-Flash 1017, an Oct. 17 upgrade to its V4.1-Flash model that\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xj5nu9/openais_astra_model_becomes_top_distillation/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Artificial Analysis, Updated HLE Diamond: Open Weights Models Trail By More Than 30 Points",
+     "summary": "submitted by /u/Neurogence [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xj4yjf/artificial_analysis_updated_hle_diamond_open/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Guys I think I found our GPUs",
+     "summary": "From a data center near you, you could find a lot in stock of unused gpu for your Local LLM that we could\u2019ve only dreamed of. Let\u2019s hope maybe they will file a return or maybe you know a hook up. Glad to see they are being put to use collecting dust. Anywho I\u2019m kinda amazed to get an idea where\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xj4qi0/guys_i_think_i_found_our_gpus/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "BMO, CIBC, RBC, TD Bank block personal AI agents, citing safety and security",
+     "summary": "Everyone should just get bank jobs they will never use AI. lols. submitted by /u/LazyPotatoHead97 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xj4635/bmo_cibc_rbc_td_bank_block_personal_ai_agents/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Which lab is going to be the first one to do it?",
+     "summary": "submitted by /u/Recoil42 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xj462p/which_lab_is_going_to_be_the_first_one_to_do_it/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50299182",
+     "url": "https://www.penligent.ai/hackinglabs/cve-2026-98432/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Betelgeuse",
+     "summary": "https://x.com/taker_of_whizz/status/2115915980945936620 submitted by /u/ilkamoi [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xj3go1/betelgeuse/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Pico CSS is no longer maintained",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50298964",
+     "url": "https://github.com/picocss/pico/discussions/754",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Claude Opus 5.5 and GPT-6 Astra independently audit 138 economics papers, flagging 2,035 potential problems and 147 potentially headline-changing findings. A third AI attempts to verify and refute\u2026",
+     "summary": "submitted by /u/141_1337 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xj2r4a/claude_opus_55_and_gpt6_astra_independently_audit/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Reddit will force everyone to log in",
+     "summary": "Recently, CEO Steve Huffman disclosed that Reddit will transition to a \"logged-in-only\" experience. This means that Reddit posts will no longer be searchable via internet browsers, significantly impacting local AIs that search the internet via tool calling. submitted by /u/Fcking_Chuck [link]\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xj2pnp/reddit_will_force_everyone_to_log_in/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Qwen 3.8 what am I missing here?",
+     "summary": "I'm just starting my journey here into local LLM. Since I work in VFX I've got a 5090 and 256GB of sys mem. Installed LM studio and downloaded Qwen 3.8 27B since that very comfortably fits in VRAM. Set it to low effort and all the other typical starting defaults. I ask it to give me a three line\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xj2hi1/qwen_38_what_am_i_missing_here/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Herdr has released native app",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50298436",
+     "url": "https://github.com/herdrdev/herdr-app",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "10 coding agents, one Qwen 3.8 27B, same llama-server: tokens and cache reuse differ more than pass rates",
+     "summary": "Part 2 of my agent test (part 1 was a 4B model) Hardware I used: MacBook Pro M5 Max, 64 GB. Qwen 3.8 27B Q4 on llama.cpp, thinking off. Setup same model and server for everyone 5 small coding tasks, each with a little trap each agent locked in a sandbox: it can only touch its own folder and only\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xj182d/10_coding_agents_one_qwen_38_27b_same_llamaserver/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Benchmark: Tiny Harbor, a living 3D island village in three.js (Qwen 3.8 Flash Next)",
+     "summary": "Saw this prompt on r/DeepSeek and thought I'd give it a shot on my current local build (Qwen 3.8 Flash Next NVFP4). Results are decent, not as good as DeepSeek on the first pass, but I think little back and forth would probably close the gap. DISCLAIMER: The content below has been written/polished\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xj0w5d/benchmark_tiny_harbor_a_living_3d_island_village/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "What happened to this sub?",
+     "summary": "In the past few days I have been seeing so many comments on this sub which are basically anti-ai bots from like r/technology or any normal reddit sub, in a recent post like when Altman was talking about their internal models, or when Elon musk talked about Tesla ramping up Optimus (now its\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xj0rf8/what_happened_to_this_sub/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Show HN: I Turned DOOM into a Transformer",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50297697",
+     "url": "https://github.com/mottopanikeiku/doomformer",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Sam Altman: \u201cLocal inference is a terrible allocation of scarce resources\u201d",
+     "summary": "Sam Altman: \u201c Local inference is a terrible allocation of scarce resources. A lot of people want local inference, and somehow they assume that the problem is solved now because we have open-source models, we're going to be able to run them on our computers, and so we're not going to need all the\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xizbq1/sam_altman_local_inference_is_a_terrible/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Arc: a ~70 MB streaming speech model that transcribes links names and metadata to your own list as they're spoken, with no second model [p]",
+     "summary": "I built Arc-Transcriber, which does ASR-NL in 1-step. Every 100 ms, one model returns the transcript plus: - Names linked to a list you give it (a roster, contacts, product names); new names are flagged \"not on the list\" - Numbers with their values (scores, clocks, money, dates) - Speakers and\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xiyuoj/arc_a_70_mb_streaming_speech_model_that/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "AI agents (run by Claude Sonnet 5) did brain surgery on a mouse [Spoilers: it recovered]",
+     "summary": "submitted by /u/Background-Wafer-548 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xiygu0/ai_agents_run_by_claude_sonnet_5_did_brain/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Google value plunges by $500B as AI fears rattle Wall Street",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50297037",
+     "url": "https://www.bbc.com/news/articles/cm9qzdqpxy48o",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Proton goes all in on using AI",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50296602",
+     "url": "https://convo.casa/@b/117525936178835007",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Arguably unethical behavior from Cohere",
+     "summary": "3 days ago, u/Cohere generated a huge amount of media attention and many fear-mongering headlines by publishing a largely unscientific blog post about an \"experiment\" where they used extensive pre-filling and prompt engineering to force Qwen 3.8 Flash Next to complete partial cURL commands. Today,\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xix61q/arguably_unethical_behavior_from_cohere/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "We ran AI agent swarms in Minecraft and Mindustry",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50296486",
+     "url": "https://labs.ycombinator.com/projects/games/index.html",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Release: Swift 1.5 Flash Next - Heretic v2 - ReverseEngineer",
+     "summary": "This model was made in collaboration with u/jeffpeng3 (on huggingface) who developed the v2 heretic weights for this quant. He managed to preserve both reasoning ability and output length. Great work, and a big step up from his v1 weights. I made the quantization recipe and the imatrix recipe, and\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xix35p/release_swift_15_flash_next_heretic_v2/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Sam Altman reveals OpenAI barely understood how to scale AI agent swarms even as they tackled some of mathematics' hardest problems. He expects major progress in swarm coordination within 3 months\u2026",
+     "summary": "submitted by /u/141_1337 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xiwplq/sam_altman_reveals_openai_barely_understood_how/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Polymarket got hacked",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50295883",
+     "url": "https://twitter.com/PolymarketTrade/status/2115874609014726842",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "W(2;3,21) = 416 - a van der Waerden number conjectured by Kullmann in 2010, now proved with a Lean 4 kernel-checked proof [R]",
+     "summary": "w(2;3,21) = 416 - today proved with a Lean 4 kernel- checked proof (preprint + 13.6 GB evidence package). Every red-blue colouring of {1, ..., 416} contains a red 3-term or a blue 21-term arithmetic progression, and some colouring of {1, ..., 415} contains neither. Kullmann conjectured the value\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xivpue/w2321_416_a_van_der_waerden_number_conjectured_by/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "A tiny world model running games on a Raspberry Pi Pico 2 W",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50295450",
+     "url": "https://github.com/SheepSeb/tinyworldformer",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Anyone attending NeurIPS 2026 in Paris willing to present a poster? [D]",
+     "summary": "Hi everyone! We have a paper accepted at the NeurIPS 2026 E-Values Workshop, but unfortunately can\u2019t attend due to financial constraints. Would anyone already attending be kind enough to present our poster on our behalf? We\u2019d prepare everything and would also be happy to offer a small monetary\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xium4n/anyone_attending_neurips_2026_in_paris_willing_to/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "The importance of communities around software",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50294507",
+     "url": "https://lumi.codeberg.page/blog/software-community.html",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Show HN: Auto Dismiss Mac OS \"Allow to find devices on local networks?\"",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50294506",
+     "url": "https://github.com/johncassil/dontallow",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "IgE disruptor for food allergy with Claude-enabled antibody design [pdf]",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50294486",
+     "url": "https://divergencelabs.com/publications/ige-preprint.pdf",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "UkisAI Swift GLM5.3 + GSQ-RCO, Swift Ornith 9B / -57.7% Token Usage with <1% accuracy loss on max reasoning",
+     "summary": "Hi everyone, Jovan from UkisAI here, Today we are expanding our Swift model series with two models requested by the community. We made Swift GLM-5.3-Flash and Swift Ornith 9B more efficient by figuring out which tokens were linked to pathological overthinking and penalizing them without\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xisqge/ukisai_swift_glm53_gsqrco_swift_ornith_9b_577/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Thoughts",
+     "summary": "submitted by /u/ZealousidealTale1324 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xisk0b/thoughts/",
+     "source": "r/singularity"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "You don\u2019t need to believe in a god to get a religious exemption from using AI at work",
+     "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+     "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+     "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+     "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "As search traffic dries up, Reddit announces it\u2019s shifting to a logged-in experience",
+     "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
+     "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Rivian expands joint venture with VW to include AI assistant",
+     "summary": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
+     "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "OpenAI-backed Thrive Holdings acquires ADT",
+     "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
+     "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Microsoft Research Focus \u2013 Edition #97",
+     "summary": "Host Sowbhagya Suresh shares some of the latest news and cutting-edge research from across Microsoft\u2014from understanding the challenges facing coding agents to uncovering how people use AI at work and improving extended-range weather forecasting. The post Microsoft Research Focus \u2013 Edition #97\u2026",
+     "url": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97/",
+     "source": "Microsoft Research"
+    },
+    {
+     "headline": "Meta quietly launches an AI fashion app called Style Sketch",
+     "summary": "The app connects to Instagram to build a virtual closet from photos you\u2019ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
+     "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Trump declares robot imports a national security threat",
+     "summary": "President orders trade talks on foreign-made factory robots, threatens tariffs.",
+     "url": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "You can generate and edit Google Docs files directly in Gemini chats now",
+     "summary": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on both the web and\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
+     "summary": "Sources tell WIRED that an Accenture employee\u2019s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
+     "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+     "source": "Wired AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "I had Opus build a game that takes JIRA tickets from any of your real projects & converts them into dramatic audiologs that are the plot of a 2000s-era horror game set on a mysteriously abandoned space station. Play a demo: wontfix-game.netlify.app Github: github.com/emollick/aud...",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mz2nfm6wts2m"
+    },
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "This is good advice from the Claude Code team (posted on X) for how to think about working with models like Opus 5.5. I would add: build checkpoints where the model reports back to you with interim ideas or prototypes so you can guide & give feedback, rather than one-shotting on your goal.",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3myzwg2oxgk25"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Chronicle of Higher Education interviews me on AI and education",
+     "summary": "Scott Carlson did the work (gated, but free with registration), here is one excerpt: Cowen: \u2026Another proposal I\u2019ve made is that schools should let people do one class, only one class, AI-only \u2014 no professor, except a professor grades at the end. The professor grades not answers to an exam but the\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/chronicle-of-higher-education-interviews-me-on-ai-and-education.html?utm_source=rss&utm_medium=rss&utm_campaign=chronicle-of-higher-education-interviews-me-on-ai-and-education",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "API credits benefit for eligible ChatGPT subscriptions",
+     "summary": "API credits benefit for eligible ChatGPT subscriptions Earlier this month Anthropic announced a generous new benefit for their Max and Team subscriptions: $100, $200, and $500 per month subscribers would get the equivalent quantity of (expiring) credits to use with the Anthropic API. OpenAI have\u2026",
+     "url": "https://simonwillison.net/2026/Oct/29/api-credits/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "wangzan101/Mika: Mika \u2014 \u4f60\u624b\u673a\u4e0a\u7684\u79c1\u4eba AI \u52a9\u7406\uff0c\u66ff\u4f60\u64cd\u4f5c App\u3001\u4e0a\u7f51\u3001\u628a\u4e8b\u529e\u6210\u3002An on-device AI agent for Android that operates apps and the web to get things done for you.",
+     "summary": "Mika \u2014 \u4f60\u624b\u673a\u4e0a\u7684\u79c1\u4eba AI \u52a9\u7406\uff0c\u66ff\u4f60\u64cd\u4f5c App\u3001\u4e0a\u7f51\u3001\u628a\u4e8b\u529e\u6210\u3002An on-device AI agent for Android that operates apps and the web to get things done for you.",
+     "url": "https://github.com/wangzan101/Mika",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "jefferysha0627/agent-office-3d: A low-poly 3D office that shows your AI coding agents' live status \u2014 idle agents sneak off to play Minecraft (no tokens used).",
+     "summary": "A low-poly 3D office that shows your AI coding agents' live status \u2014 idle agents sneak off to play Minecraft (no tokens used).",
+     "url": "https://github.com/jefferysha0627/agent-office-3d",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "w0ldan/exoproc: TypeScript toolkit for Windows x64 native systems programming, memory manipulation, and process instrumentation.",
+     "summary": "TypeScript toolkit for Windows x64 native systems programming, memory manipulation, and process instrumentation.",
+     "url": "https://github.com/w0ldan/exoproc",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "sirioberati/YouTube-AI-Motion-Graphics: AI motion graphics for YouTube explainer videos: 74 animated HTML explainer boards (charts, diagrams, Venn, timeline, heatmap) synced to your voice with\u2026",
+     "summary": "AI motion graphics for YouTube explainer videos: 74 animated HTML explainer boards (charts, diagrams, Venn, timeline, heatmap) synced to your voice with Whisper, exported frame by frame with Chrome + FFmpeg. Every prompt + Claude skills. By TEIN AI.",
+     "url": "https://github.com/sirioberati/YouTube-AI-Motion-Graphics",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "Maefdancer29436/rpocket-team-elden-ring: Top Elden Ring Gameplay Enhancement Suite 2026: ESP & No Recoil",
+     "summary": "Top Elden Ring Gameplay Enhancement Suite 2026: ESP & No Recoil",
+     "url": "https://github.com/Maefdancer29436/rpocket-team-elden-ring",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-10-30T06:03+00:00",
+  "window_start": "2026-10-29T18:33+00:00",
+  "window_end": "2026-10-30T06:03+00:00",
+  "candidate_count": 54,
+  "model": "free (no LLM)"
+ }
+}
