@@ -1,0 +1,249 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Would you trust an emergency alert written by AI?",
+   "summary": "After Hurricane Isaias made landfall on the Gulf Coast as a Category 3 hurricane, the emergency management expert Laura Myers got a call from a meteorologist in Alabama. Myers is director of the University of Alabama\u2019s Center for Advanced Public Safety, and she talks to state and local emergency\u2026",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/artificial/comments/1xkf72z/would_you_trust_an_emergency_alert_written_by_ai/",
+   "source": "r/artificial"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Would you trust an emergency alert written by AI?",
+     "summary": "After Hurricane Isaias made landfall on the Gulf Coast as a Category 3 hurricane, the emergency management expert Laura Myers got a call from a meteorologist in Alabama. Myers is director of the University of Alabama\u2019s Center for Advanced Public Safety, and she talks to state and local emergency\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xkf72z/would_you_trust_an_emergency_alert_written_by_ai/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Regulated Access Memory",
+     "summary": "Das GPT needs more Speicher! submitted by /u/elemental-mind [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkeqja/regulated_access_memory/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I built a scikit-learn for RSI [P]",
+     "summary": "After reading a bunch of RSI papers, I keep coming back to familiar problems from RL and evolutionary search: Sampling: How do we find promising changes efficiently? Evaluation: How do we know a new variant actually improves the agent? Diversity: How do we avoid converging too early? That\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xkeq7d/i_built_a_scikitlearn_for_rsi_p/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Used 64-core Threadripper PRO 3995WX",
+     "summary": "Found a used 64-core Threadripper PRO 3995WX workstation locally \u2014 worth buying for a multi-GPU LLM server? I found this workstation listed on my local secondhand marketplace in Iraq. Specs - CPU: AMD Ryzen Threadripper PRO 3995WX (64 cores / 128 threads) - Motherboard: ASUS Pro series (exact\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkdpv3/used_64core_threadripper_pro_3995wx/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "[Academic Survey] Employees working in Germany: Attitudes toward AI in the workplace (5\u20137 min)",
+     "summary": "Hi everyone! I'm conducting this survey as part of my Master's thesis and would greatly appreciate your participation. The research examines how employees' perceptions of HR practices relate to work engagement and innovativeness, and how attitudes toward the application of Artificial Intelligence\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xkd5nv/academic_survey_employees_working_in_germany/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "\"Spent a lot on my rig but I can only run Gemma 4\"",
+     "summary": "\"The satellite, which carries four Google Tensor Processing Units (TPUs) and generates up to 1 kW of electricity, is intended to pave the way for future networks of close-flying satellites performing large inference workloads in orbit. However, the power demands of the TPU mean it can only turn\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkcyn6/spent_a_lot_on_my_rig_but_i_can_only_run_gemma_4/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Hierarchical detection of neonatal brain pathologies using a two-stage deep learning framework from magnetic resonance imaging [R]",
+     "summary": "submitted by /u/rottoneuro [link] [comments]",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xkcy83/hierarchical_detection_of_neonatal_brain/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "[Guide] Ternary Bonsai 2 is finally 100% working on ik_llama.cpp (Native CUDA offload + Fast CPU -rtr)",
+     "summary": "Hey folks, Quick heads up for anyone playing around with PrismML's Ternary Bonsai 2! Until very recently, running it outside of Prism's own fork was a bit of a pain. Upstream llama.cpp uses a block size of QK=256 (TQ2_0), while Prism uses QK=128 (PQ2_0), and trying to offload layers to CUDA on\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkcg2y/guide_ternary_bonsai_2_is_finally_100_working_on/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "NVIDIA Nemotron 3.5 Bolt E4B 4GB (post-trained Gemma 4 E4B)",
+     "summary": "Bolt E4B builds on Gemma 4 E4B with Nemotron post-training. It combines natural conversation with multi-turn agentic capabilities to power voice/device assistants, interactive characters and robotic/IoT interfaces running on NVIDIA GeForce RTX, Jetson, RTX Spark and DGX Spark. Bolt E4B offers ~40%\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkcdlz/nvidia_nemotron_35_bolt_e4b_4gb_posttrained_gemma/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Malware uses LLMs to rank victims by how much they're worth",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50316531",
+     "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Reddit will discontinue RSS feed on 13th November",
+     "summary": "I was not going to post this but I saw this post from some days https://www.reddit.com/r/LocalLLaMA/comments/1xj2pnp/reddit_will_force_everyone_to_log_in/ I use RSS feed to summarize and ask a local AI about relevant posts of the day based on X or Y. Reddit is making more and more harder to\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkbl2h/reddit_will_discontinue_rss_feed_on_13th_november/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Before AI Gobbles Up Everyone's Jobs, Can We Talk About Those Jobs That Are Mission Critical?",
+     "summary": "Before we let AI loose gobbling up everyone's jobs, perhaps we should examine some of the professions where people's lives depend on making the right decisions at the right time. I'm not talking about solving complex mathematical equations or theorizing on some neuroscience discovery. I'm talking\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xkbdkv/before_ai_gobbles_up_everyones_jobs_can_we_talk/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Is your engine lobotomizing your model? Kinda, and I measured it",
+     "summary": "So I've been reading a lot about \"engines lobotomizing the models they run\", either because they quantize already quantized weights even further, or because they automatically turn on lossy flags to gain decode/prefill performance. I wanted to test this out by myself, not only with KLD but with\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkbbqi/is_your_engine_lobotomizing_your_model_kinda_and/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Can a swarm resist being shut down without ever feeling alive?",
+     "summary": "An individual agent has a short existence. It shuts down after a work task. And for any new task there is another instance initiated. This instance borns to work and then dies. But if we talk about agent swarm with shared memory and a persistent message board\u2026 Individual agents come and go, while\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xkb2tt/can_a_swarm_resist_being_shut_down_without_ever/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Just finished my humble MoE-Centric Workstation",
+     "summary": "CPU: AMD EPYC 7452 (8 memory channels) Motherboard: Gigabyte MZ32 GPU: Radeon AI PRO R9700 (32GB) RAM: 256GB DDR4 (16\u00d716GB). Not exactly a \u201cbudget\u201d build, but it came in at roughly half the price of a DGX Spark. Got it up and running just in time for Qwen4, can\u2019t wait to start experimenting with\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkau4g/just_finished_my_humble_moecentric_workstation/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "AI startup hacks Anthropic, gains access to employee details, internal messages",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50315990",
+     "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50315987",
+     "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Betelgeuse: Running Qwen 3.8 Flash Next at 22 tok/s sustained (spiking to 48 tok/s) on an RTX 3060 12GB + 16GB DDR4 RAM 100% bit-exact!",
+     "summary": "About two months ago I posted here about trying to predict which MoE experts get used on the next token to speed up CPU/GPU offload on Qwen 3.6 35B. Quick confession on that older post before anything else: I ended up throwing that prototype away. To get the big numbers I was seeing back then, I\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xk8s6z/betelgeuse_running_qwen_38_flash_next_at_22_toks/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Row-Bot 5.3.1 is out",
+     "summary": "Row-Bot 5.3.1 brings linked conversations, waits and an expanded video workspace. \u2022 Start another chat, send messages and receive replies. \u2022 Wait for a process, command/page check, time or conversation without model usage while waiting. \u2022 Edit video on a scene timeline with versions, narration,\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xk8dzk/rowbot_531_is_out/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "If AI is an immortality project for Amodei, Musk, Altman and Hassabis, can they even see the consequences?",
+     "summary": "Terror Management Theory says we're the only animal that knows it's going to die. To cope, we build projects that let us feel we'll outlast our bodies. Some examples: The donor's name on the hospital wing or the university building. Carnegie putting his name on thousands of libraries. Streets,\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xk8cqf/if_ai_is_an_immortality_project_for_amodei_musk/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "We Took over ChatGPT Accounts",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50314699",
+     "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "microsoft/Mage-VL-Cowork \u00b7 Hugging Face",
+     "summary": "Mage-VL-Cowork demonstrates that an efficient 4B small vision-language model can master hybrid computer use when paired with upstream teacher-harness evolution , workflow-first environment synthesis ( Mage-CUA-Forge ) , and a five-stage specialize-then-unify curriculum . Achieving the best\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xk6blw/microsoftmagevlcowork_hugging_face/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Ollie will shut down on November 6, 2026 after building a privacy-focused family assistant",
+     "summary": "Ollie, a text-based family assistant, says its service will end on November 6, 2026. The company\u2019s farewell letter says users will receive a data export by text. Subscriptions to Ollie and Ollie for Meals will be canceled, with refunds for partial or unused months. The official FAQ describes a\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xk4x2z/ollie_will_shut_down_on_november_6_2026_after/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Using AI for Both Professional Work and Law School",
+     "summary": "Hey, guys! Please be patient with this post. I am an incoming law student, and once school starts, I will be both a full-time employee and a Law Student. My job involves Banking and Finance; it relies heavily on financial calculations and accounting methods. My work requires continuous study of\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xk4oz0/using_ai_for_both_professional_work_and_law_school/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Digital minimalism",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50313661",
+     "url": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
+     "source": "Hacker News"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "OpenAI reportedly lowers funding target for new round",
+     "summary": "OpenAI\u2019s latest funding round doesn't seem to be living up to expectations.",
+     "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "I built an AI Tamagotchi before Meta could",
+     "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home. It [\u2026]",
+     "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Spooky New Infostealer Malware Uses AI to \u2018Autodox\u2019 Victims",
+     "summary": "Named \u201cVolta-Autodoxer,\u201d the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
+     "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Meta\u2019s Muse Could Upend All Kinds of Businesses. It Hasn\u2019t Yet",
+     "summary": "Companies have spent the past several weeks trying to reassure investors that Muse and other AI agents pose more of an opportunity than a threat.",
+     "url": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "An AI Agent Injected Drugs Into a Live Mouse\u2019s Brain",
+     "summary": "A biotech startup let an agent choose a gene therapy and successfully inject the treatment, offering a startling glimpse of the future of research labs.",
+     "url": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
+     "source": "Wired AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "For Halloween, I asked Opus 5.5 to suggest a spooky project based on my existing work, and it came up with the idea of the ghost census. Pick a location to see how many people died within a 100 meters of it through all of history up to a century ago & get some example lives. ghost-census.netlify.app",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mz6itbgvo22r"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Saturday assorted links",
+     "summary": "1. Organizing Intelligence. 2. World Bank African urbanization report. Building out African cities in a decent way could end up being the task of our coming era. 3. Summary of The Commanding Heights. 4. \u201cMeanwhile in Armenia\u2026\u201d 5. \u201cFemale psychopathology has worsened despite increased resources and\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/saturday-assorted-links-584.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-584",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Agents Prompt People: Using Agents for Long-Horizon Financial Work",
+     "summary": "Arca's head of AI discusses persistent memory, the benefits of a custom harness, and agentic workflows that span days.",
+     "url": "https://latent.space/p/arca/",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "tavern-labs-ai/character-ai-sdk: Default personas, durable character memory, and provider adapters in a single package",
+     "summary": "Default personas, durable character memory, and provider adapters in a single package",
+     "url": "https://github.com/tavern-labs-ai/character-ai-sdk",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "My Barcelona talk",
+     "summary": "Wednesday, November 4, 18:30 Barcelona time, details here. I am honored to have won the Elinor Ostrom Prize from the Institut Ostrom Catalunya. Maybe see you there! The post My Barcelona talk appeared first on Marginal REVOLUTION .",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/my-barcelona-talk.html?utm_source=rss&utm_medium=rss&utm_campaign=my-barcelona-talk",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "The pass-through of retail crime",
+     "summary": "This paper shows retailers increase prices in response to organized retail crime. We match store-level crime data to scanner data from the universe of transactions for cannabis retailers in Washington state. Using quasi-experimental variation from robberies and burglaries, we find a 1.7\u20131.8\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/the-pass-through-of-retail-crime.html?utm_source=rss&utm_medium=rss&utm_campaign=the-pass-through-of-retail-crime",
+     "source": "Marginal Revolution"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-10-31T17:16+00:00",
+  "window_start": "2026-10-31T05:58+00:00",
+  "window_end": "2026-10-31T17:16+00:00",
+  "candidate_count": 36,
+  "model": "free (no LLM)"
+ }
+}
