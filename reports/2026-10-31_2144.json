@@ -1,0 +1,195 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Apple CEO says the company doesn\u2019t \u2018want to ship AI for AI\u2019s sake\u2019",
+   "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+   "why_it_matters": "",
+   "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+   "source": "TechCrunch AI"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Jiahao Shao on X: \"Shame on @DarioAmodei / Anthropic. I never distilled Claude\u2014rollouts came from a strong open-source model; Claude just helped submit jobs and run analysis. Still got tagged for\u2026",
+     "summary": "submitted by /u/f0urxio [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkm5gz/jiahao_shao_on_x_shame_on_darioamodei_anthropic_i/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "How do I make search with local models feel like ChatGPT / Codex?",
+     "summary": "I\u2019m using Crawl4AI + SearXNG but it just feels so lackluster I don\u2019t know why. Feels like the results the local model gets back for research are missing a lot and / or are older less relevant results. I\u2019ll usually instruct saying something like \u201cusing the most up-to-date and relevant information\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkm2yb/how_do_i_make_search_with_local_models_feel_like/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Nearly 400 AI-Assisted Games. Is This the Next Big Shift in Gaming?",
+     "summary": "While most discussions around AI focus on chatbots, image generation, and automation, something interesting is happening in game development. A few months ago, I launched VibeToplist, a discovery platform for AI-assisted and vibe-coded games. What started as a small experiment is now approaching\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xklxrf/nearly_400_aiassisted_games_is_this_the_next_big/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Well, my local AI addiction officially got out of hand tonight.",
+     "summary": "Met a guy off Facebook Marketplace and scored 2x RTX 3090 Founders Editions for \u20ac1,700. The problem? I already had one 3090 FE. I am now sitting in my room looking at three 3090 FEs (72 GB GDDR6X VRAM) , and my current case barely fits one card, and that was only after I literally took pliers and\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xklq96/well_my_local_ai_addiction_officially_got_out_of/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Where the heck is Ilya?",
+     "summary": "Just my gut feeling says we need him participating in the discourse because\u2026 Gotta teach the AGI to love\u201d is his perspective and the only alignment strategy I feel like ultimately works. Ultimately I just can\u2019t see how we possibly control ASI, but if it can understand \u201clove\u201d perhaps we won\u2019t need\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xkkw6n/where_the_heck_is_ilya/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "What exciting architectural moves are we looking to see next in AI models?",
+     "summary": "We know from all the major chinese labs the current cutting edge architectures such as: conditional engram memory, hyper connections, attention residuals, sparse attention, etc... In the near horizon, we can likely expect looped transformers, Gated Delta Net 2 variants, maybe revival of diffusion\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkklyp/what_exciting_architectural_moves_are_we_looking/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Please tell me Qwen3.8-Flash-Next can be made to be better than this",
+     "summary": "I was quite excited with how well QFN did with some coding and adjacent tasks (like evaluating OSS repos, downloading and running models etc.). Using it for more general research is starting to show that it isnt actually very intelligent and gets lost in its own maze seemingly. Here's a recent\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkjrdl/please_tell_me_qwen38flashnext_can_be_made_to_be/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "An LLM inside an LLM - Same guy who put a RISK-V CPU inside Qwen has now made Karpathy's stories260k run on an NPU compiled inside Qwen 3.5-4B's weights",
+     "summary": "Code: https://github.com/divagr18/QwenPU Weights: https://huggingface.co/divagr1925/QwenPU From the original tweet : 1/3 A CPU inside an LLM is one thing, but running another LLM inside an LLM would be taking things a bit too far, wouldn't it? Anyways, here's an LLM running inside an LLM : QwenPU,\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkiuut/an_llm_inside_an_llm_same_guy_who_put_a_riskv_cpu/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Mac Studio M5U 256gb 2TB",
+     "summary": "I'm on the verge of pulling the trigger. Want something local for coding and some business automation stuff. Thinking I'll run Qwen 3.8+ and DeepSeek 4+. I'm coming from M4 Pro MBP and will still use that as my primary dev box. I run both Claude and gpt. I know local isn't quite the same as the\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkip46/mac_studio_m5u_256gb_2tb/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "CrowdGPT v2.6 - The collaborative LLM",
+     "summary": "For those who saw the original post , a week ago, I'm glad to announce CrowdGPT v2 (more precisely v2.6), a massive update to the original CrowdGPT project :D (scroll down to see what's new) For the newcomers: CrowdGPT is a project aiming to create a LLM without datacenters and without the usual\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkibxw/crowdgpt_v26_the_collaborative_llm/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Anthropic's Claude AI blocks video game cloning and reverse-engineering \u2014 sweeping new restrictions also hit legitimate developers and basic troubleshooting tasks",
+     "summary": "submitted by /u/Typical-Code-7006 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xkibsh/anthropics_claude_ai_blocks_video_game_cloning/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50318871",
+     "url": "https://ryanmadden.net/gpt-56-beats-factorio/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Is neuro-evolution relevant? [D]",
+     "summary": "I've experimented using neuro-evolution to train AI to play a variety of different games and I'm just curious as to how or if this technique is actually really used anywhere in industry or if people are doing research on this. I'd assume it'd probably relate with reinforcement learning in some way\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xkh5bw/is_neuroevolution_relevant_d/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Betelgeuse running Qwen 3.8 Flash Next IQ4_XS at 24 tok/s on 2x8GB DDR4 (14 tok/s on a single 16GB stick) + RTX 3060 12GB \u2014 0 dropped experts, 100% byte-exact",
+     "summary": "In my last thread on Betelgeuse ( bel-cli / bel-server ), the main pushback in the comments was: \"Okay cool, 22 tok/s on IQ2_XS , but 2-bit is too low\u2014what happens on an actual 4-bit quant like IQ4_XS where the experts are almost 2x larger?\" \"Why were you testing on a single 16GB stick of DDR4\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkh2ns/betelgeuse_running_qwen_38_flash_next_iq4_xs_at/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50318401",
+     "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Is it okay to share my experiments implementing research papers on my own LLM here? [P]",
+     "summary": "Hey everyone! I've built and trained a small LLM (~8M parameters) from scratch using PyTorch, mainly as an experimental lab where I can implement and test ideas from different research papers. I've been documenting the whole journey through casual blogs, including my mistakes, experiments, and\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xkgtly/is_it_okay_to_share_my_experiments_implementing/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "I'm Groot?",
+     "summary": "https://huggingface.co/GrootTeam/Groot-280B-A16B-261023 Best model under 500b params? Also have the smaller versions https://huggingface.co/GrootTeam/Groot-19B-A3B-261023 \"scores higher than the larger Qwen3.6-35B-A3B and Gemma-4-26B-A4B, and it gives shorter answers than both.\"\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkge1s/im_groot/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Apple CEO says the company doesn\u2019t \u2018want to ship AI for AI\u2019s sake\u2019",
+     "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+     "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+     "summary": "On November 4 at Boston\u2019s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
+     "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+     "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+     "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+     "source": "TechCrunch AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @simonwillison.net",
+     "handle": "",
+     "quote": "This thread is a good summary of how dramatically the craft of software engineering has changed over the past 12 months",
+     "context": "",
+     "url": "https://bsky.app/profile/simonwillison.net/post/3mz6vmxpth22j"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Explaining \u201cAI might obliterate you\u201d to senior policymakers in India",
+     "summary": "I gave a 20-minute talk in Delhi at the NDTV World Summit . The audience consisted of Indian policymakers, executives, and journalists. I\u2019ve transcribed the talk and included some highlight clips. I also reflect on several rhetorical decisions I made. The talk This summer, a swarm of AIs went\u2026",
+     "url": "https://www.alignmentforum.org/posts/RHxaRkarGp9snWoKY/explaining-ai-might-obliterate-you-to-senior-policymakers-in",
+     "source": "Alignment Forum"
+    },
+    {
+     "headline": "William Nordhaus, RIP",
+     "summary": "Here is notice from Yale, and from Paul Krugman, he was one of the true greats. For the pointer I thank several MR readers. The post William Nordhaus, RIP appeared first on Marginal REVOLUTION .",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/william-nordhaus-rip.html?utm_source=rss&utm_medium=rss&utm_campaign=william-nordhaus-rip",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "And so it begins\u2026",
+     "summary": "Researchers, I just uploaded a prominent QJE paper on climate change economics to @RefineDotInk and I loaded my critique of the paper. I asked the AI to offer an impartial verdict. I will make this report public. A new journal could collect these into \u201cSpecial Issues\u201d. That is from Matthew E.\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/10/and-so-it-begins-2.html?utm_source=rss&utm_medium=rss&utm_campaign=and-so-it-begins-2",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "tavern-labs-ai/persona-ai-sdk: Persona AI SDK: default personas, durable character memory, and Bedrock/OpenAI adapters in one package.",
+     "summary": "Persona AI SDK: default personas, durable character memory, and Bedrock/OpenAI adapters in one package.",
+     "url": "https://github.com/tavern-labs-ai/persona-ai-sdk",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "ProphetTitanhub21008/prove-the-resp-ui: Open the live page and check it against what you asked for. SHIP, FIX, or CAN'T SEE. Then patch only the named misses. Stop agents shipping a page they never\u2026",
+     "summary": "Open the live page and check it against what you asked for. SHIP, FIX, or CAN'T SEE. Then patch only the named misses. Stop agents shipping a page they never opened.",
+     "url": "https://github.com/ProphetTitanhub21008/prove-the-resp-ui",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "OFat34764e/InterviewCopilot-rpocket-team: EdTech application designed to bridge the gap between learning and landing your dream job",
+     "summary": "EdTech application designed to bridge the gap between learning and landing your dream job",
+     "url": "https://github.com/OFat34764e/InterviewCopilot-rpocket-team",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-10-31T21:44+00:00",
+  "window_start": "2026-10-31T17:16+00:00",
+  "window_end": "2026-10-31T21:44+00:00",
+  "candidate_count": 27,
+  "model": "free (no LLM)"
+ }
+}
