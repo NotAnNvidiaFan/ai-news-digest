@@ -1,0 +1,163 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "OpenAI might rebrand its data centers as \u2018AI compute campuses\u2019",
+   "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+   "why_it_matters": "",
+   "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+   "source": "TechCrunch AI"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Speedy is shockingly good for qwen3.8 FN",
+     "summary": "I had just finished setting up avalon, then i found speedy, which crushed avalon. https://github.com/freriadoc/Avalon https://github.com/DevDock-AI/Speedy Hardware: 4090, 128gb ddr5 3600, ryzen 9 7950x ISTA IQ3_S quant: Context Reading: cold prefill s Reading: reported tok/s Writing: generation\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlfhrd/speedy_is_shockingly_good_for_qwen38_fn/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "OpenAI is now capping how many paid ChatGPT accounts you can have per device and payment card",
+     "summary": "submitted by /u/Alone-Dragonfruit602 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xlfdof/openai_is_now_capping_how_many_paid_chatgpt/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Grok Bot users ran out of a week\u2019s usage overnight, and Elon Musk says the agent was costing too much",
+     "summary": "975845th reason why I'd never use Grok... submitted by /u/ross2000 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xlfd9v/grok_bot_users_ran_out_of_a_weeks_usage_overnight/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Mike Levins ideas on what Math and Minds are : A revolutionary paradigm on the old Platonic Hypothesis",
+     "summary": "Math is the way we understand Minds. Math is MIND. Think about Why is Software eating the world? and why AI is eating software - besides the AI Hype (ignore the speculative bubble for a second) why do we think Anthropic or OpenAI are worth 2T$$? becuase we belive MIND is the most powerful thing of\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xlf1xj/mike_levins_ideas_on_what_math_and_minds_are_a/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "An updated 2.3bpw model for qwen 27b + 12 GB cards: ties Qwen3.6 BF16 on LiveCode Bench and reduces error by 37-57% vs a previous checkpoint",
+     "summary": "Hello everyone! A few weeks ago, I released a 2.3bpw model intended for the 30xx 12 GB Ampere cards. Using a custom version of sjkvarn and several runtime changes, this made it possible to hit 200K ctx on a single 12GB card. Benchmarking placed it somewhere around qwen3.5 27b, but below 3.6. I've\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlerw1/an_updated_23bpw_model_for_qwen_27b_12_gb_cards/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Getting incredible results with a single RTX 3090ti and 128gb of ram. Deepseek-V4.1-Flash-1017 (35 tok/s decode) and Qwen3.8-Flash-Next (130 tok/s decode)",
+     "summary": "I'm sharing this here because this is working way better than it used to a few months ago with older models. I see people here posting slower speeds with much better hardware than mine and hopefully this information helps. I used gemini-flash to help me setup everything and I asked it to write up\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlec67/getting_incredible_results_with_a_single_rtx/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "QwenBend : Qwen writes a Bend program, then the same model type checks it with Bend2 rules and runs it inside its own forward pass",
+     "summary": "This is next step to Qwenputer perhaps the step that shouldn't have been taken but here it goes Qwen writes a Bend program, then the same model type checks it with Bend2 rules and runs it inside its own forward pass There is no interpreter, compiler or tool call just like qwenputer. The whole CPU\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xle8ta/qwenbend_qwen_writes_a_bend_program_then_the_same/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Is Gemma 4 E4B still the best small model for a local, tool-calling personal assistant? What am I missing?",
+     "summary": "I run a local assistant on a Mac (MLX via oMLX, 24 GB M5 Pro). It needs to call tools reliably across mail, calendar, notes and files, chain a few calls, and reply in a short, calm voice. It also has to synthesize/extract important information from my messages, emails, and notes. It also has to be\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xle3ul/is_gemma_4_e4b_still_the_best_small_model_for_a/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "tandem.cpp: Qwen3.8-Flash-Next at 97 tok/s on a single 4090 + 64 GB RAM, 3.3\u00d7 llama.cpp, works for any MoE",
+     "summary": "tandem.cpp is a patch set for llama.cpp that makes MoE models that don't fit in VRAM run faster. It keeps the most-used experts on the GPU and lets the CPU help with the rest, for any MoE model llama.cpp supports. Single-user decode is the target. Consumer PC (i5-12400F, 64 GB DDR4, RTX 4090),\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xldent/tandemcpp_qwen38flashnext_at_97_toks_on_a_single/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "What's One Repetitive Task You Would Automate With AI?",
+     "summary": "I'm a web designer, and one of the most repetitive things in my business is finding new clients. So naturally, email outreach was one of the first things I wanted to automate. But not just regular cold email where you send the same template to thousands of businesses. I use Swokei to find\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xlcntu/whats_one_repetitive_task_you_would_automate_with/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "DeepSeek open-sources a super-agent coding prototype: one Router, many Workers, minimal human attention",
+     "summary": "On October 31, the DeepSeek Harness team published a design essay, Exploring Super-agent Design: Towards a More Autonomous Agent System, alongside an MIT-licensed research prototype called dsh-superagent-prototype. The idea is not a new foundation model. It is orchestration around existing\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xlc9ye/deepseek_opensources_a_superagent_coding/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "llama2.c on a 2006 iPod @ 80 MHz w/ 64 MB ram and no FPU",
+     "summary": "hardware: PortalPlayer PP5022, ARM7TDMI @ 80 MHz, 64 MB ram wrote a fun rockbox plugin that runs Karpathy's llama2.c TinyStories models on an ipod video 5.5G. since there's no FPU, I ported llama2.c's int8 runq.c to use only integer math. it uses lookup tables -> exp/softmax + an integer square\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlboqi/llama2c_on_a_2006_ipod_80_mhz_w_64_mb_ram_and_no/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "It wasn't AI that flipped Proton's charge",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50328488",
+     "url": "https://blog.raed.dev/posts/proton-loser-thinking/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Singularity-Whitepilled Mathematician. \"I hope AI can help mathematicians break out of the straitjacket of being constrained by the first natural conjecture they cannot prove, and work on unraveling\u2026",
+     "summary": "submitted by /u/SammaVaco [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xlb3ys/singularitywhitepilled_mathematician_i_hope_ai/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Context translation",
+     "summary": "I\u2019ve seen the reports of models being setup so efforts to recreate/reverse engineer games are blocked. What if a translation layer is developed so the context that arrives to the models does not have any direct indication of what is being done on the agent side? It would need to be translated back\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlakqc/context_translation/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Like AI, we have had access to great computing power, all types of open and closed source softwares for decades. Still most people aren't even using Excel fully. AI is capable but most people won't\u2026",
+     "summary": "In this way AI is very overrated. 99% of even office users are basic excel users. We have had open source databases, rbdms, Hadoop and what not. Frankly most people don't even need AI submitted by /u/Inner-Schedule8998 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xlah5b/like_ai_we_have_had_access_to_great_computing/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Silencio-2: an 18M TTS with emotion and sound tags, ~20x realtime on CPU (open weights)",
+     "summary": "I made this, so treat it as biased. It is free and open, with no paid tier or API behind it. Silencio-2 is a fine-tune of Kyutai's Pocket TTS 18M that follows tags written inside the text: What a long day. [sigh] <whisper> Keep your voice down. <whisper> Keep your voice down. <angry> I said stop!\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl9yfi/silencio2_an_18m_tts_with_emotion_and_sound_tags/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I animated what GPT-4o's tokenizer does to \"strawberry\": real token ids, a tiny BPE run, and why the space belongs to the word (6 min video) [D]",
+     "summary": "I made this explainer for my small channel and would like feedback from people learning this, especially if anything is wrong. It follows one word the whole way: \"How many r's are in strawberry?\" is 8 tokens in o200k_base (the GPT-4o / GPT-5 tokenizer). \" strawberry\" is a single token, id 101830,\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xl9sv7/i_animated_what_gpt4os_tokenizer_does_to/",
+     "source": "r/MachineLearning"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "OpenAI might rebrand its data centers as \u2018AI compute campuses\u2019",
+     "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+     "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "AI can make tech CEOs\u2019 lives easier. What about everyone else?",
+     "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+     "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+     "source": "TechCrunch AI"
+    }
+   ],
+   "influencer_takes": [],
+   "research_radar": [
+    {
+     "headline": "As predicted, the ACA exchanges seem not to be stable",
+     "summary": "The average price of health insurance in the Obamacare marketplaces will rise by 13 percent next year, according to an analysis on Friday by KFF, the health research group. The Trump administration on Friday published new prices for 2027 in 30 states with markets managed by the federal government.\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/as-predicted-the-aca-exchanges-seem-not-to-be-stable.html?utm_source=rss&utm_medium=rss&utm_campaign=as-predicted-the-aca-exchanges-seem-not-to-be-stable",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Balanov/uncut: A 7 MB lossless coding-agent harness for shell, CI, and local models. No TUI. No silent context cuts.",
+     "summary": "A 7 MB lossless coding-agent harness for shell, CI, and local models. No TUI. No silent context cuts.",
+     "url": "https://github.com/Balanov/uncut",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-11-01T22:12+00:00",
+  "window_start": "2026-11-01T17:59+00:00",
+  "window_end": "2026-11-01T22:12+00:00",
+  "candidate_count": 22,
+  "model": "free (no LLM)"
+ }
+}
