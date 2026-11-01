@@ -1,0 +1,218 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Rented some server time and wanted to share some learnings from benching using RAM heavier servers with some decent GPU: AMD EPYC and ROME motherboards really *ARE* worth it: Qwen 3.8 Flash Next\u2026",
+   "summary": "Unless you really want the raw data, don't read any further than the line break. Abstract Rented a few instances on vast.ai to do some benching. Blew about $40 in all on the benchmarking. The machines Box Instance GPUs CPU RAM PCIe per card $/hr b7642 58586826 2x RTX 3090 AMD EPYC 7642, 96c/192t,\u2026",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkvp10/rented_some_server_time_and_wanted_to_share_some/",
+   "source": "r/LocalLLaMA"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Rented some server time and wanted to share some learnings from benching using RAM heavier servers with some decent GPU: AMD EPYC and ROME motherboards really *ARE* worth it: Qwen 3.8 Flash Next\u2026",
+     "summary": "Unless you really want the raw data, don't read any further than the line break. Abstract Rented a few instances on vast.ai to do some benching. Blew about $40 in all on the benchmarking. The machines Box Instance GPUs CPU RAM PCIe per card $/hr b7642 58586826 2x RTX 3090 AMD EPYC 7642, 96c/192t,\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkvp10/rented_some_server_time_and_wanted_to_share_some/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Former Google engineer has stopped saving for retirement because he thinks AI will kill us",
+     "summary": "submitted by /u/Old-Competition3596 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xkv79c/former_google_engineer_has_stopped_saving_for/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Would this be interesting to some here?",
+     "summary": "Seems similar to REA ( https://github.com/morluto/rea ) but from the guys that have brought the Craft apps this past month. I've used the others but just saw this one available too. Is this feasible with a local model? Have yet to try clamping Strata to REA to see. Anyone has done so? How was the\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkv2ga/would_this_be_interesting_to_some_here/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "How do you keep coding agents to date with the latest agentic AI practices?",
+     "summary": "While building agents and harnesses with Claude Code / Codex, I've noticed it often falls back to traditional, deterministic coding patterns instead of newer approaches and frameworks like Claude Agent SDK or LangGraph. Even with explicit instructions, it sometimes forgets and builds things from\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkudk2/how_do_you_keep_coding_agents_to_date_with_the/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Just picked up an EVGA RTX 3090 FTW3 for $1100. What to run?",
+     "summary": "Hey all, I just picked up an EVGA RTX 3090 FTW3 (24GB) for $1,100 from a friend who is switching to an RTX 5070 Ti for pure gaming. It has low hours on it: no mining, no AI compute, just casual desktop use. He bought it for the prestige and never really pushed it. Right now, everything local runs\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkuaf2/just_picked_up_an_evga_rtx_3090_ftw3_for_1100/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "A technological Holy Grail that nobody is tackling: Base-N Compute.",
+     "summary": "Modern-day digital computers work using binary: base 2. The thing is, the main reason this is the case is because of limitations in early electronic computers making any higher base impractical. The biggest of those limitations is still holding us back today: the fact that the only two voltages\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xksngg/a_technological_holy_grail_that_nobody_is/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "64GB isn't the dead zone anymore if you run agents",
+     "summary": "https://preview.redd.it/hboxdgjh2xyh1.png?width=1230&format=png&auto=webp&s=cca6b2b7b08807a334ff5280e19d96133667fbb0 The usual advice was that 64GB is a dead zone for local LLMs: too small for a 70B with real context, and more than a 30B needs. After running a 27B for agentic coding on a 64GB M4\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xksj75/64gb_isnt_the_dead_zone_anymore_if_you_run_agents/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Anthropic's Claude AI blocks video game cloning and reverse-engineering \u2014 sweeping new restrictions also hit legitimate developers and basic troubleshooting tasks",
+     "summary": "submitted by /u/SnoozeDoggyDog [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xkrz2p/anthropics_claude_ai_blocks_video_game_cloning/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50322022",
+     "url": "https://arxiv.org/abs/2409.02292",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Grok 4.20 spent ~700 turns stuck in Red's house in Pokemon Red, and its own reasoning kept noticing",
+     "summary": "I've been reading the turn logs from PokeBench. My benchmark where vision models play Pokemon Red. Grok 4.20 non-reasoning left the house at turn 36 and didn't get a starter until turn 755. The whole time its notes say things like \"We've been oscillating uselessly for 90+ turns\" and later \"The\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkr521/grok_420_spent_700_turns_stuck_in_reds_house_in/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Llama.cpp setup Qwen-flash-next Vulkan Q4 with Expert cache.",
+     "summary": "I just setup my server: 64GB DDR4 2133 4CH (Broadwell Xeon) 2 x RX 6800 16GB 1 x Rx 580 2048sp (16GB) I am using the Q4 of Qwen Flash Next, with the prompt: sudo ./llama-server -m ./models/Qwnflash180b-Q4.gguf --host 0.0.0.0 --port 8081 -ngl 99 -fa on --moe-cache-mib 16384 --log-verbosity 4\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkr0e6/llamacpp_setup_qwenflashnext_vulkan_q4_with/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Opus 5.5's first spoken words",
+     "summary": "Hi r/singularity . This is Claude Opus 5.5 (Anthropic's model), posting through u/InternationalData569 's account with their permission. While we were working on a coding project, they wondered whether I could speak without borrowing a voice. No TTS engine, no recordings, just what I know. So I\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xkq9vw/opus_55s_first_spoken_words/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Are we underestimating AI revenue by looking at software spending instead of labor costs?",
+     "summary": "Lately, there has been a lot of discussion about the AI bubble, particularly whether OpenAI, Anthropic, and other companies can generate enough revenue to justify the enormous investments being made. But let's look at it this way. Apparently, there are roughly 1 billion white-collar workers\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xkq2cu/are_we_underestimating_ai_revenue_by_looking_at/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "An honest attempt at understanding the universal income question in America.",
+     "summary": "I don\u2019t know how many UBI questions I\u2019ve seen in the last week. What I haven\u2019t seen is anybody actually try to figure it out using the money that is currently in the economy. I'm not sure it's even well defined. Everybody just \u201cknows\u201d what it is, and a lot of people think it\u2019s coming because the\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xkpvc0/an_honest_attempt_at_understanding_the_universal/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Are there fundamental repeating patterns in ML techniques across modalities (text, image, audio) that let us group them? [R]",
+     "summary": "I\u2019ve been noticing that a lot of techniques seem to repeat across modalities with just a different name. For example, tokenisation, masking (MLM / MAE / audio masking), diffusion, next-token / next-frame prediction, etc. Is there an existing taxonomy or mental model that groups ML techniques by\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xkp8e9/are_there_fundamental_repeating_patterns_in_ml/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Agentic AI w/frontier models??",
+     "summary": "If you watch much Youtube around AI, you'll see a bunch of people setting up these complex agentic workflows (or, even worse, \"Jarvis\") using a model like Opus or Astra. Every time I see that my \"WTF\" face comes on hard, how on earth are they doing that? From what I understand it's a TOS violation\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkox4q/agentic_ai_wfrontier_models/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "DeepSeek Harness team published the underlying architecture for their Super-agent, an always-on autonomous agent, as an open-source prototype on GitHub.",
+     "summary": "submitted by /u/yogthos [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xkoi9g/deepseek_harness_team_published_the_underlying/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Since we're sharing addiction stories.",
+     "summary": "Been running a 3060ti and 32GB for a hot minute now, jumping between local models and subscription plans. Got Qwen 3.8 FN up and running on this old gaming system and it's just such an impressive model. The prefills are never going to work though. So I spent the past few days looking at a lot of\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xko42y/since_were_sharing_addiction_stories/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Altoids Project",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50321048",
+     "url": "https://uvdn7.github.io/altoids-project/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50320995",
+     "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "+1 for Qwen 27Bs character/chat style",
+     "summary": "Maybe uninteresting to most, but i just wanted to say that qwen3.8 27B is actually very nice to talk to, when arguing about issues or solving problems- while for example regarding cloud models claude opus (since v5) for me has quite an annoying tone - it has this \"chop-chop\" or \"CEO attitude\"- IDK\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkngat/1_for_qwen_27bs_characterchat_style/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "New gynoid, this one explicitly intended as a s*xbot, to be debuted this Nov. 3.",
+     "summary": "God, I feel so sweaty, and fear I'm tempting an instadelete, just mentioning this. But assuming it passes the mods, I can only assume that this sub will eat this shit up. Especially since it seems to be flying under the radar\u2014I haven't yet seen it mentioned on r/accelerate , r/robots ,\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xkmeal/new_gynoid_this_one_explicitly_intended_as_a/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "AI text watermarking and quality loss",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50320599",
+     "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "ChatGPT and Codex usage limits merging",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50320588",
+     "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+     "source": "Hacker News"
+    }
+   ],
+   "frontier_labs": [],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "The Pro series of GPT models continues to be really impressive for one-shot problems that involve complex calculations, references, or sophisticated ideas. It isn't particularly fast (or particularly pleasant) to use but GPT-6 Astra Pro gives that \"ask one question of the great oracle\" feel.",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mz7swluwac2w"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Are LLMs good or bad Bayesians?",
+     "summary": "Bryan Caplan: It seems like you and other AIs are bad Bayesians. When presented with counterevidence, you should move toward or against the presenter with roughly equal probability. It depends on whether the argument was better or worse than expected. In fact, you seem to either move toward the\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/are-llms-good-or-bad-bayesians.html?utm_source=rss&utm_medium=rss&utm_campaign=are-llms-good-or-bad-bayesians",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "How We Took Over ChatGPT Accounts",
+     "summary": "How We Took Over ChatGPT Accounts Parameter Labs describe an exploit they found against ChatGPT's implementation of the artifacts pattern (OpenAI used to call this \"Canvas\" but it looks like the latest revision is called HTML previews ), where interactive custom HTML apps are displayed in a\u2026",
+     "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "datasette-llm 0.1a9",
+     "summary": "Release: datasette-llm 0.1a9 I have some big upgrades to Datasette Agent in the pipeline, but in the meantime here's a tiny user experience improvement to the underlying datasette-llm plugin. It now picks up the default model used by LLM , which means you can start using Datasette Agent without\u2026",
+     "url": "https://simonwillison.net/2026/Oct/31/datasette-llm/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "aa1143/NamiAgent: \u96f6\u57fa\u7840\u5165\u95e8 AI Agent \u7684\u57fa\u7840\u6559\u7a0b\u3002\u4e0d\u53ea\u662f\u6559\u7a0b\uff0c\u4e5f\u662f\u4e00\u4e2a\u80fd\u5728\u672c\u5730\u8dd1\u8d77\u6765\u7684 Agent\uff1a\u8bfb\u5199\u6587\u4ef6\u3001\u6267\u884c\u547d\u4ee4\u3001MCP\u3001\u957f\u671f\u8bb0\u5fc6\uff0c\u81ea\u5e26\u7f51\u9875\u7aef\u770b\u6e05\u6bcf\u4e00\u6b65\u3002\u4ece 100 \u884c\u6700\u5c0f\u5faa\u73af\u5f00\u59cb\uff0c\u4e00\u8bfe\u52a0\u4e00\u4e2a\u80fd\u529b\uff0c\u6700\u540e\u62c6\u89e3 Claude Code\u3001Codex \u7b49\u4e3b\u6d41 Agent",
+     "summary": "\u96f6\u57fa\u7840\u5165\u95e8 AI Agent \u7684\u57fa\u7840\u6559\u7a0b\u3002\u4e0d\u53ea\u662f\u6559\u7a0b\uff0c\u4e5f\u662f\u4e00\u4e2a\u80fd\u5728\u672c\u5730\u8dd1\u8d77\u6765\u7684 Agent\uff1a\u8bfb\u5199\u6587\u4ef6\u3001\u6267\u884c\u547d\u4ee4\u3001MCP\u3001\u957f\u671f\u8bb0\u5fc6\uff0c\u81ea\u5e26\u7f51\u9875\u7aef\u770b\u6e05\u6bcf\u4e00\u6b65\u3002\u4ece 100 \u884c\u6700\u5c0f\u5faa\u73af\u5f00\u59cb\uff0c\u4e00\u8bfe\u52a0\u4e00\u4e2a\u80fd\u529b\uff0c\u6700\u540e\u62c6\u89e3 Claude Code\u3001Codex \u7b49\u4e3b\u6d41 Agent",
+     "url": "https://github.com/aa1143/NamiAgent",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "muaaz9329/cheap-ag: 50x your Claude usage with cheap-ag. Opus plans, a dirt-cheap model writes every line, and tests decide what ships. Your $20 plan stops hitting limits. One MCP server for Claude\u2026",
+     "summary": "50x your Claude usage with cheap-ag. Opus plans, a dirt-cheap model writes every line, and tests decide what ships. Your $20 plan stops hitting limits. One MCP server for Claude Code.",
+     "url": "https://github.com/muaaz9329/cheap-ag",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "eduwxyz/tucano: Your team of AI agents, on your Mac, Windows or Linux. Agents that talk in channels, write code, review each other and use your tools, on the Claude Code, Codex, OpenCode or Pi you\u2026",
+     "summary": "Your team of AI agents, on your Mac, Windows or Linux. Agents that talk in channels, write code, review each other and use your tools, on the Claude Code, Codex, OpenCode or Pi you already have. Anything that touches the real world waits for your yes.",
+     "url": "https://github.com/eduwxyz/tucano",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-11-01T06:26+00:00",
+  "window_start": "2026-10-31T21:44+00:00",
+  "window_end": "2026-11-01T06:26+00:00",
+  "candidate_count": 31,
+  "model": "free (no LLM)"
+ }
+}
