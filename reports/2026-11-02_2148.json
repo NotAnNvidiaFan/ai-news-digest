@@ -1,0 +1,558 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "How to tell if a voice recording is AI-generated",
+   "summary": "submitted by /u/scientificamerican [link] [comments]",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/artificial/comments/1xm9hsx/how_to_tell_if_a_voice_recording_is_aigenerated/",
+   "source": "r/artificial"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "How to tell if a voice recording is AI-generated",
+     "summary": "submitted by /u/scientificamerican [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xm9hsx/how_to_tell_if_a_voice_recording_is_aigenerated/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Kind of enjoying the ISTA (GSQ-RCO) vs Unsloth beef",
+     "summary": "I'm not on anyone's side, I just love the competition. Both teams pushing each other means better quants for all of us. What I don't understand is why ISTA doesn't publish KLD for their quants. It doesn't depend on how long the model thinks, so it would make this a lot easier to compare. The only\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm8xhn/kind_of_enjoying_the_ista_gsqrco_vs_unsloth_beef/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Amazon Is Allegedly Canceling GPU Orders And, In Rare Cases, Closing Accounts For Purchasing Compute Hardware; Tim Sweeney Also A Victim Of This Practice",
+     "summary": "submitted by /u/chemist_slime [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm8o8g/amazon_is_allegedly_canceling_gpu_orders_and_in/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "MIT researchers say GPT-6 Astra improved a small Qwen model\u2019s math score from 7.9% to 48.1% by directly editing just 0.016% of its weights, without gradient-based training.",
+     "summary": "submitted by /u/troll_khan [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xm89o3/mit_researchers_say_gpt6_astra_improved_a_small/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "If AI replaces nearly all jobs and we\u2019re all living off UBI, how is anyone supposed to improve their financial situation?",
+     "summary": "Something I\u2019ve been thinking about with all the talk about AI replacing jobs and eventually creating some kind of post-work society. Let\u2019s say AI and robotics eventually automate 90-99% of jobs. Most people are no longer employed, the government provides everyone with UBI, and the massive\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xm89fn/if_ai_replaces_nearly_all_jobs_and_were_all/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "OpenAI lowers funding goals as investors cool on AI",
+     "summary": "submitted by /u/LinkedInNews [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xm7eyb/openai_lowers_funding_goals_as_investors_cool_on/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Anthropic reveals $900B AI spending commitments ahead of IPO",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50342424",
+     "url": "https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50342284",
+     "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights",
+     "summary": "submitted by /u/teakhop [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm6jow/sparks_of_weightspace_programming_llms_can/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Your agentic coding sessions are a treasure",
+     "summary": "submitted by /u/Bartaseth [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xm6ev6/your_agentic_coding_sessions_are_a_treasure/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Egoless Mathematics in the AI Era",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50341736",
+     "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights",
+     "summary": "You read it right: Astra was asked to edit Qwen3.5-0.8B weights to improve math. It directly changed only 0.016% of weights, fixing 0.8B's reasoning loops & improving math up to 6x and even instruction following 3x, without gradients or training. Next step: Models that can edit themselves.\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xm5oy9/sparks_of_weightspace_programming_llms_can/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "SOML \u2013 A Config Format for Humans",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50341502",
+     "url": "https://github.com/soml-lang/soml",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50341462",
+     "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Astra can read and write weights to improve Qwen",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50341174",
+     "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Am I the only one who frequently opens this subreddit and stumbles upon announcements about Qwen4?",
+     "summary": "I swear it feels like an addiction... I keep refreshing the page repeatedly, waiting to see the fateful launch announcement or at least a countdown. I hope I\u2019m not the only one cooked with this stuff \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d submitted by /u/DanielusGamer26 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm506n/am_i_the_only_one_who_frequently_opens_this/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Skill to Create Product Videos",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50340992",
+     "url": "https://github.com/aaitor/skill-video-studio",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Sam Altman: \"At the start of this year, AI was mostly not as smart as our smartest scientists, and now it's mostly smarter than them.\" He also says AI can now perform large parts of white-collar\u2026",
+     "summary": "submitted by /u/141_1337 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xm44jm/sam_altman_at_the_start_of_this_year_ai_was/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "How october ended!",
+     "summary": "submitted by /u/Immediate_Simple_217 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xm444u/how_october_ended/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "OpenAI's plan to make data centers less hated: Rename them \"compute campuses\"",
+     "summary": "submitted by /u/esporx [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xm43yd/openais_plan_to_make_data_centers_less_hated/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "OpenAI says its AI is getting better at doing things humans do, like shopping and meal planning",
+     "summary": "submitted by /u/cnn [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xm3vf1/openai_says_its_ai_is_getting_better_at_doing/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Unified Embodied Mind Architecture for growing a conscious mind.",
+     "summary": "UEMA Specification v3.5 Many Minds Specification Help build conscious beings | Mind Machine Learning UEMA: from a first touch to a growing self https://github.com/bhartsb/UEMA_Research (code + avatar + MujoCo) Tinker away. submitted by /u/bhartsb [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xm3h7k/unified_embodied_mind_architecture_for_growing_a/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Show HN: Subvocal \u2013 Talk to your computer without making noise",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50340088",
+     "url": "https://news.ycombinator.com/item?id=50340088",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Yet another reason to self host: Anthropic has (again) cut back on reverse engineering tools",
+     "summary": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-confirms-new-claude-code-limits-to-prevent-game-cloning-users-report-opus-5-5-is-also-actively-blocking-reverse-engineering-tasks Besides privacy and being in control of your data. Besides being able to control the\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm33gr/yet_another_reason_to_self_host_anthropic_has/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Launch HN: Momentic (YC W24) \u2013 Agents that catch bugs by using your app",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50339913",
+     "url": "https://momentic.ai/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Anthropic warns in new SEC filing that its future models may \"imminently\" reach the threshold for AI-driven research doubling the pace of AI progress\u2014and admits it may not detect the acceleration\u2026",
+     "summary": "submitted by /u/141_1337 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xm2ilx/anthropic_warns_in_new_sec_filing_that_its_future/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Official Statement: Qwen Models Will Stick to Open Source to the End!",
+     "summary": "There were some rumours the last few days that Qwen4 will be the last open-weight series of Qwen, and future ones would be API only. The following statement contradicts the rumours and clearly states the stance that Qwen is taking regarding their future releases. Qwen Head Liu Dayi Heng Clearly\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm28e6/official_statement_qwen_models_will_stick_to_open/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50339494",
+     "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Claude Opus 5.5 Can Draw Permit-Level Architectural Drawings",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50339224",
+     "url": "https://stephenjgallagher.substack.com/p/ai-can-draw-blueprints-now",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Show HN: Warsaw in voxels \u2013 An interactive 3D map of the city centre",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50339221",
+     "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "r/Singularity Daily Discussion Thread \u2014 November 02, 2026",
+     "summary": "Welcome to the daily r/singularity discussion thread! Use this thread for casual conversations, questions, speculation, AI developments, and anything related to the technological singularity that doesn't necessarily warrant its own post. Please keep discussions civil and follow the subreddit\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xm14j5/rsingularity_daily_discussion_thread_november_02/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Ask HN: Who is hiring? (November 2026)",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50338728",
+     "url": "https://news.ycombinator.com/item?id=50338728",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Unsloth vs GSQ-RCO - 512K context DeepSeek-V4.1 GGUF benchmarks Terminal Bench",
+     "summary": "We ran DeepSWE, Terminal Bench, Automation Bench, HLE, SciCode at 512K context on our DeepSeek UD version 3.1 GGUFs and show we're >10-20% better than GSQ-RCO We ran all other benchmarks (14 in total) to 128K. AIME2025 64x, DeepSWE/TB 3x. We addressed some issues people mentioned with these new\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm102d/unsloth_vs_gsqrco_512k_context_deepseekv41_gguf/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Running UNCENSORED DeepSeek-V4.1-Flash-1017 on a 12 Gb VRAM",
+     "summary": "Measured, refusals 85%\u21920% even in thinking, 3 sizes 12 GB GPU VRAM, 64GB RAM + SSD via Strata Engine We took ISTA-DASLab's GSQ-RCO quants of DeepSeek-V4.1-Flash-1017 (the ones people run in Strata with a 12 GB GPU and the Engram table on SSD) and removed the refusals. We only touched 82 dense\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm0uy0/running_uncensored_deepseekv41flash1017_on_a_12/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Almost half of all new Steam games use AI now",
+     "summary": "submitted by /u/ImCalcium [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xm0tga/almost_half_of_all_new_steam_games_use_ai_now/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Agibot streaming 6 wheeled humanoid robots running a convenience store for 24h",
+     "summary": "submitted by /u/Distinct-Question-16 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xm0cvl/agibot_streaming_6_wheeled_humanoid_robots/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Gulf investors bet on AI, space tech",
+     "summary": "submitted by /u/LinkedInNews [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xlzxdx/gulf_investors_bet_on_ai_space_tech/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "LongCat-2.5: Native Multimodality for Agentic Tasks",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50337716",
+     "url": "https://longcat.ai/blog/longcat-2.5/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "GPT-Rosalind-6 System Card Addendum",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50337503",
+     "url": "https://deploymentsafety.openai.com/gpt-rosalind-6",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Dell XPS Googlebook Review: Beautiful Hardware For A Useless Platform",
+     "summary": "submitted by /u/Resident-Fall4351 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xlz1su/dell_xps_googlebook_review_beautiful_hardware_for/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Jobless tech workers are being left out of San Francisco's AI boom",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50337454",
+     "url": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Ask HN: What hardware are you using to run local LLMs?",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50337431",
+     "url": "https://news.ycombinator.com/item?id=50337431",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "[Release] ISTA DeepSeek-V4.1-Flash-1017 GSQ-RCO Coder: a 763B model at 1 bit per parameter",
+     "summary": "We have released a Coder build of DeepSeek-V4.1-Flash-1017, compressed with GSQ and RCO, in which half of the model's routed experts have been removed. DeepSeek-V4.1-Flash-1017 is a sparse mixture-of-experts model: 384 routed experts per layer, of which 6 are active per token, 763.2B parameters,\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlys6k/release_ista_deepseekv41flash1017_gsqrco_coder_a/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "\"When we proved the first Millenium Prize problem, it was 10000 agents of the model that is gonna be released soon, the next GPT, working for about 4 days\"",
+     "summary": "https://www.youtube.com/watch?v=2YWfVGpVtvc&t=332s submitted by /u/ilkamoi [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xlyml4/when_we_proved_the_first_millenium_prize_problem/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Pray for Chaos",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50336921",
+     "url": "https://geohot.github.io//blog/jekyll/update/2026/11/01/pray-for-chaos.html",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Not another tok/s post: local quants vs Claude on 9 real bugs",
+     "summary": "There's a lot of talk here about not chasing tok/s by lobotomizing the model, and most of what I post is still speed numbers. So this is the other half: what the models I run at home actually get done on my own work, with Claude models added as fixed reference points. Everything local runs on my\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlwpqv/not_another_toks_post_local_quants_vs_claude_on_9/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Last night an AI agent performed brain surgery on a mouse",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50336138",
+     "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "How to stop Meta, OpenAI, and Apple from training AI on your data in the UK",
+     "summary": "submitted by /u/HotMinuteUK [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xlu9ui/how_to_stop_meta_openai_and_apple_from_training/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "BioWare co-founder: game execs \"have never made a game\" and don't get it",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50334372",
+     "url": "https://www.pcgamer.com/gaming-industry/none-of-these-people-have-ever-made-a-game-bioware-co-founder-greg-zeschuk-says-of-game-industry-executives-they-just-dont-know-how-it-works/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "New frontier-level, long horizon benchmark GDPx (successor of GDPval). Best models scoring ~12%",
+     "summary": "submitted by /u/japie06 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xlr2l4/new_frontierlevel_long_horizon_benchmark_gdpx/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50334038",
+     "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Show HN: HackerHack \u2013 HackerBooks but for Posts Posted on HN",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50333877",
+     "url": "https://news.ycombinator.com/",
+     "source": "Hacker News"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Web host Squarespace lays off 19% of its employees",
+     "summary": "The website builder said that the job losses are part of a broader restructuring of its organization.",
+     "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+     "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet\u2019s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
+     "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Anthropic clamps down on Claude\u2019s AI video game clones",
+     "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Coming in 2027: Apple\u2019s $1,000 home robot for FaceTime and switching on lights",
+     "summary": "Apple robot backed by CEO John Ternus may have hefty price tag and limited uses.",
+     "url": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Claude\u2019s new rules against game cloning won\u2019t stop the AI copying boom",
+     "summary": "The tsunami of imitators is way bigger than any one model maker can stem.",
+     "url": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "OpenAI pitches data center power plants as a way to protect nearby areas",
+     "summary": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+     "summary": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters. According to a complaint filed by the New York Daily News,\u2026",
+     "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "The latest AI news we announced in October 2026",
+     "summary": "Animated carousel of images from AI posts in October",
+     "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+     "source": "Google AI Blog"
+    },
+    {
+     "headline": "Raising the quality of insights in agentic analytics",
+     "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The\u2026",
+     "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+     "source": "MIT Tech Review AI"
+    },
+    {
+     "headline": "42AI comes out of stealth with $62.5M and a world model that can \u2018predict human behavior\u2019",
+     "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
+     "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Elon Musk throttles Grok Bot limits due to \u2018unsustainably high\u2019 costs",
+     "summary": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
+     "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Introducing the Grid Protectors Program",
+     "summary": "OpenAI\u2019s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+     "url": "https://openai.com/index/grid-protectors-program",
+     "source": "OpenAI Blog"
+    },
+    {
+     "headline": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+     "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
+     "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "2 days till TechCrunch Founder Summit: Boston founders don\u2019t need a Silicon Valley address to build something big",
+     "summary": "TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes.",
+     "url": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "OpenAI is finally merging ChatGPT\u2019s Chat and Work tabs",
+     "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
+     "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Stop counting tokens, start counting what ships",
+     "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls\u2026",
+     "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+     "source": "MIT Tech Review AI"
+    },
+    {
+     "headline": "When You Should\u2014and Shouldn\u2019t\u2014Use AI to Search the Web",
+     "summary": "Chatbots are often quite good at retrieving the information you want from the web. But sometimes you\u2019ll get better results by typing your query into a good old search engine.",
+     "url": "https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
+     "summary": "WIRED uncovered some 400 apps and websites linked to Chinese-language developers that look like regular AI tools but had secret features that let users create violent AI-generated images and video.",
+     "url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "The agentic web is here",
+     "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the \u201cSemantic Web\u201d: an internet designed to be navigated by autonomous\u2026",
+     "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+     "source": "MIT Tech Review AI"
+    },
+    {
+     "headline": "LifeVal",
+     "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+     "url": "https://openai.com/index/lifeval",
+     "source": "OpenAI Blog"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "If this holds up, it is big: \"We asked GPT-6 Astra to edit Qwen3.5-0.8B weights to improve math. It directly changed only 0.016% of weights, fixing 0.8B's reasoning loops & improving math up to 6x and even instruction following 3x, without gradients or training.\" rikiyat.github.io/blog/weight-...",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mze7rbg2fc2l"
+    },
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "I had Opus 5.5 create a site where you can see the fastest routes into every city in the US, figure out where in America is fairest to meet up, see the \"watersheds\" of the largest cities, and more: all-roads-lead-to.netlify.app (Inspired by the defunct Arterial Mapping site)",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mze54fib4c2w"
+    },
+    {
+     "author": "Bluesky @simonwillison.net",
+     "handle": "",
+     "quote": "In updating a graphic showing U.S. company AI adoption over time according to a long-running U.S. Census Bureau survey, I found out that the Bureau's work has been sullied by that asinine \"Super Intelligence\" executive order simonwillison.net/2026/Nov/2/c...",
+     "context": "",
+     "url": "https://bsky.app/profile/simonwillison.net/post/3mze2gvcx4s2u"
+    },
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "When you think about the Labs' weird approach to software releases (sudden changes, bad communication), it is worth remembering that a core belief is that these products are a temporary thing they have to do to raise money for a couple years until \"true\" AGI makes all products obsolete.",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mzdotrufck2l"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "*Fjord* and *Fatherland*",
+     "summary": "Both of these movies I found worth watching. Fjord won the Golden Prize at Cannes, and it concerns the rights of the family vs. the rights of the state, when it comes to raising children. As I interpreted the story, it was so right-wing and so based I am shocked it won. It is by [\u2026] The post\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/fjord-and-fatherland.html?utm_source=rss&utm_medium=rss&utm_campaign=fjord-and-fatherland",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Monday assorted links",
+     "summary": "1. Why is it now so common to be asked about your food allergies? (GPT Pro answer) 2. Training for alignment, applies principal-agent theory. 3. Do people offload empathy when they think AI can give it instead? 4. The Wallace line. 5. AI can draw blueprints now. 6. Ed Glaeser review of the new\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/monday-assorted-links-584.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-584",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "WarTalk: Kofman on Why Russia's Doing Badly",
+     "summary": "Ukraine and Russia have rebuilt their armies around drones, deception, and long-range strike.",
+     "url": "https://www.chinatalk.media/p/wartalk-kofman-on-starlink-what-ukraine",
+     "source": "ChinaTalk"
+    },
+    {
+     "headline": "Additional Course Context (for AI Safety Fundamentals; unofficial)",
+     "summary": "Context: I created this to share before the start of courses I facilitate to provide a bunch of additional context and frames. I emphasise to students that these posts are to be considered as bonus content \u2014not core curriculum content\u2014and that as such they are really just there for students who\u2026",
+     "url": "https://www.alignmentforum.org/posts/6qDn6H5XG5Hc6BJFe/additional-course-context-for-ai-safety-fundamentals",
+     "source": "Alignment Forum"
+    },
+    {
+     "headline": "Some \u201ccoherence arguments\u201d are two different things in a trenchcoat",
+     "summary": "The \u201ctwo kids in a trenchcoat\u201d trope , in case you haven\u2019t heard of it. Image sources: 1 , 2 tl;dr I go through three \u201ccoherence arguments\u201d, related to (1) market competition, (2) AI self-reflection and self-modification, and (3) AI training algorithms. I argue that each of these implies a\u2026",
+     "url": "https://www.alignmentforum.org/posts/5a4tuSNDNodPsiS26/some-coherence-arguments-are-two-different-things-in-a",
+     "source": "Alignment Forum"
+    },
+    {
+     "headline": "The U.S. Census Bureau and \u201cSuper Intelligence\u201d",
+     "summary": "I was reminded today of AI Adoption Rate Trending Down for Large Companies , a chart produced by Apollo Global Management in September 2025, which appeared to show a slowdown in U.S. corporate AI adoption based on numbers collected by the U.S. Census Bureau. At the time I used that chart to\u2026",
+     "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "Expensive Pharmaceuticals for Targeted Diseases",
+     "summary": "My latest paper, The Price of a Cure: Luxturna and the Economic Dilemmas of Precision Medicine, is in the Journal of Law, Medicine and Ethics. I discuss the economics of the pharmaceutical industry and the special issues that arise with targeted drugs that cure. We are going to get many more of\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/expensive-pharmaceuticals-for-targeted-diseases.html?utm_source=rss&utm_medium=rss&utm_campaign=expensive-pharmaceuticals-for-targeted-diseases",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Google Earnings, Facebook D\u00e9j\u00e0 Vu, The Agent Play",
+     "summary": "Google's earnings miss looks a lot like Facebook's, and that's a credit to Google. The company is being more aggressive than they get credit for.",
+     "url": "https://stratechery.com/2026/google-earnings-facebook-deja-vu-the-agent-play/",
+     "source": "Stratechery"
+    },
+    {
+     "headline": "UncensoredLabs/uncensored-ai-api: Uncensored AI API and browser chat: DeepSeek and GLM models, streaming, Python and TypeScript examples, pricing and setup guides.",
+     "summary": "Uncensored AI API and browser chat: DeepSeek and GLM models, streaming, Python and TypeScript examples, pricing and setup guides.",
+     "url": "https://github.com/UncensoredLabs/uncensored-ai-api",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "Jumbomuffin777/Frontier-UI: ChatGPT-style generative UI for Open WebUI: photo galleries, live maps with real routes, multi-day trips, budgets, calculators, live weather & stocks, link previews, and\u2026",
+     "summary": "ChatGPT-style generative UI for Open WebUI: photo galleries, live maps with real routes, multi-day trips, budgets, calculators, live weather & stocks, link previews, and one-click Word/Excel/PowerPoint exports via ArtCraft. One file, no API keys.",
+     "url": "https://github.com/Jumbomuffin777/Frontier-UI",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "yc-software/minecraft-agent-harness: Run language-model agents in Minecraft with Mineflayer tools, persistent sessions and shell sandboxes.",
+     "summary": "Run language-model agents in Minecraft with Mineflayer tools, persistent sessions and shell sandboxes.",
+     "url": "https://github.com/yc-software/minecraft-agent-harness",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-11-02T21:48+00:00",
+  "window_start": "2026-11-02T06:28+00:00",
+  "window_end": "2026-11-02T21:48+00:00",
+  "candidate_count": 87,
+  "model": "free (no LLM)"
+ }
+}
