@@ -1,0 +1,286 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "AI May Find a Multi-niche as Tech Skill Advances While Funding Retreats",
+   "summary": "submitted by /u/Mindreceptor [link] [comments]",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/singularity/comments/1xmlvr4/ai_may_find_a_multiniche_as_tech_skill_advances/",
+   "source": "r/singularity"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "AI May Find a Multi-niche as Tech Skill Advances While Funding Retreats",
+     "summary": "submitted by /u/Mindreceptor [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xmlvr4/ai_may_find_a_multiniche_as_tech_skill_advances/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "We turned 10 years of ML papers into one page per topic: benchmark records, what got tried, what reviewers expect [P]",
+     "summary": "We've been working on this for a while and shipped it today. We took every accepted paper from ICML, NeurIPS, ICLR, CVPR and AAAI since 2016 (about 109k), grouped them into ~1,260 topics, and pulled the results tables and ablations out of the full text of 79k of them. The research map just shows\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xmk8rx/we_turned_10_years_of_ml_papers_into_one_page_per/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Underrated benefit of Local AI: Speed",
+     "summary": "When it comes to the value/cost of local AI, people usually only look at token savings (money) while forgetting one of the most valuable resource of yours, time . Just did a side by side comparison of GLM 5.3 flash via Z.ai's official subscription, and GLM 5.3 flash served locally. Same chatGPT\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmjipa/underrated_benefit_of_local_ai_speed/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Alibaba's Qwen Code repo just leaked qwen4-max, qwen4-coder-plus, and qwen4-omni-120b",
+     "summary": "PRs: https://github.com/QwenLM/qwen-code/pull/15762: \"Measured on main at 79a9b753c60 , before this change: qwen4 , qwen4-max , qwen4-plus , qwen4.5-max , qwen4-coder-plus , qwen4-max-2026-10-01 , openai/qwen4-max and qwen4-omni-120b-think all resolved to 262,144. The last of those is already in\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmitzx/alibabas_qwen_code_repo_just_leaked_qwen4max/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Today's Strata update boosts performance for R9700 users in Flash Next",
+     "summary": "Today's update is welcome for us R9700 users (assume other gpu's as well). Prior to the update I was getting ~70 tok/s output with four R9700's and 256GB of system ram. Today's update brings it to 140-160 tok/s and ~3200 prefill running unsloth Q4_K_XL. I tried running Q5 but was like .1 GB of\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmisvg/todays_strata_update_boosts_performance_for_r9700/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Automated food production after singularity",
+     "summary": "We only eat the animals and type of organisms that are currently around and popular, the composition and nutrition varies between each one. What is the chance that we happen to have the best ones available now? With robotic farming we could produce food you haven\u2019t even imagined. Rare species of\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xmgxev/automated_food_production_after_singularity/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Rtx 8000 48gb prices have decreased over the last two years while 3090 doubled.",
+     "summary": "In 2024 i purchased an RTX 8000 48gb for $2400. As the market has changed I\u2019ve kept an eye on prices. Two years later, they are available around $2100. Its a little slower than 3090 at inference (672gb/s vs 936gb/s) but it has double the memory so it can run larger models / contexts / higher\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmgmd8/rtx_8000_48gb_prices_have_decreased_over_the_last/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50346849",
+     "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "I found another niche use case for local LLMs, but need some advice",
+     "summary": "Kind of a random thing, but I've gotten to the age where I'm starting to care about what the city council is doing. So I downloaded all the available council meeting notes from the last 16 years and pointed Qwen 3.8 27B Q6 at them and started having it dig through notes. Namely I wanted to see who\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmfbam/i_found_another_niche_use_case_for_local_llms_but/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Seems weight space programming is an emergent capability on new fronteir models",
+     "summary": "submitted by /u/Distinct-Question-16 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xmesfd/seems_weight_space_programming_is_an_emergent/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "LFM3-1.7B quantization report: 3.6 GB VRAM lossless; 2.2 GB with modest degradation",
+     "summary": "This model looks quite spectacular. According to LiquidAI's own benchmarks, it scores higher than MiniCPM5-2B across the board, while offering 2x the context and taking up half the space in VRAM (3.6 GiB vs. 7.1 GiB for a quasi-lossless quant). Read the report:\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xme6c5/lfm317b_quantization_report_36_gb_vram_lossless/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "If ASI Is Coming Soon, A Superhuman Alignment Researcher Is Coming Sooner",
+     "summary": "OpenAI Researcher Roon posted this today: Plan A has always been to solve alignment, not by waiting around for human enhancement or whatever other capeshit, but in a bitterlesson-complementarity way, how everything else in modern AI has gone https://x.com/tszzl/status/2117377997166817550 This is\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xme4ih/if_asi_is_coming_soon_a_superhuman_alignment/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Intel stock collapse worsens as $3.5T chip rout spreads",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50346153",
+     "url": "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Scaling Git at OpenAI",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50345924",
+     "url": "https://openai.com/index/scaling-git-at-openai/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "WorkOS reports security breach",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50345712",
+     "url": "https://news.ycombinator.com/item?id=50345712",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "[GPU Lawyer] Deepseek 4.1 Flash 1018 on 4 32GB V100s -- pushing 40 tok/s decode, and will test across 8 v100s next.",
+     "summary": "My SXM2 Game is Impeccable. I overcome obstacles. This room temperature is always tropical. TL;DR: I'm running DeepSeek-V4.1-Flash for a single user on four 2017-era V100 32 GB cards plus system RAM. Generation runs 36-38 tok/s from 8K to 75K context with thinking off, and 32-38 tok/s with\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmcibh/gpu_lawyer_deepseek_41_flash_1018_on_4_32gb_v100s/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Qwen 3.8 27b is sometimes so smart it scares me...",
+     "summary": "For fun, I gave Qwen 3.8 27b a physics problem involving some heavy math. A little bit into its reasoning, Qwen took a look at its tools, found that it had access to Blender via blender mcp - and that it could write and execute arbitrary python code through that. So it engaged Blender's python\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmbym0/qwen_38_27b_is_sometimes_so_smart_it_scares_me/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Anthropic's growth just flattened",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50344958",
+     "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Monthly Construction Spending on Data Centers Now More Than Twice as High as General Offices",
+     "summary": "Late last year, many of you may recall that the total monthly construction spending on data centers was higher than that of regular offices for the first time. In the Federal Construction Spending Report released today, it has been revealed that data center spending is now at $96.462B, vs office's\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xmbqfd/monthly_construction_spending_on_data_centers_now/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "V100 SXM2 pinout and NVLink reference",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50344912",
+     "url": "https://github.com/pigeon-labs-stack/v100-sxm2-reference",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "LLMs are not superhuman at reading and writing neural network weights",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50344861",
+     "url": "https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "New sparse attention method for ultra-long context",
+     "summary": "I am on the team behind the attached open-source research on novel approaches to attention - specifically we show: \u2022 You can sparsify the attention of Qwen 3.8 27B without observed loss on accuracy \u2022 Extending context up to 10M tokens loses accuracy on some specific tasks - but most, like NIAH is\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmbj0v/new_sparse_attention_method_for_ultralong_context/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "[Paper] RidgeFill: Training-Free Late-Layer Cache Fill for Faster Prefill",
+     "summary": "We introduce RidgeFill, a training-free way to shorten prefill by not computing most of a model's upper layers for the prompt. The lower layers run exactly up to a split; from the split layer's state, a ridge regression fitted once in closed form predicts every later layer's input, and each late\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmarrf/paper_ridgefill_trainingfree_latelayer_cache_fill/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Here\u2019s who is falling in line for Trump\u2019s \u201cSuper Intelligence\u201d loyalty test",
+     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been\u2026",
+     "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+     "source": "MIT Tech Review AI"
+    },
+    {
+     "headline": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+     "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+     "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Apple may try to increase revenue by doing\u2026something with third-party AI apps",
+     "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+     "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Y Combinator\u2019s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+     "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis\u201d and barely sleeps sometimes because he\u2019s so excited to be working with his AI agents. On a new episode of Walter Isaacson\u2019s podcast, The Builders, Tan put a price tag on his passion.",
+     "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+     "summary": "The one-year-old startup is now valued at $300 million.",
+     "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Anthropic warns that it\u2019s very close to RSI capability, aka self-building AI",
+     "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+     "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+     "source": "TechCrunch AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "Opus 5.5: \"Give me 10 brilliant ideas for a science fiction short short story, pick the most brilliant and execute it terribly\"",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mzeykcbvgk2l"
+    },
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "Here is a mass attempted replication of old findings of LLMs with new models. Much conventional wisdom is outdated. Recent models no longer invent citations and both hallucination rates & stereotyping has dropped. But they are still sycophantic & lean left. zou-group.github.io/llm-claims-s...",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mzesndbbxs2l"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "[AINews] LLMs can read & write neural network weights: \"Weight Space Programming\" cuts Autoresearch out of the RSI loop",
+     "summary": "Editing Qwen\u2019s weights to reduce reasoning loops, DeepSeek\u2019s super-agent prototype, and the GDPx benchmark.",
+     "url": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
+     "summary": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube Genius piece of OSINT by Colsto, who demonstrates how you can take almost imperceptible background noise of planes from a video soundtrack, figure out their Doppler curves, then cross reference them against ADS-B\u2026",
+     "url": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "October sponsors-only newsletter",
+     "summary": "I sent out the October edition of my sponsors-only monthly newsletter . If you are a sponsor (or start a sponsorship now) you can access it here . This month: The October inflection point for vibe game development The vulnerability apocalypse gets hot LLM releases API credits for $100+/month\u2026",
+     "url": "https://simonwillison.net/2026/Nov/3/october-newsletter/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "Are economists declining in status?",
+     "summary": "That is the theme of my latest Free Press article. Excerpt, which offers the beginning of the story: If we look at the 1960s, the John F. Kennedy and Lyndon Baines Johnson administrations brought James Tobin, Robert Solow, Kenneth Arrow (all three later Nobel laureates), Arthur Okun, Walter\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/are-economists-declining-in-status.html?utm_source=rss&utm_medium=rss&utm_campaign=are-economists-declining-in-status",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Balanov/skein: Fail-closed swarm orchestration with epoch-fenced work and late-completion rejection.",
+     "summary": "Fail-closed swarm orchestration with epoch-fenced work and late-completion rejection.",
+     "url": "https://github.com/Balanov/skein",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "llm 0.37",
+     "summary": "Release: llm 0.37 There's a lot of stuff in this new release of my LLM CLI tool and Python library, representing around two months of accumulated features and fixes. I added gpt-6.1-sol and gpt-6.1-terra , plus a new llm openai endpoint add command to make it easier to configure additional models\u2026",
+     "url": "https://simonwillison.net/2026/Nov/2/llm/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "Building AI for Lawyers - Jacob Lauritzen, CTO of Legora",
+     "summary": "Evals without traces, million-cell tabular reviews, and cracks in the billable hour as a business model",
+     "url": "https://latent.space/p/building-ai-for-lawyers-jacob-lauritzen-cto-of-legora/",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "Building Legal Agents When You Can't See the Data - Jacob Lauritzen, CTO of Legora",
+     "summary": "Legora can\u2019t read a single trace of what its agent does for a lawyer. The data belongs to the law firm\u2019s clients. How do you build and test an agent when you can\u2019t see its work? Jacob Lauritzen is the CTO of Legora, one of the fastest-growing companies...",
+     "url": "https://latent.space/p/building_legal_agents_when_you_can_t_see_the_data_-_jacob_lauritzen_cto_of_legora/",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "duyunzhoudyz/dyz-med-paper-skills: \u533b\u5b66\u8bba\u6587\u5199\u4f5c\u4e0e\u79d1\u7814\u52a9\u624b\uff1a\u9762\u5411\u4e2d\u56fd\u533b\u751f\u548c\u533b\u5b66\u7814\u7a76\u751f\u7684 32 \u4e2a Agent Skills\uff0c\u9002\u7528\u4e8e Claude Code\u3001Codex\uff0c\u8986\u76d6\u9009\u9898\u3001PubMed \u6587\u732e\u68c0\u7d22\u3001\u4e2d\u82f1\u5199\u4f5c\u3001\u9009\u520a\u6295\u7a3f\u4e0e\u5ba1\u7a3f\u4fee\u56de\u3002Medical writing & research skills.",
+     "summary": "\u533b\u5b66\u8bba\u6587\u5199\u4f5c\u4e0e\u79d1\u7814\u52a9\u624b\uff1a\u9762\u5411\u4e2d\u56fd\u533b\u751f\u548c\u533b\u5b66\u7814\u7a76\u751f\u7684 32 \u4e2a Agent Skills\uff0c\u9002\u7528\u4e8e Claude Code\u3001Codex\uff0c\u8986\u76d6\u9009\u9898\u3001PubMed \u6587\u732e\u68c0\u7d22\u3001\u4e2d\u82f1\u5199\u4f5c\u3001\u9009\u520a\u6295\u7a3f\u4e0e\u5ba1\u7a3f\u4fee\u56de\u3002Medical writing & research skills.",
+     "url": "https://github.com/duyunzhoudyz/dyz-med-paper-skills",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "SAOS-3624/dsh-see-now: \u8ba9 AI \u5b9e\u65f6\u770b\u89c1\u4f60\u7684\u5c4f\u5e55\uff1a\u6309\u53d8\u5316\u91cf\u7b5b\u9009\u5e27\u3001\u591a\u5e27\u62fc\u8fdb\u4e00\u5f20\u56fe\uff0c\u9759\u6b62\u753b\u9762\u51e0\u4e4e\u4e0d\u82b1 token",
+     "summary": "\u8ba9 AI \u5b9e\u65f6\u770b\u89c1\u4f60\u7684\u5c4f\u5e55\uff1a\u6309\u53d8\u5316\u91cf\u7b5b\u9009\u5e27\u3001\u591a\u5e27\u62fc\u8fdb\u4e00\u5f20\u56fe\uff0c\u9759\u6b62\u753b\u9762\u51e0\u4e4e\u4e0d\u82b1 token",
+     "url": "https://github.com/SAOS-3624/dsh-see-now",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "Interactive-Active-AI/NextTransformer: :sunrise: A comprehensive, cutting-edge open-source framework for next-generation Transformers, with compute-matched benchmarking and a platform for autonomous\u2026",
+     "summary": ":sunrise: A comprehensive, cutting-edge open-source framework for next-generation Transformers, with compute-matched benchmarking and a platform for autonomous architecture research.",
+     "url": "https://github.com/Interactive-Active-AI/NextTransformer",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-11-03T07:00+00:00",
+  "window_start": "2026-11-02T21:48+00:00",
+  "window_end": "2026-11-03T07:00+00:00",
+  "candidate_count": 42,
+  "model": "free (no LLM)"
+ }
+}
