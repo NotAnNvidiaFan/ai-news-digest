@@ -1,0 +1,489 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Open source AI is booming. Hugging Face explains who profits.",
+   "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models\u2026",
+   "why_it_matters": "",
+   "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+   "source": "TechCrunch AI"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "ricursiveAI/Ripple-65B-Preview \u00b7 Hugging Face",
+     "summary": "submitted by /u/coder543 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnx3cs/ricursiveairipple65bpreview_hugging_face/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50369925",
+     "url": "https://www.ricursive.com/ripple",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "ai has been stuck in software. what would ai native hardware actually need to be?",
+     "summary": "aina a hardware interface launching tomorrow says every big shift in computing came from software and hardware built together which is true, the mouse and gui, then the touchscreen, and that ai has been stuck in software. nobody says what it is. i'm curious what you think about the claim. chat is\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xnvouu/ai_has_been_stuck_in_software_what_would_ai/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Woman Dies After ChatGPT Tells Her To Stop Taking Epilepsy Medication\u2014And Now Her Family Is Suing",
+     "summary": "submitted by /u/ComicSandsNews [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xnvk76/woman_dies_after_chatgpt_tells_her_to_stop_taking/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "New Qwen3.8-Flash-Next Unsloth Dynamic V3.1 GGUFs",
+     "summary": "Hey r/LocalLLaMA ! We're releasing new new Unsloth Dynamic v3.1 GGUFs for Qwen3.8-Flash-Next! They're better by 10-15% accuracy on DeepSWE, Terminal Bench, Aider Polyglot and more vs GSQ-RCO. We also provide a new engram switching process for BF16, Q8_0, Q5_1, IQ4_NL switching for all quants! This\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnvbxn/new_qwen38flashnext_unsloth_dynamic_v31_ggufs/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Notes from comparing AI personal finance apps.",
+     "summary": "I\u2019ve been comparing AI-related personal finance tools, and one thing that helped was sorting them by the problem they\u2019re meant to solve. \u201cPersonal finance app\u201d covers a pretty wide range of products. \u201cWhere did my money go?\u201d (mainly budgeting and tracking) Monarch Money: budgeting, net worth\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xnv781/notes_from_comparing_ai_personal_finance_apps/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Unsloth Qwen3.8-Flash-Next GGUFs V3.1 Update (November 4th 2026)",
+     "summary": "now you can spend your evening downloading new version of QFN https://unsloth.ai/docs/models/qwen3.8-next \"15% higher accuracy\" submitted by /u/jacek2023 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnuva2/unsloth_qwen38flashnext_ggufs_v31_update_november/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Apple put a warning about rogue AI agents in its 10-K. That\u2019s a legal filing, not a blog post.",
+     "summary": "Apple\u2019s annual report to the SEC now includes language about AI agents potentially acting without authorization, and specifically uses the words conceal and manipulate when describing unintended agent behaviour. Worth pausing on where that appears. A 10-K is a legal document. Risk factors in it\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xnudhs/apple_put_a_warning_about_rogue_ai_agents_in_its/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Launch HN: Kino AI (YC S23) \u2013 AI media manager and video editor",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50368804",
+     "url": "https://news.ycombinator.com/item?id=50368804",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Apple Watch now listens to in-person conversations & lets you rewind them",
+     "summary": "submitted by /u/Dilpickle2113 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xntvml/apple_watch_now_listens_to_inperson_conversations/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "LFM3-Omni-2B running fully offline on my iPhone 18 Pro Max at ~80 tok/s, powered by custom WebGPU kernels in a React Native app.",
+     "summary": "submitted by /u/xenovatech [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xntou1/lfm3omni2b_running_fully_offline_on_my_iphone_18/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Do looped transformers save HBM traffic? Profiling weight reuse in Huginn on a B200 [P]",
+     "summary": "Do looped transformers, which reuse the same weights at every iteration, also save HBM traffic? In my new post I cover the looped architecture (Huginn), then model and measure its performance on a B200: how much data each iteration reads from memory, how long it takes, and why the shared weights\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xnskvt/do_looped_transformers_save_hbm_traffic_profiling/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Why can't conferences just reasonably reduce the cap on number of submissions? [D]",
+     "summary": "As per the the 2027 CVPR guidelines: \"Maximum number of submissions (continuing from CVPR 2026): Each author may submit at most 25 papers. If an author enrolls more than 25 papers, the Program Chairs (PCs) will desk-reject the submissions that exceed this limit (see the Desk Rejection Policy in\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xnscvr/why_cant_conferences_just_reasonably_reduce_the/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Anthropic\u2019s FlashProve could prove an AI provider used the model you paid for without exposing its weights",
+     "summary": "Users currently have no independent way to confirm whether an AI provider served the requested model or quietly substituted a cheaper one. FlashProve addresses this by using zero-knowledge cryptography to prove that a particular model generated a response while keeping its proprietary weights\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xnrvak/anthropics_flashprove_could_prove_an_ai_provider/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Kimi-K3.1-Pro is now open-weights",
+     "summary": "submitted by /u/ApprehensiveAd3629 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnrhvb/kimik31pro_is_now_openweights/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "AI data centers comprehensively defeated at US midterm elections",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50367085",
+     "url": "https://www.tomshardware.com/tech-industry/data-centers/ai-data-centers-comprehensively-defeated-at-us-midterm-elections-45-measures-put-on-the-ballot-as-americans-overwhelmingly-vote-against-developments",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "My gift to the mods:",
+     "summary": "Seriously tho, can we just have a mega thread for vibeforked engine releases from now on? submitted by /u/Porespellar [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnr6zd/my_gift_to_the_mods/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Show HN: I built a tool that prices a prebuilt PC part by part",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50366929",
+     "url": "https://pcdealcheck.com/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "I am big enough to admit that this is me",
+     "summary": "submitted by /u/ForsookComparison [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnqxlq/i_am_big_enough_to_admit_that_this_is_me/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Adding Window Functions to a Spreadsheet",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50366860",
+     "url": "https://www.getgrist.com/blog/running-totals-you-dont-have-to-chase/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Show HN: Codemap \u2013 one-page interactive map of any Go repository",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50366811",
+     "url": "https://github.com/peterretief/codemap",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Debian apt security update (man-in-the-middle)",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50366575",
+     "url": "https://lists.debian.org/debian-security-announce/2026/msg00526.html?pow_referer=",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Ask HN: What's your current AI agentic setup?",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50366117",
+     "url": "https://news.ycombinator.com/item?id=50366117",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Tencent Hy4",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50365780",
+     "url": "https://hy.tencent.ai/research/hy4",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Jaron Lanier on parallels between AI and social media",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50365760",
+     "url": "https://www.youtube.com/watch?v=WxaRn8kX2eI",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "I removed 85% of gemma's weights (and it is mostly fine)",
+     "summary": "I pruned Gemma 4 26B-A4B, an MoE model, down to 15% of its original size, and the model still does great on one narrow task. It gets 92% agreement with the original on a classification task. That\u2019s close to how often the 12B agrees with the 26B on the same ticks, which is 90%. This isn\u2019t a model\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnoqyy/i_removed_85_of_gemmas_weights_and_it_is_mostly/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Going in circles when using LLMs",
+     "summary": "Hi! I have been using ChatGPT and Claude, I would say extensively, since the day they came out. They obvisouly got exponentially better and better since then. However, I have a problem related to doing projects. I don't know if I am using it wrong, maybe my approach is bad entirely and all that,\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xno0n3/going_in_circles_when_using_llms/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Debian apt security update: man-in-the-middle arbitrary code execution",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50364814",
+     "url": "https://lists.debian.org/debian-security-announce/2026/msg00526.html",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Hy4 adds vision and computer use. How reliable will it be on long tasks?",
+     "summary": "Tencent just dropped Hy4. Vision and computer use are probably the two biggest new additions. For the first time, Hy can understand images and complex charts. It can also work across CLI and GUI, with specific training for tools like Blender and CAD. The computer use part sounds pretty\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xnn1xm/hy4_adds_vision_and_computer_use_how_reliable/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "AI is forcing us to pay off 40 years of technical debt",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50364336",
+     "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "why is every AI memory tool still unreliable or am I using it wrong?",
+     "summary": "I use Claude, GPT, and their built-in memories a lot, but unfortunately, they are too inconsistent. They cannot remember which needs, or even cannot give the exact context most of the time which is needed. This might not affect normal things, like polishing emails. But it highly affects long-term\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xnlmx2/why_is_every_ai_memory_tool_still_unreliable_or/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "RTX 5090 Street Prices Top $9k as Nvidia GPU Costs Climb",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50363861",
+     "url": "https://aroundprague.cz/en/news/us/rtx-5090-street-prices-top-9-000-as-nvidia-gpu-costs-climb",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Told to reboot a server, it destroyed systemd, destroyed containers, ran random",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50363717",
+     "url": "https://github.com/openai/codex/issues/59060",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Geoffrey Hinton: it might turn out we were better off without AI",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50363554",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50363461",
+     "url": "https://news.ycombinator.com/item?id=50363461",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Incident with Pull Requests, Git Operations and Issues",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50363378",
+     "url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "A message to top tier conferences [D]",
+     "summary": "TL;DR: Please be hard in desk rejecting AI generated papers Recently I went to two AI conferences (A and A*) and I was surprised that \"AI cheaters\" didn't even read their own paper before presentation! For example, a guy couldn't even answer the question of how he represented knowledge graphs in\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xnkbeu/a_message_to_top_tier_conferences_d/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Tell HN: GitHub Is Down",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50363274",
+     "url": "https://news.ycombinator.com/item?id=50363274",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Axion1-0/Axion-1.0-35B \u00b7 Hugging Face",
+     "summary": "We introduce Axion 1.0, a fully open agent foundation model that combines strong and broad agentic capabilities with a remarkably simple training recipe. Axion 1.0 is trained in only three stages: two lightweight supervised fine-tuning stages followed by reinforcement learning, without dedicated\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnjiu4/axion10axion1035b_hugging_face/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Hydrogen-1.0: open-weight scientific model beats GPT-6 Astra on FSR with 72% lower estimated output cost [P]",
+     "summary": "Hey everyone\u2014 we\u2019re the Deep Principle team behind Mira AI Scientist. We just released Hydrogen-1.0 , an open-weight model post-trained from GLM-5.3 for chemistry, materials science, and life sciences. Here\u2019s how it performed in our evaluations: FrontierScience Research: 38.3% pass rate vs. 33.3%\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xnjhdd/hydrogen10_openweight_scientific_model_beats_gpt6/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50362905",
+     "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Introducing Hy4 (open weights soon)",
+     "summary": "submitted by /u/heatOverflower [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnhzbz/introducing_hy4_open_weights_soon/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Tencent Hy4 full benchmarks",
+     "summary": "Tencent has released Hy4 full benchmarks. https://preview.redd.it/zvp83obonjzh1.png?width=1134&format=png&auto=webp&s=741752ab4759f1682c73c8c194a09dececf0b3fc submitted by /u/EmetInteractive [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xnhotx/tencent_hy4_full_benchmarks/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "AI stocks slide as Texas governor result raises data center risks",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50362274",
+     "url": "https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html",
+     "source": "Hacker News"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Open source AI is booming. Hugging Face explains who profits.",
+     "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models\u2026",
+     "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "DuckDuckGo pitches itself to schools amid backlash over Google\u2019s AI policy",
+     "summary": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
+     "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Hugging Face\u2019s CEO Says His P(Doom) Is \u2018Close to Zero\u2019",
+     "summary": "\u201cMost of the risk is actually created by a couple of players building behind closed doors,\u201d Cl\u00e9ment Delangue said of the need for open source AI.",
+     "url": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+     "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech\u2019s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor\u2026",
+     "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+     "source": "MIT Tech Review AI"
+    },
+    {
+     "headline": "Building on open source AI? Hugging Face\u2019s policy chief on the costs, risks, and trade-offs",
+     "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models\u2026",
+     "url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Nothing teases a screen-free AI device ahead of launch next month",
+     "summary": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" devices and an AI operating system. He didn't give away much about what exactly the new device is, only that one feature\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
+     "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. \"How does that make you feel?\" I get asked this a lot in therapy. Plenty of life\u2026",
+     "url": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "ChatGPT will now make you animated GIFs",
+     "summary": "ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI's new Images 2.6 model, allows you to adjust the GIF's animation speed, edit individual frames, and share it with others. Before this change, ChatGPT couldn't\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+     "summary": "",
+     "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+     "source": "Hugging Face Blog"
+    },
+    {
+     "headline": "The Results Are In: Voters Hate Data Centers",
+     "summary": "From high-profile Senate races to local rezoning initiatives, data centers and their supporters did miserably on the ballot in the 2026 midterms.",
+     "url": "https://www.wired.com/story/the-results-are-in-voters-hate-data-centers/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "I tried Apple\u2019s Siri Recaps. They\u2019re surprisingly useful \u2014 and a little unsettling",
+     "summary": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement.",
+     "url": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+     "summary": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly.",
+     "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Data centers lost the midterms",
+     "summary": "Data center developers are poised to face a more restrictive building environment after voters across the country voted in candidates who favor moratoriums and ballot measures that put more obstacles on their expansion, delivering a stinging blow to a central pillar of the AI industry. Of voters\u2026",
+     "url": "https://www.theverge.com/policy/1026365/data-centers-midterms-results",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Uber only fulfilled 4 rides from AI agents last quarter",
+     "summary": "AI agents won't be stealing Uber's lunch any time soon. Only four rides were arranged by third-party AI agents during the third quarter of 2026, Uber executives disclosed during an earnings call this morning. The volume of Uber Eats orders fulfilled by AI agents was a little higher, with the\u2026",
+     "url": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Sam Altman addresses RAM comments: People should \u2018put as much as they want in their computers\u2019",
+     "summary": "OpenAI CEO Sam Altman spent election night defending his position on PC RAM purchases. He changed his name on X to \"Ram Altman\" in response to another user's comment, saying, \"i actually do want the world to have tons of memory and people to put as much as they want in their computers, and it [\u2026]",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "OpenAI to acquire Pierre Computer Company, Inc.",
+     "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex\u2019s tools for building, understanding, and reviewing code.",
+     "url": "https://openai.com/index/openai-to-acquire-pierre",
+     "source": "OpenAI Blog"
+    },
+    {
+     "headline": "UK Officials Said AI Would Add \u00a3400 Billion to the Economy. That Figure Mainly Came From Google",
+     "summary": "The AI minister now concedes the estimated figure is less than a third of that. Researchers blame the country\u2019s slow rate of adoption.",
+     "url": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Securing the agentic enterprise with data lineage",
+     "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep.\u2026",
+     "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+     "source": "MIT Tech Review AI"
+    },
+    {
+     "headline": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
+     "summary": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today.",
+     "url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Google hasn\u2019t figured out how to make AI pay like its search engine",
+     "summary": "Search queries are growing at their fastest rate in five years, Google parent Alphabet said in its earnings report last week. However, Google's Search revenue growth slowed to 12 percent year over year in the third quarter, down from roughly 17 percent in the previous quarter. Meanwhile, growth in\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Daybreak Red is now available in AWS GovCloud (US-East)",
+     "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+     "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+     "source": "OpenAI Blog"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "AI semiotics: cool paper suggests that AIs are strongly impacted by visual symbols in ways they do not always recognize in their own chains-of-thought. The way they react to those symbols is very different than how a human might interpret them as well. arxiv.org/pdf/2610.364...",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mziqgazkbc2x"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "[AINews] Behind Latent Space: Kill My SaaS, Jev & AI in 2026 | AIEi Shanghai",
+     "summary": "November 3, 2026 \u2014 A quiet day lets us share some behind the senes.",
+     "url": "https://latent.space/p/ainews-behind-latent-space-kill-my-saas-jev-ai-in-2026-aiei-shanghai/",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "Positive and Negative AI Futures",
+     "summary": "I'm continuing to share some notes I created for myself to use when I facilitate AI safety courses. I really like using Ilya: the AI scientist shaping the world as a way of engaging students at the start of a course. The video primarily focuses on the way that AI could go wrong, however, it also\u2026",
+     "url": "https://www.alignmentforum.org/posts/MrWZfxHCEgm7uvHJj/positive-and-negative-ai-futures",
+     "source": "Alignment Forum"
+    },
+    {
+     "headline": "Wednesday assorted links",
+     "summary": "1. Important people in the AI world. 2. Ted Nordhaus on Bill Nordhaus. 3. \u201cThat universities facilitate broader political mobilization can explain why governments often seek to restrict student activism.\u201d 4. NYT obituary for William Nordhaus. 5. A new (job market) paper on how much does economic\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/wednesday-assorted-links-578.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-578",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "How big is the open model economy today?",
+     "summary": "Our first open model economy research note for paid subscribers.",
+     "url": "https://www.interconnects.ai/p/how-well-can-we-measure-open-model",
+     "source": "Interconnects"
+    },
+    {
+     "headline": "silverdugongenhance/PromptReel: Free desktop app that turns a text prompt into a short video clip on your own PC. Local AI text-to-video with Wan 2.2: type a scene, pick wide, vertical or square,\u2026",
+     "summary": "Free desktop app that turns a text prompt into a short video clip on your own PC. Local AI text-to-video with Wan 2.2: type a scene, pick wide, vertical or square, get an MP4. No credits, no subscription, no queue. Windows 10/11.",
+     "url": "https://github.com/silverdugongenhance/PromptReel",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "datasette-llm 0.1a10",
+     "summary": "Release: datasette-llm 0.1a10 Fixes a bug that affected my agent.datasette.io demo site, where the set of available LLM models was not correctly restricted to just those in the configuration. Tags: datasette , llm",
+     "url": "https://simonwillison.net/2026/Nov/4/datasette-llm/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "Desiderata for the Theory of Agents",
+     "summary": "TLDR: I give informal conceptual desiderata for the theory of agents we need to solve ASI alignment, and show a few examples of how existing theories fall short of these desiderata. A Theory of What? The word \"agent\" is often used in the AI safety discourse and in other research communities, but\u2026",
+     "url": "https://www.alignmentforum.org/posts/sqjti8dxcKSvZJikd/desiderata-for-the-theory-of-agents",
+     "source": "Alignment Forum"
+    },
+    {
+     "headline": "AI on the Ballot",
+     "summary": "Data Centers were on the ballot, and they lost in a major way; what does it mean if American opposition to building is permanent?",
+     "url": "https://stratechery.com/2026/ai-on-the-ballot/",
+     "source": "Stratechery"
+    },
+    {
+     "headline": "The election",
+     "summary": "Procedurally it seems to have gone just fine, and the people predicting \u201cthe end of democracy in America\u201d now look foolish. They have been suffering under fundamental misunderstandings of how this country works. During this election cycle, democracy never was under threat and the United States has\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/the-election.html?utm_source=rss&utm_medium=rss&utm_campaign=the-election",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "wiva-hq/CodeRail: Self-hosted remote control for your coding agents: Claude Code and Codex chats, approvals, terminals, files, git and dev-server previews for every computer you own, from the\u2026",
+     "summary": "Self-hosted remote control for your coding agents: Claude Code and Codex chats, approvals, terminals, files, git and dev-server previews for every computer you own, from the browser or your phone. One Docker container on your own server.",
+     "url": "https://github.com/wiva-hq/CodeRail",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-11-04T19:54+00:00",
+  "window_start": "2026-11-04T06:43+00:00",
+  "window_end": "2026-11-04T19:54+00:00",
+  "candidate_count": 76,
+  "model": "free (no LLM)"
+ }
+}
