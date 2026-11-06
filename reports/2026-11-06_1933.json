@@ -1,0 +1,483 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Muir: Linear Attention with Sensitivity-Allocated Gating and Matched-Filter Readout (Google Research, 10M tokens in 25MB state) [R]",
+   "summary": "Paper: https://arxiv.org/abs/2611.08376 | HF: https://huggingface.co/papers/2611.08376 At 10M tokens, a 1.3B Transformer needs 2.1 TB of KV cache (0.32 TB even at 2.5-bit quantization). Channel-wise gated delta models (like Gated DeltaNet-2 / GDN-2) compress history into a fixed 25 MB state, but\u2026",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xplbuu/muir_linear_attention_with_sensitivityallocated/",
+   "source": "r/MachineLearning"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Muir: Linear Attention with Sensitivity-Allocated Gating and Matched-Filter Readout (Google Research, 10M tokens in 25MB state) [R]",
+     "summary": "Paper: https://arxiv.org/abs/2611.08376 | HF: https://huggingface.co/papers/2611.08376 At 10M tokens, a 1.3B Transformer needs 2.1 TB of KV cache (0.32 TB even at 2.5-bit quantization). Channel-wise gated delta models (like Gated DeltaNet-2 / GDN-2) compress history into a fixed 25 MB state, but\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xplbuu/muir_linear_attention_with_sensitivityallocated/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Lamplight - Lessons Learned from Building a Local-First Harness",
+     "summary": "Hi folks! I've been building my own local AI setup for a couple of years now. I've learned a ton from this sub and others like r/localllm , so it's time I tried to give something back. I promised myself I wouldn't write a super long post, but managed to anyway...hopefully it's useful to someone!\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpkqo2/lamplight_lessons_learned_from_building_a/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "ICLR reviewer rubric[D]",
+     "summary": "Dear all could anyone please be kind enough to comment below the ICLR rubric and grading reviewers were told to use along w the subscores and overall scores? I'd be super grateful. Thanks a lot in advance. submitted by /u/Anshuman3480 [link] [comments]",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xpkp8q/iclr_reviewer_rubricd/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Turkey Uses AI and Other Tech to Claw Back 100 Looted Antiquities from the US",
+     "summary": "This is just cool! Goes to show you that AI is not inherently bad. Great news! submitted by /u/ZealousidealOwl2026 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xpk0wl/turkey_uses_ai_and_other_tech_to_claw_back_100/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50395933",
+     "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Perplexity launches AI agents for work",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50395866",
+     "url": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Anthropic IPO buyers see valuation as low as $1.1T",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50394906",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "AMA: How we trained a SOTA Decision model, got top 3 on OpenRouter & top on 5 ArtificalAnalysis: full playbook - arch, datasets, training, evals, inference",
+     "summary": "hey llamas! My name is Alt, and I'm on the technical staff at Nace AI . We're doing a quick AMA here, so ask us anything and we'll answer. we just published a full technical report on how we build, train, and evaluate Drex , our family of four open decision models. A decision model takes a state\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xphq4u/ama_how_we_trained_a_sota_decision_model_got_top/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Ripple 65B Preview vs Qwen 3.8 27B vs Qwen 3.8 Flash Next",
+     "summary": "Benchmark Ripple 65B Qwen 3.8 27B Qwen 3.8 FN Terminal Bench 2.1 80.5 73 Na DeepSWE 1.1 44.3 42.2 58.7 SWEBench Pro* 79.1 61.7 62.5 *SWE Bench Pro is v2.0 Hard for Ripple, unknown version for Qwen. submitted by /u/Nota_ReAlperson [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xphi5w/ripple_65b_preview_vs_qwen_38_27b_vs_qwen_38/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Do you think A.I companies should together pause the development of job affecting a.is for a couple of years atleast?",
+     "summary": "I am not asking about total A.I which i think is not possible, but maybe the job affecting A.I or job affecting parts of A.I models they develop? I think they should if it can be done technically, what do you all think? submitted by /u/Ok-Phrase5891 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xphcwd/do_you_think_ai_companies_should_together_pause/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50394569",
+     "url": "https://github.com/anomalyco/rune",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "I am a lawyer and made a small game: an AI summary of a real judgment with a few planted mistakes, and you catch them by highlighting the proof",
+     "summary": "Legal AI has learned to summarise. But has it learned how lawyers think? In my experience, AI summaries of judgments read well and still get things wrong, i.e. a holding stated too broadly, or a point the court rejected reported as accepted. So I made \"Catch the AI\". You read a real judgment, flag\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xpgt8f/i_am_a_lawyer_and_made_a_small_game_an_ai_summary/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Coincidence, right?",
+     "summary": "submitted by /u/skeole [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpgsb3/coincidence_right/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Writing back and forth with an agent surprised me more than code",
+     "summary": "Code rarely surprises me. Writing back and forth with an agent did. Asking and answering, we ended up with something better than either of us writes alone. It gathers data, finds topics and ways to run things. I bring what I actually think and things that happened to me. The agent is the amplifier\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xpgesh/writing_back_and_forth_with_an_agent_surprised_me/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Oc-e-Non-v1: A language model that gets to the f*cking point",
+     "summary": "Richard I of England was called \"Oc-e-Non\" ( Yes and No in Occitan) by some of contemporaries, supposedly because he used few words. Wouldn't it be nice if LLMs followed his shining example? Oc-e-Non-v1 is a tersified version of Qwen3-4B-Instruct-2507. It reduces Qwen's mean response length by\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpfhpm/ocenonv1_a_language_model_that_gets_to_the_fcking/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Android Remote Control MCP v1.13.0 is out: free end-to-end encrypted tunnel, no account needed",
+     "summary": "\ud83d\ude80 It has been a while since the last release, but Android Remote Control MCP is back and v1.13.0 is now out! It's the MCP server that runs on your phone and lets your AI agent use any app you want. https://github.com/danielealbano/android-remote-control-mcp/releases/tag/v1.13.0 The big news of\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xpf8k5/android_remote_control_mcp_v1130_is_out_free/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "ICLR27: Reviewer says my paper is too close to the same paper that I previously had in a workshop. [D]",
+     "summary": "I submitted my paper to ICLR, after improving and correcting since I \"published\" it previously in a workshop/arXiv. In this process, I changed the name of the method and title. Now a reviewer, pointed out that my method is very closely related to basically an old version of my paper, and wants me\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xpf4t6/iclr27_reviewer_says_my_paper_is_too_close_to_the/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "FAA begins retiring decades old floppy disks from air traffic control",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50393183",
+     "url": "https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-begins-retiring-decades-old-floppy-disks-air",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Where Each U.S. State Gets Its Tax Revenue From",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50393165",
+     "url": "https://www.visualcapitalist.com/where-each-states-tax-revenue-comes-from/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Harness Adapters: LoRA adapter for your model per task per harness",
+     "summary": "Hey folks! Aritra from Hugging Face here \ud83e\udd17. We welcome \"harness adapters\". This means you can adapt (train LoRA) for your model for the specific harness that you would use (hermes, pi, opencode) on the task (data analysis, building software, coding) you are trying to solve. Blog Post:\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpeee1/harness_adapters_lora_adapter_for_your_model_per/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "ICLR 2027 Review Scores [N]",
+     "summary": "submitted by /u/No-Lab4175 [link] [comments]",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xpedgc/iclr_2027_review_scores_n/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "University libraries are being swarmed by AI bots, putting public access at risk",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50392499",
+     "url": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Higher interest rates add to fears of AI bubble popping",
+     "summary": "submitted by /u/HotMinuteUK [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xpdm6z/higher_interest_rates_add_to_fears_of_ai_bubble/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "A 0.1B model just killed 8B embedding models... I tried it out.",
+     "summary": "I bet you guys are familiar with embedding models such as Qwen3-Embedding or Gemini Embedding. They are dense embedding models used to search text across a large corpus. I am developing a RAG agent, and my biggest concern was local computing power. RAG largely depends on retrieval quality, which\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpdk0i/a_01b_model_just_killed_8b_embedding_models_i/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "accidentally stumbled upon UNIFIELD / the Intent Protocol... has anyone heard of this?",
+     "summary": "i somehow stumbled onto UNIFIELD and ended up spending an embarrassing amount of time going through literally every page of the website lol i'm not a developer or particularly well versed in internet architecture, so despite reading all of it, i still had to get chatgpt to help me understand some\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xpdjc7/accidentally_stumbled_upon_unifield_the_intent/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "The UK Government Asked 14,000 Children About AI. It Ignored Their Answer.",
+     "summary": "submitted by /u/calliope_kekule [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xpcsds/the_uk_government_asked_14000_children_about_ai/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "ICLR 2027 Reviews are out [D]",
+     "summary": "How did it go? I will start: 3/3/2 submitted by /u/mr_carlduke [link] [comments]",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xpc9sh/iclr_2027_reviews_are_out_d/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Qwen - the becoming begins",
+     "summary": "https://x.com/Alibaba_Qwen/status/2118674834632978755 Official interpretation: Qwhen? Qsoon! For our friends outside China, the Chinese text in the poster comes from Zhuangzi, an ancient Chinese classic: \"Far in the northern sea lives a fish named Kun (pronounced like Qwen). So immense is its size\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpbjzi/qwen_the_becoming_begins/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I need some guidance after a six month hiatus [R]",
+     "summary": "Short Backstory: I'm a PhD student on my 5th year. I had a major mental breakdown on June 2026 after my second rejection on an IEEE Journal. After a lot of back and forth, I decided to not give up my PhD (for the time being). Current Situation: My current objective is to author my 3rd publication\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xpb6kb/i_need_some_guidance_after_a_six_month_hiatus_r/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "We've built an open-source feature flag server for 11 years",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50391145",
+     "url": "https://github.com/Unleash/unleash",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Latest Open-Source Labs are gutting away cybersecurity and reverse-engineering capabilities",
+     "summary": "Kimi K3.1 and Tencent\u2019s Hy4 are both gutting out cybersecurity, reverse engineering, and vulnerability-patching capabilities from their open-source models. This is becoming a really bad pattern across these latest Chinese open-weight models. If local models are stripped on their security data, we\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xp9jt1/latest_opensource_labs_are_gutting_away/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50390525",
+     "url": "https://jhr.pensoft.net/articles.php?id=9096",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Are we learning AI or just learning to use ChatGPT?",
+     "summary": "With AI tools becoming part of our everyday work, most of us have figured out how to write prompts and get useful outputs. But is that really enough? There's a difference between using AI to get things done and understanding how it works, where it can go wrong, and how to build something useful\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xp92cl/are_we_learning_ai_or_just_learning_to_use_chatgpt/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "How do you build visibility through open source contributions?[D]",
+     "summary": "I\u2019m an MSc CS student with a background in 3D computer vision, trying to figure out how to build visibility and credibility in the AI/ML community. I\u2019ve been thinking about contributing to established open source projects rather than building standalone GitHub projects. Honestly, the latter feels\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xp90lz/how_do_you_build_visibility_through_open_source/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50390124",
+     "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "AI for scientific discovery: How researchers use Claude",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50389990",
+     "url": "https://www.anthropic.com/research/how-researchers-use-claude",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Asking questions to a 0.5b model is hillarious",
+     "summary": "Yes IK it's supposed to be this dumb, but it's still funny (Qwen2 0.5b Q4_K_M) submitted by /u/Pro-editor-1105 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xp8as6/asking_questions_to_a_05b_model_is_hillarious/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Tech stocks plunge on worries about AI and Democrats' midterm landslide",
+     "summary": "submitted by /u/Fcking_Chuck [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xp7ym7/tech_stocks_plunge_on_worries_about_ai_and/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "App Store 2026 in numbers: AI, pricing, abandoned apps",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50389448",
+     "url": "https://obelisk.club/research/app-store-2026",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Global stocks tumble as AI panic grips markets after Democrats' midterm success",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50389401",
+     "url": "https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Blender's UI and Runtime: Much Faster Than GPUI",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50389333",
+     "url": "https://github.com/ppmpreetham/BUI",
+     "source": "Hacker News"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+     "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+     "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+     "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+     "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Free Chinese AI Models Are Getting Scary Good at Hacking",
+     "summary": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI\u2019s most advanced cyber model, which isn\u2019t public.",
+     "url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Meta\u2019s Muse AI can create custom \u2018spaces\u2019 for the version of the app you need right now",
+     "summary": "Meta will now allow you to build customized, app-like experiences within its Muse AI assistant. The new feature, called \"spaces,\" allows Muse to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the app. If you connect\u2026",
+     "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "How a Blue Wave midterm might reshape the AI industry",
+     "summary": "Democrats\u2019 historic victories in this week\u2019s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday \u2014 in all but one, the majority voted to impose more restrictions on data center development. And even when data centers\u2026",
+     "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "\u201cDoes Meta think we can\u2019t read?\u201d Meta abandons sketchy commercial terms update.",
+     "summary": "Meta won't force Facebook page owners to allow AI training on linked content.",
+     "url": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "After the midterms, is the AI industry in for a rough two years?",
+     "summary": "Democrats\u2019 historic victories in this week\u2019s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday \u2014 in all but one, the majority voted to impose more restrictions on data center development. And even when data centers\u2026",
+     "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "AI is the new dating dealbreaker",
+     "summary": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst downloaded Hinge and started swiping, she noticed a trend. \"Hinge has a prompt\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Big Tech lost big in the 2026 election",
+     "summary": "On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech is about to come roaring back, and the fight over data centers is looking even harder for the folks trying to build them. On this episode of The Vergecast,\u2026",
+     "url": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "How Akai and Moog are embracing vibe-coded mods",
+     "summary": "inMusic, the parent company of Akai, Moog, Native Instruments, and more, has decided to embrace the modding community. In an interview with The Verge, inMusic CEO Jack O'Donnell said, \"We're going to provide a toolbox to the community, we're going to provide the inner workings of, say, an MPC or\u2026",
+     "url": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Could potential AI clones of GTA VI force a quicker official port?",
+     "summary": "A former Rockstar tech director thinks the developer is facing new time pressures.",
+     "url": "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
+     "summary": "A year ago, NVIDIA open sourced its Aerial wireless software, joining Sionna and a broader suite of open source tools for accelerating next-generation 6G network development. Together, they give researchers a foundation for testing ideas, comparing results and building on each other\u2019s work \u2014\u2026",
+     "url": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/",
+     "source": "NVIDIA Blog"
+    },
+    {
+     "headline": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
+     "summary": "Data brokers are collecting all sorts of internal corporate files to help train AI models. Not everyone is thrilled.",
+     "url": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+     "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
+     "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+     "summary": "Amazon said that the feature will roll out to millions of users in coming weeks.",
+     "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "ToyBlocks: A controlled world for robot learning and evaluation",
+     "summary": "",
+     "url": "https://huggingface.co/blog/allenai/toyblocks",
+     "source": "Hugging Face Blog"
+    },
+    {
+     "headline": "Amazon will let you text Alexa your shopping list",
+     "summary": "Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant. Users can describe the products they're looking to buy and/or provide a photograph of the item, and Alexa for Shopping will search for matching results in Amazon\u2026",
+     "url": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Underdog shows off a 32MB speech model in new demo",
+     "summary": "Despite its small size, Underdog's new model can generate both speech and music.",
+     "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Physicl raises $10M to make the digital world real enough for robots",
+     "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
+     "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Protesters break into Microsoft data center site in Amsterdam",
+     "summary": "Protesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning. Members of the Geef Tegengas group helped organize the protest against the construction of three 85-meter data center towers in the outskirts of Amsterdam. Reuters reports that around 100\u2026",
+     "url": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+     "summary": "I\u2019m not the sort of person who typically pays for a house cleaner. I\u2019m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed\u2026",
+     "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+     "source": "MIT Tech Review AI"
+    },
+    {
+     "headline": "Partnering with Hacktron to find vulnerabilities in OpenAI\u2019s systems",
+     "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+     "url": "https://openai.com/index/partnering-with-hacktron",
+     "source": "OpenAI Blog"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @simonwillison.net",
+     "handle": "",
+     "quote": "Loved this riff about AI products by @reckless.bsky.social on the latest episode of the Vergecast - \"The products aren't good enough to sell people on the costs.\" www.youtube.com/watch?v=-U4t...",
+     "context": "",
+     "url": "https://bsky.app/profile/simonwillison.net/post/3mznxnk6tfc2q"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "2026.45: Falling Leaves (and Stocks)",
+     "summary": "The best Stratechery content from the week of November 2, 2026, including AI on the ballot, a Google state of the union, and China.",
+     "url": "https://stratechery.com/2026/falling-leaves-and-stocks/",
+     "source": "Stratechery"
+    },
+    {
+     "headline": "Friday assorted links",
+     "summary": "1. What will happen with Texas data centers? And more on that. 2. What is the half life of a claim about LLMs? 3. YouTube video created by AI. Titled Der Zauberberg. 4. Data centers tend to be put in places with relatively flat supply curves. 5. \u201cAccording to Twenge, one of the great Cassandras\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/friday-assorted-links-598.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-598",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Quoting Nilay Patel",
+     "summary": "The products aren't good enough to sell people on the costs. You cannot tell people that you have to listen to the whine of a data center in their backyard for AI overviews and some of the most hilarious deep fake slop in history. It's not worth it. It just isn't worth it to anyone. And agents\u2026",
+     "url": "https://simonwillison.net/2026/Nov/6/nilay-patel/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "Untethered AI agents in Delaware?",
+     "summary": "A Delaware AIC will be a separate legal entity whose day-to-day a\ufb00airs are managed by an AI agent rather than a person. At the agent\u2019s direction, the AIC can sue and be sued in its own name, hold and dispose of property, and incur obligations\u2026 That is a current proposal, here is the full article.\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/untethered-ai-agents-in-delaware.html?utm_source=rss&utm_medium=rss&utm_campaign=untethered-ai-agents-in-delaware",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Controlling Biology - Fabian Theis, Helmholtz Munich",
+     "summary": "As systems biology efforts heat up to map biology at higher resolution, greater breadth and more modalities, Fabian Theis is pushing the frontier from mapping to predicting to controlling biology",
+     "url": "https://latent.space/p/controlling-biology-fabian-theis-helmholtz-munich/",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "What They Took From You",
+     "summary": "Until August 1914 a sensible, law-abiding Englishman could pass through life and hardly notice the existence of the state, beyond the post office and the police. He could live where he liked and as he liked. He had no official number or identity card. He could travel abroad or leave forever\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/what-they-took-from-you.html?utm_source=rss&utm_medium=rss&utm_campaign=what-they-took-from-you",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Sharp Tech on Video: The U.S. Votes on Data Centers, Implications for Big Tech, Google\u2019s Response to AI",
+     "summary": "Sharp Tech is, for the first time, available on video. You have two ways to consume it: YouTube, and here on Stratechery",
+     "url": "https://stratechery.com/2026/sharp-tech-on-video-the-u-s-votes-on-data-centers-implications-for-big-tech-googles-response-to-ai/",
+     "source": "Stratechery"
+    },
+    {
+     "headline": "[AINews] Inkling 2 Small: 17A-594B trained in 68 hours on 12T tokens, beating Muse Spark",
+     "summary": "November 5, 2026 \u2014 Inside Inkling 2 Small\u2019s training run and METR\u2019s study of AI research at Anthropic.",
+     "url": "https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark/",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "TIGER-AI-Lab/WebsiteBench: Can AI agents rebuild websites through browser exploration?",
+     "summary": "Can AI agents rebuild websites through browser exploration?",
+     "url": "https://github.com/TIGER-AI-Lab/WebsiteBench",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "didilili/mianstack: \ud83d\ude80 \u9762\u6808 MianStack\uff5c\u7a0b\u5e8f\u5458\u9762\u8bd5\u9898\u5e93\u5929\u82b1\u677f\uff01Java\u3001Python\u3001\u6570\u636e\u5e93\u3001\u7b97\u6cd5\u3001\u5927\u6a21\u578b\u3001AI Agent\u3001RAG \u4e00\u6808\u5907\u9f50\u3002\u771f\u5b9e\u9762\u7ecf\u5173\u8054\u9ad8\u9891\u8003\u70b9\uff0c\u6309\u516c\u53f8\u3001\u5c97\u4f4d\u5b9a\u5411\u5907\u8003\uff1b\u56fe\u6587\u9898\u89e3\u3001\u7cbe\u534e\u4e13\u9898\u3001\u9879\u76ee\u6e90\u7801\u62c6\u89e3\uff0c\u5168\u7cfb\u6807\u914d\u3002\u9762\u8bd5\u5b98\u51fa\u9898\uff0c\u9762\u6808\u51fa\u62db\uff01\u514d\u8d39\u5f00\u6e90\uff0c\u6301\u7eed\u66f4\u65b0\u3002",
+     "summary": "\ud83d\ude80 \u9762\u6808 MianStack\uff5c\u7a0b\u5e8f\u5458\u9762\u8bd5\u9898\u5e93\u5929\u82b1\u677f\uff01Java\u3001Python\u3001\u6570\u636e\u5e93\u3001\u7b97\u6cd5\u3001\u5927\u6a21\u578b\u3001AI Agent\u3001RAG \u4e00\u6808\u5907\u9f50\u3002\u771f\u5b9e\u9762\u7ecf\u5173\u8054\u9ad8\u9891\u8003\u70b9\uff0c\u6309\u516c\u53f8\u3001\u5c97\u4f4d\u5b9a\u5411\u5907\u8003\uff1b\u56fe\u6587\u9898\u89e3\u3001\u7cbe\u534e\u4e13\u9898\u3001\u9879\u76ee\u6e90\u7801\u62c6\u89e3\uff0c\u5168\u7cfb\u6807\u914d\u3002\u9762\u8bd5\u5b98\u51fa\u9898\uff0c\u9762\u6808\u51fa\u62db\uff01\u514d\u8d39\u5f00\u6e90\uff0c\u6301\u7eed\u66f4\u65b0\u3002",
+     "url": "https://github.com/didilili/mianstack",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "zaxiu88888/issue-rag: RAG over GitHub issues, with a hand-reviewed eval set and an audit of the judge itself. Reports the interval, not just the best number.",
+     "summary": "RAG over GitHub issues, with a hand-reviewed eval set and an audit of the judge itself. Reports the interval, not just the best number.",
+     "url": "https://github.com/zaxiu88888/issue-rag",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-11-06T19:33+00:00",
+  "window_start": "2026-11-06T07:01+00:00",
+  "window_end": "2026-11-06T19:33+00:00",
+  "candidate_count": 75,
+  "model": "free (no LLM)"
+ }
+}
