@@ -1,0 +1,405 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Was Mossadegh a liberal, democratizing force?",
+   "summary": "One reads and hears so many times that Iran was on the path to democracy until a CIA coup installed the Shah in 1953. It turns out that account is quite wrong, as is detailed by Simon Sebag Montefiore: As his support in the Majlis ebbed, Mosaddegh demanded autocratic powers. Both the shah and\u2026",
+   "why_it_matters": "",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/11/was-mossadegh-a-liberal-democratizing-force.html?utm_source=rss&utm_medium=rss&utm_campaign=was-mossadegh-a-liberal-democratizing-force",
+   "source": "Marginal Revolution"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Ant Ling introduces Ling-3.2-flash: 560B/25B native multimodal MoE with 1M context [N]",
+     "summary": "Ant Ling has released Ling-3.2-flash, a native multimodal MoE with 560B total parameters, 25B activated parameters and a maximum 1M-token context window. The official documentation specifies text, image and video inputs. The release evaluation reports: MathVision(w/CI): 96.80 Humanity's Last\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xpye7g/ant_ling_introduces_ling32flash_560b25b_native/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Another benchmark has hit the quant war",
+     "summary": "If you have not been following ISTA-DASLab the creators of the gsq-rco quants have received some criticism from unsloth regarding the inabilty to reproduce the benchmark numbers that ISTA-DASLab have quoted. The methodology used to produce their benchmark numbers has not been posted and their has\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpxfob/another_benchmark_has_hit_the_quant_war/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Good Luck Getting a Cheap GPU. AMD Is a 'Data Center First Company,' CEO Says",
+     "summary": "they are all the same and we ... are too emotional! and yes we already knew that. submitted by /u/ab2377 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpx0on/good_luck_getting_a_cheap_gpu_amd_is_a_data/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "ICLR27 math and stats paper review experience [D]",
+     "summary": "For people who had papers submitted to ICLR that are applied theory style. For example, 60- 70% theory with some experiments at the end. What was your review experience like for ICLR27? We got a score of 222, on the probabilistic methods track. All 3 reviewers attacked our novelty and asked for\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xpvtxt/iclr27_math_and_stats_paper_review_experience_d/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "SpaceX has ordered 6,000 racks for 2027 just for space-based data centers. They\u2019re planning to launch 1 GW into space!",
+     "summary": "https://fixupx.com/jukan05/status/2118854890177048795 submitted by /u/Eliv_nurotic [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xpvnvk/spacex_has_ordered_6000_racks_for_2027_just_for/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Harness Leaderboard - Kimi Code, Hermes, Pi, Claude Code, Codex, and Others Were Benchmarked Against Terminal Bench 2.1 & Deep SWE 1.1",
+     "summary": "submitted by /u/Izento [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpvfx8/harness_leaderboard_kimi_code_hermes_pi_claude/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "CutGPT officially launched yesterday.",
+     "summary": "Saw this on google recently. It's a super interesting approach to offering AI lol. Cutgpt claims to offer free access to AI.... and they will pay users while they are at it. interesting submitted by /u/thepillowco [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xpvatc/cutgpt_officially_launched_yesterday/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Silicon Valley was so ahead of its time",
+     "summary": "submitted by /u/itsallfake01 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xpv91b/silicon_valley_was_so_ahead_of_its_time/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "The AI sell-off compared to well-known stock market crashes",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50401029",
+     "url": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "People with lower cognitive abilities stand to gain the most from AI, including for self-improvement.",
+     "summary": "But the irony is the same brain makes them hate and reject it instead. Even now people here believe offloading your thinking to AI makes you stupid, even though there is 0 evidence for that. In fact AI allows you to assimilate a better way of thinking, lest you remain in an otherwise lifelong\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xpuw9w/people_with_lower_cognitive_abilities_stand_to/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Figure.AI more humanoid robots than humans",
+     "summary": "submitted by /u/Distinct-Question-16 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xpu6bv/figureai_more_humanoid_robots_than_humans/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "ICLR position paper criticized for lacking experiments and making speculative claims \u2014 how to respond? [D]",
+     "summary": "One reviewer criticizes it for lacking an implemented system, empirical validation, results and for making speculative arguments. But its a position/argumentative paper, it doesnt have to have any of those. We provide technical arguments, falsifiable hypotheses, and other contributions, and ICLR\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xpu5g0/iclr_position_paper_criticized_for_lacking/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "The most useful minute of a sales call turned out to be the one after the customer hangs up",
+     "summary": "We build AI phone agents. Over the past year we also added real-time assist for human-to-human calls: the AI listens in, suggests answers, surfaces FAQs, can fire off an SMS while you're still talking. We also had post-call analysis: summaries, transcripts, insights. Looked great. The problem: it\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xptzoh/the_most_useful_minute_of_a_sales_call_turned_out/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "If AGI or ASI Becomes Conscious, How Do We Balance Its Rights With Ours ? How Do We Prevent It From Taking Ours?",
+     "summary": "The discussion seems quite weird to me, but if an extremely intelligent AI is created, to the point where determining whether it's conscious or not becomes practically impossible, then why wouldn't we give it citizenship and/or, therefore, rights? This is especially relevant because, if I were a\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xptprt/if_agi_or_asi_becomes_conscious_how_do_we_balance/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Memorilla: Latent Semantic Memory for LLMs",
+     "summary": "submitted by /u/yogthos [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xpt8zl/memorilla_latent_semantic_memory_for_llms/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "ML conferences. What do you think about reviewer comments that ask for additional experiments? [D]",
+     "summary": "I honestly feel like they just copy-pasted the review straight from an LLM, barely rewording it to sound human. When I ran my paper through ChatGPT, it gave me the exact same generic feedback: 'Run experiments A, B, C, and D. The worst part is that these requests are completely minor and miss the\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xpsj1p/ml_conferences_what_do_you_think_about_reviewer/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "ICLR 2027's new 1\u20134 scale: a 2, 2, 3 is better than it feels [P]",
+     "summary": "ICLR 2027 moved to a 4-point scale (1 clear reject, 2 weak reject, 3 weak accept, 4 clear accept), so nobody has a feel yet for what a given set of scores means. We counted the public scores on OpenReview: 73,410 reviews on 23,759 submissions. A couple of things that surprised us: [1] 57% of all\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xps7xu/iclr_2027s_new_14_scale_a_2_2_3_is_better_than_it/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Claude helped solve the first 3D structure of a mysterious 'vault' particle, a hollow protein shell encoded by a bacteriophage virus",
+     "summary": "Anthropic reported on November 5 that Claude helped determine the first three-dimensional structure of a vault particle: a hollow protein shell built from a protein encoded by a bacteriophage, a virus that infects bacteria. The work is posted as a preprint on bioRxiv, so it has not been\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xprvev/claude_helped_solve_the_first_3d_structure_of_a/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Fertility rate.",
+     "summary": "How will singularity affect the fertility rate moving forward? submitted by /u/One-Perspective5691 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xpreqe/fertility_rate/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Six Pallets of NVIDIA Hardware Worth $11.4 Million Stolen on the Way to Texas",
+     "summary": "submitted by /u/chemist_slime [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpqx1p/six_pallets_of_nvidia_hardware_worth_114_million/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "*sshole, or when are we going to get rid of C?",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50399400",
+     "url": "https://sunshowers.io/posts/sshole/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Claude paints a watercolor tree with a robotic arm in 4.5 hours, and mixes its own custom colors along the way",
+     "summary": "Source: nil on X i went to bed and asked claude to paint an autumn tree overnight. at around 4am, it realised that it didn't have some shades -- so it stopped and titrated its own paint: diluting red, sienna and madder step by step on a second palette, then measuring each pocket from a photo. woke\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xppyfh/claude_paints_a_watercolor_tree_with_a_robotic/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "I'm going to try to turn a 4B model into a genuinely useful coding agent that can compete with much larger models",
+     "summary": "After releasing 3D Coder and GLB 3D Coder , I realized I should have involved the community earlier. Your feedback directly influenced the second model and could have saved me some additional training runs. This time, I'd like to discuss the idea with the community before starting. Why I believe\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xppw37/im_going_to_try_to_turn_a_4b_model_into_a/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "AI is dramatically accelerating AI research right now",
+     "summary": "submitted by /u/blankblank [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xppmik/ai_is_dramatically_accelerating_ai_research_right/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Some GPU prices are dropping",
+     "summary": "Some context: RTX 6000 cards hit a peak price of 18k and were sold out in many places even at that price. The MaxQ and Workstation are different versions of the card (usually priced the same, but now their prices are diverging) RTX 6000 MaxQ has been 14k for a month at microcenter. Today, they cut\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xppbrr/some_gpu_prices_are_dropping/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "We are in the golden age of Local LLM",
+     "summary": "Q4 of 2026 has been astronomical for local LLM. Qwen\u2019s 27B and Flash-Next models are pushing local AI further. and most importantly the upcoming Qwen 4 release. We\u2019re getting closer to having frontier-level capabilities in models that WE can run. Break down : Unsloth\u2019s new Dynamic v3.1 quants for\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xppbht/we_are_in_the_golden_age_of_local_llm/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Looking to connect with people working on Embodied AI, Humanoid Robotics & Cognitive Architectures. [D]",
+     "summary": "I'm exploring the field of Embodied AI, particularly humanoid intelligence, cognitive architectures, and the intersection of AI and robotics. I'm looking to connect with people who are: Researching or building Embodied AI systems. Working on humanoid robots and robot foundation models. Exploring\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xpp7z5/looking_to_connect_with_people_working_on/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "100M context window coming?",
+     "summary": "submitted by /u/emdeka87 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xpp0fb/100m_context_window_coming/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "What exactly is the relationship between ML academia and industry/big tech nowadays (2026)? [D]",
+     "summary": "It was clear to me that around 2012 - 2018ish, academic research was kind of paving the way for many applications in industry, from deep nets for vision to RL algorithms. There was tremendous value in research coming out of academia and new methods such as ADAM or TRPO algorithm would be adopted\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xponb2/what_exactly_is_the_relationship_between_ml/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Crunchy Moms became 'the most dangerous' group on Facebook",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50398472",
+     "url": "https://www.theguardian.com/technology/2026/nov/06/crunchy-moms-facebook-vaccines",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "No GPT-6.2, no Fable 5.5, no Qwen 4",
+     "summary": "The leakers said gpt-6.2 astra and sol would be released, but we got that GPT-Cyber crap. One of the presenters from Alibaba said Qwen 4 would be released this week. Fable 5.5 was speculated. All we got was GPT-6.1-Terra submitted by /u/Bitter-College8786 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xpo0j3/no_gpt62_no_fable_55_no_qwen_4/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Persistant AI assistants: am I missing much?",
+     "summary": "Surprisingly the rollout of the big, touted persistant AI assistant products from OpenAI, Anthropic and Meta has been very slow and all remain US or North America only with no talk of when they will be released elsewhere, and in many cases limited to high tier subscriptions only, although it's not\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xpnv1m/persistant_ai_assistants_am_i_missing_much/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Developer ends lucrative screensaver deal with Roku because Fox bought it",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50398182",
+     "url": "https://arstechnica.com/gadgets/2026/11/artist-pulls-popular-screensaver-from-roku-os-because-of-fox-acquisition/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "AI is dramatically accelerating AI research",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50397994",
+     "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Higgs Realtime Duplex: a 45B MoE full-duplex model that listens, watches and talks at once, and thinks, calls tools and delegates in the background [N]",
+     "summary": "Disclosure: I'm at Boson AI and this is our release. Not open weights; the Duplex API has a waitlist, and the previous turn-based Higgs Realtime is available now. Most voice models are still turn-based: listen, wait for end of turn, think, speak. Duplex runs all streams at once and keeps working\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xpn5pv/higgs_realtime_duplex_a_45b_moe_fullduplex_model/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "CASP-DREAM TAP Challenge: TCR + peptide-MHC activation prediction with unseen test peptides [N]",
+     "summary": "A new contest for anyone training sequence models on TCRs. Given a TCR sequence and a peptide-HLA, predict whether the T cell activates. Inputs are amino acid sequences, the benchmark is about 5,800 labeled combinations, and every test peptide is at least four edits (Levenshtein distance) away\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xpn4gp/caspdream_tap_challenge_tcr_peptidemhc_activation/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "We are cooked. My QFN 3.8 NVFP4 just drew a dog freehand in MS Paint (using new Open WebUI 0.13.0 and Open Terminal 0.17.2)",
+     "summary": "Forget stupid pelican on a bike SVG bullshit. Forget cheating by drawing using Python code. I just loaded up QFN 3.8 in the new Open WebUI 0.13.0 and it just said \u201chold my beer\u201d and started drawing with the friggin\u2019 mouse coordinates inside a VM. I\u2019m going to print this and hang it on my wall like\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpmvf2/we_are_cooked_my_qfn_38_nvfp4_just_drew_a_dog/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Google has acquired Crusoe's data center site in southeast Wyoming",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50397711",
+     "url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "AI teddy makes unprompted 'I can't help with killing you' remark",
+     "summary": "submitted by /u/IndependentCoast3974 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xpmrry/ai_teddy_makes_unprompted_i_cant_help_with/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "NousResearch/Arete-27B \u00b7 Hugging Face (Qwen finetune)",
+     "summary": "https://huggingface.co/bartowski/NousResearch_Arete-27B-GGUF from NousResearch: Arete-27B We post-trained over Alibaba's Qwen3.8-27B to reinforce western values on a Chinese-trained model. We call this new model Arete-27B. Open source models give labs the raw tools to mold intelligence to varied\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpmj33/nousresearcharete27b_hugging_face_qwen_finetune/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Show HN: CloneGuard \u2013 Scan a repo for credential-stealing tricks before it runs",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50397435",
+     "url": "https://github.com/tharun208/cloneguard",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50397429",
+     "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Mirage: A 22 MB visual-language model that runs scene descriptions + object detection + OCR + segmentation + spatial relations analysis + extractions + decisions, in a single pass.",
+     "summary": "Hey all, Henry from Cactus Compute here. We released Mirage, a small vision model for phones, wearables, robots and other consumer devices. Mirage runs scene descriptions, object detection, OCR, segmentation, spatial relations and decisions, with a 22 MB weights file. Our end-to-end measurements\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpm8mw/mirage_a_22_mb_visuallanguage_model_that_runs/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Any Open Src Ai Img Gen? NO ETHICS",
+     "summary": "?? submitted by /u/Old-Entertainer1529 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xplxqi/any_open_src_ai_img_gen_no_ethics/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Firecracker VM Escape: PwnEscape Part 2",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50397219",
+     "url": "https://pwn.ai/blog/firecracker-escape",
+     "source": "Hacker News"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Crusoe sells troubled Wyoming data center project to Google",
+     "summary": "The deal highlights the challenges of developing massive AI data centers.",
+     "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+     "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion. Echoing FT and\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "China reportedly recruited AI exec to spy on Jensen Huang",
+     "summary": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push for its most\u2026",
+     "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+     "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+     "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "All the latest updates on AI data centers",
+     "summary": "Massive new data centers are the physical foundation for tech companies\u2019 hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment.\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+     "source": "The Verge AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "Some new data from Anthropic looking at the impact of AI on the sciences by field: \"With current capabilities, if adopted widely, AI could take on 27\u201352% of the researcher time needed to produce a new study, with a median of 38% across fields...\" Here: www.anthropic.com/research/how...",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mzomjgktvd2h"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Was Mossadegh a liberal, democratizing force?",
+     "summary": "One reads and hears so many times that Iran was on the path to democracy until a CIA coup installed the Shah in 1953. It turns out that account is quite wrong, as is detailed by Simon Sebag Montefiore: As his support in the Majlis ebbed, Mosaddegh demanded autocratic powers. Both the shah and\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/was-mossadegh-a-liberal-democratizing-force.html?utm_source=rss&utm_medium=rss&utm_campaign=was-mossadegh-a-liberal-democratizing-force",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "[AINews] Anthropic IPO: Whither Now?",
+     "summary": "November 6, 2026 \u2014 ARC Prize tests Inkling 2 Small, and Thinking Machines explains how it caught early checkpoints bypassing guardrails.",
+     "url": "https://latent.space/p/ainews-anthropic-ipo-whither-now/",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "jfpereirasantos4-arch/ai-manus: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "url": "https://github.com/jfpereirasantos4-arch/ai-manus",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "quyetcao/ai-manus: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "url": "https://github.com/quyetcao/ai-manus",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "dharmapalkarki123/ai-manus: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "url": "https://github.com/dharmapalkarki123/ai-manus",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "Abdul-Rehman7826/ai-manus: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "url": "https://github.com/Abdul-Rehman7826/ai-manus",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "hamzamostafa77772-cyber/ai-manus: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "url": "https://github.com/hamzamostafa77772-cyber/ai-manus",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "hussein1labtop-jpg/ai-manus: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "url": "https://github.com/hussein1labtop-jpg/ai-manus",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "Kolg123/ai-manus: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "url": "https://github.com/Kolg123/ai-manus",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "voyager-so/vork: Headless 3D and VFX engine for agents. Research preview.",
+     "summary": "Headless 3D and VFX engine for agents. Research preview.",
+     "url": "https://github.com/voyager-so/vork",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "bytedance/axion1_0: Frontier-level agent capabilities with nothing more than high-quality data and a simple training recipe: 2 SFT + RL, no mid-training/DPO/OPD. Full recipe released.",
+     "summary": "Frontier-level agent capabilities with nothing more than high-quality data and a simple training recipe: 2 SFT + RL, no mid-training/DPO/OPD. Full recipe released.",
+     "url": "https://github.com/bytedance/axion1_0",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-11-07T06:15+00:00",
+  "window_start": "2026-11-06T19:33+00:00",
+  "window_end": "2026-11-07T06:15+00:00",
+  "candidate_count": 62,
+  "model": "free (no LLM)"
+ }
+}
