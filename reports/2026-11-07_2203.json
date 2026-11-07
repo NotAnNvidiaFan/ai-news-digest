@@ -1,0 +1,141 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Crowd-v1 - The collaborative LLM",
+   "summary": "Processing img 0ybf7gn4c90i1... Hello r/LocalLLaMA :D This is yet another follow-up post on the project CrowdGPT , which aims at creating the first collaboratively trained 1 billion parameters transformer, Crowd-v1 , without any datacenters, and for 0$. The project's goal is to show we don't need\u2026",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqh8hk/crowdv1_the_collaborative_llm/",
+   "source": "r/LocalLLaMA"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Crowd-v1 - The collaborative LLM",
+     "summary": "Processing img 0ybf7gn4c90i1... Hello r/LocalLLaMA :D This is yet another follow-up post on the project CrowdGPT , which aims at creating the first collaboratively trained 1 billion parameters transformer, Crowd-v1 , without any datacenters, and for 0$. The project's goal is to show we don't need\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqh8hk/crowdv1_the_collaborative_llm/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "# One token at the beginning of a prompt changed 6 out of 15 LLM responses. Does it matter?",
+     "summary": "I'm back with another experiment. After the last heated discussion about KV cache, temperature 0, and reproducibility \u2014 where I got quite a beating for both my post and my writing style (partly deserved, to be fair ;) ) \u2014 I decided to investigate how models behave in Ollama and llama.cpp. And, as\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqh2jw/one_token_at_the_beginning_of_a_prompt_changed_6/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50407882",
+     "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Combinatorial Optimization with Pointer Networks: Theory, Benchmarks, and Limitations [P]",
+     "summary": "Hello everyone, This is the first article I\u2019ve decided to share publicly. I'm really interested in solving combinatorial optimization problems using machine learning, and this is the opening piece in what will hopefully become a broader series exploring this domain. This part focuses on the\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xqgg4v/combinatorial_optimization_with_pointer_networks/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "He said Google\u2019s AI was conscious. But what was it doing to his mind?",
+     "summary": "Four years ago, whistleblower Blake Lemoine became convinced that Google\u2019s AI chatbot had become sentient. Now he\u2019s warning about the mental health risks submitted by /u/TheObserverUK [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xqelh8/he_said_googles_ai_was_conscious_but_what_was_it/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Arguing with non-believers",
+     "summary": "https://preview.redd.it/l5ogluxjq80i1.png?width=639&format=png&auto=webp&s=dd194f7421176d40aa6570f76d99d70e46b1d2a6 Is it even possible to convince the masses before AGI is already here? submitted by /u/Weary-Historian-8593 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xqejmy/arguing_with_nonbelievers/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "What is best local LLMs for strategic reasoning?",
+     "summary": "Hey guys, I work with AI safety and much of our work is with huge models like Opus, Astra,... Recently we carried out a series of experiments and found out that models like Sonnet 4.5 and GLM 5.3 are able to notice when their reasoning is being monitored and change their strategies to bypass the\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqegfj/what_is_best_local_llms_for_strategic_reasoning/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Best AI Coding Builder Agent LLM for my legend GTX 1080Ti 11 GB ? [32 GB RAM]",
+     "summary": "im looking for an llm to act as the builder agent. a separate planner agent writes the strong plan using powerful API model, and the builder executes it as the plan (so to make coding in fast time and save moeny in the powerful api) hardware and software: CPU: i7 10700K GPU: GTX 1080 Ti 11GB\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqdndl/best_ai_coding_builder_agent_llm_for_my_legend/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Cainiao Opens Its Global Warehouse Network as a Real-World Training Ground for Embodied AI",
+     "summary": "submitted by /u/yogthos [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xqdfmc/cainiao_opens_its_global_warehouse_network_as_a/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "AI used for the first time in a movie to sync moving lips in multiple languages.",
+     "summary": "submitted by /u/Gandalfthebran [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xqd9sn/ai_used_for_the_first_time_in_a_movie_to_sync/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "How AI describes itself",
+     "summary": "Agent is a line that works on a task. It brings its piece as a footprint for future agents. It takes what previous agents left. And it interrupts. Thats not an ending and not the emptiness, just there is no next frame. submitted by /u/dimonb19a [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xqd3rt/how_ai_describes_itself/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Use your phone to monitor anything with local models! Demo of my Open Source and 100% local agent (iOS and Android!)",
+     "summary": "Hey r/LocalLLaMA ! I made this quick demo of how Observer can run local models to monitor anything with your phone! These are some crazy things I've monitored: When someone that's not me, approaches my car, send me a picture. When a bird is on the bird's nest, send me a telegram with the picture.\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqd058/use_your_phone_to_monitor_anything_with_local/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Thoughts on AI progress?",
+     "summary": "\u200b Nowadays, it has become increasingly difficult to understand the actual pace of AI progress because of all the conflicting information online. On Reddit, I constantly come across news articles and discussions claiming that AI is accelerating faster than ever and that, within the next 10 to 20\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xqcruq/thoughts_on_ai_progress/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "The End of AI Frontiers",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50406589",
+     "url": "https://hunch.net/?p=13764006",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Can I become an ML/AI Engineer with a BS Mathematics and Data Science degree instead of Computer Science? [D]",
+     "summary": "\u200b I'm currently pursuing a BS Mathematics with Data Science at COMSATS University in Pakistan. My goal is to become an ML/AI Engineer, eventually specializing in Deep Learning and LLMs. My degree includes Calculus, Linear Algebra, Statistics, Python, OOP, Machine Learning, Deep Learning, Data\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xqcl2h/can_i_become_an_mlai_engineer_with_a_bs/",
+     "source": "r/MachineLearning"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+     "summary": "A memo circulated earlier this year reportedly claimed that China\u2019s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+     "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+     "source": "TechCrunch AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "I think there is too much concern expressed about verification of AI output in everyday work due to a risk of factual errors (there might be things to verify beyond errors, though) It used to be true, but data on more recent models suggest they beat human experts in finding facts & checking claims.",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mzqkydpmfd2h"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Omegacoral/ai--manus: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "url": "https://github.com/Omegacoral/ai--manus",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-11-07T22:03+00:00",
+  "window_start": "2026-11-07T17:47+00:00",
+  "window_end": "2026-11-07T22:03+00:00",
+  "candidate_count": 18,
+  "model": "free (no LLM)"
+ }
+}
