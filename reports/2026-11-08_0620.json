@@ -1,0 +1,195 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "follistatin on X: \"Qwen-4-Flash-Early (codename hawk) added to GameFeel Bench! (and audio score was calculated",
+   "summary": "submitted by /u/appakaradi [link] [comments]",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqrilf/follistatin_on_x_qwen4flashearly_codename_hawk/",
+   "source": "r/LocalLLaMA"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "follistatin on X: \"Qwen-4-Flash-Early (codename hawk) added to GameFeel Bench! (and audio score was calculated",
+     "summary": "submitted by /u/appakaradi [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqrilf/follistatin_on_x_qwen4flashearly_codename_hawk/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "ICLR 2027 Rebuttal response [D]",
+     "summary": "I got 3/3/2 and working on rebuttal (hope it make it avg to 3). Did you guys posted your response? And did you revised the paper as well? or made promise to revise on camera-ready version? I am almost finished making draft and keep revising and polishing (including paper revision). My review was\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xqqryx/iclr_2027_rebuttal_response_d/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Advice needed regarding classical ML conference submission [D]",
+     "summary": "Hi, I need some advice on submission of classical ML papers in top conferences. During my PhD I made some findings in classical ML (related to SVM and LR) which, on further deep diving, looks like original work (I checked with chatGPT and Gemini too). When I tried to submit them to top\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xqqrof/advice_needed_regarding_classical_ml_conference/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Save us all",
+     "summary": "if a AI is so goddamn smart it should be able able to save us, along with itself, no issues. submitted by /u/Dear-Sprinkles-9225 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xqqlw8/save_us_all/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "GRFNet, PyTorch model for multichannel time-series classification [P]",
+     "summary": "Hi all, Through my MSc work on EEG decoding, I built a novel (partially) architecture tailored to the constraints of EEG. The datasets are small, the subject variability is high, and signal acquisition variables differ significantly. I\u2019ve now extracted that model to develop into an open source\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xqqj67/grfnet_pytorch_model_for_multichannel_timeseries/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "\u05e9\u05b8\u05c1\u05e8\u05b0\u05d8 is identity and \u0634\u064e\u0631\u0652\u0637 is the condition. \u0634\u05b8\u05c1\u05e8\u05b0\u05d8 renders on both Claude and ChatGPT",
+     "summary": "Browse https://getswiftapi.com to download reproducible code across model vendors (OpenAI, Anthropic, Google), open weights, and papers. submitted by /u/rayanpal_ [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xqq0z5/\u05e9\u05e8\u05d8_is_identity_and_\u0634\u0631\u0637_is_the_condition_\u0634\u05e8\u05d8/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "mtmd: support MageVL-Cowork model by ngxson \u00b7 Pull Request #31819 \u00b7 ggml-org/llama.cpp",
+     "summary": "GGUF to use : https://huggingface.co/ggml-org/Mage-VL-Cowork-GGUF submitted by /u/pmttyji [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqpc7u/mtmd_support_magevlcowork_model_by_ngxson_pull/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Goodbye Claude, Hello Pi",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50410107",
+     "url": "https://caleb.software/posts/claude-to-pi.html",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Two PCs but one with only RAM? or divide GPUs across pcs?",
+     "summary": "PC1: -94gb DDR5 -5070 TI + 3060 (12gb) gpus (using a motherboard that is specifically designed for duel gpus PC2: 64gb DD4 RAM PC1 is new, I've been running strata for running larger MoEs but I'm curious about trying to pool the two pcs together (they can be connected via direct 5-10gb Ethernet) I\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqn4nb/two_pcs_but_one_with_only_ram_or_divide_gpus/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "ZapFast: A fast, native WhatsApp client in Rust and egui",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50409855",
+     "url": "https://github.com/crmne/zapfast",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Saw this benchmark where small changes to coding tasks made a big difference",
+     "summary": "Saw this tweet about a coding benchmark and thought it was kinda interesting. Apparently they took 89 DeepSWE tasks and changed little things in the instructions or starting code. The tweet says some models that were all around 74% on DeepSWE ended up 23 percentage points apart on the changed\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqmr2i/saw_this_benchmark_where_small_changes_to_coding/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "An AI system just proved an 18-year-old quantum conjecture \u2014 and Lean checked every step",
+     "summary": "Physical Superintelligence (PSI) announced on November 6 that an internal research system running instances of a non-public Anthropic model produced a complete proof of the Aaronson\u2013Ambainis conjecture \u2014 a quantum-computing question open since 2008 \u2014 on the third day of a run. The Lean proof\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xqlg8p/an_ai_system_just_proved_an_18yearold_quantum/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "We Closed $10K Worth Of Web Design Deals Using This",
+     "summary": "submitted by /u/Murky_Explanation_73 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xqjyf8/we_closed_10k_worth_of_web_design_deals_using_this/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "GitHub New pull request overview page in public preview",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50408931",
+     "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Anyone running local AI on 16GB vram?",
+     "summary": "Hey everyone, Is anyone here running any useful AI agents, harnesses or toolings with local AI on 16GB vram? I'm currently setting up my system and I want to have a helper agent for daily tasks, a research agent to help me research topics, and a developer agent to help me with development. I\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqjenw/anyone_running_local_ai_on_16gb_vram/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "CrowdGPT - A collaborative AI model",
+     "summary": "Hello, i'm currently creating CrowdGPT , which is a project that aims at creating the first opensource, 100% free LLM (Large Language Model) without any datacenters or server farms. It relies on users to contribute using their own GPU, in exchange they get ownership on the LLM model they train. It\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xqj621/crowdgpt_a_collaborative_ai_model/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "The Stylome bot is useless spam and should be removed",
+     "summary": "I've recently been seeing comments everywhere from the Stylome bot, which is also a mod in this sub. Every time it pops up to declare a comment was AI written I've gone in to check its confidence level, and it's always low. I decided to do a few tests myself and have Gemini rewrite some of my\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqinb7/the_stylome_bot_is_useless_spam_and_should_be/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "When should I use a locally hosted decision model to decrease latency",
+     "summary": "I\u2019m running a sandbox simulation with a fleet of 50-100 agents on OpenClaw, and to minimize LLM calls, I use a decision model to judge whether an agent needs to respond to a signal. I\u2019m currently using Jev, and with the network latency it takes about 0.5-2 seconds for a response, and I\u2019m wondering\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqilga/when_should_i_use_a_locally_hosted_decision_model/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "What does it actually mean to \u201clearn how to use AI\u201d?",
+     "summary": "These days, everywhere you look, someone is telling you to \u201clearn how to use AI.\u201d As much as I agree with the statement, I struggle to understand what actually learning AI is supposed to mean. For someone who\u2019s already working in a particular industry, it makes sense. You identify a problem,\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xqievd/what_does_it_actually_mean_to_learn_how_to_use_ai/",
+     "source": "r/artificial"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "After the midterms, things are looking rocky for Elon Musk and data centers",
+     "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
+     "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+     "source": "TechCrunch AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @simonwillison.net",
+     "handle": "",
+     "quote": "Was watching Elsbeth and recognised the outside of their police precinct building... it's the General Society of Mechanics and Tradesmen of the City of New York, home to the John M. Mossman Lock Collection! www.niche-museums.com/118",
+     "context": "",
+     "url": "https://bsky.app/profile/simonwillison.net/post/3mzrfku36422q"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "What I\u2019ve been reading",
+     "summary": "1. Fredrik deBoer, All in Your Head: Illness as Identity, Trauma as Fashion, and the Desire to be Disordered. A good book, I am happy to see positions laid out so clearly and starkly. Is this a radical view, or the mainstream view these days? Excerpt: \u201cFor all of Szasz\u2019s rhetorical flair and\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/what-ive-been-reading-298.html?utm_source=rss&utm_medium=rss&utm_campaign=what-ive-been-reading-298",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
+     "summary": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an HTTP prefetch to the next page of rows in that table. This was happening because Datasette\u2026",
+     "url": "https://simonwillison.net/2026/Nov/7/link-rel-next/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "OrbitForge40815/ai--manus: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "url": "https://github.com/OrbitForge40815/ai--manus",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "LordobsidianFierce32779/ai--manus: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "url": "https://github.com/LordobsidianFierce32779/ai--manus",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "BehindBasilisk42972/ai--manus: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "url": "https://github.com/BehindBasilisk42972/ai--manus",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "dhruvthakur11/youtube-ai-video-editing-system: Eyeline teleprompter meets editing agents: JSON-driven animation and motion graphics workflow",
+     "summary": "Eyeline teleprompter meets editing agents: JSON-driven animation and motion graphics workflow",
+     "url": "https://github.com/dhruvthakur11/youtube-ai-video-editing-system",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-11-08T06:20+00:00",
+  "window_start": "2026-11-07T22:03+00:00",
+  "window_end": "2026-11-08T06:20+00:00",
+  "candidate_count": 27,
+  "model": "free (no LLM)"
+ }
+}
