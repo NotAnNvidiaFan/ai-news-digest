@@ -1,0 +1,641 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "The race is on to sue Nvidia",
+   "summary": "Nvidia\u2019s stock slid more than 4% after its board opened an investigation into Jensen Huang\u2019s relationship with a suspected Chinese spy, and one securities law expert says the company\u2019s earlier insistence that it was all \u201cnormal\u201d could turn into a very expensive problem.",
+   "why_it_matters": "",
+   "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+   "source": "TechCrunch AI"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Is ArtificialAnalysis biased against open weight models?",
+     "summary": "It seems like whenever open weight models come close to proprietary US models, ArtificialAnalysis conveniently \"re-calibrates\" their benchmarks which then shoves open weight models down the toilet. Then they advertise on X/Twitter this \"intelligence index\" which presents open weight models as dog\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xs5pkl/is_artificialanalysis_biased_against_open_weight/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Omni Voice is the fastest and best voice clone TTS out there. I've tested them all.",
+     "summary": "There are tons of use cases out there - storybooks, agents, etc. But my main goal was to find which TTS has the best voice clone options, comparable to Elevenlabs. I have a shortlist of voices that I run every tts through to see how it handles accents specifically, which to me is the best\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xs46nh/omni_voice_is_the_fastest_and_best_voice_clone/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Got another good reminder why local matters today",
+     "summary": "Apparently, they're threatening to ban me for merely red-teaming my own plugin. The appeal was immediately denied without any details. submitted by /u/stevie_balemi [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xs3y17/got_another_good_reminder_why_local_matters_today/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Claude solved two unsolved problems in black-hole physics: settling a 23-year-old question about whether black holes form suddenly in models of tiny universes, and discovering the exact limits of a\u2026",
+     "summary": "submitted by /u/141_1337 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xs33s1/claude_solved_two_unsolved_problems_in_blackhole/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Qwen 3.8 FN getting stressed from messing up",
+     "summary": "Qwen 3.8 Flash Next getting confused on how it keeps messing up. This is the only time I noticed it happening in a 6hr run. I'm running IQ3_S on high effort on strata. submitted by /u/FalseDeviloper [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xs2okh/qwen_38_fn_getting_stressed_from_messing_up/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50431144",
+     "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Claude Fable 5.2 built a playable Gears of War clone in Unreal Engine from a 3-line prompt, complete with enemy AI, cover mechanics and active reloading. After testing it with over 100 billion\u2026",
+     "summary": "submitted by /u/141_1337 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xs1y29/claude_fable_52_built_a_playable_gears_of_war/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Automattic launches Spacefast for AI-built app deployment with approval checks",
+     "summary": "Automattic launched Spacefast today, a new company that lets users connect an existing AI assistant or coding agent to build, publish, and manage apps and websites. Its announcement lists hosting, a domain, a SQL database, versioned permanent URLs, an API, a CLI, and an MCP server. Spacefast also\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xs1vhm/automattic_launches_spacefast_for_aibuilt_app/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Fable 5.2 Intelligence Benchmark",
+     "summary": "Input Tokens: $8.00 / 1M Output Tokens: $40.00 / 1M Cache Read Tokens: $0.20 / 1M (2.5% of input) Context Window: 1 million tokens Max Output: 128,000 tokens Seeing how crazy cost per task is, (Infograph comparison posted below) I was forced to look into Airctrl and Paloaltonetworks to manage swe\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xs1mam/fable_52_intelligence_benchmark/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "MIT's WorldParticle: one AI model simulates sand, cloth, fluids, granular materials and folding proteins - about 100x faster than numerical simulators on protein motion",
+     "summary": "Researchers at MIT, the University of British Columbia and partner institutions have built WorldParticle, a single transformer-based model that simulates six kinds of physical behaviour - cloth, elastic solids, fluids, granular materials, molecular dynamics and more - where each used to need its\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xs1ggg/mits_worldparticle_one_ai_model_simulates_sand/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "CUI \u2013 Native UI components for C",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50430621",
+     "url": "https://yappologistic.github.io/CUI/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Google is coming for Nvidia, it's a double bad day for Jensen. A deep look at Google's new TPUs (8tx/8i Max)",
+     "summary": "Google just added two new TPU systems to its lineup, the TPU 8tx and the TPU 8i Max, and the coverage is mostly about one thing: whether Google can take a real bite out of Nvidia. If you've seen the name and wondered what a TPU actually is, the short answer is a chip Google designed for AI math\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xs17j1/google_is_coming_for_nvidia_its_a_double_bad_day/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "What is your opinion on non-native speakers using AI to write posts/messages?",
+     "summary": "Hi everyone, I'm not entirely sure if this post belongs here, but I don't know where else to ask. Recently, I joined a discussion on a subreddit about a game I play. It was about a pretty serious topic concerning mental health affected by gaming (it's a bit hard to explain, but that's not the main\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xs12aj/what_is_your_opinion_on_nonnative_speakers_using/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "A team of 1,000 Fable 5.2 agents fully formalized Fermat\u2019s Last Theorem in 30 hours, translating the proof into a language a computer can check step by step. With the same setup, Opus 5.5 completed\u2026",
+     "summary": "submitted by /u/likeastar20 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xs0tk3/a_team_of_1000_fable_52_agents_fully_formalized/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Muse Ember: Zuck promised to open source muse spark 1.2 but continues to release to more closed models",
+     "summary": "https://artificialanalysis.ai/models/muse-ember https://x.com/finkd/status/2086755195535413696 submitted by /u/Gohab2001 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xs0qmx/muse_ember_zuck_promised_to_open_source_muse/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "From the finest minds of our age to the dumbest monkeys on the planet",
+     "summary": "How is it possible for a sub to degenerate so much in 12 months? What is the mechanism that drives this? submitted by /u/Jungle_Llama [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xs0izk/from_the_finest_minds_of_our_age_to_the_dumbest/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Fable 5.2 Benchmarks",
+     "summary": "submitted by /u/141_1337 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xs0dvr/fable_52_benchmarks/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Introducing Fable 5.2 and Mythos 5.2",
+     "summary": "submitted by /u/No_Pomegranates7496 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xs0d1i/introducing_fable_52_and_mythos_52/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Claude Fable 5.2",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50429947",
+     "url": "https://twitter.com/claudeai/status/2119867114450268322",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Claude Fable 5.2 and Mythos 5.2",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50429906",
+     "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "E-means: 10x faster k-means at equal loss",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50429734",
+     "url": "https://e-means.github.io/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50429636",
+     "url": "https://meowdisplay.app/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Google Gemini routes personal Drive files and emails to human annotators",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50429426",
+     "url": "https://github.com/thisisme6598/gemini_files/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "AI headphones can work out who you\u2019re talking to and reduce the surrounding chatter",
+     "summary": "Following a conversation in a loud restaurant can be exhausting. Researchers at the University of Washington built an AI headphone prototype that tries to make it easier. It uses the way people take turns speaking to work out who belongs to your conversation. One model tracks those exchanges.\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xrzaj2/ai_headphones_can_work_out_who_youre_talking_to/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Our Smallest, Most Efficient Model: Muse Ember",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50429024",
+     "url": "https://research.meta.ai/blog/muse-ember",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Show HN: Every satellite that passed over any place this week, and its photos",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50428907",
+     "url": "https://www.watched.earth",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "More interesting and unusual Qwen3.5-4B neurons",
+     "summary": "You guys seemed to like my last post about the 'redditor neuron' so I'm listing some other interesting neurons I've found while poking around. L11 N8147: The redditor neuron/ contrarianism neuron. Literally a single neuron that seems to act as a dial between being snarky+contrarian and being\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrydgx/more_interesting_and_unusual_qwen354b_neurons/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "ConceptCountry/qwen-concept-27b \u00b7 Hugging Face",
+     "summary": "submitted by /u/Thrumpwart [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrxwg1/conceptcountryqwenconcept27b_hugging_face/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Boston Dynamics demos Atlas over wheels",
+     "summary": "submitted by /u/Distinct-Question-16 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xrxbul/boston_dynamics_demos_atlas_over_wheels/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Show HN: DBDelve \u2013 Open-Source DB Client Made with Rust and GPUI",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50427934",
+     "url": "https://news.ycombinator.com/item?id=50427934",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Nvidia stock falls after company opens probe into CEO\u2019s relationship with Chinese spy",
+     "summary": "submitted by /u/nbcnews [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xrw6dl/nvidia_stock_falls_after_company_opens_probe_into/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Skyrim modder uses AI to help reverse-engineer the game's 15-year-old engine, adding real-time terrain editing, modular construction, and NPC navigation to player-built structures.",
+     "summary": "submitted by /u/141_1337 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xrvqoo/skyrim_modder_uses_ai_to_help_reverseengineer_the/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "I tried the AI slop detector you can add to your web browser",
+     "summary": "submitted by /u/HotMinuteUK [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xrvosf/i_tried_the_ai_slop_detector_you_can_add_to_your/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "r/Singularity Daily Discussion Thread \u2014 November 09, 2026",
+     "summary": "Welcome to the daily r/singularity discussion thread! Use this thread for casual conversations, questions, speculation, AI developments, and anything related to the technological singularity that doesn't necessarily warrant its own post. Please keep discussions civil and follow the subreddit\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xrvhp9/rsingularity_daily_discussion_thread_november_09/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Drummer's Orion 26B A4B v1 and v1.1! ... Plus a new project from yours truly.",
+     "summary": "https://huggingface.co/TheDrummer/Orion-26B-A4B-v1.1 v1.1 pushes creative writing further and makes full use of Gemma's reasoning. https://huggingface.co/TheDrummer/Orion-26B-A4B-v1 I haven't announced v1 but it's well regarded by the community as a reliable RP workhorse. --- BeaverNet -\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xruzry/drummers_orion_26b_a4b_v1_and_v11_plus_a_new/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "The same H100 costs $2.69 or $12.29 an hour depending where you rent it",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50427085",
+     "url": "https://github.com/datareceipts/data-receipts/tree/main/109-gpu-pricing",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "An AI shrinking the font to pass a slide test feels a little too human.",
+     "summary": "Apparently \u201ctechnically done\u201d has made it into AI training too. I recently read about Genspark\u2019s Gen-1 Slides training and that one detail really stuck with me. Its model learned to shrink fonts to get around text-overflow checks. The team described catching these during training and updating the\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xruing/an_ai_shrinking_the_font_to_pass_a_slide_test/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Zebkit \u2013 Chromium as an embeddable library",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50426207",
+     "url": "https://github.com/ikey4u/zebkit",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "meituan-longcat/LongCat-2.5 \u00b7 Hugging Face",
+     "summary": "A 1.6T multimodal model. submitted by /u/Bestlife73 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrsptp/meituanlongcatlongcat25_hugging_face/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Jensen does not run his personal life in single thread",
+     "summary": "submitted by /u/aprx4 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xrr40n/jensen_does_not_run_his_personal_life_in_single/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "As an ML/CV engineer of 7+ years, the current generative AI hype train makes me pessimistic. Where are the non-LLM, real-world hard problems still waiting to be solved?",
+     "summary": "I love machine learning. I spent years training custom vision models, working with time-series data, and architecting multimodal pipelines from scratch. But the current shift toward treating AI exclusively as \"prompt engineering\" and massive LLM wrappers feels reductive and disappointing. I want\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xrqpq1/as_an_mlcv_engineer_of_7_years_the_current/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "RAM-Altman reports unused RAM on your machine, one email a day",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50424757",
+     "url": "https://github.com/IainKay/ram-altman",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Fold Epic Paper Airplanes",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50424581",
+     "url": "https://www.foldableflight.com",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference \u2013 Start here",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50424199",
+     "url": "https://github.com/samir-sarwar/samir-vllm",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Ginux: A New Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50424147",
+     "url": "https://zenodo.org/records/23682548",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Fun things to do with your VM/370 CE machine \u2013 Fun with big computers",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50423569",
+     "url": "https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Ask HN: Do you still enjoy coding in C++?",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50423371",
+     "url": "https://news.ycombinator.com/item?id=50423371",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "The EU AI Act's transparency rules (Art. 50) have applied since 2 August 2026, and the Digital Omnibus did not defer the chatbot or text duties",
+     "summary": "People keep saying the AI Act was \"delayed\". Part of it was. Here is which part, and what Article 50 (transparency) says now, based on the Official Journal text. What moved: Regulation (EU) 2026/1744, the \"Digital Omnibus on AI\", was published on 24 July 2026 and entered into force on 27 July\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xrn91p/the_eu_ai_acts_transparency_rules_art_50_have/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "ChatGPT Desktop forwards your SSH agent to remote machines",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50422628",
+     "url": "https://news.ycombinator.com/item?id=50422628",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "370 Books in 20 months: South African author defends her use of AI",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50422181",
+     "url": "https://www.enca.com/lifestyle/370-books-20-months-sa-author-defends-her-use-ai",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Being a meat proxy for AI should be grounds for getting people fired",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50422001",
+     "url": "https://swiftrocks.com/being-a-meat-proxy-for-ai-should-be-grounds-for-getting-people-fired",
+     "source": "Hacker News"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "The race is on to sue Nvidia",
+     "summary": "Nvidia\u2019s stock slid more than 4% after its board opened an investigation into Jensen Huang\u2019s relationship with a suspected Chinese spy, and one securities law expert says the company\u2019s earlier insistence that it was all \u201cnormal\u201d could turn into a very expensive problem.",
+     "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+     "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
+     "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "The backlash about data centers might really just be about electricity",
+     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what\u2019s known as Data Center Alley\u2014the world\u2019s largest data center hub.\u2026",
+     "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+     "source": "MIT Tech Review AI"
+    },
+    {
+     "headline": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+     "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
+     "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Apple\u2019s $50 Intelligence Usage Packs extend access to some AI features",
+     "summary": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac. It has a built-in AI assistant to do things like\u2026",
+     "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "ChatGPT Enterprise now available in AWS Marketplace",
+     "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+     "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+     "source": "OpenAI Blog"
+    },
+    {
+     "headline": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+     "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate outputs faster than the 5.1 versions\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Jensen Huang\u2019s affair with alleged Chinese spy puts Nvidia\u2019s China ambitions under scrutiny",
+     "summary": "Jensen Huang\u2019s alleged affair with a suspected Chinese spy threatens to complicate Nvidia\u2019s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China\u2019s lucrative AI market.",
+     "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Instagram\u2019s Effect Builder makes new filters from AI prompts",
+     "summary": "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts with AI. Available now for US residents who are over 18, it has a prompt box for describing your filter idea to the chatbot, with an option\u2026",
+     "url": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Meta releases Muse Ember, a new lightweight model for agent execution",
+     "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
+     "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "The future of AI hinges on\u2026 Jensen Huang\u2019s sex life?",
+     "summary": "I would prefer that these people's sex lives were none of my business but I guess we have to talk about Jensen Huang and the National Security Incident. Who could have guessed that the guy who was out here signing titties might not have great judgment about how to behave around women? Alice Huang\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Claude Code is accidentally exposing secrets all over GitHub",
+     "summary": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
+     "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Nancy Pelosi\u2019s replacement is ready to regulate AI",
+     "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi\u2019s open San Francisco seat, he could play a key role in setting federal AI policy. I spoke with\u2026",
+     "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+     "source": "MIT Tech Review AI"
+    },
+    {
+     "headline": "Extending LLDB to Debug Applications That Span CPUs and GPUs",
+     "summary": "We built a vendor-neutral accelerator plugin architecture in lldb-server for debugging applications that span CPUs and GPUs. It separates shared debugger infrastructure from hardware-specific device control. The design represents the CPU and GPU as separate debugger processes while presenting them\u2026",
+     "url": "https://engineering.fb.com/2026/11/09/developer-tools/extending-lldb-to-debug-applications-that-span-cpus-and-gpus/",
+     "source": "Meta Engineering"
+    },
+    {
+     "headline": "Anthropic joins AI\u2019s natural gas frenzy, buys $3.4B worth of turbines",
+     "summary": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.",
+     "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "AI Agents Are Testing the Limits of Zero-Trust Security",
+     "summary": "This article is brought to you by Queen\u2019s University Belfast . Several teams around the globe are leveraging AI by creating a task force of agents managed by an orchestrator and creating applications to support risk assessment, client profiling, match making, and information yield with a slight\u2026",
+     "url": "https://spectrum.ieee.org/zero-trust-agentic-ai-architecture",
+     "source": "IEEE Spectrum AI"
+    },
+    {
+     "headline": "Medium\u2019s new TK app brings AI assistance directly into the writing process",
+     "summary": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
+     "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Trump\u2019s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
+     "summary": "Asked about AI executives' warnings about their models' safety on 60 Minutes, Trump said, \"I think that the risk is not nearly as real as it- as they talk, and I think the risk can be managed, and it's managed.\" He claimed the DOJ is managing that risk, saying, \"We had a situation where somebody [\u2026]",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Disney and Adobe are building generative AI tools together",
+     "summary": "The Walt Disney Company has teamed up with Adobe to develop proprietary \"artist-led\" generative AI models to support Disney's production pipeline. The multiyear partnership was announced today at Adobe's MAX conference, and it will see Adobe providing Disney with early access to its latest\u2026",
+     "url": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Hold up \u2014 I had a great time talking to the RIAA guy",
+     "summary": "Today, I\u2019m talking with Mitch Glazier, who is CEO and chairman of the RIAA. This conversation was a real full-circle moment for me: I was in college when Napster hit, and the RIAA became everyone\u2019s villain for suing kids for downloading music. That was when I decided to go be a copyright lawyer,\u2026",
+     "url": "https://www.theverge.com/podcast/1029684/riaa-mitch-glazier-napster-ai-labels-music",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Nvidia CEO's affair becomes a national security problem",
+     "summary": "Nvidia is probing whether Chinese intelligence targeted its CEO through an affair.",
+     "url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+     "summary": "",
+     "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+     "source": "Hugging Face Blog"
+    },
+    {
+     "headline": "Jensen Huang Hired a PR Firm Known for Handling Sex Scandals Last Year",
+     "summary": "The Nvidia CEO began working with consultants from Heller as early as October 2025, around the same time he was first linked to a suspected Chinese spy.",
+     "url": "https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Jonathan Kanter is using AI to take on Big Tech",
+     "summary": "When Jonathan Kanter stepped down as head of the Justice Department's Antitrust Division in 2024, he set out to keep fighting to dismantle illegal monopolies. But this time, he's continuing the fight in the private sector, and with a perhaps unexpected tool: AI. Alongside former acting Antitrust\u2026",
+     "url": "https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
+     "summary": "Simulation, which has long been the proving ground for robots learning to walk, roll and hop, is now helping researchers teach robots tasks that require a finer touch: aligning gears, connecting cables and assembling small components. The shift from locomotion to manipulation is taking center\u2026",
+     "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
+     "source": "NVIDIA Blog"
+    },
+    {
+     "headline": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
+     "summary": "Automattic aims to compete with the likes of Lovable with Spacefast.",
+     "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+     "summary": "Learn how OpenAI\u2019s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+     "url": "https://openai.com/index/control-room",
+     "source": "OpenAI Blog"
+    },
+    {
+     "headline": "Innovating with AI in the special chemicals industry",
+     "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals\u2026",
+     "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+     "source": "MIT Tech Review AI"
+    },
+    {
+     "headline": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+     "summary": "",
+     "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+     "source": "Hugging Face Blog"
+    },
+    {
+     "headline": "Authors Can Defend Against AI Allegations With \u2018Paper Trail\u2019 Tools. Is It Enough?",
+     "summary": "As the publishing industry wrestles with paranoia over the provenance of manuscripts, writers are caught in an impossible bind.",
+     "url": "https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
+     "summary": "Korea\u2019s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Ryu Je-myung, vice minister of science and ICT, joined NVIDIA leaders to meet with over 20 Korean startups across foundation models, physical AI, AI infrastructure and AI semiconductors.\u2026",
+     "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
+     "source": "NVIDIA Blog"
+    },
+    {
+     "headline": "CodeRabbit scales agentic software development and ships 20x more",
+     "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+     "url": "https://openai.com/index/coderabbit-codex-daybreak",
+     "source": "OpenAI Blog"
+    },
+    {
+     "headline": "Kuken Industries searches 70 years of drawings in minutes",
+     "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+     "url": "https://openai.com/index/kuken",
+     "source": "OpenAI Blog"
+    },
+    {
+     "headline": "Bikers and Bug-Lovers Join Forces to Fight a New Google Data Center",
+     "summary": "As data center protests break out across Europe, a mismatched band of campaigners is trying to block Google from building a sprawling new facility east of London.",
+     "url": "https://www.wired.com/story/bug-activists-and-biker-gang-members-are-teaming-up-to-protest-data-centers/",
+     "source": "Wired AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @simonwillison.net",
+     "handle": "",
+     "quote": "There is a mysterious intermittent beep coming from somewhere in your room of unopened boxes. Do you: 1. Open the boxes methodically one by one until you find it 2. Vibe code software that lets you set up two laptops, two iPads and a phone in various points around the room to triangulate it",
+     "context": "",
+     "url": "https://bsky.app/profile/simonwillison.net/post/3mzvuqd4ndk24"
+    },
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "I had early access to Fable 5.2 for a bit & I think it crosses the line into being a sort of Jagged AGI. Here, I have it launch a business, do academic research, hack hardware, build 3D models & more. I think it is a good illustration of limits & powers: www.oneusefulthing.org/p/fable-52-a...",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mzvn2smcwk2h"
+    },
+    {
+     "author": "Bluesky @natolambert.bsky.social",
+     "handle": "",
+     "quote": "Will we ever see a rebalancing where the open models popular on OpenRouter aren't predominantly Chinese? When? dashboard.interconnects.ai?dlhide=local...",
+     "context": "",
+     "url": "https://bsky.app/profile/natolambert.bsky.social/post/3mzv33q62sg2k"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "liujiaqi2024/Free-ClaudeOpus-5.5: new repository",
+     "summary": "",
+     "url": "https://github.com/liujiaqi2024/Free-ClaudeOpus-5.5",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "Fable 5.2 and Jagged AGI",
+     "summary": "General, often expert, and sometimes jagged",
+     "url": "https://www.oneusefulthing.org/p/fable-52-and-jagged-agi",
+     "source": "One Useful Thing"
+    },
+    {
+     "headline": "Where is all the AI safety research uplift?",
+     "summary": "(Thanks to @Goutham Nalagatla for discussion and for sitting with me and talking about it while I wrote it.) METR recently released a report estimating that Anthropic is getting an overall 1.7x acceleration in AI capability progress as a result of AI accelerating their work. As many have noted\u2026",
+     "url": "https://www.alignmentforum.org/posts/wPrpnfaNL5JP9i6KT/where-is-all-the-ai-safety-research-uplift",
+     "source": "Alignment Forum"
+    },
+    {
+     "headline": "Monday assorted links",
+     "summary": "1. What WWII looked like, four and a half minute video. 2. Intellectual Deep Web, YouTube channel. 3. Complete works of Schelling, and no I do not mean Thomas. 4. What the French Left is proposing. 5. How much AI could the CEA manage? 6. Douthat! 7. Andrew Maxfield, Stations of the Cross, vocal\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/monday-assorted-links-585.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-585",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "What Frontier Labs Buy: A Data Deep Dive with Handshake AI \u2014 Garrett Lord & Team",
+     "summary": "Handshake went from launch to $1B in one year pushing the envelope of specialized data for frontier labs. Our first deep dive into a data lab with specific examples across Finance, Bio, and Alignment",
+     "url": "https://latent.space/p/handshake/",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "WarTalk: Lame Duck War, Pete on Notice, Team Yankee",
+     "summary": "Iran, Pete\u2019s bleak future, and what makes a good staffer",
+     "url": "https://www.chinatalk.media/p/wartalk-lame-duck-war-pete-on-notice",
+     "source": "ChinaTalk"
+    },
+    {
+     "headline": "End the State Veto on Power Lines",
+     "summary": "It\u2019s one of the peculiarities of American regulatory history that a natural gas pipeline can cross state lines with a single federal permit, but oil and electricity must run a gauntlet of state approvals. When a power line crosses one state to reach another, for example, the intervening state\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/end-the-state-veto-on-power-lines.html?utm_source=rss&utm_medium=rss&utm_campaign=end-the-state-veto-on-power-lines",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "The economics of honeypots",
+     "summary": "Of course as an economist I am always wondering what the equilibrium is. And, in this case, what is the scarce factor? It seems that in the case under current consideration, the returns to honeypotting are very high for somebody. Maybe for China, maybe for the shorts, or maybe for parts of the\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/the-economics-of-honeypots.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-honeypots",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Jensen Huang\u2019s Affair, The Culper Report, Huang\u2019s Righteousness",
+     "summary": "Nvidia CEO Jensen Huang admitted to an affair with a Chinese spy, and that might not be the end of his troubles. I hope he survives, but his influence will never be the same.",
+     "url": "https://stratechery.com/2026/jensen-huangs-affair-the-culper-report-huangs-righteousness/",
+     "source": "Stratechery"
+    },
+    {
+     "headline": "Seb Krier, Ricardian?",
+     "summary": "Here is the initial post. In the comments Michael Wiebe notes: \u201cSo progress per R&D dollar fell by 63%, even while progress per year doubled.\u201d File under: David Ricardo, underrated. The post Seb Krier, Ricardian? appeared first on Marginal REVOLUTION .",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/seb-krier-ricardian.html?utm_source=rss&utm_medium=rss&utm_campaign=seb-krier-ricardian",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Zenithopal/LooseEnds-resp: Tying up what The Sims 4 leaves dangling",
+     "summary": "Tying up what The Sims 4 leaves dangling",
+     "url": "https://github.com/Zenithopal/LooseEnds-resp",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "cacheMon/PrefixSim: A simulator for LLM Inference prefix cache",
+     "summary": "A simulator for LLM Inference prefix cache",
+     "url": "https://github.com/cacheMon/PrefixSim",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "munitkala/selfsemester: Windows app that turns any subject into a full, scheduled, graded course, built and marked by your own Claude Code",
+     "summary": "Windows app that turns any subject into a full, scheduled, graded course, built and marked by your own Claude Code",
+     "url": "https://github.com/munitkala/selfsemester",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-11-09T22:31+00:00",
+  "window_start": "2026-11-09T06:54+00:00",
+  "window_end": "2026-11-09T22:31+00:00",
+  "candidate_count": 101,
+  "model": "free (no LLM)"
+ }
+}
