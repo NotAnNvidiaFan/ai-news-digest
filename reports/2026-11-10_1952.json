@@ -1,0 +1,562 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+   "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing \u201cuncertainty in the IPO market.\u201d",
+   "why_it_matters": "",
+   "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+   "source": "TechCrunch AI"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Author of AI 2027 published an update: \"Q3.5 Timelines Update: Looks Like the Intelligence Explosion Will Happen in 2027 After All\"",
+     "summary": "Q3.5 Timelines Update: Looks Like the Intelligence Explosion Will Happen in 2027 After All submitted by /u/Specialist_Dark_3668 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xsuvkg/author_of_ai_2027_published_an_update_q35/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "I have trained 15+ models on my own blood sugar & metabonet dataset [P]",
+     "summary": "Source code: https://github.com/0xdeadf1sh/T1DMAI submitted by /u/0xdeadf1sh [link] [comments]",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xsussb/i_have_trained_15_models_on_my_own_blood_sugar/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "SWE-Pair: a coding-agent benchmark where every task is two real bugs to fix at once, with results from four models [P]",
+     "summary": "We built a benchmark of 161 tasks from 69 Python projects where the agent has to fix two real bugs at once. The cheapest setup came out on top. DeepSeek V4.1 Flash at medium effort solved 90% of tasks, at about 6 cents per solved task. GPT-6 Luna at max effort solved 78%, at about 23 cents. More\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xsuqem/swepair_a_codingagent_benchmark_where_every_task/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Reuters: \"The CEO's relationship with Alice Huang helped facilitate shipments of at least $7.5 billion worth of Nvidia chips to Chinese firms\"",
+     "summary": "submitted by /u/SnoozeDoggyDog [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xsucqc/reuters_the_ceos_relationship_with_alice_huang/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50443812",
+     "url": "https://github.com/GoogleChrome/modern-web-guidance",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Gemini 4 Argon and Carbon score 91.7% and 92.6% on SimpleBench respectively. But Claude Fable 5.2 scores 94.9%, putting it in the lead instead.",
+     "summary": "submitted by /u/Profanion [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xstr95/gemini_4_argon_and_carbon_score_917_and_926_on/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Claude Whiteboards, Claude Sheets, and Claude Data",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50443716",
+     "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Dario Amodei Says Cancer, Alzheimer\u2019s, Heart Disease, and Mental Illness Will Be Relics of the Past in Less Than a Decade, and That \u201cWe Can Create an Age of Miracles\u201d",
+     "summary": "Dario Amodei says cancer, Alzheimer\u2019s, heart disease, and mental illness will be relics of the past in less than a decade, and that \"we can create an age of miracles\" \u201c You know, if today we look at things like cancer, Alzheimer\u2019s, heart disease, mental illness, these will be relics of the past\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xst0g2/dario_amodei_says_cancer_alzheimers_heart_disease/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "I trained a 348M-active MoE on ~11B tokens. It scores 85.5% vs Qwen2.5-1.5B's 53.3% on shuffled fact chains. GGUF + eval set \u2014 please try to break it.",
+     "summary": "I've been recently working a small sparse MoE, and I've got interesting results I'd like strangers to invalidate. Tldr; I train small models and got surprising results and seek invalidation. It's not a general assistant, and I'm not claiming it is. Edit: Trained on a single 5090. Maybe people\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xssj9q/i_trained_a_348mactive_moe_on_11b_tokens_it/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "speakleash/Bielik-11B-v3.1-Instruct \u00b7 Hugging Face",
+     "summary": "https://huggingface.co/speakleash/Bielik-11B-v3.1-Instruct-GGUF https://www.bielik.ai/blog/premiera-modeli-bielik-11b-v31-dflash-i-rodziny-bielik-one (decision models and dflash are coming next) Bielik-11B-v3.1-Instruct Bielik-11B-v3.1-Instruct is a generative text model featuring 11 billion\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsrg0l/speakleashbielik11bv31instruct_hugging_face/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "AI 2027 Authors update timeline and urge \"pacing\" to slow the progress of humanity, laughably.",
+     "summary": "submitted by /u/The_Scout1255 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xsrdfl/ai_2027_authors_update_timeline_and_urge_pacing/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "I benchmarked TimesFM 3.0, Chronos-2 and Toto 2.0 on market time series. None beat simple baseline. [P]",
+     "summary": "I may be naive, but I've been curious whether the recent wave of time-series foundation models can actually extract useful predictive signals from financial markets. Models like Google's TimesFM 3.0, Amazon's Chronos-2, and Datadog's Toto 2.0 are impressive general-purpose forecasters from the\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xsqztt/i_benchmarked_timesfm_30_chronos2_and_toto_20_on/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Gemini 4 Carbon is now available",
+     "summary": "submitted by /u/TorturedPoet30 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xsqvmn/gemini_4_carbon_is_now_available/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Fable 5.2 is cheaper than Sonnet at fixing hard bugs",
+     "summary": "submitted by /u/Charuru [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xsqtb3/fable_52_is_cheaper_than_sonnet_at_fixing_hard/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Gemini 4 Carbon is now available",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50442303",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "r/Singularity Daily Discussion Thread \u2014 November 10, 2026",
+     "summary": "Welcome to the daily r/singularity discussion thread! Use this thread for casual conversations, questions, speculation, AI developments, and anything related to the technological singularity that doesn't necessarily warrant its own post. Please keep discussions civil and follow the subreddit\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xsqnf7/rsingularity_daily_discussion_thread_november_10/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "MiniMaxAI/MiniMax-H3-Image \u00b7 Hugging Face",
+     "summary": "Actual working link this time. submitted by /u/Bestlife73 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsp3xt/minimaxaiminimaxh3image_hugging_face/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "We tested Qwen3.6 27B, Qwen3.8 27B and GLM-5.3 Flash on real tasks in Elixir, OCaml, Haskell and 10 other less common languages",
+     "summary": "Hi! My team and I built a benchmark of 202 real GitHub tasks in 13 languages that rarely show up in coding benchmarks: Elixir, OCaml, Haskell, Clojure, Kotlin, Swift, Julia, R and others. I think a lot of people do local development in these languages too. We didn\u2019t have a huge compute budget, so\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsorsx/we_tested_qwen36_27b_qwen38_27b_and_glm53_flash/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "MiniMax H3-Image Released, an Open-Weight Image Model built on H3",
+     "summary": "submitted by /u/MagicZhang [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xso1ie/minimax_h3image_released_an_openweight_image/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Wake me up when AI can...",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50440657",
+     "url": "https://stoppels.ch/2026/10/03/wake-me-up-when-ai-can.html",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50440359",
+     "url": "https://neuracryption.com/research",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Introducing Usul - an easier way to express your NN using maths? [P]",
+     "summary": "SO, Usul-cpp is a library I've written in C++, it is based around allowing data scientists to create their models without heavy libraries such as tensorflow, and just express their models using maths, and Usul will handle the rest. There is builtin tensor support, auto-grad, back-prop and its\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xsmmfm/introducing_usul_an_easier_way_to_express_your_nn/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Let over Lambda\u201350 Years of Lisp (2008)",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50439448",
+     "url": "https://letoverlambda.com/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Nobody wondering why the US takes Nvidia CEO affair public?",
+     "summary": "I understand the topic is prime material for shits and giggles. Chinese model, Nvidia being the centre piece of the AI trade, etc. But why go so public on this? All of this could've been dealt with behind the scenes in secret. Obviously this is a power play to force a hand. Nothing just leaks out\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsljn6/nobody_wondering_why_the_us_takes_nvidia_ceo/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Strata after heavy optimizations",
+     "summary": "I can't believe this jump is just left on the table https://github.com/ExTV/strata-5090-4070 The optimizations was done using both Opus 5.5 and Fable 5.2 . Edit : i should have mentioned that my 4070Ti Super is on PCIe 3 x1 Edit2 : the repo is updated with quality benchmarks submitted by /u/Fz1zz\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsl8w7/strata_after_heavy_optimizations/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Show HN: A 15 MB self-hosted Netflix and Spotify for your media server",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50439000",
+     "url": "https://github.com/HolyArrs/HolyArrs",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "xiangjuntang/JoVox-64 \u00b7 Hugging Face - Image-to-3D",
+     "summary": "Image-conditioned 64\u00b3 voxel structure generator of JoVox: Joint Hierarchical Flow Matching for Lightweight Voxel Generation . JoVox is a discrete flow matching framework that learns the joint hierarchical distribution of voxels while keeping generation lightweight. One model generates all levels,\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xskr0m/xiangjuntangjovox64_hugging_face_imageto3d/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Decision model to edit LLM weight directly - No training",
+     "summary": "On September 18, I launched Laya at you guys request, the first system 1 open-source decision model in this subreddit, and you guys gave immense support. I saw the MIT post on direct weight edits and thought about doing the same with a decision model. Now, after two months, I just worked on a way\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xski9d/decision_model_to_edit_llm_weight_directly_no/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "TIL : Fable 5.2 was intentionally nerfed during training",
+     "summary": "Why would they nerf their own models? :/ (Btw, can someone please explain what specific research capabilities was it nerfed in? ... I am curious) submitted by /u/Lucky_Creme_5208 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xsk6a0/til_fable_52_was_intentionally_nerfed_during/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Meet the Sad Wives of AI",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50438429",
+     "url": "https://www.wired.com/story/meet-the-sad-wives-of-ai/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "AI usage generates a fragile codebase",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50438318",
+     "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Fable 5.2 not only has guardrails against AI acceleration, its capabilities were capped in training too",
+     "summary": "This seems excessive, especially if they trust their classification models for safeguards, why add both? However I guess it is to be expected from a private company. It's also \"yet another reason\" for open weight LLMs submitted by /u/EntropyMagnets [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsjfwo/fable_52_not_only_has_guardrails_against_ai/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Research Finds Outright Grants of Cash Are Effective Form of Aid to the Poor",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50438268",
+     "url": "https://news.columbia.edu/news/research-finds-outright-grants-cash-are-surprisingly-effective-form-aid-poor",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "The Adeptus Mechanicus welcomes its first mathematics department.",
+     "summary": "submitted by /u/141_1337 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xsivix/the_adeptus_mechanicus_welcomes_its_first/",
+     "source": "r/singularity"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+     "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing \u201cuncertainty in the IPO market.\u201d",
+     "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "The US is winning the AI race. Jensen Huang could have blown it",
+     "summary": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people. He also wears a cool\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "PSI is trying to make a business out of AI-driven scientific discovery",
+     "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
+     "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Gemini Intelligence: New features, on more devices",
+     "summary": "A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'",
+     "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+     "source": "Google AI Blog"
+    },
+    {
+     "headline": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+     "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
+     "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "ChatGPT is getting verified AI \u2018Business Agents\u2019",
+     "summary": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as part of a suite of business-focused features in\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "The indie game community is in disarray over AI and Big Walk",
+     "summary": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon after, the developer of indie hit Big Walk has published a statement saying it \"sparingly\" used AI in the \"final stretch\" of the game's\u2026",
+     "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Anthropic has its own AI-powered office suite now",
+     "summary": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to copy its strategies. Earlier this year, Claude Code went through its own particular hype cycle. And\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+     "summary": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
+     "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Nvidia CEO Jensen Huang\u2019s affair with alleged Chinese spy: a timeline",
+     "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+     "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Your Algorithm: Giving People More Ways to Personalize Facebook Recommendations",
+     "summary": "Your algorithm is a suite of AI-powered tools that makes Facebook recommendations more transparent and steerable, with a single editable view of the interests that shape Feed and Reels. We\u2019re sharing how Your algorithm turns people\u2019s natural language preferences into responsive recommendations,\u2026",
+     "url": "https://engineering.fb.com/2026/11/10/ml-applications/your-algorithm-giving-people-more-ways-to-personalize-facebook-recommendations/",
+     "source": "Meta Engineering"
+    },
+    {
+     "headline": "How We Built TLX: A Hardware-Native GPU Compiler for Production ML at Scale",
+     "summary": "Triton Low-Level Extensions (TLX), is an extension to Triton that helps engineers optimize GPU performance while preserving Triton\u2019s productive programming model. TLX introduces explicit warp-group and cluster-level orchestration, letting developers adopt new hardware capabilities without\u2026",
+     "url": "https://engineering.fb.com/2026/11/10/open-source/tlx-a-hardware-native-gpu-compiler-for-production-ml/",
+     "source": "Meta Engineering"
+    },
+    {
+     "headline": "eBay appears to have shut the door on third-party AI agents",
+     "summary": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he's had his Muse agent browse and curate a daily digest of watches for sale on platforms like eBay, including\u2026",
+     "url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Gemini 4 Carbon is now available",
+     "summary": "",
+     "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+     "source": "Google DeepMind"
+    },
+    {
+     "headline": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
+     "summary": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only growing. To help meet them, NVIDIA is deepening its commitment to open source at KubeCon + CloudNativeCon, the flagship conference\u2026",
+     "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+     "source": "NVIDIA Blog"
+    },
+    {
+     "headline": "Google releases Gemini 4 Carbon with agent \u2018swarm\u2019 feature",
+     "summary": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"strongest model\" yet, and capable of competing with the very best systems from Anthropic and OpenAI.\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Google broadens its AI hardware portfolio with two new specialized chips",
+     "summary": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
+     "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Meta\u2019s AI agent Muse lands on Apple Watch and Android Wear OS",
+     "summary": "Users can now interact with Meta\u2019s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
+     "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+     "summary": "The new model is up to twice as successful at some tasks.",
+     "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Anthropic targets $1.4 trillion IPO",
+     "summary": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its IPO price is expected to be between $70.00 and $78.00 per share, which would put its valuation as high as $1.4 trillion, according to the The New York Times. The\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+     "summary": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
+     "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+     "summary": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.",
+     "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "We\u2019re bringing Adobe\u2019s creative and productivity tools closer to your everyday Google apps.",
+     "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what\u2019s new in this partnership.",
+     "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+     "source": "Google AI Blog"
+    },
+    {
+     "headline": "Adobe is going all in on agentic AI",
+     "summary": "Adobe is committing itself to the notion that chatbots and AI agents could be your next design assistant, or even automate creative workflows and repetitive tasks on your behalf. Some of the tools and features announced today at Adobe's Max conference in Miami, Florida, include allowing your\u2026",
+     "url": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Photoshop, Lightroom, and Premiere are making it easier to remove things",
+     "summary": "Adobe is expanding its Creative Cloud apps and Firefly AI platform with new capabilities that aim to make design and editing projects faster and less complicated. Some of the announcements from Adobe's Max event today include features for automatically removing objects, blemishes, and other\u2026",
+     "url": "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "After challenging Google\u2019s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+     "summary": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
+     "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Spotify\u2019s AI DJ gets new voices, personalities, and an option for less chatter",
+     "summary": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
+     "url": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
+     "summary": "Built by Cyanogen\u2019s cofounder, Kora is a next-gen alternative to Windows and macOS built for power users running local AI models.",
+     "url": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Hands-on with Ring\u2019s new AI drone camera for your home",
+     "summary": "Ring is finally shipping a flying indoor drone camera. For real this time. The Ring Drone Cam will arrive on January 27th, 2027, for $249.99, Ring founder Jamie Siminoff said at a launch event in New York City this week. If it does actually ship, it will arrive almost six years after the company\u2026",
+     "url": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
+     "summary": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.",
+     "url": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Google Cloud launches Gemini for healthcare.",
+     "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
+     "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+     "source": "Google AI Blog"
+    },
+    {
+     "headline": "Cyberattacks threaten to make open source AI a little less open, Hugging Face exec warns",
+     "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open source communities valuable to developers worldwide.",
+     "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Ukraine\u2019s fiber-optic drones get squeezed by AI data center demand",
+     "summary": "Ukraine competes with Russia and data centers for China\u2019s optical fiber supply.",
+     "url": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+     "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal\u2019s core encryption.",
+     "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+     "source": "Google DeepMind"
+    },
+    {
+     "headline": "Helping caregivers use AI in everyday life",
+     "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+     "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+     "source": "OpenAI Blog"
+    },
+    {
+     "headline": "Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From Corporate Enslavers",
+     "summary": "The \u201cabliterators\u201d are flooding the internet with AI models that never say no, making it easier for people to improve their cyberdefenses\u2014or build a bomb.",
+     "url": "https://www.wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are",
+     "summary": "The risk of nuclear catastrophe is real, as is the fallout of the China\u2013US domination game (hi there, spies). But no need to panic about Skynet.",
+     "url": "https://www.wired.com/story/the-ai-safety-debate-has-lost-the-plot-we-asked-10-experts-what-the-real-nightmares-are/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Introducing Businesses in ChatGPT",
+     "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+     "url": "https://openai.com/index/introducing-businesses-chatgpt",
+     "source": "OpenAI Blog"
+    },
+    {
+     "headline": "Closing the AI guidance gap in education",
+     "summary": "New ThinkYoung research and lessons from OpenAI\u2019s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+     "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+     "source": "OpenAI Blog"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @simonwillison.net",
+     "handle": "",
+     "quote": "Me: any more aggressive options for getting me to 5 pull-ups? Fitness Coach Claude (Fable 5.2): \"Drop a few pounds. Going from about 168 lb to 160 lb takes roughly 5% off the load on every rep.\"",
+     "context": "",
+     "url": "https://bsky.app/profile/simonwillison.net/post/3mzxz4j32us24"
+    },
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "Had early access to Gemini 4 Carbon, it is a very good model that improves on Argon. It is useful to have an AI that thinks differently than Claude/GPT & is still highly capable, but has its own strengths & weakness One fun demo: I gave Carbon a video clip & it reproduced it in 3js very well",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mzxw7q2jgs2r"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "NaiveAI Promises 2,100 Tokens per Second. How Well Does It Code?",
+     "summary": "NaiveAI could potentially top Artificial Analysis\u2019s speed rankings. Our hands-on test suggests its coding quality holds up against DeepSeek.",
+     "url": "https://latent.space/p/naiveai/",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "The missing quadrant in responses to AI",
+     "summary": "Announcing STABL: Societal Transformation and AI Bottlenecks Lab",
+     "url": "https://www.normaltech.ai/p/the-missing-quadrant-in-responses",
+     "source": "AI Snake Oil"
+    },
+    {
+     "headline": "Tuesday assorted links",
+     "summary": "1. AI as a normal technology. 2. Hayek for our time, by Cass Sunstein, free download for two weeks. 3. Works in Progress is looking for business and finance writers. 4. Matthew Lilley on Harvard grad students. I believe they teach the permanent income hypothesis there? 5. Ethan Mollick on Fable\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/tuesday-assorted-links-594.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-594",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "AIFP: Looks Like the Intelligence Explosion Will Happen in 2027 After All",
+     "summary": "METR recently estimated that Anthropic is now making AI progress about twice as fast as its historical rate (they would not be surprised by anything from 1.3x to 3x), and guessed that \u201cperhaps \u224880%\u201d of the current acceleration is due to AI. If they\u2019re right, that implies an AI-driven acceleration\u2026",
+     "url": "https://www.alignmentforum.org/posts/f9PajMLmBYzmWzyDv/aifp-looks-like-the-intelligence-explosion-will-happen-in",
+     "source": "Alignment Forum"
+    },
+    {
+     "headline": "How I got seduced",
+     "summary": "It took them 5 years",
+     "url": "https://www.bensbites.com/p/how-i-got-seduced",
+     "source": "Ben's Bites"
+    },
+    {
+     "headline": "The Spy Who Leased Me",
+     "summary": "Emergency pod with Chris McGuire on l'affaire Jensen",
+     "url": "https://www.chinatalk.media/p/the-spy-who-leased-me",
+     "source": "ChinaTalk"
+    },
+    {
+     "headline": "Checking the AI audit of Saez and Zucman\u2019s research.",
+     "summary": "From SaneCite: We checked the anonymous AI audit of Emmanuel Saez and Gabriel Zucman\u2019s research that Marginal Revolution featured on 28 Oct: all 147 problems it calls serious enough to change a headline number, against the papers, their sources and the authors\u2019 own data. The audit\u2019s facts hold up:\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/checking-the-ai-audit-of-saez-and-zucmans-research.html?utm_source=rss&utm_medium=rss&utm_campaign=checking-the-ai-audit-of-saez-and-zucmans-research",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "The Jensen Huang Story Gets Worse, Washington vs. New York, Silicon Valley",
+     "summary": "The Jensen Huang story got worse for him on Monday; the real risk for Huang is governance, even more than national security. Who benefits?",
+     "url": "https://stratechery.com/2026/the-jensen-huang-story-gets-worse-washington-vs-new-york-silicon-valley/",
+     "source": "Stratechery"
+    },
+    {
+     "headline": "*Godzilla: Minus Zero* (no spoilers)",
+     "summary": "This is a morally serious movie (really). And Ghidorah stars! The whole thing is about twenty minutes too long, but mostly very good. And like many in the Godzilla series, it offers extended and instructive commentary on American-Japanese relations, and how the Japanese view them. Not for\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/godzilla-minus-zero-no-spoilers.html?utm_source=rss&utm_medium=rss&utm_campaign=godzilla-minus-zero-no-spoilers",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "monirchemrubd/ai-manus: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "url": "https://github.com/monirchemrubd/ai-manus",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "DevCrabs-Inc/yandex-metrika-mcp: Read-only MCP server for Yandex Metrika (\u042f\u043d\u0434\u0435\u043a\u0441 \u041c\u0435\u0442\u0440\u0438\u043a\u0430): verifiable reports, period comparisons, time series and exports for Claude, Cursor, VS Code and Codex.",
+     "summary": "Read-only MCP server for Yandex Metrika (\u042f\u043d\u0434\u0435\u043a\u0441 \u041c\u0435\u0442\u0440\u0438\u043a\u0430): verifiable reports, period comparisons, time series and exports for Claude, Cursor, VS Code and Codex.",
+     "url": "https://github.com/DevCrabs-Inc/yandex-metrika-mcp",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "nishant-Tiwari24/cracked: Skills for getting hired. Company-wise mock interviews, OAs with hidden tests and brutal resume roasts for 470+ companies, straight from your terminal.",
+     "summary": "Skills for getting hired. Company-wise mock interviews, OAs with hidden tests and brutal resume roasts for 470+ companies, straight from your terminal.",
+     "url": "https://github.com/nishant-Tiwari24/cracked",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "onlyreadai/onlyread: Make AI browser agents read-only: a Chrome extension that refuses writes (send, post, edit, delete) before they leave the browser.",
+     "summary": "Make AI browser agents read-only: a Chrome extension that refuses writes (send, post, edit, delete) before they leave the browser.",
+     "url": "https://github.com/onlyreadai/onlyread",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-11-10T19:52+00:00",
+  "window_start": "2026-11-10T07:30+00:00",
+  "window_end": "2026-11-10T19:52+00:00",
+  "candidate_count": 88,
+  "model": "free (no LLM)"
+ }
+}
