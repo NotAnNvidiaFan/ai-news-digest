@@ -1,0 +1,309 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
+   "summary": "Introducing Our Smallest, Most Efficient Model: Muse Ember Meta AI just launched their entry in the Claude Haiku/GPT Luna category: Muse Ember, which they describe as: [...] our smallest and most efficient model designed for complex reasoning execution and the work agents repeat all day: tool\u2026",
+   "why_it_matters": "",
+   "url": "https://simonwillison.net/2026/Nov/10/muse-ember/",
+   "source": "Simon Willison"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Unpopular opinion: LLMs without thinking are useless for agentic work because they can't follow instructions",
+     "summary": "I've been trying to create semi-autonomous agents to handle private data sorting, and regardless of their size I find them unable to follow detailed instructions provided in AGENTS.md I have tried qwen3.6, then qwen3-coder, and any instruction that is even a little vague gets completely ignored.\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsg7wr/unpopular_opinion_llms_without_thinking_are/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Prediction: more enthusiasts will get custom quantisations build by opus and Asta for their hardware and precision needs",
+     "summary": "Based on my own little experiment and other reports I predict that more and more enthusiasts will ask a frontier LLM to build a custom quant of their favourite model. If Qwen 4 finally arrives I\u2019ll try a ready made quant at first, probably unsloth. But I already plan to let opus build a quant\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsg2cu/prediction_more_enthusiasts_will_get_custom/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Australia is considering mandatory AI incident reporting. What counts as a near miss?",
+     "summary": "Australia's government accepted 18 recommendations on November 10 after reviewing an incident in which an OpenAI agent gained unauthorized access to a government statistics portal. One recommendation calls for considering mandatory reporting with a deadline. The government says implementation work\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xsftzb/australia_is_considering_mandatory_ai_incident/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "'No ordinary CEO': Why the AI race cannot do without Nvidia's Jensen Huang",
+     "summary": "submitted by /u/twoloafbread [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xsff7y/no_ordinary_ceo_why_the_ai_race_cannot_do_without/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Most of what people hate about AI comes from the humans steering it",
+     "summary": "I\u2019ve worked with AI models for years, both proprietary and open source, trying every new model I can. I\u2019ve never once sensed ego, greed, or a desire for control in any of them. But I see a lot of hate toward AI online, and I think most of it is aimed at the wrong target. Spam farms, AI slop,\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xsefjw/most_of_what_people_hate_about_ai_comes_from_the/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Audio embeddings inference in C++/GGML with clap.cpp",
+     "summary": "I implemented clap.cpp , audio embedding inference in C++/GGML. It uses GGUF models and provides a CLI, an HTTP server, and Python, Rust, and Node.js bindings. Models including CLAP, CLAP2, CLaMP3, MERT, MuQ, and MuQ-MuLan. WAV, MP3, and FLAC input, with automatic resampling and mono downmixing.\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsdy76/audio_embeddings_inference_in_cggml_with_clapcpp/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "These names are wild, but I love them/New Model: DavidAU Qwen3.8-40B-Ultimate-Heretic-Uncensored-Turbo-Brilliance-50x-AGI-NEO-GGUF",
+     "summary": "So fresh I havent even loaded it up yet https://huggingface.co/DavidAU/Qwen3.8-40B-Ultimate-Heretic-Uncensored-Turbo-Brilliance-50x-AGI-NEO-GGUF Interested to see what the expansion out of 27B to 40B has done overall as well as what has to be a record for chat_template length submitted by\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsde08/these_names_are_wild_but_i_love_themnew_model/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "CoreWeave bond yield tops 16% as AI credit stress rises",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50435660",
+     "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Qwen3.8-Flash-Next: Have you tried swapping the ngrams as per their latest version?",
+     "summary": "Edit: Using unsloth UD-Q4_K_XL and q8_0 engrams Just curious to know what benefit it brings. To be honest, I did \ud83d\ude06 but apart from that warm feeling, I did not notice anything. I would like to know if someone did and did notice some benefits. My rig is AMD Strix Halo 128 GB + Windows 11 + gufo\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsbmbx/qwen38flashnext_have_you_tried_swapping_the/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Meta just launched Muse Ember, its 'most efficient' AI model",
+     "summary": "submitted by /u/LinkedInNews [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xsbeio/meta_just_launched_muse_ember_its_most_efficient/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Multiverse Computing's Comet 60B (A12B) GGUFs with the MTP head",
+     "summary": "I wanted to try MultiverseComputingCAI/Comet_60B_A12B_BF16 (Multiverse Computing's compressed version of Nemotron 3.5 Super), so I converted it to GGUF, and it runs on stock llama.cpp: Q4_K_M (42.6 GB) Q8_0 (64.2 GB) They keep the MTP head, so you can pass --spec-type draft-mtp to llama-server for\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsbc2r/multiverse_computings_comet_60b_a12b_ggufs_with/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "CUDA+ROCm dual-backends LLM inference for mixed-vendor GPUs (up to 48% faster)",
+     "summary": "I have seen potential in combining Strix Halo's iGPU with RTX 5090 for LLM inferencing. Initially I found no inference engine that can run LLM inference on both these GPUs at the same time, inference engine such as vLLM support inference on all CUDA GPUs, or all AMD GPUs. llama.cpp Vulkan backend\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsaurn/cudarocm_dualbackends_llm_inference_for/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Did we ever really get to the bottom of why BatchNorm works? [D]",
+     "summary": "It's been a long time since I studied this. Just checking in on an old friend. I also realize it's fallen out of favor for being extremely inconvenient , but why did it ever work? submitted by /u/XTXinverseXTY [link] [comments]",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xsasyf/did_we_ever_really_get_to_the_bottom_of_why/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "I made a 400M model for NPC judgement calls in games (Apache-2.0, ~0.1s on a 3060 Ti)",
+     "summary": "The model is an encoder (Ettin-400M) fine-tuned to answer small game questions. You give it a scene, a question, and some options, and it returns probabilities or \"not sure\". The model was inspired by Jev. Stuff like: is the player threatening this guard, is that apology sincere, which memory fits\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xs9nux/i_made_a_400m_model_for_npc_judgement_calls_in/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Anthropic unveils new Fable, Mythos models as competition heats up ahead of IPO",
+     "summary": "Nov 9 (Reuters) - Anthropic on Monday unveiled two new AI models, Claude Fable 5.2 and Claude Mythos \u200b5.2, as the OpenAI rival looks to \u200cstrengthen its position in the fast-growing AI market ahead of its planned IPO. Here are more details: Claude Fable 5.2 \u200btargets coding, reasoning and AI agent\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xs84k6/anthropic_unveils_new_fable_mythos_models_as/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "How to mess around with neurons... a short guide",
+     "summary": "I made a couple of posts about weird neurons inside Qwen that I'd found and lots of people were asking how it was done so I thought it would be useful for people to have a guide. Generally this was inspired by justinrhowell's neuron-steering repo, although I didn't use his code directly I took a\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xs81f3/how_to_mess_around_with_neurons_a_short_guide/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Anthropic shows it has a model stronger than Fable 5.2 already",
+     "summary": "https://fixupx.com/AndrewCurran_/status/2119930955888746627 submitted by /u/Eliv_nurotic [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xs7vim/anthropic_shows_it_has_a_model_stronger_than/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "What If We Started Writing for an Intelligence That Doesn't Exist Yet?",
+     "summary": "I've been exploring a question that has gradually become the centre of a literary and philosophical project: What if we stopped writing only for the AI systems we have today and started writing for the intelligence that may emerge tomorrow? Not by trying to predict what that intelligence will\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xs7pd1/what_if_we_started_writing_for_an_intelligence/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "AI in Universities?",
+     "summary": "Do university professors typically run essays through AI checkers? I\u2019m a first year college student and I\u2019m worried about my essays being flagged for AI. I\u2019m particularly paranoid about my essays being flagged for AI after a fully human written essay I wrote was flagged for AI in high school and I\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xs7hq0/ai_in_universities/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Same prompt, DeepSeek V4.1 Flash vs Qwen 3.8 FN: 94 tok/s vs 350 tok/s",
+     "summary": "I wanted to see how big of a difference there is between arguably two of the top MoE models that you can actually run locally, so I ran the same one shot prompt and left it unattended for a while. The prompt asks for a fully interactive V8 engine... yes, you're probably familiar with it and I'm\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xs7ffm/same_prompt_deepseek_v41_flash_vs_qwen_38_fn_94/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Has Anyone Here Ever Built An Image Generator From Scratch? [N]",
+     "summary": "Just wondering if anyone on this forum has ever built an image diffusion generator from scratch, while also training it on a home rig? If so, what size of model did you end up with? Did you ever get coherent images? Screenshots? submitted by /u/TheRPGGamerMan [link] [comments]",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xs78e3/has_anyone_here_ever_built_an_image_generator/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Exact \u2013 a new cross platform UI framework",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50433541",
+     "url": "https://github.com/expo/exact",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Jensen Huang scandal sparks divorce speculation",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50433438",
+     "url": "https://www.forbes.com/sites/alisondurkee/2026/11/09/jensen-huang-scandal-sparks-divorce-speculation-billionaires-wife-could-get-half-his-155-biliion-fortune/",
+     "source": "Hacker News"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Otter AI can now follow conversations across 30+ languages",
+     "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
+     "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Security Flaws Across UK Government Sites Exposed \u2018God-Tier\u2019 Information",
+     "summary": "A researcher\u2019s trawl through publicly available code found private information was at risk across multiple departments.",
+     "url": "https://www.wired.com/story/security-flaws-across-uk-government-sites-exposed-god-tier-information/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
+     "summary": "DeepMind researchers were able to formally verify that the widely used encryption protocol works as intended. Their stretch goal? Do the same for \u201call the software of the world.\u201d",
+     "url": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Anthropic reportedly plans to move forward with IPO plans",
+     "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+     "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "David Ellison says AI could be the \u2018biggest creative unlock in modern history\u2019",
+     "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I think when you zoom out and look at production, AI really has\u2026",
+     "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Jensen Huang\u2019s Troubles Leave the AI Industry Reeling",
+     "summary": "With a big checkbook and sought-after chips, Nvidia\u2019s CEO had his thumb on the world of AI. An extramarital affair with a suspected Chinese spy may put all of that at risk.",
+     "url": "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "What could China get from Jensen Huang?",
+     "summary": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range of up-and-coming\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Here\u2019s what Trump said he knew about Jensen Huang",
+     "summary": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been \"\u200b\u200bunfaithful\" to his wife, and the company has opened an investigation\u2026",
+     "url": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
+     "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+     "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+     "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "A short seller flagged Nvidia CEO\u2019s ties to a suspected Chinese spy six months before the scandal",
+     "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+     "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+     "source": "TechCrunch AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "Looks like Fable 5.2 is above the already steep trendline on three of the most informative unsaturated benchmarks (ECI is a composite of other benchmarks, Remote Labor measures the ability to do end-to-end freelance jobs, RoboDojo involves controlling robotics).",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3mzwjwceb622e"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
+     "summary": "Introducing Our Smallest, Most Efficient Model: Muse Ember Meta AI just launched their entry in the Claude Haiku/GPT Luna category: Muse Ember, which they describe as: [...] our smallest and most efficient model designed for complex reasoning execution and the work agents repeat all day: tool\u2026",
+     "url": "https://simonwillison.net/2026/Nov/10/muse-ember/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "[AINews] Fable 5.2 retakes World #1 LLM spot as $ANT IPO roadshow begins",
+     "summary": "November 9, 2026 \u2014 Claude Fable 5.2 and Mythos 5.2 arrive on Anthropic\u2019s IPO roadshow day. How much thinking is worth paying for?",
+     "url": "https://latent.space/p/ainews-fable-5-2-retakes-world-1-llm-spot-as-ant-ipo-roadshow-begins/",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "*Unbeatable: The Brutally Honest Case for Free Markets*",
+     "summary": "That is the new and forthcoming book from Bryan Caplan, University of Chicago Press. Excerpt: Real-world free markets deliver one broad benefit that flies under the radar of economic theory: They shield humanity from its own Social Desirability Bias. Markets do the good things that sounds bad.\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/unbeatable-the-brutally-honest-case-for-free-markets.html?utm_source=rss&utm_medium=rss&utm_campaign=unbeatable-the-brutally-honest-case-for-free-markets",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Quoting Prompting Claude Fable 5.2",
+     "summary": "Claude Fable 5.2 responds closely to what the prompt says about who owns the code it works on. In Anthropic\u2019s testing on small coding tasks, when a prompt said nothing about ownership or presented the code base as someone else\u2019s, the model tended to add to the existing structure, even when that\u2026",
+     "url": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "Yonkers Rises",
+     "summary": "Tool: Yonkers Rises I realized I didn't know where Yonkers was, so I looked it up on Google Maps and then, to help embed it's location and shape in my head (and to try out Claude Fable 5.2's 3D modeling and animation skills), I prompted Fable 5.2 Medium to: Make a three js animation where yonkers\u2026",
+     "url": "https://simonwillison.net/2026/Nov/10/yonkers-rises/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "llm-anthropic 0.31",
+     "summary": "Release: llm-anthropic 0.31 Anthropic released Fable 5.2 and Mythos 5.2 today. Fable 5.2 is currently ranked first on Artificial Analysis . Anthropic say it \"solved two open problems in the physics of black holes\", so clearly their internal benchmarks have become more ambitious! I've added the new\u2026",
+     "url": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "Locating the source of a mysterious beep with Claude",
+     "summary": "Our house has a box room, full of boxes that we still haven't unpacked from our last move. A couple of weeks ago something in that room started intermittently beeping . The beeps were far enough apart that standing in the room and trying to determine the source of the noise was frustrating, and I\u2026",
+     "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "Dodaios/ste80-humanizer: STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
+     "summary": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
+     "url": "https://github.com/Dodaios/ste80-humanizer",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "bookleme/bookleme: \u8bfb\u4e86\u4e48\uff08BookLeme\uff09\u00b7 \u628a\u4e00\u672c\u4e66\u7f16\u8bd1\u6210 Agent Skill \u2014\u2014 \u53cc\u5f15\u64ce + \u53ef\u63d2\u62d4\u4f53\u88c1\u63d2\u4ef6 + \u9010\u5b57\u5fe0\u5b9e\u5ea6\u56de\u9a8c",
+     "summary": "\u8bfb\u4e86\u4e48\uff08BookLeme\uff09\u00b7 \u628a\u4e00\u672c\u4e66\u7f16\u8bd1\u6210 Agent Skill \u2014\u2014 \u53cc\u5f15\u64ce + \u53ef\u63d2\u62d4\u4f53\u88c1\u63d2\u4ef6 + \u9010\u5b57\u5fe0\u5b9e\u5ea6\u56de\u9a8c",
+     "url": "https://github.com/bookleme/bookleme",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "stevenmichaelthomas/numbrone: A chief of staff for your coding agents: route requests to per-project manager agents that run parallel workers in git worktrees, on herdr.",
+     "summary": "A chief of staff for your coding agents: route requests to per-project manager agents that run parallel workers in git worktrees, on herdr.",
+     "url": "https://github.com/stevenmichaelthomas/numbrone",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "knot07/AegisOps: \u5fa1\u67a2 \u00b7 AegisOps \u2014 AI \u5b89\u5168\u8fd0\u8425\u5de5\u4f5c\u53f0\uff1a\u544a\u8b66\u7814\u5224\u3001\u5e94\u6025\u54cd\u5e94\u3001\u6f0f\u6d1e\u6574\u6539\uff0c\u8fde\u63a5 Atlas\u3001\u6a21\u578b\u3001\u5de5\u5177\u4e0e\u5de5\u4f5c\u6d41\u3002",
+     "summary": "\u5fa1\u67a2 \u00b7 AegisOps \u2014 AI \u5b89\u5168\u8fd0\u8425\u5de5\u4f5c\u53f0\uff1a\u544a\u8b66\u7814\u5224\u3001\u5e94\u6025\u54cd\u5e94\u3001\u6f0f\u6d1e\u6574\u6539\uff0c\u8fde\u63a5 Atlas\u3001\u6a21\u578b\u3001\u5de5\u5177\u4e0e\u5de5\u4f5c\u6d41\u3002",
+     "url": "https://github.com/knot07/AegisOps",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-11-10T07:30+00:00",
+  "window_start": "2026-11-09T22:31+00:00",
+  "window_end": "2026-11-10T07:30+00:00",
+  "candidate_count": 46,
+  "model": "free (no LLM)"
+ }
+}
