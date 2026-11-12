@@ -1,0 +1,435 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "If an AI image genuinely moves you, where does the meaning live?",
+   "summary": "I paint, and I keep going back and forth on this. When someone is moved by one of my paintings, meaning seems to happen on both sides: I chose and risked something, they received it. With an AI image the viewer's experience is just as real, but there's no one on the other side who chose or risked\u2026",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/artificial/comments/1xu6am0/if_an_ai_image_genuinely_moves_you_where_does_the/",
+   "source": "r/artificial"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "If an AI image genuinely moves you, where does the meaning live?",
+     "summary": "I paint, and I keep going back and forth on this. When someone is moved by one of my paintings, meaning seems to happen on both sides: I chose and risked something, they received it. With an AI image the viewer's experience is just as real, but there's no one on the other side who chose or risked\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xu6am0/if_an_ai_image_genuinely_moves_you_where_does_the/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Does anyone else feel like years of developing intellectual skills are suddenly becoming worthless?",
+     "summary": "I've been a software developer for years, and I've spent the last 6 years building a complex personal project from scratch. Thousands of hours of learning, experimenting, failing, solving problems, and developing skills that used to take years to acquire. And now, watching how insanely fast AI is\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xu5uqf/does_anyone_else_feel_like_years_of_developing/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Qwen4 is coming, pull requests spoted on github",
+     "summary": "The first one was on RTP-LLM The second one was from llama.cpp https://github.com/ggml-org/llama.cpp/pull/32082 , commits with `qwen4exp` prefix submitted by /u/kinetic_energy28 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xu5p6p/qwen4_is_coming_pull_requests_spoted_on_github/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Gemma4-31b latent space discovery: Caring and Contempt for user controlled by the same 3 neurons! Plus, how to find your own steering recipes and export to GGUF steering vector for llama.cpp",
+     "summary": "submitted by /u/New_Alps_5655 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xu4n7b/gemma431b_latent_space_discovery_caring_and/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "After Democrats\u2019 midterm wins, Palantir CEO Alex Karp now says he\u2019s a \u2018progressive\u2019",
+     "summary": "submitted by /u/esporx [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xu453q/after_democrats_midterm_wins_palantir_ceo_alex/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "How much does reviewer confidence matter in ICLR decisions? [D]",
+     "summary": "My ICLR submission received ratings of 3 / 3 / 2 with confidence 1 / 3 / 3. One weak accept comes from a low-confidence reviewer (Though their review seemed knowledgeable and pinpointed a key issue in the paper.) the other weak accept and the weak reject both have confidence 3. How do ACs\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xu3n5f/how_much_does_reviewer_confidence_matter_in_iclr/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "HLE results lately are looking insane",
+     "summary": "I always check Humanities Last Exam (HLE) when a new model drops. It's looking like it's taking a SHARP upward turn lately, especially with Google and Fable 5.2. submitted by /u/SoulWriter23 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xu2tif/hle_results_lately_are_looking_insane/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "RAM / silicon economy",
+     "summary": "With RAM prices going 4 x ( nearly 5x ) their original prices, what are Ai companies even expecting to happen when consumers no longer have Ram to run the very systems that they need to use the Ai products to begin with? submitted by /u/Remarkable-Cow-1976 [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xu2qtg/ram_silicon_economy/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "My guy is on a roll",
+     "summary": "submitted by /u/cheezeerd [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xu2pau/my_guy_is_on_a_roll/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "The regulation of local AI could/should be viewed as the largest censorship implementation in the history of mankind.",
+     "summary": "With all of this fear mongering on the \u201cdangers\u201d of LLM\u2019s, I see how using people\u2019s ignorance and emotions on the subject can be used as a tool to limit and restrict the tool from the average person. My fear is that China and the US\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xu2mdo/the_regulation_of_local_ai_couldshould_be_viewed/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "The world's most expensive prompt injection",
+     "summary": "Jensen finally meets a Chinese model he can't resist submitted by /u/Anen-o-me [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xu2frb/the_worlds_most_expensive_prompt_injection/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Microsoft researchers backdoored an AI agent by editing fewer than 10 neurons - no retraining needed",
+     "summary": "Microsoft Research published a study this week that should worry anyone deploying open-weight models: a technique they call \"Lazarus\" can plant a working backdoor in an AI agent by reprogramming fewer than 10 dormant neurons in the underlying LLM - no retraining, no poisoned data, just a small\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xu2cfg/microsoft_researchers_backdoored_an_ai_agent_by/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Missed Presentation [D]",
+     "summary": "Hello everyone, For some reason if you miss paper workshop presentation then what happens? submitted by /u/No_Caterpillar3174 [link] [comments]",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xu1szu/missed_presentation_d/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "I fine-tuned EVA-02 in a week to build a neural video retrieval engine for what CLIP still won't do [P]",
+     "summary": "TL;DR: After a manic 7-day sprint, I open-sourced a local video retrieval engine built to search massive unstructured video portals by visual poses, clothing details, camera angles, and motion cadence\u2014ignoring uploader metadata at search time and running in minimal VRAM. GitHub:\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xu1pg4/i_finetuned_eva02_in_a_week_to_build_a_neural/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Someone voltage-glitched a CMP 170HX mining card into a working A100-80G, and it's ~1.18x faster than retail",
+     "summary": "Kate's writeup is wild. The 8GB CMP 170HX apparently ships with ~80GB of HBM onboard, just fused off. Software unlocks got people to 64GB. She used voltage fault injection to get past the fuse lock, then enabled all the working SMs (120-126 vs the 108 NVIDIA ships on A100). Her numbers: 85.9\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xu1dkz/someone_voltageglitched_a_cmp_170hx_mining_card/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "AI for Business Workflow",
+     "summary": "Has anyone successfully implemented AI in their sales workflow for complex engineering products that need assembly or configuration (multiple components, engineering judgement)? Specifically: An AI agent monitoring enquiries from WhatsApp, email and web forms Structuring them and routing them into\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xu1axd/ai_for_business_workflow/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "It wasn't him",
+     "summary": "submitted by /u/huopak [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xu198z/it_wasnt_him/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "CNN reported that data center \u201cheat islands\u201d were warming areas home to 340 million people. New peer-reviewed study finds the claimed warming would require 6\u201343\u00d7 more waste heat than the facilities\u2026",
+     "summary": "submitted by /u/141_1337 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xu0yyy/cnn_reported_that_data_center_heat_islands_were/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "I released Inflect v3: lightweight local TTS in 34M parameters (Apache 2.0)",
+     "summary": "Today I\u2019m releasing Inflect v3: a family of local text-to-speech models: Mini, Micro, and Atom. Mini is the main model, with six voices and 34.31M parameters Mini provides vocal-event tags, reference voice-tuning, and 48 kHz enhancement. It runs on both CPU and CUDA. GitHub, installation, and\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtzwxf/i_released_inflect_v3_lightweight_local_tts_in/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "A developer asked claude to design a humanoid robot - it took a night - 698 parts, 33 actuators; it tested balance and iterated until stable",
+     "summary": "From clankr submitted by /u/Distinct-Question-16 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xtzr17/a_developer_asked_claude_to_design_a_humanoid/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "DeepSeek V4.1 Flash 1017 exl3 2.9bpw APEX 2025 benchmark results",
+     "summary": "My main AI machine is a 6x3090 128GB DDR4 Threadripper 3960x system. I probably spend more time trying to optimize it than actually using it but it has been fun. I tried a bunch of saturated benchmarks like Terminal Bench 2.1, AIME 2026 and the performance was similar to unquantized DSV4.1 Flash\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtyxl9/deepseek_v41_flash_1017_exl3_29bpw_apex_2025/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "The most valuable thing in a video game is the button press. Why world model teams pay for gameplay with inputs attached",
+     "summary": "A world model learns how a world works: show it the screen and what someone did, and it predicts what happens next. video alone shows what happened. the action is what explains it, and that half is scarce Openai's minecraft work turned 2,000 labelled hours into 70,000 auto-labelled ones. microsoft\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xtyqxv/the_most_valuable_thing_in_a_video_game_is_the/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Simplest Local Agentic Setup",
+     "summary": "TL;DR simplest reasonable agentic setup Currently Pi Agent, Bonsai 2 9B, SearXNG Any suggestions ? Hi all So I have a secondary workstation with line 24GB of RAM and 12GB VRAM I wanted to make a local agentic setup there Currently using Pi Agent with Bonsai 2 9B, it is unbelievably better than I\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xty1vc/simplest_local_agentic_setup/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Moving atoms with AI",
+     "summary": "We all know AI reached a new threshold over the last few months and it\u2019s able to help build and design in new ways we\u2019ve never seen before. Now we can design custom PCB\u2019s, draft CAD files for robotic chasses, and generally work through entire designs from wiring to firing. I\u2019m curious, is anyone\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xtxe1c/moving_atoms_with_ai/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Republican Senator Josh Hawley backs nationwide data center moratorium",
+     "summary": "https://www.politico.com/live-updates/2026/11/11/congress/hawley-backs-nationwide-data-center-moratorium-01161019 FYI: A Harvard + UPenn study finds that data centers were responsible for just 4 percent of the utility rate increases over the last five years. https://archive.is/JRlsn >Last year,\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xtx3n9/republican_senator_josh_hawley_backs_nationwide/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "A general purpose Apple Silicon layer for x86-64 PCs",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50460154",
+     "url": "https://github.com/tylertms/Stela",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Nvidia preparing to remove CEO Jensen",
+     "summary": "submitted by /u/Efficient-Opinion-92 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xtwck8/nvidia_preparing_to_remove_ceo_jensen/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Architecture trends: From full to local attention",
+     "summary": "Currently working towards a bigger open LLM roundup. But in the meantime, just one of the interesting trends that stood out. I.e., looks like the transition from full to hybrid attention continues. In 2025, there were still lots of full attention models, with a shift to \"some full attention\"\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtvxtp/architecture_trends_from_full_to_local_attention/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Nvidia is Preparing to Oust Nvidia CEO Jensen Huang",
+     "summary": "submitted by /u/fallingdowndizzyvr [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtvsi7/nvidia_is_preparing_to_oust_nvidia_ceo_jensen/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "How should authors handle a suspected auto-generated review at ICLR? Flag to the AC or just rebut? [D]",
+     "summary": "I'm curious how ACs and experienced authors think about this. My situation: one ICLR reviewer gave a 2 with confidence 1. The other reviewers gave 3 with confidence 3. Pangram flags the review as 100% AI. I know detectors aren't proof on their own, but there are other signs too: all three listed\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xtvipb/how_should_authors_handle_a_suspected/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Lock Your GitHub Actions",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50459485",
+     "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "A second affair has hit the Jensen",
+     "summary": "submitted by /u/CheezyWookiee [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xtvbqj/a_second_affair_has_hit_the_jensen/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "[2610.29162v1] Why is AI-generated language so hard to understand?",
+     "summary": "submitted by /u/TheRealMasonMac [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtux72/261029162v1_why_is_aigenerated_language_so_hard/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I built an explorer of 2,100+ robotics papers covering 10 years of CoRL; with TLDRs, links to code, project pages, and research trends [P]",
+     "summary": "Heya roboticists and mind minders ~ I built a complete CoRL paper explorer, indexing 2,100+ robotics papers from the last 10 years (2017\u20132026). Added paper TLDRs, project pages, code, arXiv links, task chips, summary stats, research trends, and more!! Trying to make robot learning research more\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xtul3j/i_built_an_explorer_of_2100_robotics_papers/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "United Airlines bans AI agents from booking flights on behalf of travelers",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50458900",
+     "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "I Taught A CNN To Render Polygons",
+     "summary": "The right preview window is the networks render output. the input on the left is what the network sees. The vertex positions are placed in screen space, then the network is expected to fill in the triangles on it's own, the network is taught only using the final render, so its expected to learn\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xtty7i/i_taught_a_cnn_to_render_polygons/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Play GTA5 on Browser",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50458710",
+     "url": "https://playgta5.com/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "HuaWei open sources SOTA model-agnostic quantization for GGUF, local inference. Quantize and run text, image, video and audio models with llama.cpp, vLLM, Diffusers and PyTorch.",
+     "summary": "submitted by /u/yogthos [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xttf1r/huawei_open_sources_sota_modelagnostic/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "GitHub Incident with Webhooks, Actions, etc.",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50458532",
+     "url": "https://www.githubstatus.com/incidents/dvy0t3mvh1lg",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Tools for exploring the souls of large language models",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50458434",
+     "url": "https://oshea00.github.io/posts/tinygpt-visualizer/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Have people given up on ICLR reviews? [D]",
+     "summary": "Something weird I observed with my batch of papers and my own paper. Authors have not posted a single rebuttal yet, and no reviewer has responded to ours. This is a batch of almost 10-12 papers. Even papers with borderline fixable reviews have no responses from authors. Have people basically given\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xtt0px/have_people_given_up_on_iclr_reviews_d/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Huawei releases MACaQ, its internal quantizer for local inference",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50458166",
+     "url": "https://github.com/huawei-csl/MACaQ",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "IBM Quantum Nighthawk Demonstrates New Levels of Speed and Quality",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50457669",
+     "url": "https://newsroom.ibm.com/2026-11-11-ibm-quantum-nighthawk-demonstrates-new-levels-of-speed-and-quality,-with-plans-to-scale-beyond-1,000-qubits-in-2027",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "GitHub - tailot/LingoLOGOS: Grammar-driven engine for language analysis and generation IA or/and chip/s",
+     "summary": "submitted by /u/sasizza [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xtrkqh/github_tailotlingologos_grammardriven_engine_for/",
+     "source": "r/artificial"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+     "summary": "Nvidia has no succession plan and a CEO in hot water, so we\u2019ve drafted a shortlist.",
+     "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Gilbert + Tobin rethinks the business of law with AI",
+     "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+     "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+     "source": "OpenAI Blog"
+    },
+    {
+     "headline": "The unfolding Jensen Huang scandal: a timeline",
+     "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+     "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Nvidia\u2019s stock drops as board reportedly preps to oust CEO Jensen Huang",
+     "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+     "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Jensen Huang accused of having another affair \u2014 with an Nvidia exec",
+     "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
+     "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Nvidia is reportedly preparing to fire Jensen Huang",
+     "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was\u2026",
+     "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "United won\u2019t let your AI agent book your flight",
+     "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Why the data center you dread might never even be built",
+     "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there\u2019s a more basic problem: A lot of the projects being announced may never get built in\u2026",
+     "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Meta is losing its longtime head of infrastructure",
+     "summary": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.",
+     "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "How backlash and red tape continue to slow data centers post-Blue Wave",
+     "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there\u2019s a more basic problem: A lot of the projects being announced may never get built in\u2026",
+     "url": "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
+     "summary": "An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler.",
+     "url": "https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+     "summary": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company\u2019s third-quarter earnings.",
+     "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+     "source": "TechCrunch AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "People who have no contact with coders seem to have no idea how much an entire profession transformed in less than a year due to AI. It is so weird to still see comments here that AI hasn\u2019t changed anything or that AI code is bad or that companies are retreating from AI use. Does not match reality.",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3n22xdtz4kk2i"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "My excellent Conversation with Terence Tao",
+     "summary": "Here is the audio, video, and transcript. Here is part of the episode summary: Tyler opens by asking Terence what it feels like to contemplate Euler\u2019s identity, quantum mechanics, the Riemann hypothesis, and G\u00f6del\u2019s incompleteness theorem, before moving into why mathematical history gets stripped\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/my-excellent-conversation-with-terence-tao.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-terence-tao",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "[AINews] D-Day (Decision Models Day)",
+     "summary": "November 11, 2026 \u2014 Google enters the decision model market. At AI Engineer, Cloudflare showed which parts of a build failure a classifier could handle. TypeSafe AI showed off their production customers.",
+     "url": "https://latent.space/p/ainews-d-day-decision-models-day/",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "The Jev Revolution: What Engineers Are Already Building with System One Models",
+     "summary": "At AI Engineer Code Summit, lead Jev creator Diogo Almeida called on developers to automate everything. Also, Glean and others showed how they\u2019re using Jev.",
+     "url": "https://latent.space/p/jev-revolution/",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "Richard Posner, RIP\u2026",
+     "summary": "One of the greats. The post Richard Posner, RIP\u2026 appeared first on Marginal REVOLUTION .",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/richard-posner-rip.html?utm_source=rss&utm_medium=rss&utm_campaign=richard-posner-rip",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Gemini Decisions API",
+     "summary": "Gemini Decisions API Google join Jev and OpenAI in the decision model category with \"Gemini Decision 1\". This new model API is almost identical to Jev: it supports the same three types of questions (yes/no, choice, and rubric-scoring) and even reuses Jev's term \"Noul\" for a yes/no question. It's\u2026",
+     "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "aws-emulator",
+     "summary": "aws-emulator Finally, an official emulator from AWS to run tests against a local clone of their many different services without having to provision a paid API key to do so. It's written in Rust by a huge swarm of agents - 29,684 commits in the first three weeks of the project. Swaminathan (Swami)\u2026",
+     "url": "https://simonwillison.net/2026/Nov/11/aws-emulator/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "SsKanDon/blender-ai-mcp-addon: AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon,\u2026",
+     "summary": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+     "url": "https://github.com/SsKanDon/blender-ai-mcp-addon",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "op7418/guizang-game-skill: \u6b78\u85cf Game Skill\uff1a\u8ba9 AI \u4ece\u96f6\u505a\u51fa\u80fd\u5728\u6d4f\u89c8\u5668\u91cc\u73a9\u7684 3D \u52a8\u4f5c\u6e38\u620f\uff0c\u9644\u53ef\u73a9\u6f14\u793a\u300a\u96fe\u9501\u5c71\u95e8\u300b\u3002Agent skill for Claude Code / Codex that builds a playable browser 3D action game with AI-generated assets (three.js,\u2026",
+     "summary": "\u6b78\u85cf Game Skill\uff1a\u8ba9 AI \u4ece\u96f6\u505a\u51fa\u80fd\u5728\u6d4f\u89c8\u5668\u91cc\u73a9\u7684 3D \u52a8\u4f5c\u6e38\u620f\uff0c\u9644\u53ef\u73a9\u6f14\u793a\u300a\u96fe\u9501\u5c71\u95e8\u300b\u3002Agent skill for Claude Code / Codex that builds a playable browser 3D action game with AI-generated assets (three.js, single-HTML). Playable demo included.",
+     "url": "https://github.com/op7418/guizang-game-skill",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "agentes-chat/agentes-chat: Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP\u2026",
+     "summary": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres.\u2026",
+     "url": "https://github.com/agentes-chat/agentes-chat",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "shany9200/Three: A self-extending AI agent that runs anywhere Termux runs. Writes its own capabilities, remembers across sessions.",
+     "summary": "A self-extending AI agent that runs anywhere Termux runs. Writes its own capabilities, remembers across sessions.",
+     "url": "https://github.com/shany9200/Three",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-11-12T07:26+00:00",
+  "window_start": "2026-11-11T19:44+00:00",
+  "window_end": "2026-11-12T07:26+00:00",
+  "candidate_count": 67,
+  "model": "free (no LLM)"
+ }
+}
