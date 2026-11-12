@@ -1,0 +1,571 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Money Was All You Needed: Open AI Research Is Dead and OpenAI Killed It [D]",
+   "summary": "Hey all, it's paper review season, I hope it's going well for you all. I worked in the industry for some time, and recently I've been noticing a fairly persistent shift in the field. In particular, it felt like the body of open research was moving away from the frontier, and the frontier was no\u2026",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xun8kh/money_was_all_you_needed_open_ai_research_is_dead/",
+   "source": "r/MachineLearning"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Money Was All You Needed: Open AI Research Is Dead and OpenAI Killed It [D]",
+     "summary": "Hey all, it's paper review season, I hope it's going well for you all. I worked in the industry for some time, and recently I've been noticing a fairly persistent shift in the field. In particular, it felt like the body of open research was moving away from the frontier, and the frontier was no\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xun8kh/money_was_all_you_needed_open_ai_research_is_dead/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Jensen at Nvidia\u2019s board meeting today",
+     "summary": "submitted by /u/TheNASAguy [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xumnmk/jensen_at_nvidias_board_meeting_today/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Jensen today at Nvidia board meeting",
+     "summary": "submitted by /u/TheNASAguy [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xumhm3/jensen_today_at_nvidia_board_meeting/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Intel Arc Vulkan prefill got a dedicated FA kernel in llama.cpp master",
+     "summary": "We have a new dedicated Vulkan Flash Attention prefill kernel for Intel Arc and Xe, delivering massive prefill acceleration on supported platforms like ARL-H and Xe2/Xe3. This implementation leverages customized shaders to utilize Intel's native matrix core shapes and SLM architecture, including\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xumdj4/intel_arc_vulkan_prefill_got_a_dedicated_fa/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Creating author burdens to reduce paper submissions is STUPID [D]",
+     "summary": "Over the past two years, conferences have been trying to add different administrative nonsense. Initially, it was author/reviewer sign-up, then reciprocal reviewing, and now CVPR has this author enrollment form that freaks everyone out. I get that we're trying to filter out low-quality\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xul9u7/creating_author_burdens_to_reduce_paper/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Gemini 4 Hydrogen and Orchestrator",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50472260",
+     "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "So this will be true in couple of years?",
+     "summary": "I think after jensen they will fully focus on AI compute for data centers submitted by /u/UltramanQuar [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xukt9t/so_this_will_be_true_in_couple_of_years/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Rust 1.100.0",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50471793",
+     "url": "https://github.com/rust-lang/rust/releases/tag/1.100.0",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Show HN: AgentRun \u2013 open-source, Self-improving Managed Agents",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50471650",
+     "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Gemini 4 Hydrogen AA Score",
+     "summary": "submitted by /u/likeastar20 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xuk5sx/gemini_4_hydrogen_aa_score/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Google releases Gemini 4 Hydrogen, its new fast model, at $1.50/$7.50 per million tokens. Compared to 3.8 Flash, it finishes tasks 2.5x faster. 4 thinking levels",
+     "summary": "Ok, so this is what I want from Google! A lot of releases coming from them this week. After making Gemini 4 Carbon available, Google has now released Gemini 4 Hydrogen , its new fast, Flash-like model, at $1.50 per 1M input tokens and $7.50 per 1M output tokens. Model card here\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xujwqq/google_releases_gemini_4_hydrogen_its_new_fast/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Introducing Gemini 4 Hydrogen",
+     "summary": "submitted by /u/AWSGooogle777 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xujw0u/introducing_gemini_4_hydrogen/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Gemini 4 Hydrogen",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50471431",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "New Gemini 4 model",
+     "summary": "submitted by /u/ProxyLumina [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xuioja/new_gemini_4_model/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Does Meta's brain-response model (TRIBE v2) actually recover retinotopy/tonotopy/motion maps? [D]",
+     "summary": "TRIBE v2 predicts fMRI from video/audio/text. Its own paper never tested whether it reproduces classic topographic maps (retinotopy, tonotopy, motion selectivity) \u2014 and its methods section admits video features get spatially averaged before prediction, which should wreck position info. Nobody\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xuillf/does_metas_brainresponse_model_tribe_v2_actually/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "CMP170hx now fully unlockabke and more, full 120 SMs \u2014> Techie uses voltage glitching hack to turn $2,500 Nvidia 8GB cryptomining GPU into a full-fat $20,000 A100 with 80GB of VRAM \u2014 hack carefully\u2026",
+     "summary": "submitted by /u/chemist_slime [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuijih/cmp170hx_now_fully_unlockabke_and_more_full_120/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50470488",
+     "url": "https://github.com/simpsoka/zigzag",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "AWS Lambda Web Functions keep billing memory ~7 minutes after the last request",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50470445",
+     "url": "https://www.easel.sh/blog/lambda-web-functions-idle-memory",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Stanford's Flash ALOHA learns fast, precise robotic manipulation from just 50 demonstrations per task, achieving over 80% success at near-human speed. The system is open source.",
+     "summary": "submitted by /u/141_1337 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xuhko9/stanfords_flash_aloha_learns_fast_precise_robotic/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "China offers Jensen new opportunities",
+     "summary": "submitted by /u/canadianjohnson [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xuhhvn/china_offers_jensen_new_opportunities/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50469994",
+     "url": "https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "qwen3.8-flash shows us a glimpse of whats possible for smaller hardware",
+     "summary": "Normally active params matters more than total param if you want coherent behavior(not world knowledge) a 4b models attepting to handle complex rules and lots and lots of instructions all at once often cause smaller active params to loop like we would often see with qwen3.6-35b-a3b since its only\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xugw1p/qwen38flash_shows_us_a_glimpse_of_whats_possible/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "What if NeurIPS, ICML, and ICLR capped accepted papers at 1,000 each? [D]",
+     "summary": "With submissions to the big three ML conferences increasing rapidly, what if each conference imposed a hard cap of 1,000 accepted papers per year? Would this improve research quality, or simply make acceptance more arbitrary and competitive? submitted by /u/Hope999991 [link] [comments]",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xugl6c/what_if_neurips_icml_and_iclr_capped_accepted/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "r/Singularity Daily Discussion Thread \u2014 November 12, 2026",
+     "summary": "Welcome to the daily r/singularity discussion thread! Use this thread for casual conversations, questions, speculation, AI developments, and anything related to the technological singularity that doesn't necessarily warrant its own post. Please keep discussions civil and follow the subreddit\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xugk71/rsingularity_daily_discussion_thread_november_12/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "How to post an AC-confidential comment on OpenReview for ICLR 2027? [D]",
+     "summary": "Does anyone know the exact steps to leave a comment visible only to the Area Chair (not the reviewers) during the ICLR 2027 discussion period? I see the \"Official Comment\" option, but I'm not sure which visibility/readership setting restricts it to the AC only. Any pointers appreciated. submitted\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xug0ym/how_to_post_an_acconfidential_comment_on/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "United Airlines bans AI agents from booking flights on behalf of travelers",
+     "summary": "submitted by /u/damontoo [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xufw13/united_airlines_bans_ai_agents_from_booking/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "ExcalidrawZ: Local Native Excalidraw on macOS/iOS",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50468944",
+     "url": "https://github.com/chocoford/ExcalidrawZ",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "I'm making LLMs work on small and old devices",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50468888",
+     "url": "https://github.com/hyperionaidev/smolmaxxing/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Fitting Four 32 GB Resizable Bars Behind a PCIe Switch on Linux",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50468720",
+     "url": "https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Flying without knowing how the plane works",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50468101",
+     "url": "https://friendlyai.dev/blog/freeing-your-ai-from-your-computer/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "30 years of Internet transfers with curl",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50467886",
+     "url": "https://daniel.haxx.se/blog/2026/11/11/30-years-of-internet-transfers-with-curl/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Show HN: AI Red Lines \u2013 write down what would make you act on AI",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50467880",
+     "url": "https://yourairedlines.com",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "CVPR 2027 Author enrollment form [D]",
+     "summary": "I just realized that CVPR 2027 requires a separate author enrollment form to be completed by the abstract deadline, in addition to having a complete OpenReview profile. My OpenReview profile was already complete, but I submitted the enrollment form about an hour after the deadline. I hadn\u2019t\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xue879/cvpr_2027_author_enrollment_form_d/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Jensen Huang Resigns",
+     "summary": "submitted by /u/TorturedPoet30 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xudfv3/jensen_huang_resigns/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Nvidia's Jensen Huang Resigns as CEO, Colette Kress Named Interim",
+     "summary": "submitted by /u/ShreckAndDonkey123 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xudeev/nvidias_jensen_huang_resigns_as_ceo_colette_kress/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Jensen Huang resigns",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50467087",
+     "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "UMAP 0.6: new initialization, new optimizers and faster performance [P]",
+     "summary": "UMAP 0.6 is out! A new initialization, new optimizers, and faster nearest neighbour search make UMAP much faster and far better at large scale. On 3 million arXiv papers it finishes in under 5 minutes, before UMAP 0.5 has even found its nearest neighbours. ( race between UMAP0.5 and UMAP 0.6 video\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xudaah/umap_06_new_initialization_new_optimizers_and/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Alleged GeForce RTX 5090 with 96GB listed for sale in China",
+     "summary": "submitted by /u/chemist_slime [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xucffq/alleged_geforce_rtx_5090_with_96gb_listed_for/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "After four years of development, are LLMs capable of writing high-quality prose?",
+     "summary": "I have been following the evolution of LLMs since the days of GPT-3.5, and I have been actively using local LLMs since the release of Gemma 2. I read a great deal, including this subreddit. I have performed QLoRA fine-tuning on my local machine many times, and I have also conducted full\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xub4s2/after_four_years_of_development_are_llms_capable/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Meet the people behind MOSS-Image, plus a few answers from their AMA here",
+     "summary": "They say an anime model is in development, with plans for alpha channels and multi-character references. An editing model is also on the way. They also plan to keep the next model under Apache 2.0, if all goes as planned. submitted by /u/Physical_Hat4022 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuad5c/meet_the_people_behind_mossimage_plus_a_few/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "KQuant - new quantization technique, 3.7\u00d7 better quants for Qwen Flash Next 180B, Qwen 27B, 35B, 9B (measured in KL-divergence reduction) (MLX)",
+     "summary": "hey folks, im Alish, an ml engineer from Nace (folks behind Drex, an open source decision family model that hit #1 in Artificial analysis in decision index 2.1). Recently my cto gave me task to optimize quants for qwen4, so i dialed my uni proffesor from UoT and span up my Fable 5.2 and we\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xu9onk/kquant_new_quantization_technique_37_better/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Why Writing Correct Software Is Hard",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50465352",
+     "url": "https://pron.github.io/posts/correctness-and-complexity",
+     "source": "Hacker News"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Ars Live: Can the cloud survive drone strikes on data centers?",
+     "summary": "A livestream Ars discussion is happening on November 17 at 1 pm Eastern Time.",
+     "url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "No, AI agents did not discover a previously unknown Maya site",
+     "summary": "Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico. There was just one problem: The site had already been discovered and was published in an academic journal last year. The incident, which sparked\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Google\u2019s latest Search upgrade promises better answers to your most complicated questions",
+     "summary": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
+     "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+     "summary": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon.",
+     "url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+     "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
+     "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+     "summary": "",
+     "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+     "source": "Hugging Face Blog"
+    },
+    {
+     "headline": "Jensen Huang\u2019s $470 Billion Affair",
+     "summary": "This week on \u201cUncanny Valley,\u201d the team unpacks the Nvidia CEO\u2019s affair with an alleged Chinese spy and what that means for the AI industry.",
+     "url": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huangs-dollar470-billion-affair/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
+     "summary": "Families confront Google after teen\u2019s lawsuit labels Gemini a \u201csuicide coach.\u201d",
+     "url": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Jensen Huang\u2019s exit puts Nvidia\u2019s support for open source in question",
+     "summary": "Jensen Huang\u2019s resignation raises questions about Nvidia\u2019s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
+     "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Oh, Palantir is \u2018progressive\u2019 now, is it?",
+     "summary": "I had other things to do today, but Alex Karp's pathetic attempt to pivot back to the left gave me no choice but to put them on hold. Last week's elections were a bloodbath for the right, a problem for all the wannabe fash founders who had tied their political fortunes to a \"vibe shift\" [\u2026]",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Google DeepMind Staff Tap the UK Government to Escalate Their Unionization Fight",
+     "summary": "After initial talks stalled, workers at Google DeepMind are trying to bypass company management in their bid to unionize.",
+     "url": "https://www.wired.com/story/google-deepmind-staff-escalate-their-union-fight/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Introducing Gemini 4 Hydrogen",
+     "summary": "",
+     "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+     "source": "Google DeepMind"
+    },
+    {
+     "headline": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+     "summary": "Rotating carousel of cards with text \"Gemini 4 Hydrogen\" \"Now in Google Search\" and examples from the Google Search UI",
+     "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+     "source": "Google AI Blog"
+    },
+    {
+     "headline": "Jensen Huang Basically Lit More Than $1 Trillion on Fire in Less Than a Month",
+     "summary": "Since the scandal involving an alleged Chinese spy began, Nvidia has lost an eye-watering sum from its market value.",
+     "url": "https://www.wired.com/story/jensen-huang-tanked-a-trillion-dollars-in-less-than-a-month/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "The Jensen Huang scandal is hardly over",
+     "summary": "I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof. After all, why wouldn't he be? He's placed himself indispensably at the center of the AI industry and famously had no succession plan at Nvidia. In fact, he's the only CEO Nvidia has ever had. L'\u00e9tat\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang\u2019s exit",
+     "summary": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
+     "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+     "summary": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
+     "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "SoftBank\u2019s billion-dollar loss may have put a cap on AI\u2019s natural gas ambitions",
+     "summary": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
+     "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "AI chatbots are recommending fake retail websites, study finds",
+     "summary": "Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP protection firm Podqi and shared exclusively with The Verge prompted ChatGPT, Gemini, and Perplexity with a handful of\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "More game developers are starting to use generative AI",
+     "summary": "More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming's latest annual industry survey. Forty percent of developers surveyed say they use it \"as part of their job,\" an increase from 36 percent in 2025. Usage was higher\u2026",
+     "url": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+     "summary": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it\u2019s easier for anyone to turn everyday moments into better photos.",
+     "url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Jensen Huang agrees to testify before Congress",
+     "summary": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.",
+     "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Five ways Jensen Huang\u2019s ouster from Nvidia could damage the AI industry",
+     "summary": "Nvidia's ousted CEO Jensen Huang's downfall isn\u2019t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
+     "url": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Jensen Huang is out. What did China want from him?",
+     "summary": "Today, we\u2019re talking about the Jensen Huang scandal at Nvidia, which is developing so quickly that we had to do an emergency update of this intro minutes before publishing this episode. Huang just resigned from his position as CEO of Nvidia as news of his affairs, including with an alleged Chinese\u2026",
+     "url": "https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Trump floats Apple chairman Tim Cook as Jensen Huang\u2019s successor",
+     "summary": "In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook.",
+     "url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Read Nvidia\u2019s internal emails about the \u2018extraordinarily difficult period\u2019 amid CEO shakeup",
+     "summary": "Jensen Huang resigned as CEO of Nvidia this morning, a company he co-founded in 1993. The decision came following the company's board opening an investigation into multiple extramarital affairs Huang had with a direct report and an alleged Chinese spy. The new, and first, Chair of the Board,\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Jensen Huang is out at Nvidia \u2014 who is Colette Kress, his interim replacement?",
+     "summary": "Nvidia CFO Colette Kress is taking over as an interim replacement for longtime CEO Jensen Huang, who is embroiled in scandal.",
+     "url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Norwest pushes deeper into AI with new $4B fund",
+     "summary": "This is the investment firm's largest fund to date.",
+     "url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Cyberattack on Fireworks AI allowed hackers to access Notion customers\u2019 chat transcripts",
+     "summary": "This is Fireworks' second data breach in as many months.",
+     "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
+     "summary": "The first Gemini smartglasses are a collab between Google, Samsung, Gentle Monster, and Warby Parker.",
+     "url": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "The unfolding Jensen Huang scandal: a timeline",
+     "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+     "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Meet Colette Kress, Nvidia\u2019s New Interim CEO",
+     "summary": "Nvidia\u2019s longtime chief financial officer helped transform the company into an AI powerhouse. Now she\u2019s taking the reins following Jensen Huang\u2019s resignation on Thursday.",
+     "url": "https://www.wired.com/story/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "I reviewed the Apple HomeView, ask me anything",
+     "summary": "Hi! I'm Jen Tuohy, The Verge's senior smart home reviewer. I've tested every smart display Amazon and Google have ever made, and for the past week I've been testing Apple's first: The $299 HomeView. I put the tabletop and wall-mounted versions through their paces, on my kitchen counter, bedside\u2026",
+     "url": "https://www.theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "A New Dawn in the Cloud: \u2018Warhammer 40,000: Dawn of War IV\u2019 Is Coming to GeForce NOW",
+     "summary": "Rally the ranks this GFN Thursday. Warhammer 40,000: Dawn of War IV is coming to GeForce NOW, allowing players to experience the battle for Kronus through cloud gaming. There\u2019s more on the horizon, with NVIDIA DLSS 5 technology coming to War Thunder and Where Winds Meet. Meanwhile, Dragon\u2019s Dogma\u2026",
+     "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/",
+     "source": "NVIDIA Blog"
+    },
+    {
+     "headline": "Jensen Huang Resigns as Nvidia CEO",
+     "summary": "Nvidia\u2019s cofounder and chief executive resigned on Thursday after the company opened an investigation into his affair with an alleged Chinese intelligence asset.",
+     "url": "https://www.wired.com/story/nvidia-ceo-jensen-huang-steps-down/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Nvidia CEO Jensen Huang resigns amid spy, affair scandals",
+     "summary": "Nvidia's board announced that Jensen Huang - its longtime co-founder, president, and CEO - has resigned after reports of two extramarital affairs, one with an alleged Chinese spy and one with an Nvidia executive who reported to Huang. Following a late Wednesday night meeting, the board accepted\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1031689/jensen-huang-nvidia-ceo-resigns",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Nine Korean startups vie for a spot in Disrupt 2027\u2019s Startup Battlefield 200 competition",
+     "summary": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the U.S.",
+     "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Alex Karp Said He\u2019s a \u2018Progressive.\u2019 OK! Here\u2019s Some Other Stuff He\u2019s Said Recently",
+     "summary": "The Palantir CEO touted his \u201cprogressive\u201d worldview in a recent interview. Let\u2019s see how that lines up with his comments during the company\u2019s earnings call two weeks ago.",
+     "url": "https://www.wired.com/story/alex-karp-said-hes-a-progressive-ok-heres-some-other-stuff-hes-said-recently/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Google Wanted Spirit Airlines Data. Flight Attendants Found a Way to Opt Out",
+     "summary": "The union representing flight attendants for the defunct airline struck a deal with Google to scrub sensitive employee records from a $10 million data sale.",
+     "url": "https://www.wired.com/story/google-wanted-spirit-airlines-data-flight-attendants-found-a-way-to-opt-out/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Holiday Extras is rethinking what it can build with Codex",
+     "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+     "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+     "source": "OpenAI Blog"
+    }
+   ],
+   "influencer_takes": [],
+   "research_radar": [
+    {
+     "headline": "My Barcelona talk on AI",
+     "summary": "The post My Barcelona talk on AI appeared first on Marginal REVOLUTION .",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/my-barcelona-talk-on-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=my-barcelona-talk-on-ai",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Thursday assorted links",
+     "summary": "1. New Texas A&M podcast: Economists Unscripted. 2. A new tool for AI-proof homework assignments. \u201cIt\u2019s called https://deb8.tv \u2014 students get paired and have live video debates with one another.\u201d 3. \u201cThe average French person believes there are 6.4 workers for every retiree. The real number is\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/thursday-assorted-links-578.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-578",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "To the man with AI, everything looks like a task",
+     "summary": "Real* quote from Charlie Munger - lightly modernised :)",
+     "url": "https://www.bensbites.com/p/to-the-man-with-ai-everything-looks",
+     "source": "Ben's Bites"
+    },
+    {
+     "headline": "The Everywhere Rent Seekers",
+     "summary": "Zidar and Zwick have a good post on the political power of billionaires versus the power of many millionaires, based on their excellent book The Everywhere Millionaire. First, they point out that despite the attention given to (some days) trillionaires and billionaires, the combined wealth of the\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/the-everywhere-rent-seekers.html?utm_source=rss&utm_medium=rss&utm_campaign=the-everywhere-rent-seekers",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "An Interview With Roblox CEO David Baszucki About Aggregating Play",
+     "summary": "An interview with Roblox CEO David Baszucki about how AI is transforming game creation, and why that opens up huge opportunities to both enable developers and make Roblox both an Aggregator and a platform.",
+     "url": "https://stratechery.com/2026/an-interview-with-roblox-ceo-david-baszucki-about-aggregating-play/",
+     "source": "Stratechery"
+    },
+    {
+     "headline": "USG assets are worth less than Arnold Kling had thought",
+     "summary": "Federal oil and gas rights are worth about $625 billion on the paper\u2019s own method, down 75% in real terms since 1981. Federal land has gone the other way, to roughly $1.1 trillion to $1.6 trillion. Land, not minerals, is now the larger asset. Here is the full post. The post USG assets are worth\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/usg-assets-are-worth-less-than-arnold-kling-had-thought.html?utm_source=rss&utm_medium=rss&utm_campaign=usg-assets-are-worth-less-than-arnold-kling-had-thought",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "8hjkkwikl8/ai-portfolio: \u4e09\u4e2a\u53ef\u8fd0\u884c\u7684 AI \u5de5\u7a0b\u9879\u76ee\uff1a\u53ef\u8ffd\u6eaf RAG\u3001\u63d0\u793a\u8bcd\u8bc4\u6d4b\u4e0e\u53d7\u5b88\u62a4\u7684 NL2SQL \u5206\u6790",
+     "summary": "\u4e09\u4e2a\u53ef\u8fd0\u884c\u7684 AI \u5de5\u7a0b\u9879\u76ee\uff1a\u53ef\u8ffd\u6eaf RAG\u3001\u63d0\u793a\u8bcd\u8bc4\u6d4b\u4e0e\u53d7\u5b88\u62a4\u7684 NL2SQL \u5206\u6790",
+     "url": "https://github.com/8hjkkwikl8/ai-portfolio",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "pktq/lasik: BLA blinds your agent. LASIK gives it its sight back. Static de-blinding CLI + MCP server that undoes BLA (Blind LLM Agents) hardening so coding agents and REA can read the real code\u2026",
+     "summary": "BLA blinds your agent. LASIK gives it its sight back. Static de-blinding CLI + MCP server that undoes BLA (Blind LLM Agents) hardening so coding agents and REA can read the real code again. Never executes the target.",
+     "url": "https://github.com/pktq/lasik",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-11-12T20:09+00:00",
+  "window_start": "2026-11-12T07:26+00:00",
+  "window_end": "2026-11-12T20:09+00:00",
+  "candidate_count": 90,
+  "model": "free (no LLM)"
+ }
+}
