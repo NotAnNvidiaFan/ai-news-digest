@@ -1,0 +1,523 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Weight Space Programming for Quantization: Nace quants achieve up to 2x better KL divergence for Qwen 9B, 27B, 35B & Flash Next [GGUF]",
+   "summary": "hey llamas, its Alish from nace.ai (open source ai lab behind #1 decision model on latest Artificial Analysis decision index v2.1) & Kapitsa (optimized inference for apple silicon). As promised in the last post , we are releasing the GGUF weights based on the Nace quantization of Qwen 9B, 27B, 35B\u2026",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvh4ag/weight_space_programming_for_quantization_nace/",
+   "source": "r/LocalLLaMA"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Weight Space Programming for Quantization: Nace quants achieve up to 2x better KL divergence for Qwen 9B, 27B, 35B & Flash Next [GGUF]",
+     "summary": "hey llamas, its Alish from nace.ai (open source ai lab behind #1 decision model on latest Artificial Analysis decision index v2.1) & Kapitsa (optimized inference for apple silicon). As promised in the last post , we are releasing the GGUF weights based on the Nace quantization of Qwen 9B, 27B, 35B\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvh4ag/weight_space_programming_for_quantization_nace/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "OpenAI disbands its stand-alone robotics team as its general-purpose AI models start running robots",
+     "summary": "That was quick. submitted by /u/NowThatsMalarkey [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xvgyfd/openai_disbands_its_standalone_robotics_team_as/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Four frontier models scored 97.8\u2013100 on a 7-part materials-science research test. How should we score long-horizon agent evals instead? [d]",
+     "summary": "I work in graphene and 2D materials, and I built a test of the everyday technical work in a research group. It has seven parts: reducing a messy tensile data set against a lab SOP (with unit and outlier traps), writing a CIF density function checked on three hidden structures, four\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xvgf6h/four_frontier_models_scored_978100_on_a_7part/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "The avalanche that hit math is coming for AI development",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50487854",
+     "url": "https://www.dwarkesh.com/p/rsi",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Nvidia should hire Lisa. AMD should hire Jensen. Both win. We all win. AI bubble cancelled.",
+     "summary": "submitted by /u/GamingDisruptor [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xvf4gd/nvidia_should_hire_lisa_amd_should_hire_jensen/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "With a tiny 5.46M-parameter touch model called LingBot-Touch, not a frontier LLM, these robot hands poke a straw through a cup's sealed lid, turn a single page and pull one cup off a stack,\u2026",
+     "summary": "submitted by /u/Puzzleheaded-Buy3008 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xvefqg/with_a_tiny_546mparameter_touch_model_called/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "AI unlocks G\u00f6del's notebooks, said to contain hundreds of proved theorems",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50486748",
+     "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "DeepSeek flash max is the first model to reach >1% on challenging SWE-sweep bug finding benchmark",
+     "summary": "Hi, I've just updated the SWE-sweep leaderboard with more open-weight models! DeepSeek v4.1 flash (max) is the first open-weight model we evaluated that gets >1%. This benchmark is extremely challenging: Models get a snapshot of a (potentially very large) repo containing hundreds of bugs. They\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvcgxq/deepseek_flash_max_is_the_first_model_to_reach_1/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Some Benchmarks Where Humans Still Beat Frontier LLMs",
+     "summary": "ClockBench : reading analog clocks. Humanity's Sixth Sense : intuitive physical reasoning and common-sense understanding of real-world events ActiveVision : interactive visual reasoning through active observation and spatial problem-solving submitted by /u/Waiting4AniHaremFDVR [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xvcg52/some_benchmarks_where_humans_still_beat_frontier/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Scaling to 1T MoE on TorchTitan [P]",
+     "summary": "Hi everyone! Over the last few months we've been in the trenches with the TorchTitan and PyTorch maintainers, trying to find out how far GH200 (the GPUs inside the JUPITER supercomputer) can be pushed. Short answer: far enough to train a ~1T-parameter MoE at ~1,300 tokens/s per GPU on 384 GPUs.\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xvce5h/scaling_to_1t_moe_on_torchtitan_p/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+     "summary": "\"Foster told MIT Technology Review he intends to introduce new, stricter legislation in the new year that would offer a workaround. The new rule would require licenses to operate advanced GPUs, and before a GPU could connect, its valid license would need to be verified. \" Basically they will lock\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvcbbh/nvidia_privately_confirmed_it_could_track_chips/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I noticed the 2 Hessian Refinement of MACaQ can be applied to any GGUF without any patches ... and tried it. 13% better quants",
+     "summary": "TLDR: Qwen3.8-27B UD_4_XL quant with 13.23% less KL divergence than unsloth (on my small testset, I just have a single 5090, feel free to test more). Technically it performs 4% better on my LiveCodeBench benchmark (but that would be a single data point, so it's not super-reliable). It is equally\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvbqqa/i_noticed_the_2_hessian_refinement_of_macaq_can/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "r/Singularity Daily Discussion Thread \u2014 November 13, 2026",
+     "summary": "Welcome to the daily r/singularity discussion thread! Use this thread for casual conversations, questions, speculation, AI developments, and anything related to the technological singularity that doesn't necessarily warrant its own post. Please keep discussions civil and follow the subreddit\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xvbofy/rsingularity_daily_discussion_thread_november_13/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Qwen3.5-9B running on a PS4\u2019s GPU, offline, using its own MTP head for speculative decoding",
+     "summary": "I made this, so a quick note: it\u2019s my open-source project. Qwen3.5-9B runs on a stock PS4 at 31\u201339 tok/s. The MTP head that ships with Qwen3.5 made the biggest difference: it drafts up to two tokens and the full model checks them in one pass, which took it from 22 to 31\u201339 tok/s on this old GPU.\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvbn2m/qwen359b_running_on_a_ps4s_gpu_offline_using_its/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "e-means: 10x faster k-means at equal loss",
+     "summary": "submitted by /u/techmago [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvbith/emeans_10x_faster_kmeans_at_equal_loss/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "ASUS teases their first humanoid robot",
+     "summary": "submitted by /u/Distinct-Question-16 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xvbhjz/asus_teases_their_first_humanoid_robot/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Look what my son gave me!",
+     "summary": "I told my son I was playing around with local AI on a 3090. He told me he used to mine Ethereum and had a shed full of 3090's. He asked me if I wanted a couple. Ummm... let me think about it... OH YES I DO! Now a few new fans and a bit of a clean-up... grab a couple risers and a power supply...\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvbcfp/look_what_my_son_gave_me/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50484960",
+     "url": "https://text.npr.org/nx-s1-6029408",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "CXMT almost tripling RAM production from 2025 to 2028",
+     "summary": "According to post CXMT projected expansion plans grow from 405 kwpm in 2025 to 1,125 kwpm by 2028 in 8-inch equivalents. https://preview.redd.it/4zifixg4de1i1.png?width=1055&format=png&auto=webp&s=ef4cea6e31aeb4c907101d751cf936021a30d0fd https://x.com/OptionKing666/status/2121227756185010181 With\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvam8o/cxmt_almost_tripling_ram_production_from_2025_to/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "AI startup says it took just 3 hours to recreate a safer replacement for an allergy drug withdrawn over dangerous heart effects. Now it's attempting to make an existing cancer drug safer without\u2026",
+     "summary": "submitted by /u/141_1337 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xvakh7/ai_startup_says_it_took_just_3_hours_to_recreate/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Jonathan Blow \u2013 If AI Solved Coding, Why Is My Software Still the Same? [video]",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50484658",
+     "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Huang: The Game",
+     "summary": "submitted by /u/icompletetasks [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xva8yj/huang_the_game/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Amodei Says AI Will Cure Cancer in a Decade. Doctors Are Skeptical",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50484110",
+     "url": "https://www.businessinsider.com/dario-amodei-anthropic-cancer-cure-ipo-roadshow-backlash-doctors-2026-11",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Lonewolf 0.3 \u2013 A standalone XMPP server written in Rust",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50484007",
+     "url": "https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "llama.cpp v1.0 is here \ud83e\udd99",
+     "summary": "Hey folks, it's Merve from Hugging Face. Today, llama.cpp releases v1! Moving forward, we\u2019ll keep covering every platform and every model type, while keeping llama.cpp robust and lean for downstream applications that build on it. While I'm here, want to announce that we've been shipping Llama\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xv8t2e/llamacpp_v10_is_here/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Jensen Huang Admitted He Was Facing an \"Avalanche\" of Excess Wafers and Memory",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50482992",
+     "url": "https://respawnfirst.com/before-resigning-jensen-huang-admitted-he-was-facing-an-avalanche-of-excess-wafers-and-memory-new-report-sheds-more-light-on-the-gpu-ram-crisis/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Perplexity releases Decider v1.3 (26B) and Decider Flash v1.3 (5B): open-weight (Apache 2.0) classification/decision models",
+     "summary": "Perplexity has released two new \"decision models.\" These are general-purpose classifiers built from generative LLM backbones. You give them an input (the \"state\") and one or more questions, and they return a probability distribution over the answer options. They don't generate text token by token.\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xv7fku/perplexity_releases_decider_v13_26b_and_decider/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Show HN: Reflota \u2013 Open-source data recovery for NTFS/FAT disks with phased copy",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50482455",
+     "url": "https://github.com/Christ10-8/reflota",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Study Hard, Get a Career, Get Ahead? It's Not What It Used to Be",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50482175",
+     "url": "https://www.nytimes.com/2026/11/13/world/europe/education-meritocracy.html",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Europe's electric car sales jump 49% as global EV sales grow",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50482045",
+     "url": "https://electrek.co/2026/11/11/europes-electric-car-sales-jump-49-as-global-ev-sales-grow/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "AI is destroying the trust between writers and readers",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50481870",
+     "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Paid surveys for Machine Learning Scientists for SnorkelAI: Absolutely not worth it [R]",
+     "summary": "I am here writing about my experience with this. I was contacted to fill out a paid survey for SnorkelAI because I have a PhD and have published at A* conferences in the field, so this might be relevant for other researchers in the community. After not finding a lot of information, I decided to\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xv4rjy/paid_surveys_for_machine_learning_scientists_for/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Jensen distracted by the Woman in Red while Trump explains the Matrix",
+     "summary": "submitted by /u/AlexeyAnshakov [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xv4qvh/jensen_distracted_by_the_woman_in_red_while_trump/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Open weights: ParaTrace v8 (RAID-tuned), 5th on the RAID leaderboard (TPR at 1% FPR) [R]",
+     "summary": "Open weights: ParaTrace v8 (RAID-tuned), 5th on the RAID leaderboard (TPR at 1% FPR) - Ettin-1B encoder (ModernBERT architecture), 512-token windows - Fine-tuned on RAID's training split, then a hard-example round - RAID hidden test set: TPR 99.20% at 1% FPR, 99.76% at 5% FPR (99.43% at 1% without\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xv4ldx/open_weights_paratrace_v8_raidtuned_5th_on_the/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Polymarket has google as the owner of the best AI model by the end of the month and year",
+     "summary": "submitted by /u/WillGetBannedSoonn [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xv4g1n/polymarket_has_google_as_the_owner_of_the_best_ai/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Claude Is Down",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50481220",
+     "url": "https://status.claude.com/history",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50481187",
+     "url": "https://status.claude.com/incidents/nn11wk485zfn",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Claude AI Is Down",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50480941",
+     "url": "https://news.ycombinator.com/item?id=50480941",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Claude OAuth Failures",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50480936",
+     "url": "https://news.ycombinator.com/item?id=50480936",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Tell HN: Claude Code Is Down",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50480909",
+     "url": "https://news.ycombinator.com/item?id=50480909",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Is there a 'right amount' of AI?",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50480659",
+     "url": "https://coyotetracks.org/blog/right-amount-of-ai/",
+     "source": "Hacker News"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
+     "summary": "The company says a bad update\u2014not a cyberattack or AI\u2014caused its servers around the world to crash.",
+     "url": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "How Microcredentials Help Engineers Build Trustworthy AI",
+     "summary": "Engineering teams are moving at breakneck speed to integrate artificial intelligence, but they are running into a formidable new barrier: compliance issues. Translating high-level AI ethics , governance , and auditing into daily operational workflows has become one of the industry\u2019s toughest\u2026",
+     "url": "https://spectrum.ieee.org/microcredentials-trustworthy-ai",
+     "source": "IEEE Spectrum AI"
+    },
+    {
+     "headline": "Export-banned Nvidia chips are behind China\u2019s most powerful AI models \u2014 uh oh, Jensen!",
+     "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+     "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+     "summary": "",
+     "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+     "source": "Hugging Face Blog"
+    },
+    {
+     "headline": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+     "summary": "Researcher traces a path from AI reward hacking to potential human extinction.",
+     "url": "https://arstechnica.com/features/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "XYBench: Helping with the problem behind the question",
+     "summary": "",
+     "url": "https://huggingface.co/blog/allenai/xybench",
+     "source": "Hugging Face Blog"
+    },
+    {
+     "headline": "Cuttlefish on Mac: Running Android\u2019s Virtual Device Framework Natively on Apple Silicon",
+     "summary": "How Meta's Reality Labs brought Cuttlefish and its QEMU backend to macOS and Apple silicon. [...] Read More... The post Cuttlefish on Mac: Running Android\u2019s Virtual Device Framework Natively on Apple Silicon appeared first on Engineering at Meta .",
+     "url": "https://engineering.fb.com/2026/11/13/android/cuttlefish-on-mac/",
+     "source": "Meta Engineering"
+    },
+    {
+     "headline": "ChatGPT\u2019s new Wallet lets AI agents shop and check out for you",
+     "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+     "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Jensen Huang and the End of the Founder Fairy Tale",
+     "summary": "The former tech CEO is obsessed with the power of storytelling. But he hasn't spun his way out of his sex scandals.",
+     "url": "https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "The unfolding Jensen Huang scandal: a timeline",
+     "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+     "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Introducing ChatGPT Wallet",
+     "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+     "url": "https://openai.com/index/introducing-chatgpt-wallet",
+     "source": "OpenAI Blog"
+    },
+    {
+     "headline": "What\u2019s really at stake in the Jensen Huang saga",
+     "summary": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia's dealings in China, about the US\u2026",
+     "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "ElevenLabs\u2019 new app combines meeting note-taking and dictation for teams",
+     "summary": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
+     "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+     "summary": "",
+     "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+     "source": "Hugging Face Blog"
+    },
+    {
+     "headline": "Claude\u2019s Duet agent is a little neurotic and surprisingly helpful",
+     "summary": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
+     "summary": "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients. Health systems and startups are putting it to work across healthcare, from matching patients to clinical trials to supporting radiologists, hospital teams and patients\u2026",
+     "url": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/",
+     "source": "NVIDIA Blog"
+    },
+    {
+     "headline": "Israel\u2019s VCs see opportunity for challengers in Nvidia\u2019s turmoil",
+     "summary": "Given Nvidia\u2019s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
+     "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Jensen Huang didn\u2019t show confidence in his successor, report says",
+     "summary": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
+     "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Let\u2019s talk about Jensen Huang\u2019s many affairs!",
+     "summary": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concerned we are approaching an affair\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
+     "summary": "Mansa says its AI microdramas can serve as proofs of concept for what Black audiences want. Critics say the studio is selling out.",
+     "url": "https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/",
+     "source": "Wired AI"
+    }
+   ],
+   "influencer_takes": [],
+   "research_radar": [
+    {
+     "headline": "Are we witnessing an intelligence explosion?",
+     "summary": "From Luis Garicano and Alex Imas: Hence AI capabilities improved 1.91 times faster after October 2025, but R&D spending grew 6.19 times and the technical workforce 3.10 times. So measured capability gains per dollar fell by approximately 69%, and measured gains per technical employee-year\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/are-we-witnessing-an-intelligence-explosion.html?utm_source=rss&utm_medium=rss&utm_campaign=are-we-witnessing-an-intelligence-explosion",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "2026.46: The End of Jensen",
+     "summary": "The best Stratechery content from the week of November 9, 2026, including the shocking demise of Jensen Huang; enterprise, consumer and Intel; and professional basketbal.",
+     "url": "https://stratechery.com/2026/the-end-of-jensen/",
+     "source": "Stratechery"
+    },
+    {
+     "headline": "Friday assorted links",
+     "summary": "1. Peru cancels the Moche sculptures for obscenity? 2. Claude translates from The Kalevela. 3. David Chalmers on AI speed-ups. 4. Cass Sunstein picks Bob Dylan\u2019s best songs. 5. \u201cHobby dogging\u201d? 6. Argentina worries and updates. 7. Jon Hartley podcast with James Heckman. 8. The world without\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/friday-assorted-links-599.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-599",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "PrathmeshYa/ai--manus: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "url": "https://github.com/PrathmeshYa/ai--manus",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "ITprogamatikDedSec/ai--manus: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "url": "https://github.com/ITprogamatikDedSec/ai--manus",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "qweqeqeqweqeqwe/manus--ai: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "url": "https://github.com/qweqeqeqweqeqwe/manus--ai",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "Redderz-code/manus--ai: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "url": "https://github.com/Redderz-code/manus--ai",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "mtn-imran-khan/manus--ai: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "url": "https://github.com/mtn-imran-khan/manus--ai",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "lebronstx-collab/manus--ai: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "url": "https://github.com/lebronstx-collab/manus--ai",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "arberpilafi8-blip/ai--manus: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "url": "https://github.com/arberpilafi8-blip/ai--manus",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "python001-dev/manus--ai: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "url": "https://github.com/python001-dev/manus--ai",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "lloweryfn-rgb/ai--manus: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "url": "https://github.com/lloweryfn-rgb/ai--manus",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "eagrafki-byte/ai--manus: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "url": "https://github.com/eagrafki-byte/ai--manus",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "WLfear/manus--ai: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "url": "https://github.com/WLfear/manus--ai",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "Obasideyvid/manus--ai: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "url": "https://github.com/Obasideyvid/manus--ai",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "agdinis/ai--manus: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "url": "https://github.com/agdinis/ai--manus",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "Ronni35/ai--manus: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "url": "https://github.com/Ronni35/ai--manus",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "The Economics of Rent Controls",
+     "summary": "I appear on Ryan Bourne\u2019s excellent new podcast, The Economics of It. We discuss The Economics of Rent Controls drawing on my essay, Rent Control: The Ceiling Trap. It\u2019s a very good discussion. Here\u2019s one bit (edited slightly to remove some ums for reading and to fix a date I got wrong from\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/the-economics-of-rent-controls.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-rent-controls",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Outlook email is still down",
+     "summary": "And GMU is on the Outlook system. If you need to reach me, you can extrapolate my gmu address to my gmail address, or try Twitter, or use your imagination in other ways. Sorry for the inconvenience! (Although it seems my Outlook system just opened up, albeit with an incomplete email delivery so\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/outlook-email-is-still-down.html?utm_source=rss&utm_medium=rss&utm_campaign=outlook-email-is-still-down",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "[AINews] Jensen Huang resigns after 33 years leading NVIDIA",
+     "summary": "November 12, 2026 \u2014 Colette Kress takes over as interim CEO. What happens to open source/American AI leadership?",
+     "url": "https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "The U.S. Federal AI Observatory",
+     "summary": "Federal AI at a glance 41 agencies \u00b7 3,611 reported use cases \u00b7 OMB 2025 Inventory. Portfolio size reflects reporting, not performance. From Irakli Petriashvili of Tblisi, here is the site. The post The U.S. Federal AI Observatory appeared first on Marginal REVOLUTION .",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/the-u-s-federal-ai-observatory.html?utm_source=rss&utm_medium=rss&utm_campaign=the-u-s-federal-ai-observatory",
+     "source": "Marginal Revolution"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-11-13T19:53+00:00",
+  "window_start": "2026-11-13T06:58+00:00",
+  "window_end": "2026-11-13T19:53+00:00",
+  "candidate_count": 82,
+  "model": "free (no LLM)"
+ }
+}
