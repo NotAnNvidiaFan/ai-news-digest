@@ -1,0 +1,454 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Anybody have any idea what model \"Pumpkin Wombat\" is? I've been seeing it a lot on arena.ai and it's very impressive at image editing.",
+   "summary": "See title. submitted by /u/Earthling_Aprill [link] [comments]",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/artificial/comments/1xv0zh4/anybody_have_any_idea_what_model_pumpkin_wombat/",
+   "source": "r/artificial"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Anybody have any idea what model \"Pumpkin Wombat\" is? I've been seeing it a lot on arena.ai and it's very impressive at image editing.",
+     "summary": "See title. submitted by /u/Earthling_Aprill [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xv0zh4/anybody_have_any_idea_what_model_pumpkin_wombat/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Claude can now take notes in Google Meet, with auto-join for recurring calls",
+     "summary": "Anthropic began rolling out Claude Meetings to Team and Enterprise accounts on November 12, 2026. Claude shows up as a participant in Google Meet and can take notes and build a document during the call. Anthropic says to check that everyone is okay with transcription before adding Claude. On Team,\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xv0hd3/claude_can_now_take_notes_in_google_meet_with/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "How to make a Legora-style legal conflict detector tool using only NLI and encoder models [P]",
+     "summary": "Hey r/learnmachinelearning ! I\u2019m Tabs, a legal engineer at Isaacus. Still getting better at machine learning things but here we go. I built an open-source legal conflict detector that finds deviations and gaps between pairs of legal documents using only encoder models and natural language\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xuzv6d/how_to_make_a_legorastyle_legal_conflict_detector/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Do data centres have feeling \ud83e\udd40 \ud83e\udd40 \ud83e\udd40 \ud83e\udd40 \ud83e\udd40",
+     "summary": "submitted by /u/VariationLivid3193 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xuysf6/do_data_centres_have_feeling/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "US intel isn\u2019t sure if businesswoman spied on Nvidia for China, doesn\u2019t mean she wasn\u2019t a risk, sources say",
+     "summary": "https://www.cnn.com/2026/11/12/politics/alice-huang-us-intel-jensen-huang-nvidia?cid=ios_app What a sudden 180 turn just hours after Jensen resigning. The whole thing went from NYT\u2019s shocking article of \u201cJensen was sleeping with a Chinese spy\u201d to \u201cWe don\u2019t know if she\u2019s a spy, but she could be\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xuydzd/us_intel_isnt_sure_if_businesswoman_spied_on/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Former US AI Czar David Sacks says there\u2019s no evidence that Alice Huang was a Chinese Spy",
+     "summary": "https://fixupx.com/DavidSacks/status/2121070881258504395 CNN article making the same argument https://fixupx.com/NatashaBertrand/status/2121009555303759969 submitted by /u/Eliv_nurotic [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xuy74i/former_us_ai_czar_david_sacks_says_theres_no/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "\u2018Bring Back THE Boss\u2019: Nvidia Employees Petition for Jensen Huang\u2019s Return",
+     "summary": "A second Sam Altman moment? submitted by /u/f1yingbanana [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuxxmb/bring_back_the_boss_nvidia_employees_petition_for/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "A100 prices down 20-30% since my post about them collapsing",
+     "summary": "I guess a lot of sellers are realizing that its better to price competitively and get rid of their supply rather than wait to slowly sell and potentially get caught in a collapse. Rubin and blackwell are already 3-4x more efficient per watt with way more financing available. The A100s cant be used\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuxbeb/a100_prices_down_2030_since_my_post_about_them/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "US intel isn\u2019t sure if businesswoman spied on Nvidia for China, doesn\u2019t mean she wasn\u2019t a risk, sources say",
+     "summary": "they do not even know if she was a spy, a year after this chase is going on about her, Jensen should not have resigned! from that article: The FBI has been investigating Huang\u2019s affair for at least a year. But Attorney General Todd Blanche said on Thursday that there are still \u201cno conclusions\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuwf9w/us_intel_isnt_sure_if_businesswoman_spied_on/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I built tamserve to make real-time video tracking 2x cheaper [P]",
+     "summary": "SAM 2-style trackers (SAM 2.1, EdgeTAM) are more accurate and flexible than box trackers: point at anything once and get its exact outline on every frame. But on live cameras they're expensive, and Meta's code keeps every frame it sees, so it runs out of GPU memory within minutes. tamserve shares\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xuvxke/i_built_tamserve_to_make_realtime_video_tracking/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "NYC Council passes ban on 'surveillance pricing'",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50477155",
+     "url": "https://gothamist.com/news/nyc-council-passes-ban-on-surveillance-pricing-that-relies-on-personal-data",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Stories coming out about Jensen",
+     "summary": "submitted by /u/Charuru [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuvexw/stories_coming_out_about_jensen/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Edge0-145B: Open-Source On-Device AI with 145B Parameters",
+     "summary": "submitted by /u/BrightCandle [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuuq0b/edge0145b_opensource_ondevice_ai_with_145b/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "AI for beginners",
+     "summary": "What confused you most when you started learning AI? I work in IT and kept finding explainers that assume you already know the jargon, so I\u2019m writing an illustrated guide for complete beginners. Here\u2019s one diagram from it: AI contains machine learning, which contains deep learning, and chatbots\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xuuh4n/ai_for_beginners/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Chicago schools to Google \u2013 we'd rather lose Search than be forced to accept AI",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50476586",
+     "url": "https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "I need feedback on this architecture for amodal raster-to-vector using a hybrid approach. [D]",
+     "summary": "I am the maintainer of Inkvec, a open-source raster-to-vector tracer for logos and icons (see: github.com/logolabs/inkvec ). Right now the main issue with Inkvec is that it uses MDL in order to select nodes, plus it only creates jigsaws, failing to do amodal infilling so that it can complete what\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xutg9v/i_need_feedback_on_this_architecture_for_amodal/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang's exit",
+     "summary": "context : Nvidia buy HF, but now there uncertainty about it hf future under new leadership, he try reassurance people on x, but from his word itself sound not good, see and wait, but better backup you favorite datashet/model (again) just in case submitted by /u/Merchant_Lawrence [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xut4o7/hugging_face_ceo_vows_to_keep_fighting_for_open/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Startup unveils Thorsten-4, an AI trained on 35 million psychologist-labeled words from 7,000+ people to predict their motivations, decisions and future behavior across 50 psychological traits \u2014\u2026",
+     "summary": "submitted by /u/141_1337 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xuswgk/startup_unveils_thorsten4_an_ai_trained_on_35/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Lawyer with too many GPUs, part 5: DeepSeek-V4.1-Flash at near-NVFP4 quality on eight V100s from 2018. 524K context, 100+ tok/s decode, ~160 tok/s with two chats at once, and my legal harness now\u2026",
+     "summary": "From about February 2026 to July 2026, I spent an immense amount of time building a legal harness to make Claude more predictable. It worked well. I tried to build the same thing that ran local models. That did not work. And then Opus improved so much that it would often skip my harness without me\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xus81t/lawyer_with_too_many_gpus_part_5_deepseekv41flash/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Why You Should Expect an AI Crash",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50475735",
+     "url": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50475713",
+     "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Used datacenter/workstation GPU prices on eBay this week, ranked by $/GB of VRAM",
+     "summary": "edit: I am a moron with reddit formatting hang tight I've been tracking ebay listings that ship to the US for the GPUs people here actually buy, ranked by $/GB of VRAM. here's today's snapshot: Card Low end US-only low end Low-end $/GB Bandwidth $ per GB/s Tesla P100 16GB $174 $159 $10.88 732 GB/s\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xur9ud/used_datacenterworkstation_gpu_prices_on_ebay/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "So many comments here aged like milk, turns out Alex was right about the smuggling?",
+     "summary": "submitted by /u/Expensive_Try_3028 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xur7ie/so_many_comments_here_aged_like_milk_turns_out/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Per ex OpenAI researcher, DeepSeek, Kimi, MiniMax, Ling models are all trained on Nvidia chips",
+     "summary": "submitted by /u/FateOfMuffins [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xur25o/per_ex_openai_researcher_deepseek_kimi_minimax/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "The AI built an accurate map of the scene, then answered without it",
+     "summary": "I tested whether an AI \"pictures\" what it reads. It does build a map inside, but it answers with a shortcut instead, and the map it ignores would have been right more often (80% vs 73%). Demo and summary: https://ccgomezn.github.io/geometry-llm/ submitted by /u/Cristhian-AI-Math [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xuqt9a/the_ai_built_an_accurate_map_of_the_scene_then/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Gemma 3 builds a linearly decodable spatial map from text, but its answers never read it [R]",
+     "summary": "Independent, preregistered study on Gemma 3 (12B/27B) with text-only layouts like \"A is 3 north of B, C is 2 east of A\". - Probes read every object's position, even ones that need two sentences combined (R\u00b2 0.74). - Erasing that map costs no more than erasing random directions. The answers never\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xuqs9d/gemma_3_builds_a_linearly_decodable_spatial_map/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "thinkingmachines/Inkling-2-Small is released!",
+     "summary": "submitted by /u/InfinityZeroFive [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuqplg/thinkingmachinesinkling2small_is_released/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "A United Nations survey last year found that as many as 80% of people in [China] support data center construction. At least two-thirds of Chinese people use AI in their day-to-day life, as many\u2026",
+     "summary": ">Experts cited by the Financial Times say data centers in China are built at about one-fifth of the costs incurred in the U.S., not least due to the much higher land and labor costs. Why is there such a big difference between support for data centers in China compared to the US?\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xuqml7/a_united_nations_survey_last_year_found_that_as/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Judging by the current exponential rate, Jensen Huang's affairs should exceed all human population by December. We are not ready for what's coming",
+     "summary": "submitted by /u/GutiV [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xuqlkb/judging_by_the_current_exponential_rate_jensen/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Anthropic expects a hard takeoff in knowledge work next year",
+     "summary": "Slide taken from the IPO Roadshow movie around minute 24. Source: Anthropic\u2019s Initial Public Offering submitted by /u/elemental-mind [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xuq2c5/anthropic_expects_a_hard_takeoff_in_knowledge/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50474883",
+     "url": "https://unemploymentlabs.com/checkpoint-forensics",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Jensen Huang was having a third affair with another Nvidia employee",
+     "summary": "Nvidia founder Jensen Huang was having a separate affair with an employee that has not been previously reported, Reuters reported on Thursday. Huang stepped down as CEO and board member for the company earlier today, in the wake of news of extramarital affairs with accused spy Alice Huang and\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xuprru/jensen_huang_was_having_a_third_affair_with/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Weights for MNIST Handwriting Network [P]",
+     "summary": "The weights for my network looks really cool. First one is the first hidden layer of 64 neurons, the seconds is the second hidden layer of 32 neurons, and the last one is the output layer of 10 neurons. I've pretty much just started learning Machine Learning, so this is my first project. The\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xupgn8/weights_for_mnist_handwriting_network_p/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "How I Make $22K/Month Redesigning Websites (Surprisingly Simple Process)",
+     "summary": "There are multiple lucrative ways to make money nowadays with AI, but based on my own experience, selling AI built website redesigns and rebuilds might be one of the best opportunities if you want to make a lot of money in a relatively short amount of time. I have a group of friends who do exactly\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xupdlq/how_i_make_22kmonth_redesigning_websites/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "The Masters of the Universe Are Human After All!",
+     "summary": "Well, you could have blown me down with a feather! The Nvidia debacle is certainly a sight to behold. Jensen Huang has resigned amid revelations about his personal relationships, with salacious allegations involving a woman so called spy with suspected of links to Chinese intelligence. For the\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xup96y/the_masters_of_the_universe_are_human_after_all/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "AI is turning Apple's app review process into a nightmare for synth developers",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50474311",
+     "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Anthropic says it has met its own threshold for AI-accelerated AI research \u2014 days before its IPO",
+     "summary": "In its amended IPO filing on Tuesday (Nov 10), Anthropic said it has determined it met the 'research acceleration threshold' in its Responsible Scaling Policy \u2014 the point where AI assistance is expected to roughly double the pace of AI capability gains. The company stressed the judgment rests on\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xuo0rf/anthropic_says_it_has_met_its_own_threshold_for/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "While many Americans resist, China embraces AI data center boom.",
+     "summary": "submitted by /u/Snoo26837 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xunk2z/while_many_americans_resist_china_embraces_ai/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "I honestly think Gemini 4 Hydrogen is smarter than 99% of people.",
+     "summary": "Me included. submitted by /u/Gold-Produce9591 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xunh70/i_honestly_think_gemini_4_hydrogen_is_smarter/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "New Model \"Ernie 5.5 Flash Preview\" hits strongly at a low parameter count (280B, 14B Active)",
+     "summary": "If you're asking what this leaderboard is, it is not AA, it is simply an aggregate index for \"Agentic Coding\" along 12 coding-related benchmarks (note that the AA index includes only 2 coding benchmarks: Terminal-Bench 4.0, FrontierCode-AA 2.0, making up just 25% of its total score. Because of\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xune1i/new_model_ernie_55_flash_preview_hits_strongly_at/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Democrats launch Nvidia investigation, write scathing letter on Huang\u2019s \u2018scheme\u2019 with Trump",
+     "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
+     "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Silicon Valley Is Still Defending Jensen Huang",
+     "summary": "Nvidia employees and tech insiders never thought the chip king would lose his job. Despite his sudden resignation, many of them are still in denial.",
+     "url": "https://www.wired.com/story/silicon-valley-is-still-defending-jensen-huang/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+     "summary": "Airlines praised the AI tool, but the air traffic controllers\u2019 union wasn\u2019t involved.",
+     "url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Muse can now place calls to US businesses \u2014 if you pay",
+     "summary": "Muse's AI can now place outbound calls to U.S. businesses \u2014 but it's not free.",
+     "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Jensen Huang Is Out. Will Nvidia\u2019s Rivals Cash In?",
+     "summary": "In a special episode of \u201cUncanny Valley,\u201d we break down Jensen Huang\u2019s resignation from Nvidia, what comes next for the company, and where the AI industry goes from here.",
+     "url": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huang-is-out-will-nvidias-rivals-cash-in/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Google\u2019s new Gemini model is better at understanding complicated questions",
+     "summary": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions and address each part in its responses. It's available\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Microsoft Research Focus \u2013 Edition #98",
+     "summary": "What's new in research at Microsoft? Host Anson Ho explores the latest, including AI-powered universal translation, a breakthrough in a 31-year-old mathematics challenge, and advances making AI coding agents faster and more efficient. The post Microsoft Research Focus \u2013 Edition #98 appeared first\u2026",
+     "url": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98/",
+     "source": "Microsoft Research"
+    },
+    {
+     "headline": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+     "summary": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
+     "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Jensen Huang Didn\u2019t Name His Own Replacement as One of Tech\u2019s Most Powerful Women",
+     "summary": "A recent WIRED investigation explored the complicated definition of \u201cpower\u201d for women in the industry. Jensen Huang\u2019s answers now appear to show his blind spots.",
+     "url": "https://www.wired.com/story/jensen-huang-colette-kress-replacement-powerful-women-in-tech/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Jensen Huang was having a third affair, Reuters reports",
+     "summary": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.",
+     "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+     "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were\u2026",
+     "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+     "source": "MIT Tech Review AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @simonwillison.net",
+     "handle": "",
+     "quote": "The pricing for Gemini 4 is pretty confusing - Argon and Carbon are the same token price as each other, and the new Hydrogen is only a 25% discount on that price - though Carbon/Argon will 2x in price on Dec 1st Hydrogen's pelicans are notably worse simonwillison.net/2026/Nov/12/...",
+     "context": "",
+     "url": "https://bsky.app/profile/simonwillison.net/post/3n25qivmljs2t"
+    },
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "\ud83d\udea8 Our Generative AI Lab is releasing Primer: an open source agent-driven system where a teacher talks through lessons & gets back a playable simulation for their students, grounded in pedagogy. We hope educators & researchers build on it. Paper/prompts/code are open: gail.wharton.upenn.edu/primer/",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3n25jpzcdtk2p"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Do not overrate zero-sum status-seeking",
+     "summary": "If people really preferred relatively higher income in a poorer society, then those born in Western Europe and the US would be saving up their money so they could live like kings in Africa. Very few people of middle- or upper-class status in poor countries would try to get to the West. Obviously,\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/do-not-overrate-zero-sum-status-seeking.html?utm_source=rss&utm_medium=rss&utm_campaign=do-not-overrate-zero-sum-status-seeking",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "AI Ambition: ArtCraft Cloned Photoshop and Now Wants to \"Rebuild Everything\"",
+     "summary": "ArtCraft used AI to rewrite Photoshop as open source software. For CEO Brandon Thomas, the vision is even bigger: to take back the internet!",
+     "url": "https://latent.space/p/artcraft/",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "Sharp Tech on Video: Nvidia After Jensen Huang, Ominous News for American AI, D.C. Gets Its Revenge",
+     "summary": "Sharp Tech is, for the first time, available on video. You have three ways to consume it: YouTube, Spotify, and here on Stratechery",
+     "url": "https://stratechery.com/2026/sharp-tech-on-video-nvidia-after-jensen-huang-ominous-news-for-american-ai-d-c-gets-its-revenge/",
+     "source": "Stratechery"
+    },
+    {
+     "headline": "llm-gemini 0.37",
+     "summary": "Release: llm-gemini 0.37 Google launched Gemini 4 Hydrogen today - the lowest cost member of the Gemini 4 family. It's actually not too far off the price of its much bigger siblings, Carbon and Argon. I'm finding Gemini 4's pricing really confusing. Here's the pricing scheme: Model Dates Input\u2026",
+     "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "hitkeeen/blender-ai-mcp-addon: AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon,\u2026",
+     "summary": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+     "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "IluvatarLabs/sitrep: One live console to monitor Claude Code and Codex agents across machines, track context and spend, and unblock sessions that need you.",
+     "summary": "One live console to monitor Claude Code and Codex agents across machines, track context and spend, and unblock sessions that need you.",
+     "url": "https://github.com/IluvatarLabs/sitrep",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "DeskLabs-OpenSource/DeskVoice: Central telef\u00f4nica open source operada por agentes de IA. Atende, executa ferramentas durante a liga\u00e7\u00e3o, consulta um humano e segue trabalhando depois que a chamada\u2026",
+     "summary": "Central telef\u00f4nica open source operada por agentes de IA. Atende, executa ferramentas durante a liga\u00e7\u00e3o, consulta um humano e segue trabalhando depois que a chamada termina. Self-hosted.",
+     "url": "https://github.com/DeskLabs-OpenSource/DeskVoice",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "molly554/whiteboard-ai-tutor: Open-source AI tutor that teaches on a whiteboard. Benchmark of 6 LLMs (Claude, Gemini, DeepSeek): 288 lessons drawn stroke by stroke, blind-reviewed. \u767d\u677f AI \u5bfc\u5e08 / AI\u2026",
+     "summary": "Open-source AI tutor that teaches on a whiteboard. Benchmark of 6 LLMs (Claude, Gemini, DeepSeek): 288 lessons drawn stroke by stroke, blind-reviewed. \u767d\u677f AI \u5bfc\u5e08 / AI \u8001\u5e08\u8bb2\u8bfe\u8bc4\u6d4b",
+     "url": "https://github.com/molly554/whiteboard-ai-tutor",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "Sorsax/ai--manus: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "url": "https://github.com/Sorsax/ai--manus",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "ShedrackOlisa/ai--manus: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "url": "https://github.com/ShedrackOlisa/ai--manus",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "sachinspanchal05/ai--manus: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "url": "https://github.com/sachinspanchal05/ai--manus",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "jatinyadav2036/ai--manus: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "url": "https://github.com/jatinyadav2036/ai--manus",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "shadowdarkmr/ai--manus: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "url": "https://github.com/shadowdarkmr/ai--manus",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "yassinebourzza1/ai--manus: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "url": "https://github.com/yassinebourzza1/ai--manus",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "iamumairayub/ai--manus: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "url": "https://github.com/iamumairayub/ai--manus",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "thecoderrrer/ai_manus: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "url": "https://github.com/thecoderrrer/ai_manus",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "AIBanlv/AIBanlv-Bot: AIBanlv Bot \u2014 An Open-Source AI Agent with a Face.",
+     "summary": "AIBanlv Bot \u2014 An Open-Source AI Agent with a Face.",
+     "url": "https://github.com/AIBanlv/AIBanlv-Bot",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-11-13T06:58+00:00",
+  "window_start": "2026-11-12T20:09+00:00",
+  "window_end": "2026-11-13T06:58+00:00",
+  "candidate_count": 70,
+  "model": "free (no LLM)"
+ }
+}
