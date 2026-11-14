@@ -1,0 +1,363 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "The Power and Roots of Aspirations",
+   "summary": "Aspirations have become a common theme in empirical economics studies but there is no unified understanding of the range of outcomes they influence, the factors that shape them, and how to measure them. We survey this growing literature. We argue that there is compelling evidence to consider\u2026",
+   "why_it_matters": "",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/11/the-power-and-roots-of-aspirations.html?utm_source=rss&utm_medium=rss&utm_campaign=the-power-and-roots-of-aspirations",
+   "source": "Marginal Revolution"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "[Paper] Read Less, Solve More: Token-Efficient Sparse Reading of External Content for AI Agents",
+     "summary": "Web-facing AI agents repeatedly access webpages, documents, repositories, and tool responses, yet reading interfaces often expose entire objects when only sparse evidence is needed. This over-reading increases token and latency costs and can dilute relevant evidence. We present SparseRead, a\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvuit5/paper_read_less_solve_more_tokenefficient_sparse/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "For long context does high quant matter?",
+     "summary": "Question: if I'm regularly at higher context - say 300-400k - do higher quant versions of the same model perform better? I'm thinking something like Qwen Flash Next q6 and q8. I recently swapped from q6 to q8 and performed a/b testing. I originally expected q6 to be lossless but there were areas\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvud3r/for_long_context_does_high_quant_matter/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "ERNIE 5.5 Flash Base \u00b7 ERNIE",
+     "summary": "I guess some may like to read this. submitted by /u/yahbluez [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvuclv/ernie_55_flash_base_ernie/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Crazy there's a probable connection between my desktop running Qwen 3.8 27B and a major geo-economic-political event",
+     "summary": "https://www.tbsnews.net/explainer/nvidia-ceos-alleged-affair-tech-entrepreneur-raises-questions-over-china-chip-links submitted by /u/nathan555 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvubha/crazy_theres_a_probable_connection_between_my/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "AI usage and detection survey",
+     "summary": "Hello! Im currently doing a survey for my class on AI and more importantly, how people can tell whether an image is AI-generated or not, how they know, and how it makes them feel. https://forms.gle/uw3Vg9MnsRLid99CA submitted by /u/tonyalovesch [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xvu63h/ai_usage_and_detection_survey/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "On Purpose: \"We've just made some of the hardest things people do more accessible, so why has the conversation become about the possibility of those things dying out?\"",
+     "summary": "\"Behind every solved problem and unexplored avenue is ten more previously out of reach, and we\u2019ve barely scratched the surface. How many films have never been made because somebody couldn\u2019t afford a camera crew? How many games were never developed because somebody couldn\u2019t program? How many\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xvtoe0/on_purpose_weve_just_made_some_of_the_hardest/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "\u2018Ahead of his time\u2019: AI helps unlock discoveries hidden in notebooks of man who transformed maths",
+     "summary": "G\u00f6del\u2019s incompleteness theorems revealed the existence of statements whose truths were independent of the system they were written in: that is, they could not be proved or disproved within the system. In 1966, the American mathematician Paul Cohen won the Fields medal, the highest honour in maths,\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xvt3z9/ahead_of_his_time_ai_helps_unlock_discoveries/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "salesforce-sovereign-intelligence/SOV-Transcribe-1 \u00b7 Hugging Face",
+     "summary": "SOV-Transcribe-1 SOV-Transcribe-1 is Salesforce's open-weight speech-augmented language model built for non-streaming automatic speech recognition (ASR). It combines leading English transcription accuracy with multilingual support and natural-language control over how speech is transcribed. The\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvst4u/salesforcesovereignintelligencesovtranscribe1/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Do you believe there will be a divergence between local and frontier model power?",
+     "summary": "Right now, local models have somewhat kept up with frontier, being months behind last frontier models. The issue is, I think the divide is going to be end up being hardware. Model improvements will slow down, but hardware won\u2019t get any cheaper, especially if frontiers keep buying shit out for\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvsp7p/do_you_believe_there_will_be_a_divergence_between/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "LLM's might be bad at jokes but they still make me laugh a lot",
+     "summary": "https://preview.redd.it/ikefi7yb2i1i1.png?width=1502&format=png&auto=webp&s=81e034eca6da6e807648313bb9509a78d7e22910 This was a new session with Qwen3.8-Flash-Next-GSQ-RCO-Coder just asking it to commit. No clue what it was trying to here xD submitted by /u/foundafreeusername [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvsi2i/llms_might_be_bad_at_jokes_but_they_still_make_me/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Instead Of Lowering GPU Prices, Former NVIDIA CEO Jensen Huang Reportedly Financed AI Startups To Absorb Excess Silicon, Shattering The Shortage Perception",
+     "summary": "submitted by /u/billy_booboo [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvsb5f/instead_of_lowering_gpu_prices_former_nvidia_ceo/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50493251",
+     "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Ggml v1.0.0",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50493062",
+     "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "What's the most boring task you'd hand to an agent if it actually worked?",
+     "summary": "I'm building AIPass, an open-source multi-agent system that runs on your own Linux machine \u2014 18 agents, they wake up in the evening, check email, fix bugs, optimise stuff, all from your phone with no cloud account. But I'm curious what you'd actually use it for. Not the sexy demo stuff. The\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xvqnst/whats_the_most_boring_task_youd_hand_to_an_agent/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Fable 5.2 in threejs without any assets, just code.",
+     "summary": "Source Anyone paying attention to how quickly we reached this level? submitted by /u/vinis_artstreaks [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xvqb28/fable_52_in_threejs_without_any_assets_just_code/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Mark Zuckerberg wants AI walking around your home, do you? | BBC News",
+     "summary": "So basically the TLDW Version of the video mentions the interview in which John Hanke was in, and here's what's weird about it. He mentions that \"humanoids will be inevitable\", and that \"the workplace is a very good training ground in which there's no human intervention\". He also gives those evil\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xvq2xe/mark_zuckerberg_wants_ai_walking_around_your_home/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "FAA lifted National Ground Stop at 0119Z",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50492601",
+     "url": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50492315",
+     "url": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50492141",
+     "url": "https://claude.com/resources/articles/projects-redesigned",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Unsloth Qwen3.8-27B Quantizations \u2013 Dynamic v3.1 Update",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50491980",
+     "url": "https://unsloth.ai/docs/models/qwen3.8",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Did AI ground US flights? DHS is looking at the FAA's new AI tool",
+     "summary": "The FAA halted flights nationwide on Friday, its first full ground stop since January 2023, days after expanding its SMART AI air traffic tool across the country. Transportation Secretary Sean Duffy blamed a communication issue at all Air Route Traffic Control Centers, and Homeland Security's\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xvnyzp/did_ai_ground_us_flights_dhs_is_looking_at_the/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Interval of consciousness?",
+     "summary": "Hi all, so recently an interesting though crossed my mind. Not sure if it's discussed before. I've seeing a lot of people discuss the idea of AI \"consciousness\" as a black and white state (at least most of people do). However, I believe consciousness, just like intelligence, is more of a broad\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xvnwbw/interval_of_consciousness/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "First Strike",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50491944",
+     "url": "https://geohot.github.io//blog/jekyll/update/2026/11/13/first-strike.html",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Tell HN: Google Search to start locking down search behind a login wall",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50491617",
+     "url": "https://news.ycombinator.com/item?id=50491617",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Why do they all seem to do this?",
+     "summary": "submitted by /u/MrNobodyX3 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xvmxbh/why_do_they_all_seem_to_do_this/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50491545",
+     "url": "https://grounds.top/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "How Not to Build a Music Player",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50491400",
+     "url": "https://alichraghi.github.io/blog/how-not-to-build-a-music-player/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Claude Meetings",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50491097",
+     "url": "https://claude.com/resources/articles/claude-meetings",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50490593",
+     "url": "https://orcasairband.com/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "The FAA rolled out its $875 million AI Air Traffic tool today with reassurances it would not affect safety",
+     "summary": "submitted by /u/MusicSole [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xvl00y/the_faa_rolled_out_its_875_million_ai_air_traffic/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "FAA issues nationwide ground stop due to \"extraordinary circumstances\"",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50489678",
+     "url": "https://www.axios.com/2026/11/13/faa-nationwide-ground-stop",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "All US airports are currently ground stopped",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50489652",
+     "url": "https://twitter.com/flightradar24/status/2121347654714077605",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "FAA issues national ground stop \u2013 lifted 4.5 hours later",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50489641",
+     "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "CutGPT is now giving users $1 just to sign up",
+     "summary": "Anyone else see this? This free AI app is now giving users $1 just to sign up. Has anyone looked into this? submitted by /u/thepillowco [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xvjotn/cutgpt_is_now_giving_users_1_just_to_sign_up/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Recursive self-improvement has started",
+     "summary": "submitted by /u/Mindrust [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xvje07/recursive_selfimprovement_has_started/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Pangram CEO: We ask for their favourite snack in our job application, and it cuts down on our application review by 60%",
+     "summary": "submitted by /u/japie06 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xvizxy/pangram_ceo_we_ask_for_their_favourite_snack_in/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "OpenAI is so convinced that LLMs will become brains for robots that it has disbanded its robotics team",
+     "summary": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/ submitted by /u/Eliv_nurotic [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xvivdy/openai_is_so_convinced_that_llms_will_become/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "This AI finds patterns in visual brain activity and turns them into pictures",
+     "summary": "\"An artificial intelligence (AI) tool can use brain scans to recreate the images people looked at with eerie accuracy. The system, called Brain-IT, uses data from functional magnetic resonance imaging (fMRI) to measure activity in the visual cortex, the part of the brain that processes visual\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xvissf/this_ai_finds_patterns_in_visual_brain_activity/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "\"We are deeply sorry\" Microsoft apologizes for major outage that knocked Outlook, Teams, and Microsoft 365 offline for 24 hours \u2013 insists it wasn't AI that caused it",
+     "summary": "submitted by /u/esporx [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xvinch/we_are_deeply_sorry_microsoft_apologizes_for/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "inside you there are two wolves",
+     "summary": "submitted by /u/Happysedits [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xvijhy/inside_you_there_are_two_wolves/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Vellium 1.9.5: visual novels that actually work on a 12B local model",
+     "summary": "Vellium 1.9.5: Visual Novel Mode Update Vellium is a free, open-source, local-first AI chat and roleplay app with a built-in visual novel mode. Version 1.9.5 focuses on making visual novels work reliably with smaller local models like Gemma 12B, improving image consistency, reducing prompt\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvihou/vellium_195_visual_novels_that_actually_work_on_a/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Dario woke up and chose violence: \"We don't vague post about models ahead of time. We basically build the model, we make sure it's good, we release the model.\"",
+     "summary": "Dig at OpenAI (Tibo), Google (Logan)? \ud83d\ude02 submitted by /u/TorturedPoet30 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xvi97m/dario_woke_up_and_chose_violence_we_dont_vague/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Live-migration support in FreeBSD and bhyve coming",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50488835",
+     "url": "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "DeepSeek v4.1 Flash vs Qwen 3.8 Flash Next Performance",
+     "summary": "While waiting for Qwen 4, I installed and benchmarked DeepSeek v4.1 Flash to see if I was missing out. Based on the type of work I do, DeepSeek is not better but is definitely much slower. Turns out Strata with Qwen 3.8 Flash-Next is best bang for buck on my machine. submitted by\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvhzq9/deepseek_v41_flash_vs_qwen_38_flash_next/",
+     "source": "r/LocalLLaMA"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Amazon has a plan to index the world\u2019s online shopping data",
+     "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers\u2026",
+     "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Jensen Huang\u2019s departure blasts big hole in AI startup funding, VCs and founders say",
+     "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+     "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+     "summary": "Airlines praised the AI tool, but the air traffic controllers\u2019 union wasn\u2019t involved.",
+     "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "ChatGPT Wallet lets OpenAI\u2019s Dots agents make purchases for you",
+     "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+     "source": "The Verge AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "\"You see the model called hydrogen is equivalent to the models called sonnet and luna and spark, but the model called fable is like wonder and astra and carbon (but it was like argon)\" \"Wait, why do you look confused?\"",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3n27sqcs6ds22"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "The Power and Roots of Aspirations",
+     "summary": "Aspirations have become a common theme in empirical economics studies but there is no unified understanding of the range of outcomes they influence, the factors that shape them, and how to measure them. We survey this growing literature. We argue that there is compelling evidence to consider\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/the-power-and-roots-of-aspirations.html?utm_source=rss&utm_medium=rss&utm_campaign=the-power-and-roots-of-aspirations",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Jensen Out, MATCH Act In?",
+     "summary": "Emergency Pod!",
+     "url": "https://www.chinatalk.media/p/jensen-out-match-act-in",
+     "source": "ChinaTalk"
+    },
+    {
+     "headline": "datasette-cluster-map 0.19",
+     "summary": "Release: datasette-cluster-map 0.19 One of the oldest Datasette plugins, and still one of my favorites. It now works with Datasette 1.0a42, and depends on the new datasette-leaflet to ensure OpenStreetMap tiles are requested with a referrer header. Here's a map of power plants owned by\u2026",
+     "url": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "datasette-leaflet 0.3",
+     "summary": "Release: datasette-leaflet 0.3 OpenStreetMap have a very reasonable policy that hits to their hosted tile server should send a referrer header . Datasette table pages used the Referrer-Policy: no-referrer HTTP header, causing plugins that loaded tiles from OpenStreetMap to violate that policy.\u2026",
+     "url": "https://simonwillison.net/2026/Nov/13/datasette-leaflet/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "kazim768/manus--ai: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "url": "https://github.com/kazim768/manus--ai",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "berkantay/gpucanvas: Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an editor selects, moves and resizes them, shaders and transitions run on them, and an AI agent can\u2026",
+     "summary": "Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an editor selects, moves and resizes them, shaders and transitions run on them, and an AI agent can read them and point at them.",
+     "url": "https://github.com/berkantay/gpucanvas",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-11-14T06:45+00:00",
+  "window_start": "2026-11-13T19:53+00:00",
+  "window_end": "2026-11-14T06:45+00:00",
+  "candidate_count": 55,
+  "model": "free (no LLM)"
+ }
+}
