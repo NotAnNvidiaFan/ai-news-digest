@@ -1,0 +1,387 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
+   "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+   "why_it_matters": "",
+   "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+   "source": "TechCrunch AI"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "tiny-voca: a fully open 4.5M-parameter TTS (code, weights, dataset). Runs 70x real time on a CPU",
+     "summary": "I made a small English text-to-speech model called tiny-voca. It has 4.5M parameters, two voices, and it runs in your browser. Try it here, nothing is sent to a server: https://tiny-voca.n4ze3m.com Some facts: - 4,537,291 parameters, 18 MB. This is the whole model, the waveform part is included. -\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xw7zrg/tinyvoca_a_fully_open_45mparameter_tts_code/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "AI Incest: What happens when AI trains on AI-generated content, generation after generation?",
+     "summary": "I recently started thinking about this. Imagine: An AI model is trained on human-generated data. It generates millions of pieces of content. The next generation of AI models trains on that content. Those models generate even more content. The process repeats indefinitely. What happens after 10,\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xw7ytx/ai_incest_what_happens_when_ai_trains_on/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "After medusa halo we get siren halo",
+     "summary": "Will have dedicated GDDR7 VRAM (Graphics Double Data Rate 7 Video RAM). Interesting that AMD is following in Intel's razor lake-ax foot steps and introducing on package memory. https://x.com/Gotou_kai3/status/2120744697618669760 Expected release date of medusa halo : end of 2027. My estimate for\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xw7edn/after_medusa_halo_we_get_siren_halo/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Should short-horizon price forecasting papers benchmark against market-implied forecasts, not just naive baselines? [D]",
+     "summary": "been reading a bunch of papers on short term crypto and commodity price forecasting (transformers, LSTMs, the usual). almost all of them compare against ARIMA, a random walk, maybe a simple LSTM, and report a better RMSE. what i rarely see is a comparison against what the market already expects.\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xw6fk9/should_shorthorizon_price_forecasting_papers/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Could AI handle public transit information calls?",
+     "summary": "During service disruptions people are calling about delays, missed connections, route changes and whether theres another bus or train coming And the information can change every few minutes The phone part seems doable with tools like Elevenlabs or Bland, but I'd want it connected directly to the\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xw6eqj/could_ai_handle_public_transit_information_calls/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Ethical Alternatives to Kaggle [D]",
+     "summary": "I personally find it unconscionable to mandate biometric verification - with a controversial vendor on the top of that - to access a competition. Not to cash a prize, just to submit a solution. What are alternatives competition to have fun with SOTA or quasi-SOTA models? submitted by /u/nico_25\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xw6d7n/ethical_alternatives_to_kaggle_d/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "ICLR 2027 Rebuttal [D]",
+     "summary": "For anyone who\u2019s updating their manuscript during rebuttals - the guidelines seems to suggest a pdf diff will be applied automatically to the updated pdf. Can anyone see this? I can\u2019t seem to see any changes in colour or any pdf diff anywhere, even under \u2019Revisions\u2019. submitted by /u/amds201 [link]\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xw5uwe/iclr_2027_rebuttal_d/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Why don\u2019t we have national open AI models?",
+     "summary": "Deepseek spent about $6m on 4.1 apparently. Published all of their work. US gov says don\u2019t trust China, blah blah\u2026 As a US citizen why are we not training national open source? The cost is nothing compared to the budget, solves security issues, and prevents monopolistic practices on token pricing\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xw4ue3/why_dont_we_have_national_open_ai_models/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50497589",
+     "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Graph Attention Networks for Detecting Epilepsy From EEG Signals Using Accessible Hardware in Low-Resource Settings [R]",
+     "summary": "is there any chance those models are going to be deployed for real? submitted by /u/rottoneuro [link] [comments]",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xw3si8/graph_attention_networks_for_detecting_epilepsy/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Is it compulsory to upload neurips poster by 15th Nov? [D]",
+     "summary": "I received this mail which said \"Please upload your poster and thumbnail by clicking on the poster upload page link on the paper metadata page.\" The mail contains 15th November as a date, do we really need to upload posters ?? submitted by /u/Jealous_Key_4030 [link] [comments]",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xw3q5f/is_it_compulsory_to_upload_neurips_poster_by_15th/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50497155",
+     "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Show HN: Agweb \u2013 a browser for agents that stays out of your way",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50497147",
+     "url": "https://github.com/paul-nameless/agweb",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Show HN: Fursoy \u2013 Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50497137",
+     "url": "https://github.com/FURSOY/fursoy-cpu",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50497132",
+     "url": "https://gitlab.com/snipedbywifi/terminactory",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "The lawyer who posts here about his V100s got his story picked up by Tom\u2019s Hardware",
+     "summary": "submitted by /u/General-Spite1222 [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xw2ogq/the_lawyer_who_posts_here_about_his_v100s_got_his/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "The Claude Delusion",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50496921",
+     "url": "https://www.netmeister.org/blog/claude-delusion.html",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Requiem for a robot: the AI users mourning chatbots that may have harmed them",
+     "summary": "The removal of a ChatGPT model has led to an outpouring of grief among users \u2013 even as a legal battle rages over the psychological damage it may have done submitted by /u/TheObserverUK [link] [comments]",
+     "url": "https://www.reddit.com/r/artificial/comments/1xw2k13/requiem_for_a_robot_the_ai_users_mourning/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "ICLR rebuttal [R]",
+     "summary": "I'm about to submit my iclr rebuttal, and I was wondering if it's okay to highlight the changes I've made to my manuscript using a different text color to make them easier for the reviewers to identify. I checked the author guidelines, but couldn't find any information about this. Do you think\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xw19o8/iclr_rebuttal_r/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "How long are we gonna depend bunch of model creators (like Qwen, Gemma, NVIDIA, etc.,) for ~100B models?",
+     "summary": "I think we're fine till 2027 with models(~100B .... Qwen 4.X & 5, Gemma-5, NVIDIA would release some Medium/Big size 25-200B models). After that it's gonna be critical, as many model creators are increased/increasing model size to 300B+. Future trend probably gonna be around 500B. That size range\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xw0xeu/how_long_are_we_gonna_depend_bunch_of_model/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Great Video for Understanding How Cosine Similarity Works [D]",
+     "summary": "This video does a great job of explaining dot products from both algebraic POV and geometric POV, using that to derive cosine similarity and how it applies to embeddings. submitted by /u/johnolafenwa [link] [comments]",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xw0dgg/great_video_for_understanding_how_cosine/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "IBM trains two small open models to ignore orders hidden in documents",
+     "summary": "I like this. Prompt injection is a bit issue with small models submitted by /u/mawcopolow [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xw09tu/ibm_trains_two_small_open_models_to_ignore_orders/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Beware of numes.ai",
+     "summary": "Beware of https://numes.ai , Youtube video https://www.youtube.com/watch?v=7H279gmWji8 ( Youtube Channel : Code With Yousaf ) Title : I Found $0 Cost API Keys for Every Major AI Models (Uncensored) You will realise the fraud once you signup. I deleted the site from googles linked app section,\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xvzz1e/beware_of_numesai/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "Building a Local AI Photography Editing Assistant. Anyone working on something similar? [D]",
+     "summary": "Building a Local AI Photography Editing Assistant. Anyone working on something similar? I'm exploring how to build a local AI system that can automate advanced photo-editing workflows for landscape and portrait photography . I have Adobe Creative Cloud All Apps, an RTX 5060 8GB, 64GB RAM and some\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xvzkwz/building_a_local_ai_photography_editing_assistant/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "sensenova/SenseNova-Loop-9B-Preview \u00b7 Hugging Face",
+     "summary": "Very interesting model/architecture. Seems to match Qwen 3.5 27b overall at only 9b parameters. Could be useful for some and it looks like it\u2019s not even fully cooked yet. I haven\u2019t tried it yet. I\u2019m not sure if it\u2019d be slower than qwen, it\u2019s smaller but inference parameters are ~15b and it also\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvysss/sensenovasensenovaloop9bpreview_hugging_face/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Qwen 3.8 Flash Next for gamedev - it's very capable!",
+     "summary": "I've shared the project I'm working on approx a month ago, today it's completed. I wanted to know a simple thing: how good is Qwen 3.8FN at gamedev? And I had so much fun in the process that I am shipping a finished product, free to play. tl,dr + link at the bottom. My experience with Qwen 3.8FN\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvyol3/qwen_38_flash_next_for_gamedev_its_very_capable/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Can open-weight LLMs can predict the effects of weight edits without running the model (9B\u201330B)",
+     "summary": "I\u2019ve been experimenting with weight-space reading using Qwen and Muse models (9B\u201330B). The goal: can an LLM inspect raw model weights and predict the behavioral effects of weight edits without running the target model? A few findings: \ud83d\udd39Qwen 27B reached 73.0% balanced accuracy on subtle edits with\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvxyhj/can_openweight_llms_can_predict_the_effects_of/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Google used 29 AI agents to build a 50-task benchmark for causal reasoning",
+     "summary": "Google Research says 29 agents spent 11.5 hours turning 13 public tables into a 50-task benchmark. The problems ask a model to decide whether the data can identify a causal effect and, where it can, estimate that effect against a known answer. The step I'd borrow is the review. Google says\u2026",
+     "url": "https://www.reddit.com/r/artificial/comments/1xvwdwz/google_used_29_ai_agents_to_build_a_50task/",
+     "source": "r/artificial"
+    },
+    {
+     "headline": "KittenML/kitten-tts-2-mini \u00b7 Hugging Face - Text-to-Speech",
+     "summary": "Kitten TTS 2 Mini 82M parameters, 16 languages, 118 voices, 24 kHz. ONNX with int8 weights ( 82.7 MB ; runs on CPU, no PyTorch needed), and the float32 PyTorch weights. Kitten TTS 2 Nano 17M parameters per language model, 8 languages, 37 voices, 24 kHz. ONNX with int8 weights ( 17.4 MB ; runs on\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvw34k/kittenmlkittentts2mini_hugging_face_texttospeech/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50494696",
+     "url": "https://news.ycombinator.com/item?id=50494696",
+     "source": "Hacker News"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
+     "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+     "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Asian governments react to Nvidia CEO Jensen Huang\u2019s exit",
+     "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+     "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "The OpenAI board member who fired Sam Altman says we still can\u2019t trust AI CEOs",
+     "summary": "Today, I\u2019m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known\u2026",
+     "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Beware the New AI-Fueled Ransomware Boom",
+     "summary": "Fully automated ransomware hasn\u2019t arrived\u2014yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc.",
+     "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Jensen Huang and the decline of the visionary showman founder CEO",
+     "summary": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their faces awash in blue glow, as he made his entrance in a black\u2026",
+     "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
+     "summary": "Normally, aviation is slow to embrace new technology\u2014but AI has come for the skies.",
+     "url": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/",
+     "source": "Wired AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "The traffic from agent swarms doing research is going to be quite large, they are relentless at finding info. I had Fable 5.2 reconstruct WH Auden's 1941 poetry class. It found an obscure, relevant book on the Internet Archive, which it read a line at a time by doing repeated full text searches.",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3n2bwllyra222"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Saturday assorted links",
+     "summary": "1. Madrid vs. Catalonia. 2. Stephen Kovacevich, RIP (NYT). Brahms and the Diabellis stand among his towering pianistic achievements. He was one of my favorite pianists. 3. Queen at Sea is an excellent movie, though hard to watch due to the dementia theme. Impossible to review without spoilers. 4.\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/saturday-assorted-links-586.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-586",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Open-source AI without Jensen",
+     "summary": "A decapitation. It\u2019s time to rebuild.",
+     "url": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
+     "source": "Interconnects"
+    },
+    {
+     "headline": "Privatize Air Traffic Control, Redux",
+     "summary": "Yesterday the FAA grounded every domestic departure in the United States for more than four hours. Such groundings appear to be happening more often. The last nationwide grounding was in 2023, and regional ones have hit Newark, Dallas, and the entire Northeast in the past two years. My post from\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/privatize-air-traffic-control-redux.html?utm_source=rss&utm_medium=rss&utm_campaign=privatize-air-traffic-control-redux",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "[AINews] The No AI Slop Manifesto",
+     "summary": "November 13, 2026 \u2014 AIE speakers unite to lay out how to fight slop.",
+     "url": "https://latent.space/p/ainews-the-no-ai-slop-manifesto/",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "People like their jobs, even British people",
+     "summary": "This paper investigates the role of work in providing meaning, purpose, community, and other non-monetary benefits. Using an original cross-national survey of 8,234 working-age adults across the UK, US, Denmark, and India, I study the factors that motivate people in their work, with an eye toward\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/people-like-their-jobs-even-british-people.html?utm_source=rss&utm_medium=rss&utm_campaign=people-like-their-jobs-even-british-people",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "BarrierCenter/ai--manus: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "url": "https://github.com/BarrierCenter/ai--manus",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "bandbeetleruminate/ai--manus: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "url": "https://github.com/bandbeetleruminate/ai--manus",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "AtomEmissary/ai--manus: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "url": "https://github.com/AtomEmissary/ai--manus",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "assassinswandemolish/ai--manus: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "url": "https://github.com/assassinswandemolish/ai--manus",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "armsworminterface/ai--manus: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "url": "https://github.com/armsworminterface/ai--manus",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "ApparitionBowyerPort/ai--manus: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "url": "https://github.com/ApparitionBowyerPort/ai--manus",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "AdmiralEmporium/ai--manus: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "url": "https://github.com/AdmiralEmporium/ai--manus",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "WestLightningMove/ai--manus: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "url": "https://github.com/WestLightningMove/ai--manus",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "TorusBarbarianMap9/ai--manus: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "url": "https://github.com/TorusBarbarianMap9/ai--manus",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "psychenotecorridor/ai--manus: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "url": "https://github.com/psychenotecorridor/ai--manus",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "GryphonEmpress/ai--manus: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "url": "https://github.com/GryphonEmpress/ai--manus",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "HurricaneMonarchDart/ai--manus: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "url": "https://github.com/HurricaneMonarchDart/ai--manus",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "Cloudryospeed/ai--manus: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "url": "https://github.com/Cloudryospeed/ai--manus",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "BrickMosquito/ai--manus: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "url": "https://github.com/BrickMosquito/ai--manus",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "WinnerBrokerBarrow/ai--manus: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "url": "https://github.com/WinnerBrokerBarrow/ai--manus",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "TealAgentRevive/ai--manus: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "url": "https://github.com/TealAgentRevive/ai--manus",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "ClampOverlord46/ai--manus: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "url": "https://github.com/ClampOverlord46/ai--manus",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-11-14T18:18+00:00",
+  "window_start": "2026-11-14T06:45+00:00",
+  "window_end": "2026-11-14T18:18+00:00",
+  "candidate_count": 59,
+  "model": "free (no LLM)"
+ }
+}
