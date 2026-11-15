@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI Digest — 2026-11-15T18:58+00:00</title>
+<style>
+  :root {
+    --bg: #0c0f14; --card: #141922; --card-hover: #1a2130; --border: #232b3a;
+    --text: #dfe6f0; --muted: #8b98ab; --accent: #5eb1ff; --accent2: #a78bfa;
+    --good: #4ade80; --bad: #f87171; --mid: #fbbf24;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text);
+         font: 16px/1.6 -apple-system, "Segoe UI", Roboto, sans-serif; }
+  .wrap { max-width: 860px; margin: 0 auto; padding: 32px 20px 64px; }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  header .brand { font-size: 13px; letter-spacing: 2px; text-transform: uppercase;
+                  color: var(--muted); }
+  header .brand a { color: var(--muted); }
+  h1 { font-size: 26px; margin: 6px 0 2px; }
+  .window { color: var(--muted); font-size: 14px; }
+  .overview { font-size: 17px; color: var(--text); margin: 18px 0 8px;
+              border-left: 3px solid var(--accent2); padding-left: 14px; }
+  .badges { display: flex; gap: 8px; flex-wrap: wrap; margin: 14px 0 26px; }
+  .badge { font-size: 12px; padding: 3px 10px; border-radius: 999px;
+           border: 1px solid var(--border); color: var(--muted); }
+  .badge.sent-bullish, .badge.sent-optimistic { color: var(--good); border-color: var(--good); }
+  .badge.sent-mixed { color: var(--mid); border-color: var(--mid); }
+  .badge.sent-skeptical, .badge.sent-anxious { color: var(--bad); border-color: var(--bad); }
+  .hero { background: linear-gradient(135deg, #16203a, #1b1530); border: 1px solid var(--border);
+          border-radius: 14px; padding: 22px 24px; margin-bottom: 30px; }
+  .hero .label { font-size: 12px; letter-spacing: 2px; text-transform: uppercase; color: var(--accent2); }
+  .hero h2 { margin: 8px 0 10px; font-size: 22px; }
+  .hero .why { color: var(--muted); font-size: 15px; margin-top: 10px; }
+  .hero .why strong { color: var(--text); }
+  h3.section { font-size: 14px; letter-spacing: 2px; text-transform: uppercase;
+               color: var(--muted); margin: 34px 0 12px; border-bottom: 1px solid var(--border);
+               padding-bottom: 8px; }
+  .card { background: var(--card); border: 1px solid var(--border); border-radius: 12px;
+          padding: 16px 18px; margin-bottom: 12px; }
+  .card:hover { background: var(--card-hover); }
+  .card h4 { margin: 0 0 6px; font-size: 16px; }
+  .card p { margin: 0; color: var(--muted); font-size: 14.5px; }
+  .src { display: inline-block; font-size: 12px; color: var(--accent2); margin-top: 8px; }
+  blockquote.take { margin: 0; }
+  .take .quote { font-size: 15.5px; font-style: italic; color: var(--text); }
+  .take .who { margin-top: 8px; font-size: 13.5px; color: var(--muted); }
+  .take .ctx { margin-top: 4px; font-size: 13.5px; color: var(--muted); }
+  .idea { border-left: 3px solid var(--accent2); }
+  .idea .hook { font-size: 15px; font-weight: 600; margin-bottom: 8px; }
+  .idea .draft { color: var(--text) !important; background: var(--bg); border: 1px dashed var(--border);
+                 border-radius: 8px; padding: 10px 12px; margin: 0 0 8px !important; }
+  .idea .why { font-size: 13.5px !important; }
+  .quiet { text-align: center; color: var(--muted); padding: 40px 0; font-size: 15px; }
+  .empty { color: var(--muted); font-size: 14px; font-style: italic; }
+  footer { margin-top: 44px; color: var(--muted); font-size: 12.5px;
+           border-top: 1px solid var(--border); padding-top: 14px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="brand"><a href="../index.html">AI NEWS DIGEST</a></div>
+    <h1>2026-11-15T18:58+00:00</h1>
+    <div class="window">Window: 2026-11-15T06:50+00:00 &rarr; 2026-11-15T18:58+00:00 (UTC)</div>
+  </header>
+
+  <p class="overview">Free-mode digest: candidates grouped by type (LLM synthesis disabled).</p>
+
+  <div class="badges">
+    
+    <span class="badge">49 candidates scanned</span>
+    <span class="badge">model: free (no LLM)</span>
+  </div>
+
+  
+
+  
+
+  
+  <div class="hero">
+    <div class="label">Top story</div>
+    <h2><a href="https://www.reddit.com/r/MachineLearning/comments/1xx2n25/making_cudamemcpy_5x_faster_on_a_b300_p/">Making cudaMemcpy 5x faster on a B300 [P]</a></h2>
+    <p>https://preview.redd.it/cjz9xy3rht1i1.png?width=1600&amp;format=png&amp;auto=webp&amp;s=0eea8a5d9e53d5ea4593ce1a629bc7342a049ffa Hi everyone, I made a tool that can speed up pageable transfers for cudaMemcpy. For example: # B300, copying a 1 GB tensor to the GPU and back: import time, torch x = torch.ones(1…</p>
+    
+    <span class="src">r/MachineLearning</span>
+  </div>
+  
+
+  
+
+  <h3 class="section">Model releases &amp; updates</h3>
+  
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/MachineLearning/comments/1xx2n25/making_cudamemcpy_5x_faster_on_a_b300_p/">Making cudaMemcpy 5x faster on a B300 [P]</a></h4>
+      <p>https://preview.redd.it/cjz9xy3rht1i1.png?width=1600&amp;format=png&amp;auto=webp&amp;s=0eea8a5d9e53d5ea4593ce1a629bc7342a049ffa Hi everyone, I made a tool that can speed up pageable transfers for cudaMemcpy. For example: # B300, copying a 1 GB tensor to the GPU and back: import time, torch x = torch.ones(1…</p>
+      <span class="src">r/MachineLearning</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/singularity/comments/1xx227m/which_good_llm_model_refuses_the_least/">Which good LLM model refuses the least?</a></h4>
+      <p>Talking to Claude is frustrating because it tends to nag/refuse anything it considers to be even slightly &#34;unethical&#34;. submitted by /u/No-Mousse5653 [link] [comments]</p>
+      <span class="src">r/singularity</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/singularity/comments/1xx21py/for_years_now_the_internal_monologues_of_gemini/">For years now, the internal monologues of Gemini models have always been so dramatic. Is it performative (because it knows we can read it), or is there something more going on here?</a></h4>
+      <p>submitted by /u/PressPlayPlease7 [link] [comments]</p>
+      <span class="src">r/singularity</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/MachineLearning/comments/1xx1k2o/meta_fair_nyu_unbundling_multimodal_vision/">[Meta FAIR + NYU] Unbundling Multimodal Vision Encoding: training 200+ MLLMs to find encoder pretraining is optional but vision-only parameters are not [R]</a></h4>
+      <p>X threads (with videos!): https://x.com/choang333/status/2121335484236386574 https://x.com/_ellisbrown/status/2121335477244428419 Paper: https://www.alphaxiv.org/abs/2611.17334 Blog and FAQ: https://unbundling.github.io Labs disagree on vision encoders right now. Gemma 4 12B dropped the encoder,…</p>
+      <span class="src">r/MachineLearning</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1xx1cu9/basalt_040_more_models_still_as_fast_qwen_27b_up/">Basalt 0.4.0: More models, still as fast - Qwen 27B up to 770 tok/s on a 5090</a></h4>
+      <p>Hi everyone! I wanted to post a quick update on Basalt . Since last I posted, multi model and router support was implemented, starting with DeepSeek V4.1 Flash (IQ1_M 90 tok/s conv, 246 tok/s struct on a 5090 + 5060 Ti). Also new: video support, files in chats, and a bunch of fixes and…</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/MachineLearning/comments/1xwzsm4/marimba_a_system_one_model_for_speech_r/">Marimba: a System One model for speech [R]</a></h4>
+      <p>Marimba is like Jev, but for audio. I built it to be fast and lightweight, and to return typed decisions about speech: yes/no, a choice, or a score. It runs on a frozen Qwen3-ASR-0.6B. Word and language questions use zero-shot scores from the ASR decoder&#39;s hypotheses, followed by calibration.…</p>
+      <span class="src">r/MachineLearning</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/singularity/comments/1xwzc1r/in_the_early_stages_of_cadence_an_opensource/">In the early stages of Cadence, an open-source neural network architecture developed by Pragma Research, which sees to bring AGI to reality, here is a demo of a talking parrot who answers questions…</a></h4>
+      <p>https://github.com/muellerberndt/cadence https://cadence.floatingpragma.ai/ submitted by /u/harrydong [link] [comments]</p>
+      <span class="src">r/singularity</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/singularity/comments/1xwz2u8/rsingularity_daily_discussion_thread_november_15/">r/Singularity Daily Discussion Thread — November 15, 2026</a></h4>
+      <p>Welcome to the daily r/singularity discussion thread! Use this thread for casual conversations, questions, speculation, AI developments, and anything related to the technological singularity that doesn&#39;t necessarily warrant its own post. Please keep discussions civil and follow the subreddit…</p>
+      <span class="src">r/singularity</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1xwyp7w/x3guard_a_150m_parameter_prompt_guard/">X3Guard: A 150M parameter prompt guard</a></h4>
+      <p>At Axiomic Labs we have just released X3Guard-150M, a prompt guard model trained on our high-performing base model, GPT-X3. For any given prompt, X3Guard flags whether it is Harmful, and whether it is Adversarial, in one go. It outperforms models that are many times its size, and can run entirely…</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.commondreams.org/news/duffy-ground-stop-explanation">&#39;Duffy Lied&#39;: Controllers Refute Transportation Secretary&#39;s Ground Stop Story</a></h4>
+      <p>Hacker News discussion: https://news.ycombinator.com/item?id=50507791</p>
+      <span class="src">Hacker News</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1xwy3ka/probable_glm_model/">Probable GLM model</a></h4>
+      <p>https://preview.redd.it/k7ife2j2ms1i1.png?width=591&amp;format=png&amp;auto=webp&amp;s=e8dd29b327ac46e7634a5faf48454ec1beb7aa0b Because of Theo gg tweet of all people, I Launch QFN DeepResearch swarm agent to find anything about this. THREE model names, blurred out, sitting at 59.4% / 57.1% / 54.0%. The…</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1xwxzgj/i_finally_succeed_the_cmp_170hx_voltage_glitch/">I finally succeed the CMP 170HX voltage glitch and get 80GB VRAM + 126sm! !</a></h4>
+      <p>Ever since the information surfaced five days ago, I had intended to implement it right away. Having confirmed that it could be executed using &#39;pico,&#39; I carried it out today. I had Astra write the script for the restricted write-access portion, and after nearly 15 hours of work, I finally managed…</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/singularity/comments/1xwxq0v/satbench_benchmarking_benchmarks_each_years_new/">SatBench. Benchmarking benchmarks. Each year&#39;s new AI benchmarks get beaten faster</a></h4>
+      <p>submitted by /u/japie06 [link] [comments]</p>
+      <span class="src">r/singularity</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1xwxbjk/spotted_a_very_interesting_detail_about_intels/">Spotted a very interesting detail about Intel&#39;s upcoming CPU platform (LGA 1954)</a></h4>
+      <p>I was doing some research about the the platform for Intel&#39;s next generations of CPUs. If we look closely at the PCIe 5.0 configuration for Z990/W980, it specifies x16 (or x8/x8 ) x8 (or x4/x4) &#34;Storage&#34; So, it is plausible we might see motherboards with 3 PCIe 5.0 x8 slots directly wired into the…</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://jakub.jankiewicz.org/blog/ai-code-open-source/">All AI-generated code should be Open Source</a></h4>
+      <p>Hacker News discussion: https://news.ycombinator.com/item?id=50507303</p>
+      <span class="src">Hacker News</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/singularity/comments/1xwx8gb/when_fable_52_result_l_what_are_your_predictions/">When Fable 5.2 result : L ? what are your predictions?</a></h4>
+      <p>submitted by /u/TheReedemer69 [link] [comments]</p>
+      <span class="src">r/singularity</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1xww5o2/higurashiaiharu4b_hugging_face/">higurashi-ai/Haru-4B · Hugging Face</a></h4>
+      <p>Haru-4B Code · Technical blog · Technical blog (Japanese) Haru-4B is a low-latency and multilingual full-duplex continuous spoken dialogue foundation model: it listens and speaks at the same time, the way people do on a phone call. It is a pretrained base model, released for research. Native…</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1xwvrri/meituanlongcatlongcatvideoavatar16_hugging_face/">meituan-longcat/LongCat-Video-Avatar-1.6 · Hugging Face</a></h4>
+      <p>🚀 Model Introduction We are excited to announce the release of LongCat-Video-Avatar 1.6, the latest upgrade to our open-source framework for audio-driven human video generation. Building upon LongCat-Video-Avatar 1.5, 1.6 improves expressive naturalness, lip–audio synchronization, coordinated…</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/singularity/comments/1xwvg9b/gemini_4_hydrogen_just_destroyed_claude_fable_52/">Gemini 4 Hydrogen just DESTROYED Claude Fable 5.2 &amp; all other models in the latest benchmark.</a></h4>
+      <p>submitted by /u/Pixelied [link] [comments]</p>
+      <span class="src">r/singularity</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/singularity/comments/1xwvaq9/claude_wrote_and_trained_a_language_model_for_dos/">Claude wrote and trained a language model for DOS that fits on a floppy disk</a></h4>
+      <p>submitted by /u/Background-Wafer-548 [link] [comments]</p>
+      <span class="src">r/singularity</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/singularity/comments/1xwv6va/dont_work_on_llms_ylecun_at_corl/">“DON’T WORK ON LLMs” - @ylecun at CoRL</a></h4>
+      <p>submitted by /u/Heavy-Ad9232 [link] [comments]</p>
+      <span class="src">r/singularity</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/MachineLearning/comments/1xwuwqd/i_dont_think_doubleblind_review_systems_work_d/">I don&#39;t think double-blind review systems work [D]</a></h4>
+      <p>Reviewers can see the authors’ names and affiliations in many cases, making this system closer to single-blind review than double-blind review. I have personally witnessed cases where student reviewers rejected other researchers’ papers in an attempt to increase the chances of their own papers…</p>
+      <span class="src">r/MachineLearning</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/singularity/comments/1xwumyr/my_definition_for_agi_and_why_the_frontier_is/">My definition for AGI and why the frontier is still far from AGI</a></h4>
+      <p>https://preview.redd.it/ne0r83fcur1i1.png?width=1596&amp;format=png&amp;auto=webp&amp;s=0942b5461e233e08b49e25de91edfa8c7d7a3168 So for the last few day I&#39;ve been thinking the definition of AGI because I just don&#39;t feel the AGI as other people claimed, then I came up with six different axis to measure AGI,…</p>
+      <span class="src">r/singularity</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/MachineLearning/comments/1xwttxo/hackathon_project_for_mariadbs_wikipedia_through/">Hackathon project for MariaDB&#39;s Wikipedia Through Time challenge: matching sentences across seven Wikipedia editions at any past date [P]</a></h4>
+      <p>Built at Junction, a hackathon in Espoo, this weekend. Parallax takes an article and lines up its Finnish, Swedish, German, English, Russian, Estonian and Ukrainian editions statement by statement. For any past date it shows where the editions tell something differently. We store every revision.…</p>
+      <span class="src">r/MachineLearning</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1xwttcw/latest_version_of_strata_made_my_qwen38flashnext/">Latest version of strata made my Qwen3.8-Flash-Next dumb and useless</a></h4>
+      <p>I updated the strata to the latest version from v0.1.42.0, so I can try the latest unsloths models and see how they fare against the iq3_s variant I have been using. Upon updating it, I noticed it messed up the whole thing, It got faster, but it got way dumber! previously it would only take 15~30…</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1xwt3ri/paper_no_second_run_does_rsi_stop_at_frontier/">[Paper] No Second Run: Does RSI Stop at Frontier Pre-training? - 801-30B-A3B-Base Coming Soon</a></h4>
+      <p>Pre-training is where every foundation model begins; bringing recursive self-improvement (RSI) there would let AI improve the process that creates AI. Yet public RSI work has so far targeted only post-training, which starts from an existing base model, runs trials costing GPU-hours, and returns…</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://wccftech.com/jensen-huang-financed-ai-startups-absorb-excess-silicon/">Jensen Huang allegedly manufactured the GPU shortage</a></h4>
+      <p>Hacker News discussion: https://news.ycombinator.com/item?id=50505905</p>
+      <span class="src">Hacker News</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/LocalLLaMA/comments/1xwr917/europa_the_eus_open_ai_model_is_aiming_for_nearly/">EUROPA, the EU&#39;s open AI model, is aiming for nearly 1 trillion parameters</a></h4>
+      <p>One can hope submitted by /u/mawcopolow [link] [comments]</p>
+      <span class="src">r/LocalLLaMA</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/MachineLearning/comments/1xwqxwj/with_42k_submissions_to_iclr_do_you_think_the/">With 42k submissions to ICLR, do you think the acceptance rate will stay the same? [D]</a></h4>
+      <p>Given the massive jump to 42,000 submissions this year, I’m curious how people think the program chairs will handle the acceptance rate. Will they stick to the usual ~26-28% (meaning ~11k+ accepted papers), or will they cap the total number of accepted papers due to venue/reviewer constraints and…</p>
+      <span class="src">r/MachineLearning</span>
+    </div>
+    
+  
+
+  <h3 class="section">Frontier lab developments</h3>
+  
+    
+    <div class="card">
+      <h4><a href="https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation">An overview of Jensen Huang’s messy days</a></h4>
+      <p>This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang&#39;s resignation and the fallout from Nvidia&#39;s leadership crisis, follow Terrence O&#39;Brien. The Stepback arrives in our subscribers&#39; inboxes on Sunday at 8AM ET. Opt in for The…</p>
+      <span class="src">The Verge AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.wired.com/story/ai-djs-completely-kill-my-groove/">AI DJs Completely Kill My Groove</a></h4>
+      <p>YouTube Music and Spotify want synthetic hosts to curate your playlists. Their awkward banter and bogus song trivia are ruining the vibe.</p>
+      <span class="src">Wired AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/">This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets</a></h4>
+      <p>A Carnegie Mellon student’s tiny E Ink gadgets, called OATs, give houseplants, skateboards, and dumbbells expressive personalities to nudge you toward better habits.</p>
+      <span class="src">Wired AI</span>
+    </div>
+    
+  
+
+  <h3 class="section">Influencer takes &amp; sentiment</h3>
+  
+  <p class="empty">No notable takes this window.</p>
+  
+
+  <h3 class="section">Research &amp; under the radar</h3>
+  
+    
+    <div class="card">
+      <h4><a href="https://marginalrevolution.com/marginalrevolution/2026/11/sunday-assorted-links-590.html?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=sunday-assorted-links-590">Sunday assorted links</a></h4>
+      <p>1. His office. 2. The South African bi-oceanic railway. 3. Ethnic politics and class politics. 4. AI-generated preview is going viral, what is the chance they make the movie now? I will pay to see it. Is this a new method of movie evaluation and greenlighting? 5. Ezra Klein on the permitting bill…</p>
+      <span class="src">Marginal Revolution</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://github.com/WyrmClimberManacle/Gemini-Config-Checker-">WyrmClimberManacle/Gemini-Config-Checker-: Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)</a></h4>
+      <p>Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)</p>
+      <span class="src">GitHub Trending</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://github.com/YellowLaborerMarket/Gemini-Config-Checker-">YellowLaborerMarket/Gemini-Config-Checker-: Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)</a></h4>
+      <p>Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)</p>
+      <span class="src">GitHub Trending</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://github.com/WireProvostPucker/Gemini-Config-Checker-">WireProvostPucker/Gemini-Config-Checker-: Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)</a></h4>
+      <p>Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)</p>
+      <span class="src">GitHub Trending</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://github.com/WinnerSpecialist/Gemini-Config-Checker-">WinnerSpecialist/Gemini-Config-Checker-: Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)</a></h4>
+      <p>Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)</p>
+      <span class="src">GitHub Trending</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://github.com/WindGatorRise37/Gemini-Config-Checker-">WindGatorRise37/Gemini-Config-Checker-: Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)</a></h4>
+      <p>Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)</p>
+      <span class="src">GitHub Trending</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://github.com/WingDataVacuum/Gemini-Config-Checker-">WingDataVacuum/Gemini-Config-Checker-: Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)</a></h4>
+      <p>Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)</p>
+      <span class="src">GitHub Trending</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://github.com/weightcashiercupola/Gemini-Config-Checker-">weightcashiercupola/Gemini-Config-Checker-: Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)</a></h4>
+      <p>Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)</p>
+      <span class="src">GitHub Trending</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://github.com/Watchlespeed/Gemini-Config-Checker-">Watchlespeed/Gemini-Config-Checker-: Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)</a></h4>
+      <p>Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)</p>
+      <span class="src">GitHub Trending</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://github.com/Visionbeyondtrack/Gemini-Config-Checker-">Visionbeyondtrack/Gemini-Config-Checker-: Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)</a></h4>
+      <p>Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)</p>
+      <span class="src">GitHub Trending</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://github.com/Violetnyudress/Gemini-Config-Checker-">Violetnyudress/Gemini-Config-Checker-: Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)</a></h4>
+      <p>Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)</p>
+      <span class="src">GitHub Trending</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://github.com/TrooperFilter/Gemini-Config-Checker-">TrooperFilter/Gemini-Config-Checker-: Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)</a></h4>
+      <p>Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)</p>
+      <span class="src">GitHub Trending</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://github.com/TypeTyrantScheme/Gemini-Config-Checker-">TypeTyrantScheme/Gemini-Config-Checker-: Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)</a></h4>
+      <p>Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)</p>
+      <span class="src">GitHub Trending</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://marginalrevolution.com/marginalrevolution/2026/11/tyler-cowens-strongest-musical-recommendations-2003-2026.html?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tyler-cowens-strongest-musical-recommendations-2003-2026">Tyler Cowen’s strongest musical recommendations, 2003–2026</a></h4>
+      <p>From the Archive, written by ChatGPT: The clearest standouts are Loveless, Brazil Classics 1, Solo Monk, and the Louvin Brothers’ Tragic Songs of Life. Bach receives the strongest sustained endorsement across the years. Some of these recommendations were buried in country profiles and assorted…</p>
+      <span class="src">Marginal Revolution</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://magazine.sebastianraschka.com/p/understanding-positional-embeddings">Understanding Positional Embeddings in Modern LLMs</a></h4>
+      <p>The Methods Behind How LLMs Represent Token Positions</p>
+      <span class="src">Ahead of AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://marginalrevolution.com/marginalrevolution/2026/11/ai-and-complements.html?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ai-and-complements">AI and complements</a></h4>
+      <p>In a “weak links” model of production, where tasks are complements, the gains from automation tend to arrive slowly because output is constrained by the least productive tasks. But the same complementarity makes attacks more harmful and easier to execute. For example, with an elasticity of…</p>
+      <span class="src">Marginal Revolution</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://github.com/violetkomodolimit/ai--manus2.0">violetkomodolimit/ai--manus2.0: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.</a></h4>
+      <p>AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.</p>
+      <span class="src">GitHub Trending</span>
+    </div>
+    
+  
+
+  
+
+  <footer>
+    Generated 2026-11-15T18:58+00:00 UTC
+    
+    &middot; <a href="../index.html">all reports</a>
+  </footer>
+</div>
+</body>
+</html>

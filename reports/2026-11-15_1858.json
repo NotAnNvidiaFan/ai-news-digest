@@ -1,0 +1,325 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Making cudaMemcpy 5x faster on a B300 [P]",
+   "summary": "https://preview.redd.it/cjz9xy3rht1i1.png?width=1600&format=png&auto=webp&s=0eea8a5d9e53d5ea4593ce1a629bc7342a049ffa Hi everyone, I made a tool that can speed up pageable transfers for cudaMemcpy. For example: # B300, copying a 1 GB tensor to the GPU and back: import time, torch x = torch.ones(1\u2026",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xx2n25/making_cudamemcpy_5x_faster_on_a_b300_p/",
+   "source": "r/MachineLearning"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Making cudaMemcpy 5x faster on a B300 [P]",
+     "summary": "https://preview.redd.it/cjz9xy3rht1i1.png?width=1600&format=png&auto=webp&s=0eea8a5d9e53d5ea4593ce1a629bc7342a049ffa Hi everyone, I made a tool that can speed up pageable transfers for cudaMemcpy. For example: # B300, copying a 1 GB tensor to the GPU and back: import time, torch x = torch.ones(1\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xx2n25/making_cudamemcpy_5x_faster_on_a_b300_p/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Which good LLM model refuses the least?",
+     "summary": "Talking to Claude is frustrating because it tends to nag/refuse anything it considers to be even slightly \"unethical\". submitted by /u/No-Mousse5653 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xx227m/which_good_llm_model_refuses_the_least/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "For years now, the internal monologues of Gemini models have always been so dramatic. Is it performative (because it knows we can read it), or is there something more going on here?",
+     "summary": "submitted by /u/PressPlayPlease7 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xx21py/for_years_now_the_internal_monologues_of_gemini/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "[Meta FAIR + NYU] Unbundling Multimodal Vision Encoding: training 200+ MLLMs to find encoder pretraining is optional but vision-only parameters are not [R]",
+     "summary": "X threads (with videos!): https://x.com/choang333/status/2121335484236386574 https://x.com/_ellisbrown/status/2121335477244428419 Paper: https://www.alphaxiv.org/abs/2611.17334 Blog and FAQ: https://unbundling.github.io Labs disagree on vision encoders right now. Gemma 4 12B dropped the encoder,\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xx1k2o/meta_fair_nyu_unbundling_multimodal_vision/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Basalt 0.4.0: More models, still as fast - Qwen 27B up to 770 tok/s on a 5090",
+     "summary": "Hi everyone! I wanted to post a quick update on Basalt . Since last I posted, multi model and router support was implemented, starting with DeepSeek V4.1 Flash (IQ1_M 90 tok/s conv, 246 tok/s struct on a 5090 + 5060 Ti). Also new: video support, files in chats, and a bunch of fixes and\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xx1cu9/basalt_040_more_models_still_as_fast_qwen_27b_up/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Marimba: a System One model for speech [R]",
+     "summary": "Marimba is like Jev, but for audio. I built it to be fast and lightweight, and to return typed decisions about speech: yes/no, a choice, or a score. It runs on a frozen Qwen3-ASR-0.6B. Word and language questions use zero-shot scores from the ASR decoder's hypotheses, followed by calibration.\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xwzsm4/marimba_a_system_one_model_for_speech_r/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "In the early stages of Cadence, an open-source neural network architecture developed by Pragma Research, which sees to bring AGI to reality, here is a demo of a talking parrot who answers questions\u2026",
+     "summary": "https://github.com/muellerberndt/cadence https://cadence.floatingpragma.ai/ submitted by /u/harrydong [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xwzc1r/in_the_early_stages_of_cadence_an_opensource/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "r/Singularity Daily Discussion Thread \u2014 November 15, 2026",
+     "summary": "Welcome to the daily r/singularity discussion thread! Use this thread for casual conversations, questions, speculation, AI developments, and anything related to the technological singularity that doesn't necessarily warrant its own post. Please keep discussions civil and follow the subreddit\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xwz2u8/rsingularity_daily_discussion_thread_november_15/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "X3Guard: A 150M parameter prompt guard",
+     "summary": "At Axiomic Labs we have just released X3Guard-150M, a prompt guard model trained on our high-performing base model, GPT-X3. For any given prompt, X3Guard flags whether it is Harmful, and whether it is Adversarial, in one go. It outperforms models that are many times its size, and can run entirely\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwyp7w/x3guard_a_150m_parameter_prompt_guard/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "'Duffy Lied': Controllers Refute Transportation Secretary's Ground Stop Story",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50507791",
+     "url": "https://www.commondreams.org/news/duffy-ground-stop-explanation",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Probable GLM model",
+     "summary": "https://preview.redd.it/k7ife2j2ms1i1.png?width=591&format=png&auto=webp&s=e8dd29b327ac46e7634a5faf48454ec1beb7aa0b Because of Theo gg tweet of all people, I Launch QFN DeepResearch swarm agent to find anything about this. THREE model names, blurred out, sitting at 59.4% / 57.1% / 54.0%. The\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwy3ka/probable_glm_model/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "I finally succeed the CMP 170HX voltage glitch and get 80GB VRAM + 126sm! !",
+     "summary": "Ever since the information surfaced five days ago, I had intended to implement it right away. Having confirmed that it could be executed using 'pico,' I carried it out today. I had Astra write the script for the restricted write-access portion, and after nearly 15 hours of work, I finally managed\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwxzgj/i_finally_succeed_the_cmp_170hx_voltage_glitch/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "SatBench. Benchmarking benchmarks. Each year's new AI benchmarks get beaten faster",
+     "summary": "submitted by /u/japie06 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xwxq0v/satbench_benchmarking_benchmarks_each_years_new/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Spotted a very interesting detail about Intel's upcoming CPU platform (LGA 1954)",
+     "summary": "I was doing some research about the the platform for Intel's next generations of CPUs. If we look closely at the PCIe 5.0 configuration for Z990/W980, it specifies x16 (or x8/x8 ) x8 (or x4/x4) \"Storage\" So, it is plausible we might see motherboards with 3 PCIe 5.0 x8 slots directly wired into the\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwxbjk/spotted_a_very_interesting_detail_about_intels/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "All AI-generated code should be Open Source",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50507303",
+     "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "When Fable 5.2 result : L ? what are your predictions?",
+     "summary": "submitted by /u/TheReedemer69 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xwx8gb/when_fable_52_result_l_what_are_your_predictions/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "higurashi-ai/Haru-4B \u00b7 Hugging Face",
+     "summary": "Haru-4B Code \u00b7 Technical blog \u00b7 Technical blog (Japanese) Haru-4B is a low-latency and multilingual full-duplex continuous spoken dialogue foundation model: it listens and speaks at the same time, the way people do on a phone call. It is a pretrained base model, released for research. Native\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xww5o2/higurashiaiharu4b_hugging_face/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "meituan-longcat/LongCat-Video-Avatar-1.6 \u00b7 Hugging Face",
+     "summary": "\ud83d\ude80 Model Introduction We are excited to announce the release of LongCat-Video-Avatar 1.6, the latest upgrade to our open-source framework for audio-driven human video generation. Building upon LongCat-Video-Avatar 1.5, 1.6 improves expressive naturalness, lip\u2013audio synchronization, coordinated\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwvrri/meituanlongcatlongcatvideoavatar16_hugging_face/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Gemini 4 Hydrogen just DESTROYED Claude Fable 5.2 & all other models in the latest benchmark.",
+     "summary": "submitted by /u/Pixelied [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xwvg9b/gemini_4_hydrogen_just_destroyed_claude_fable_52/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Claude wrote and trained a language model for DOS that fits on a floppy disk",
+     "summary": "submitted by /u/Background-Wafer-548 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xwvaq9/claude_wrote_and_trained_a_language_model_for_dos/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "\u201cDON\u2019T WORK ON LLMs\u201d - @ylecun at CoRL",
+     "summary": "submitted by /u/Heavy-Ad9232 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xwv6va/dont_work_on_llms_ylecun_at_corl/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "I don't think double-blind review systems work [D]",
+     "summary": "Reviewers can see the authors\u2019 names and affiliations in many cases, making this system closer to single-blind review than double-blind review. I have personally witnessed cases where student reviewers rejected other researchers\u2019 papers in an attempt to increase the chances of their own papers\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xwuwqd/i_dont_think_doubleblind_review_systems_work_d/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "My definition for AGI and why the frontier is still far from AGI",
+     "summary": "https://preview.redd.it/ne0r83fcur1i1.png?width=1596&format=png&auto=webp&s=0942b5461e233e08b49e25de91edfa8c7d7a3168 So for the last few day I've been thinking the definition of AGI because I just don't feel the AGI as other people claimed, then I came up with six different axis to measure AGI,\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xwumyr/my_definition_for_agi_and_why_the_frontier_is/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Hackathon project for MariaDB's Wikipedia Through Time challenge: matching sentences across seven Wikipedia editions at any past date [P]",
+     "summary": "Built at Junction, a hackathon in Espoo, this weekend. Parallax takes an article and lines up its Finnish, Swedish, German, English, Russian, Estonian and Ukrainian editions statement by statement. For any past date it shows where the editions tell something differently. We store every revision.\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xwttxo/hackathon_project_for_mariadbs_wikipedia_through/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Latest version of strata made my Qwen3.8-Flash-Next dumb and useless",
+     "summary": "I updated the strata to the latest version from v0.1.42.0, so I can try the latest unsloths models and see how they fare against the iq3_s variant I have been using. Upon updating it, I noticed it messed up the whole thing, It got faster, but it got way dumber! previously it would only take 15~30\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwttcw/latest_version_of_strata_made_my_qwen38flashnext/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "[Paper] No Second Run: Does RSI Stop at Frontier Pre-training? - 801-30B-A3B-Base Coming Soon",
+     "summary": "Pre-training is where every foundation model begins; bringing recursive self-improvement (RSI) there would let AI improve the process that creates AI. Yet public RSI work has so far targeted only post-training, which starts from an existing base model, runs trials costing GPU-hours, and returns\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwt3ri/paper_no_second_run_does_rsi_stop_at_frontier/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Jensen Huang allegedly manufactured the GPU shortage",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50505905",
+     "url": "https://wccftech.com/jensen-huang-financed-ai-startups-absorb-excess-silicon/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "EUROPA, the EU's open AI model, is aiming for nearly 1 trillion parameters",
+     "summary": "One can hope submitted by /u/mawcopolow [link] [comments]",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwr917/europa_the_eus_open_ai_model_is_aiming_for_nearly/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "With 42k submissions to ICLR, do you think the acceptance rate will stay the same? [D]",
+     "summary": "Given the massive jump to 42,000 submissions this year, I\u2019m curious how people think the program chairs will handle the acceptance rate. Will they stick to the usual ~26-28% (meaning ~11k+ accepted papers), or will they cap the total number of accepted papers due to venue/reviewer constraints and\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xwqxwj/with_42k_submissions_to_iclr_do_you_think_the/",
+     "source": "r/MachineLearning"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "An overview of Jensen Huang\u2019s messy days",
+     "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The\u2026",
+     "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "AI DJs Completely Kill My Groove",
+     "summary": "YouTube Music and Spotify want synthetic hosts to curate your playlists. Their awkward banter and bogus song trivia are ruining the vibe.",
+     "url": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
+     "summary": "A Carnegie Mellon student\u2019s tiny E Ink gadgets, called OATs, give houseplants, skateboards, and dumbbells expressive personalities to nudge you toward better habits.",
+     "url": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
+     "source": "Wired AI"
+    }
+   ],
+   "influencer_takes": [],
+   "research_radar": [
+    {
+     "headline": "Sunday assorted links",
+     "summary": "1. His office. 2. The South African bi-oceanic railway. 3. Ethnic politics and class politics. 4. AI-generated preview is going viral, what is the chance they make the movie now? I will pay to see it. Is this a new method of movie evaluation and greenlighting? 5. Ezra Klein on the permitting bill\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/sunday-assorted-links-590.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-590",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "WyrmClimberManacle/Gemini-Config-Checker-: Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+     "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+     "url": "https://github.com/WyrmClimberManacle/Gemini-Config-Checker-",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "YellowLaborerMarket/Gemini-Config-Checker-: Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+     "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+     "url": "https://github.com/YellowLaborerMarket/Gemini-Config-Checker-",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "WireProvostPucker/Gemini-Config-Checker-: Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+     "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+     "url": "https://github.com/WireProvostPucker/Gemini-Config-Checker-",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "WinnerSpecialist/Gemini-Config-Checker-: Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+     "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+     "url": "https://github.com/WinnerSpecialist/Gemini-Config-Checker-",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "WindGatorRise37/Gemini-Config-Checker-: Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+     "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+     "url": "https://github.com/WindGatorRise37/Gemini-Config-Checker-",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "WingDataVacuum/Gemini-Config-Checker-: Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+     "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+     "url": "https://github.com/WingDataVacuum/Gemini-Config-Checker-",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "weightcashiercupola/Gemini-Config-Checker-: Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+     "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+     "url": "https://github.com/weightcashiercupola/Gemini-Config-Checker-",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "Watchlespeed/Gemini-Config-Checker-: Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+     "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+     "url": "https://github.com/Watchlespeed/Gemini-Config-Checker-",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "Visionbeyondtrack/Gemini-Config-Checker-: Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+     "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+     "url": "https://github.com/Visionbeyondtrack/Gemini-Config-Checker-",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "Violetnyudress/Gemini-Config-Checker-: Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+     "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+     "url": "https://github.com/Violetnyudress/Gemini-Config-Checker-",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "TrooperFilter/Gemini-Config-Checker-: Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+     "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+     "url": "https://github.com/TrooperFilter/Gemini-Config-Checker-",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "TypeTyrantScheme/Gemini-Config-Checker-: Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+     "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+     "url": "https://github.com/TypeTyrantScheme/Gemini-Config-Checker-",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "Tyler Cowen\u2019s strongest musical recommendations, 2003\u20132026",
+     "summary": "From the Archive, written by ChatGPT: The clearest standouts are Loveless, Brazil Classics 1, Solo Monk, and the Louvin Brothers\u2019 Tragic Songs of Life. Bach receives the strongest sustained endorsement across the years. Some of these recommendations were buried in country profiles and assorted\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/tyler-cowens-strongest-musical-recommendations-2003-2026.html?utm_source=rss&utm_medium=rss&utm_campaign=tyler-cowens-strongest-musical-recommendations-2003-2026",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Understanding Positional Embeddings in Modern LLMs",
+     "summary": "The Methods Behind How LLMs Represent Token Positions",
+     "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+     "source": "Ahead of AI"
+    },
+    {
+     "headline": "AI and complements",
+     "summary": "In a \u201cweak links\u201d model of production, where tasks are complements, the gains from automation tend to arrive slowly because output is constrained by the least productive tasks. But the same complementarity makes attacks more harmful and easier to execute. For example, with an elasticity of\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/ai-and-complements.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-and-complements",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "violetkomodolimit/ai--manus2.0: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "url": "https://github.com/violetkomodolimit/ai--manus2.0",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-11-15T18:58+00:00",
+  "window_start": "2026-11-15T06:50+00:00",
+  "window_end": "2026-11-15T18:58+00:00",
+  "candidate_count": 49,
+  "model": "free (no LLM)"
+ }
+}
