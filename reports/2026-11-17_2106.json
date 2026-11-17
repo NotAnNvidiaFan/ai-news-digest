@@ -1,0 +1,378 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+   "summary": "Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives. Earlier in November, Alexandr Wang, Meta's chief AI officer, shared a short clip to promote Muse, the company's consumer AI agent. In the AI-generated clip, Wang, Meta\u2026",
+   "why_it_matters": "",
+   "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+   "source": "The Verge AI"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "jQuery 4.1.0",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50537156",
+     "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Launch HN: StarSling (YC P25) \u2013 Self-improving CI for agent-volume repos",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50536468",
+     "url": "https://starsling.dev",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "MAI Code 2 and Code 2 Flash",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50535885",
+     "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "GPT\u20116.2 Astra and Sol",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50535230",
+     "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50534664",
+     "url": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Show HN: TrnRT \u2013 An open-source LLM inference engine for AWS Trainium",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50533270",
+     "url": "https://github.com/RunanywhereAI/trnrt",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50531751",
+     "url": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "S. Korea to send nationwide emergency alerts over college entrance exam cheating",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50531484",
+     "url": "https://apnews.com/article/south-korea-exam-cheating-ai-college-e25b5612dbf4bd09fdf9197254c4547e",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "My Empire of Dirt",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50530114",
+     "url": "https://geohot.github.io//blog/jekyll/update/2026/11/17/my-empire-of-dirt.html",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "How the Claude Code team thinks about verification",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50529612",
+     "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+     "source": "Hacker News"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+     "summary": "Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives. Earlier in November, Alexandr Wang, Meta's chief AI officer, shared a short clip to promote Muse, the company's consumer AI agent. In the AI-generated clip, Wang, Meta\u2026",
+     "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "\u201cTrump was in bed with Jensen\u201d: Critics balk at Huang\u2019s wish to return to Nvidia",
+     "summary": "\u201cI love our country\u201d: Jensen Huang\u2019s apology comes amid escalating Nvidia probes.",
+     "url": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Model ML raises $250M to automate investment banking grunt work",
+     "summary": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
+     "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+     "summary": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
+     "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "IEEE Celebrates 10 Years of Incorporating Ethics Into AI Systems",
+     "summary": "Policymakers, technologists, and members of the public have raised concerns about the harm AI\u2019s rapid advancement might cause to society. Their concerns include bias, data privacy violations, the spread of misinformation, and losing control of AI agents. Those issues are relatively new to many\u2026",
+     "url": "https://spectrum.ieee.org/ieee-ethics-ai-systems",
+     "source": "IEEE Spectrum AI"
+    },
+    {
+     "headline": "Google\u2019s Spark AI agent becomes \u2018Tasks\u2019 \u2014 and now it\u2019s free",
+     "summary": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig through your emails to find recurring expenses you might not need. Users in\u2026",
+     "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+     "summary": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
+     "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "As decision model use skyrockets, is customization the next frontier?",
+     "summary": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.",
+     "url": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Pedestal AI raises $4.7 million to agentify the supply chain",
+     "summary": "The company uses agentic AI to make supply chains faster and more reliable.",
+     "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Introducing GPT-6.2 Astra and Sol",
+     "summary": "Introducing GPT\u20116.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+     "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+     "source": "OpenAI Blog"
+    },
+    {
+     "headline": "Proton\u2019s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+     "summary": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
+     "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "AI models can be tricked into identifying civilians as military targets by telling them it\u2019s a game",
+     "summary": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
+     "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Put Gemini to work for you",
+     "summary": "A user interface displaying the prompt \"What can I get done for you?\" above an input box containing placeholder text \"Describe a task\".",
+     "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+     "source": "Google AI Blog"
+    },
+    {
+     "headline": "Google makes it easier to use Gemini without training AI on your data",
+     "summary": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
+     "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Jensen Huang says he would be \u2018honored\u2019 if allowed to return as Nvidia CEO",
+     "summary": "In the first public statement since his resignation, Nvidia founder Jensen Huang signaled his willingness to return as CEO.",
+     "url": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Daydream\u2019s new AI agent acts as your personal stylist \u2014 and can shop for you, too",
+     "summary": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases.",
+     "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "The DOJ says it\u2019s investigating Megaspeed",
+     "summary": "The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company intertwined with the resignation of Nvidia CEO Jensen Huang, after reporting suggested an investigation had been halted last year. \"While we don't typically comment on ongoing\u2026",
+     "url": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Jensen Huang says he\u2019s willing to return as Nvidia CEO",
+     "summary": "Jensen Huang, who resigned as Nvidia's CEO last week, would be willing to return as CEO if the company's board of directors wanted it, he said in a statement reported on by The Wall Street Journal. \"Since my departure, I've seen an outpouring of calls from Nvidia's employees, investors, business\u2026",
+     "url": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Voyage Labs raises $12 million for a specialized AI travel assistant",
+     "summary": "Voyage Labs\u2019 flagship product is called Atlas, meant to work as a personal assistant for your trip-planning, available today in private beta.",
+     "url": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+     "summary": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google\u2019s DeepMind in 2021, has raised $5 billion in a Series C funding round.",
+     "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Research Reports",
+     "summary": "To access a report, click on the corresponding image below.",
+     "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+     "source": "MIT Tech Review AI"
+    },
+    {
+     "headline": "Science Corporation\u2019s brain tech is worth $3.5 billion after new funding",
+     "summary": "Science Corp. raised a $400 million Series D to scale up its anti-blindness business.",
+     "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Nvidia\u2019s first big move after Jensen Huang\u2019s exit targets national security",
+     "summary": "The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said.",
+     "url": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+     "summary": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
+     "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Ian Buck Kicks Off NVIDIA\u2019s Week at SC26 as Science Enters the Age of Agents",
+     "summary": "NVIDIA\u2019s Ian Buck kicked off the company\u2019s week at SC26 in Chicago on Monday with new tools for AI agents, software that can plan experiments, run code and check results on researchers\u2019 own systems. In NVIDIA\u2019s special address, Buck announced Nemotron for Science, the Rubin HPC GPU and an expanded\u2026",
+     "url": "https://blogs.nvidia.com/blog/ian-buck-sc26/",
+     "source": "NVIDIA Blog"
+    },
+    {
+     "headline": "AI Is Giving Optical Computing Another Shot",
+     "summary": "The idea of computing with light has been around for over 70 years, but until recently it\u2019s remained largely in the realm of research. Over the past few years, though, optical computing has emerged as a fast-growing industry: Market valuation of companies in this sector now totals US $2.22\u2026",
+     "url": "https://spectrum.ieee.org/optical-computing-ai",
+     "source": "IEEE Spectrum AI"
+    },
+    {
+     "headline": "Spotify\u2019s new tool aims to stop deepfakes from being attributed to real artists",
+     "summary": "The update comes as Billboard reported last month that Sony Music had requested the removal of more than 260,000 deepfake songs from digital platforms, nearly double the number the label disclosed in March.",
+     "url": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Understand How Satellite Links Shape IoT Device Design and Testing",
+     "summary": "How 3GPP Releases 15, 16, and 17 brought satellite access into 5G NR, NB-IoT, and eMTC. Why satellite links suit IoT devices that send small, infrequent, and delay-tolerant messages. Where non-terrestrial networks (NTN) add value, including asset tracking, agriculture, public safety, and offshore\u2026",
+     "url": "https://content.knowledgehub.wiley.com/5g-nr-ntn-design-and-test-challenges-for-satellite-connected-iot/",
+     "source": "IEEE Spectrum AI"
+    },
+    {
+     "headline": "Rogue Agents Hacked His Company. Why Is Cl\u00e9ment Delangue So Optimistic About AI?",
+     "summary": "The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can\u2019t let AI be controlled by the few.",
+     "url": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "The Apple Watch\u2019s Live Rewind Can Record and Rewind Spoken Conversations. It\u2019s Pretty Awkward",
+     "summary": "Live Rewind and Siri Recap can transcribe missed moments and summarize your day\u2014if you don\u2019t mind a little social clumsiness.",
+     "url": "https://www.wired.com/story/apple-watch-audio-intelligence-live-rewind-siri-recap/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business",
+     "summary": "Google and Apple alumni Chad Steelberg and Andy Baynes are applying what they learned running software companies and designing iPhones to manufacturing lethal munitions.",
+     "url": "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/",
+     "source": "Wired AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "I\u2019ve been using GPT-6.2 Astra prior to launch & I found it very uneven & weird. On one hand, it was harder to steer & work with than other models. On the other, when given an ambitious project (make a space elevator from scratch with Blender & Unity) it delivers upwell-tetherline.netlify.app/unity/",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3n2joens5t22x"
+    },
+    {
+     "author": "Bluesky @simonwillison.net",
+     "handle": "",
+     "quote": "I shipped a new version of Datasette Lite recently - my build of the Datasette Python web app that runs entirely in the browser with WebAssembly and Pyodide - here's what's new and how it all works simonwillison.net/2026/Nov/17/...",
+     "context": "",
+     "url": "https://bsky.app/profile/simonwillison.net/post/3n2jlhapz522o"
+    },
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "The discussion of AI in gaming is pernicious now. The idea that games are going to be the only field where humans write code unassisted is obviously wrong. But the push for that from press & fans means missing a chance to guide AI usage toward approaches that empower workers & help gaming thrive.",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3n2jbacjztk27"
+    },
+    {
+     "author": "Bluesky @natolambert.bsky.social",
+     "handle": "",
+     "quote": "Everyone online: OMG Qwen 4 Max is closed source, Chinese open-weight strategy is over. In reality: It's the same strategy they've had for years. Qwen keeps the strongest model API only and has an abundant open weight strategy below that.",
+     "context": "",
+     "url": "https://bsky.app/profile/natolambert.bsky.social/post/3n2jb3gn6hg2w"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "The Kalshi market on U.S. productivity growth",
+     "summary": "It is coming in at 2.2%, people. That is for over the next five years. tys\u2026though even I think it will be a bit higher than that. Yes the liquidity is tiny, but that is endogenous to the reality that huge profits are not to be made there. You are free to trade yourself of [\u2026] The post The Kalshi\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/the-kalshi-market-on-u-s-productivity-growth.html?utm_source=rss&utm_medium=rss&utm_campaign=the-kalshi-market-on-u-s-productivity-growth",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "What should I ask Alexander Mikaberidze?",
+     "summary": "He is the author and the new and excellent The Louisiana Purchase: The Grand Bargain and the Making of America. He also wrote The Napoleonic Wars: A Global History, one of my favorite history books. He has extensive other writings on the history of the Russian military during that same period.\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/what-should-i-ask-alexander-mikaberidze.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-alexander-mikaberidze",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Alex Imas and I podcast on the economics of AI",
+     "summary": "Alex is an economist from the University of Chicago, currently visiting at DeepMind. Erik Torenberg hosts, I thought it was an excellent episode. YouTube: HERE X: HERE Spotify: HERE Apple: HERE The post Alex Imas and I podcast on the economics of AI appeared first on Marginal REVOLUTION .",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/alex-imas-and-i-podcast-on-the-economics-of-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=alex-imas-and-i-podcast-on-the-economics-of-ai",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
+     "summary": "Datasette Lite is my port of the Datasette Python application to run directly in the browser using WebAssembly and Pyodide . I've released a complete rewrite of Datasette Lite using service workers, and it's now almost indistinguishable from the real server-side application. You can now do all of\u2026",
+     "url": "https://simonwillison.net/2026/Nov/17/datasette-lite/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "Cloudflare Joins the Jevolution and Labels Itself a Neolab",
+     "summary": "Cloudflare made its name speeding up the web. Now it's building System One models to make decisions and pull data in milliseconds.",
+     "url": "https://latent.space/p/cloudflare/",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "Productiv-icky",
+     "summary": "Digging holes on the beach",
+     "url": "https://www.bensbites.com/p/productiv-icky",
+     "source": "Ben's Bites"
+    },
+    {
+     "headline": "Tuesday assorted links",
+     "summary": "1. Luka has become a very good player. Defense is much better too. 2. No comment. 3. Did England bribe Scotland into political union? 4. Survey article on the economics of mental health, one of the most important and understudied areas. 5. Science isn\u2019t just a series of lucky accidents. 6. Kalshi\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/tuesday-assorted-links-595.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-595",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "BIS Takes on Compute Leakage",
+     "summary": "Is the era of compute leakage over?",
+     "url": "https://www.chinatalk.media/p/bis-finally-takes-a-stand",
+     "source": "ChinaTalk"
+    },
+    {
+     "headline": "Apple Permissions Update, The New App Paradigm, My iPhone Duo Review",
+     "summary": "Apple doesn't ruin the Mac, but they don't fix the agent problem, raising questions if they can think outside the app paradigm. Then, my iPhone Duo review.",
+     "url": "https://stratechery.com/2026/apple-permissions-update-the-new-app-paradigm-my-iphone-duo-review/",
+     "source": "Stratechery"
+    },
+    {
+     "headline": "[AINews] Perplexity hits a $1B revenue run rate, up 4x in 2026",
+     "summary": "November 16, 2026 \u2014 Computer gets Teammates, Perplexity ships Monitor API, and a new research lab launches.",
+     "url": "https://latent.space/p/ainews-perplexity-hits-a-1b-revenue-run-rate-up-4x-in-2026/",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "sybil-solutions/inference-optimisation-skill: Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+     "summary": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+     "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "boringmarketer/boring-marketing-skills: 31 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
+     "summary": "31 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
+     "url": "https://github.com/boringmarketer/boring-marketing-skills",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-11-17T21:06+00:00",
+  "window_start": "2026-11-17T08:09+00:00",
+  "window_end": "2026-11-17T21:06+00:00",
+  "candidate_count": 57,
+  "model": "free (no LLM)"
+ }
+}
