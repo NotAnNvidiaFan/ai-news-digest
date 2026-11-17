@@ -1,0 +1,237 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "CVPR Pre-submission Review [D]",
+   "summary": "So what was your pre-submission review from Claude or ChatGPT? For me it\u2019s always \"Boarderline\" with limited novelty. No matter how many time I fix the issues reported by AI. submitted by /u/Prior_Brilliant_9962 [link] [comments]",
+   "why_it_matters": "",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xye5j2/cvpr_presubmission_review_d/",
+   "source": "r/MachineLearning"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "CVPR Pre-submission Review [D]",
+     "summary": "So what was your pre-submission review from Claude or ChatGPT? For me it\u2019s always \"Boarderline\" with limited novelty. No matter how many time I fix the issues reported by AI. submitted by /u/Prior_Brilliant_9962 [link] [comments]",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xye5j2/cvpr_presubmission_review_d/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "A hypothetical vertical biotech progression",
+     "summary": "Tier 0: Nothing about how drugs are made changes, but the individual tasks required are sped up by AI adoption. Statisticians and data scientists write code with Claude. Pharma company documents get drafted and revised by ChatGPT. FDA reviewers adopt Grok in their reviews. Doctors use AI to\u2026",
+     "url": "https://www.reddit.com/r/singularity/comments/1xydifz/a_hypothetical_vertical_biotech_progression/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "DSpine - Updates on PR & GGUFs",
+     "summary": "Previous thread on DSpine : [Paper] DSpine - Draft in Parallel, Condition Through Depth: Adjacent Causal Injection for Speculative Decoding - tencent GGUFs : Found below GGUFs & model cards has more details including comparison with DFlash2. https://huggingface.co/aj9o9/Qwen3.8-27B-DSpine-b16-GGUF\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xycsm1/dspine_updates_on_pr_ggufs/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "We logged 621k changes from 127k papers' ablations: 26% didn't help by the papers' own numbers [P]",
+     "summary": "Follow-up to the scime atlas posts from earlier this month. We read 126,758 papers in full (ICML, NeurIPS, ICLR, CVPR, AAAI, ICCV, ECCV, TPAMI, IJCV, JMLR, 2016\u20132026) and extracted every change a paper added and measured (a layer, a loss, more data, a larger learning rate...) with the effect it\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xybvju/we_logged_621k_changes_from_127k_papers_ablations/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Single 3060 - Mostly Vision (Frigate)",
+     "summary": "Hello, I am consolidating a bit of my server footprint and decided to keep a single 3060 (had 3) and mostly use it for Local workloads (Frigate, Home Assistant, Logs, etc). Curious if someone would want to recommend a good vison model for this card? I currently run qwen3-VL on a A380 and the\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xybrqd/single_3060_mostly_vision_frigate/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Why are ViTs so popular? [D]",
+     "summary": "I deploy CNN + Attention stack models on edge devices, to great effect. Taking advantage of convs and reducing the spatial dimensionality makes all the sense in the world to me. Having vanilla ViTs learning the inductive biases from scratch makes none to me. Is it really a case of \"because I can\"?\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xyb8q6/why_are_vits_so_popular_d/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Clover 2: dense 27.8B base + 7 LoRA experts routed per token, not a static merge, weights public",
+     "summary": "Disclosure: I\u2019m with the team that built this. Wanted to share something a little different from the usual finetune drop. Clover 2 keeps a base model and 7 trained LoRA adapters (roleplay, general assistant, security, math, long-document, efficiency, knowledge) separate at inference time. A\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xyb7jw/clover_2_dense_278b_base_7_lora_experts_routed/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Inflect v3 - a owensong Collection",
+     "summary": "Inflect v3: compact local text-to-speech. Six English voices, three model sizes, reference-voice tuning, event tags and optional 48 kHz output. Apache 2.0. Inflect is a family of compact English text-to-speech models. Choose a voice, enter your text, and generate a WAV locally. Start with Mini for\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xyb3a7/inflect_v3_a_owensong_collection/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Thinking Machines 4-bit replication: I trained a GPT end to end with a 4-bit forward pass on one B200",
+     "summary": "Thinking Machines wrote last week that Inkling 2 Small was trained with a native 4-bit forward pass. I wanted to check this for myself. What I ran: 1x B200 on Modal, PyTorch 2.8, plus a small CUDA library that calls cuBLASLt's real NVFP4 and FP8 matmuls on raw pointers, loaded with ctypes Forward\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xyawzz/thinking_machines_4bit_replication_i_trained_a/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "maxwell-model/Maxwell-V1-Flash \u00b7 Hugging Face",
+     "summary": "Model Introduction Maxwell-V1.0-Flash is a next-generation, high-performance Mixture-of-Experts (MoE) language model developed by the Maxwell Team, with 35B total parameters and 3B active parameters per token (both excluding embeddings) and support for context lengths up to 256K tokens. It is\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xyamk6/maxwellmodelmaxwellv1flash_hugging_face/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "How long do you expect this transition to happen for AI datacenters?",
+     "summary": "submitted by /u/WillHunting20 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xy9rkk/how_long_do_you_expect_this_transition_to_happen/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Hugging Face switched its language model inference routing to OpenRouter",
+     "summary": "Hugging Face announced on November 16, 2026, that requests to language models through Inference Providers now go through OpenRouter instead of Hugging Face's own router. OpenRouter picks a provider for each call based on live price, speed, and reliability, and retries on another provider if the\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xy9o6j/hugging_face_switched_its_language_model/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Struggled in my Infosys interview as a fresher. How should I strengthen my fundamentals to become an AI/ML Engineer?[D]",
+     "summary": "Yesterday, I attended an Infosys interview as a fresher, but unfortunately, I couldn't perform well. I managed to answer only a few questions correctly. The interview covered a mix of basic programming fundamentals, Python concepts, JavaScript fundamentals, OOP concepts, backend development with\u2026",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xy92xo/struggled_in_my_infosys_interview_as_a_fresher/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Mem Is Shutting Down",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50526537",
+     "url": "https://get.mem.ai/blog/mem-is-shutting-down",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Claude Mythos slashed software work to onboard AMD GPUs to around three days",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50526264",
+     "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Lipi, what started as a voice editor for Kannada, just got better with 12 Indic languages running 100% in-browser (25 MiB Conformer-CTC WASM + 17.7 MB int8 Paar ONNX)",
+     "summary": "I originally built Lipi as a lightweight browser voice editor for Kannada ( \u0cb2\u0cbf\u0caa\u0cbf ). It just got better with 12 Indic languages running 100% locally in your browser with zero server audio uploads. Two things bothered me in the first version: 1. The browser Web Speech API pipes audio to cloud\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xy7cln/lipi_what_started_as_a_voice_editor_for_kannada/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Is anyone's AC playing the role of \"discussion moderator\" for ICLR? [D]",
+     "summary": "According to the guide, they are supposed to encourage reviewers to respond to author rebuttals, yet we've gotten nothing but radio silence. Is anyone else having better luck? submitted by /u/Whatever_635 [link] [comments]",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xy6t7g/is_anyones_ac_playing_the_role_of_discussion/",
+     "source": "r/MachineLearning"
+    },
+    {
+     "headline": "Some speed benchmarks for various classes of local LLM",
+     "summary": "Model Active config 4080 decode (tok/s) 4080+3080 decode (tok/s) 4080 prefill (tok/s) 4080+3080 prefill (tok/s) LFM2.5-24B-A2B UD-Q4_K_XL 4080+3080 249 250 5,530 7,930 MiniCPM-V 4.7 35B-A3B Q4_K_M 4080+3080 177 165 1,305 2,500 Flint 40B-A2.5B UD-Q4_K_XL 4080+3080 119 138 1,563 1,380 Swift 1.5\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xy5yn4/some_speed_benchmarks_for_various_classes_of/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "Your daily dose of Qwopium:",
+     "summary": "No low-effort memes here, just research and straight facts. Can\u2019t argue with facts am I right? Here is the full breakdown of major releases mapped by the day of the week: **Monday (7 Releases)** \u2022 Qwen-VL (Aug 21, 2023) \u2022 Qwen-72B-Chat (Nov 27, 2023) \u2022 Qwen-Audio (Nov 27, 2023) \u2022 Qwen 3.5 (Feb 16,\u2026",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xy4xsx/your_daily_dose_of_qwopium/",
+     "source": "r/LocalLLaMA"
+    },
+    {
+     "headline": "We could be 12 months away from AIs that can overthrow the government",
+     "summary": "submitted by /u/JuggernautMiserable4 [link] [comments]",
+     "url": "https://www.reddit.com/r/singularity/comments/1xy4ve3/we_could_be_12_months_away_from_ais_that_can/",
+     "source": "r/singularity"
+    },
+    {
+     "headline": "Show HN: Sutra-OS \u2013 A self-hosted ontology platform",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50525052",
+     "url": "https://github.com/0nelight/sutra-os",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Optimizely compromised, served malware on Zoom, GitLab",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50524767",
+     "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "United Airlines has a widespread system outage",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50524260",
+     "url": "https://apnews.com/article/united-airlines-outage-5a5e5f75bb07f11ffb8750901f0076ff",
+     "source": "Hacker News"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Strengthening NATO and allied cyber defenses with AI",
+     "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+     "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+     "source": "OpenAI Blog"
+    },
+    {
+     "headline": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+     "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+     "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Tech leaders are convinced that Jensen Huang\u2019s exit was a plot against him",
+     "summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the scandal is the\u2026",
+     "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
+     "summary": "At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and developers. The kit is a four-node cluster of NVIDIA DGX Spark systems, each connected directly to its two neighbors in a ring, with\u2026",
+     "url": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
+     "source": "NVIDIA Blog"
+    },
+    {
+     "headline": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+     "summary": "Robotics startup misses payroll a year after CEO used funds for luxury home.",
+     "url": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
+     "source": "Ars Technica AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "A lot of folks don't realize how much of our computer infrastructure is an improvised system prone to cascading failures. You didn't need offensive AI cyberattacks to have big outages like Microsoft/FAA. Of course, now we DO have to deal with offensive AI (but also defensive AIs and patching)",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3n2htyp4bhc2t"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Adlerlicht, reporting on crime in Germany",
+     "summary": "In both German and English. Built with AI agents, we are going to see much more of this kind of effort. English-language explainer is here. The post Adlerlicht, reporting on crime in Germany appeared first on Marginal REVOLUTION .",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/adlerlicht-reporting-on-crime-in-germany.html?utm_source=rss&utm_medium=rss&utm_campaign=adlerlicht-reporting-on-crime-in-germany",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Quoting Go Proverbs",
+     "summary": "A little copying is better than a little dependency. \u2014 Go Proverbs , via Tags: go , programming",
+     "url": "https://simonwillison.net/2026/Nov/17/go-proverbs/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "The economics of Jensen Huang",
+     "summary": "Most of my assessment is very positive, but I will excerpt this bit from my latest Free Press piece: Finally, the company was not built to withstand Huang\u2019s departure. Too much authority and knowledge were concentrated in his hands, as evidenced by his practice of having about 60 different people\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/the-economics-of-jensen-huang.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-jensen-huang",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "llm 0.37.3",
+     "summary": "Release: llm 0.37.3 A bug fix release for LLM , mainly to cover a problem with the most recent Homebrew package of the software. Homebrew now ships the latest SQLite, 3.54.1 , which includes a fix that broke LLM's logging code . Short version: in SQLite 3.54.0 the following SQL: select\u2026",
+     "url": "https://simonwillison.net/2026/Nov/16/llm/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "TurtleReside/Gemini-Config-Checker-: Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+     "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+     "url": "https://github.com/TurtleReside/Gemini-Config-Checker-",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-11-17T08:09+00:00",
+  "window_start": "2026-11-16T22:21+00:00",
+  "window_end": "2026-11-17T08:09+00:00",
+  "candidate_count": 34,
+  "model": "free (no LLM)"
+ }
+}
