@@ -1,0 +1,327 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "PostgreSQL 19 Released",
+   "summary": "PostgreSQL 19 Released Most years PostgreSQL ships a new release in September, but this year's release came two months later thanks mainly to the flurry of issues that the PostgreSQL team needed to address as part of the ongoing AI-reported vulnerability apocalypse. This release was definitely\u2026",
+   "why_it_matters": "",
+   "url": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
+   "source": "Simon Willison"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50564366",
+     "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Claude solves two open problems in the physics of black holes",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50563148",
+     "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Anthropic hits $2T in Nasdaq debut",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50562754",
+     "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Chrome AI features wasting much bandwidth",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50562636",
+     "url": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "AI isn't replacing your job. It's turning it into low-paid gig work",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50562500",
+     "url": "https://restofworld.org/2026/ai-jobs-skills-gig-work/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Launch HN: Onlook (YC W25) \u2013 An open-source developer tool for designers",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50562320",
+     "url": "https://github.com/onlook-dev/onlook/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Fuck Your AI Safeguards",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50562262",
+     "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50561508",
+     "url": "https://thedataexchange.media/pete-warden-moonshine/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Show HN: Watch weight-space programming in action with WebGPU",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50561436",
+     "url": "https://tabbyml.github.io/weight-space-playground/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Show HN: Foolscap \u2013 a writing app that reads your book and never writes for you",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50559749",
+     "url": "https://foolscap.works/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Someone reported java4shell bug in September 2026",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50558906",
+     "url": "https://github.com/openjdk/jdk/pull/32781",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "AI Overworks People",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50558494",
+     "url": "https://twitter.com/catalinmpit/status/2123061832781090948",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Air Force Maj. Jason Watson has been in solitary confinement for almost 100 days",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50558191",
+     "url": "https://www.stripes.com/branches/air_force/2026-11-17/jason-watson-pretrial-hearing-uscmj-charges-23498480.html",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Wife of Senior Nvidia Executive Caught Up in Alleged AI Chip Smuggling Scandal",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50557420",
+     "url": "https://www.gadgetreview.com/wife-of-senior-nvidia-executive-caught-up-in-alleged-ai-chip-smuggling-scandal",
+     "source": "Hacker News"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "The Jensen Huang Blast Radius Has Hit His Favorite Restaurants",
+     "summary": "In Taiwan, some food vendors are distancing themselves from Nvidia\u2019s former CEO. Others stand by him. \u201cIt\u2019s not as if he killed someone or set something on fire,\u201d says one shop owner.",
+     "url": "https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Meta\u2019s Muse Charm might cost $300",
+     "summary": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the holidays in\u2026",
+     "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
+     "summary": "Lawsuit: Over 99% of school system\u2019s AI gun alerts were false positives.",
+     "url": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "The unfolding Jensen Huang scandal: a timeline",
+     "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+     "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Google is putting AI chats right on the homepage",
+     "summary": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein, it looks like you can open the sidebar by clicking the [\u2026]",
+     "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
+     "summary": "NVIDIA and Microsoft are extending their full-stack collaboration to help organizations build, customize and deploy intelligent applications \u2014 from next-generation infrastructure on Azure to industrial systems and Windows PCs. At Microsoft Ignite, the companies are expanding access to Azure\u2026",
+     "url": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/",
+     "source": "NVIDIA Blog"
+    },
+    {
+     "headline": "Anthropic\u2019s IPO could deliver $156 billion to charity",
+     "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
+     "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Gemini on Mac can now use your computer",
+     "summary": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things like speeding up workflows, filling in forms, making presentations,\u2026",
+     "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Google gives Gemini the ability to use your Mac for you",
+     "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+     "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Introducing Tool Retrieval in the Gemini API",
+     "summary": "Gemini spark on a space background",
+     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+     "source": "Google AI Blog"
+    },
+    {
+     "headline": "Meta\u2019s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+     "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
+     "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+     "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work \u2014 building applications for\u2026",
+     "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+     "source": "NVIDIA Blog"
+    },
+    {
+     "headline": "Walter Isaacson on curiosity and creativity in the AI age.",
+     "summary": "Walter Isaacson joins Google to discuss how history\u2019s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
+     "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+     "source": "Google AI Blog"
+    },
+    {
+     "headline": "Former Alibaba exec\u2019s Everful raises $48.5M to connect retailers with Chinese factories",
+     "summary": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
+     "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Google Built a Giant \u2018Mirror Dimension\u2019 Internet to Test Its Chrome AI Agents",
+     "summary": "The company\u2019s alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents\u2014without the risk of them going rogue.",
+     "url": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+     "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
+     "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Anthropic starts trading on Wall Street",
+     "summary": "Anthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol \"ANT\" at $111.50 per share, up from its initial $83 per share price that put company's value at around $1.5 trillion. The listing comes nearly a month after Anthropic revealed its plans to go public. In\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+     "summary": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
+     "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "ChatGPT can transcribe as you speak now with Live Dictation",
+     "summary": "ChatGPT can receive audio prompts from your microphone faster now with a Live Dictation feature that transcribes as you speak, rather than waiting until you finish recording. It's rolling out now globally on all ChatGPT plans on the web, desktop app, and iOS and Android apps. While using dictation\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Meet Shepherd, the Meta-Agent Keeping Rogue AI In Check",
+     "summary": "AI agents are running amok on the internet, armed with commands to accomplish certain tasks but often acting in undesirable or unexpected ways. These rogue incidents run the gamut from deleting an entire email inbox to hacking websites and even launching cyberattacks . Much like human workers need\u2026",
+     "url": "https://spectrum.ieee.org/ai-agent-manager",
+     "source": "IEEE Spectrum AI"
+    },
+    {
+     "headline": "Anthropic\u2019s IPO puts AI\u2019s circular financing boom to the test",
+     "summary": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
+     "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "With the biggest IPO of all time, Anthropic\u2019s \u2018good guy\u2019 reputation is on the line",
+     "summary": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to come. But it's not simply a financial milestone. Anthropic was founded on the idea\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Season\u2019s Streamings and Savings: Black Friday Deals Come to GeForce NOW",
+     "summary": "GeForce NOW is kicking off Black Friday with more reasons to make time for gaming. Six-month memberships are back for a limited time. Save 30% on the first six-month term of a Performance or Ultimate membership. Big gaming plans, smaller price tag. Keep the holiday savings going: Check out more\u2026",
+     "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026/",
+     "source": "NVIDIA Blog"
+    },
+    {
+     "headline": "Superhuman pushes its Go assistant everywhere",
+     "summary": "Superhuman is making Go its central agent and making it available in Docs and Mail.",
+     "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "I let Apple\u2019s always-listening AI summarize my life for two weeks",
+     "summary": "Was it worth it? I've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the Apple Watch Ultra 4. Both enable a wearable to ambiently listen to your conversations and, using AI, summarize them for you. Why? So you can [\u2026]",
+     "url": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Canva adds an AI \u2018off\u2019 button",
+     "summary": "Canva will now allow you to turn off its generative AI features. With this change, you can disable the graphic design platform's array of AI tools, such as its AI photo-extending Magic Expand feature, as well as turn off the ability to generate images with its Canva chatbot. This toggle doesn't\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Why a Computer Scientist Thinks Superintelligence Won\u2019t Happen",
+     "summary": "Many people were caught off guard this past summer when employees of one of the world\u2019s leading AI companies began casually debating whether their products would lead to human extinction. It started when Anthropic researcher Jacob Coxon announced his resignation, warning that his employer and\u2026",
+     "url": "https://spectrum.ieee.org/ai-superintelligence-debate",
+     "source": "IEEE Spectrum AI"
+    },
+    {
+     "headline": "Anthropic\u2019s Record-Breaking IPO Highlights the AI Giant\u2019s Worst Enemy\u2014Itself",
+     "summary": "Investors betting a barnstorming $107 billion will weigh whether the company\u2019s AI safety strategy and growing public anger toward data centers could impact its growth.",
+     "url": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "How OpenAI\u2019s Performance Factory keeps ChatGPT fast",
+     "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+     "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+     "source": "OpenAI Blog"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @natolambert.bsky.social",
+     "handle": "",
+     "quote": "Great to spend some time back in Ithaca. Very peaceful.",
+     "context": "",
+     "url": "https://bsky.app/profile/natolambert.bsky.social/post/3n2otgjrwg32q"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "PostgreSQL 19 Released",
+     "summary": "PostgreSQL 19 Released Most years PostgreSQL ships a new release in September, but this year's release came two months later thanks mainly to the flurry of issues that the PostgreSQL team needed to address as part of the ongoing AI-reported vulnerability apocalypse. This release was definitely\u2026",
+     "url": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "Thursday assorted links",
+     "summary": "1. How to turn AI-written maths into a video. 2. Honeypot markets in everything? 3. Traveling a lot without going on planes (WSJ). 4. American audiovisual exports have plunged in terms of global share (I think that is fine and arguably good, by the way). 5. \u201cThere\u2019s been a 30 year debate between\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/thursday-assorted-links-579.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-579",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "My wife thinks AI is a person",
+     "summary": "which isn\u2019t as nuts as it sounds...",
+     "url": "https://www.bensbites.com/p/my-wife-thinks-ai-is-a-person",
+     "source": "Ben's Bites"
+    },
+    {
+     "headline": "New Congress, New Rare Earths Policy?",
+     "summary": "Congress Should Build Upon, Not Replace, Trump\u2019s Rare Earths Policy",
+     "url": "https://www.chinatalk.media/p/new-congress-new-rare-earths-policy",
+     "source": "ChinaTalk"
+    },
+    {
+     "headline": "An Interview With Eric Seufert About Agentic Commerce",
+     "summary": "An interview with Eric Seufert about agentic commerce, including why he thinks ads will be the answer, and why I want retailers who cater to agents.",
+     "url": "https://stratechery.com/2026/an-interview-with-eric-seufert-about-agentic-commerce/",
+     "source": "Stratechery"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-11-19T20:49+00:00",
+  "window_start": "2026-11-19T07:40+00:00",
+  "window_end": "2026-11-19T20:49+00:00",
+  "candidate_count": 49,
+  "model": "free (no LLM)"
+ }
+}
