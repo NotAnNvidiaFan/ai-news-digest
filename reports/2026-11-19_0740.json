@@ -1,0 +1,580 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "[AINews] Gemini 4 Neon: GDM's Opus/Sol Contender",
+   "summary": "November 18, 2026 \u2014 Google\u2019s middle tier scores 61 on the Intelligence Index. Plus, Anthropic prices its IPO at $83.",
+   "why_it_matters": "",
+   "url": "https://latent.space/p/ainews-gemini-4-neon-gdm-s-opus-sol-contender/",
+   "source": "Latent Space"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "AI will not make you rich (2025)",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50555093",
+     "url": "https://colossus.com/article/ai-will-not-make-you-rich/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50554908",
+     "url": "https://arxiv.org/abs/2607.29378",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Black high school students sue after AI mistakes Doritos bag for gun",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50554641",
+     "url": "https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Gemini 4 Neon looks like an Opus 5.5 competitor",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50554374",
+     "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Fable: Written, painted and directed by Claude Fable 5.2",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50554269",
+     "url": "https://claudia.gallery/fable/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "US charges Irishman with destroying a $60M Air Force C-130",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50553236",
+     "url": "https://taskandpurpose.com/news/c-130-damage-ireland-daithi-ocorrain/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "LLM assisted reverse engineering",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50553225",
+     "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "GTA6-like as a 942Kb UEFI bootable image",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50553192",
+     "url": "https://github.com/eklavya-raj/gta6-uefi",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Gemini 4 Neon",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50552424",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Show HN: Robotics needs better CAD, so I wrote a B-rep kernel and 3,487 tests",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50552140",
+     "url": "https://springcraft-ai.github.io/springrep/",
+     "source": "Hacker News"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+     "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
+     "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is \u2018unpatchable\u2019",
+     "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+     "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Elon Musk says ousting Jensen Huang is like \u2018kicking Michael Jordan off your team\u2019",
+     "summary": "\u201cI don\u2019t think [Huang is] disloyal to the United States,\" Musk said.",
+     "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "The nation\u2019s largest school districts consider ditching Google Search",
+     "summary": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next year, schools will not have the option to disable Gemini-powered features without\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang\u2019s exit",
+     "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
+     "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+     "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
+     "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Does Nvidia Got This? Interim CEO Colette Kress Says It\u2019s Got This",
+     "summary": "WIRED is tallying up how many times Nvidia\u2019s interim CEO has assured everyone that the company has everything under control.",
+     "url": "https://www.wired.com/story/guys-really-we-got-this/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Anthropic prices IPO at $83 a share, above projected range",
+     "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
+     "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Even His Own Officials Don\u2019t Think Trump\u2019s China Trip Will Lead to Progress on AI",
+     "summary": "Fallout from the Nvidia scandal has made any negotiations around AI difficult, officials say.",
+     "url": "https://www.wired.com/story/administration-officials-dont-think-much-ai-progress-will-come-of-trumps-china-visit/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
+     "summary": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks.",
+     "url": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Introducing Gemini 4 Neon",
+     "summary": "",
+     "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+     "source": "Google DeepMind"
+    },
+    {
+     "headline": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: \u2018It\u2019s time to start running\u2019",
+     "summary": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.",
+     "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Palmer Luckey thinks China is \u2018thrilled to have Jensen out,\u2019 so he wants the ousted Nvidia CEO reinstated",
+     "summary": "\"It makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang.",
+     "url": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "America\u2019s AI Chip War Is Heating Up in the Dumbest Possible Ways",
+     "summary": "The Trump administration announced plans to clamp down on China\u2019s access to AI chips. Apparently, the cheating scandal of the century was the motivation they were missing.",
+     "url": "https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/",
+     "source": "Wired AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @simonwillison.net",
+     "handle": "",
+     "quote": "The most useful thing about the pelican riding a bicycle test continues to be illustrating the differences between models in the same family running at different effort levels - here's Gemini 4 Carbon, the new Gemini 4 Neon, and Gemini 4 Hydrogen at low, medium, and high",
+     "context": "",
+     "url": "https://bsky.app/profile/simonwillison.net/post/3n2nhnbueh22q"
+    },
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "At its current shipping trend, halving the time between each model release, Google exhausts all the element names on November 24, with a final shipping cadence of 2.5 \u00d7 10\u207b\u00b2\u2079 seconds (25 quectoseconds) between Tennessine and their final model, Oganesson.",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3n2n3vjt7622m"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "[AINews] Gemini 4 Neon: GDM's Opus/Sol Contender",
+     "summary": "November 18, 2026 \u2014 Google\u2019s middle tier scores 61 on the Intelligence Index. Plus, Anthropic prices its IPO at $83.",
+     "url": "https://latent.space/p/ainews-gemini-4-neon-gdm-s-opus-sol-contender/",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "The Anthropic IPO",
+     "summary": "In general I am bullish on the commercial prospects of AI companies, including Anthropic (do note I am on the Advisory Board, though with zero governance role and zero access to internal information). But I view today\u2019s IPO as a sign of bearishness on any kind of extreme superintelligence, no\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/the-anthropic-ipo.html?utm_source=rss&utm_medium=rss&utm_campaign=the-anthropic-ipo",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Will Baird, book maven (from my email)",
+     "summary": "Tyler and Alex, I have built Marginalia Library: using AI and the archives you have helpfully posted, I found every time a book has been mentioned on Marginal Revolution and created a searchable, browsable catalog. The catalog currently covers 13,315 mentions of 7,968 books across 7,306 posts.\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/will-baird-book-maven-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=will-baird-book-maven-from-my-email",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Human-AI Mutualism Is Unstable under Capability Asymmetry",
+     "summary": "arXiv:2611.23322v1 Announce Type: new Abstract: One hope for a good human future alongside advanced AI rests on enduring mutualism: humans and AI will need each other, so the relationship will stay good for both. We argue that this hope fails as AI capability grows. Bargaining guarantees each side\u2026",
+     "url": "https://arxiv.org/abs/2611.23322",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "Training Language Models for Introspective Oversight",
+     "summary": "arXiv:2611.23365v1 Announce Type: new Abstract: Language models increasingly exhibit behaviors that are difficult to detect in transcripts, such as reward hacking, deception, and sycophancy. Asking the assistant follow-up questions about its actions is unreliable, since models are generally not\u2026",
+     "url": "https://arxiv.org/abs/2611.23365",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "Where the Tokens Go: Heat, Entropy and Error in Agentic Coding",
+     "summary": "arXiv:2611.23375v1 Announce Type: new Abstract: Coding agents are billed by the token, yet software engineering says nothing about what a token actually buys. Here we introduce a theory of software thermodynamics. The theory draws analogues from classical and stochastic thermodynamics, extends\u2026",
+     "url": "https://arxiv.org/abs/2611.23375",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "HardwareDx: A Foundational Graph Model System for Datacenter Machine Repairs",
+     "summary": "arXiv:2611.23398v1 Announce Type: new Abstract: The rapid scale-up of AI infrastructure has made datacenter reliability a cornerstone of the cloud business economy. Since hardware failures in hyper-scale AI clusters can stall multi-million dollar training workloads, the downtime of individual\u2026",
+     "url": "https://arxiv.org/abs/2611.23398",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "RFBench: A Simulator-Grounded Multimodal Benchmark for Passive RF Layout Design and Understanding",
+     "summary": "arXiv:2611.23410v1 Announce Type: new Abstract: While multimodal language models can interpret diagrams and generate structured outputs, their capacity to connect passive radio-frequency (RF) design intent, layout geometry, and electromagnetic behavior remains largely untested. To address this\u2026",
+     "url": "https://arxiv.org/abs/2611.23410",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "Why Sub-4-Bit Vision CNNs Collapse and Where Mixed-Precision Recovery Stops",
+     "summary": "arXiv:2611.23445v1 Announce Type: new Abstract: Deep vision models operating in resource-constrained environments depend heavily on low-bit quantization, yet compressing weights below 4 bits frequently induces catastrophic accuracy collapse. While mixed-precision recovery strategies aim to rescue\u2026",
+     "url": "https://arxiv.org/abs/2611.23445",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "LusoClin: A Synthetic Clinical Note Dataset for Medical Information Retrieval in European Portuguese",
+     "summary": "arXiv:2611.23454v1 Announce Type: new Abstract: Access to large-scale clinical text collections is crucial for advancing medical information retrieval research, including clinical note search, patient cohort identification, and domain-adapted retrieval models. However, real clinical notes are\u2026",
+     "url": "https://arxiv.org/abs/2611.23454",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "VeriMath: Human-in-the-Loop Generation and Verification of Curriculum-Aligned Mathematics Assessment Items",
+     "summary": "arXiv:2611.23456v1 Announce Type: new Abstract: Automatic generation of mathematics assessment items is a growing area in educational artificial intelligence, yet classroom deployment remains challenging. Generated questions must satisfy multiple constraints: mathematical correctness, curriculum\u2026",
+     "url": "https://arxiv.org/abs/2611.23456",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "GUARD: Stabilizing Recursive Self-Improvement with Regret Guidance",
+     "summary": "arXiv:2611.23476v1 Announce Type: new Abstract: Autonomous AI agents pair a frozen base model with an editable harness of prompts, skills, tool rules, and memory. Recursive self-improvement (RSI) adapts this harness from experience without weight updates, yet self-editing without external graders\u2026",
+     "url": "https://arxiv.org/abs/2611.23476",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "Diagnostic Accuracy and Navigation Behavior of Vision-Language Model Agents Reading Emergency CT and MRI Examinations",
+     "summary": "arXiv:2611.23480v1 Announce Type: new Abstract: Purpose. To evaluate the diagnostic accuracy and image navigation behavior of vision-language model (VLM) agents under varying exploration strategies. Materials and Methods. In this retrospective study, six VLMs read 100 emergency CT and MRI\u2026",
+     "url": "https://arxiv.org/abs/2611.23480",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "SpecLook: Speculating Where to Look for Fast and Reliable Agentic MLLMs",
+     "summary": "arXiv:2611.23483v1 Announce Type: new Abstract: Agentic multimodal large language models (MLLMs) that think with images interleave reasoning with zoom-in tool calls. However, this sequential loop is slow, and its answers carry no reliability score. Prior speculation of tokens, reasoning steps, or\u2026",
+     "url": "https://arxiv.org/abs/2611.23483",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "BOS Summary: The First Token Matters",
+     "summary": "arXiv:2611.23508v1 Announce Type: new Abstract: Large vision-language models (LVLMs) and language models (LLMs) often exhibit attention sinks, whereby particular positions, such as the beginning-of-sequence (BOS) token, receive a disproportionate share of attention. Under standard causal masking,\u2026",
+     "url": "https://arxiv.org/abs/2611.23508",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "GRAFT: Execution-Guided Genetic Recombination for Agent Design",
+     "summary": "arXiv:2611.23509v1 Announce Type: new Abstract: Automated agent design searches for executable architectures that improve LLM-based agent performance, with evolutionary methods using language-model crossover to recombine promising mechanisms for task decomposition, model coordination, and\u2026",
+     "url": "https://arxiv.org/abs/2611.23509",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "BeFit: Shifting Complexity from Weights to Bernstein Activations for Resource-Constrained Sensing",
+     "summary": "arXiv:2611.23520v1 Announce Type: new Abstract: Time-series sensing increasingly relies on neural networks, yet deployment on resource-constrained microcontrollers remains challenging. Aggressive model compression can reduce accuracy, while restricting weights to multiplication-free\u2026",
+     "url": "https://arxiv.org/abs/2611.23520",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "FACET - Facet Aware Contrastive Embeddings for Traits- Big Five Estimation from Life Narratives",
+     "summary": "arXiv:2611.23560v1 Announce Type: new Abstract: Personality is only weakly and inconsistently signaled by written language, and existing text-based methods typically combine language-model and psycholinguistic representations at the input or decision level. It remains open whether a more\u2026",
+     "url": "https://arxiv.org/abs/2611.23560",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "LProp: Propagating Latent Uncertainty through Evidence-Conditioned Belief Revision in LLM Agents",
+     "summary": "arXiv:2611.23564v1 Announce Type: new Abstract: When LLM agents pass intermediate judgments downstream without uncertainty, later decisions may treat tentative assumptions as facts. Effective uncertainty propagation must preserve information for correction and update inherited beliefs as new\u2026",
+     "url": "https://arxiv.org/abs/2611.23564",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "Receiver-Conditioned Clarification for Multi-Agent Food Assistance",
+     "summary": "arXiv:2611.23572v1 Announce Type: new Abstract: Food insecurity creates a pressing need for guidance that helps households find usable food resources and assess food choices in light of their circumstances. Such guidance must connect eligibility requirements, practical access constraints, and\u2026",
+     "url": "https://arxiv.org/abs/2611.23572",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "ARISE: Practical Self-Evolving Memory for Accurate and Cost-Efficient Enterprise Agents",
+     "summary": "arXiv:2611.23588v1 Announce Type: new Abstract: Enterprise LLM agents operate in dynamic environments where foundation models evolve rapidly, workflows update frequently, and deployments need to satisfy accuracy and cost requirements. We propose ARISE (Agent Refinement through Iterative\u2026",
+     "url": "https://arxiv.org/abs/2611.23588",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "RefinementGuard: Counterexample-Directed Semantic Qualification for Hidden Agent-Tool Execution",
+     "summary": "arXiv:2611.23611v1 Announce Type: new Abstract: Tool runtimes can lower an agent-selected operation into a hidden parallel graph, reducing latency and context while risking semantic mistranslation. We introduce RefinementGuard: translation validation for hidden, effectful agent-tool lowerings,\u2026",
+     "url": "https://arxiv.org/abs/2611.23611",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "Searching the Pareto Front: Multi-Objective Retrieval for Heterogeneous Scientific Modalities",
+     "summary": "arXiv:2611.23639v1 Announce Type: new Abstract: In cosmology, surveys span different sky regions and wavelength ranges, resulting in uneven modality coverage across observational datasets. Such heterogeneity can be addressed through either multimodal foundation models (FMs), which learn shared\u2026",
+     "url": "https://arxiv.org/abs/2611.23639",
+     "source": "arXiv cs.AI"
+    },
+    {
+     "headline": "Prioritize, Don't Decide: What We Learned Auditing a Deployed Human-in-the-Loop CV Sorter",
+     "summary": "arXiv:2611.23359v1 Announce Type: new Abstract: A single academic vacancy can draw hundreds of applications, and the first screening round consumes most of a committee's time. We describe a CV Priority Sorter deployed at a national platform for academic vacancies and integrated with its vacancy\u2026",
+     "url": "https://arxiv.org/abs/2611.23359",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Chorus: Shared N-gram Embeddings with Layer-wise Adaptation",
+     "summary": "arXiv:2611.23386v1 Announce Type: new Abstract: Language models can gain capacity at little computational cost from n-gram embedding tables: large tables of learned vectors for short sequences of consecutive tokens, which are looked up and added to the model's input or to its intermediate layers.\u2026",
+     "url": "https://arxiv.org/abs/2611.23386",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Tracking Representations in LLM Reasoning Traces for Iterated Games",
+     "summary": "arXiv:2611.23403v1 Announce Type: new Abstract: Large language model (LLM) agents achieve state-of-the-art performance across domains through chain-of-thought (CoT) reasoning. Despite their ubiquitous use, little is understood about the relationship between the externalized trace and the model's\u2026",
+     "url": "https://arxiv.org/abs/2611.23403",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Formal Adequacy Index (based on Polish-language material)",
+     "summary": "arXiv:2611.23482v1 Announce Type: new Abstract: Linguistic formality is one of the dimensions of stylistic variation in speech; however, simply measuring its level does not allow us to determine whether the chosen mode of communication is appropriate in a given situation. The aim of this article\u2026",
+     "url": "https://arxiv.org/abs/2611.23482",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "From Arraignment to Resolution: Transformer Models of Court Cases",
+     "summary": "arXiv:2611.23518v1 Announce Type: new Abstract: The criminal legal system is composed of many complex decision points, such as which charges are pursued, how bond is determined, plea deal negotiations, and sentencing. Given the profound impact of such decisions, there is a growing need to increase\u2026",
+     "url": "https://arxiv.org/abs/2611.23518",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Dreaming Up Authors: Factual Prevalence and LLM Hallucinations in Academic Authorship Attribution",
+     "summary": "arXiv:2611.23530v1 Announce Type: new Abstract: Large Language Models (LLMs) are widely used for question answering but are prone to hallucinations, yet the underlying causes, particularly the role of factual prevalence in training data, remain underexplored. In this work, we study this through\u2026",
+     "url": "https://arxiv.org/abs/2611.23530",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Can LLMs Understand What They Predict? Evaluating Latent Causal Structure Inference in Financial Markets",
+     "summary": "arXiv:2611.23533v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly evaluated through their ability to predict future outcomes, implicitly assuming that predictive success reflects an understanding of the underlying system. However, accurate predictions can often be\u2026",
+     "url": "https://arxiv.org/abs/2611.23533",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Language Models Make New Research Sound Old",
+     "summary": "arXiv:2611.23546v1 Announce Type: new Abstract: Researchers are increasingly using large language models (LLMs) to validate research questions. We find that LLMs make open research questions sound partly studied and overstate what related papers establish. Models recognize most of these\u2026",
+     "url": "https://arxiv.org/abs/2611.23546",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "FutureBench: A Renewable Framework for Evaluating Knowledge-Context Conflict in LLMs",
+     "summary": "arXiv:2611.23601v1 Announce Type: new Abstract: Asking a model to check retrieved text can also tell it which source to trust. We introduce FutureBench, a renewable framework for evaluating knowledge-context conflict using timestamped questions, controlled passage triplets, and no-context probes.\u2026",
+     "url": "https://arxiv.org/abs/2611.23601",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Localizing Text Anonymization for Trustworthy AI: Extending RAT-Bench to Malaysian Microdata and PII",
+     "summary": "arXiv:2611.23704v1 Announce Type: new Abstract: As governments and organizations adopt foundation models for public services and workplace productivity, sensitive citizen, employee, and administrative text may enter LLM workflows through inference, retrieval, fine-tuning, or local model\u2026",
+     "url": "https://arxiv.org/abs/2611.23704",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Beyond Replacement: Levenshtein Editing for Diffusion Language Models",
+     "summary": "arXiv:2611.23750v1 Announce Type: new Abstract: Diffusion language models (DLMs) offer a flexible alternative to autoregressive models, enabling any-order infilling. While most existing decoding methods treat decoded tokens as fixed, some recent models allow previously decoded tokens to be revised\u2026",
+     "url": "https://arxiv.org/abs/2611.23750",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "NarrowSpec: Draft Hidden Width Need Not Match the Target in Speculative Decoding",
+     "summary": "arXiv:2611.23835v1 Announce Type: new Abstract: Speculative decoding is widely used to speed up generation in large language models (LLMs), with a small draft model proposing tokens that one forward pass of the target model verifies. Draft models that read the target's hidden states, such as\u2026",
+     "url": "https://arxiv.org/abs/2611.23835",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Coverage Governs Accuracy: When to Expand the Lexicon and When to Fall Back in Low-Resource Manchu OCR",
+     "summary": "arXiv:2611.23900v1 Announce Type: new Abstract: Character-level OCR for low-resource Manchu often produces near-miss spelling errors. Lexicon-constrained decoding can correct such errors with lexical knowledge, but a fixed dictionary cannot cover the many unseen word forms produced by\u2026",
+     "url": "https://arxiv.org/abs/2611.23900",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "ReflectRec: Cycle-Consistency Preference Verification for LLM-based Recommendation",
+     "summary": "arXiv:2611.23969v1 Announce Type: new Abstract: CoT-style LLM recommenders generate a natural-language preference note as a chain-of-thought prefix to ranking, but the note is trusted without verification, and the ranker never consults behaviorally similar users. We propose ReflectRec, organized\u2026",
+     "url": "https://arxiv.org/abs/2611.23969",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "A Mechanistic Analysis of In-Context Learning and Out-of-Context Hallucination",
+     "summary": "arXiv:2611.24000v1 Announce Type: new Abstract: Large language models can infer and follow specific rules through in-context learning (ICL), yet may fail to remain faithful to provided evidence, giving rise to out-of-context (OOC) hallucination. Existing work has largely investigated the\u2026",
+     "url": "https://arxiv.org/abs/2611.24000",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Compression Effects on Low-Resource Multilingual Translation",
+     "summary": "arXiv:2611.24043v1 Announce Type: new Abstract: We present a pilot study characterising the effect of post-training quantisation on multilingual machine translation quality and inference cost for three African languages - Hausa, Swahili, and Yoruba - across three model families: a small\u2026",
+     "url": "https://arxiv.org/abs/2611.24043",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "A Hybrid RAG Framework for Deceptive Review Detection: Integrating RoBERTa-LoRA, FAISS-Based Retrieval, and LLM Reasoning",
+     "summary": "arXiv:2611.24049v1 Announce Type: new Abstract: The growth of deceptive online opinions poses a critical risk of misinformation and fraud. This paper proposes a Retrieval-Augmented Generation (RAG) system to automatically distinguish spam reviews. The architecture integrates RoBERTa with Low-Rank\u2026",
+     "url": "https://arxiv.org/abs/2611.24049",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Grading Executable Legal Rules Against Independent Records: Transitional Provisions and Korean SME Status",
+     "summary": "arXiv:2611.24055v1 Announce Type: new Abstract: Laws are increasingly turned into programs that decide cases, such as whether a firm was a small or medium enterprise (SME) on a given date, and large language models (LLMs) now write them. The programs are usually graded against answers written by\u2026",
+     "url": "https://arxiv.org/abs/2611.24055",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "MIRAGE: A Framework for Multi-hop Reasoning under Dynamic Knowledge Injection",
+     "summary": "arXiv:2611.24058v1 Announce Type: new Abstract: Multi-hop Question Answering (MQA) requires large language models (LLMs) to retrieve and synthesize multiple pieces of evidence into a coherent reasoning path, which is essential for complex tasks. However, prior work on knowledge updating for MQA\u2026",
+     "url": "https://arxiv.org/abs/2611.24058",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Once Upon a Bias: Gender Stereotyping in LLM-Generated Children's Stories",
+     "summary": "arXiv:2611.24156v1 Announce Type: new Abstract: Large language models are increasingly used to create stories for children. Since bedtime stories can shape children's perceptions of social roles, this raises concerns about whether LLMs adapt narrative portrayals according to the intended\u2026",
+     "url": "https://arxiv.org/abs/2611.24156",
+     "source": "arXiv cs.CL"
+    },
+    {
+     "headline": "Neural Network-Based Modeling of Hysteretic Systems: From Prandtl and Preisach Neural Networks to Neuro-Madelung and Neuroplastic Continuous Models",
+     "summary": "arXiv:2611.23240v1 Announce Type: new Abstract: Hysteresis is a complex nonlinear phenomenon characterized by memory dependence, path dependence, and, in many physical systems, degradation, non-congruency, asymmetry, and rate dependence. This review examines the development and capabilities of\u2026",
+     "url": "https://arxiv.org/abs/2611.23240",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "GridForge: An Open Physics-Informed Digital Twin and Benchmark Suite for UK 11 kV Underground Distribution Cables",
+     "summary": "arXiv:2611.23241v1 Announce Type: new Abstract: The UK distribution-cable monitoring sector is data-rich but framework-poor: each Distribution Network Operator (DNO) collects megabytes of telemetry per asset per day, but there is no public benchmark dataset, no shared reference model, and no\u2026",
+     "url": "https://arxiv.org/abs/2611.23241",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Biologically-Inspired Spike Encoding and Optimization for Spiking Neural Networks",
+     "summary": "arXiv:2611.23242v1 Announce Type: new Abstract: Spiking Neural Networks (SNNs) offer theoretical energy-efficiency advantages over conventional deep networks, but realizing these advantages on vision tasks requires sparse spike representations that naive rate-coding methods fail to provide. We\u2026",
+     "url": "https://arxiv.org/abs/2611.23242",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Goemans's Unsplittable-Flow Conjecture: The Anatomy of AI-Assisted Counterexample Discovery",
+     "summary": "arXiv:2611.23244v1 Announce Type: new Abstract: Goemans conjectured that any fractional single-source flow could be converted into an unsplittable flow without increasing total cost and while increasing any arc load by at most the largest demand. Recently, Dmitry Rybin announced a seven-vertex\u2026",
+     "url": "https://arxiv.org/abs/2611.23244",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Response-Relevant Information Is Not Sufficient for Neural Training-State Equivalence",
+     "summary": "arXiv:2611.23245v1 Announce Type: new Abstract: Response-relevant information is not sufficient evidence that two neural networks are in the same training state. We define training-state equivalence operationally: two checkpoints are equivalent, relative to an intervention family and horizon, if\u2026",
+     "url": "https://arxiv.org/abs/2611.23245",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Chebyshev Polynomial Zonotope Abstractions for Certified Reachability of Learning-Enabled Systems",
+     "summary": "arXiv:2611.23246v1 Announce Type: new Abstract: Nearly all current methods for computing reachable sets of nonlinear dynamics propagate them with truncated Taylor expansions plus rigorous remainders. The expansion is pointwise: once its argument is a whole set rather than a point, one polynomial\u2026",
+     "url": "https://arxiv.org/abs/2611.23246",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Budgeted Proper Loss Design for Uncertain Decision Thresholds",
+     "summary": "arXiv:2611.23247v1 Announce Type: new Abstract: A binary probability estimate may be used by several decision makers with different error costs. Proper scoring rules can emphasize selected probability thresholds, but a single average threshold distribution need not give a good worst-case regret\u2026",
+     "url": "https://arxiv.org/abs/2611.23247",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Exploring Parkinson's Diagnosis Using Machine Learning Techniques",
+     "summary": "arXiv:2611.23248v1 Announce Type: new Abstract: In recent years, machine learning (ML) techniques have emerged as promising tools for accurate and timely diagnosis of Parkinson's disease (PD) which is an incurable neurodegenerative disorder. This study explores the integration of ML algorithms and\u2026",
+     "url": "https://arxiv.org/abs/2611.23248",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Optimize the Cob, Then the Kernel: Optimizing Beam Search for Generative Recommendation Inference",
+     "summary": "arXiv:2611.23339v1 Announce Type: new Abstract: Generative recommendation (GR) inference differs substantially from conventional LLM serving, featuring long input sequences, wide beam search, and only a few fixed output tokens. Existing LLM serving engines such as vLLM process beams as batched\u2026",
+     "url": "https://arxiv.org/abs/2611.23339",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Confidence-Based Materials Data Quality Assessment via Domain Knowledge and Graph-Structured Learning",
+     "summary": "arXiv:2611.23342v1 Announce Type: new Abstract: The rapid development of materials machine learning relies on large-scale, heterogeneous datasets, yet model reliability is often compromised by imperfect data from diverse experiments, simulations, and database integration. Real-world materials\u2026",
+     "url": "https://arxiv.org/abs/2611.23342",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "BiMa-ECGSR: reconstructing the 12-lead ECG from reduced lead sets with bidirectional state-space models",
+     "summary": "arXiv:2611.23345v1 Announce Type: new Abstract: Wearables and monitors record few electrocardiogram (ECG) leads; most diagnostic tools assume 12 leads. BiMa-ECGSR reconstructs the 12-lead ECG from reduced lead sets with a bidirectional Mamba state-space encoder--decoder, as regression (BiMa-SR) or\u2026",
+     "url": "https://arxiv.org/abs/2611.23345",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Implementing Binary Transformers with Approximate Memories with Permutation Invariance Enabled Selective (PIES) Protection",
+     "summary": "arXiv:2611.23358v1 Announce Type: new Abstract: Quantization is an effective technique to reduce memory storage, computation complexity and power for Transformers, and the binarization of the weights is important for meeting these requirements. Approximate memory can further reduce the power for\u2026",
+     "url": "https://arxiv.org/abs/2611.23358",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "TRACE-MAS: Diagnosing and Repairing Collaboration Failures in Multi-Agent Systems",
+     "summary": "arXiv:2611.23362v1 Announce Type: new Abstract: LLM-based multi-agent systems (MAS) rely on not only individual agent behaviors but also the interactions that connect agents, including message exchanges and task dependencies. Existing MAS safeguards mainly perform agent-level anomaly detection,\u2026",
+     "url": "https://arxiv.org/abs/2611.23362",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "QDA: Closed-Loop LLM Quantization Design with Agents",
+     "summary": "arXiv:2611.23388v1 Announce Type: new Abstract: Post-training quantization is the standard way to serve large language models at low cost. However, the best quantization recipe differs across models and precisions. As a result, experts must redesign it for every new model, which is time-consuming\u2026",
+     "url": "https://arxiv.org/abs/2611.23388",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Which Tokens, in What Order, and How Fast? A Theoretical Analysis of On-Policy Distillation Objectives",
+     "summary": "arXiv:2611.23397v1 Announce Type: new Abstract: On-policy distillation (OPD) trains a student language model to match a teacher model based on its own generations. When using OPD, one must choose whether to apply it at the sequence or token level and which divergence to minimize. However, despite\u2026",
+     "url": "https://arxiv.org/abs/2611.23397",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Incremental Roseland: Batch-wise Landmark Diffusion via Kernelized Sequential Karhunen--Lo\\`eve Update",
+     "summary": "arXiv:2611.23414v1 Announce Type: new Abstract: Landmark diffusion (Roseland) computes a diffusion-map-style spectral embedding from the singular value decomposition of a degree-normalized data-to-landmark kernel matrix, at a cost far below that of full diffusion maps. It assumes, however, that\u2026",
+     "url": "https://arxiv.org/abs/2611.23414",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Stability Does Not Mirror Plasticity: A Module-Level View of Declarative and Procedural Learning in Transformers",
+     "summary": "arXiv:2611.23427v1 Announce Type: new Abstract: Plasticity and stability in continual learning are typically studied at the entire-model level and in a task-agnostic manner, yet prior work has reported divergent conclusions across settings. Inspired by cognitive distinctions between declarative\u2026",
+     "url": "https://arxiv.org/abs/2611.23427",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "When Does Subspace Direction Matter for LoRA? Regime Analysis of the Magnitude Principle in Few-Shot Adaptation",
+     "summary": "arXiv:2611.23428v1 Announce Type: new Abstract: We show that the importance of a LoRA adapter's initial input-subspace direction is regime-dependent, and we characterize this dependence in theory and experiment. This refines the recent view that spectral initializers help through update magnitude\u2026",
+     "url": "https://arxiv.org/abs/2611.23428",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Conformally Calibrated Adaptive Computation in Neural Operators",
+     "summary": "arXiv:2611.23440v1 Announce Type: new Abstract: Selecting less computation in a neural operator need not reduce inference time. We study this gap using conformal calibration to choose Fourier modes or channel width per input subject to a fixed error budget. A triangle-inequality envelope bounds\u2026",
+     "url": "https://arxiv.org/abs/2611.23440",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "FACT: Fixed-Budget Allocation and Cross-Step Training for Speculative Decoding",
+     "summary": "arXiv:2611.23463v1 Announce Type: new Abstract: Speculative decoding accelerates language-model generation by verifying multiple draft tokens in a single target-model pass. However, better draft predictions and longer accepted continuations do not necessarily produce faster generation. To examine\u2026",
+     "url": "https://arxiv.org/abs/2611.23463",
+     "source": "arXiv cs.LG"
+    },
+    {
+     "headline": "Solomonoff induction with reflective oracles",
+     "summary": "Linkpost for https://arxiv.org/html/2611.14454v1 Our PIBBSS fellow Damini Kusum wrote an excellent paper on prediction with reflective oracle Solomonoff Induction (rOSI). Reflective oracles are best known for their game-theoretic applications, where they are often dismissed because \"why would all\u2026",
+     "url": "https://www.alignmentforum.org/posts/nvrFYAwciyyj9T5ir/solomonoff-induction-with-reflective-oracles",
+     "source": "Alignment Forum"
+    },
+    {
+     "headline": "llm-gemini 0.38",
+     "summary": "Release: llm-gemini 0.38 Today Google introduced Gemini 4 Neon . I wrote recently about how confusing the pricing for the Gemini 4 series was - Neon has somehow made this even worse. Previously the Gemini 4 lineup was Hydrogen, Argon, and Carbon - where Argon and Carbon were the same price , and\u2026",
+     "url": "https://simonwillison.net/2026/Nov/18/llm-gemini/",
+     "source": "Simon Willison"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-11-19T07:40+00:00",
+  "window_start": "2026-11-18T20:43+00:00",
+  "window_end": "2026-11-19T07:40+00:00",
+  "candidate_count": 91,
+  "model": "free (no LLM)"
+ }
+}
