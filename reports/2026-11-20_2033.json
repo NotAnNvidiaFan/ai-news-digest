@@ -1,0 +1,225 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Inkling 2 Mini",
+   "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50581260",
+   "why_it_matters": "",
+   "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+   "source": "Hacker News"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Inkling 2 Mini",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50581260",
+     "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Running two PSP emulators on one Switch 2 and sharing one via GameShare",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50578233",
+     "url": "https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50577901",
+     "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Finite-time blow-up for the Navier\u2013Stokes equations",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50576232",
+     "url": "https://github.com/tristanbuckmaster/navier-stokes/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Llms.txt and MCP didn't move the needle",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50574772",
+     "url": "https://backpackforlaravel.com/articles/opinions/llms-txt-and-mcp-didn-t-move-the-needle-for-us-here-s-what-did",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50574383",
+     "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "If you stop writing code, you also get worse at reviewing it",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50573886",
+     "url": "https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50572503",
+     "url": "https://architectlabs.com/blog/frostbite",
+     "source": "Hacker News"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Daniel Ek backs AI researcher\u2019s fusion power startup. Here\u2019s what they\u2019re building.",
+     "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+     "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Jensen Huang\u2019s \u2018Lying\u2019 Alarmed Nvidia Board Ahead of His Resignation",
+     "summary": "Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board\u2019s main issue was the former CEO\u2019s \u201clack of candor.\u201d",
+     "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "AI claimed a solution to the 167-year-old Riemann Hypothesis \u2014 and a human did, too",
+     "summary": "Mathematicians are having their minds blown by the latest AI-driven result \u2014 and there's a competing human solution, too.",
+     "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Trump threatens \u2018tremendous tax\u2019 for moving AI data centers outside the US",
+     "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers outside of our\u2026",
+     "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "The most misunderstood graph in AI just got a major update",
+     "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory\u2014but it also indicates that models aren\u2019t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization\u2019s\u2026",
+     "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+     "source": "MIT Tech Review AI"
+    },
+    {
+     "headline": "Chips can survive the space environment \u2014 can their financing?",
+     "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
+     "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+     "summary": "Anthropic mathematician Levent Alp\u00f6ge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "The fallout from Nvidia\u2019s Jensen Huang scandal continues",
+     "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in China, and it\u2026",
+     "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "The week everything fell apart",
+     "summary": "There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. Even iCloud couldn't stay up and running. This week, it felt like the technological world simply collapsed. And it felt like this might be the beginning of\u2026",
+     "url": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Six AI-powered gadgets that could make your home office smarter",
+     "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
+     "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Signal is blocking Gemini and Siri AI from reading your screen",
+     "summary": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are \"undermining\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Muse Is Unleashing a World of Pettiness on Instagram",
+     "summary": "Meta\u2019s AI assistant can track and unfollow Instagram users who don\u2019t follow you back\u2014and some people are taking full advantage.",
+     "url": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Regular Tech Bros Are Worried About Honeypots",
+     "summary": "The Jensen Huang scandal is the latest fuel for dating anxieties among newly rich and powerful tech workers.",
+     "url": "https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Combatting adversarial distillation",
+     "summary": "OpenAI\u2019s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+     "url": "https://openai.com/index/combatting-adversarial-distillation",
+     "source": "OpenAI Blog"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "Riemann Hypothesis may have been solved with the help of Claude. \u201cwhat I saw during the course of progress so amazed me that I believe it is one dawn across science of something far greater.\u201d alpo.ge/remark.pdf",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3n2qvqp4fts2e"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Quoting Ravi Vakil",
+     "summary": "Alessandro Masullo has a proposed proof of [Generalized Riemann Hypothesis], and Brian Conrad has been looking closely at it for months and gave extensive feedback which is being incorporated, and it is so far looking good. It is all human, with no AI. The hope was to bring Alessandro to Stanford\u2026",
+     "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "2026.47: Down in DC",
+     "summary": "The best Stratechery content from the week of November 16, 2026, including obituaries and exceptionalism, arguments about agents, and Ben gets a Duo.",
+     "url": "https://stratechery.com/2026/down-in-dc/",
+     "source": "Stratechery"
+    },
+    {
+     "headline": "What should I ask Walter Isaacson?",
+     "summary": "Yes I will be doing a Conversation with him, in part to celebrate the reissue of his earlier book The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution. And also to celebrate his new podcast, The Builders. He has other books too! So what should I ask him? The\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/what-should-i-ask-walter-isaacson.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-walter-isaacson",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Quoting Levent Alp\u00f6ge",
+     "summary": "I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann Hypothesis, and I expect, with more time, the Extended Riemann Hypothesis too. Claude and I have also formalized the\u2026",
+     "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "Robots Still Suck",
+     "summary": "A CoRL Trip Report",
+     "url": "https://www.chinatalk.media/p/we-went-to-austin-to-see-robots",
+     "source": "ChinaTalk"
+    },
+    {
+     "headline": "Friday assorted links",
+     "summary": "1. Markets drive moods, and not vice versa? 2. AI literary scandals and the future of the Latin American novel. 3. New Stripe Press website. 4. Does Claude\u2019s constitution mean anything? 5. Did the Baby Boom help cause the later divorce boom? 6. \u201cSocial adversity in early life has minimal,\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/friday-assorted-links-600.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-600",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Sharp Tech on Video: Jensen\u2019s Not Coming Back, AI Shopping, The iPhone Duo",
+     "summary": "Sharp Tech is, for the first time, available on video. You have three ways to consume it: YouTube, Spotify, and here on Stratechery",
+     "url": "https://stratechery.com/2026/sharp-tech-on-video-jensens-not-coming-back-ai-shopping-the-iphone-duo/",
+     "source": "Stratechery"
+    },
+    {
+     "headline": "Phonics-based Instruction and Student Achievement",
+     "summary": "That is a new NBER working paper by Alex Hollingsworth, Alberto Ortega & Nikolaos Zirogiannis. Abstract: Reading is a foundational skill, yet fewer than one in three US fourth graders read at a proficient level. How best to teach reading and improve educational attainment has been an active policy\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/phonics-based-instruction-and-student-achievement.html?utm_source=rss&utm_medium=rss&utm_campaign=phonics-based-instruction-and-student-achievement",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "mankidev/antialgorithm: Agent skill that steers the model away from its first, most average pick in creative work: names, ideas, logo, posters, UI.",
+     "summary": "Agent skill that steers the model away from its first, most average pick in creative work: names, ideas, logo, posters, UI.",
+     "url": "https://github.com/mankidev/antialgorithm",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-11-20T20:33+00:00",
+  "window_start": "2026-11-20T07:31+00:00",
+  "window_end": "2026-11-20T20:33+00:00",
+  "candidate_count": 32,
+  "model": "free (no LLM)"
+ }
+}
