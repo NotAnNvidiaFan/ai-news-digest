@@ -1,0 +1,171 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "*The Great Enrichment*",
+   "summary": "The author is my colleague Vincent Geloso and the subtitle is A New History of American Growth and Inequality, 1865-1945. Here is an excerpt from the very beginning: \u2026regardless of what improvements you think occurred during the Gilded Age and the Progressive Era, you are underestimating how much\u2026",
+   "why_it_matters": "",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/11/the-great-enrichment.html?utm_source=rss&utm_medium=rss&utm_campaign=the-great-enrichment",
+   "source": "Marginal Revolution"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Help github just deleted me",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50583911",
+     "url": "https://nate.mecca1.net/posts/2026-11-20_help/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50583761",
+     "url": "https://news.ycombinator.com/item?id=50583761",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "AI may have solved the most important problem in mathematics",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50583445",
+     "url": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50583117",
+     "url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "A few hours ago Google DeepMind created a math horizon repo",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50582629",
+     "url": "https://github.com/google-deepmind/math-horizon",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Anthropic's IPO Bust Deepens $4T AI Wipeout on Wall Street",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50582280",
+     "url": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90",
+     "source": "Hacker News"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Cops Are Pushing Extremely Corny \u2018Grand Theft Auto 6\u2019 Slop",
+     "summary": "The blockbuster game makes no secret of its contempt for law enforcement. Real police departments using it to recruit new members and scold the public apparently didn\u2019t get the memo.",
+     "url": "https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Google rolls out new search homepage with AI chat history and no search button",
+     "summary": "Google search is making it even easier to access AI tools on the search page.",
+     "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+     "summary": "Meta is \u201cre-evaluating\u201d 2030 sustainability goals. Will others follow?",
+     "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+     "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+     "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+     "source": "Ars Technica AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "It is amazing that human language turned out to be so unreasonably effective at modeling the universe that training a system to predict what comes next in a sentence would get us this far.",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3n2seaj2c4c2m"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "*The Great Enrichment*",
+     "summary": "The author is my colleague Vincent Geloso and the subtitle is A New History of American Growth and Inequality, 1865-1945. Here is an excerpt from the very beginning: \u2026regardless of what improvements you think occurred during the Gilded Age and the Progressive Era, you are underestimating how much\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/the-great-enrichment.html?utm_source=rss&utm_medium=rss&utm_campaign=the-great-enrichment",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Emergent Ventures, 60th cohort",
+     "summary": "Faris Allafi, Abu Dhabi, 13, train AI models. Eliel Selin, Helsinki, 18, AI agents. Robert Boswall, London area, energy information for the UK. Alex Yang, Harvard, genetics for better organ transplants. Stanislaw Tomaszewski, Warsaw area, AI agents and the organization of trucking. Jonas Dolezal,\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/emergent-ventures-60th-cohort.html?utm_source=rss&utm_medium=rss&utm_campaign=emergent-ventures-60th-cohort",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "[AINews] Riemann Hypothesis proved...twice independently",
+     "summary": "November 20 2026 \u2014",
+     "url": "https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently/",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "The War Against Slop and an Emerging Weapon to Fight it: Formal Verification",
+     "summary": "Proving software correct with math has traditionally required specialist work. Now AI and Lean are helping automate the process.",
+     "url": "https://latent.space/p/formal-verification/",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "prajwaljeevan50-web/openclaw-personal-workspace: A friendly, feature-rich workspace built with and for its community.",
+     "summary": "A friendly, feature-rich workspace built with and for its community.",
+     "url": "https://github.com/prajwaljeevan50-web/openclaw-personal-workspace",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "AI4XE/ai4ai: Let AI manage itself \u2014 a cross-harness kit for runtime status, context renewal, self-duplication and more",
+     "summary": "Let AI manage itself \u2014 a cross-harness kit for runtime status, context renewal, self-duplication and more",
+     "url": "https://github.com/AI4XE/ai4ai",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "nestjs/agent-skills: Agent skills for Nest framework (node.js) \ud83d\udd75\ufe0f\u200d\u2642\ufe0f",
+     "summary": "Agent skills for Nest framework (node.js) \ud83d\udd75\ufe0f\u200d\u2642\ufe0f",
+     "url": "https://github.com/nestjs/agent-skills",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "chase1225/anythingllm-verona-document-chat: Document-grounded chat for Verona - AnythingLLM workspace integration.",
+     "summary": "Document-grounded chat for Verona - AnythingLLM workspace integration.",
+     "url": "https://github.com/chase1225/anythingllm-verona-document-chat",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "eluyonga/ai--manus2.0: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+     "url": "https://github.com/eluyonga/ai--manus2.0",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "jackson-cmd/claude-multi-desktop: Run multiple Claude Desktop accounts at the same time on Mac: separate sign-ins, custom icons, one shared Claude Code setup, and sessions that message each other\u2026",
+     "summary": "Run multiple Claude Desktop accounts at the same time on Mac: separate sign-ins, custom icons, one shared Claude Code setup, and sessions that message each other across accounts. brew install jackson-cmd/tap/claude-multi-desktop",
+     "url": "https://github.com/jackson-cmd/claude-multi-desktop",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "Wilfriedbkt/interview-copilot-edtech-app: Interview Copilot EdTech App: Bridge Learning and Your Dream Job",
+     "summary": "Interview Copilot EdTech App: Bridge Learning and Your Dream Job",
+     "url": "https://github.com/Wilfriedbkt/interview-copilot-edtech-app",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "AI4XE/Parallax: A lightweight workflow plugin for hands-off AI coding with DeepSeek Harness, Claude Code, GitHub Copilot, and more.",
+     "summary": "A lightweight workflow plugin for hands-off AI coding with DeepSeek Harness, Claude Code, GitHub Copilot, and more.",
+     "url": "https://github.com/AI4XE/Parallax",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-11-21T07:27+00:00",
+  "window_start": "2026-11-20T20:33+00:00",
+  "window_end": "2026-11-21T07:27+00:00",
+  "candidate_count": 23,
+  "model": "free (no LLM)"
+ }
+}
