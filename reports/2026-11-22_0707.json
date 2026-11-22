@@ -1,0 +1,214 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "@simonwillison.net: Saw an excellent pelican in the harbor today",
+   "summary": "Saw an excellent pelican in the harbor today",
+   "why_it_matters": "",
+   "url": "https://bsky.app/profile/simonwillison.net/post/3n2uxw3563224",
+   "source": "Bluesky @simonwillison.net"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50595812",
+     "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Data Processing Incidents on Inference Providers",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50595554",
+     "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "The Mythology of Conscious AI",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50595537",
+     "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Leonida \u2013 PC Recompilation of the Xbox Version of GTA 6",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50595168",
+     "url": "https://github.com/ItsNotRexed/Leonida",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "International UN talks on controlling use of autonomous weapons collapse",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50594564",
+     "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "PcapAnalyzer \u2013 self-hosted pcap analyzer with 27 problem detectors",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50594132",
+     "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Pandex \u2013 Official European Law for AI Agents, over MCP",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50593481",
+     "url": "https://www.pandex.io",
+     "source": "Hacker News"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Signal restricts mobile screenshots as it confronts \u2018existential threat\u2019 of AI surveillance",
+     "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+     "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "A tale of two Nvidias",
+     "summary": "We got two very different pictures of Nvidia \u2014 the company\u2019s latest earnings report vs. the tech executives loudly calling for Jensen Huang\u2019s return.",
+     "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "The UN fails to agree on rules regulating \u2018killer robots\u2019",
+     "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of\u2026",
+     "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+     "source": "The Verge AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @simonwillison.net",
+     "handle": "",
+     "quote": "Saw an excellent pelican in the harbor today",
+     "context": "",
+     "url": "https://bsky.app/profile/simonwillison.net/post/3n2uxw3563224"
+    },
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "Top expert predictions made last MONTH (post Navier-Stokes) about when the Riemann Hypotheses would be solved: Metaculus: May 2035 LEAP Superforecasters: 10% chance of additional Millennium problem being solved in 2026. Terrance Tao: \u201csome combination of humans and AIs in 2050 or something\"",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3n2upc2qh322m"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Will AI Growth Reach the Developing World?",
+     "summary": "Here is the abstract from a new NBER paper by Daniel Bj\u00f6rkegren, David Lagakos & Mitchell VanVuren: This paper explores how economic growth driven by AI will impact the developing world. Our analysis is based on a growth model of a developed and developing economy where AI services are traded on\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/will-ai-growth-reach-the-developing-world.html?utm_source=rss&utm_medium=rss&utm_campaign=will-ai-growth-reach-the-developing-world",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Muru",
+     "summary": "Muru Graham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since. Muru is his new, AI-assisted Rust server that aims to provide the best possible tools for running ASGI and WSGI Python apps both in development\u2026",
+     "url": "https://simonwillison.net/2026/Nov/21/muru/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "praseesh369/youtube-ai-video-editing-system: Storyboard, capture, and animate: an AI editing workflow for YouTube",
+     "summary": "Storyboard, capture, and animate: an AI editing workflow for YouTube",
+     "url": "https://github.com/praseesh369/youtube-ai-video-editing-system",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "Juanlabs1989/descript-pro-win: Descript - AI-powered video and podcast editor for text-based editing, transcription and screen recording on Windows 10/11",
+     "summary": "Descript - AI-powered video and podcast editor for text-based editing, transcription and screen recording on Windows 10/11",
+     "url": "https://github.com/Juanlabs1989/descript-pro-win",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "Cloudcode04/runway-ml-pro-win: Runway - AI video generation platform for text-to-video synthesis, image animation and motion brush editing on Windows 10/11",
+     "summary": "Runway - AI video generation platform for text-to-video synthesis, image animation and motion brush editing on Windows 10/11",
+     "url": "https://github.com/Cloudcode04/runway-ml-pro-win",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "Morriswawan05/elevenlabs-pro-win: ElevenLabs - AI voice synthesis platform for text-to-speech generation, voice cloning and multilingual dubbing on Windows 10/11",
+     "summary": "ElevenLabs - AI voice synthesis platform for text-to-speech generation, voice cloning and multilingual dubbing on Windows 10/11",
+     "url": "https://github.com/Morriswawan05/elevenlabs-pro-win",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "EL4CTEO/fast-anything: Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+     "summary": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+     "url": "https://github.com/EL4CTEO/fast-anything",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "debugdigital677/descript-pro-win: Descript - AI-powered video and podcast editor for text-based editing, transcription and screen recording on Windows 10/11",
+     "summary": "Descript - AI-powered video and podcast editor for text-based editing, transcription and screen recording on Windows 10/11",
+     "url": "https://github.com/debugdigital677/descript-pro-win",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "han938/open-webui-private-ai-desk: Chat with private AI models locally, powered by Open Webui Private Ai Desk.",
+     "summary": "Chat with private AI models locally, powered by Open Webui Private Ai Desk.",
+     "url": "https://github.com/han938/open-webui-private-ai-desk",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "zavi2997-droid/claude-code-agent-workspace: Orchestrates composable Claude Code agent workflows across isolated workspace contexts.",
+     "summary": "Orchestrates composable Claude Code agent workflows across isolated workspace contexts.",
+     "url": "https://github.com/zavi2997-droid/claude-code-agent-workspace",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "wozniakalan323-bit/opencode-project-workbench: Opencode Project Workbench structures opencode project tasks, files, and workflow state.",
+     "summary": "Opencode Project Workbench structures opencode project tasks, files, and workflow state.",
+     "url": "https://github.com/wozniakalan323-bit/opencode-project-workbench",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "sous-labs/songe: A training engine for your local model, using your idle compute",
+     "summary": "A training engine for your local model, using your idle compute",
+     "url": "https://github.com/sous-labs/songe",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "dickoyudha-netizen/adobe-firefly-image-creator: Generate images from text prompts with Adobe Firefly Image Creator.",
+     "summary": "Generate images from text prompts with Adobe Firefly Image Creator.",
+     "url": "https://github.com/dickoyudha-netizen/adobe-firefly-image-creator",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "senickimoro-art/pinokio-olvara-ai-workspace: A modular desktop workspace for configuring and running local AI models.",
+     "summary": "A modular desktop workspace for configuring and running local AI models.",
+     "url": "https://github.com/senickimoro-art/pinokio-olvara-ai-workspace",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "kenzz-devv/open-webui-talora-ai-workspace: Streamlined workspace for organizing and running AI workflows in one place.",
+     "summary": "Streamlined workspace for organizing and running AI workflows in one place.",
+     "url": "https://github.com/kenzz-devv/open-webui-talora-ai-workspace",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "cc4w/adobe-firefly-image-generator: Adobe Firefly Image Generator: Professional Image Creation",
+     "summary": "Adobe Firefly Image Generator: Professional Image Creation",
+     "url": "https://github.com/cc4w/adobe-firefly-image-generator",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "JimLiu/open-artifact: Open, agent- and model-agnostic artifacts, all saved locally as plain files \u2014 edit, comment on, and export slides, UI designs, design systems, whiteboards, sheets, dashboards,\u2026",
+     "summary": "Open, agent- and model-agnostic artifacts, all saved locally as plain files \u2014 edit, comment on, and export slides, UI designs, design systems, whiteboards, sheets, dashboards, docs, and motion.",
+     "url": "https://github.com/JimLiu/open-artifact",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "lynote-ai/ai-tutor: Self-hosted AI tutor and learning assistant for self-study, e-learning, and exam prep. Turn study notes, PDFs, and lecture notes into a chapter learning path and a quiz. It only\u2026",
+     "summary": "Self-hosted AI tutor and learning assistant for self-study, e-learning, and exam prep. Turn study notes, PDFs, and lecture notes into a chapter learning path and a quiz. It only teaches a sentence it can quote. Bring your own model key.",
+     "url": "https://github.com/lynote-ai/ai-tutor",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-11-22T07:07+00:00",
+  "window_start": "2026-11-21T19:31+00:00",
+  "window_end": "2026-11-22T07:07+00:00",
+  "candidate_count": 30,
+  "model": "free (no LLM)"
+ }
+}
