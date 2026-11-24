@@ -1,0 +1,352 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+   "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
+   "why_it_matters": "",
+   "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+   "source": "TechCrunch AI"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Working with AI",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50634734",
+     "url": "https://www.anthropic.com/research/working-with-ai",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50634658",
+     "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Launch HN: Versine (YC F26) \u2013 MCP to send and receive money",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50634426",
+     "url": "https://news.ycombinator.com/item?id=50634426",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Compiling web applications into verified operations for AI agents",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50632998",
+     "url": "https://protocolis.co/paper/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "OpenAI reveals they solved VP \u2260 VNP before Anthropic",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50632756",
+     "url": "https://github.com/openai/math/tree/main/preprints/VP-and-VNP-are-different-November-23-2026",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50630809",
+     "url": "https://news.ycombinator.com/item?id=50630809",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Tidal bans AI-generated music",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50630309",
+     "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Show HN: Mason \u2013 A lightweight Postgres read-replica, built on columnar storage",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50630294",
+     "url": "https://masondata.ai/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "GTA 6 Running on Windows",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50627783",
+     "url": "https://twitter.com/raul_bs3/status/2125213756238291075",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "LLM agents work for their parent companies, not for you",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50627340",
+     "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+     "source": "Hacker News"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+     "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
+     "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "In all-hands meeting, Jensen Huang thanks White House and says he\u2019s in therapy",
+     "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
+     "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Even the best AI agents struggle with everyday life",
+     "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+     "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+     "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta\u2019s AI agent.",
+     "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+     "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
+     "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "What's going on with the Riemann hypothesis?",
+     "summary": "A new AI-assisted proof seems to be solid, but we're not sure what it tells us.",
+     "url": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Jensen Huang reportedly tells Nvidia staff it\u2019s \u2018not true\u2019 Trump got him rehired",
+     "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York Times, and The\u2026",
+     "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
+     "summary": "Amazon says Prime Air drones made \u201chundreds of thousands\u201d of deliveries in 2026.",
+     "url": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+     "summary": "Anthropic\u2019s post-IPO slump could put pressure on AI startup valuations.",
+     "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "David Fincher is being dragged for suspected use of AI in his latest film",
+     "summary": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether generative AI was used in the film. People have claimed that the movie is\u2026",
+     "url": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "UK warns AI-driven cyberattacks are exposing years of weak security",
+     "summary": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+     "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return",
+     "summary": "The Nvidia CEO opened up about his personal life, defended his reinstatement, and acknowledged that his intense management style had hurt his staff.",
+     "url": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
+     "summary": "AI songs account for 6.3 percent of Tidal's catalog, but it's about to be zero.",
+     "url": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Tidal will start banning AI-generated music next month",
+     "summary": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen. The move comes just months after Tidal began\u2026",
+     "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Meta brings its Muse AI assistant directly into Instagram DMs",
+     "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
+     "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+     "summary": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
+     "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+     "summary": "",
+     "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+     "source": "Hugging Face Blog"
+    },
+    {
+     "headline": "Jensen Huang deepfakes are the hot new AI slop",
+     "summary": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from behind him, Alice Huang - the Chinese technology executive\u2026",
+     "url": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+     "summary": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.",
+     "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "The New York Times warns photographers not to update Photoshop over AI features",
+     "summary": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that may not be apparent to users.\" In an email seen by The Verge and posted on Threads, two of the Times' photography leaders, Meaghan Looram\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Pinterest will now let parents limit the AI-generated content their teens see",
+     "summary": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds.",
+     "url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "How Gemini is changing the game for Golden State's organization and fans.",
+     "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+     "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+     "source": "Google AI Blog"
+    },
+    {
+     "headline": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
+     "summary": "A new test assumes AI agents can go rogue\u2014and asks whether they can resist temptation.",
+     "url": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Amazon\u2019s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+     "summary": "Amazon\u2019s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
+     "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Raising the stakes for enterprise networks with AI modernization",
+     "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than\u2026",
+     "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+     "source": "MIT Tech Review AI"
+    },
+    {
+     "headline": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
+     "summary": "Huang\u2019s allies enlisted Trump and Vance to pressure Nvidia\u2019s board into taking him back.",
+     "url": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+     "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+     "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+     "source": "OpenAI Blog"
+    },
+    {
+     "headline": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+     "summary": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
+     "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Why Does Voice AI Still Struggle With Kenyans\u2019 Speech?",
+     "summary": "When people read prepared text aloud, AI can transcribe Swahili with remarkably few errors, and Swahili speech recognition looks close to solved. A March 2026 preprint by a team including a Harvard University researcher reports a 3.24 percent word error rate on recordings from Mozilla\u2019s Common\u2026",
+     "url": "https://spectrum.ieee.org/swahili-speech-recognition",
+     "source": "IEEE Spectrum AI"
+    },
+    {
+     "headline": "Searching for distant planets with Astra",
+     "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA\u2019s Kepler and TESS space telescopes.",
+     "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+     "source": "OpenAI Blog"
+    },
+    {
+     "headline": "Don\u2019t Bring Up AI if You Want to Enjoy Your Thanksgiving",
+     "summary": "Young people anxious about their futures say they\u2019re increasingly frustrated with their pro-AI parents. They\u2019re worried it\u2019s going to make holiday gatherings very tense.",
+     "url": "https://www.wired.com/story/dont-bring-up-ai-if-you-want-to-enjoy-your-thanksgiving/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "AI Solved Math\u2019s Most Famous Problem. Now Humans Are Struggling to Understand It",
+     "summary": "It will take mathematicians months to understand the \u201calien\u201d 17-million-line solution an Anthropic researcher produced for the Riemann hypothesis.",
+     "url": "https://www.wired.com/story/ai-solved-maths-most-famous-problem/",
+     "source": "Wired AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "Thing I am hearing from a number of big firms, from manufacturers to financial services: we have scattered teams of 2-3 people using AI that are doing the work of dozens of folks in a fraction of the time, creating large-scale management fights over the implications and politics for the organization",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3n333h3yyoc2g"
+    },
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "There is a lot of focus on AI-aided discoveries in quantitative fields, but they can do other work, too: Historian Mark Humphries asked GPT-6.2 Astra to look at an anonymous 1808 sketchbook at Yale and it found the author, an obscure French aristocrat. generativehistory.substack.com/p/gpt-62-ast...",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3n32whiabcc27"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Gambling for Goals",
+     "summary": "Young adults in advanced economies have grown more pessimistic about their economic prospects in recent years. At the same time, gambling-like financial activities have proliferated. We link these trends through a Friedman-Savage (1948) motive: when life goals such as homeownership or marriage\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/gambling-for-goals.html?utm_source=rss&utm_medium=rss&utm_campaign=gambling-for-goals",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "GPT 6.2 Astra Solves a Historical Mystery",
+     "summary": "GPT 6.2 Astra Solves a Historical Mystery Here's an interesting case-study in using GPT-6.2 Astra for historical research, from history professor Mark Humphries: With only minimal prompting, GPT-6.2 Astra was able to autonomously identify the creator of an anonymous 1808 sketchbook held at Yale\u2019s\u2026",
+     "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "Tuesday assorted links",
+     "summary": "1. On language models writing their own weights. 2. \u201cThe Banksy of NBA media\u201d? 3. Astra solves a historical mystery. 4. Some new Indian architecture. And more from Bloomberg. 5. The Icelandic tradition of liberty. 6. \u201cSurprisingly though, data on real-world impacts of cyber attacks tells a less\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/tuesday-assorted-links-596.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-596",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Commitment issues (app edition)",
+     "summary": "It\u2019s not me, it\u2019s you",
+     "url": "https://www.bensbites.com/p/commitment-issues-app-edition",
+     "source": "Ben's Bites"
+    },
+    {
+     "headline": "The Individual Exception",
+     "summary": "Jensen Huang has been granted an exception from managerial oversight; in the age of AI, he won't be the last.",
+     "url": "https://stratechery.com/2026/the-individual-exception/",
+     "source": "Stratechery"
+    },
+    {
+     "headline": "The Remote Access Rule Buys Six Months of Compute Lead",
+     "summary": "If Lutnick enforces it...",
+     "url": "https://www.chinatalk.media/p/the-remote-access-rule-will-slow",
+     "source": "ChinaTalk"
+    },
+    {
+     "headline": "brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning: Biosignal-guided reinforcement learning for LLM agents: offline organoid neural recordings as policy inputs in a Godot survival game, with\u2026",
+     "summary": "Biosignal-guided reinforcement learning for LLM agents: offline organoid neural recordings as policy inputs in a Godot survival game, with paired evaluation.",
+     "url": "https://github.com/brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "EL4CTEO/shrink-anything: Less code, same tests passing: delete the dead code, files, dependencies and assets in any codebase, and keep each cut only if your own tests still pass.",
+     "summary": "Less code, same tests passing: delete the dead code, files, dependencies and assets in any codebase, and keep each cut only if your own tests still pass.",
+     "url": "https://github.com/EL4CTEO/shrink-anything",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "mbzuai-oryx/LoopedWSP: Looped Weight-Space Programming: LLM-Written Transformers for Long Algorithmic Reasoning",
+     "summary": "Looped Weight-Space Programming: LLM-Written Transformers for Long Algorithmic Reasoning",
+     "url": "https://github.com/mbzuai-oryx/LoopedWSP",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-11-24T22:37+00:00",
+  "window_start": "2026-11-24T10:07+00:00",
+  "window_end": "2026-11-24T22:37+00:00",
+  "candidate_count": 53,
+  "model": "free (no LLM)"
+ }
+}
