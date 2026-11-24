@@ -1,0 +1,498 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+   "summary": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer GLM 5.4 is now available from Chinese AI lab Z.ai. It's their first model to use a looped transformer architecture, which they describe like this: In a standard Transformer, each layer runs once per forward pass. In a Loop\u2026",
+   "why_it_matters": "",
+   "url": "https://simonwillison.net/2026/Nov/23/glm-54/",
+   "source": "Simon Willison"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "VP \u2260 VNP over Every Field",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50620102",
+     "url": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "GPUI is getting its own repository",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50619103",
+     "url": "https://github.com/zed-industries/gpui",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Two \"suspicious clusters\" on Polymarket Made Over $340k on Huang Comeback",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50617640",
+     "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-23-2026/card/two-groups-of-polymarket-accounts-made-over-340-000-on-huang-comeback-Lan2T0TwbJPNsyhmQHGq",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Apple removed my open-source app from EU App Stores after 9 years",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50616933",
+     "url": "https://github.com/glushchenko/fsnotes/discussions/2056",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "How should an LLM see a computer?",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50615520",
+     "url": "https://www.greptile.com/blog/trex-computer-use",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Buckle Up the AI Bubble Is Popping",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50614037",
+     "url": "https://mathbabe.org/2026/11/23/buckle-up-the-ai-bubble-is-popping/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Cyberleek posted the GTA 6 Xbox build executable",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50612686",
+     "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3jzqe/cyberleek_posted_the_gta_6_xbox_build_executable/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50611402",
+     "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Amodei reportedly suggested games could pacify masses after AI took their jobs (2015)",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50610830",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Win4wine \u2013 Run Windows Shell as the Linux Desktop on Wine",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50610743",
+     "url": "https://github.com/mikuta0407/win4wine",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Nospeaker \u2500 Make your MacBook's trackpad talk using its haptic motor",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50610318",
+     "url": "https://github.com/os6/nospeaker",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Show HN: Hermit CRM \u2013 Free open-source CRM for solopreneurs",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50609708",
+     "url": "https://hermitcrm.io/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "GLM-5.4: Toward generalized coding with our first loop transformer",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50609685",
+     "url": "https://z.ai/blog/glm-5.4",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Enjoy this guy getting bricked over the detail of towers in GTA6",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50609252",
+     "url": "https://bsky.app/profile/floppyadult.com/post/3n2tgw7rofc2v",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "GTA 6 building personal behavioral profile for every player",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50609079",
+     "url": "https://huijzer.xyz/posts/174/gta-6-building-personal-behavioral-profile-for-eve",
+     "source": "Hacker News"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Trump engineered a risky comeback for Jensen Huang",
+     "summary": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly after the news came out, Trump said that\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Nvidia CEO Jensen Huang is back. What happens next?",
+     "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of another affair, this time with an Nvidia\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Welcome to elite impunity, Jensen Huang",
+     "summary": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who had some kind of basic education on what a \"free market\"\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+     "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+     "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+     "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+     "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+     "summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
+     "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+     "summary": "X says every Grok output is screened, but state AGs say Grok is still making CSAM.",
+     "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+     "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
+     "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "OpenAI and Cisco introduce Shirudo",
+     "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+     "url": "https://openai.com/index/introducing-shirudo",
+     "source": "OpenAI Blog"
+    },
+    {
+     "headline": "AI data centers throw another wrench into chaotic UN climate talks",
+     "summary": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with during the United Nations climate conference, called COP31, that came to a chaotic and unsatisfying\u2026",
+     "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Nvidia employees greet Jensen Huang like a hero as he returns to company\u2019s HQ",
+     "summary": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
+     "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Claude AI can review pull requests and ship fixes on its own now",
+     "summary": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests. Engineers have already been able to take advantage of Claude's code review capabilities thanks\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "How Jensen Huang ended up as Nvidia CEO again",
+     "summary": "The Jensen Huang era of Nvidia nearly came to an end this month. Huang, who three decades ago cofounded what's come to be considered one of the most important companies in AI, resigned from his role on November 12th over mounting scrutiny around his alleged affairs. Huang admitted he had been\u2026",
+     "url": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Google Search\u2019s AI Mode can now tap into Drive and Wallet for more personalized responses",
+     "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
+     "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Nothing\u2019s upcoming Ear Note is a pair of earbuds with AI transcription",
+     "summary": "Nothing's new AI device is the Ear Note, a set of earbuds and their microphone-equipped charging case that can record and transcribe conversations, with a connected app to manage the recordings, transcriptions and AI-generated summaries, similar to Apple's new Watch feature and devices like\u2026",
+     "url": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Oregon and Virginia sue SpaceX over Grok\u2019s porn deepfakes",
+     "summary": "In separate but similar lawsuits filed on Monday, Oregon Attorney General Dan Rayfield and Virginia Attorney General Jay Jones accused SpaceX of violating state consumer protection laws by ignoring industry-standard safeguards and falsely promoting the safety of its X social media platform and\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+     "summary": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.",
+     "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Jensen Huang Is Back, and So Is Nvidia\u2019s Stock",
+     "summary": "Jensen Huang comes back, numbers go up. Maybe the reason behind the CEO\u2019s return is just that simple?",
+     "url": "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "A legendary philosopher isn\u2019t buying Anthropic\u2019s consciousness argument",
+     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given \u201cthe way we\u2026",
+     "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+     "source": "MIT Tech Review AI"
+    },
+    {
+     "headline": "RoboTrack: Point tracking for real-world robotic manipulation",
+     "summary": "",
+     "url": "https://huggingface.co/blog/allenai/robotrack",
+     "source": "Hugging Face Blog"
+    },
+    {
+     "headline": "Amazon snaps up Decart\u2019s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+     "summary": "Amazon is acquiring Decart\u2019s AI optimization technology and research team in a reported $7.5 billion deal.",
+     "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season",
+     "summary": "The elves don\u2019t have to be the only ones busy in the workshop this holiday season. With the lights twinkling and the gift wrap out, it\u2019s the perfect time to give someone \u2014 or yourself \u2014 a spark to take a hobby to the next level. For some, that means diving into a new game. [\u2026]",
+     "url": "https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/",
+     "source": "NVIDIA Blog"
+    },
+    {
+     "headline": "A more tailored Google Search that\u2019s uniquely yours",
+     "summary": "Google Search bar with the text \"Personal Intelligence\" surrounded by the Google Wallet, Google Drive, GMail, Google Photos, Google Calendar, and Google G logo icons",
+     "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+     "source": "Google AI Blog"
+    },
+    {
+     "headline": "Finding faster quantum algorithms with agents and formal verification",
+     "summary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+     "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+     "source": "Google DeepMind"
+    },
+    {
+     "headline": "Jensen Huang isn\u2019t out of the woods yet",
+     "summary": "Tech leaders should be clear-eyed about all the problems likely to come with Huang's reinstatement.",
+     "url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Trump reportedly called into Nvidia board meeting to advocate for Huang\u2019s return",
+     "summary": "\"I spoke to them, let me put it that way \u2026 And I convinced them,\" the president told CNBC.",
+     "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "White House brags that Trump was \u2018totally involved\u2019 in getting Jensen reinstated",
+     "summary": "It sure looked like President Donald Trump played a role in Jensen Huang's reinstatement as Nvidia CEO - and now the White House is making sure everyone knows he was. \"President Trump was totally involved and this is a great decision by the NVIDIA board,\" White House communications director Steven\u2026",
+     "url": "https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Tech leaders are celebrating Jensen Huang\u2019s return",
+     "summary": "Let's say you're Jensen Huang. You (allegedly) cheated on your wife with an alleged Chinese spy, allegedly had an affair with not one, but two subordinates, and (allegedly!) \"terrorized\" your employees, a series of indiscretions that led to your ouster from what was once the world's most valuable\u2026",
+     "url": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Jensen Huang reinstated as Nvidia CEO, board chair",
+     "summary": "Trump says he spoke to the board and that Huang \"did nothing wrong.\"",
+     "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Trump endorses Jensen Huang\u2019s return to Nvidia, says US has no evidence of wrongdoing",
+     "summary": "The president cited the U.S. attorney general in defending Huang's return, while urging Nvidia to continue its export-control investigation.",
+     "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+     "summary": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.",
+     "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Jensen Huang Is Back as Nvidia CEO",
+     "summary": "The company\u2019s board of directors has reinstated Huang a little more than a week after the CEO resigned amid allegations of multiple affairs, including with a direct report.",
+     "url": "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Nvidia reverses course and brings Jensen Huang back as CEO",
+     "summary": "The stunning reversal was supported by senior officials in the U.S. government.",
+     "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Nvidia Is Powering Brain-Computer Interfaces Now",
+     "summary": "Brain-computer interface company Paradromics is using Nvidia\u2019s computing hardware and software to process brain data.",
+     "url": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
+     "summary": "The new Asus ProArt laptop costs up to $7,000, but it can run a gaggle of local AI agents.",
+     "url": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Submit Your Questions: Will Anyone Keep You Safe From AI?",
+     "summary": "Experts agree that AI, in one way or another, poses real danger. Will the industry do anything about it? Join our livestream on December 2 to hear your questions answered.",
+     "url": "https://www.wired.com/story/livestream-will-anyone-keep-us-safe-from-ai/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "States Sue SpaceX Over Grok Deepfakes",
+     "summary": "The attorneys general of Oregon and Virginia are suing several of Elon Musk\u2019s companies, alleging they implemented weak safeguards against sexualized imagery of real people, including children.",
+     "url": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Goodbye, World: The End of Programmers",
+     "summary": "The last thing you should ever read\u2014and the last thing I may ever write\u2014about the craft of coding.",
+     "url": "https://www.wired.com/story/goodbye-world-the-end-of-programmers/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "Connected intelligence for in-house legal",
+     "summary": "Watch OpenAI\u2019s Stacey Wang and Craig Bruney, Mary O\u2019Carroll of LECG, and Cooley\u2019s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
+     "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+     "source": "OpenAI Blog"
+    },
+    {
+     "headline": "Richpanel helps companies automate 50% of support in 30 days",
+     "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+     "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+     "source": "OpenAI Blog"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @simonwillison.net",
+     "handle": "",
+     "quote": "I built (with a lot of help from Fable 5.2) a new datasette-charts plugin, which is my best attempt yet at having Datasette automatically pick credible visualizations for any data you might throw at it simonwillison.net/2026/Nov/23/...",
+     "context": "",
+     "url": "https://bsky.app/profile/simonwillison.net/post/3n2zbiqydh22d"
+    },
+    {
+     "author": "Bluesky @simonwillison.net",
+     "handle": "",
+     "quote": "I've been trying out the first Ladybird browser alpha release - a from-scratch implementation of most of what it means to be a browser (CSS, HTML, JS, even WebAssembly) - and it's very impressive simonwillison.net/2026/Nov/23/...",
+     "context": "",
+     "url": "https://bsky.app/profile/simonwillison.net/post/3n2z5f6wby22o"
+    },
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "Walmart seems determined not to make the same mistake with agentic commerce that it did with ecommerce. While Amazon is blocking agents, Walmart is embracing them - quite a reversal. And the new data from Stripe suggests agentic shopping may actually be kicking off & is suprisingly sticky.",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3n2yixn4gps2g"
+    },
+    {
+     "author": "Bluesky @natolambert.bsky.social",
+     "handle": "",
+     "quote": "It is an inevitable path of optimization that interpretable chain of thought goes away. It being intelligible is an inefficiency brought about how we first discovered inference time reasoning (related to in-context learning). Looped architectures are the first step there.",
+     "context": "",
+     "url": "https://bsky.app/profile/natolambert.bsky.social/post/3n2y7trwhy52z"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+     "summary": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer GLM 5.4 is now available from Chinese AI lab Z.ai. It's their first model to use a looped transformer architecture, which they describe like this: In a standard Transformer, each layer runs once per forward pass. In a Loop\u2026",
+     "url": "https://simonwillison.net/2026/Nov/23/glm-54/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "Ladybird's first alpha release",
+     "summary": "Ladybird is an astonishingly ambitious project: a new browser, in 2026, with its own implementation of most of the key components - HTML parsing, CSS engine, layout, JavaScript, even WebAssembly. It still uses a few external components - things like HarfBuzz for text shaping, Skia for 2D graphics,\u2026",
+     "url": "https://simonwillison.net/2026/Nov/23/ladybird/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "Karimk899/free-llm-router: Route every request to a free provider.",
+     "summary": "Route every request to a free provider.",
+     "url": "https://github.com/Karimk899/free-llm-router",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "ThaoYou30020/llm-router-free: One API key, 15+ free providers, automatic fallback.",
+     "summary": "One API key, 15+ free providers, automatic fallback.",
+     "url": "https://github.com/ThaoYou30020/llm-router-free",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "TekihiXac52/unfiltered-ai-chat: Local unfiltered AI chat \u2014 your machine, your rules.",
+     "summary": "Local unfiltered AI chat \u2014 your machine, your rules.",
+     "url": "https://github.com/TekihiXac52/unfiltered-ai-chat",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "Meetsaini/emulator: new repository",
+     "summary": "",
+     "url": "https://github.com/Meetsaini/emulator",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "Management consulting is not a thin wrapper on intelligence",
+     "summary": "Consulting as a test case for AI's impact on knowledge work",
+     "url": "https://www.normaltech.ai/p/management-consulting-is-not-a-thin",
+     "source": "AI Snake Oil"
+    },
+    {
+     "headline": "The AI gains that gdp misses",
+     "summary": "That is a recent essay of mine, published in The Humanist Review of AI. Excerpt: One way to think of these matching gains is to say that AI helps consumers get hold of more customized products. The effective, available degree of product variety rises sharply due to AI. But again, that effect is\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/the-ai-gains-that-gdp-misses.html?utm_source=rss&utm_medium=rss&utm_campaign=the-ai-gains-that-gdp-misses",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Monday assorted links",
+     "summary": "1. Why so many arranged marriages in South Asia? 2. Why are we so good at feeling bad? (New Yorker) 3. Gateways into East Africa. 4. Progress involves some degree of higher risk and failure (NYT). 5. What top chess players earn in prize money. 6. The rise and fall of the MBA. 7. Richard [\u2026] The\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/monday-assorted-links-587.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-587",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Still Unproven: Can Britain Build a Tunnel?",
+     "summary": "Proof of Riemann Hypothesis: 250,000 pages. The planning application for a tunnel under the Lower Thames: 359,000 pages. Second irony. Some people actually care about the first document. No one cares or will read the second. Third irony: The tunnel still isn\u2019t built. Hat tip: Alex Rich The post\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/still-unproven-can-britain-build-a-tunnel.html?utm_source=rss&utm_medium=rss&utm_campaign=still-unproven-can-britain-build-a-tunnel",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "The Tyranny of the Alphabet 2",
+     "summary": "I wrote about the Tyranny of the Alphabet many years ago. In economics the standard then was to list authors alphabetically: Faculty members in top departments with surnames beginning with letters earlier in the alphabet are substantially more likely to be tenured, be fellows of the Econometric\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/94257.html?utm_source=rss&utm_medium=rss&utm_campaign=94257",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "The Agentic State",
+     "summary": "How AI can transform government for the better",
+     "url": "https://www.chinatalk.media/p/the-agentic-state",
+     "source": "ChinaTalk"
+    },
+    {
+     "headline": "Amazon Earnings, The Chip Question, About Agents",
+     "summary": "Amazon makes the case they are not like other compute providers, even as they signal the willingness to give up margin to serve the frontier.",
+     "url": "https://stratechery.com/2026/amazon-earnings-the-chip-question-about-agents/",
+     "source": "Stratechery"
+    },
+    {
+     "headline": "w1ccc/sap-data-mcp: Read-only MCP servers that let AI assistants query SAP S/4HANA through RFC/BAPI, private-cloud OData and public-cloud released APIs. Every call audited; credentials stay local.",
+     "summary": "Read-only MCP servers that let AI assistants query SAP S/4HANA through RFC/BAPI, private-cloud OData and public-cloud released APIs. Every call audited; credentials stay local.",
+     "url": "https://github.com/w1ccc/sap-data-mcp",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "LIUFelix2004/dsh-workbuddy: Import WorkBuddy accounts into DeepSeek Harness as model providers: one route per account, full model list, per-account credit balance, and an automatic workaround for\u2026",
+     "summary": "Import WorkBuddy accounts into DeepSeek Harness as model providers: one route per account, full model list, per-account credit balance, and an automatic workaround for the gateway 11128 channel check.",
+     "url": "https://github.com/LIUFelix2004/dsh-workbuddy",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "GF007/game-rebuild-kit: AI-assisted game analysis and reconstruction, working toward one-click workflows for any game.",
+     "summary": "AI-assisted game analysis and reconstruction, working toward one-click workflows for any game.",
+     "url": "https://github.com/GF007/game-rebuild-kit",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "byttrade/bytx-skills: Crypto trading skills for AI assistants on bytx: MCP server + CLI + Claude skills. Paper by default, never without your yes.",
+     "summary": "Crypto trading skills for AI assistants on bytx: MCP server + CLI + Claude skills. Paper by default, never without your yes.",
+     "url": "https://github.com/byttrade/bytx-skills",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "Echoxiawan/Astra: Astra: open-source AI mobile UI automation testing. Write natural-language test cases, run them with AI on real Android/iOS devices via Appium, and generate standalone pytest +\u2026",
+     "summary": "Astra: open-source AI mobile UI automation testing. Write natural-language test cases, run them with AI on real Android/iOS devices via Appium, and generate standalone pytest + Appium scripts. \u7528\u81ea\u7136\u8bed\u8a00\u5199\u79fb\u52a8\u7aef\u6d4b\u8bd5\u7528\u4f8b\uff0cAI \u5728 Android / iOS \u771f\u673a\u4e0a\u6267\u884c\uff0c\u8dd1\u901a\u540e\u751f\u6210\u53ef\u72ec\u7acb\u8fd0\u884c\u7684 pytest + Appium \u811a\u672c\u3002",
+     "url": "https://github.com/Echoxiawan/Astra",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-11-24T00:06+00:00",
+  "window_start": "2026-11-23T07:54+00:00",
+  "window_end": "2026-11-24T00:06+00:00",
+  "candidate_count": 77,
+  "model": "free (no LLM)"
+ }
+}

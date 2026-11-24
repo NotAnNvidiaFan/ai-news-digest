@@ -1,0 +1,595 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI Digest — 2026-11-24T00:06+00:00</title>
+<style>
+  :root {
+    --bg: #0c0f14; --card: #141922; --card-hover: #1a2130; --border: #232b3a;
+    --text: #dfe6f0; --muted: #8b98ab; --accent: #5eb1ff; --accent2: #a78bfa;
+    --good: #4ade80; --bad: #f87171; --mid: #fbbf24;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text);
+         font: 16px/1.6 -apple-system, "Segoe UI", Roboto, sans-serif; }
+  .wrap { max-width: 860px; margin: 0 auto; padding: 32px 20px 64px; }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  header .brand { font-size: 13px; letter-spacing: 2px; text-transform: uppercase;
+                  color: var(--muted); }
+  header .brand a { color: var(--muted); }
+  h1 { font-size: 26px; margin: 6px 0 2px; }
+  .window { color: var(--muted); font-size: 14px; }
+  .overview { font-size: 17px; color: var(--text); margin: 18px 0 8px;
+              border-left: 3px solid var(--accent2); padding-left: 14px; }
+  .badges { display: flex; gap: 8px; flex-wrap: wrap; margin: 14px 0 26px; }
+  .badge { font-size: 12px; padding: 3px 10px; border-radius: 999px;
+           border: 1px solid var(--border); color: var(--muted); }
+  .badge.sent-bullish, .badge.sent-optimistic { color: var(--good); border-color: var(--good); }
+  .badge.sent-mixed { color: var(--mid); border-color: var(--mid); }
+  .badge.sent-skeptical, .badge.sent-anxious { color: var(--bad); border-color: var(--bad); }
+  .hero { background: linear-gradient(135deg, #16203a, #1b1530); border: 1px solid var(--border);
+          border-radius: 14px; padding: 22px 24px; margin-bottom: 30px; }
+  .hero .label { font-size: 12px; letter-spacing: 2px; text-transform: uppercase; color: var(--accent2); }
+  .hero h2 { margin: 8px 0 10px; font-size: 22px; }
+  .hero .why { color: var(--muted); font-size: 15px; margin-top: 10px; }
+  .hero .why strong { color: var(--text); }
+  h3.section { font-size: 14px; letter-spacing: 2px; text-transform: uppercase;
+               color: var(--muted); margin: 34px 0 12px; border-bottom: 1px solid var(--border);
+               padding-bottom: 8px; }
+  .card { background: var(--card); border: 1px solid var(--border); border-radius: 12px;
+          padding: 16px 18px; margin-bottom: 12px; }
+  .card:hover { background: var(--card-hover); }
+  .card h4 { margin: 0 0 6px; font-size: 16px; }
+  .card p { margin: 0; color: var(--muted); font-size: 14.5px; }
+  .src { display: inline-block; font-size: 12px; color: var(--accent2); margin-top: 8px; }
+  blockquote.take { margin: 0; }
+  .take .quote { font-size: 15.5px; font-style: italic; color: var(--text); }
+  .take .who { margin-top: 8px; font-size: 13.5px; color: var(--muted); }
+  .take .ctx { margin-top: 4px; font-size: 13.5px; color: var(--muted); }
+  .idea { border-left: 3px solid var(--accent2); }
+  .idea .hook { font-size: 15px; font-weight: 600; margin-bottom: 8px; }
+  .idea .draft { color: var(--text) !important; background: var(--bg); border: 1px dashed var(--border);
+                 border-radius: 8px; padding: 10px 12px; margin: 0 0 8px !important; }
+  .idea .why { font-size: 13.5px !important; }
+  .quiet { text-align: center; color: var(--muted); padding: 40px 0; font-size: 15px; }
+  .empty { color: var(--muted); font-size: 14px; font-style: italic; }
+  footer { margin-top: 44px; color: var(--muted); font-size: 12.5px;
+           border-top: 1px solid var(--border); padding-top: 14px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="brand"><a href="../index.html">AI NEWS DIGEST</a></div>
+    <h1>2026-11-24T00:06+00:00</h1>
+    <div class="window">Window: 2026-11-23T07:54+00:00 &rarr; 2026-11-24T00:06+00:00 (UTC)</div>
+  </header>
+
+  <p class="overview">Free-mode digest: candidates grouped by type (LLM synthesis disabled).</p>
+
+  <div class="badges">
+    
+    <span class="badge">77 candidates scanned</span>
+    <span class="badge">model: free (no LLM)</span>
+  </div>
+
+  
+
+  
+
+  
+  <div class="hero">
+    <div class="label">Top story</div>
+    <h2><a href="https://simonwillison.net/2026/Nov/23/glm-54/">GLM-5.4: Toward Generalized Coding with Our First Loop Transformer</a></h2>
+    <p>GLM-5.4: Toward Generalized Coding with Our First Loop Transformer GLM 5.4 is now available from Chinese AI lab Z.ai. It&#39;s their first model to use a looped transformer architecture, which they describe like this: In a standard Transformer, each layer runs once per forward pass. In a Loop…</p>
+    
+    <span class="src">Simon Willison</span>
+  </div>
+  
+
+  
+
+  <h3 class="section">Model releases &amp; updates</h3>
+  
+    
+    <div class="card">
+      <h4><a href="https://github.com/anthropics/formal-math/tree/main/vp-vnp">VP ≠ VNP over Every Field</a></h4>
+      <p>Hacker News discussion: https://news.ycombinator.com/item?id=50620102</p>
+      <span class="src">Hacker News</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://github.com/zed-industries/gpui">GPUI is getting its own repository</a></h4>
+      <p>Hacker News discussion: https://news.ycombinator.com/item?id=50619103</p>
+      <span class="src">Hacker News</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-23-2026/card/two-groups-of-polymarket-accounts-made-over-340-000-on-huang-comeback-Lan2T0TwbJPNsyhmQHGq">Two &#34;suspicious clusters&#34; on Polymarket Made Over $340k on Huang Comeback</a></h4>
+      <p>Hacker News discussion: https://news.ycombinator.com/item?id=50617640</p>
+      <span class="src">Hacker News</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://github.com/glushchenko/fsnotes/discussions/2056">Apple removed my open-source app from EU App Stores after 9 years</a></h4>
+      <p>Hacker News discussion: https://news.ycombinator.com/item?id=50616933</p>
+      <span class="src">Hacker News</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.greptile.com/blog/trex-computer-use">How should an LLM see a computer?</a></h4>
+      <p>Hacker News discussion: https://news.ycombinator.com/item?id=50615520</p>
+      <span class="src">Hacker News</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://mathbabe.org/2026/11/23/buckle-up-the-ai-bubble-is-popping/">Buckle Up the AI Bubble Is Popping</a></h4>
+      <p>Hacker News discussion: https://news.ycombinator.com/item?id=50614037</p>
+      <span class="src">Hacker News</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3jzqe/cyberleek_posted_the_gta_6_xbox_build_executable/">Cyberleek posted the GTA 6 Xbox build executable</a></h4>
+      <p>Hacker News discussion: https://news.ycombinator.com/item?id=50612686</p>
+      <span class="src">Hacker News</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF">NariQ: BF16-level Qwen3.8-27B in a 10 GB file</a></h4>
+      <p>Hacker News discussion: https://news.ycombinator.com/item?id=50611402</p>
+      <span class="src">Hacker News</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness">Amodei reportedly suggested games could pacify masses after AI took their jobs (2015)</a></h4>
+      <p>Hacker News discussion: https://news.ycombinator.com/item?id=50610830</p>
+      <span class="src">Hacker News</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://github.com/mikuta0407/win4wine">Win4wine – Run Windows Shell as the Linux Desktop on Wine</a></h4>
+      <p>Hacker News discussion: https://news.ycombinator.com/item?id=50610743</p>
+      <span class="src">Hacker News</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://github.com/os6/nospeaker">Nospeaker ─ Make your MacBook&#39;s trackpad talk using its haptic motor</a></h4>
+      <p>Hacker News discussion: https://news.ycombinator.com/item?id=50610318</p>
+      <span class="src">Hacker News</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://hermitcrm.io/">Show HN: Hermit CRM – Free open-source CRM for solopreneurs</a></h4>
+      <p>Hacker News discussion: https://news.ycombinator.com/item?id=50609708</p>
+      <span class="src">Hacker News</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://z.ai/blog/glm-5.4">GLM-5.4: Toward generalized coding with our first loop transformer</a></h4>
+      <p>Hacker News discussion: https://news.ycombinator.com/item?id=50609685</p>
+      <span class="src">Hacker News</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://bsky.app/profile/floppyadult.com/post/3n2tgw7rofc2v">Enjoy this guy getting bricked over the detail of towers in GTA6</a></h4>
+      <p>Hacker News discussion: https://news.ycombinator.com/item?id=50609252</p>
+      <span class="src">Hacker News</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://huijzer.xyz/posts/174/gta-6-building-personal-behavioral-profile-for-eve">GTA 6 building personal behavioral profile for every player</a></h4>
+      <p>Hacker News discussion: https://news.ycombinator.com/item?id=50609079</p>
+      <span class="src">Hacker News</span>
+    </div>
+    
+  
+
+  <h3 class="section">Frontier lab developments</h3>
+  
+    
+    <div class="card">
+      <h4><a href="https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated">Trump engineered a risky comeback for Jensen Huang</a></h4>
+      <p>After Nvidia&#39;s board accepted Jensen Huang&#39;s resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith&#39;s radio show shortly after the news came out, Trump said that…</p>
+      <span class="src">The Verge AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang">Nvidia CEO Jensen Huang is back. What happens next?</a></h4>
+      <p>After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of another affair, this time with an Nvidia…</p>
+      <span class="src">The Verge AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang">Welcome to elite impunity, Jensen Huang</a></h4>
+      <p>I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who had some kind of basic education on what a &#34;free market&#34;…</p>
+      <span class="src">The Verge AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/">Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes</a></h4>
+      <p>As AI-generated code piles up, Anthropic&#39;s new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.</p>
+      <span class="src">TechCrunch AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/">Supertake raises $20M to let AI agents turn your market predictions into stock portfolios</a></h4>
+      <p>Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.</p>
+      <span class="src">TechCrunch AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/">Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal</a></h4>
+      <p>&#34;The mistake has been corrected,&#34; Elon Musk chimed in.</p>
+      <span class="src">TechCrunch AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/">States sue SpaceX to stop Grok from generating child sex images, revenge porn</a></h4>
+      <p>X says every Grok output is screened, but state AGs say Grok is still making CSAM.</p>
+      <span class="src">Ars Technica AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/">Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist</a></h4>
+      <p>Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.</p>
+      <span class="src">TechCrunch AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://openai.com/index/introducing-shirudo">OpenAI and Cisco introduce Shirudo</a></h4>
+      <p>OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.</p>
+      <span class="src">OpenAI Blog</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit">AI data centers throw another wrench into chaotic UN climate talks</a></h4>
+      <p>The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It&#39;s a challenge delegates from all over the world had to grapple with during the United Nations climate conference, called COP31, that came to a chaotic and unsatisfying…</p>
+      <span class="src">The Verge AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/">Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ</a></h4>
+      <p>&#34;I&#39;m going to be a better CEO the second time around,&#34; Huang told employees.</p>
+      <span class="src">TechCrunch AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests">Claude AI can review pull requests and ship fixes on its own now</a></h4>
+      <p>Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests. Engineers have already been able to take advantage of Claude&#39;s code review capabilities thanks…</p>
+      <span class="src">The Verge AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return">How Jensen Huang ended up as Nvidia CEO again</a></h4>
+      <p>The Jensen Huang era of Nvidia nearly came to an end this month. Huang, who three decades ago cofounded what&#39;s come to be considered one of the most important companies in AI, resigned from his role on November 12th over mounting scrutiny around his alleged affairs. Huang admitted he had been…</p>
+      <span class="src">The Verge AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/">Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses</a></h4>
+      <p>By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that&#39;s already within its ecosystem</p>
+      <span class="src">TechCrunch AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording">Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription</a></h4>
+      <p>Nothing&#39;s new AI device is the Ear Note, a set of earbuds and their microphone-equipped charging case that can record and transcribe conversations, with a connected app to manage the recordings, transcriptions and AI-generated summaries, similar to Apple&#39;s new Watch feature and devices like…</p>
+      <span class="src">The Verge AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit">Oregon and Virginia sue SpaceX over Grok’s porn deepfakes</a></h4>
+      <p>In separate but similar lawsuits filed on Monday, Oregon Attorney General Dan Rayfield and Virginia Attorney General Jay Jones accused SpaceX of violating state consumer protection laws by ignoring industry-standard safeguards and falsely promoting the safety of its X social media platform and…</p>
+      <span class="src">The Verge AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/">Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO</a></h4>
+      <p>The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.</p>
+      <span class="src">TechCrunch AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/">Jensen Huang Is Back, and So Is Nvidia’s Stock</a></h4>
+      <p>Jensen Huang comes back, numbers go up. Maybe the reason behind the CEO’s return is just that simple?</p>
+      <span class="src">Wired AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/">A legendary philosopher isn’t buying Anthropic’s consciousness argument</a></h4>
+      <p>This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we…</p>
+      <span class="src">MIT Tech Review AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://huggingface.co/blog/allenai/robotrack">RoboTrack: Point tracking for real-world robotic manipulation</a></h4>
+      <p></p>
+      <span class="src">Hugging Face Blog</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/">Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips</a></h4>
+      <p>Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.</p>
+      <span class="src">TechCrunch AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/">Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season</a></h4>
+      <p>The elves don’t have to be the only ones busy in the workshop this holiday season. With the lights twinkling and the gift wrap out, it’s the perfect time to give someone — or yourself — a spark to take a hobby to the next level. For some, that means diving into a new game. […]</p>
+      <span class="src">NVIDIA Blog</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/">A more tailored Google Search that’s uniquely yours</a></h4>
+      <p>Google Search bar with the text &#34;Personal Intelligence&#34; surrounded by the Google Wallet, Google Drive, GMail, Google Photos, Google Calendar, and Google G logo icons</p>
+      <span class="src">Google AI Blog</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/">Finding faster quantum algorithms with agents and formal verification</a></h4>
+      <p>Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.</p>
+      <span class="src">Google DeepMind</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/">Jensen Huang isn’t out of the woods yet</a></h4>
+      <p>Tech leaders should be clear-eyed about all the problems likely to come with Huang&#39;s reinstatement.</p>
+      <span class="src">TechCrunch AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/">Trump reportedly called into Nvidia board meeting to advocate for Huang’s return</a></h4>
+      <p>&#34;I spoke to them, let me put it that way … And I convinced them,&#34; the president told CNBC.</p>
+      <span class="src">TechCrunch AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated">White House brags that Trump was ‘totally involved’ in getting Jensen reinstated</a></h4>
+      <p>It sure looked like President Donald Trump played a role in Jensen Huang&#39;s reinstatement as Nvidia CEO - and now the White House is making sure everyone knows he was. &#34;President Trump was totally involved and this is a great decision by the NVIDIA board,&#34; White House communications director Steven…</p>
+      <span class="src">The Verge AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay">Tech leaders are celebrating Jensen Huang’s return</a></h4>
+      <p>Let&#39;s say you&#39;re Jensen Huang. You (allegedly) cheated on your wife with an alleged Chinese spy, allegedly had an affair with not one, but two subordinates, and (allegedly!) &#34;terrorized&#34; your employees, a series of indiscretions that led to your ouster from what was once the world&#39;s most valuable…</p>
+      <span class="src">The Verge AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/">Jensen Huang reinstated as Nvidia CEO, board chair</a></h4>
+      <p>Trump says he spoke to the board and that Huang &#34;did nothing wrong.&#34;</p>
+      <span class="src">Ars Technica AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/">Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing</a></h4>
+      <p>The president cited the U.S. attorney general in defending Huang&#39;s return, while urging Nvidia to continue its export-control investigation.</p>
+      <span class="src">TechCrunch AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/">Sierra doubles valuation to $30B within six months as demand for AI in CX takes off</a></h4>
+      <p>Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.</p>
+      <span class="src">TechCrunch AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/">Jensen Huang Is Back as Nvidia CEO</a></h4>
+      <p>The company’s board of directors has reinstated Huang a little more than a week after the CEO resigned amid allegations of multiple affairs, including with a direct report.</p>
+      <span class="src">Wired AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/">Nvidia reverses course and brings Jensen Huang back as CEO</a></h4>
+      <p>The stunning reversal was supported by senior officials in the U.S. government.</p>
+      <span class="src">TechCrunch AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/">Nvidia Is Powering Brain-Computer Interfaces Now</a></h4>
+      <p>Brain-computer interface company Paradromics is using Nvidia’s computing hardware and software to process brain data.</p>
+      <span class="src">Wired AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/">Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI</a></h4>
+      <p>The new Asus ProArt laptop costs up to $7,000, but it can run a gaggle of local AI agents.</p>
+      <span class="src">Ars Technica AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.wired.com/story/livestream-will-anyone-keep-us-safe-from-ai/">Submit Your Questions: Will Anyone Keep You Safe From AI?</a></h4>
+      <p>Experts agree that AI, in one way or another, poses real danger. Will the industry do anything about it? Join our livestream on December 2 to hear your questions answered.</p>
+      <span class="src">Wired AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/">States Sue SpaceX Over Grok Deepfakes</a></h4>
+      <p>The attorneys general of Oregon and Virginia are suing several of Elon Musk’s companies, alleging they implemented weak safeguards against sexualized imagery of real people, including children.</p>
+      <span class="src">Wired AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.wired.com/story/goodbye-world-the-end-of-programmers/">Goodbye, World: The End of Programmers</a></h4>
+      <p>The last thing you should ever read—and the last thing I may ever write—about the craft of coding.</p>
+      <span class="src">Wired AI</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://openai.com/business/learn/connected-intelligence-for-in-house-legal">Connected intelligence for in-house legal</a></h4>
+      <p>Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.</p>
+      <span class="src">OpenAI Blog</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://openai.com/business/customer-stories/richpanel-ai-customer-support">Richpanel helps companies automate 50% of support in 30 days</a></h4>
+      <p>Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.</p>
+      <span class="src">OpenAI Blog</span>
+    </div>
+    
+  
+
+  <h3 class="section">Influencer takes &amp; sentiment</h3>
+  
+  <div class="card">
+    <blockquote class="take">
+      <div class="quote">&ldquo;I built (with a lot of help from Fable 5.2) a new datasette-charts plugin, which is my best attempt yet at having Datasette automatically pick credible visualizations for any data you might throw at it simonwillison.net/2026/Nov/23/...&rdquo;</div>
+      <div class="who">&mdash; Bluesky @simonwillison.net
+        &middot; <a href="https://bsky.app/profile/simonwillison.net/post/3n2zbiqydh22d">view post</a></div>
+      
+    </blockquote>
+  </div>
+  
+  <div class="card">
+    <blockquote class="take">
+      <div class="quote">&ldquo;I&#39;ve been trying out the first Ladybird browser alpha release - a from-scratch implementation of most of what it means to be a browser (CSS, HTML, JS, even WebAssembly) - and it&#39;s very impressive simonwillison.net/2026/Nov/23/...&rdquo;</div>
+      <div class="who">&mdash; Bluesky @simonwillison.net
+        &middot; <a href="https://bsky.app/profile/simonwillison.net/post/3n2z5f6wby22o">view post</a></div>
+      
+    </blockquote>
+  </div>
+  
+  <div class="card">
+    <blockquote class="take">
+      <div class="quote">&ldquo;Walmart seems determined not to make the same mistake with agentic commerce that it did with ecommerce. While Amazon is blocking agents, Walmart is embracing them - quite a reversal. And the new data from Stripe suggests agentic shopping may actually be kicking off &amp; is suprisingly sticky.&rdquo;</div>
+      <div class="who">&mdash; Bluesky @emollick.bsky.social
+        &middot; <a href="https://bsky.app/profile/emollick.bsky.social/post/3n2yixn4gps2g">view post</a></div>
+      
+    </blockquote>
+  </div>
+  
+  <div class="card">
+    <blockquote class="take">
+      <div class="quote">&ldquo;It is an inevitable path of optimization that interpretable chain of thought goes away. It being intelligible is an inefficiency brought about how we first discovered inference time reasoning (related to in-context learning). Looped architectures are the first step there.&rdquo;</div>
+      <div class="who">&mdash; Bluesky @natolambert.bsky.social
+        &middot; <a href="https://bsky.app/profile/natolambert.bsky.social/post/3n2y7trwhy52z">view post</a></div>
+      
+    </blockquote>
+  </div>
+  
+
+  <h3 class="section">Research &amp; under the radar</h3>
+  
+    
+    <div class="card">
+      <h4><a href="https://simonwillison.net/2026/Nov/23/glm-54/">GLM-5.4: Toward Generalized Coding with Our First Loop Transformer</a></h4>
+      <p>GLM-5.4: Toward Generalized Coding with Our First Loop Transformer GLM 5.4 is now available from Chinese AI lab Z.ai. It&#39;s their first model to use a looped transformer architecture, which they describe like this: In a standard Transformer, each layer runs once per forward pass. In a Loop…</p>
+      <span class="src">Simon Willison</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://simonwillison.net/2026/Nov/23/ladybird/">Ladybird&#39;s first alpha release</a></h4>
+      <p>Ladybird is an astonishingly ambitious project: a new browser, in 2026, with its own implementation of most of the key components - HTML parsing, CSS engine, layout, JavaScript, even WebAssembly. It still uses a few external components - things like HarfBuzz for text shaping, Skia for 2D graphics,…</p>
+      <span class="src">Simon Willison</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://github.com/Karimk899/free-llm-router">Karimk899/free-llm-router: Route every request to a free provider.</a></h4>
+      <p>Route every request to a free provider.</p>
+      <span class="src">GitHub Trending</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://github.com/ThaoYou30020/llm-router-free">ThaoYou30020/llm-router-free: One API key, 15+ free providers, automatic fallback.</a></h4>
+      <p>One API key, 15+ free providers, automatic fallback.</p>
+      <span class="src">GitHub Trending</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://github.com/TekihiXac52/unfiltered-ai-chat">TekihiXac52/unfiltered-ai-chat: Local unfiltered AI chat — your machine, your rules.</a></h4>
+      <p>Local unfiltered AI chat — your machine, your rules.</p>
+      <span class="src">GitHub Trending</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://github.com/Meetsaini/emulator">Meetsaini/emulator: new repository</a></h4>
+      <p></p>
+      <span class="src">GitHub Trending</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.normaltech.ai/p/management-consulting-is-not-a-thin">Management consulting is not a thin wrapper on intelligence</a></h4>
+      <p>Consulting as a test case for AI&#39;s impact on knowledge work</p>
+      <span class="src">AI Snake Oil</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://marginalrevolution.com/marginalrevolution/2026/11/the-ai-gains-that-gdp-misses.html?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-ai-gains-that-gdp-misses">The AI gains that gdp misses</a></h4>
+      <p>That is a recent essay of mine, published in The Humanist Review of AI. Excerpt: One way to think of these matching gains is to say that AI helps consumers get hold of more customized products. The effective, available degree of product variety rises sharply due to AI. But again, that effect is…</p>
+      <span class="src">Marginal Revolution</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://marginalrevolution.com/marginalrevolution/2026/11/monday-assorted-links-587.html?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=monday-assorted-links-587">Monday assorted links</a></h4>
+      <p>1. Why so many arranged marriages in South Asia? 2. Why are we so good at feeling bad? (New Yorker) 3. Gateways into East Africa. 4. Progress involves some degree of higher risk and failure (NYT). 5. What top chess players earn in prize money. 6. The rise and fall of the MBA. 7. Richard […] The…</p>
+      <span class="src">Marginal Revolution</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://marginalrevolution.com/marginalrevolution/2026/11/still-unproven-can-britain-build-a-tunnel.html?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=still-unproven-can-britain-build-a-tunnel">Still Unproven: Can Britain Build a Tunnel?</a></h4>
+      <p>Proof of Riemann Hypothesis: 250,000 pages. The planning application for a tunnel under the Lower Thames: 359,000 pages. Second irony. Some people actually care about the first document. No one cares or will read the second. Third irony: The tunnel still isn’t built. Hat tip: Alex Rich The post…</p>
+      <span class="src">Marginal Revolution</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://marginalrevolution.com/marginalrevolution/2026/11/94257.html?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=94257">The Tyranny of the Alphabet 2</a></h4>
+      <p>I wrote about the Tyranny of the Alphabet many years ago. In economics the standard then was to list authors alphabetically: Faculty members in top departments with surnames beginning with letters earlier in the alphabet are substantially more likely to be tenured, be fellows of the Econometric…</p>
+      <span class="src">Marginal Revolution</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://www.chinatalk.media/p/the-agentic-state">The Agentic State</a></h4>
+      <p>How AI can transform government for the better</p>
+      <span class="src">ChinaTalk</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://stratechery.com/2026/amazon-earnings-the-chip-question-about-agents/">Amazon Earnings, The Chip Question, About Agents</a></h4>
+      <p>Amazon makes the case they are not like other compute providers, even as they signal the willingness to give up margin to serve the frontier.</p>
+      <span class="src">Stratechery</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://github.com/w1ccc/sap-data-mcp">w1ccc/sap-data-mcp: Read-only MCP servers that let AI assistants query SAP S/4HANA through RFC/BAPI, private-cloud OData and public-cloud released APIs. Every call audited; credentials stay local.</a></h4>
+      <p>Read-only MCP servers that let AI assistants query SAP S/4HANA through RFC/BAPI, private-cloud OData and public-cloud released APIs. Every call audited; credentials stay local.</p>
+      <span class="src">GitHub Trending</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://github.com/LIUFelix2004/dsh-workbuddy">LIUFelix2004/dsh-workbuddy: Import WorkBuddy accounts into DeepSeek Harness as model providers: one route per account, full model list, per-account credit balance, and an automatic workaround for…</a></h4>
+      <p>Import WorkBuddy accounts into DeepSeek Harness as model providers: one route per account, full model list, per-account credit balance, and an automatic workaround for the gateway 11128 channel check.</p>
+      <span class="src">GitHub Trending</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://github.com/GF007/game-rebuild-kit">GF007/game-rebuild-kit: AI-assisted game analysis and reconstruction, working toward one-click workflows for any game.</a></h4>
+      <p>AI-assisted game analysis and reconstruction, working toward one-click workflows for any game.</p>
+      <span class="src">GitHub Trending</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://github.com/byttrade/bytx-skills">byttrade/bytx-skills: Crypto trading skills for AI assistants on bytx: MCP server + CLI + Claude skills. Paper by default, never without your yes.</a></h4>
+      <p>Crypto trading skills for AI assistants on bytx: MCP server + CLI + Claude skills. Paper by default, never without your yes.</p>
+      <span class="src">GitHub Trending</span>
+    </div>
+    
+    <div class="card">
+      <h4><a href="https://github.com/Echoxiawan/Astra">Echoxiawan/Astra: Astra: open-source AI mobile UI automation testing. Write natural-language test cases, run them with AI on real Android/iOS devices via Appium, and generate standalone pytest +…</a></h4>
+      <p>Astra: open-source AI mobile UI automation testing. Write natural-language test cases, run them with AI on real Android/iOS devices via Appium, and generate standalone pytest + Appium scripts. 用自然语言写移动端测试用例，AI 在 Android / iOS 真机上执行，跑通后生成可独立运行的 pytest + Appium 脚本。</p>
+      <span class="src">GitHub Trending</span>
+    </div>
+    
+  
+
+  
+
+  <footer>
+    Generated 2026-11-24T00:06+00:00 UTC
+    
+    &middot; <a href="../index.html">all reports</a>
+  </footer>
+</div>
+</body>
+</html>
