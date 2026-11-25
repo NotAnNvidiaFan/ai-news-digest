@@ -1,0 +1,217 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+   "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+   "why_it_matters": "",
+   "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+   "source": "TechCrunch AI"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Spending 35B Opus 5.5 Tokens to Write a Symphony",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50646662",
+     "url": "https://danprice.ai/blog/opus-symphony",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "The polynomial Hirsch conjecture is false [pdf]",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50644980",
+     "url": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "New York bans AI toys, including those using internet to talk to children",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50644909",
+     "url": "https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Investigating degraded experiences across GitHub products",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50643720",
+     "url": "https://www.githubstatus.com/incidents/qn8mfv6q5hlx",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "In C++, = default and {} are not the same constructor",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50643199",
+     "url": "https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50642086",
+     "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50641171",
+     "url": "https://github.com/xoxorwr/pw-loudness-eq",
+     "source": "Hacker News"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+     "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+     "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Jensen Huang broke Nvidia\u2019s code of conduct, and his employees may not forget it",
+     "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+     "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Anthropic\u2019s Dario Amodei calls accusations of surrendering human control to AI \u2018absurd\u2019",
+     "summary": "Anthropic CEO Dario Amodei pushes back against rivals\u2019 accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+     "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Where scientists draw the line on AI agents",
+     "summary": "",
+     "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+     "source": "Hugging Face Blog"
+    },
+    {
+     "headline": "Want to buy your kid an AI toy this Christmas? Not in New York",
+     "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
+     "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "FCC signs off on SpaceX\u2019s plan to put up to 1 million data center satellites into space",
+     "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin,\u2026",
+     "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Character.AI\u2019s plan to auction off users\u2019 private chats challenged by state AGs",
+     "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
+     "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Ars Live recap: Don\u2019t expect military attacks on data centers to stop",
+     "summary": "Militaries have many reasons to target data centers and the cloud in wartime.",
+     "url": "https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Nothing offers a full look at its AI earbuds and charging case",
+     "summary": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations. Like the Ear 3, the Ear Note's microphone-equipped case\u2026",
+     "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+     "summary": "\u2060Nvidia has made clear\u2060 it won\u2019t backstop an AI data center until it\u2019s nearly ready to run, and that\u2019s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power, and a finished building matter more than a pitch deck. \u2060Anita\u2026",
+     "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Amazon is reportedly in talks to end Muse AI shopping block",
+     "summary": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent recommends and the potential impact on the ecommerce giant's\u2026",
+     "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+     "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+     "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Has vibe coding made open source the new normal for synths?",
+     "summary": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies scrambling to figure out how to respond. While some, like Roland, have remained silent for now, others have embraced the modding community. In the last\u2026",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+     "source": "The Verge AI"
+    },
+    {
+     "headline": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+     "summary": "The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurances.",
+     "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "AI may soon change what it means to be a theoretical physicist",
+     "summary": "Frontier AI is already solving problems that once took top physicists a full day.",
+     "url": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/",
+     "source": "Ars Technica AI"
+    },
+    {
+     "headline": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
+     "summary": "The \u201chardest remaining problem in classical physics\u201d gets a boost from terabytes of crowdsourced data and new ways of using machine learning and AI.",
+     "url": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "An Indic Voice Agent with CUGA",
+     "summary": "",
+     "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+     "source": "Hugging Face Blog"
+    },
+    {
+     "headline": "AI is straining America\u2019s open records systems",
+     "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town\u2019s zoning supervisor and presiding elections officer. During morning office hours at the town hall\u2014a wood-frame structure built as a church in\u2026",
+     "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+     "source": "MIT Tech Review AI"
+    }
+   ],
+   "influencer_takes": [],
+   "research_radar": [
+    {
+     "headline": "tDupuis19341/claude-session-rotator: Claude Code Unlimited \u2014 claude-code and llm in one tool.",
+     "summary": "Claude Code Unlimited \u2014 claude-code and llm in one tool.",
+     "url": "https://github.com/tDupuis19341/claude-session-rotator",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "AI in research",
+     "summary": "We found that recent frontier models are now consistently proposing research designs that human and LLM graders alike judge more compelling than what the very top expert in the field has been developing. Yet these outstanding AI research designs are still often in service of new research questions\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/ai-in-research.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-in-research",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Wednesday assorted links",
+     "summary": "1. Macrohistory in six facts. 2. Patrick Collison on Tocqueville. 3. The minimum wage: current vs. lifetime perspectives. By Francisco Libano-Monteiro, on the economics job market from LSE. 4. Kurt Rosenwinkel, Ruby My Dear. 5. Profile of Perry Mehrling. 6. The jagged frontier. The post Wednesday\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/wednesday-assorted-links-581.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-581",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "How did the United States become a lawyerly society?",
+     "summary": "Between 1970 and 1990 the U.S. legal services industry underwent a dramatic demand shift. Its employment share more than doubled and the relative wages of lawyers rose by 60%, in contrast to stability before and after. We attribute this shift to three related changes in the legal environment: a\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/how-did-the-united-states-become-a-lawyerly-society.html?utm_source=rss&utm_medium=rss&utm_campaign=how-did-the-united-states-become-a-lawyerly-society",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "alesha-pro/llm.asm: Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero\u2026",
+     "summary": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
+     "url": "https://github.com/alesha-pro/llm.asm",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "matheusmongarde/garimpo: Prospec\u00e7\u00e3o open source do Google Maps ao Pix: acha neg\u00f3cios no Maps, gera um site-pr\u00e9via com o nome de cada um, conversa no WhatsApp e cobra por Pix, Mercado Pago ou Stripe.\u2026",
+     "summary": "Prospec\u00e7\u00e3o open source do Google Maps ao Pix: acha neg\u00f3cios no Maps, gera um site-pr\u00e9via com o nome de cada um, conversa no WhatsApp e cobra por Pix, Mercado Pago ou Stripe. Pagou, fecha sozinho. Roda no seu PC, VPS ou Vercel, com API para agentes (Claude Code, Codex, n8n).",
+     "url": "https://github.com/matheusmongarde/garimpo",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-11-25T21:50+00:00",
+  "window_start": "2026-11-25T08:52+00:00",
+  "window_end": "2026-11-25T21:50+00:00",
+  "candidate_count": 31,
+  "model": "free (no LLM)"
+ }
+}
