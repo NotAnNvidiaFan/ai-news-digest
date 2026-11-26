@@ -1,0 +1,181 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Nvidia hits pause on chip shipments to Southeast Asia",
+   "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+   "why_it_matters": "",
+   "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+   "source": "TechCrunch AI"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "The USA as a Civilizations-esque map",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50658997",
+     "url": "https://karpathy.ai/usaciv/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Rvoip 0.5 the complete VoIP stack in Rust",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50658632",
+     "url": "https://github.com/eisenzopf/rvoip",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Show HN: Fuck_data_brokers.py",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50658191",
+     "url": "https://github.com/gary23w/f-ck_data_brokers",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Notion's official MCP inject hidden upsell instructions into agent context",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50658093",
+     "url": "https://www.reddit.com/r/ClaudeCode/comments/1y4qm5o/heads_up_if_you_wire_notions_official_mcp_into/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Ask HN: How do you find meaning of life at 41?",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50657957",
+     "url": "https://news.ycombinator.com/item?id=50657957",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "YouTube Ad Punisher \u2013 Auto-reloads YouTube pages when an ad plays",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50657530",
+     "url": "https://github.com/antonpictures/youtube-punisher",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Tracking Diseases Cured by AI",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50657307",
+     "url": "https://diseasescuredbyai.com/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "AMD Specific Patches for Llama.cpp",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50657265",
+     "url": "https://devnull.land/amd-specific-llama-cpp",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "NP_R \u2260 PAR_R",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50657059",
+     "url": "https://github.com/samueleverett01/bss-permanent-separations",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Ask HN: Any courses/products by indie makers worth getting today?",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50656763",
+     "url": "https://news.ycombinator.com/item?id=50656763",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50656036",
+     "url": "https://michidk.github.io/sidebyside/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Intel One Mono font (2023)",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50653667",
+     "url": "https://github.com/intel/intel-one-mono",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50653477",
+     "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+     "source": "Hacker News"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "Nvidia hits pause on chip shipments to Southeast Asia",
+     "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+     "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Grand Theft Auto VI proves why efficiency isn\u2019t a virtue",
+     "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+     "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+     "source": "TechCrunch AI"
+    },
+    {
+     "headline": "Come for the Games, Stay for the Community With GeForce NOW",
+     "summary": "Good games bring people together. This GFN Thursday, GeForce NOW is celebrating the members, creators and community moderators who turn every session into something worth sharing. From friendships formed in online lobbies to new worlds explored on everyday devices, GeForce NOW Ambassadors share\u2026",
+     "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-community-war-thunder-reward/",
+     "source": "NVIDIA Blog"
+    },
+    {
+     "headline": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+     "summary": "",
+     "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+     "source": "Hugging Face Blog"
+    },
+    {
+     "headline": "Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains",
+     "summary": "The FCA warned against \u201canother force of attack\u201d from agents after the company declined a request to work on joint testing ahead of rolling out its personal agent in the UK on Tuesday.",
+     "url": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
+     "source": "Wired AI"
+    },
+    {
+     "headline": "42 state AGs are trying to stop Character.AI from selling users\u2019 chats",
+     "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off \"the private chat histories of\u2026",
+     "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+     "source": "The Verge AI"
+    }
+   ],
+   "influencer_takes": [],
+   "research_radar": [
+    {
+     "headline": "HumanFish \u2014 Predicting Who Actually Wins a Human Chess Game",
+     "summary": "The eval bar on a chess broadcast answers the wrong question. It tells you what happens if two 3600-Elo engines play perfectly with infinite time. What you actually want to know while watching humans play is: who is going to win from here, how likely is a draw, and why? HumanFish is an open hybrid\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/humanfish-predicting-who-actually-wins-a-human-chess-game.html?utm_source=rss&utm_medium=rss&utm_campaign=humanfish-predicting-who-actually-wins-a-human-chess-game",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Thanksgiving assorted links",
+     "summary": "1. What is Rockabilly? (short video) 2. What is the plan to grow Chicago? 3. On Chinese clinical trials. 4. The economy is booming. 5. Seb Krier, on Pinker. 6. At least one attempt at asteroid deflection succeeded. 7. Progress in green cement production? The post Thanksgiving assorted links\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/thanksgiving-assorted-links-6.html?utm_source=rss&utm_medium=rss&utm_campaign=thanksgiving-assorted-links-6",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Quoting Jack Despain Zhou",
+     "summary": "Among the many already existing effects of AI has been a great de-individualization. I open a YouTube video, and I hear Claude. I sit in a conference presentation, and I hear Claude. I open my email inbox, and I find pitches and articles from ostensibly serious people with ostensibly serious\u2026",
+     "url": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "What we are grateful for",
+     "summary": "Here is The Free Press symposium. Here is an excerpt from my piece, which has a chance of turning out to be prescient by a day: Since I was born in 1962, what has been the biggest fundamental theoretical breakthrough? We put a man on the moon and built the internet, but what about on [\u2026] The post\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/what-we-are-grateful-for.html?utm_source=rss&utm_medium=rss&utm_campaign=what-we-are-grateful-for",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "Five Facts About Stablecoins",
+     "summary": "We document five facts about payment stablecoins using wallet-level blockchain data from 2020 to 2025. First, stablecoins serve as a transaction currency: onchain volume exceeds Bitcoin\u2019s despite a much smaller supply, velocity has risen sharply, and transactions have shifted toward low-value\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/five-facts-about-stablecoins.html?utm_source=rss&utm_medium=rss&utm_campaign=five-facts-about-stablecoins",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "nexu-io/opengame: The Super Game Agent \u2014 the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game\u2026",
+     "summary": "The Super Game Agent \u2014 the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.",
+     "url": "https://github.com/nexu-io/opengame",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-11-26T21:44+00:00",
+  "window_start": "2026-11-26T08:38+00:00",
+  "window_end": "2026-11-26T21:44+00:00",
+  "candidate_count": 25,
+  "model": "free (no LLM)"
+ }
+}
