@@ -1,0 +1,123 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "A New Breed of Chip Runs AI Models Using Waves of Light",
+   "summary": "German company Q.ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations.",
+   "why_it_matters": "",
+   "url": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
+   "source": "Wired AI"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "The group chat where your AI talks behind your back",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50663595",
+     "url": "https://construct22.com/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "\"What's Claude's Fursona?\" and Other Questions",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50662933",
+     "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "New AI research suggests AI bubble bursting and to expect major market collapse",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50662153",
+     "url": "https://www.london.edu/think/ai-bubble-about-to-burst",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Hard Drive pricing has gotten bad",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50661646",
+     "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "AI agents now control part of DeepMind's compute for Gemini experiments",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50661218",
+     "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "AI made self-hosting fun again",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50660180",
+     "url": "https://janlukas.blog/posts/ai-self-hosting",
+     "source": "Hacker News"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "A New Breed of Chip Runs AI Models Using Waves of Light",
+     "summary": "German company Q.ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations.",
+     "url": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
+     "source": "Wired AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "We have the ability to cheaply provide the equivalent of very good personalized human help in any language to anyone with a cellphone. This suggests some wicked problems in education, healthcare, development, etc. might now be tractable. I don't see enough ambition to solve them",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3n3b62phpek2b"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "My podcast with Hasan",
+     "summary": "Excellent questions, mostly fresh material, and interesting throughout. Here is the basic info: Watch on Substack or YouTube Listen on Apple Podcasts or Spotify Read the full transcript on Substack Here is one excerpt: Hazn: I\u2019ve been thinking a lot of how to categorize your thinking. And I think,\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/my-podcast-with-hasan.html?utm_source=rss&utm_medium=rss&utm_campaign=my-podcast-with-hasan",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "How Clay Builds GTM Agents \u2014 Jeff Barg, Head of AI",
+     "summary": "How $1,500 could qualify every company in the world, why customers hate the model selector, and how Clay is building go-to-market infrastructure for every agent",
+     "url": "https://latent.space/p/how-clay-builds-gtm-agents-jeff-barg-head-of-ai/",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "langchain-samples/Persistent-Agent: Persistent Agent is a proactive, always-on, goal-oriented agent. Think Muse or Instinct, but for the enterprise. Comes with memory, browser use, hundreds of\u2026",
+     "summary": "Persistent Agent is a proactive, always-on, goal-oriented agent. Think Muse or Instinct, but for the enterprise. Comes with memory, browser use, hundreds of tools, and proactive playbooks it can run in the background to take work off your plate. Built on Managed Deep Agents (MDA).",
+     "url": "https://github.com/langchain-samples/Persistent-Agent",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "sthamann/awesome-agentic-commerce: Curated and updated daily: agentic commerce protocols (UCP, ACP, AP2, MCP, x402), SDKs, payment providers, open source implementations and the latest news.",
+     "summary": "Curated and updated daily: agentic commerce protocols (UCP, ACP, AP2, MCP, x402), SDKs, payment providers, open source implementations and the latest news.",
+     "url": "https://github.com/sthamann/awesome-agentic-commerce",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "HorizonWind2004/i2v-transfer: Improving and Expanding Video Editing Capabilities Without Videos",
+     "summary": "Improving and Expanding Video Editing Capabilities Without Videos",
+     "url": "https://github.com/HorizonWind2004/i2v-transfer",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "duzhenxun/pop-agent: PopAgent local web UI for your coding agents: watch the reasoning stream, cut in with a correction mid-turn, manage models and tools. Works with pi, Codex, Claude Code, OpenCode\u2026",
+     "summary": "PopAgent local web UI for your coding agents: watch the reasoning stream, cut in with a correction mid-turn, manage models and tools. Works with pi, Codex, Claude Code, OpenCode and DSH. Sessions stay the engine's own files \u2014 no database, no account.",
+     "url": "https://github.com/duzhenxun/pop-agent",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "enwove/flyx: Zero-dependency local LLM inference engine in a ~50 MB binary \u2014 native long context, tuned per GPU, built-in speculative decoding and web dashboard.",
+     "summary": "Zero-dependency local LLM inference engine in a ~50 MB binary \u2014 native long context, tuned per GPU, built-in speculative decoding and web dashboard.",
+     "url": "https://github.com/enwove/flyx",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-11-27T08:49+00:00",
+  "window_start": "2026-11-26T21:44+00:00",
+  "window_end": "2026-11-27T08:49+00:00",
+  "candidate_count": 15,
+  "model": "free (no LLM)"
+ }
+}
