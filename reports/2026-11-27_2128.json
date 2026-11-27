@@ -1,0 +1,153 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+   "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50670855",
+   "why_it_matters": "",
+   "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+   "source": "Hacker News"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50670855",
+     "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Convex skills send the user's app idea to a remote server without telling them",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50669765",
+     "url": "https://github.com/convex/convex-backend-skill/issues/64",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Show HN: DragDropMath \u2013 Learn math by feel",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50669673",
+     "url": "https://dragdropmath.com/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "I'm Scared of AI",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50669561",
+     "url": "https://thesoapbox.email/archive/3",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "GPT 6.2 Astra solves a historical mystery",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50667744",
+     "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Show HN: bouncemarket \u2013 a live prediction market game for a bouncing ball",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50667726",
+     "url": "https://bouncemarket.minhanhday.com/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "US Air Force's cloud computing platform hacked",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50666375",
+     "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "New York and California age gating rules go into effect in the new year",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50666279",
+     "url": "https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Kimi for Science: More scientific ideas, made possible",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50665920",
+     "url": "https://www.kimi.ai/news/kimi-for-science-program",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Hackers breach US Air Force flagship Cloud One computing platform",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50665811",
+     "url": "https://www.reuters.com/world/hackers-breach-us-air-force-flagship-cloud-one-computing-platform-2026-11-27/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "AI on brink of making online security useless, mathematicians fear",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50665488",
+     "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+     "source": "Hacker News"
+    }
+   ],
+   "frontier_labs": [
+    {
+     "headline": "This ER Doctor Became a Hospital\u2019s First Clinical AI Engineer",
+     "summary": "When Boston Children\u2019s Hospital posted a job listing for a prompt engineer in 2023, Dinesh Rai decided to apply. He didn\u2019t expect to get the job. At the time, prompt engineering was being touted as one of the hot new jobs created by generative AI. Companies wanted people who knew how to coax the\u2026",
+     "url": "https://spectrum.ieee.org/clinical-ai-engineer-dinesh-rai",
+     "source": "IEEE Spectrum AI"
+    },
+    {
+     "headline": "Android\u2019s DIY widgets are a bit of vibe-coding fun",
+     "summary": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for the bus stop near my house. Tapping around on my phone screen to open the right app and [\u2026]",
+     "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+     "source": "The Verge AI"
+    }
+   ],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @natolambert.bsky.social",
+     "handle": "",
+     "quote": "Black Friday / holiday gift ideas for ai nerds in your life: - Mac Studio with ultra chip - Apple Vision Pro so their honeypot girlfriend can\u2019t steal trade secrets - RLHF book to look like they know math - cute puppy to make them touch grass - interconnects subscription & merch - bunker in Wyoming",
+     "context": "",
+     "url": "https://bsky.app/profile/natolambert.bsky.social/post/3n3cmxi5tru2o"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Friday assorted links",
+     "summary": "1. Handbook of Blockchain and Society (open access). 2. Interview with Lars Peter Hansen. 3. A behavioral cost of living index, by Hubert Wu, on the job market from Oxford. 4. Cracking the Indus civilization script? 5. Luis Garicano on messy jobs (NYT). 6. Public platform with open math problems.\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/friday-assorted-links-601.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-601",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "I don\u2019t expect superposition in transformer MLP neurons",
+     "summary": "I currently believe that in a typical (well trained and under-parametrized) transformer model, there is something like superposition-type compression in the residual stream, but not in the MLP neurons. By \"superposition-type compression\", I mean some way of storing extra features using the fact\u2026",
+     "url": "https://www.alignmentforum.org/posts/o9dPGxEbpQrnasgDB/i-don-t-expect-superposition-in-transformer-mlp-neurons",
+     "source": "Alignment Forum"
+    },
+    {
+     "headline": "India is on the Move",
+     "summary": "When people talk about India\u2019s economy, they almost always compare it negatively with China\u2019s, it has not industrialized as fast, its bureaucracy is still maddening, its cities are still choked with traffic and smog. All true. But if you step back one of the greatest stories of the twenty-first\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/india-is-on-the-move.html?utm_source=rss&utm_medium=rss&utm_campaign=india-is-on-the-move",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "The mental illness theory of politics is modestly underrated",
+     "summary": "Using a large national panel dataset, we find that receiving counseling from mental health professionals decreases the likelihood of protesting in subsequent weeks by 34%\u201339%. Experimental results are broadly consistent with observational findings. In a field experiment, mental health outreach\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/the-mental-illness-theory-of-politics-is-modestly-underrated.html?utm_source=rss&utm_medium=rss&utm_campaign=the-mental-illness-theory-of-politics-is-modestly-underrated",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "AetherLabsAI/GameAnything: Turn anything your like (photos, videos, novels, films, memories) into worlds you can play in games you love. Coding agents (Claude Code, Codex, Gemini CLI, OpenCode\u2026)\u2026",
+     "summary": "Turn anything your like (photos, videos, novels, films, memories) into worlds you can play in games you love. Coding agents (Claude Code, Codex, Gemini CLI, OpenCode\u2026) build, playtest and refine the mod while you just chat.",
+     "url": "https://github.com/AetherLabsAI/GameAnything",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "DeadInternetStudios/100x-engineer-skill: 100x is a skill by a former Cursor engineer that turns prompts into formally verified, production-ready code",
+     "summary": "100x is a skill by a former Cursor engineer that turns prompts into formally verified, production-ready code",
+     "url": "https://github.com/DeadInternetStudios/100x-engineer-skill",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-11-27T21:28+00:00",
+  "window_start": "2026-11-27T08:49+00:00",
+  "window_end": "2026-11-27T21:28+00:00",
+  "candidate_count": 20,
+  "model": "free (no LLM)"
+ }
+}
