@@ -1,0 +1,135 @@
+{
+ "digest": {
+  "overview": "Free-mode digest: candidates grouped by type (LLM synthesis disabled).",
+  "quiet_window": false,
+  "top_story": {
+   "headline": "Disempowerment vs. net disempowerment",
+   "summary": "Here was my prompt: There are many discussions of \u201cdisempowerment\u201d as a result of strong AI, and of whether humans \u201close control\u201d or agency. Do any of these discussions offer specific, detailed comparisons of how strong AI also may empower humans? Do they have any specific consideration, working\u2026",
+   "why_it_matters": "",
+   "url": "https://marginalrevolution.com/marginalrevolution/2026/11/disempowerment-vs-net-disempowerment.html?utm_source=rss&utm_medium=rss&utm_campaign=disempowerment-vs-net-disempowerment",
+   "source": "Marginal Revolution"
+  },
+  "sentiment": null,
+  "sections": {
+   "model_releases": [
+    {
+     "headline": "Claude silently added rules to ignore users skintone preferences in our app",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50674489",
+     "url": "https://twitter.com/jakozloski/status/2126281598517576049",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Woman evicted after landlord's AI assistant told her she could delay rent",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50673521",
+     "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "Source Control from Hell",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50672142",
+     "url": "https://frantic.im/git/",
+     "source": "Hacker News"
+    },
+    {
+     "headline": "9/UX: a Macintosh-inspired desktop for 9front",
+     "summary": "Hacker News discussion: https://news.ycombinator.com/item?id=50672008",
+     "url": "https://progrium.github.io/9ux/",
+     "source": "Hacker News"
+    }
+   ],
+   "frontier_labs": [],
+   "influencer_takes": [
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "Outside of whatever is happening in cryptography, I suspect we are going to see more cases where AI progress in seemingly abstract fields has implications for vital technologies that most people did not realize are related.",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3n3dqyr6nnc2b"
+    },
+    {
+     "author": "Bluesky @emollick.bsky.social",
+     "handle": "",
+     "quote": "Gemini 4 Neon one-shots a novel RPG rulebook that is nicely laid-out and illustrated, and with a unique game mechanic... ...but it is about drowned bell towers and echoes and an ancient cataclysm and strange resonances. Just like most other RPG ideas from most other models. Odd attractor, that.",
+     "context": "",
+     "url": "https://bsky.app/profile/emollick.bsky.social/post/3n3djifx6fk2b"
+    }
+   ],
+   "research_radar": [
+    {
+     "headline": "Disempowerment vs. net disempowerment",
+     "summary": "Here was my prompt: There are many discussions of \u201cdisempowerment\u201d as a result of strong AI, and of whether humans \u201close control\u201d or agency. Do any of these discussions offer specific, detailed comparisons of how strong AI also may empower humans? Do they have any specific consideration, working\u2026",
+     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/disempowerment-vs-net-disempowerment.html?utm_source=rss&utm_medium=rss&utm_campaign=disempowerment-vs-net-disempowerment",
+     "source": "Marginal Revolution"
+    },
+    {
+     "headline": "[AINews] Inside the exploding Coding Data Market",
+     "summary": "November 27, 2026 \u2014 How frontier labs buy training data.",
+     "url": "https://latent.space/p/ainews-inside-the-exploding-coding-data-market/",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "datasette-charts 0.4a0",
+     "summary": "Release: datasette-charts 0.4a0 The new datasette-charts plugin has its own plugin hook to allow other plugins to define new chart types, but I hadn't actually used it for anything yet. I had Claude Opus 5.5 build an experimental plugins just to try out the hook and it came up with a bunch of\u2026",
+     "url": "https://simonwillison.net/2026/Nov/27/datasette-charts/",
+     "source": "Simon Willison"
+    },
+    {
+     "headline": "Inside the AI Training Data Market \u2014 Gabe Greenberg, G2i",
+     "summary": "A frontier lab can pay more for training data it gets to keep exclusive, or take a discount on data another lab can buy too. At AI Engineer CODE, G2i founder Gabe Greenberg tells swyx how labs make that decision, how small pilot orders turn into bigger...",
+     "url": "https://latent.space/p/inside_the_ai_training_data_market_gabe_greenberg_g2i/",
+     "source": "Latent Space"
+    },
+    {
+     "headline": "Ndarrr07/pro-llm-api-hub: Pro LLM API Hub: Structured Dataset of Large Language Model Interfaces",
+     "summary": "Pro LLM API Hub: Structured Dataset of Large Language Model Interfaces",
+     "url": "https://github.com/Ndarrr07/pro-llm-api-hub",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "titisseptian-SS/omniroute-explorer: OmniRoute Explorer: Lightweight, Open-Access Routing Tool",
+     "summary": "OmniRoute Explorer: Lightweight, Open-Access Routing Tool",
+     "url": "https://github.com/titisseptian-SS/omniroute-explorer",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "Birubhai1964/interview-copilot: Interview Copilot: EdTech Platform Connecting Learning to Your Dream Career",
+     "summary": "Interview Copilot: EdTech Platform Connecting Learning to Your Dream Career",
+     "url": "https://github.com/Birubhai1964/interview-copilot",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "thebodytheory01-commits/final-round-ai-desktop: Final Round AI Desktop: Real-Time Interview Coaching, Speech Transcription, and Response Suggestions",
+     "summary": "Final Round AI Desktop: Real-Time Interview Coaching, Speech Transcription, and Response Suggestions",
+     "url": "https://github.com/thebodytheory01-commits/final-round-ai-desktop",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "1lamech/ai-image-generator-prompts: AI Image Generator Prompts: Openly Available Prompt Corpus for Methodical Evaluation",
+     "summary": "AI Image Generator Prompts: Openly Available Prompt Corpus for Methodical Evaluation",
+     "url": "https://github.com/1lamech/ai-image-generator-prompts",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "SenpaiSpide664/ai-visual-prompt-cookbook: AI Visual Prompt Cookbook: Reusable JSON Style Prompts for Consistent Image Generation",
+     "summary": "AI Visual Prompt Cookbook: Reusable JSON Style Prompts for Consistent Image Generation",
+     "url": "https://github.com/SenpaiSpide664/ai-visual-prompt-cookbook",
+     "source": "GitHub Trending"
+    },
+    {
+     "headline": "clipy-recorder/clipy: The AI-native screen recorder. Record your screen and talk; the people you share it with and your AI agents both get it.",
+     "summary": "The AI-native screen recorder. Record your screen and talk; the people you share it with and your AI agents both get it.",
+     "url": "https://github.com/clipy-recorder/clipy",
+     "source": "GitHub Trending"
+    }
+   ]
+  },
+  "raw_mode": true
+ },
+ "meta": {
+  "generated_at": "2026-11-28T08:07+00:00",
+  "window_start": "2026-11-27T21:28+00:00",
+  "window_end": "2026-11-28T08:07+00:00",
+  "candidate_count": 17,
+  "model": "free (no LLM)"
+ }
+}
